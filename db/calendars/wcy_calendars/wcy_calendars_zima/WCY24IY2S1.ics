@@ -5537,7 +5537,7 @@ BEGIN:VEVENT
 DTSTART:20260916T094000Z
 DTEND:20260916T111500Z
 SUMMARY:PO (Inne)
-LOCATION:252 S
+LOCATION:237 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
@@ -5546,6 +5546,13 @@ DTEND:20260917T111500Z
 SUMMARY:IO (Inne)
 LOCATION:316 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260918T075000Z
+DTEND:20260918T092500Z
+SUMMARY:Pw (Inne)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260919T060000Z

@@ -5296,6 +5296,13 @@ LOCATION:313 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260915T094000Z
+DTEND:20260915T111500Z
+SUMMARY:MM (Inne)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260916T060000Z
 DTEND:20260916T073500Z
 SUMMARY:Sck (Inne)
@@ -5321,6 +5328,6 @@ DTSTART:20260921T094000Z
 DTEND:20260921T111500Z
 SUMMARY:MM (Inne)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 END:VCALENDAR

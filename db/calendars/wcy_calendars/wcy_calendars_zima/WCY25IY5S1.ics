@@ -3448,6 +3448,20 @@ LOCATION:314 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260921T094000Z
+DTEND:20260921T111500Z
+SUMMARY:ppk (Inne)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260921T113000Z
+DTEND:20260921T130500Z
+SUMMARY:ppk (Inne)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260922T075000Z
 DTEND:20260922T092500Z
 SUMMARY:F1 (Inne)
@@ -3466,6 +3480,6 @@ DTSTART:20260923T094000Z
 DTEND:20260923T111500Z
 SUMMARY:ppk (Inne)
 LOCATION:316 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 END:VCALENDAR

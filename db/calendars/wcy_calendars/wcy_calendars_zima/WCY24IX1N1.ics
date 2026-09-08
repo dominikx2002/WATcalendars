@@ -3704,7 +3704,7 @@ DTSTART:20260705T075000Z
 DTEND:20260705T092500Z
 SUMMARY:PO (Inne)
 LOCATION:314 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260705T113000Z
@@ -3721,11 +3721,25 @@ LOCATION:120 65 121 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260919T075000Z
+DTEND:20260919T092500Z
+SUMMARY:Pw (Inne)
+LOCATION:223 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260919T094000Z
 DTEND:20260919T111500Z
 SUMMARY:IO (Inne)
 LOCATION:308 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260920T075000Z
+DTEND:20260920T092500Z
+SUMMARY:PO (Inne)
+LOCATION:307 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260920T094000Z

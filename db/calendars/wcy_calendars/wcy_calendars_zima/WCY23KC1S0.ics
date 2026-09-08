@@ -2353,6 +2353,20 @@ DTSTART:20260930T060000Z
 DTEND:20260930T073500Z
 SUMMARY:Est (Inne)
 LOCATION:121 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T075000Z
+DTEND:20260930T092500Z
+SUMMARY:Est (Inne)
+LOCATION:121 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T094000Z
+DTEND:20260930T111500Z
+SUMMARY:Est (Inne)
+LOCATION:121 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 END:VCALENDAR

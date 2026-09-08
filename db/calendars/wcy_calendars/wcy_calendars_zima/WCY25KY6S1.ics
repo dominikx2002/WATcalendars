@@ -3532,6 +3532,13 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260918T060000Z
+DTEND:20260918T073500Z
+SUMMARY:Amt (Inne)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Stanisław Zoń
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260918T094000Z
 DTEND:20260918T111500Z
 SUMMARY:Tgs (Inne)
@@ -3543,7 +3550,7 @@ DTSTART:20260921T060000Z
 DTEND:20260921T073500Z
 SUMMARY:Amt (Inne)
 LOCATION:203 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260921T075000Z
@@ -3551,6 +3558,20 @@ DTEND:20260921T092500Z
 SUMMARY:Rp (Inne)
 LOCATION:314 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260921T094000Z
+DTEND:20260921T111500Z
+SUMMARY:ppk (Inne)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260921T113000Z
+DTEND:20260921T130500Z
+SUMMARY:ppk (Inne)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260922T075000Z
@@ -3571,6 +3592,6 @@ DTSTART:20260923T113000Z
 DTEND:20260923T130500Z
 SUMMARY:ppk (Inne)
 LOCATION:316 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 END:VCALENDAR

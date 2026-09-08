@@ -3423,7 +3423,7 @@ BEGIN:VEVENT
 DTSTART:20260914T060000Z
 DTEND:20260914T073500Z
 SUMMARY:WdP (Inne)
-LOCATION:252 S
+LOCATION:237 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Sławomir Wysocki
 END:VEVENT
 BEGIN:VEVENT
@@ -3476,6 +3476,20 @@ LOCATION:314 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260921T094000Z
+DTEND:20260921T111500Z
+SUMMARY:ppk (Inne)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260921T113000Z
+DTEND:20260921T130500Z
+SUMMARY:ppk (Inne)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260922T075000Z
 DTEND:20260922T092500Z
 SUMMARY:F1 (Inne)
@@ -3494,6 +3508,6 @@ DTSTART:20260923T113000Z
 DTEND:20260923T130500Z
 SUMMARY:ppk (Inne)
 LOCATION:316 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 END:VCALENDAR
