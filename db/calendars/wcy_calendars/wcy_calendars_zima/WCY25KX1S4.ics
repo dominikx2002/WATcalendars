@@ -1191,7 +1191,21 @@ DTSTART:20260915T075000Z
 DTEND:20260915T092500Z
 SUMMARY:Dtu (Inne)
 LOCATION:106 65
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260917T094000Z
+DTEND:20260917T111500Z
+SUMMARY:Ps (Inne)
+LOCATION:203 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260917T113000Z
+DTEND:20260917T130500Z
+SUMMARY:Ps (Inne)
+LOCATION:203 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260921T075000Z
@@ -1205,6 +1219,13 @@ DTSTART:20260922T075000Z
 DTEND:20260922T092500Z
 SUMMARY:Dtu (Inne)
 LOCATION:203 65
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T075000Z
+DTEND:20261020T092500Z
+SUMMARY:Dtu (Inne)
+LOCATION:106 65
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 END:VCALENDAR
