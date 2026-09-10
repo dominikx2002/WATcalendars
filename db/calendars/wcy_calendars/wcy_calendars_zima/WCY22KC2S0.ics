@@ -7375,6 +7375,13 @@ LOCATION:106 65
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261104T165000Z
+DTEND:20261104T182500Z
+SUMMARY:Wf_E (E)
+LOCATION:-
+DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
 SUMMARY:Dtu (P)
@@ -7900,6 +7907,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 116/130\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261208T123000Z
+DTEND:20261208T140500Z
+SUMMARY:Dtu (P)
+LOCATION:218 65
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 5/8\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T150000Z
+DTEND:20261208T163500Z
+SUMMARY:Dtu (P)
+LOCATION:218 65
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 6/8\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T150000Z
 DTEND:20261209T163500Z
 SUMMARY:PCB (P)
@@ -8059,20 +8080,6 @@ DTEND:20261216T182500Z
 SUMMARY:BsIP (P)
 LOCATION:125 65
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
-SUMMARY:Dtu (P)
-LOCATION:239 S
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 5/8\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T085000Z
-DTEND:20261217T102500Z
-SUMMARY:Dtu (P)
-LOCATION:239 S
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 6/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z

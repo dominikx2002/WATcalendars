@@ -7102,6 +7102,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 95/130\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261015T113000Z
+DTEND:20261015T130500Z
+SUMMARY:ZBD (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T140000Z
+DTEND:20261015T153500Z
+SUMMARY:ZBD (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261016T075000Z
 DTEND:20261016T092500Z
 SUMMARY:Sr (w)
@@ -7599,11 +7613,32 @@ LOCATION:011 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261104T165000Z
+DTEND:20261104T182500Z
+SUMMARY:Wf_E (E)
+LOCATION:-
+DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 102/130\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T123000Z
+DTEND:20261105T140500Z
+SUMMARY:ZBD (L)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T150000Z
+DTEND:20261105T163500Z
+SUMMARY:ZBD (L)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T085000Z
@@ -7898,6 +7933,13 @@ DTEND:20261119T163500Z
 SUMMARY:Swp (L)
 LOCATION:011 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T070000Z
+DTEND:20261120T083500Z
+SUMMARY:ZBD (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T085000Z

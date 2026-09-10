@@ -557,6 +557,41 @@ LOCATION:316 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261211T070000Z
+DTEND:20261211T083500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T085000Z
+DTEND:20261211T102500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T104000Z
+DTEND:20261211T121500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T070000Z
+DTEND:20261216T083500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T104000Z
 DTEND:20261216T121500Z
 SUMMARY:PBI (L)
@@ -599,11 +634,46 @@ LOCATION:316 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261222T070000Z
+DTEND:20261222T083500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T085000Z
+DTEND:20261222T102500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T104000Z
+DTEND:20261222T121500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270107T070000Z
 DTEND:20270107T083500Z
 SUMMARY:Gk (w)
 LOCATION:313 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T104000Z
+DTEND:20270111T121500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T123000Z
+DTEND:20270111T140500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T123000Z
@@ -634,6 +704,20 @@ LOCATION:314 S
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270118T104000Z
+DTEND:20270118T121500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T123000Z
+DTEND:20270118T140500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270120T150000Z
 DTEND:20270120T163500Z
 SUMMARY:NET (w)
@@ -660,5 +744,19 @@ DTEND:20270121T121500Z
 SUMMARY:PBI (L)
 LOCATION:106 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/4\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270125T104000Z
+DTEND:20270125T121500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270125T123000Z
+DTEND:20270125T140500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 END:VCALENDAR

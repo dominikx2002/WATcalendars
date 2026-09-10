@@ -2139,6 +2139,13 @@ LOCATION:309 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261006T060000Z
+DTEND:20261006T073500Z
+SUMMARY:Msz (L)
+LOCATION:223 S
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261006T075000Z
 DTEND:20261006T092500Z
 SUMMARY:WF (ć)
@@ -2419,6 +2426,20 @@ LOCATION:309 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261020T060000Z
+DTEND:20261020T073500Z
+SUMMARY:Msz (L)
+LOCATION:223 S
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T075000Z
+DTEND:20261020T092500Z
+SUMMARY:Msz (L)
+LOCATION:223 S
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261020T094000Z
 DTEND:20261020T111500Z
 SUMMARY:Med (w)
@@ -2466,6 +2487,20 @@ DTEND:20261022T111500Z
 SUMMARY:Msz (w)
 LOCATION:317 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T113000Z
+DTEND:20261022T130500Z
+SUMMARY:Muma (L)
+LOCATION:226 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T140000Z
+DTEND:20261022T153500Z
+SUMMARY:Muma (L)
+LOCATION:226 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T060000Z
@@ -2620,6 +2655,20 @@ DTEND:20261029T102500Z
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 39/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T104000Z
+DTEND:20261029T121500Z
+SUMMARY:SQL (L)
+LOCATION:223 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T123000Z
+DTEND:20261029T140500Z
+SUMMARY:SQL (L)
+LOCATION:223 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T070000Z
@@ -2781,6 +2830,20 @@ DTEND:20261105T140500Z
 SUMMARY:Msz (w)
 LOCATION:314 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T150000Z
+DTEND:20261105T163500Z
+SUMMARY:Muma (L)
+LOCATION:223 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T165000Z
+DTEND:20261105T182500Z
+SUMMARY:Muma (L)
+LOCATION:223 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T070000Z
@@ -3000,6 +3063,20 @@ LOCATION:309 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261117T070000Z
+DTEND:20261117T083500Z
+SUMMARY:Msz (L)
+LOCATION:223 S
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T085000Z
+DTEND:20261117T102500Z
+SUMMARY:Msz (L)
+LOCATION:223 S
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:Mspb (w)
@@ -3047,6 +3124,20 @@ DTEND:20261119T102500Z
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 44/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T104000Z
+DTEND:20261119T121500Z
+SUMMARY:Mspb (L)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T123000Z
+DTEND:20261119T140500Z
+SUMMARY:Mspb (L)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T070000Z
@@ -3168,11 +3259,32 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 18/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261126T070000Z
+DTEND:20261126T083500Z
+SUMMARY:Mspb (L)
+LOCATION:226 S
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261126T085000Z
 DTEND:20261126T102500Z
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 46/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T104000Z
+DTEND:20261126T121500Z
+SUMMARY:Muma (L)
+LOCATION:224 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T123000Z
+DTEND:20261126T140500Z
+SUMMARY:Muma (L)
+LOCATION:224 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261127T184000Z
@@ -3243,6 +3355,20 @@ DTEND:20261203T102500Z
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 48/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T104000Z
+DTEND:20261203T121500Z
+SUMMARY:SQL (L)
+LOCATION:233 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T123000Z
+DTEND:20261203T140500Z
+SUMMARY:SQL (L)
+LOCATION:233 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T070000Z
@@ -3357,6 +3483,27 @@ LOCATION:128 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 50/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261210T104000Z
+DTEND:20261210T121500Z
+SUMMARY:Muma (L)
+LOCATION:233 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T123000Z
+DTEND:20261210T140500Z
+SUMMARY:Muma (L)
+LOCATION:233 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T150000Z
+DTEND:20261210T163500Z
+SUMMARY:Mspb (L)
+LOCATION:223 S
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261211T070000Z
 DTEND:20261211T083500Z
 SUMMARY:MPH (ć)
@@ -3469,6 +3616,13 @@ LOCATION:128 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 52/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261217T104000Z
+DTEND:20261217T121500Z
+SUMMARY:Mspb (L)
+LOCATION:236 S
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261218T070000Z
 DTEND:20261218T083500Z
 SUMMARY:wzbnim (ć)
@@ -3539,6 +3693,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 40/47\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261222T070000Z
+DTEND:20261222T083500Z
+SUMMARY:Msz (L)
+LOCATION:224 S
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T085000Z
+DTEND:20261222T102500Z
+SUMMARY:Msz (L)
+LOCATION:224 S
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261223T104000Z
 DTEND:20261223T121500Z
 SUMMARY:MPH (w)
@@ -3551,6 +3719,13 @@ DTEND:20261223T140500Z
 SUMMARY:wzbnim (ć)
 LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T070000Z
+DTEND:20270107T083500Z
+SUMMARY:Mspb (L)
+LOCATION:223 S
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T085000Z
@@ -3679,6 +3854,20 @@ LOCATION:128 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 56/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270114T104000Z
+DTEND:20270114T121500Z
+SUMMARY:SQL (L)
+LOCATION:233 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T123000Z
+DTEND:20270114T140500Z
+SUMMARY:SQL (L)
+LOCATION:233 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270115T070000Z
 DTEND:20270115T083500Z
 SUMMARY:MPH (ć)
@@ -3754,6 +3943,20 @@ DTEND:20270121T102500Z
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 58/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T104000Z
+DTEND:20270121T121500Z
+SUMMARY:Mspb (L)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T123000Z
+DTEND:20270121T140500Z
+SUMMARY:Mspb (L)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270122T070000Z
@@ -3852,6 +4055,20 @@ DTEND:20270128T102500Z
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 60/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T104000Z
+DTEND:20270128T121500Z
+SUMMARY:SQL (L)
+LOCATION:226 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T123000Z
+DTEND:20270128T140500Z
+SUMMARY:SQL (L)
+LOCATION:226 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T070000Z

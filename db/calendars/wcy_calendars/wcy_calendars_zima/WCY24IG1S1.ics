@@ -361,6 +361,20 @@ LOCATION:011 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261029T104000Z
+DTEND:20261029T121500Z
+SUMMARY:Sib (L)
+LOCATION:106 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T123000Z
+DTEND:20261029T140500Z
+SUMMARY:Sib (L)
+LOCATION:106 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T150000Z
 DTEND:20261029T163500Z
 SUMMARY:PZiP (w)
@@ -669,6 +683,20 @@ LOCATION:239 S
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261119T070000Z
+DTEND:20261119T083500Z
+SUMMARY:Sib (L)
+LOCATION:120 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T085000Z
+DTEND:20261119T102500Z
+SUMMARY:Sib (L)
+LOCATION:120 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261119T150000Z
 DTEND:20261119T163500Z
 SUMMARY:PZiP (w)
@@ -788,6 +816,20 @@ LOCATION:121 65
 DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/13\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261202T104000Z
+DTEND:20261202T121500Z
+SUMMARY:Sib (L)
+LOCATION:125 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T123000Z
+DTEND:20261202T140500Z
+SUMMARY:Sib (L)
+LOCATION:125 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261203T070000Z
 DTEND:20261203T083500Z
 SUMMARY:Gk (w)
@@ -865,6 +907,27 @@ LOCATION:316 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261210T104000Z
+DTEND:20261210T121500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T123000Z
+DTEND:20261210T140500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T150000Z
+DTEND:20261210T163500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261211T085000Z
 DTEND:20261211T102500Z
 SUMMARY:Rou (L)
@@ -921,6 +984,20 @@ LOCATION:09 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T121500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T123000Z
+DTEND:20261216T140500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T070000Z
 DTEND:20261217T083500Z
 SUMMARY:Gk (w)
@@ -947,6 +1024,41 @@ DTEND:20261217T140500Z
 SUMMARY:SoU (L)
 LOCATION:237 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/20\nProwadzący: Jakub Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T070000Z
+DTEND:20261218T083500Z
+SUMMARY:Sib (L)
+LOCATION:125 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T085000Z
+DTEND:20261218T102500Z
+SUMMARY:Sib (L)
+LOCATION:125 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T070000Z
+DTEND:20261221T083500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T085000Z
+DTEND:20261221T102500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T104000Z
+DTEND:20261221T121500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T070000Z
@@ -1012,6 +1124,20 @@ LOCATION:120 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270112T070000Z
+DTEND:20270112T083500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T085000Z
+DTEND:20270112T102500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270112T104000Z
 DTEND:20270112T121500Z
 SUMMARY:SoU (L)
@@ -1059,6 +1185,20 @@ DTEND:20270115T121500Z
 SUMMARY:Sib (w)
 LOCATION:203 65
 DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T070000Z
+DTEND:20270119T083500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T085000Z
+DTEND:20270119T102500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T104000Z
@@ -1129,6 +1269,20 @@ DTEND:20270125T140500Z
 SUMMARY:Rou (L)
 LOCATION:121 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T070000Z
+DTEND:20270126T083500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T085000Z
+DTEND:20270126T102500Z
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T104000Z

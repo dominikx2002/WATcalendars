@@ -3462,6 +3462,13 @@ LOCATION:314 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260915T113000Z
+DTEND:20260915T130500Z
+SUMMARY:Tgs (Inne)
+LOCATION:314 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260917T094000Z
 DTEND:20260917T111500Z
 SUMMARY:Md2 (Inne)
@@ -3721,6 +3728,20 @@ LOCATION:317 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261014T094000Z
+DTEND:20261014T111500Z
+SUMMARY:Aok (L)
+LOCATION:011 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T113000Z
+DTEND:20261014T130500Z
+SUMMARY:Aok (L)
+LOCATION:011 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261015T075000Z
 DTEND:20261015T092500Z
 SUMMARY:F2 (L)
@@ -3966,6 +3987,20 @@ LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261102T150000Z
+DTEND:20261102T163500Z
+SUMMARY:Aok (L)
+LOCATION:125 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T165000Z
+DTEND:20261102T182500Z
+SUMMARY:Aok (L)
+LOCATION:125 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261103T085000Z
 DTEND:20261103T102500Z
 SUMMARY:F2 (ć)
@@ -4169,6 +4204,20 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261120T085000Z
+DTEND:20261120T102500Z
+SUMMARY:Aok (L)
+LOCATION:121 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T104000Z
+DTEND:20261120T121500Z
+SUMMARY:Aok (L)
+LOCATION:121 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261123T085000Z
 DTEND:20261123T102500Z
 SUMMARY:SO (w)
@@ -4230,6 +4279,20 @@ DTEND:20261130T140500Z
 SUMMARY:F2 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T150000Z
+DTEND:20261130T163500Z
+SUMMARY:Aok (L)
+LOCATION:120 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T165000Z
+DTEND:20261130T182500Z
+SUMMARY:Aok (L)
+LOCATION:120 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/16\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
@@ -4316,6 +4379,20 @@ LOCATION:313 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261211T123000Z
+DTEND:20261211T140500Z
+SUMMARY:Aok (L)
+LOCATION:09 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T150000Z
+DTEND:20261211T163500Z
+SUMMARY:Aok (L)
+LOCATION:09 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261214T150000Z
 DTEND:20261214T163500Z
 SUMMARY:Swb (L)
@@ -4363,6 +4440,20 @@ DTEND:20261216T121500Z
 SUMMARY:SO (w)
 LOCATION:316 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T123000Z
+DTEND:20261216T140500Z
+SUMMARY:Aok (L)
+LOCATION:120 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T150000Z
+DTEND:20261216T163500Z
+SUMMARY:Aok (L)
+LOCATION:120 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T123000Z
@@ -4449,6 +4540,20 @@ LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 43/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270115T085000Z
+DTEND:20270115T102500Z
+SUMMARY:Aok (L)
+LOCATION:121 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T104000Z
+DTEND:20270115T121500Z
+SUMMARY:Aok (L)
+LOCATION:121 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270119T104000Z
 DTEND:20270119T121500Z
 SUMMARY:Ja (ć)
@@ -4503,5 +4608,19 @@ DTEND:20270127T102500Z
 SUMMARY:Als (w)
 LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T104000Z
+DTEND:20270128T121500Z
+SUMMARY:Aok (L)
+LOCATION:120 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T123000Z
+DTEND:20270128T140500Z
+SUMMARY:Aok (L)
+LOCATION:120 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/16\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 END:VCALENDAR

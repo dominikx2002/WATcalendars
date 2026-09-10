@@ -6929,23 +6929,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T140000Z
 DTEND:20261012T153500Z
-SUMMARY:DSiSM (w)
-LOCATION:22 /BIBL
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 74/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T155000Z
 DTEND:20261012T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 74/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 75/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T174000Z
 DTEND:20261012T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 75/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 76/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T075000Z
@@ -6995,6 +6995,13 @@ DTEND:20261015T130500Z
 SUMMARY:IK (w)
 LOCATION:316 S
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T060000Z
+DTEND:20261016T073500Z
+SUMMARY:DSiSM (w)
+LOCATION:AW 3/043
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T075000Z
@@ -7050,7 +7057,7 @@ DTSTART:20261019T094000Z
 DTEND:20261019T111500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 76/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 77/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T113000Z
@@ -7071,14 +7078,14 @@ DTSTART:20261019T155000Z
 DTEND:20261019T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 77/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 78/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T174000Z
 DTEND:20261019T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 78/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 79/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T075000Z
@@ -7218,14 +7225,14 @@ DTSTART:20261026T165000Z
 DTEND:20261026T182500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 79/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 80/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T184000Z
 DTEND:20261026T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 80/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 81/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T085000Z
@@ -7291,6 +7298,20 @@ LOCATION:316 S
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261029T150000Z
+DTEND:20261029T163500Z
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/14\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T165000Z
+DTEND:20261029T182500Z
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261030T070000Z
 DTEND:20261030T083500Z
 SUMMARY:PZiP (w)
@@ -7323,7 +7344,7 @@ DTSTART:20261102T070000Z
 DTEND:20261102T083500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 81/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 82/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T085000Z
@@ -7470,7 +7491,7 @@ DTSTART:20261109T123000Z
 DTEND:20261109T140500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 82/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 83/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T085000Z
@@ -7520,6 +7541,20 @@ DTEND:20261112T140500Z
 SUMMARY:IK (w)
 LOCATION:316 S
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T150000Z
+DTEND:20261112T163500Z
+SUMMARY:IO (L)
+LOCATION:227 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/14\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T165000Z
+DTEND:20261112T182500Z
+SUMMARY:IO (L)
+LOCATION:227 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T070000Z
@@ -7781,6 +7816,20 @@ LOCATION:Rz.Dęb. Dębl
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29/29\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261126T150000Z
+DTEND:20261126T163500Z
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T165000Z
+DTEND:20261126T182500Z
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261128T085000Z
 DTEND:20261128T102500Z
 SUMMARY:XWF (ć)
@@ -7792,7 +7841,7 @@ DTSTART:20261130T070000Z
 DTEND:20261130T083500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 83/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 84/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T085000Z
@@ -7977,6 +8026,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 111/120\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261211T104000Z
+DTEND:20261211T121500Z
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T123000Z
+DTEND:20261211T140500Z
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261212T085000Z
 DTEND:20261212T102500Z
 SUMMARY:XWF (ć)
@@ -8066,6 +8129,20 @@ DTEND:20261217T121500Z
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 112/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T104000Z
+DTEND:20261218T121500Z
+SUMMARY:IO (L)
+LOCATION:227 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T123000Z
+DTEND:20261218T140500Z
+SUMMARY:IO (L)
+LOCATION:227 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T085000Z
@@ -8194,6 +8271,20 @@ LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 116/120\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270115T104000Z
+DTEND:20270115T121500Z
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T123000Z
+DTEND:20270115T140500Z
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270116T085000Z
 DTEND:20270116T102500Z
 SUMMARY:XWF (ć)
@@ -8276,6 +8367,20 @@ DTEND:20270122T102500Z
 SUMMARY:IK (ć)
 LOCATION:201 65
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T104000Z
+DTEND:20270122T121500Z
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T123000Z
+DTEND:20270122T140500Z
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270123T085000Z

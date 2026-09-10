@@ -6535,6 +6535,13 @@ LOCATION:313 S
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261022T060000Z
+DTEND:20261022T073500Z
+SUMMARY:PZ (P)
+LOCATION:224 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261022T075000Z
 DTEND:20261022T092500Z
 SUMMARY:dsk (Inne)
@@ -6575,6 +6582,20 @@ DTEND:20261023T092500Z
 SUMMARY:IRz (w)
 LOCATION:309 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T094000Z
+DTEND:20261023T111500Z
+SUMMARY:Temo (L)
+LOCATION:223 S
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T113000Z
+DTEND:20261023T130500Z
+SUMMARY:Temo (L)
+LOCATION:223 S
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T075000Z
@@ -6717,11 +6738,39 @@ LOCATION:309 S
 DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261030T104000Z
+DTEND:20261030T121500Z
+SUMMARY:ZBD (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T123000Z
+DTEND:20261030T140500Z
+SUMMARY:ZBD (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261031T085000Z
 DTEND:20261031T102500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 46/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T085000Z
+DTEND:20261102T102500Z
+SUMMARY:PZ (P)
+LOCATION:224 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 2/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T104000Z
+DTEND:20261102T121500Z
+SUMMARY:PZ (P)
+LOCATION:224 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 3/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T123000Z
@@ -6815,6 +6864,13 @@ LOCATION:19 36
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261104T165000Z
+DTEND:20261104T182500Z
+SUMMARY:Wf_E (E)
+LOCATION:-
+DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
 SUMMARY:WF (ć)
@@ -6843,11 +6899,39 @@ LOCATION:309 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261106T104000Z
+DTEND:20261106T121500Z
+SUMMARY:Temo (L)
+LOCATION:227 S
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T123000Z
+DTEND:20261106T140500Z
+SUMMARY:Temo (L)
+LOCATION:227 S
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261107T085000Z
 DTEND:20261107T102500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 47/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T070000Z
+DTEND:20261109T083500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 4/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T085000Z
+DTEND:20261109T102500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 5/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T104000Z
@@ -6941,11 +7025,53 @@ LOCATION:308 S
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:ZBD (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T085000Z
+DTEND:20261113T102500Z
+SUMMARY:ZBD (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T104000Z
+DTEND:20261113T121500Z
+SUMMARY:IRz (L)
+LOCATION:223 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T123000Z
+DTEND:20261113T140500Z
+SUMMARY:IRz (L)
+LOCATION:223 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261114T085000Z
 DTEND:20261114T102500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 48/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T070000Z
+DTEND:20261116T083500Z
+SUMMARY:PZ (P)
+LOCATION:227 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 6/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T085000Z
+DTEND:20261116T102500Z
+SUMMARY:PZ (P)
+LOCATION:227 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 7/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
@@ -7060,6 +7186,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 108/130\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261119T123000Z
+DTEND:20261119T140500Z
+SUMMARY:Temo (L)
+LOCATION:227 S
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T150000Z
+DTEND:20261119T163500Z
+SUMMARY:Temo (L)
+LOCATION:227 S
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261120T070000Z
 DTEND:20261120T083500Z
 SUMMARY:IRz (w)
@@ -7093,6 +7233,34 @@ DTEND:20261121T102500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 49/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T070000Z
+DTEND:20261123T083500Z
+SUMMARY:Mspw (L)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T085000Z
+DTEND:20261123T102500Z
+SUMMARY:Mspw (L)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T104000Z
+DTEND:20261123T121500Z
+SUMMARY:Srrw (L)
+LOCATION:95 S
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T123000Z
+DTEND:20261123T140500Z
+SUMMARY:Srrw (L)
+LOCATION:95 S
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T150000Z
@@ -7193,6 +7361,20 @@ LOCATION:AW 1
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261126T070000Z
+DTEND:20261126T083500Z
+SUMMARY:PZ (P)
+LOCATION:233 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 8/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T085000Z
+DTEND:20261126T102500Z
+SUMMARY:PZ (P)
+LOCATION:233 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 9/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261126T104000Z
 DTEND:20261126T121500Z
 SUMMARY:WF (ć)
@@ -7200,11 +7382,46 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 111/130\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261126T123000Z
+DTEND:20261126T140500Z
+SUMMARY:ZBD (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261128T085000Z
 DTEND:20261128T102500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 50/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T070000Z
+DTEND:20261130T083500Z
+SUMMARY:Srrw (L)
+LOCATION:95 S
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T085000Z
+DTEND:20261130T102500Z
+SUMMARY:Srrw (L)
+LOCATION:95 S
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T104000Z
+DTEND:20261130T121500Z
+SUMMARY:Temo (L)
+LOCATION:228 S
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T123000Z
+DTEND:20261130T140500Z
+SUMMARY:Temo (L)
+LOCATION:228 S
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T150000Z
@@ -7305,6 +7522,20 @@ LOCATION:317 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261203T070000Z
+DTEND:20261203T083500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 10/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T085000Z
+DTEND:20261203T102500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 11/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261203T104000Z
 DTEND:20261203T121500Z
 SUMMARY:WF (ć)
@@ -7317,6 +7548,34 @@ DTEND:20261203T140500Z
 SUMMARY:Swp (L)
 LOCATION:09 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T070000Z
+DTEND:20261204T083500Z
+SUMMARY:IRz (L)
+LOCATION:224 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T085000Z
+DTEND:20261204T102500Z
+SUMMARY:IRz (L)
+LOCATION:224 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T104000Z
+DTEND:20261204T121500Z
+SUMMARY:Mspw (L)
+LOCATION:224 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T123000Z
+DTEND:20261204T140500Z
+SUMMARY:Mspw (L)
+LOCATION:224 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T085000Z
@@ -7361,6 +7620,20 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 110/120\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261208T070000Z
+DTEND:20261208T083500Z
+SUMMARY:Mspw (L)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T085000Z
+DTEND:20261208T102500Z
+SUMMARY:Mspw (L)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261208T104000Z
 DTEND:20261208T121500Z
 SUMMARY:WF (ć)
@@ -7403,6 +7676,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 116/130\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261210T070000Z
+DTEND:20261210T083500Z
+SUMMARY:PZ (P)
+LOCATION:223 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 12/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T085000Z
+DTEND:20261210T102500Z
+SUMMARY:PZ (P)
+LOCATION:223 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 13/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
 SUMMARY:WF (ć)
@@ -7417,11 +7704,39 @@ LOCATION:308 S
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261211T070000Z
+DTEND:20261211T083500Z
+SUMMARY:Srrw (L)
+LOCATION:95 S
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T085000Z
+DTEND:20261211T102500Z
+SUMMARY:Srrw (L)
+LOCATION:95 S
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261212T085000Z
 DTEND:20261212T102500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 52/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T070000Z
+DTEND:20261214T083500Z
+SUMMARY:Mspw (L)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T085000Z
+DTEND:20261214T102500Z
+SUMMARY:Mspw (L)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T104000Z
@@ -7508,6 +7823,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 118/130\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261217T070000Z
+DTEND:20261217T083500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 14/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T085000Z
+DTEND:20261217T102500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 15/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:WF (ć)
@@ -7515,11 +7844,67 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 119/130\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261217T123000Z
+DTEND:20261217T140500Z
+SUMMARY:Temo (L)
+LOCATION:236 S
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T070000Z
+DTEND:20261218T083500Z
+SUMMARY:Srrw (L)
+LOCATION:95 S
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T085000Z
+DTEND:20261218T102500Z
+SUMMARY:Srrw (L)
+LOCATION:95 S
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T104000Z
+DTEND:20261218T121500Z
+SUMMARY:Srrw (L)
+LOCATION:95 S
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261219T085000Z
 DTEND:20261219T102500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 53/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T070000Z
+DTEND:20261221T083500Z
+SUMMARY:Mspw (P)
+LOCATION:236 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Projekt\nNumer zajęć: 1/7\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T085000Z
+DTEND:20261221T102500Z
+SUMMARY:Mspw (P)
+LOCATION:236 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Projekt\nNumer zajęć: 2/7\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T104000Z
+DTEND:20261221T121500Z
+SUMMARY:PZ (P)
+LOCATION:228 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 16/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T123000Z
+DTEND:20261221T140500Z
+SUMMARY:PZ (P)
+LOCATION:228 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 17/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T150000Z
@@ -7592,6 +7977,20 @@ LOCATION:011 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261223T104000Z
+DTEND:20261223T121500Z
+SUMMARY:IRz (L)
+LOCATION:227 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T123000Z
+DTEND:20261223T140500Z
+SUMMARY:IRz (L)
+LOCATION:227 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270107T070000Z
 DTEND:20270107T083500Z
 SUMMARY:Swp (P)
@@ -7613,11 +8012,53 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 121/130\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270108T070000Z
+DTEND:20270108T083500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 18/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T085000Z
+DTEND:20270108T102500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 19/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270109T085000Z
 DTEND:20270109T102500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 54/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T070000Z
+DTEND:20270111T083500Z
+SUMMARY:Mspw (P)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Projekt\nNumer zajęć: 3/7\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T085000Z
+DTEND:20270111T102500Z
+SUMMARY:Mspw (P)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Projekt\nNumer zajęć: 4/7\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T104000Z
+DTEND:20270111T121500Z
+SUMMARY:IRz (L)
+LOCATION:226 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T123000Z
+DTEND:20270111T140500Z
+SUMMARY:IRz (L)
+LOCATION:226 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270111T150000Z
@@ -7683,6 +8124,20 @@ LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270114T070000Z
+DTEND:20270114T083500Z
+SUMMARY:PZ (P)
+LOCATION:228 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 20/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T085000Z
+DTEND:20270114T102500Z
+SUMMARY:PZ (P)
+LOCATION:228 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 21/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270114T104000Z
 DTEND:20270114T121500Z
 SUMMARY:WF (ć)
@@ -7709,6 +8164,20 @@ DTEND:20270118T102500Z
 SUMMARY:Swp (P)
 LOCATION:011 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/7\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T104000Z
+DTEND:20270118T121500Z
+SUMMARY:Mspw (P)
+LOCATION:228 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Projekt\nNumer zajęć: 5/7\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T123000Z
+DTEND:20270118T140500Z
+SUMMARY:Mspw (P)
+LOCATION:228 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Projekt\nNumer zajęć: 6/7\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T150000Z
@@ -7774,11 +8243,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 128/130\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270126T123000Z
+DTEND:20270126T140500Z
+SUMMARY:Mspw (P)
+LOCATION:224 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Projekt\nNumer zajęć: 7/7\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270127T070000Z
 DTEND:20270127T083500Z
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 120/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T085000Z
+DTEND:20270127T102500Z
+SUMMARY:IRz (L)
+LOCATION:224 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T104000Z
@@ -7793,6 +8276,13 @@ DTEND:20270128T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 130/130\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T070000Z
+DTEND:20270129T083500Z
+SUMMARY:PZ (P)
+LOCATION:223 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 22/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T085000Z

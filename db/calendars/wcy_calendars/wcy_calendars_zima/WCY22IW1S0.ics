@@ -7333,6 +7333,13 @@ LOCATION:19 36
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261104T165000Z
+DTEND:20261104T182500Z
+SUMMARY:Wf_E (E)
+LOCATION:-
+DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
 SUMMARY:WF (ć)
@@ -7464,6 +7471,20 @@ DTEND:20261112T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 104/130\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T123000Z
+DTEND:20261112T140500Z
+SUMMARY:ZBD (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T150000Z
+DTEND:20261112T163500Z
+SUMMARY:ZBD (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T085000Z
@@ -7998,6 +8019,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 115/130\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261210T123000Z
+DTEND:20261210T140500Z
+SUMMARY:ZBD (L)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T150000Z
+DTEND:20261210T163500Z
+SUMMARY:ZBD (L)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261211T085000Z
 DTEND:20261211T102500Z
 SUMMARY:Sr (w)
@@ -8290,6 +8325,13 @@ DTEND:20270108T102500Z
 SUMMARY:Pmsk (P)
 LOCATION:125 65
 DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 16/22\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T104000Z
+DTEND:20270108T121500Z
+SUMMARY:ZBD (L)
+LOCATION:226 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T123000Z

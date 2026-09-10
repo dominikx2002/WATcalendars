@@ -130,6 +130,13 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261012T060000Z
+DTEND:20261012T073500Z
+SUMMARY:Boeg (w)
+LOCATION:204 65
+DESCRIPTION:Basics of Engineering Graphics - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261012T094000Z
 DTEND:20261012T111500Z
 SUMMARY:Seiss (w)
@@ -170,13 +177,6 @@ DTEND:20261014T111500Z
 SUMMARY:DM1 (ć)
 LOCATION:307 S
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Arkadiusz Orłowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T060000Z
-DTEND:20261015T073500Z
-SUMMARY:Boeg (w)
-LOCATION:204 65
-DESCRIPTION:Basics of Engineering Graphics - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T075000Z

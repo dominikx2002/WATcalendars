@@ -7102,13 +7102,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 67/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T113000Z
-DTEND:20261012T130500Z
-SUMMARY:DSiSM (w)
-LOCATION:22 /BIBL
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261012T174000Z
 DTEND:20261012T191500Z
 SUMMARY:- (S.Sz.W.)
@@ -7170,6 +7163,13 @@ DTEND:20261016T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 93/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T075000Z
+DTEND:20261016T092500Z
+SUMMARY:DSiSM (w)
+LOCATION:AW 3/043
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T094000Z
@@ -7275,6 +7275,20 @@ DTEND:20261021T092500Z
 SUMMARY:Pw (w)
 LOCATION:308 S
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
+SUMMARY:Pw (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T113000Z
+DTEND:20261021T130500Z
+SUMMARY:Pw (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T060000Z
@@ -7578,6 +7592,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 100/120\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261104T104000Z
+DTEND:20261104T121500Z
+SUMMARY:Pw (L)
+LOCATION:227 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T123000Z
+DTEND:20261104T140500Z
+SUMMARY:Pw (L)
+LOCATION:227 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261104T150000Z
 DTEND:20261104T163500Z
 SUMMARY:IO (L)
@@ -7844,6 +7872,20 @@ LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 104/120\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261118T104000Z
+DTEND:20261118T121500Z
+SUMMARY:Pw (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
+SUMMARY:Pw (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261118T150000Z
 DTEND:20261118T163500Z
 SUMMARY:IO (L)
@@ -8068,6 +8110,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 80/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261201T070000Z
+DTEND:20261201T083500Z
+SUMMARY:Pw (L)
+LOCATION:223 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T085000Z
+DTEND:20261201T102500Z
+SUMMARY:Pw (L)
+LOCATION:223 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261201T104000Z
 DTEND:20261201T121500Z
 SUMMARY:Swb (w)
@@ -8285,6 +8341,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 84/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261215T070000Z
+DTEND:20261215T083500Z
+SUMMARY:Pw (L)
+LOCATION:223 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T085000Z
+DTEND:20261215T102500Z
+SUMMARY:Pw (L)
+LOCATION:223 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:Ja (ć)
@@ -8418,6 +8488,20 @@ LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 113/120\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261223T070000Z
+DTEND:20261223T083500Z
+SUMMARY:Pw (P)
+LOCATION:227 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 1/5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T085000Z
+DTEND:20261223T102500Z
+SUMMARY:Pw (P)
+LOCATION:227 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 2/5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261228T184000Z
 DTEND:20261228T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -8488,6 +8572,20 @@ LOCATION:223 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270108T123000Z
+DTEND:20270108T140500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T150000Z
+DTEND:20270108T163500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270109T085000Z
 DTEND:20270109T102500Z
 SUMMARY:XWF (ć)
@@ -8530,6 +8628,20 @@ LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 115/120\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270113T085000Z
+DTEND:20270113T102500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T104000Z
+DTEND:20270113T121500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270113T150000Z
 DTEND:20270113T163500Z
 SUMMARY:WF (w)
@@ -8542,6 +8654,20 @@ DTEND:20270114T121500Z
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 116/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T123000Z
+DTEND:20270114T140500Z
+SUMMARY:Pw (P)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 3/5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T150000Z
+DTEND:20270114T163500Z
+SUMMARY:Pw (P)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 4/5\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T070000Z
@@ -8619,6 +8745,20 @@ DTEND:20270120T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 118/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T085000Z
+DTEND:20270120T102500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T104000Z
+DTEND:20270120T121500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T150000Z
@@ -8705,6 +8845,13 @@ LOCATION:09 65
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270126T104000Z
+DTEND:20270126T121500Z
+SUMMARY:Pw (P)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 5/5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270126T123000Z
 DTEND:20270126T140500Z
 SUMMARY:Ja (ć)
@@ -8717,6 +8864,20 @@ DTEND:20270127T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 120/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T085000Z
+DTEND:20270127T102500Z
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T104000Z
+DTEND:20270127T121500Z
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T123000Z

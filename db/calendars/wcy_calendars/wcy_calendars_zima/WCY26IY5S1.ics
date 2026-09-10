@@ -277,6 +277,13 @@ LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261026T150000Z
+DTEND:20261026T163500Z
+SUMMARY:WdI (L)
+LOCATION:223 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261027T070000Z
 DTEND:20261027T083500Z
 SUMMARY:M II (w)
@@ -417,6 +424,20 @@ LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261109T150000Z
+DTEND:20261109T163500Z
+SUMMARY:WdI (L)
+LOCATION:223 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T165000Z
+DTEND:20261109T182500Z
+SUMMARY:WdI (L)
+LOCATION:223 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261110T070000Z
 DTEND:20261110T083500Z
 SUMMARY:M II (w)
@@ -499,6 +520,20 @@ DTEND:20261116T140500Z
 SUMMARY:MD1 (w)
 LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T150000Z
+DTEND:20261116T163500Z
+SUMMARY:WdI (L)
+LOCATION:223 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T165000Z
+DTEND:20261116T182500Z
+SUMMARY:WdI (L)
+LOCATION:223 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -634,6 +669,20 @@ LOCATION:316 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 11/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261202T150000Z
+DTEND:20261202T163500Z
+SUMMARY:WdI (L)
+LOCATION:224 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T165000Z
+DTEND:20261202T182500Z
+SUMMARY:WdI (L)
+LOCATION:224 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261203T070000Z
 DTEND:20261203T083500Z
 SUMMARY:Mat I (w)
@@ -730,6 +779,20 @@ DTEND:20261211T083500Z
 SUMMARY:M II (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 14/17\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T104000Z
+DTEND:20261215T121500Z
+SUMMARY:WdI (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T123000Z
+DTEND:20261215T140500Z
+SUMMARY:WdI (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T070000Z
@@ -877,6 +940,20 @@ DTEND:20270114T182500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T070000Z
+DTEND:20270120T083500Z
+SUMMARY:WdI (L)
+LOCATION:236 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T085000Z
+DTEND:20270120T102500Z
+SUMMARY:WdI (L)
+LOCATION:236 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T070000Z

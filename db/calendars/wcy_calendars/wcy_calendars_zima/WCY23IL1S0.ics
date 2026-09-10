@@ -2244,6 +2244,20 @@ LOCATION:239 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261015T140000Z
+DTEND:20261015T153500Z
+SUMMARY:Muma (L)
+LOCATION:224 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T155000Z
+DTEND:20261015T172500Z
+SUMMARY:Muma (L)
+LOCATION:224 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261016T060000Z
 DTEND:20261016T073500Z
 SUMMARY:- (S.Sz.W.)
@@ -2517,6 +2531,20 @@ LOCATION:307 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261030T123000Z
+DTEND:20261030T140500Z
+SUMMARY:Muma (L)
+LOCATION:224 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T150000Z
+DTEND:20261030T163500Z
+SUMMARY:Muma (L)
+LOCATION:224 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261030T184000Z
 DTEND:20261030T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -2587,6 +2615,13 @@ LOCATION:307 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261104T123000Z
+DTEND:20261104T140500Z
+SUMMARY:Mnwd (L)
+LOCATION:226 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261104T165000Z
 DTEND:20261104T182500Z
 SUMMARY:WF (w)
@@ -2620,6 +2655,20 @@ DTEND:20261106T121500Z
 SUMMARY:Mnwd (w)
 LOCATION:307 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T123000Z
+DTEND:20261106T140500Z
+SUMMARY:SQL (L)
+LOCATION:223 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T150000Z
+DTEND:20261106T163500Z
+SUMMARY:SQL (L)
+LOCATION:223 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T184000Z
@@ -2662,6 +2711,20 @@ DTEND:20261109T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 42/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T070000Z
+DTEND:20261110T083500Z
+SUMMARY:mo (L)
+LOCATION:226 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T085000Z
+DTEND:20261110T102500Z
+SUMMARY:mo (L)
+LOCATION:226 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T104000Z
@@ -2818,6 +2881,20 @@ LOCATION:201 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261119T123000Z
+DTEND:20261119T140500Z
+SUMMARY:SQL (L)
+LOCATION:223 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T150000Z
+DTEND:20261119T163500Z
+SUMMARY:SQL (L)
+LOCATION:223 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261120T085000Z
 DTEND:20261120T102500Z
 SUMMARY:WF (ć)
@@ -2853,6 +2930,20 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261123T070000Z
+DTEND:20261123T083500Z
+SUMMARY:mo (L)
+LOCATION:226 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T085000Z
+DTEND:20261123T102500Z
+SUMMARY:mo (L)
+LOCATION:226 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261123T104000Z
 DTEND:20261123T121500Z
 SUMMARY:Ja (ć)
@@ -2881,6 +2972,20 @@ LOCATION:317 S
 DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:Ao (ć)
+LOCATION:223 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T085000Z
+DTEND:20261125T102500Z
+SUMMARY:Ao (ć)
+LOCATION:223 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261125T104000Z
 DTEND:20261125T121500Z
 SUMMARY:MPH (w)
@@ -2907,6 +3012,20 @@ DTEND:20261126T121500Z
 SUMMARY:MPH (ć)
 LOCATION:203 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T150000Z
+DTEND:20261126T163500Z
+SUMMARY:Muma (L)
+LOCATION:224 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T165000Z
+DTEND:20261126T182500Z
+SUMMARY:Muma (L)
+LOCATION:224 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261127T184000Z
@@ -2951,6 +3070,20 @@ LOCATION:307 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261201T104000Z
+DTEND:20261201T121500Z
+SUMMARY:Mnwd (L)
+LOCATION:224 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T123000Z
+DTEND:20261201T140500Z
+SUMMARY:Mnwd (L)
+LOCATION:224 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261202T070000Z
 DTEND:20261202T083500Z
 SUMMARY:Muma (w)
@@ -2972,6 +3105,20 @@ LOCATION:314 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261202T123000Z
+DTEND:20261202T140500Z
+SUMMARY:mo (L)
+LOCATION:223 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T150000Z
+DTEND:20261202T163500Z
+SUMMARY:mo (L)
+LOCATION:223 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261203T085000Z
 DTEND:20261203T102500Z
 SUMMARY:Ja (ć)
@@ -2991,6 +3138,20 @@ DTEND:20261204T102500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 47/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T104000Z
+DTEND:20261204T121500Z
+SUMMARY:Ao (ć)
+LOCATION:223 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T123000Z
+DTEND:20261204T140500Z
+SUMMARY:Ao (ć)
+LOCATION:223 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T184000Z
@@ -3026,6 +3187,20 @@ DTEND:20261207T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 48/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T070000Z
+DTEND:20261208T083500Z
+SUMMARY:mo (L)
+LOCATION:227 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T085000Z
+DTEND:20261208T102500Z
+SUMMARY:mo (L)
+LOCATION:227 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T104000Z
@@ -3098,6 +3273,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 50/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261211T104000Z
+DTEND:20261211T121500Z
+SUMMARY:SQL (L)
+LOCATION:223 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T123000Z
+DTEND:20261211T140500Z
+SUMMARY:SQL (L)
+LOCATION:223 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261211T184000Z
 DTEND:20261211T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -3168,6 +3357,20 @@ LOCATION:309 S
 DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261215T150000Z
+DTEND:20261215T163500Z
+SUMMARY:Mipb (L)
+LOCATION:223 S
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T165000Z
+DTEND:20261215T182500Z
+SUMMARY:Mipb (L)
+LOCATION:223 S
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:ZŻWAT (Inne)
@@ -3187,6 +3390,20 @@ DTEND:20261216T121500Z
 SUMMARY:MPH (w)
 LOCATION:314 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T123000Z
+DTEND:20261216T140500Z
+SUMMARY:Muma (L)
+LOCATION:227 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T150000Z
+DTEND:20261216T163500Z
+SUMMARY:Muma (L)
+LOCATION:227 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T070000Z
@@ -3210,11 +3427,39 @@ LOCATION:203 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261217T123000Z
+DTEND:20261217T140500Z
+SUMMARY:SQL (L)
+LOCATION:228 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T150000Z
+DTEND:20261217T163500Z
+SUMMARY:SQL (L)
+LOCATION:228 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261218T085000Z
 DTEND:20261218T102500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 52/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T104000Z
+DTEND:20261218T121500Z
+SUMMARY:Ao (ć)
+LOCATION:223 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T123000Z
+DTEND:20261218T140500Z
+SUMMARY:Ao (ć)
+LOCATION:223 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T184000Z
@@ -3264,6 +3509,27 @@ DTEND:20261222T121500Z
 SUMMARY:Mnwd (w)
 LOCATION:309 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T123000Z
+DTEND:20261222T140500Z
+SUMMARY:Mipb (L)
+LOCATION:223 S
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T150000Z
+DTEND:20261222T163500Z
+SUMMARY:Mipb (L)
+LOCATION:223 S
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T070000Z
+DTEND:20261223T083500Z
+SUMMARY:Ao (ć)
+LOCATION:226 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T085000Z
@@ -3371,6 +3637,20 @@ LOCATION:-
 DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270112T104000Z
+DTEND:20270112T121500Z
+SUMMARY:Mipb (L)
+LOCATION:227 S
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T123000Z
+DTEND:20270112T140500Z
+SUMMARY:Mipb (L)
+LOCATION:227 S
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270113T070000Z
 DTEND:20270113T083500Z
 SUMMARY:ZŻWAT (Inne)
@@ -3441,6 +3721,34 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 57/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270120T070000Z
+DTEND:20270120T083500Z
+SUMMARY:Mnwd (L)
+LOCATION:228 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T085000Z
+DTEND:20270120T102500Z
+SUMMARY:Mnwd (L)
+LOCATION:228 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T104000Z
+DTEND:20270120T121500Z
+SUMMARY:Mnwd (L)
+LOCATION:228 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T123000Z
+DTEND:20270120T140500Z
+SUMMARY:Mnwd (L)
+LOCATION:228 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270121T085000Z
 DTEND:20270121T102500Z
 SUMMARY:Ja (ć)
@@ -3460,6 +3768,20 @@ DTEND:20270122T102500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 58/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T104000Z
+DTEND:20270122T121500Z
+SUMMARY:Mipb (L)
+LOCATION:227 S
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T123000Z
+DTEND:20270122T140500Z
+SUMMARY:Mipb (L)
+LOCATION:227 S
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270122T184000Z
@@ -3530,6 +3852,20 @@ DTEND:20270129T102500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 60/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T104000Z
+DTEND:20270129T121500Z
+SUMMARY:Mipb (L)
+LOCATION:227 S
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T123000Z
+DTEND:20270129T140500Z
+SUMMARY:Mipb (L)
+LOCATION:227 S
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T184000Z

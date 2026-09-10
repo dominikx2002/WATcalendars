@@ -809,6 +809,20 @@ LOCATION:316 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261210T150000Z
+DTEND:20261210T163500Z
+SUMMARY:Bpe (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T165000Z
+DTEND:20261210T182500Z
+SUMMARY:Bpe (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261214T123000Z
 DTEND:20261214T140500Z
 SUMMARY:htm (w)
@@ -1024,20 +1038,6 @@ DTEND:20270125T140500Z
 SUMMARY:SoU (L)
 LOCATION:239 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 20/20\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270126T104000Z
-DTEND:20270126T121500Z
-SUMMARY:Bpe (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270126T123000Z
-DTEND:20270126T140500Z
-SUMMARY:Bpe (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T085000Z

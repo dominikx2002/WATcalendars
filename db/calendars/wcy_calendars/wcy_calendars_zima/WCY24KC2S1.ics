@@ -539,14 +539,14 @@ BEGIN:VEVENT
 DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
 SUMMARY:Est (L)
-LOCATION:125 65
+LOCATION:121 65
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T085000Z
 DTEND:20261118T102500Z
 SUMMARY:Est (L)
-LOCATION:125 65
+LOCATION:121 65
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
@@ -646,6 +646,20 @@ DTEND:20261126T121500Z
 SUMMARY:Swb (w)
 LOCATION:317 S
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T150000Z
+DTEND:20261126T163500Z
+SUMMARY:Bpe (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T165000Z
+DTEND:20261126T182500Z
+SUMMARY:Bpe (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T104000Z
@@ -841,14 +855,14 @@ DTSTART:20261215T150000Z
 DTEND:20261215T163500Z
 SUMMARY:Bpe (L)
 LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: -
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T165000Z
 DTEND:20261215T182500Z
 SUMMARY:Bpe (L)
 LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T070000Z
@@ -1080,19 +1094,5 @@ DTEND:20270127T102500Z
 SUMMARY:Est (P)
 LOCATION:125 65
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/5\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270127T104000Z
-DTEND:20270127T121500Z
-SUMMARY:Bpe (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270127T123000Z
-DTEND:20270127T140500Z
-SUMMARY:Bpe (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

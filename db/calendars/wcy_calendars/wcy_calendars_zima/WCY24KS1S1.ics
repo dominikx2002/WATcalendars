@@ -606,6 +606,20 @@ LOCATION:316 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T070000Z
+DTEND:20261209T083500Z
+SUMMARY:Bpe (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T085000Z
+DTEND:20261209T102500Z
+SUMMARY:Bpe (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
 SUMMARY:PBI (L)
@@ -702,19 +716,5 @@ DTEND:20270128T102500Z
 SUMMARY:PBI (L)
 LOCATION:011 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/4\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270128T104000Z
-DTEND:20270128T121500Z
-SUMMARY:Bpe (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270128T123000Z
-DTEND:20270128T140500Z
-SUMMARY:Bpe (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

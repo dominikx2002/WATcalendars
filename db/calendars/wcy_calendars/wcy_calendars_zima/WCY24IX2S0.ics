@@ -7102,13 +7102,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 67/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T113000Z
-DTEND:20261012T130500Z
-SUMMARY:DSiSM (w)
-LOCATION:22 /BIBL
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261012T174000Z
 DTEND:20261012T191500Z
 SUMMARY:- (S.Sz.W.)
@@ -7170,6 +7163,13 @@ DTEND:20261016T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 93/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T075000Z
+DTEND:20261016T092500Z
+SUMMARY:DSiSM (w)
+LOCATION:AW 3/043
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T094000Z
@@ -7417,6 +7417,20 @@ LOCATION:307 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
+SUMMARY:Pw (L)
+LOCATION:223 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T150000Z
+DTEND:20261028T163500Z
+SUMMARY:Pw (L)
+LOCATION:223 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T070000Z
 DTEND:20261029T083500Z
 SUMMARY:Sck (w)
@@ -7457,6 +7471,13 @@ DTEND:20261030T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 98/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T102500Z
+SUMMARY:IO (L)
+LOCATION:227 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T123000Z
@@ -7562,6 +7583,20 @@ DTEND:20261104T140500Z
 SUMMARY:Swb (L)
 LOCATION:09 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T070000Z
+DTEND:20261105T083500Z
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T085000Z
+DTEND:20261105T102500Z
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
@@ -7830,6 +7865,20 @@ LOCATION:09 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261118T150000Z
+DTEND:20261118T163500Z
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T165000Z
+DTEND:20261118T182500Z
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261119T070000Z
 DTEND:20261119T083500Z
 SUMMARY:Sck (w)
@@ -7982,6 +8031,34 @@ DTEND:20261125T201500Z
 SUMMARY:SzS (ć)
 LOCATION:Rz.Dęb. Dębl
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29/29\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T070000Z
+DTEND:20261126T083500Z
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T085000Z
+DTEND:20261126T102500Z
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T104000Z
+DTEND:20261126T121500Z
+SUMMARY:Pw (L)
+LOCATION:233 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T123000Z
+DTEND:20261126T140500Z
+SUMMARY:Pw (L)
+LOCATION:233 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261128T085000Z
@@ -8180,11 +8257,46 @@ LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 110/120\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261210T123000Z
+DTEND:20261210T140500Z
+SUMMARY:IO (L)
+LOCATION:226 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T150000Z
+DTEND:20261210T163500Z
+SUMMARY:IO (L)
+LOCATION:226 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T165000Z
+DTEND:20261210T182500Z
+SUMMARY:IO (L)
+LOCATION:226 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261211T070000Z
 DTEND:20261211T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 111/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T104000Z
+DTEND:20261211T121500Z
+SUMMARY:Pw (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T123000Z
+DTEND:20261211T140500Z
+SUMMARY:Pw (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T085000Z
@@ -8250,6 +8362,20 @@ LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 111/120\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T121500Z
+SUMMARY:Pw (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T123000Z
+DTEND:20261216T140500Z
+SUMMARY:Pw (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T150000Z
 DTEND:20261216T163500Z
 SUMMARY:WF (w)
@@ -8283,6 +8409,20 @@ DTEND:20261218T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 113/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T104000Z
+DTEND:20261218T121500Z
+SUMMARY:Pw (P)
+LOCATION:228 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 1/5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T123000Z
+DTEND:20261218T140500Z
+SUMMARY:Pw (P)
+LOCATION:228 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 2/5\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T085000Z
@@ -8334,11 +8474,39 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 86/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261222T070000Z
+DTEND:20261222T083500Z
+SUMMARY:Pw (L)
+LOCATION:233 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T085000Z
+DTEND:20261222T102500Z
+SUMMARY:Pw (L)
+LOCATION:233 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261222T123000Z
 DTEND:20261222T140500Z
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 113/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T150000Z
+DTEND:20261222T163500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T165000Z
+DTEND:20261222T182500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T085000Z
@@ -8453,11 +8621,39 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 89/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270112T085000Z
+DTEND:20270112T102500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T104000Z
+DTEND:20270112T121500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270112T123000Z
 DTEND:20270112T140500Z
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 115/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T104000Z
+DTEND:20270113T121500Z
+SUMMARY:Pw (P)
+LOCATION:227 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 3/5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T123000Z
+DTEND:20270113T140500Z
+SUMMARY:Pw (P)
+LOCATION:227 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 4/5\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T150000Z
@@ -8472,6 +8668,20 @@ DTEND:20270114T121500Z
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 116/120\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T123000Z
+DTEND:20270114T140500Z
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T150000Z
+DTEND:20270114T163500Z
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T070000Z
@@ -8579,6 +8789,20 @@ LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 118/120\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270122T085000Z
+DTEND:20270122T102500Z
+SUMMARY:Nsk (ć)
+LOCATION:309 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T104000Z
+DTEND:20270122T121500Z
+SUMMARY:Nsk (ć)
+LOCATION:309 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270123T085000Z
 DTEND:20270123T102500Z
 SUMMARY:XWF (ć)
@@ -8621,6 +8845,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 92/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270126T085000Z
+DTEND:20270126T102500Z
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T104000Z
+DTEND:20270126T121500Z
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270126T123000Z
 DTEND:20270126T140500Z
 SUMMARY:Ja (ć)
@@ -8642,11 +8880,32 @@ LOCATION:09 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270127T104000Z
+DTEND:20270127T121500Z
+SUMMARY:Pw (P)
+LOCATION:223 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 5/5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270127T150000Z
 DTEND:20270127T163500Z
 SUMMARY:WF (w)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T070000Z
+DTEND:20270128T083500Z
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T085000Z
+DTEND:20270128T102500Z
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T104000Z
