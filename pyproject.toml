@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "WATcalendars"
-version = "0.3.0"
+version = "0.4.0"
 description = "WAT university calendar scraper for multiple faculties"
 authors = [
     {name = "Dominik Serafin", email = "serafin652002@gmail.com"}
@@ -14,7 +14,7 @@ maintainers = [
 ]
 readme = "README.md"
 license = {text = "MIT"}
-requires-python = ">=3.8"
+requires-python = ">=3.9"
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Students",
@@ -22,7 +22,6 @@ classifiers = [
     "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
@@ -38,7 +37,7 @@ dependencies = [
     "playwright>=1.40.0",
     "python-docx>=1.1.2",
     "requests>=2.31.0",
-    "backports.zoneinfo; python_version < '3.9'",
+    "tzdata; sys_platform == 'win32'",
 ]
 
 [project.urls]
@@ -46,30 +45,23 @@ Homepage = "https://github.com/dominikserafin/WATcalendars"
 Repository = "https://github.com/dominikserafin/WATcalendars"
 Issues = "https://github.com/dominikserafin/WATcalendars/issues"
 
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
 [project.scripts]
-# Employee scraper
-# To use it file /WATcalendars/db/url_for_employees can't be empty
-watcalendars-employees = "watcalendars.watemployees:main"
+# One entry point for everything. Previously there were 17, and the
+# eight group scrapers among them were broken: pyproject pointed at a
+# `main` function those modules never defined.
+#
+#   watcal list                 what is configured
+#   watcal groups all           discover groups for every faculty
+#   watcal calendars wcy wim    build .ics for selected faculties
+#   watcal run all              groups + calendars
+#   watcal employees            refresh the USOSweb staff list
+watcal = "watcalendars.cli:main"
 
-# Group scrapers for each faculty (script modules)
-# To use it file /WATcalendars/db/url_for_group can't be empty
-watcalendars-groups-ioe = "watcalendars.groups.groups_ioe:main"
-watcalendars-groups-wcy = "watcalendars.groups.groups_wcy:main"
-watcalendars-groups-wel = "watcalendars.groups.groups_wel:main"
-watcalendars-groups-wig = "watcalendars.groups.groups_wig:main"
-watcalendars-groups-wim = "watcalendars.groups.groups_wim:main"
-watcalendars-groups-wlo = "watcalendars.groups.groups_wlo:main"
-watcalendars-groups-wml = "watcalendars.groups.groups_wml:main"
-watcalendars-groups-wtc = "watcalendars.groups.groups_wtc:main"
+[tool.setuptools.packages.find]
+where = ["src"]
 
-# Calendar scrapers for each faculty (async modules)
-# To use it /WATcalendars/db/groups_url
-# and /WATcalendars/db/url_for_schedules can't be empty
-watcalendars-calendar-ioe = "watcalendars.calendar_ioe:main"
-watcalendars-calendar-wcy = "watcalendars.calendar_wcy:main"
-watcalendars-calendar-wel = "watcalendars.calendar_wel:main"
-watcalendars-calendar-wig = "watcalendars.calendar_wig:main"
-watcalendars-calendar-wim = "watcalendars.calendar_wim:main"
-watcalendars-calendar-wlo = "watcalendars.calendar_wlo:main"
-watcalendars-calendar-wml = "watcalendars.calendar_wml:main"
-watcalendars-calendar-wtc = "watcalendars.calendar_wtc:main"
+[tool.pytest.ini_options]
+testpaths = ["tests"]

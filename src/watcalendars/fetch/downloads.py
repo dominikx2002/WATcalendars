@@ -3,7 +3,7 @@ import time
 import re
 import requests
 from playwright.sync_api import sync_playwright
-from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
+from watcalendars.core.logging import OK, ERROR, WARNING, INFO, SUCCESS
 
 def download_schedule_file(url, output_dir, filename, logs=None):
     """

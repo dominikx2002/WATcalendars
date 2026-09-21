@@ -7,8 +7,8 @@ import os
 import time
 from datetime import datetime
 from typing import List, Tuple
-from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
-from watcalendars import DB_DIR
+from watcalendars.core.logging import OK, ERROR, WARNING, INFO, SUCCESS
+from watcalendars.core.paths import DB_DIR
 
 
 def save_employees_to_json(employees: List[Tuple[str, str]]) -> None:

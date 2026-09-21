@@ -1,6 +1,8 @@
+from __future__ import annotations
+
 import json
 import os
-from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
+from watcalendars.core.logging import OK, ERROR, WARNING, INFO, SUCCESS
 
 
 def load_json_config(filename: str):

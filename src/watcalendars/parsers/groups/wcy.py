@@ -2,7 +2,7 @@ import re
 
 from bs4 import BeautifulSoup
 
-from watcalendars.utils.log import OK
+from watcalendars.core.logging import OK
 
 def parse_wcy_groups(html, logs=None):
     """

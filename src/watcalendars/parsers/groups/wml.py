@@ -1,7 +1,7 @@
 import re
 
 from bs4 import BeautifulSoup
-from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
+from watcalendars.core.logging import OK, ERROR, WARNING, INFO, SUCCESS
 
 
 def parse_wml_groups(html, logs=None):

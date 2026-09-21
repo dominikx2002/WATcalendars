@@ -2,11 +2,13 @@
 Employees Loader - Load employee data from JSON file
 """
 
+from __future__ import annotations
+
 import json
 import os
 from typing import Dict
 
-from watcalendars import DB_DIR
+from watcalendars.core.paths import DB_DIR
 
 
 def load_employees() -> Dict[str, str]:

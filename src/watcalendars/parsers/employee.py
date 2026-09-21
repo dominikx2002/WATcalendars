@@ -1,13 +1,15 @@
 """
 Employee Parser - Parsing employees from WAT USOS HTML pages
 """
+from __future__ import annotations
+
 import time
 from datetime import datetime
 import re
 import time
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
-from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
+from watcalendars.core.logging import OK, ERROR, WARNING, INFO, SUCCESS
 
 
 

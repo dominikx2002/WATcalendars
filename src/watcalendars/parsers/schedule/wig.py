@@ -1,8 +1,10 @@
+from __future__ import annotations
+
 from datetime import datetime, timedelta
 import os
 from docx import Document
-from watcalendars.utils.config import BLOCK_TIMES, ROMAN_MONTH, DATE_TOKEN_RE, TYPE_FULL_MAP
-from watcalendars.utils.log import OK, ERROR, INFO, SUCCESS, WARNING, CHANGED, UNCHANGED, ADDED
+from watcalendars.core.constants import BLOCK_TIMES, ROMAN_MONTH, DATE_TOKEN_RE, TYPE_FULL_MAP
+from watcalendars.core.logging import OK, ERROR, INFO, SUCCESS, WARNING, CHANGED, UNCHANGED, ADDED
 import re
 
 TIME_RE = re.compile(r"(\d{1,2}):(\d{2})")

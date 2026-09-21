@@ -1,14 +1,16 @@
 """
 WML schedule parser - specialized for WML department HTML format with complex table parsing
 """
+from __future__ import annotations
+
 import re
 import unicodedata
 from collections import defaultdict
 from datetime import datetime
 from bs4 import BeautifulSoup
 
-from watcalendars.utils.config import BLOCK_TIMES, ROMAN_MONTH, DATE_TOKEN_RE, TYPE_FULL_MAP, DAY_ALIASES, TYPE_SYMBOLS
-from watcalendars.utils.log import OK, ERROR, INFO, SUCCESS, WARNING, CHANGED, UNCHANGED, ADDED
+from watcalendars.core.constants import BLOCK_TIMES, ROMAN_MONTH, DATE_TOKEN_RE, TYPE_FULL_MAP, DAY_ALIASES, TYPE_SYMBOLS
+from watcalendars.core.logging import OK, ERROR, INFO, SUCCESS, WARNING, CHANGED, UNCHANGED, ADDED
 
 def extract_legend(soup: BeautifulSoup) -> list[tuple[str, str, list[str]]]:
     """Extract subject legend and lecturers from WML HTML"""
@@ -343,32 +345,3 @@ def parse_schedule(html: str) -> list[dict]:
                     col_idx += 1
 
     return lessons
-
-
-def parse_schedules(html_map):
-    """Parse multiple WML schedule HTMLs"""
-    schedules = {}
-    total_groups = len(html_map)
-    groups_done = 0
-    events_done = 0
-
-    def progress():
-        return f"({groups_done}/{total_groups})"
-
-    def log_parse_schedule():
-        nonlocal groups_done, events_done
-        for group_id, html in html_map.items():
-            lessons = parse_schedule(html)
-            schedules[group_id] = lessons
-            print(f"{OK} Parsing {group_id} completed. (items: {len(lessons)})")
-            events_done += len(lessons)
-            groups_done += 1
-        return schedules
-
-    schedules = (print(f"{INFO} Parsing schedules"), log_parse_schedule())[1]
-    parsed_total = sum(len(lessons or []) for lessons in schedules.values())
-    if parsed_total > 0:
-        print(f"{SUCCESS} Summary: Parsed events: {parsed_total} across {len(schedules)} groups")
-    else:
-        print(f"{ERROR} No events parsed.")
-    return schedules

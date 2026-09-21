@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
+from watcalendars.core.logging import OK, ERROR, WARNING, INFO, SUCCESS
 
 def parse_wig_subcategories(html, logs=None):
     """
