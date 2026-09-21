@@ -4,66 +4,717 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO24ZZ1N1
 BEGIN:VEVENT
-DTSTART:20260228T070000Z
-DTEND:20260228T083500Z
-SUMMARY:Kkp (w)
-LOCATION:4.17b/135
-DESCRIPTION:Kształtowanie kariery i poszukiwanie pracy\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Tarapata Jolanta
+DTSTART:20261003T060000Z
+DTEND:20261003T073500Z
+SUMMARY:Kzl (w)
+LOCATION:5.17/135
+DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Piotrkowski Kazimierz 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260228T085000Z
-DTEND:20260228T102500Z
-SUMMARY:Kkp (w)
-LOCATION:4.17b/135
-DESCRIPTION:Kształtowanie kariery i poszukiwanie pracy\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Tarapata Jolanta
+DTSTART:20261010T060000Z
+DTEND:20261010T073500Z
+SUMMARY:PzK (w)
+LOCATION:2.22/135
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami 19\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Tarapata Jolanta 20
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260228T104000Z
-DTEND:20260228T121500Z
-SUMMARY:PriZ (w)
-LOCATION:4.17b/135
-DESCRIPTION:Procesy informacyjne w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Wojciechowski Zdzislaw
+DTSTART:20261024T060000Z
+DTEND:20261024T073500Z
+SUMMARY:Zkn (w)
+LOCATION:187 S
+DESCRIPTION:Zarządzanie kapitałem niematerialnym 38\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260228T123000Z
-DTEND:20260228T140500Z
-SUMMARY:PriZ (w)
-LOCATION:4.17b/135
-DESCRIPTION:Procesy informacyjne w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Wojciechowski Zdzislaw
+DTSTART:20261107T070000Z
+DTEND:20261107T083500Z
+SUMMARY:PzK (w)
+LOCATION:2.22/135
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami 19\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Tarapata Jolanta 20
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260228T150000Z
-DTEND:20260228T163500Z
-SUMMARY:rip (w)
-LOCATION:4.17b/135
-DESCRIPTION:Public relations\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr hab. Sołoducha Krzysztof
+DTSTART:20261114T070000Z
+DTEND:20261114T083500Z
+SUMMARY:Kzl (w)
+LOCATION:2.21/135
+DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Piotrkowski Kazimierz 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260228T165000Z
-DTEND:20260228T182500Z
-SUMMARY:PrP (w)
+DTSTART:20261121T070000Z
+DTEND:20261121T083500Z
+SUMMARY:KwZ (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Prawo pracy\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr Strychalski Andrzej
+DESCRIPTION:Komunikacja w zarządzaniu 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Miszczak Marta 10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260301T085000Z
-DTEND:20260301T102500Z
-SUMMARY:Jo (ć)
-LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: mgr Kurzela Anna
+DTSTART:20261205T070000Z
+DTEND:20261205T083500Z
+SUMMARY:Kzl (w)
+LOCATION:1/22
+DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Piotrkowski Kazimierz 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260301T104000Z
-DTEND:20260301T121500Z
-SUMMARY:Bp (w)
-LOCATION:4.17b/135
-DESCRIPTION:Biznes plan\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr hab. Kożuch Artur Jacek
+DTSTART:20261212T070000Z
+DTEND:20261212T083500Z
+SUMMARY:PzK (w)
+LOCATION:2.22/135
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami 19\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Tarapata Jolanta 20
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260301T123000Z
-DTEND:20260301T140500Z
-SUMMARY:Bp (w)
+DTSTART:20261219T070000Z
+DTEND:20261219T083500Z
+SUMMARY:Kzl (w)
+LOCATION:1/22
+DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Piotrkowski Kazimierz 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T070000Z
+DTEND:20260109T083500Z
+SUMMARY:PzK (w)
 LOCATION:4.17b/135
-DESCRIPTION:Biznes plan\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami 19\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Tarapata Jolanta 20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T070000Z
+DTEND:20260123T083500Z
+SUMMARY:ZKo (ć)
+LOCATION:255 S
+DESCRIPTION:Zarządzanie kompetencjami w organizacji 41\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Wojciechowski Zdzisław 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T070000Z
+DTEND:20260130T083500Z
+SUMMARY:PG (w)
+LOCATION:0.6/16
+DESCRIPTION:Prawo gospodarcze 14\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T075000Z
+DTEND:20261003T092500Z
+SUMMARY:Kzl (w)
+LOCATION:5.17/135
+DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Piotrkowski Kazimierz 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T075000Z
+DTEND:20261010T092500Z
+SUMMARY:KwZ (w)
+LOCATION:4.17b/135
+DESCRIPTION:Komunikacja w zarządzaniu 9\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Miszczak Marta 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T075000Z
+DTEND:20261024T092500Z
+SUMMARY:Zkn (w)
+LOCATION:187 S
+DESCRIPTION:Zarządzanie kapitałem niematerialnym 38\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T085000Z
+DTEND:20261107T102500Z
+SUMMARY:KwZ (w)
+LOCATION:4.17b/135
+DESCRIPTION:Komunikacja w zarządzaniu 9\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Miszczak Marta 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T085000Z
+DTEND:20261114T102500Z
+SUMMARY:Kzl (ć)
+LOCATION:0.23/16
+DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Piotrkowski Kazimierz 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T085000Z
+DTEND:20261121T102500Z
+SUMMARY:KwZ (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Komunikacja w zarządzaniu 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Miszczak Marta 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T085000Z
+DTEND:20261205T102500Z
+SUMMARY:Kzl (ć)
+LOCATION:1/22
+DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Piotrkowski Kazimierz 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T085000Z
+DTEND:20261212T102500Z
+SUMMARY:PzK (ć)
+LOCATION:1.15/16
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: mgr Gurmińska Katarzyna 21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T085000Z
+DTEND:20261219T102500Z
+SUMMARY:Kzl (ć)
+LOCATION:1/22
+DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Piotrkowski Kazimierz 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T085000Z
+DTEND:20260109T102500Z
+SUMMARY:PzK (ć)
+LOCATION:1.27/135
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: mgr Gurmińska Katarzyna 21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T085000Z
+DTEND:20260116T102500Z
+SUMMARY:KwZ (w)
+LOCATION:187 S
+DESCRIPTION:Komunikacja w zarządzaniu 9\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Miszczak Marta 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T085000Z
+DTEND:20260123T102500Z
+SUMMARY:ZKo (ć)
+LOCATION:255 S
+DESCRIPTION:Zarządzanie kompetencjami w organizacji 41\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Wojciechowski Zdzisław 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T085000Z
+DTEND:20260130T102500Z
+SUMMARY:PG (ć)
+LOCATION:1.15/16
+DESCRIPTION:Prawo gospodarcze 14\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T094000Z
+DTEND:20261003T111500Z
+SUMMARY:Sd. (S)
+LOCATION:4.24 /135
+DESCRIPTION:Seminarium dyplomowe 22\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/11\nProwadzący: dr hab. Kożuch Artur Jacek 29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T094000Z
+DTEND:20261010T111500Z
+SUMMARY:KwZ (w)
+LOCATION:4.17b/135
+DESCRIPTION:Komunikacja w zarządzaniu 9\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Miszczak Marta 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T094000Z
+DTEND:20261024T111500Z
+SUMMARY:ZKo (w)
+LOCATION:1.15/16
+DESCRIPTION:Zarządzanie kompetencjami w organizacji 41\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Wojciechowski Zdzisław 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T104000Z
+DTEND:20261107T121500Z
+SUMMARY:KwZ (w)
+LOCATION:4.17b/135
+DESCRIPTION:Komunikacja w zarządzaniu 9\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Miszczak Marta 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T104000Z
+DTEND:20261114T121500Z
+SUMMARY:Zkn (w)
+LOCATION:5.21/135
+DESCRIPTION:Zarządzanie kapitałem niematerialnym 38\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T104000Z
+DTEND:20261121T121500Z
+SUMMARY:PzK (w)
+LOCATION:4.17a/135
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami 19\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Tarapata Jolanta 20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T104000Z
+DTEND:20261205T121500Z
+SUMMARY:ZKo (w)
+LOCATION:187 S
+DESCRIPTION:Zarządzanie kompetencjami w organizacji 41\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Wojciechowski Zdzisław 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T104000Z
+DTEND:20261212T121500Z
+SUMMARY:PzK (ć)
+LOCATION:1.15/16
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: mgr Gurmińska Katarzyna 21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T104000Z
+DTEND:20261219T121500Z
+SUMMARY:Zkn (w)
+LOCATION:2.21/135
+DESCRIPTION:Zarządzanie kapitałem niematerialnym 38\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T104000Z
+DTEND:20260109T121500Z
+SUMMARY:Zkn (w)
+LOCATION:5.21/135
+DESCRIPTION:Zarządzanie kapitałem niematerialnym 38\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T104000Z
+DTEND:20260116T121500Z
+SUMMARY:PzK (ć)
+LOCATION:2/22
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: mgr Gurmińska Katarzyna 21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T104000Z
+DTEND:20260123T121500Z
+SUMMARY:Sd. (S)
+LOCATION:4.30 /135
+DESCRIPTION:Seminarium dyplomowe 22\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/11\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T104000Z
+DTEND:20260130T121500Z
+SUMMARY:PG (ć)
+LOCATION:1.15/16
+DESCRIPTION:Prawo gospodarcze 14\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T104000Z
+DTEND:20260206T121500Z
+SUMMARY:Kzl (E)
+LOCATION:255 S
+DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Piotrkowski Kazimierz 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T104000Z
+DTEND:20260220T121500Z
+SUMMARY:Kzl (Ep)
+LOCATION:1.27/135
+DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Piotrkowski Kazimierz 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T113000Z
+DTEND:20261010T130500Z
+SUMMARY:KwZ (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Komunikacja w zarządzaniu 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Miszczak Marta 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T113000Z
+DTEND:20261024T130500Z
+SUMMARY:Sd. (S)
+LOCATION:4.22 /135
+DESCRIPTION:Seminarium dyplomowe 22\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/11\nProwadzący: dr Antczak Joanna 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T123000Z
+DTEND:20261107T140500Z
+SUMMARY:KwZ (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Komunikacja w zarządzaniu 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Miszczak Marta 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T123000Z
+DTEND:20261114T140500Z
+SUMMARY:Zkn (ć)
+LOCATION:2/22
+DESCRIPTION:Zarządzanie kapitałem niematerialnym 38\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T123000Z
+DTEND:20261121T140500Z
+SUMMARY:ZKo (w)
+LOCATION:0.19/135
+DESCRIPTION:Zarządzanie kompetencjami w organizacji 41\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Wojciechowski Zdzisław 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T123000Z
+DTEND:20261205T140500Z
+SUMMARY:ZKo (w)
+LOCATION:187 S
+DESCRIPTION:Zarządzanie kompetencjami w organizacji 41\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Wojciechowski Zdzisław 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T123000Z
+DTEND:20261212T140500Z
+SUMMARY:ZKo (ć)
+LOCATION:2.22/135
+DESCRIPTION:Zarządzanie kompetencjami w organizacji 41\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Wojciechowski Zdzisław 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T123000Z
+DTEND:20261219T140500Z
+SUMMARY:Zkn (ć)
+LOCATION:0.21/16
+DESCRIPTION:Zarządzanie kapitałem niematerialnym 38\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T123000Z
+DTEND:20260109T140500Z
+SUMMARY:Zkn (ć)
+LOCATION:0.23/16
+DESCRIPTION:Zarządzanie kapitałem niematerialnym 38\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T123000Z
+DTEND:20260116T140500Z
+SUMMARY:Kzl (ć)
+LOCATION:0.19/135
+DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Piotrkowski Kazimierz 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T123000Z
+DTEND:20260206T140500Z
+SUMMARY:KwZ (E)
+LOCATION:0.19/135
+DESCRIPTION:Komunikacja w zarządzaniu 9\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Miszczak Marta 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T123000Z
+DTEND:20260220T140500Z
+SUMMARY:KwZ (Ep)
+LOCATION:0.19/135
+DESCRIPTION:Komunikacja w zarządzaniu 9\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Miszczak Marta 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T150000Z
+DTEND:20261107T163500Z
+SUMMARY:pz (S)
+LOCATION:4.35 /135
+DESCRIPTION:Psychologia w zarządzaniu 17\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr Miszczak Marta 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T150000Z
+DTEND:20261205T163500Z
+SUMMARY:ZKo (ć)
+LOCATION:2.21/135
+DESCRIPTION:Zarządzanie kompetencjami w organizacji 41\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Wojciechowski Zdzisław 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T150000Z
+DTEND:20261212T163500Z
+SUMMARY:ZKo (ć)
+LOCATION:2.22/135
+DESCRIPTION:Zarządzanie kompetencjami w organizacji 41\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Wojciechowski Zdzisław 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T150000Z
+DTEND:20261219T163500Z
+SUMMARY:Sd. (S)
+LOCATION:4.28 /135
+DESCRIPTION:Seminarium dyplomowe 22\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/11\nProwadzący: dr Antczak Joanna 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T150000Z
+DTEND:20260109T163500Z
+SUMMARY:Zkn (ć)
+LOCATION:0.23/16
+DESCRIPTION:Zarządzanie kapitałem niematerialnym 38\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T150000Z
+DTEND:20260116T163500Z
+SUMMARY:ZKo (w)
+LOCATION:2.22/135
+DESCRIPTION:Zarządzanie kompetencjami w organizacji 41\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Wojciechowski Zdzisław 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T165000Z
+DTEND:20260116T182500Z
+SUMMARY:Sd. (S)
+LOCATION:4.29 /135
+DESCRIPTION:Seminarium dyplomowe 22\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/11\nProwadzący: dr Piotrkowski Kazimierz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261004T060000Z
+DTEND:20261004T073500Z
+SUMMARY:Trans.Cyfr.Org. (w)
+LOCATION:2.22/135
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr Sołek-Borowska Celina 36
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T060000Z
+DTEND:20261011T073500Z
+SUMMARY:Sd. (S)
+LOCATION:4.10 /135
+DESCRIPTION:Seminarium dyplomowe 22\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/11\nProwadzący: dr hab. Kostecki Janusz 30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T070000Z
+DTEND:20261025T083500Z
+SUMMARY:Sd. (S)
+LOCATION:4.31 /135
+DESCRIPTION:Seminarium dyplomowe 22\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/11\nProwadzący: dr Sołek-Borowska Celina 23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261108T070000Z
+DTEND:20261108T083500Z
+SUMMARY:Trans.Cyfr.Org. (w)
+LOCATION:2.21/135
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr Sołek-Borowska Celina 36
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T070000Z
+DTEND:20261115T083500Z
+SUMMARY:Trans.Cyfr.Org. (w)
+LOCATION:0.23/16
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr Sołek-Borowska Celina 36
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T070000Z
+DTEND:20261122T083500Z
+SUMMARY:Ar (w)
+LOCATION:0.7/16
+DESCRIPTION:Analiza rynku 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Kolasińska-Morawska Katarzyna 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T070000Z
+DTEND:20261206T083500Z
+SUMMARY:Sd. (S)
+LOCATION:4.31 /135
+DESCRIPTION:Seminarium dyplomowe 22\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/11\nProwadzący: dr Sołek-Borowska Celina 23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260110T070000Z
+DTEND:20260110T083500Z
+SUMMARY:PG (w)
+LOCATION:1.10/16
+DESCRIPTION:Prawo gospodarcze 14\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T070000Z
+DTEND:20260117T083500Z
+SUMMARY:PG (w)
+LOCATION:0.19/135
+DESCRIPTION:Prawo gospodarcze 14\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261004T075000Z
+DTEND:20261004T092500Z
+SUMMARY:Trans.Cyfr.Org. (w)
+LOCATION:2.22/135
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr Sołek-Borowska Celina 36
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T075000Z
+DTEND:20261011T092500Z
+SUMMARY:Ar (w)
+LOCATION:4.17a/135
+DESCRIPTION:Analiza rynku 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Kolasińska-Morawska Katarzyna 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T085000Z
+DTEND:20261025T102500Z
+SUMMARY:Trans.Cyfr.Org. (w)
+LOCATION:4.23/135
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr Sołek-Borowska Celina 36
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261108T085000Z
+DTEND:20261108T102500Z
+SUMMARY:Trans.Cyfr.Org. (ć)
+LOCATION:1.27/135
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T085000Z
+DTEND:20261115T102500Z
+SUMMARY:Trans.Cyfr.Org. (w)
+LOCATION:0.23/16
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr Sołek-Borowska Celina 36
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T085000Z
+DTEND:20261122T102500Z
+SUMMARY:Ar (ć)
+LOCATION:0.7/16
+DESCRIPTION:Analiza rynku 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Kolasińska-Morawska Katarzyna 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T085000Z
+DTEND:20261206T102500Z
+SUMMARY:S.OiW.P. (w)
+LOCATION:3.16/135
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 32\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Jończyk Joanna 33
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T085000Z
+DTEND:20261213T102500Z
+SUMMARY:S.OiW.P. (w)
+LOCATION:1.17/16
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 32\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Jończyk Joanna 33
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260110T085000Z
+DTEND:20260110T102500Z
+SUMMARY:PG (w)
+LOCATION:1.10/16
+DESCRIPTION:Prawo gospodarcze 14\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T085000Z
+DTEND:20260117T102500Z
+SUMMARY:PG (w)
+LOCATION:0.19/135
+DESCRIPTION:Prawo gospodarcze 14\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260124T085000Z
+DTEND:20260124T102500Z
+SUMMARY:Sd. (S)
+LOCATION:4.22 /135
+DESCRIPTION:Seminarium dyplomowe 22\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/11\nProwadzący: dr Piotrkowski Kazimierz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261004T094000Z
+DTEND:20261004T111500Z
+SUMMARY:Trans.Cyfr.Org. (ć)
+LOCATION:2.22/135
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T094000Z
+DTEND:20261011T111500Z
+SUMMARY:Ar (w)
+LOCATION:4.17a/135
+DESCRIPTION:Analiza rynku 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Kolasińska-Morawska Katarzyna 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T104000Z
+DTEND:20261025T121500Z
+SUMMARY:Ar (w)
+LOCATION:0.23/16
+DESCRIPTION:Analiza rynku 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Kolasińska-Morawska Katarzyna 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261108T104000Z
+DTEND:20261108T121500Z
+SUMMARY:Trans.Cyfr.Org. (ć)
+LOCATION:1.27/135
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T104000Z
+DTEND:20261115T121500Z
+SUMMARY:Trans.Cyfr.Org. (ć)
+LOCATION:2.21/135
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T104000Z
+DTEND:20261122T121500Z
+SUMMARY:Sd. (S)
+LOCATION:4.15 /135
+DESCRIPTION:Seminarium dyplomowe 22\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/11\nProwadzący: dr Antczak Joanna 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T104000Z
+DTEND:20261206T121500Z
+SUMMARY:S.OiW.P. (w)
+LOCATION:3.16/135
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 32\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Jończyk Joanna 33
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T104000Z
+DTEND:20261213T121500Z
+SUMMARY:S.OiW.P. (ć)
+LOCATION:2.22/135
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Jończyk Joanna 33
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260110T104000Z
+DTEND:20260110T121500Z
+SUMMARY:Ar (w)
+LOCATION:2.22/135
+DESCRIPTION:Analiza rynku 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Kolasińska-Morawska Katarzyna 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260124T104000Z
+DTEND:20260124T121500Z
+SUMMARY:PG (ć)
+LOCATION:2.22/135
+DESCRIPTION:Prawo gospodarcze 14\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T104000Z
+DTEND:20260207T121500Z
+SUMMARY:ZKo (E)
+LOCATION:187 S
+DESCRIPTION:Zarządzanie kompetencjami w organizacji 41\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Wojciechowski Zdzisław 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T104000Z
+DTEND:20260221T121500Z
+SUMMARY:ZKo (Ep)
+LOCATION:187 S
+DESCRIPTION:Zarządzanie kompetencjami w organizacji 41\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Wojciechowski Zdzisław 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T113000Z
+DTEND:20261011T130500Z
+SUMMARY:Trans.Cyfr.Org. (ć)
+LOCATION:187 S
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T123000Z
+DTEND:20261025T140500Z
+SUMMARY:Ar (ć)
+LOCATION:0.23/16
+DESCRIPTION:Analiza rynku 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Kolasińska-Morawska Katarzyna 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T123000Z
+DTEND:20261122T140500Z
+SUMMARY:Sd. (S)
+LOCATION:4.15 /135
+DESCRIPTION:Seminarium dyplomowe 22\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/11\nProwadzący: dr Antczak Joanna 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T123000Z
+DTEND:20261206T140500Z
+SUMMARY:S.OiW.P. (ć)
+LOCATION:1.17/16
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Jończyk Joanna 33
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T123000Z
+DTEND:20261213T140500Z
+SUMMARY:S.OiW.P. (ć)
+LOCATION:2.22/135
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Jończyk Joanna 33
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260110T123000Z
+DTEND:20260110T140500Z
+SUMMARY:Ar (ć)
+LOCATION:2.22/135
+DESCRIPTION:Analiza rynku 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Kolasińska-Morawska Katarzyna 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260124T123000Z
+DTEND:20260124T140500Z
+SUMMARY:PG (ć)
+LOCATION:2.22/135
+DESCRIPTION:Prawo gospodarcze 14\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T150000Z
+DTEND:20261025T163500Z
+SUMMARY:Ar (ć)
+LOCATION:0.23/16
+DESCRIPTION:Analiza rynku 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Kolasińska-Morawska Katarzyna 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T150000Z
+DTEND:20261206T163500Z
+SUMMARY:S.OiW.P. (w)
+LOCATION:1.17/16
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 32\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Jończyk Joanna 33
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T150000Z
+DTEND:20261213T163500Z
+SUMMARY:S.OiW.P. (ć)
+LOCATION:2.22/135
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Jończyk Joanna 33
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T165000Z
+DTEND:20261206T182500Z
+SUMMARY:S.OiW.P. (w)
+LOCATION:1.17/16
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 32\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Jończyk Joanna 33
 END:VEVENT
 END:VCALENDAR

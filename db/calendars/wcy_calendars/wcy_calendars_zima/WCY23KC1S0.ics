@@ -2408,7 +2408,7 @@ BEGIN:VEVENT
 DTSTART:20261002T060000Z
 DTEND:20261002T073500Z
 SUMMARY:REG (w)
-LOCATION:AW 3/038
+LOCATION:AW 7
 DESCRIPTION:Regulaminy SZ RP - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2529,6 +2529,13 @@ DTEND:20261008T092500Z
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 33/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261008T094000Z
+DTEND:20261008T111500Z
+SUMMARY:Pwst (P)
+LOCATION:011 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T094000Z
@@ -2888,6 +2895,13 @@ LOCATION:307 S
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261026T085000Z
+DTEND:20261026T102500Z
+SUMMARY:Pwst (P)
+LOCATION:106 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/6\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261026T104000Z
 DTEND:20261026T121500Z
 SUMMARY:Ja (ć)
@@ -2923,6 +2937,20 @@ LOCATION:203 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261027T123000Z
+DTEND:20261027T140500Z
+SUMMARY:BbD (L)
+LOCATION:224 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T150000Z
+DTEND:20261027T163500Z
+SUMMARY:BbD (L)
+LOCATION:224 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
 SUMMARY:Ps (w)
@@ -2942,6 +2970,13 @@ DTEND:20261028T140500Z
 SUMMARY:Pwst (w)
 LOCATION:309 S
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T150000Z
+DTEND:20261028T163500Z
+SUMMARY:Ps (ć)
+LOCATION:201 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z
@@ -3084,6 +3119,13 @@ LOCATION:309 S
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261104T150000Z
+DTEND:20261104T163500Z
+SUMMARY:Ps (ć)
+LOCATION:201 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261104T165000Z
 DTEND:20261104T182500Z
 SUMMARY:WF (w)
@@ -3168,6 +3210,13 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261109T070000Z
+DTEND:20261109T083500Z
+SUMMARY:Pwst (P)
+LOCATION:011 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/6\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T085000Z
 DTEND:20261109T102500Z
 SUMMARY:wzbnim (w)
@@ -3245,6 +3294,20 @@ LOCATION:120 65
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:BbD (L)
+LOCATION:224 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T085000Z
+DTEND:20261113T102500Z
+SUMMARY:BbD (L)
+LOCATION:224 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261113T104000Z
 DTEND:20261113T121500Z
 SUMMARY:- (S.Sz.W.)
@@ -3285,6 +3348,13 @@ DTEND:20261114T083500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T070000Z
+DTEND:20261116T083500Z
+SUMMARY:Ps (ć)
+LOCATION:219 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T085000Z
@@ -3462,6 +3532,13 @@ LOCATION:317 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261124T085000Z
+DTEND:20261124T102500Z
+SUMMARY:Pwst (P)
+LOCATION:237 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/6\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261124T104000Z
 DTEND:20261124T121500Z
 SUMMARY:Bsbp (w)
@@ -3495,6 +3572,20 @@ DTEND:20261125T121500Z
 SUMMARY:MPH (w)
 LOCATION:314 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:BbD (L)
+LOCATION:233 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T150000Z
+DTEND:20261125T163500Z
+SUMMARY:BbD (L)
+LOCATION:233 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T165000Z
@@ -3600,6 +3691,13 @@ DTEND:20261203T102500Z
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 48/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T123000Z
+DTEND:20261203T140500Z
+SUMMARY:Ps (ć)
+LOCATION:201 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T085000Z
@@ -3728,6 +3826,13 @@ LOCATION:-
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261210T070000Z
+DTEND:20261210T083500Z
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261210T085000Z
 DTEND:20261210T102500Z
 SUMMARY:Ja (ć)
@@ -3826,11 +3931,25 @@ LOCATION:-
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:Pwst (P)
+LOCATION:239 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/6\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T104000Z
 DTEND:20261216T121500Z
 SUMMARY:MPH (w)
 LOCATION:314 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T070000Z
+DTEND:20261217T083500Z
+SUMMARY:Ps (ć)
+LOCATION:203 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T085000Z
@@ -3845,6 +3964,20 @@ DTEND:20261217T121500Z
 SUMMARY:wzbnim (ć)
 LOCATION:201 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T123000Z
+DTEND:20261217T140500Z
+SUMMARY:BbD (L)
+LOCATION:236 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T150000Z
+DTEND:20261217T163500Z
+SUMMARY:BbD (L)
+LOCATION:236 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T085000Z
@@ -4043,6 +4176,13 @@ LOCATION:-
 DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270112T070000Z
+DTEND:20270112T083500Z
+SUMMARY:Pwst (P)
+LOCATION:237 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 6/6\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270112T085000Z
 DTEND:20270112T102500Z
 SUMMARY:Bsbp (w)
@@ -4153,6 +4293,13 @@ DTEND:20270116T083500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T085000Z
+DTEND:20270118T102500Z
+SUMMARY:Ps (ć)
+LOCATION:101 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T104000Z
@@ -4312,7 +4459,7 @@ BEGIN:VEVENT
 DTSTART:20270127T150000Z
 DTEND:20270127T163500Z
 SUMMARY:MAST (w)
-LOCATION:316 S
+LOCATION:313 S
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT

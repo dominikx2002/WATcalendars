@@ -361,6 +361,13 @@ LOCATION:011 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261029T085000Z
+DTEND:20261029T102500Z
+SUMMARY:PZiP (ć)
+LOCATION:252 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T104000Z
 DTEND:20261029T121500Z
 SUMMARY:Sib (L)
@@ -487,6 +494,13 @@ LOCATION:239 S
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261105T104000Z
+DTEND:20261105T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:252 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261105T150000Z
 DTEND:20261105T163500Z
 SUMMARY:PZiP (w)
@@ -569,6 +583,13 @@ DTEND:20261110T140500Z
 SUMMARY:Rou (L)
 LOCATION:125 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T123000Z
+DTEND:20261112T140500Z
+SUMMARY:PZiP (ć)
+LOCATION:252 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T150000Z
@@ -697,6 +718,13 @@ LOCATION:120 65
 DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261119T104000Z
+DTEND:20261119T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:252 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261119T150000Z
 DTEND:20261119T163500Z
 SUMMARY:PZiP (w)
@@ -758,6 +786,20 @@ DTEND:20261125T102500Z
 SUMMARY:SoU (w)
 LOCATION:314 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:PSy (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:PSy (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -837,6 +879,13 @@ LOCATION:317 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261203T085000Z
+DTEND:20261203T102500Z
+SUMMARY:PZiP (ć)
+LOCATION:317 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261203T123000Z
 DTEND:20261203T140500Z
 SUMMARY:PZiP (w)
@@ -856,6 +905,20 @@ DTEND:20261203T182500Z
 SUMMARY:JEt (L)
 LOCATION:239 S
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T070000Z
+DTEND:20261204T083500Z
+SUMMARY:PSy (L)
+LOCATION:252 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T085000Z
+DTEND:20261204T102500Z
+SUMMARY:PSy (L)
+LOCATION:252 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T104000Z
@@ -956,6 +1019,20 @@ LOCATION:125 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261215T104000Z
+DTEND:20261215T121500Z
+SUMMARY:PSy (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T123000Z
+DTEND:20261215T140500Z
+SUMMARY:PSy (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261215T150000Z
 DTEND:20261215T163500Z
 SUMMARY:JEt (L)
@@ -1003,13 +1080,6 @@ DTEND:20261217T083500Z
 SUMMARY:Gk (w)
 LOCATION:317 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T085000Z
-DTEND:20261217T102500Z
-SUMMARY:PZiP (w)
-LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
@@ -1096,6 +1166,27 @@ LOCATION:313 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270107T085000Z
+DTEND:20270107T102500Z
+SUMMARY:Nsk (ć)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T104000Z
+DTEND:20270107T121500Z
+SUMMARY:Nsk (ć)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T085000Z
+DTEND:20270108T102500Z
+SUMMARY:PZiP (ć)
+LOCATION:313 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270108T104000Z
 DTEND:20270108T121500Z
 SUMMARY:PZS (L)
@@ -1166,6 +1257,34 @@ LOCATION:239 S
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270113T070000Z
+DTEND:20270113T083500Z
+SUMMARY:PSy (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T085000Z
+DTEND:20270113T102500Z
+SUMMARY:PSy (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T123000Z
+DTEND:20270113T140500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T150000Z
+DTEND:20270113T163500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270114T070000Z
 DTEND:20270114T083500Z
 SUMMARY:Gk (w)
@@ -1185,6 +1304,13 @@ DTEND:20270115T121500Z
 SUMMARY:Sib (w)
 LOCATION:203 65
 DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T150000Z
+DTEND:20270115T163500Z
+SUMMARY:PZiP (ć)
+LOCATION:307 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T070000Z
@@ -1227,6 +1353,27 @@ DTEND:20270119T182500Z
 SUMMARY:Bpe (L)
 LOCATION:121 65
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T123000Z
+DTEND:20270120T140500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T150000Z
+DTEND:20270120T163500Z
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T085000Z
+DTEND:20270121T102500Z
+SUMMARY:PZiP (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270122T085000Z
@@ -1285,10 +1432,38 @@ LOCATION:252 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270127T123000Z
+DTEND:20270127T140500Z
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T150000Z
+DTEND:20270127T163500Z
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270128T104000Z
 DTEND:20270128T121500Z
 SUMMARY:PBI (L)
 LOCATION:011 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/4\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T070000Z
+DTEND:20270129T083500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T085000Z
+DTEND:20270129T102500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 END:VCALENDAR

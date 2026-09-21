@@ -284,6 +284,13 @@ LOCATION:307 S
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261029T165000Z
+DTEND:20261029T182500Z
+SUMMARY:PZiP (ć)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261030T070000Z
 DTEND:20261030T083500Z
 SUMMARY:PZiP (w)
@@ -459,6 +466,13 @@ LOCATION:317 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261112T070000Z
+DTEND:20261112T083500Z
+SUMMARY:PZiP (ć)
+LOCATION:252 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T085000Z
 DTEND:20261112T102500Z
 SUMMARY:Swb (w)
@@ -515,6 +529,20 @@ LOCATION:317 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261117T150000Z
+DTEND:20261117T163500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T165000Z
+DTEND:20261117T182500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
 SUMMARY:SoU (L)
@@ -527,6 +555,13 @@ DTEND:20261118T102500Z
 SUMMARY:SoU (L)
 LOCATION:237 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T085000Z
+DTEND:20261119T102500Z
+SUMMARY:PZiP (ć)
+LOCATION:317 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z
@@ -627,6 +662,13 @@ LOCATION:314 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261126T070000Z
+DTEND:20261126T083500Z
+SUMMARY:PZiP (ć)
+LOCATION:313 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261126T085000Z
 DTEND:20261126T102500Z
 SUMMARY:Swb (w)
@@ -676,6 +718,20 @@ LOCATION:317 S
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261201T104000Z
+DTEND:20261201T121500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T123000Z
+DTEND:20261201T140500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261201T150000Z
 DTEND:20261201T163500Z
 SUMMARY:Bpe (L)
@@ -702,6 +758,13 @@ DTEND:20261202T102500Z
 SUMMARY:PBI (L)
 LOCATION:011 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T070000Z
+DTEND:20261203T083500Z
+SUMMARY:PZiP (ć)
+LOCATION:252 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T070000Z
@@ -781,6 +844,20 @@ LOCATION:316 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261210T085000Z
+DTEND:20261210T102500Z
+SUMMARY:PSy (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T104000Z
+DTEND:20261210T121500Z
+SUMMARY:PSy (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261211T104000Z
 DTEND:20261211T121500Z
 SUMMARY:SoU (L)
@@ -795,11 +872,39 @@ LOCATION:237 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/20\nProwadzący: Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261214T070000Z
+DTEND:20261214T083500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T085000Z
+DTEND:20261214T102500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261214T123000Z
 DTEND:20261214T140500Z
 SUMMARY:htm (w)
 LOCATION:307 S
 DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T150000Z
+DTEND:20261215T163500Z
+SUMMARY:PSy (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T165000Z
+DTEND:20261215T182500Z
+SUMMARY:PSy (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -816,11 +921,11 @@ LOCATION:011 65
 DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
-SUMMARY:PZiP (w)
-LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
+DTSTART:20261217T104000Z
+DTEND:20261217T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:314 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T070000Z
@@ -881,16 +986,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T104000Z
 DTEND:20270107T121500Z
-SUMMARY:Bpe (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: -
+SUMMARY:PSy (L)
+LOCATION:239 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T123000Z
 DTEND:20270107T140500Z
-SUMMARY:Bpe (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
+SUMMARY:PSy (L)
+LOCATION:239 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T150000Z
@@ -907,6 +1012,34 @@ LOCATION:125 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270111T070000Z
+DTEND:20270111T083500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T085000Z
+DTEND:20270111T102500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T165000Z
+DTEND:20270112T182500Z
+SUMMARY:Bpe (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T184000Z
+DTEND:20270112T201500Z
+SUMMARY:Bpe (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270113T123000Z
 DTEND:20270113T140500Z
 SUMMARY:Est (L)
@@ -919,6 +1052,13 @@ DTEND:20270113T163500Z
 SUMMARY:Est (L)
 LOCATION:125 65
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T104000Z
+DTEND:20270114T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:313 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T150000Z
@@ -1019,6 +1159,27 @@ LOCATION:011 65
 DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270122T070000Z
+DTEND:20270122T083500Z
+SUMMARY:PZiP (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270125T070000Z
+DTEND:20270125T083500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270125T085000Z
+DTEND:20270125T102500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270126T070000Z
 DTEND:20270126T083500Z
 SUMMARY:SoU (L)
@@ -1045,6 +1206,20 @@ DTEND:20270126T140500Z
 SUMMARY:Swb (L)
 LOCATION:09 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T150000Z
+DTEND:20270126T163500Z
+SUMMARY:PSy (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T165000Z
+DTEND:20270126T182500Z
+SUMMARY:PSy (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T150000Z

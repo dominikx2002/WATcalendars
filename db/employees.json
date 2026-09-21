@@ -2742,6 +2742,11 @@
     },
     {
       "degree": "dr inż.",
+      "is_new": true,
+      "name": "Mateusz Oszczypała [NEW]"
+    },
+    {
+      "degree": "dr inż.",
       "is_new": false,
       "name": "Mateusz Szala"
     },
@@ -4447,6 +4452,11 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Dominika Lewczuk [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Dominika Sobczuk"
     },
@@ -5562,6 +5572,11 @@
     },
     {
       "degree": "prof. dr hab. inż.",
+      "is_new": true,
+      "name": "Anna Kłos [NEW]"
+    },
+    {
+      "degree": "prof. dr hab. inż.",
       "is_new": false,
       "name": "Antoni Rogalski"
     },
@@ -5872,10 +5887,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T03:42:53.698716",
-    "last_updated_readable": "2026-09-10 03:42:53",
-    "new_employees_count": 0,
+    "last_updated": "2026-09-21T10:58:31.352520",
+    "last_updated_readable": "2026-09-21 10:58:31",
+    "new_employees_count": 3,
     "scraper_version": "1.0",
-    "total_employees": 1174
+    "total_employees": 1177
   }
 }

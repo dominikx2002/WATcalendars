@@ -4,794 +4,815 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO25PX1N1
 BEGIN:VEVENT
-DTSTART:20261004T060000Z
-DTEND:20261004T073500Z
-SUMMARY:DzS (i)
-LOCATION:aula/135
-DESCRIPTION:Dzień stawiennictwa\nRodzaj zajęć: (i)\nNumer zajęć: 1/1
+DTSTART:20261003T060000Z
+DTEND:20261003T073500Z
+SUMMARY:EkO (w)
+LOCATION:1.15/16
+DESCRIPTION:Ekonomika obronna 9\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261011T060000Z
-DTEND:20261011T073500Z
-SUMMARY:Podst.teorii 
-LOCATION:0.6/16
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 1/11\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. (prof. WAT) Świerszcz Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261025T070000Z
-DTEND:20261025T083500Z
-SUMMARY:M (w)
+DTSTART:20261010T060000Z
+DTEND:20261010T073500Z
+SUMMARY:Hsw (w)
 LOCATION:2.21/135
-DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr hab. inż. Ćwik Bogdan
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T060000Z
+DTEND:20261024T073500Z
+SUMMARY:Sta (w)
+LOCATION:0.21/16
+DESCRIPTION:Statystyka 33\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Oziębło Małgorzata 34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T070000Z
+DTEND:20261114T083500Z
+SUMMARY:PODST. 
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 1/11\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T070000Z
+DTEND:20261121T083500Z
+SUMMARY:Ap (ć)
+LOCATION:0.22/16
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Chyrzyński Ryszard 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T070000Z
+DTEND:20261219T083500Z
+SUMMARY:Sta (w)
+LOCATION:0.21/16
+DESCRIPTION:Statystyka 33\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Oziębło Małgorzata 34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T070000Z
+DTEND:20260116T083500Z
+SUMMARY:Hsw (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T070000Z
+DTEND:20260130T083500Z
+SUMMARY:Sta (ć)
+LOCATION:255 S
+DESCRIPTION:Statystyka 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Oziębło Małgorzata 34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T075000Z
+DTEND:20261003T092500Z
+SUMMARY:EkO (w)
+LOCATION:1.15/16
+DESCRIPTION:Ekonomika obronna 9\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T075000Z
+DTEND:20261010T092500Z
+SUMMARY:P 
+LOCATION:1.15/16
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 1/8\nProwadzący: prof. dr hab. Misiuk Andrzej 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T075000Z
+DTEND:20261024T092500Z
+SUMMARY:Sta (ć)
+LOCATION:0.21/16
+DESCRIPTION:Statystyka 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Oziębło Małgorzata 34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T085000Z
+DTEND:20261114T102500Z
+SUMMARY:PODST. 
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 2/11\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T085000Z
+DTEND:20261121T102500Z
+SUMMARY:Ap (ć)
+LOCATION:0.22/16
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Chyrzyński Ryszard 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T085000Z
+DTEND:20261205T102500Z
+SUMMARY:Sta (w)
+LOCATION:0.21/16
+DESCRIPTION:Statystyka 33\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Oziębło Małgorzata 34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T085000Z
+DTEND:20261212T102500Z
+SUMMARY:EkO (ć)
+LOCATION:1003 HIL
+DESCRIPTION:Ekonomika obronna 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T085000Z
+DTEND:20261219T102500Z
+SUMMARY:Sta (ć)
+LOCATION:2/22
+DESCRIPTION:Statystyka 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Oziębło Małgorzata 34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T085000Z
+DTEND:20260109T102500Z
+SUMMARY:P 
+LOCATION:25PX; 1N; 1 Ad; 1002 HIL
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 2/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T085000Z
+DTEND:20260116T102500Z
+SUMMARY:Hsw (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T085000Z
+DTEND:20260123T102500Z
+SUMMARY:ZŚN (ć)
+LOCATION:187 S
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 41\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Adamkiewicz Jakub 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T085000Z
+DTEND:20260130T102500Z
+SUMMARY:Sta (ć)
+LOCATION:255 S
+DESCRIPTION:Statystyka 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Oziębło Małgorzata 34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T094000Z
+DTEND:20261003T111500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T094000Z
+DTEND:20261010T111500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T094000Z
+DTEND:20261024T111500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T104000Z
+DTEND:20261107T121500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T104000Z
+DTEND:20261114T121500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T104000Z
+DTEND:20261121T121500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T104000Z
+DTEND:20261205T121500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T104000Z
+DTEND:20261212T121500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T104000Z
+DTEND:20261219T121500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T104000Z
+DTEND:20260109T121500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T104000Z
+DTEND:20260116T121500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T104000Z
+DTEND:20260123T121500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T104000Z
+DTEND:20260130T121500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T104000Z
+DTEND:20260206T121500Z
+SUMMARY:Podst.prawne 
+LOCATION:0.19/135
+DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 1/11\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10; dr Stawarz Paweł 13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T104000Z
+DTEND:20260220T121500Z
+SUMMARY:Podst.prawne 
+LOCATION:0.19/135
+DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 2/11\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10; dr Stawarz Paweł 13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T113000Z
+DTEND:20261003T130500Z
+SUMMARY:ZŚN (w)
+LOCATION:0.6/16
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 41\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Adamkiewicz Jakub 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T113000Z
+DTEND:20261010T130500Z
+SUMMARY:ZŚN (ć)
+LOCATION:0.8/16
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 41\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Adamkiewicz Jakub 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T123000Z
+DTEND:20261107T140500Z
+SUMMARY:ZŚN (ć)
+LOCATION:0.6/16
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 41\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Adamkiewicz Jakub 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T123000Z
+DTEND:20261121T140500Z
+SUMMARY:Podst.prawne 
+LOCATION:2.22/135
+DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 3/11\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10; dr Stawarz Paweł 13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T123000Z
+DTEND:20261205T140500Z
+SUMMARY:Podst.prawne 
+LOCATION:2.22/135
+DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 4/11\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10; dr Stawarz Paweł 13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T123000Z
+DTEND:20261212T140500Z
+SUMMARY:ZŚN (ć)
+LOCATION:0.23/16
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 41\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Adamkiewicz Jakub 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T123000Z
+DTEND:20261219T140500Z
+SUMMARY:ZŚN (ć)
+LOCATION:1002 HIL
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 41\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Adamkiewicz Jakub 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T123000Z
+DTEND:20260109T140500Z
+SUMMARY:Sta (ć)
+LOCATION:1.27/135
+DESCRIPTION:Statystyka 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Oziębło Małgorzata 34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T123000Z
+DTEND:20260116T140500Z
+SUMMARY:Podst.prawne 
+LOCATION:25PX; 1N; 1 Trz; 1003 HIL
+DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 5/11\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T123000Z
+DTEND:20260123T140500Z
+SUMMARY:Hsw (ć)
+LOCATION:5.21/135
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T123000Z
+DTEND:20260130T140500Z
+SUMMARY:Syst.zarz. 
+LOCATION:2.22/135
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 1/11\nProwadzący: dr Stawarz Paweł 13; dr Bryczek-Wróbel Patrycja 37
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T123000Z
+DTEND:20260206T140500Z
+SUMMARY:Syst.zarz. 
+LOCATION:0.6/16
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 2/11\nProwadzący: dr Stawarz Paweł 13; dr Bryczek-Wróbel Patrycja 37
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T123000Z
+DTEND:20260220T140500Z
+SUMMARY:Syst.zarz. 
+LOCATION:4.23/135
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 3/11\nProwadzący: dr Stawarz Paweł 13; dr Bryczek-Wróbel Patrycja 37
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T140000Z
+DTEND:20261003T153500Z
+SUMMARY:ZŚN (w)
+LOCATION:0.6/16
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 41\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Adamkiewicz Jakub 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T140000Z
+DTEND:20261010T153500Z
+SUMMARY:EkO (w)
+LOCATION:0.6/16
+DESCRIPTION:Ekonomika obronna 9\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T150000Z
+DTEND:20261107T163500Z
+SUMMARY:Hsw (w)
+LOCATION:5.17/135
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T150000Z
+DTEND:20261121T163500Z
+SUMMARY:Podst.prawne 
+LOCATION:2.22/135
+DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 6/11\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10; dr Stawarz Paweł 13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T150000Z
+DTEND:20261205T163500Z
+SUMMARY:Podst.prawne 
+LOCATION:2.22/135
+DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 7/11\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10; dr Stawarz Paweł 13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T150000Z
+DTEND:20261212T163500Z
+SUMMARY:Ap (ć)
+LOCATION:1003 HIL
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Chyrzyński Ryszard 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T150000Z
+DTEND:20261219T163500Z
+SUMMARY:Podst.prawne 
+LOCATION:255 S
+DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 8/11\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2; mgr Trzcińska Luiza 22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T150000Z
+DTEND:20260109T163500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T150000Z
+DTEND:20260116T163500Z
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: mgr Gołdowski Adrian 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T150000Z
+DTEND:20260123T163500Z
+SUMMARY:Hsw (ć)
+LOCATION:5.21/135
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T150000Z
+DTEND:20260130T163500Z
+SUMMARY:Syst.zarz. 
+LOCATION:4.23/135
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 4/11\nProwadzący: dr Stawarz Paweł 13; dr Bryczek-Wróbel Patrycja 37
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T155000Z
+DTEND:20261003T172500Z
+SUMMARY:ZŚN (w)
+LOCATION:0.6/16
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 41\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Adamkiewicz Jakub 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T155000Z
+DTEND:20261010T172500Z
+SUMMARY:EkO (w)
+LOCATION:0.6/16
+DESCRIPTION:Ekonomika obronna 9\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T165000Z
+DTEND:20261107T182500Z
+SUMMARY:Hsw (w)
+LOCATION:5.17/135
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T165000Z
+DTEND:20261219T182500Z
+SUMMARY:Syst.zarz. 
+LOCATION:4.23/135
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 5/11\nProwadzący: dr Stawarz Paweł 13; dr Bryczek-Wróbel Patrycja 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261108T070000Z
 DTEND:20261108T083500Z
-SUMMARY:Wzp (w)
+SUMMARY:EkO (ć)
 LOCATION:0.22/16
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Ćwik Dariusz
+DESCRIPTION:Ekonomika obronna 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261115T070000Z
-DTEND:20261115T083500Z
-SUMMARY:NoPiP (w)
-LOCATION:aula/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Warchał Arnold
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261122T070000Z
-DTEND:20261122T083500Z
-SUMMARY:NoPiP (w)
-LOCATION:1.10/16
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Warchał Arnold
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261213T070000Z
-DTEND:20261213T083500Z
-SUMMARY:NoPiP (w)
-LOCATION:4.17a/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Warchał Arnold
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260110T070000Z
-DTEND:20260110T083500Z
-SUMMARY:Psy (ć)
-LOCATION:0.21/16
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260117T070000Z
-DTEND:20260117T083500Z
-SUMMARY:WdI (ć)
-LOCATION:53/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Dziewulski Paweł; mgr inż. Malesa Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260124T070000Z
-DTEND:20260124T083500Z
-SUMMARY:Podst.teorii 
-LOCATION:37/158
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 2/11\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. (prof. WAT) Świerszcz Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260131T070000Z
-DTEND:20260131T083500Z
-SUMMARY:oiz (ć)
-LOCATION:1.15/16
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: mgr Dąbrowska - Świder Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260207T070000Z
-DTEND:20260207T083500Z
-SUMMARY:Ek (E)
-LOCATION:31/158
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260221T070000Z
-DTEND:20260221T083500Z
-SUMMARY:NoPiP (Ep)
-LOCATION:26/158
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Warchał Arnold
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260228T070000Z
-DTEND:20260228T083500Z
-SUMMARY:OCHRONA 
-LOCATION:25PX; 1N; 1 Szy
-DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 1/1\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr hab. inż. Ćwik Bogdan
+DTSTART:20261206T070000Z
+DTEND:20261206T083500Z
+SUMMARY:Ap (ć)
+LOCATION:1003 HIL
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T075000Z
 DTEND:20261004T092500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
+SUMMARY:PODST. 
+LOCATION:0.6/16
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 3/11\nProwadzący: dr Chyrzyński Ryszard 2; mgr Trzcińska Luiza 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T075000Z
 DTEND:20261011T092500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261025T085000Z
-DTEND:20261025T102500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
+SUMMARY:PODST. 
+LOCATION:0.8/16
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 4/11\nProwadzący: dr Chyrzyński Ryszard 2; mgr Trzcińska Luiza 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261108T085000Z
 DTEND:20261108T102500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
+SUMMARY:EkO (ć)
+LOCATION:0.22/16
+DESCRIPTION:Ekonomika obronna 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T085000Z
 DTEND:20261115T102500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261122T085000Z
-DTEND:20261122T102500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
+SUMMARY:Syst.zarz. 
+LOCATION:25PX; 1N; 1 Bwp; 1002 HIL
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 6/11\nProwadzący: dr Stawarz Paweł 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261206T085000Z
 DTEND:20261206T102500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261213T085000Z
-DTEND:20261213T102500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261220T085000Z
-DTEND:20261220T102500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260110T085000Z
-DTEND:20260110T102500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260117T085000Z
-DTEND:20260117T102500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
+SUMMARY:Ap (ć)
+LOCATION:1003 HIL
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T085000Z
 DTEND:20260124T102500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
+SUMMARY:Hsw (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T085000Z
 DTEND:20260131T102500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
+SUMMARY:Gp (ć)
+LOCATION:0.28/135
+DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T085000Z
+DTEND:20260207T102500Z
+SUMMARY:PODST. 
+LOCATION:2.22/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 5/11\nProwadzący: dr Chyrzyński Ryszard 2; prof. dr hab. Misiuk Andrzej 5; mgr Trzcińska Luiza 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260221T085000Z
 DTEND:20260221T102500Z
-SUMMARY:Ek (Ep)
-LOCATION:31/158
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260228T085000Z
-DTEND:20260228T102500Z
-SUMMARY:Jo (ć)
-LOCATION:120 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/16\nProwadzący: mgr Gołdowski Adrian
+SUMMARY:PODST. 
+LOCATION:2.22/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 6/11\nProwadzący: dr Chyrzyński Ryszard 2; mgr Trzcińska Luiza 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T094000Z
 DTEND:20261004T111500Z
-SUMMARY:Historyczne 
-LOCATION:0.23/16
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 1/10
+SUMMARY:PODST. 
+LOCATION:0.6/16
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 7/11\nProwadzący: dr Chyrzyński Ryszard 2; mgr Trzcińska Luiza 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T094000Z
 DTEND:20261011T111500Z
-SUMMARY:Ek (w)
-LOCATION:1.16/16
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: prof. dr hab. Kościelecki Lech
+SUMMARY:PODST. 
+LOCATION:0.8/16
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 8/11\nProwadzący: dr Chyrzyński Ryszard 2; mgr Trzcińska Luiza 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T104000Z
 DTEND:20261025T121500Z
-SUMMARY:Ek (w)
-LOCATION:37/158
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: prof. dr hab. Kościelecki Lech
+SUMMARY:Ap (w)
+LOCATION:1003 HIL
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261108T104000Z
 DTEND:20261108T121500Z
-SUMMARY:Podst.teorii 
-LOCATION:1.27/135
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 3/11\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. (prof. WAT) Świerszcz Katarzyna
+SUMMARY:Ap (w)
+LOCATION:1002 HIL
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T104000Z
 DTEND:20261115T121500Z
-SUMMARY:Wzp (w)
-LOCATION:4.17a/135
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Ćwik Dariusz
+SUMMARY:Syst.zarz. 
+LOCATION:25PX; 1N; 1 Bwp; 1002 HIL
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 7/11\nProwadzący: dr Stawarz Paweł 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T104000Z
 DTEND:20261122T121500Z
-SUMMARY:Podst.teorii 
-LOCATION:1.9/16
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 4/11\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. (prof. WAT) Świerszcz Katarzyna
+SUMMARY:Podst.prawne 
+LOCATION:25PX; 1N; 1 Trz; 1003 HIL
+DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 9/11\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T104000Z
+DTEND:20261206T121500Z
+SUMMARY:PODST. 
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 9/11\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T104000Z
 DTEND:20261213T121500Z
-SUMMARY:Podst.teorii 
-LOCATION:0.28/135
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 5/11\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. (prof. WAT) Świerszcz Katarzyna
+SUMMARY:Gp (ć)
+LOCATION:1002 HIL
+DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T104000Z
 DTEND:20260110T121500Z
-SUMMARY:M (w)
-LOCATION:2.21/135
-DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr hab. inż. Ćwik Bogdan
+SUMMARY:Podst.prawne 
+LOCATION:3.16/135
+DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 10/11\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2; mgr Trzcińska Luiza 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T104000Z
 DTEND:20260117T121500Z
-SUMMARY:oiz (w)
-LOCATION:4.17a/135
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Marciniak Mirosław
+SUMMARY:Syst.zarz. 
+LOCATION:2.22/135
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 8/11\nProwadzący: dr Stawarz Paweł 13; dr Bryczek-Wróbel Patrycja 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T104000Z
 DTEND:20260124T121500Z
-SUMMARY:NoPiP (ć)
-LOCATION:255 S
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Warchał Arnold
+SUMMARY:Gp (ć)
+LOCATION:5.17/135
+DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T104000Z
 DTEND:20260131T121500Z
-SUMMARY:M (ć)
-LOCATION:5.21/135
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Ćwik Bogdan
+SUMMARY:EkO (ć)
+LOCATION:3.16/135
+DESCRIPTION:Ekonomika obronna 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T104000Z
+DTEND:20260207T121500Z
+SUMMARY:Bwp (E)
+LOCATION:255 S
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260221T104000Z
 DTEND:20260221T121500Z
-SUMMARY:Podst.teorii 
-LOCATION:37/158
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 6/11\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. (prof. WAT) Świerszcz Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260228T104000Z
-DTEND:20260228T121500Z
-SUMMARY:Fil (w)
-LOCATION:
-DESCRIPTION:Filozofia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr Warchał Arnold
+SUMMARY:Bwp (Ep)
+LOCATION:1003 HIL
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T113000Z
 DTEND:20261004T130500Z
-SUMMARY:WdS (w)
-LOCATION:255 S
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Łakoma Ewa
+SUMMARY:Bwp (w)
+LOCATION:1003 HIL
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T113000Z
 DTEND:20261011T130500Z
-SUMMARY:Oin (w)
-LOCATION:1.16/16
-DESCRIPTION:Ochrona własności intelektualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Karczewski Edward
+SUMMARY:Bwp (w)
+LOCATION:1003 HIL
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T123000Z
 DTEND:20261025T140500Z
-SUMMARY:WdS (w)
-LOCATION:4.17a/135
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Łakoma Ewa
+SUMMARY:Gp (w)
+LOCATION:0.8/16
+DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261108T123000Z
 DTEND:20261108T140500Z
-SUMMARY:WdI (ć)
-LOCATION:57/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Dziewulski Paweł; mgr inż. Malesa Piotr
+SUMMARY:Ap (w)
+LOCATION:1002 HIL
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T123000Z
 DTEND:20261115T140500Z
-SUMMARY:Oin (w)
-LOCATION:0.23/16
-DESCRIPTION:Ochrona własności intelektualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Karczewski Edward
+SUMMARY:Gp (w)
+LOCATION:1.10/16
+DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T123000Z
 DTEND:20261122T140500Z
-SUMMARY:M (w)
-LOCATION:0.23/16
-DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr hab. inż. Ćwik Bogdan
+SUMMARY:P 
+LOCATION:25PX; 1N; 1 Ad; 1003 HIL
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261206T123000Z
 DTEND:20261206T140500Z
-SUMMARY:WdI (w)
-LOCATION:57/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Konarzewski Marcin
+SUMMARY:PODST. 
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 10/11\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T123000Z
 DTEND:20261213T140500Z
-SUMMARY:Ek (ć)
-LOCATION:1.16/16
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: prof. dr hab. Kościelecki Lech
+SUMMARY:Bwp (ć)
+LOCATION:1.9/16
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T123000Z
 DTEND:20261220T140500Z
-SUMMARY:WdI (ć)
-LOCATION:53/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Dziewulski Paweł; mgr inż. Malesa Piotr
+SUMMARY:Gp (ć)
+LOCATION:2.22/135
+DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T123000Z
 DTEND:20260110T140500Z
-SUMMARY:Ek (ć)
-LOCATION:4.23/135
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: prof. dr hab. Kościelecki Lech
+SUMMARY:Podst.prawne 
+LOCATION:3.16/135
+DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 11/11\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2; mgr Trzcińska Luiza 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T123000Z
 DTEND:20260117T140500Z
-SUMMARY:Wzp (ć)
-LOCATION:0.6/16
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr Ćwik Dariusz
+SUMMARY:Syst.zarz. 
+LOCATION:4.23/135
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 9/11\nProwadzący: dr Stawarz Paweł 13; dr Bryczek-Wróbel Patrycja 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T123000Z
 DTEND:20260124T140500Z
-SUMMARY:NoPiP (ć)
-LOCATION:255 S
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Warchał Arnold
+SUMMARY:Bwp (ć)
+LOCATION:1003 HIL
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T123000Z
 DTEND:20260131T140500Z
-SUMMARY:Psy (ć)
-LOCATION:1.15/16
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260214T123000Z
-DTEND:20260214T140500Z
-SUMMARY:NoPiP (E)
-LOCATION:0.19/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Warchał Arnold
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260228T123000Z
-DTEND:20260228T140500Z
-SUMMARY:MSPM (w)
-LOCATION:
-DESCRIPTION:Międzynarodowe stosunki polityczno - militarne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Piwowarczyk Ryszard
+SUMMARY:EkO (ć)
+LOCATION:3.16/135
+DESCRIPTION:Ekonomika obronna 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T140000Z
 DTEND:20261004T153500Z
-SUMMARY:Ek (w)
-LOCATION:255 S
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: prof. dr hab. Kościelecki Lech
+SUMMARY:Bwp (w)
+LOCATION:1003 HIL
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T140000Z
 DTEND:20261011T153500Z
-SUMMARY:Psy (w)
-LOCATION:1.16/16
-DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Karczewski Edward
+SUMMARY:Bwp (w)
+LOCATION:1003 HIL
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T150000Z
 DTEND:20261025T163500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
+SUMMARY:Gp (w)
+LOCATION:0.8/16
+DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T150000Z
 DTEND:20261115T163500Z
-SUMMARY:Psy (w)
-LOCATION:26/158
-DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Karczewski Edward
+SUMMARY:Gp (ć)
+LOCATION:1.10/16
+DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T150000Z
 DTEND:20261122T163500Z
-SUMMARY:Podst.teorii 
-LOCATION:0.6/16
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 7/11\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. (prof. WAT) Świerszcz Katarzyna
+SUMMARY:P 
+LOCATION:25PX; 1N; 1 Ad; 1003 HIL
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261206T150000Z
 DTEND:20261206T163500Z
-SUMMARY:WdI (w)
-LOCATION:57/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Konarzewski Marcin
+SUMMARY:PODST. 
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 11/11\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T150000Z
 DTEND:20261213T163500Z
-SUMMARY:Ek (ć)
-LOCATION:1.16/16
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: prof. dr hab. Kościelecki Lech
+SUMMARY:Bwp (ć)
+LOCATION:1.9/16
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T150000Z
 DTEND:20261220T163500Z
-SUMMARY:Ek (ć)
-LOCATION:26/158
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: prof. dr hab. Kościelecki Lech
+SUMMARY:Syst.zarz. 
+LOCATION:4.23/135
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 10/11\nProwadzący: dr Stawarz Paweł 13; dr Bryczek-Wróbel Patrycja 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T150000Z
 DTEND:20260110T163500Z
-SUMMARY:M (ć)
-LOCATION:255 S
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Ćwik Bogdan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260117T150000Z
-DTEND:20260117T163500Z
-SUMMARY:Jo (ć)
-LOCATION:133 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/16\nProwadzący: mgr Gołdowski Adrian; mgr Zeneli Andi
+SUMMARY:P 
+LOCATION:25PX; 1N; 1 Ad; 1003 HIL
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T150000Z
 DTEND:20260124T163500Z
-SUMMARY:Psy (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Karczewski Edward
+SUMMARY:Bwp (ć)
+LOCATION:1003 HIL
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T150000Z
 DTEND:20260131T163500Z
-SUMMARY:oiz (ć)
-LOCATION:1.17/16
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr Dąbrowska - Świder Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260228T150000Z
-DTEND:20260228T163500Z
-SUMMARY:MSPM (w)
-LOCATION:
-DESCRIPTION:Międzynarodowe stosunki polityczno - militarne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T165000Z
-DTEND:20261115T182500Z
-SUMMARY:WdI (ć)
-LOCATION:57/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Dziewulski Paweł; mgr inż. Malesa Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261122T165000Z
-DTEND:20261122T182500Z
-SUMMARY:Podst.teorii 
-LOCATION:0.6/16
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 8/11\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. (prof. WAT) Świerszcz Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261206T165000Z
-DTEND:20261206T182500Z
-SUMMARY:WdI (ć)
-LOCATION:57/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Dziewulski Paweł; mgr inż. Malesa Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261213T165000Z
-DTEND:20261213T182500Z
-SUMMARY:Psy (ć)
-LOCATION:255 S
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Karczewski Edward
+SUMMARY:P 
+LOCATION:0.22/16
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T165000Z
 DTEND:20261220T182500Z
-SUMMARY:Psy (ć)
-LOCATION:3.16/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Karczewski Edward
+SUMMARY:Syst.zarz. 
+LOCATION:4.23/135
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 11/11\nProwadzący: dr Stawarz Paweł 13; dr Bryczek-Wróbel Patrycja 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T165000Z
 DTEND:20260110T182500Z
-SUMMARY:M (ć)
-LOCATION:255 S
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Ćwik Bogdan
+SUMMARY:P 
+LOCATION:25PX; 1N; 1 Ad; 1003 HIL
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T060000Z
-DTEND:20261012T073500Z
-SUMMARY:oiz (w)
-LOCATION:37/158
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Marciniak Mirosław
+DTSTART:20260124T165000Z
+DTEND:20260124T182500Z
+SUMMARY:Bwp (ć)
+LOCATION:1003 HIL
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261026T070000Z
-DTEND:20261026T083500Z
-SUMMARY:oiz (w)
-LOCATION:0.23/16
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T070000Z
-DTEND:20261116T083500Z
-SUMMARY:oiz (w)
-LOCATION:1.15/16
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261123T070000Z
-DTEND:20261123T083500Z
-SUMMARY:NoPiP (ć)
-LOCATION:31/158
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Warchał Arnold
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261207T070000Z
-DTEND:20261207T083500Z
-SUMMARY:Historyczne 
-LOCATION:31/158
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 2/10\nProwadzący: dr Krawczyk Anna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261214T070000Z
-DTEND:20261214T083500Z
-SUMMARY:Podst.teorii 
-LOCATION:4.17b/135
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 9/11\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. (prof. WAT) Świerszcz Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261221T070000Z
-DTEND:20261221T083500Z
-SUMMARY:oiz (ć)
-LOCATION:9/158
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: mgr Dąbrowska - Świder Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260125T070000Z
-DTEND:20260125T083500Z
-SUMMARY:Ek (ć)
-LOCATION:31/158
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260208T070000Z
-DTEND:20260208T083500Z
-SUMMARY:Podst.teorii 
-LOCATION:37/158
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 10/11\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. (prof. WAT) Świerszcz Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260301T070000Z
-DTEND:20260301T083500Z
-SUMMARY:mpkz (w)
-LOCATION:0.21/16
-DESCRIPTION:Miedzynarodowe prawo konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261026T085000Z
-DTEND:20261026T102500Z
-SUMMARY:Historyczne 
-LOCATION:0.23/16
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 3/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T085000Z
-DTEND:20261116T102500Z
-SUMMARY:Ez (w)
-LOCATION:255 S
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261123T085000Z
-DTEND:20261123T102500Z
-SUMMARY:Psy (w)
-LOCATION:255 S
-DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261207T085000Z
-DTEND:20261207T102500Z
-SUMMARY:NoPiP (ć)
-LOCATION:9/158
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Warchał Arnold
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261214T085000Z
-DTEND:20261214T102500Z
-SUMMARY:Podst.teorii 
-LOCATION:4.17b/135
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 11/11\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. (prof. WAT) Świerszcz Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T085000Z
-DTEND:20260111T102500Z
-SUMMARY:Historyczne 
-LOCATION:1.15/16
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 4/10\nProwadzący: dr Krawczyk Anna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260118T085000Z
-DTEND:20260118T102500Z
-SUMMARY:Ez (ć)
-LOCATION:1.27/135
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260125T085000Z
-DTEND:20260125T102500Z
-SUMMARY:oiz (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: mgr Dąbrowska - Świder Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T085000Z
-DTEND:20260215T102500Z
-SUMMARY:Historyczne 
-LOCATION:37/158
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 5/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260222T085000Z
-DTEND:20260222T102500Z
-SUMMARY:Historyczne 
-LOCATION:37/158
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 6/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260301T085000Z
-DTEND:20260301T102500Z
-SUMMARY:mpkz (w)
-LOCATION:0.21/16
-DESCRIPTION:Miedzynarodowe prawo konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T094000Z
-DTEND:20261012T111500Z
-SUMMARY:Ez (w)
-LOCATION:3.16/135
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261026T104000Z
-DTEND:20261026T121500Z
-SUMMARY:WdI (w)
-LOCATION:57/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Konarzewski Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T104000Z
-DTEND:20261116T121500Z
-SUMMARY:WdI (w)
-LOCATION:57/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Konarzewski Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261123T104000Z
-DTEND:20261123T121500Z
-SUMMARY:Oin (w)
-LOCATION:1.10/16
-DESCRIPTION:Ochrona własności intelektualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261207T104000Z
-DTEND:20261207T121500Z
-SUMMARY:Historyczne 
-LOCATION:37/158
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 7/10\nProwadzący: dr Krawczyk Anna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261214T104000Z
-DTEND:20261214T121500Z
-SUMMARY:M (ć)
-LOCATION:31/158
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Ćwik Bogdan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T104000Z
-DTEND:20260111T121500Z
-SUMMARY:Historyczne 
-LOCATION:37/158
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 8/10\nProwadzący: dr Krawczyk Anna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260125T104000Z
-DTEND:20260125T121500Z
-SUMMARY:oiz (ć)
-LOCATION:0.21/16
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: mgr Dąbrowska - Świder Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260301T104000Z
-DTEND:20260301T121500Z
-SUMMARY:mpkz (w)
-LOCATION:0.21/16
-DESCRIPTION:Miedzynarodowe prawo konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261026T123000Z
-DTEND:20261026T140500Z
-SUMMARY:Ez (w)
-LOCATION:31/158
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T123000Z
-DTEND:20261116T140500Z
-SUMMARY:Historyczne 
-LOCATION:31/158
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 9/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261123T123000Z
-DTEND:20261123T140500Z
-SUMMARY:Wzp (w)
-LOCATION:A.1.3/135
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261207T123000Z
-DTEND:20261207T140500Z
-SUMMARY:Historyczne 
-LOCATION:37/158
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 10/10\nProwadzący: dr Krawczyk Anna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261214T123000Z
-DTEND:20261214T140500Z
-SUMMARY:M (ć)
-LOCATION:31/158
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Ćwik Bogdan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T123000Z
-DTEND:20260111T140500Z
-SUMMARY:NoPiP (ć)
+DTSTART:20260131T165000Z
+DTEND:20260131T182500Z
+SUMMARY:P 
 LOCATION:0.22/16
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Warchał Arnold
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260301T123000Z
-DTEND:20260301T140500Z
-SUMMARY:mpkz (w)
-LOCATION:0.21/16
-DESCRIPTION:Miedzynarodowe prawo konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Ćwik Dariusz
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 8/8\nProwadzący: prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 END:VCALENDAR

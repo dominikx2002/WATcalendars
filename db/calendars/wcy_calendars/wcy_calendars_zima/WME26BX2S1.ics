@@ -218,7 +218,7 @@ DTSTART:20261012T060000Z
 DTEND:20261012T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T075000Z
@@ -365,7 +365,7 @@ DTSTART:20261019T060000Z
 DTEND:20261019T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T075000Z
@@ -452,6 +452,13 @@ LOCATION:9/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261022T075000Z
+DTEND:20261022T092500Z
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261022T140000Z
 DTEND:20261022T153500Z
 SUMMARY:JoM (ć)
@@ -519,7 +526,7 @@ DTSTART:20261026T070000Z
 DTEND:20261026T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T085000Z
@@ -771,7 +778,7 @@ DTSTART:20261102T070000Z
 DTEND:20261102T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T085000Z
@@ -939,7 +946,7 @@ DTSTART:20261109T070000Z
 DTEND:20261109T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T085000Z
@@ -1135,7 +1142,7 @@ DTSTART:20261116T070000Z
 DTEND:20261116T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T085000Z
@@ -1289,7 +1296,7 @@ DTSTART:20261123T070000Z
 DTEND:20261123T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T085000Z
@@ -1450,7 +1457,7 @@ DTSTART:20261130T070000Z
 DTEND:20261130T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T085000Z
@@ -1590,7 +1597,7 @@ DTSTART:20261207T070000Z
 DTEND:20261207T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T085000Z
@@ -1758,7 +1765,7 @@ DTSTART:20261214T070000Z
 DTEND:20261214T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T085000Z
@@ -1912,7 +1919,7 @@ DTSTART:20261221T070000Z
 DTEND:20261221T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T085000Z
@@ -2773,7 +2780,7 @@ DTSTART:20270111T070000Z
 DTEND:20270111T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270111T085000Z
@@ -2913,7 +2920,7 @@ DTSTART:20270118T070000Z
 DTEND:20270118T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T085000Z
@@ -3046,7 +3053,7 @@ DTSTART:20270125T070000Z
 DTEND:20270125T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270125T085000Z

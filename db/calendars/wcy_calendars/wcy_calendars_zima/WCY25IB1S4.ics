@@ -85,7 +85,7 @@ DTSTART:20261014T075000Z
 DTEND:20261014T092500Z
 SUMMARY:BSI (w)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T094000Z
@@ -190,7 +190,7 @@ DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
 SUMMARY:BSI (w)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T104000Z
@@ -275,13 +275,6 @@ DTEND:20261104T121500Z
 SUMMARY:No (w)
 LOCATION:309 S
 DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261104T123000Z
-DTEND:20261104T140500Z
-SUMMARY:BSI (w)
-LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T150000Z
@@ -396,6 +389,20 @@ LOCATION:224 S
 DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261118T070000Z
+DTEND:20261118T083500Z
+SUMMARY:Clc (L)
+LOCATION:226 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T085000Z
+DTEND:20261118T102500Z
+SUMMARY:Clc (L)
+LOCATION:226 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261118T104000Z
 DTEND:20261118T121500Z
 SUMMARY:No (w)
@@ -505,7 +512,7 @@ DTSTART:20261125T150000Z
 DTEND:20261125T163500Z
 SUMMARY:BSI (w)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -526,7 +533,7 @@ DTSTART:20261126T104000Z
 DTEND:20261126T121500Z
 SUMMARY:ak (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T085000Z
@@ -599,13 +606,6 @@ LOCATION:224 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T104000Z
-DTEND:20261203T121500Z
-SUMMARY:ak (L)
-LOCATION:228 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Joanna Wiśniewska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261207T104000Z
 DTEND:20261207T121500Z
 SUMMARY:Wmo (ć)
@@ -641,6 +641,20 @@ LOCATION:223 S
 DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T070000Z
+DTEND:20261209T083500Z
+SUMMARY:Clc (L)
+LOCATION:228 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T085000Z
+DTEND:20261209T102500Z
+SUMMARY:Clc (L)
+LOCATION:228 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
 SUMMARY:Mispb (w)
@@ -659,7 +673,7 @@ DTSTART:20261209T150000Z
 DTEND:20261209T163500Z
 SUMMARY:BSI (w)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
@@ -680,7 +694,7 @@ DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
 SUMMARY:ak (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T123000Z
@@ -732,6 +746,20 @@ LOCATION:308 S
 DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T070000Z
+DTEND:20261216T083500Z
+SUMMARY:Clc (L)
+LOCATION:228 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:Clc (L)
+LOCATION:228 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T104000Z
 DTEND:20261216T121500Z
 SUMMARY:Mispb (w)
@@ -771,7 +799,7 @@ DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:ak (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T085000Z
@@ -813,7 +841,7 @@ DTSTART:20261222T123000Z
 DTEND:20261222T140500Z
 SUMMARY:ak (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T104000Z
@@ -827,7 +855,7 @@ DTSTART:20261223T123000Z
 DTEND:20261223T140500Z
 SUMMARY:BSI (w)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T150000Z
@@ -855,7 +883,7 @@ DTSTART:20270107T104000Z
 DTEND:20270107T121500Z
 SUMMARY:ak (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270111T085000Z
@@ -907,6 +935,20 @@ LOCATION:223 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270113T070000Z
+DTEND:20270113T083500Z
+SUMMARY:Clc (L)
+LOCATION:224 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T085000Z
+DTEND:20270113T102500Z
+SUMMARY:Clc (L)
+LOCATION:224 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270113T104000Z
 DTEND:20270113T121500Z
 SUMMARY:Wmo (ć)
@@ -946,7 +988,7 @@ DTSTART:20270114T104000Z
 DTEND:20270114T121500Z
 SUMMARY:ak (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T123000Z
@@ -1030,7 +1072,7 @@ DTSTART:20270121T104000Z
 DTEND:20270121T121500Z
 SUMMARY:ak (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270125T085000Z
@@ -1110,11 +1152,18 @@ LOCATION:223 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270128T070000Z
+DTEND:20270128T083500Z
+SUMMARY:Clc (L)
+LOCATION:224 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270128T085000Z
 DTEND:20270128T102500Z
 SUMMARY:ak (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T104000Z

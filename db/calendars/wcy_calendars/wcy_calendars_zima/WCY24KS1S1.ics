@@ -249,6 +249,13 @@ LOCATION:078 S
 DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261022T075000Z
+DTEND:20261022T092500Z
+SUMMARY:Ztk (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261022T094000Z
 DTEND:20261022T111500Z
 SUMMARY:Ztk (w)
@@ -382,11 +389,25 @@ LOCATION:078 S
 DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261105T104000Z
+DTEND:20261105T121500Z
+SUMMARY:Ztk (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261106T070000Z
 DTEND:20261106T083500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T123000Z
+DTEND:20261106T140500Z
+SUMMARY:PZiP (ć)
+LOCATION:307 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T070000Z
@@ -452,6 +473,13 @@ LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261113T123000Z
+DTEND:20261113T140500Z
+SUMMARY:PZiP (ć)
+LOCATION:307 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261116T070000Z
 DTEND:20261116T083500Z
 SUMMARY:Kre (w)
@@ -478,6 +506,13 @@ DTEND:20261117T121500Z
 SUMMARY:ZKwI (w)
 LOCATION:317 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T085000Z
+DTEND:20261119T102500Z
+SUMMARY:Ztk (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z
@@ -515,6 +550,20 @@ LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 11/20\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261123T104000Z
+DTEND:20261123T121500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T123000Z
+DTEND:20261123T140500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261124T104000Z
 DTEND:20261124T121500Z
 SUMMARY:ZKwI (w)
@@ -550,11 +599,32 @@ LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 12/20\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261126T165000Z
+DTEND:20261126T182500Z
+SUMMARY:PZiP (ć)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261130T085000Z
 DTEND:20261130T102500Z
 SUMMARY:Ab (w)
 LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 13/20\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T104000Z
+DTEND:20261130T121500Z
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T123000Z
+DTEND:20261130T140500Z
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
@@ -585,6 +655,13 @@ LOCATION:078 S
 DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261203T104000Z
+DTEND:20261203T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:313 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261203T123000Z
 DTEND:20261203T140500Z
 SUMMARY:Ab (w)
@@ -604,6 +681,20 @@ DTEND:20261204T121500Z
 SUMMARY:PSy (w)
 LOCATION:316 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T104000Z
+DTEND:20261207T121500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T123000Z
+DTEND:20261207T140500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
@@ -662,11 +753,25 @@ LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 17/20\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
-SUMMARY:PZiP (w)
-LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
+DTSTART:20261214T104000Z
+DTEND:20261214T121500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T123000Z
+DTEND:20261214T140500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T070000Z
+DTEND:20261216T083500Z
+SUMMARY:Ztk (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T123000Z
@@ -676,6 +781,13 @@ LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 18/20\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261218T104000Z
+DTEND:20261218T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:314 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261221T085000Z
 DTEND:20261221T102500Z
 SUMMARY:Ab (w)
@@ -683,11 +795,74 @@ LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 19/20\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261221T104000Z
+DTEND:20261221T121500Z
+SUMMARY:Ztk (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T123000Z
+DTEND:20261221T140500Z
+SUMMARY:Ztk (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:Ab (w)
 LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 20/20\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T165000Z
+DTEND:20270107T182500Z
+SUMMARY:PZiP (ć)
+LOCATION:307 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T104000Z
+DTEND:20270111T121500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T123000Z
+DTEND:20270111T140500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T070000Z
+DTEND:20270112T083500Z
+SUMMARY:Ztk (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T085000Z
+DTEND:20270112T102500Z
+SUMMARY:Ztk (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T104000Z
+DTEND:20270112T121500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T123000Z
+DTEND:20270112T140500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T070000Z
@@ -709,6 +884,90 @@ DTEND:20270115T102500Z
 SUMMARY:Bpe (w)
 LOCATION:314 S
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T104000Z
+DTEND:20270115T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:309 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T104000Z
+DTEND:20270118T121500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T123000Z
+DTEND:20270118T140500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T104000Z
+DTEND:20270119T121500Z
+SUMMARY:Ztk (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T123000Z
+DTEND:20270119T140500Z
+SUMMARY:Ztk (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T070000Z
+DTEND:20270122T083500Z
+SUMMARY:PZiP (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270125T104000Z
+DTEND:20270125T121500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270125T123000Z
+DTEND:20270125T140500Z
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T070000Z
+DTEND:20270126T083500Z
+SUMMARY:Ztk (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T085000Z
+DTEND:20270126T102500Z
+SUMMARY:Ztk (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T104000Z
+DTEND:20270126T121500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T123000Z
+DTEND:20270126T140500Z
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T085000Z

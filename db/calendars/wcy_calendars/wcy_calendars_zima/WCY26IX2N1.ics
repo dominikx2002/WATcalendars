@@ -50,7 +50,7 @@ DTSTART:20261004T060000Z
 DTEND:20261004T073500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T075000Z
@@ -120,7 +120,7 @@ DTSTART:20261011T060000Z
 DTEND:20261011T073500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T075000Z
@@ -197,7 +197,7 @@ DTSTART:20261018T060000Z
 DTEND:20261018T073500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261018T075000Z
@@ -260,7 +260,7 @@ DTSTART:20261025T070000Z
 DTEND:20261025T083500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T085000Z
@@ -330,7 +330,7 @@ DTSTART:20261115T070000Z
 DTEND:20261115T083500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T085000Z
@@ -393,7 +393,7 @@ DTSTART:20261122T070000Z
 DTEND:20261122T083500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T085000Z
@@ -463,7 +463,7 @@ DTSTART:20261206T070000Z
 DTEND:20261206T083500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261206T085000Z
@@ -471,6 +471,20 @@ DTEND:20261206T102500Z
 SUMMARY:M1 (w)
 LOCATION:317 S
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T104000Z
+DTEND:20261206T121500Z
+SUMMARY:Mat2 (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr Paweł Lubowiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T123000Z
+DTEND:20261206T140500Z
+SUMMARY:Mat2 (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T070000Z
@@ -505,7 +519,7 @@ DTSTART:20261213T070000Z
 DTEND:20261213T083500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T085000Z
@@ -540,14 +554,14 @@ DTSTART:20261218T165000Z
 DTEND:20261218T182500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T184000Z
 DTEND:20261218T201500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T070000Z
@@ -585,25 +599,11 @@ LOCATION:11/ 34
 DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261219T165000Z
-DTEND:20261219T182500Z
-SUMMARY:Mat2 (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr Paweł Lubowiecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261219T184000Z
-DTEND:20261219T201500Z
-SUMMARY:Mat2 (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr Paweł Lubowiecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261220T070000Z
 DTEND:20261220T083500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T085000Z
@@ -659,7 +659,7 @@ DTSTART:20270110T070000Z
 DTEND:20270110T083500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270110T085000Z
@@ -729,7 +729,7 @@ DTSTART:20270117T070000Z
 DTEND:20270117T083500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270117T085000Z
@@ -767,11 +767,18 @@ LOCATION:205 65
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270123T165000Z
+DTEND:20270123T182500Z
+SUMMARY:Ja (ć)
+LOCATION:133 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270124T070000Z
 DTEND:20270124T083500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270124T085000Z
@@ -830,11 +837,18 @@ LOCATION:201 65
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270130T165000Z
+DTEND:20270130T182500Z
+SUMMARY:Ja (ć)
+LOCATION:133 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/17\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270131T070000Z
 DTEND:20270131T083500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270131T085000Z

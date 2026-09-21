@@ -105,7 +105,7 @@ BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:PD (w)
-LOCATION:103 K
+LOCATION:AW 3/038
 DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -118,22 +118,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
-SUMMARY:ZaMe (w)
-LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261209T123000Z
-DTEND:20261209T140500Z
-SUMMARY:DSiSM (w)
-LOCATION:AW 3/043
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
+SUMMARY:TA (w)
+LOCATION:103 K
+DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
 DTEND:20261210T083500Z
 SUMMARY:PODS.SUR. (w)
-LOCATION:22 /BIBL
+LOCATION:AW 3/043
 DESCRIPTION:Podstawy survivalu - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -200,15 +193,29 @@ LOCATION:103 K
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261214T070000Z
-DTEND:20261214T083500Z
+DTSTART:20261212T070000Z
+DTEND:20261212T083500Z
+SUMMARY:DSiSM (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T123000Z
+DTEND:20261214T140500Z
 SUMMARY:REG (Inne)
-LOCATION:AW 1
+LOCATION:22 /BIBL
 DESCRIPTION:Regulaminy SZ RP - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T070000Z
-DTEND:20261215T083500Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102500Z
+SUMMARY:DSiSM (w)
+LOCATION:AW 3/038
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T104000Z
+DTEND:20261215T121500Z
 SUMMARY:REG (Inne)
 LOCATION:22 /BIBL
 DESCRIPTION:Regulaminy SZ RP - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: -
@@ -216,20 +223,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
-SUMMARY:TA (w)
-LOCATION:103 K
-DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T085000Z
-DTEND:20261216T102500Z
-SUMMARY:PESW (w)
-LOCATION:28 69
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
 SUMMARY:Pwo (w)
 LOCATION:46 63
 DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: -
@@ -237,23 +230,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T085000Z
 DTEND:20261217T102500Z
-SUMMARY:DSiSM (w)
-LOCATION:103 K
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T104000Z
-DTEND:20261217T121500Z
 SUMMARY:PD (w)
 LOCATION:103 K
 DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261217T104000Z
+DTEND:20261217T121500Z
+SUMMARY:DSiSM (w)
+LOCATION:103 K
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T123000Z
 DTEND:20261217T140500Z
-SUMMARY:WF (ć)
+SUMMARY:WF (w)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T070000Z
@@ -284,18 +277,39 @@ LOCATION:103 K
 DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261218T150000Z
-DTEND:20261218T163500Z
-SUMMARY:GMiB (w)
+DTSTART:20261221T104000Z
+DTEND:20261221T121500Z
+SUMMARY:ZLDT-1 (w)
 LOCATION:103 K
-DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T123000Z
 DTEND:20261221T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T104000Z
+DTEND:20261222T121500Z
+SUMMARY:ZINŻ (w)
+LOCATION:103 K
+DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T070000Z
+DTEND:20261223T083500Z
+SUMMARY:OIN (w)
+LOCATION:103 K
+DESCRIPTION:Ochrona informacji niejawnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T085000Z
+DTEND:20261223T102500Z
+SUMMARY:OPW (w)
+LOCATION:103 K
+DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T070000Z
@@ -445,6 +459,48 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 35/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261228T070000Z
+DTEND:20261228T083500Z
+SUMMARY:OPBMR (w)
+LOCATION:1 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261228T085000Z
+DTEND:20261228T102500Z
+SUMMARY:OPBMR (w)
+LOCATION:1 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261228T104000Z
+DTEND:20261228T121500Z
+SUMMARY:REG (w)
+LOCATION:AW 3/038
+DESCRIPTION:Regulaminy SZ RP - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261229T070000Z
+DTEND:20261229T083500Z
+SUMMARY:ZRwAM (w)
+LOCATION:aula/ 135
+DESCRIPTION:Zarządzanie ryzykiem w aspekcie militarnym - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261230T070000Z
+DTEND:20261230T083500Z
+SUMMARY:GMiB (w)
+LOCATION:103 K
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261230T085000Z
+DTEND:20261230T102500Z
+SUMMARY:OPW (w)
+LOCATION:103 K
+DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261231T070000Z
 DTEND:20261231T083500Z
 SUMMARY:- (Inne)
@@ -592,6 +648,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 56/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270104T104000Z
+DTEND:20270104T121500Z
+SUMMARY:GMiB (Inne)
+LOCATION:AW 3/038
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270105T085000Z
+DTEND:20270105T102500Z
+SUMMARY:PESW (w)
+LOCATION:28 69
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270106T070000Z
 DTEND:20270106T083500Z
 SUMMARY:- (Inne)
@@ -650,16 +720,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T085000Z
 DTEND:20270107T102500Z
-SUMMARY:TA (ć)
-LOCATION:AW 7
-DESCRIPTION:TAKTYKA - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270108T070000Z
-DTEND:20270108T083500Z
-SUMMARY:ZINŻ (w)
-LOCATION:103 K
-DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
+SUMMARY:PoCy (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T085000Z
@@ -671,30 +734,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T104000Z
 DTEND:20270108T121500Z
-SUMMARY:OPW (w)
-LOCATION:103 K
-DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
+SUMMARY:PD (w)
+LOCATION:AW 1
+DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T123000Z
 DTEND:20270108T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270108T150000Z
-DTEND:20270108T163500Z
-SUMMARY:ZLDT-1 (w)
-LOCATION:0.24/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270111T070000Z
-DTEND:20270111T083500Z
-SUMMARY:ZRwAM (w)
-LOCATION:aula/ 135
-DESCRIPTION:Zarządzanie ryzykiem w aspekcie militarnym - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270111T085000Z
@@ -715,7 +764,14 @@ DTSTART:20270111T123000Z
 DTEND:20270111T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T150000Z
+DTEND:20270111T163500Z
+SUMMARY:DSiSM (w)
+LOCATION:0.24/ 135
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T070000Z
@@ -729,7 +785,7 @@ DTSTART:20270112T085000Z
 DTEND:20270112T102500Z
 SUMMARY:DSiSM (ć)
 LOCATION:PĆT1
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T104000Z
@@ -748,9 +804,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T085000Z
 DTEND:20270113T102500Z
-SUMMARY:PD (w)
-LOCATION:103 K
-DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
+SUMMARY:REG (ć)
+LOCATION:22 /BIBL
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T104000Z
@@ -764,7 +820,14 @@ DTSTART:20270113T123000Z
 DTEND:20270113T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T150000Z
+DTEND:20270113T163500Z
+SUMMARY:DSiSM (ć)
+LOCATION:1.10/ 16
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T070000Z
@@ -772,6 +835,13 @@ DTEND:20270114T083500Z
 SUMMARY:PoKoSt (ć)
 LOCATION:1.10/ 16
 DESCRIPTION:Podstawy Komunikacji Strategicznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T085000Z
+DTEND:20270114T102500Z
+SUMMARY:OPBMR (w)
+LOCATION:2 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T070000Z
@@ -788,25 +858,39 @@ LOCATION:AW 3/038
 DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270115T104000Z
-DTEND:20270115T121500Z
-SUMMARY:OPW (w)
-LOCATION:103 K
-DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
+DTSTART:20270116T085000Z
+DTEND:20270116T102500Z
+SUMMARY:DWiPD (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270115T123000Z
-DTEND:20270115T140500Z
-SUMMARY:OIN (w)
-LOCATION:103 K
-DESCRIPTION:Ochrona informacji niejawnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
+DTSTART:20270116T104000Z
+DTEND:20270116T121500Z
+SUMMARY:DWiPD (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T070000Z
+DTEND:20270118T083500Z
+SUMMARY:DWiPD (ć)
+LOCATION:1.10/ 16
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T104000Z
+DTEND:20270118T121500Z
+SUMMARY:PoCy (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T123000Z
 DTEND:20270118T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T070000Z
@@ -854,8 +938,8 @@ BEGIN:VEVENT
 DTSTART:20270120T104000Z
 DTEND:20270120T121500Z
 SUMMARY:DSiSM (ć)
-LOCATION:PĆT6
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: -
+LOCATION:PĆT2
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T123000Z
@@ -874,9 +958,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T085000Z
 DTEND:20270121T102500Z
-SUMMARY:REG (ć)
-LOCATION:AW 1
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
+SUMMARY:TA (ć)
+LOCATION:22 /BIBL
+DESCRIPTION:TAKTYKA - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T104000Z
+DTEND:20270121T121500Z
+SUMMARY:PoCy (ć)
+LOCATION:308 S
+DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T123000Z
+DTEND:20270121T140500Z
+SUMMARY:PD (ć)
+LOCATION:AW 3/043
+DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T150000Z
+DTEND:20270121T163500Z
+SUMMARY:PD (ć)
+LOCATION:AW 3/043
+DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270122T070000Z
@@ -907,13 +1012,6 @@ LOCATION:11 57
 DESCRIPTION:Topografia wojskowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270122T150000Z
-DTEND:20270122T163500Z
-SUMMARY:GMiB (Inne)
-LOCATION:AW 7
-DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270125T070000Z
 DTEND:20270125T083500Z
 SUMMARY:PESW (w)
@@ -931,28 +1029,28 @@ BEGIN:VEVENT
 DTSTART:20270125T104000Z
 DTEND:20270125T121500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270125T123000Z
 DTEND:20270125T140500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T070000Z
 DTEND:20270126T083500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T085000Z
 DTEND:20270126T102500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -960,7 +1058,7 @@ DTSTART:20270126T104000Z
 DTEND:20270126T121500Z
 SUMMARY:DSiSM (ć)
 LOCATION:PĆT1
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T123000Z
@@ -980,14 +1078,14 @@ BEGIN:VEVENT
 DTSTART:20270127T104000Z
 DTEND:20270127T121500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T123000Z
 DTEND:20270127T140500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -998,18 +1096,32 @@ LOCATION:0.28/ 135
 DESCRIPTION:Zarządzanie ryzykiem w aspekcie militarnym - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270128T123000Z
-DTEND:20270128T140500Z
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/14\nProwadzący: -
+DTSTART:20270128T104000Z
+DTEND:20270128T121500Z
+SUMMARY:ZaMe (w)
+LOCATION:103 K
+DESCRIPTION:Zabezpieczenie medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T085000Z
+DTEND:20270129T102500Z
+SUMMARY:PD (ć)
+LOCATION:AW 1
+DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T104000Z
+DTEND:20270129T121500Z
+SUMMARY:PD (ć)
+LOCATION:AW 1
+DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T123000Z
 DTEND:20270129T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T150000Z
@@ -1037,7 +1149,7 @@ DTSTART:20270201T104000Z
 DTEND:20270201T121500Z
 SUMMARY:DSiSM (ć)
 LOCATION:ST.nr 1(DS)
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270201T123000Z
@@ -1066,20 +1178,6 @@ DTEND:20270202T140500Z
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(KB)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/21\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270203T070000Z
-DTEND:20270203T083500Z
-SUMMARY:PD (ć)
-LOCATION:AW 3/043
-DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270203T085000Z
-DTEND:20270203T102500Z
-SUMMARY:PD (ć)
-LOCATION:AW 3/043
-DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270203T104000Z
@@ -1124,6 +1222,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 10/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270205T070000Z
+DTEND:20270205T083500Z
+SUMMARY:PD (Inne)
+LOCATION:AW 3/043
+DESCRIPTION:Podstawy dowodzenia - (Repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270205T085000Z
 DTEND:20270205T102500Z
 SUMMARY:- (S.Sz.W.)
@@ -1159,31 +1264,17 @@ LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270208T104000Z
-DTEND:20270208T121500Z
-SUMMARY:PD (ć)
-LOCATION:AW 3/043
-DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270208T123000Z
-DTEND:20270208T140500Z
-SUMMARY:PD (ć)
-LOCATION:AW 3/043
-DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270209T070000Z
 DTEND:20270209T083500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270209T085000Z
 DTEND:20270209T102500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1226,7 +1317,7 @@ DTSTART:20270211T085000Z
 DTEND:20270211T102500Z
 SUMMARY:DSiSM (ć)
 LOCATION:ST.nr 1(DS)
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270211T104000Z
@@ -1310,14 +1401,7 @@ DTSTART:20270215T123000Z
 DTEND:20270215T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270215T184000Z
-DTEND:20270215T201500Z
-SUMMARY:OIN (Inne)
-LOCATION:103 K
-DESCRIPTION:Ochrona informacji niejawnych - (repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270216T070000Z
@@ -1337,15 +1421,15 @@ BEGIN:VEVENT
 DTSTART:20270216T104000Z
 DTEND:20270216T121500Z
 SUMMARY:REG (w)
-LOCATION:103 K
-DESCRIPTION:Regulaminy SZ RP - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
+LOCATION:AW 3/038
+DESCRIPTION:Regulaminy SZ RP - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270216T123000Z
 DTEND:20270216T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270217T070000Z
@@ -1366,14 +1450,14 @@ DTSTART:20270217T104000Z
 DTEND:20270217T121500Z
 SUMMARY:OIN (Inne)
 LOCATION:AW 3/043
-DESCRIPTION:Ochrona informacji niejawnych - (repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Ochrona informacji niejawnych - (repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270217T123000Z
 DTEND:20270217T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270218T085000Z
@@ -1411,6 +1495,13 @@ LOCATION:103 K
 DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270219T123000Z
+DTEND:20270219T140500Z
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270222T070000Z
 DTEND:20270222T083500Z
 SUMMARY:ZINŻ (w)
@@ -1436,7 +1527,7 @@ DTSTART:20270222T123000Z
 DTEND:20270222T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/14\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270223T070000Z
@@ -1462,9 +1553,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270223T123000Z
 DTEND:20270223T140500Z
-SUMMARY:WF (w)
+SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270224T070000Z

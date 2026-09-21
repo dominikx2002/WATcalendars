@@ -2727,6 +2727,27 @@ LOCATION:116/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261001T075000Z
+DTEND:20261001T092500Z
+SUMMARY:PeK (w)
+LOCATION:20 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261001T094000Z
+DTEND:20261001T111500Z
+SUMMARY:Dso (w)
+LOCATION:20 46
+DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261001T113000Z
+DTEND:20261001T130500Z
+SUMMARY:Dso (w)
+LOCATION:20 46
+DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261002T060000Z
 DTEND:20261002T073500Z
 SUMMARY:- (Inne)
@@ -2818,6 +2839,13 @@ LOCATION:6 71
 DESCRIPTION:Zastosowania biomateriałów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261006T113000Z
+DTEND:20261006T130500Z
+SUMMARY:OPT (w)
+LOCATION:20 46
+DESCRIPTION:Optyka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261006T140000Z
 DTEND:20261006T153500Z
 SUMMARY:Par (w)
@@ -2825,8 +2853,8 @@ LOCATION:3/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261007T060000Z
-DTEND:20261007T073500Z
+DTSTART:20261007T075000Z
+DTEND:20261007T092500Z
 SUMMARY:ZbM (w)
 LOCATION:13 71
 DESCRIPTION:Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: -
@@ -2844,6 +2872,20 @@ DTEND:20261007T130500Z
 SUMMARY:GwIB (w)
 LOCATION:116/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261008T060000Z
+DTEND:20261008T073500Z
+SUMMARY:OPT (w)
+LOCATION:12 46
+DESCRIPTION:Optyka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261008T075000Z
+DTEND:20261008T092500Z
+SUMMARY:PeK (w)
+LOCATION:20 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T094000Z
@@ -2920,7 +2962,7 @@ DTSTART:20261012T075000Z
 DTEND:20261012T092500Z
 SUMMARY:TeSM (w)
 LOCATION:-
-DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: -
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T094000Z
@@ -2970,6 +3012,13 @@ DTEND:20261014T073500Z
 SUMMARY:ZbM (w)
 LOCATION:13 71
 DESCRIPTION:Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T075000Z
+DTEND:20261014T092500Z
+SUMMARY:Dso (w)
+LOCATION:20 46
+DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T094000Z
@@ -3067,7 +3116,7 @@ DTSTART:20261019T075000Z
 DTEND:20261019T092500Z
 SUMMARY:TeSM (w)
 LOCATION:-
-DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: -
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T094000Z
@@ -3103,6 +3152,13 @@ DTEND:20261020T130500Z
 SUMMARY:ZbM (L)
 LOCATION:6 71
 DESCRIPTION:Zastosowania biomateriałów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:Dso (w)
+LOCATION:20 46
+DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T094000Z
@@ -3207,7 +3263,21 @@ DTSTART:20261026T085000Z
 DTEND:20261026T102500Z
 SUMMARY:TeSM (w)
 LOCATION:-
-DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: -
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T104000Z
+DTEND:20261026T121500Z
+SUMMARY:PeK (w)
+LOCATION:21 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T123000Z
+DTEND:20261026T140500Z
+SUMMARY:OPT (w)
+LOCATION:12 46
+DESCRIPTION:Optyka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T070000Z
@@ -3236,6 +3306,20 @@ DTEND:20261027T140500Z
 SUMMARY:ZbM (L)
 LOCATION:6 71
 DESCRIPTION:Zastosowania biomateriałów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T070000Z
+DTEND:20261028T083500Z
+SUMMARY:OPT (w)
+LOCATION:21 46
+DESCRIPTION:Optyka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:TeSM (w)
+LOCATION:20 46
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T104000Z
@@ -3438,7 +3522,7 @@ DTSTART:20261102T085000Z
 DTEND:20261102T102500Z
 SUMMARY:TeSM (w)
 LOCATION:-
-DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: -
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T104000Z
@@ -3490,6 +3574,20 @@ LOCATION:6/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261104T070000Z
+DTEND:20261104T083500Z
+SUMMARY:PeK (w)
+LOCATION:21 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T085000Z
+DTEND:20261104T102500Z
+SUMMARY:TeSM (w)
+LOCATION:20 46
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261104T104000Z
 DTEND:20261104T121500Z
 SUMMARY:Tmf (w)
@@ -3502,6 +3600,13 @@ DTEND:20261104T140500Z
 SUMMARY:ZbM (w)
 LOCATION:13 71
 DESCRIPTION:Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T150000Z
+DTEND:20261104T163500Z
+SUMMARY:Dso (w)
+LOCATION:204 136
+DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T070000Z
@@ -3585,7 +3690,7 @@ DTSTART:20261109T085000Z
 DTEND:20261109T102500Z
 SUMMARY:TeSM (w)
 LOCATION:-
-DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T104000Z
@@ -3714,6 +3819,27 @@ LOCATION:29/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261112T085000Z
+DTEND:20261112T102500Z
+SUMMARY:PeK (w)
+LOCATION:20 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T104000Z
+DTEND:20261112T121500Z
+SUMMARY:OPT (w)
+LOCATION:20 46
+DESCRIPTION:Optyka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T123000Z
+DTEND:20261112T140500Z
+SUMMARY:OPT (ć)
+LOCATION:20 46
+DESCRIPTION:Optyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261113T070000Z
 DTEND:20261113T083500Z
 SUMMARY:- (Inne)
@@ -3774,7 +3900,7 @@ DTSTART:20261116T085000Z
 DTEND:20261116T102500Z
 SUMMARY:TeSM (ć)
 LOCATION:-
-DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
@@ -3789,13 +3915,6 @@ DTEND:20261116T140500Z
 SUMMARY:App (Inne)
 LOCATION:6/ 23A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T150000Z
-DTEND:20261116T163500Z
-SUMMARY:App (Inne)
-LOCATION:6/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T165000Z
@@ -3817,6 +3936,20 @@ DTEND:20261117T102500Z
 SUMMARY:Par (L)
 LOCATION:4/ 23A 14/ 23
 DESCRIPTION:Podstawy automatyki i robotyki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T123000Z
+DTEND:20261117T140500Z
+SUMMARY:PeK (ć)
+LOCATION:21 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T070000Z
+DTEND:20261118T083500Z
+SUMMARY:OPT (w)
+LOCATION:21 46
+DESCRIPTION:Optyka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T104000Z
@@ -3893,7 +4026,7 @@ DTSTART:20261123T085000Z
 DTEND:20261123T102500Z
 SUMMARY:TeSM (ć)
 LOCATION:-
-DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T104000Z
@@ -3910,6 +4043,20 @@ LOCATION:5/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261123T150000Z
+DTEND:20261123T163500Z
+SUMMARY:App (Inne)
+LOCATION:6/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T070000Z
+DTEND:20261124T083500Z
+SUMMARY:TeSM (w)
+LOCATION:12 46
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:Par (w)
@@ -3922,6 +4069,34 @@ DTEND:20261124T121500Z
 SUMMARY:Par (w)
 LOCATION:3/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T123000Z
+DTEND:20261124T140500Z
+SUMMARY:PeK (ć)
+LOCATION:21 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:Dso (w)
+LOCATION:20 46
+DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T085000Z
+DTEND:20261125T102500Z
+SUMMARY:PeK (w)
+LOCATION:20 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:TeSM (w)
+LOCATION:27 70
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T123000Z
@@ -4099,6 +4274,20 @@ LOCATION:09 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261203T104000Z
+DTEND:20261203T121500Z
+SUMMARY:Dso (ć)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T123000Z
+DTEND:20261203T140500Z
+SUMMARY:PeK (ć)
+LOCATION:21 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261204T070000Z
 DTEND:20261204T083500Z
 SUMMARY:- (Inne)
@@ -4169,11 +4358,32 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 242/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261207T123000Z
+DTEND:20261207T140500Z
+SUMMARY:Dso (L)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T150000Z
+DTEND:20261207T163500Z
+SUMMARY:Dso (L)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261207T184000Z
 DTEND:20261207T201500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T070000Z
+DTEND:20261208T083500Z
+SUMMARY:Dso (ć)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T085000Z
@@ -4190,11 +4400,25 @@ LOCATION:31 61A
 DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261208T123000Z
+DTEND:20261208T140500Z
+SUMMARY:TeSM (w)
+LOCATION:20 46
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261208T150000Z
 DTEND:20261208T163500Z
 SUMMARY:App (L)
 LOCATION:5/ 23A 6/ 23A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T070000Z
+DTEND:20261209T083500Z
+SUMMARY:PeK (w)
+LOCATION:20 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T085000Z
@@ -4216,6 +4440,34 @@ DTEND:20261209T140500Z
 SUMMARY:GwIB (L)
 LOCATION:9/ 54 18/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T070000Z
+DTEND:20261210T083500Z
+SUMMARY:OPT (w)
+LOCATION:21 46
+DESCRIPTION:Optyka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T085000Z
+DTEND:20261210T102500Z
+SUMMARY:OPT (ć)
+LOCATION:21 46
+DESCRIPTION:Optyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T104000Z
+DTEND:20261210T121500Z
+SUMMARY:OPT (L)
+LOCATION:7 46 28 46
+DESCRIPTION:Optyka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T123000Z
+DTEND:20261210T140500Z
+SUMMARY:OPT (L)
+LOCATION:7 46 28 46
+DESCRIPTION:Optyka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T070000Z
@@ -4288,6 +4540,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 252/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261214T123000Z
+DTEND:20261214T140500Z
+SUMMARY:Dso (L)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T150000Z
+DTEND:20261214T163500Z
+SUMMARY:Dso (L)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261214T184000Z
 DTEND:20261214T201500Z
 SUMMARY:GwIB (ć)
@@ -4295,11 +4561,46 @@ LOCATION:29/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261215T070000Z
+DTEND:20261215T083500Z
+SUMMARY:Dso (L)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T085000Z
+DTEND:20261215T102500Z
+SUMMARY:Dso (L)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T104000Z
+DTEND:20261215T121500Z
+SUMMARY:PeK (ć)
+LOCATION:21 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T123000Z
+DTEND:20261215T140500Z
+SUMMARY:TeSM (ć)
+LOCATION:21 46
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261215T150000Z
 DTEND:20261215T163500Z
 SUMMARY:App (L)
 LOCATION:5/ 23A 6/ 23A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T070000Z
+DTEND:20261216T083500Z
+SUMMARY:Dso (w)
+LOCATION:20 46
+DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -4314,6 +4615,27 @@ DTEND:20261216T121500Z
 SUMMARY:GwIB (L)
 LOCATION:9/ 54 18/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T123000Z
+DTEND:20261216T140500Z
+SUMMARY:Dso (ć)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T070000Z
+DTEND:20261217T083500Z
+SUMMARY:PeK (L)
+LOCATION:5 46 28 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T085000Z
+DTEND:20261217T102500Z
+SUMMARY:PeK (L)
+LOCATION:5 46 28 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
@@ -4400,6 +4722,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 262/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261221T123000Z
+DTEND:20261221T140500Z
+SUMMARY:Dso (L)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T150000Z
+DTEND:20261221T163500Z
+SUMMARY:Dso (L)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261221T184000Z
 DTEND:20261221T201500Z
 SUMMARY:GwIB (ć)
@@ -4428,6 +4764,13 @@ LOCATION:31 61A
 DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261222T123000Z
+DTEND:20261222T140500Z
+SUMMARY:TeSM (ć)
+LOCATION:21 46
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261222T150000Z
 DTEND:20261222T163500Z
 SUMMARY:App (L)
@@ -4442,11 +4785,32 @@ LOCATION:5/ 23A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261223T070000Z
+DTEND:20261223T083500Z
+SUMMARY:Dso (w)
+LOCATION:4 41
+DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T085000Z
+DTEND:20261223T102500Z
+SUMMARY:PeK (w)
+LOCATION:20 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261223T104000Z
 DTEND:20261223T121500Z
 SUMMARY:GwIB (L)
 LOCATION:9/ 54 18/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T123000Z
+DTEND:20261223T140500Z
+SUMMARY:Dso (ć)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T150000Z
@@ -5156,6 +5520,34 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 364/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270107T085000Z
+DTEND:20270107T102500Z
+SUMMARY:OPT (ć)
+LOCATION:204 136
+DESCRIPTION:Optyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T104000Z
+DTEND:20270107T121500Z
+SUMMARY:PeK (ć)
+LOCATION:204 136
+DESCRIPTION:Podstawy elektroniki kwantowej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T123000Z
+DTEND:20270107T140500Z
+SUMMARY:OPT (L)
+LOCATION:7 46 28 46
+DESCRIPTION:Optyka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T150000Z
+DTEND:20270107T163500Z
+SUMMARY:OPT (L)
+LOCATION:7 46 28 46
+DESCRIPTION:Optyka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270108T070000Z
 DTEND:20270108T083500Z
 SUMMARY:- (Inne)
@@ -5205,6 +5597,27 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 371/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270111T070000Z
+DTEND:20270111T083500Z
+SUMMARY:PeK (L)
+LOCATION:5 46 28 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T085000Z
+DTEND:20270111T102500Z
+SUMMARY:PeK (L)
+LOCATION:5 46 28 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T104000Z
+DTEND:20270111T121500Z
+SUMMARY:OPT (ć)
+LOCATION:20 46
+DESCRIPTION:Optyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270112T070000Z
 DTEND:20270112T083500Z
 SUMMARY:Tmf (L)
@@ -5219,11 +5632,53 @@ LOCATION:31 61A
 DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270112T104000Z
+DTEND:20270112T121500Z
+SUMMARY:OPT (L)
+LOCATION:7 46
+DESCRIPTION:Optyka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T123000Z
+DTEND:20270112T140500Z
+SUMMARY:OPT (L)
+LOCATION:7 46
+DESCRIPTION:Optyka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T070000Z
+DTEND:20270113T083500Z
+SUMMARY:TeSM (L)
+LOCATION:02 71 29/ 71
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T085000Z
+DTEND:20270113T102500Z
+SUMMARY:TeSM (L)
+LOCATION:02 71 29/ 71
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270113T104000Z
 DTEND:20270113T121500Z
 SUMMARY:GwIB (L)
 LOCATION:9/ 54 18/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T070000Z
+DTEND:20270114T083500Z
+SUMMARY:OPT (ć)
+LOCATION:20 46
+DESCRIPTION:Optyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T085000Z
+DTEND:20270114T102500Z
+SUMMARY:PeK (ć)
+LOCATION:20 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T104000Z
@@ -5289,6 +5744,27 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 378/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270118T070000Z
+DTEND:20270118T083500Z
+SUMMARY:TeSM (L)
+LOCATION:02 71 6 71
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T085000Z
+DTEND:20270118T102500Z
+SUMMARY:TeSM (L)
+LOCATION:02 71 6 71
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T104000Z
+DTEND:20270118T121500Z
+SUMMARY:PeK (w)
+LOCATION:20 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270118T123000Z
 DTEND:20270118T140500Z
 SUMMARY:Tmf (L)
@@ -5301,6 +5777,76 @@ DTEND:20270118T163500Z
 SUMMARY:Tmf (L)
 LOCATION:31 61A
 DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T070000Z
+DTEND:20270119T083500Z
+SUMMARY:Dso (L)
+LOCATION:12 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T085000Z
+DTEND:20270119T102500Z
+SUMMARY:Dso (L)
+LOCATION:12 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T104000Z
+DTEND:20270119T121500Z
+SUMMARY:OPT (L)
+LOCATION:7 46
+DESCRIPTION:Optyka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T123000Z
+DTEND:20270119T140500Z
+SUMMARY:OPT (L)
+LOCATION:7 46
+DESCRIPTION:Optyka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T070000Z
+DTEND:20270120T083500Z
+SUMMARY:Dso (L)
+LOCATION:12 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T085000Z
+DTEND:20270120T102500Z
+SUMMARY:Dso (L)
+LOCATION:12 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T104000Z
+DTEND:20270120T121500Z
+SUMMARY:Dso (ć)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T123000Z
+DTEND:20270120T140500Z
+SUMMARY:Dso (ć)
+LOCATION:9 70
+DESCRIPTION:Detekcja sygnałów optycznych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T070000Z
+DTEND:20270121T083500Z
+SUMMARY:OPT (ć)
+LOCATION:20 46
+DESCRIPTION:Optyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T085000Z
+DTEND:20270121T102500Z
+SUMMARY:PeK (ć)
+LOCATION:20 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T104000Z
@@ -5378,6 +5924,34 @@ DTEND:20270126T102500Z
 SUMMARY:GwIB (w)
 LOCATION:116/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T104000Z
+DTEND:20270126T121500Z
+SUMMARY:TeSM (L)
+LOCATION:02 71 6 71
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T123000Z
+DTEND:20270126T140500Z
+SUMMARY:TeSM (L)
+LOCATION:02 71 6 71
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T070000Z
+DTEND:20270127T083500Z
+SUMMARY:TeSM (L)
+LOCATION:02 71 29/ 71
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T085000Z
+DTEND:20270127T102500Z
+SUMMARY:TeSM (L)
+LOCATION:02 71 29/ 71
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T104000Z
@@ -5604,501 +6178,459 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 406/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270205T070000Z
-DTEND:20270205T083500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 407/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270205T085000Z
 DTEND:20270205T102500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 408/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270205T104000Z
-DTEND:20270205T121500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 409/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270205T123000Z
-DTEND:20270205T140500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 410/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270205T150000Z
-DTEND:20270205T163500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 411/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270205T165000Z
-DTEND:20270205T182500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 412/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270205T184000Z
-DTEND:20270205T201500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 413/1\nProwadzący: -
+SUMMARY:PeK (E)
+LOCATION:20 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270206T070000Z
 DTEND:20270206T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 414/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 407/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270206T085000Z
 DTEND:20270206T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 415/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 408/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270206T104000Z
 DTEND:20270206T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 416/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 409/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270206T123000Z
 DTEND:20270206T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 417/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 410/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270206T150000Z
 DTEND:20270206T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 418/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 411/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270206T165000Z
 DTEND:20270206T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 419/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 412/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270206T184000Z
 DTEND:20270206T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 420/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 413/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270207T070000Z
 DTEND:20270207T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 421/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 414/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270207T085000Z
 DTEND:20270207T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 422/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 415/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270207T104000Z
 DTEND:20270207T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 423/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 416/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270207T123000Z
 DTEND:20270207T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 424/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 417/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270207T150000Z
 DTEND:20270207T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 425/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 418/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270207T165000Z
 DTEND:20270207T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 426/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 419/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270207T184000Z
 DTEND:20270207T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 427/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 420/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270208T070000Z
 DTEND:20270208T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 428/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 421/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270208T085000Z
 DTEND:20270208T102500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 429/1\nProwadzący: -
+SUMMARY:OPT (E)
+LOCATION:21 46
+DESCRIPTION:Optyka - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270208T104000Z
 DTEND:20270208T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 430/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 422/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270208T123000Z
 DTEND:20270208T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 431/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 423/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270208T150000Z
 DTEND:20270208T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 432/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 424/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270208T165000Z
 DTEND:20270208T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 433/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 425/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270208T184000Z
 DTEND:20270208T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 434/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 426/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270209T070000Z
 DTEND:20270209T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 435/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 427/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270209T085000Z
 DTEND:20270209T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 436/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 428/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270209T104000Z
 DTEND:20270209T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 437/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 429/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270209T123000Z
 DTEND:20270209T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 438/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 430/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270209T150000Z
 DTEND:20270209T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 439/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 431/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270209T165000Z
 DTEND:20270209T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 440/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 432/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270209T184000Z
 DTEND:20270209T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 441/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 433/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270210T070000Z
 DTEND:20270210T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 442/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 434/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270210T085000Z
 DTEND:20270210T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 443/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 435/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270210T104000Z
 DTEND:20270210T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 444/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 436/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270210T123000Z
 DTEND:20270210T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 445/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 437/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270210T150000Z
 DTEND:20270210T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 446/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 438/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270210T165000Z
 DTEND:20270210T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 447/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 439/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270210T184000Z
 DTEND:20270210T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 448/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 440/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270211T070000Z
 DTEND:20270211T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 449/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 441/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270211T085000Z
 DTEND:20270211T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 450/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 442/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270211T104000Z
 DTEND:20270211T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 451/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 443/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270211T123000Z
 DTEND:20270211T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 452/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 444/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270211T150000Z
 DTEND:20270211T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 453/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 445/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270211T165000Z
 DTEND:20270211T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 454/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 446/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270211T184000Z
 DTEND:20270211T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 455/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 447/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270212T070000Z
 DTEND:20270212T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 456/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 448/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270212T085000Z
 DTEND:20270212T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 457/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 449/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270212T104000Z
 DTEND:20270212T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 458/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 450/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270212T123000Z
 DTEND:20270212T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 459/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 451/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270212T150000Z
 DTEND:20270212T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 460/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 452/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270212T165000Z
 DTEND:20270212T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 461/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 453/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270212T184000Z
 DTEND:20270212T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 462/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 454/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270213T070000Z
 DTEND:20270213T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 463/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 455/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270213T085000Z
 DTEND:20270213T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 464/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 456/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270213T104000Z
 DTEND:20270213T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 465/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 457/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270213T123000Z
 DTEND:20270213T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 466/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 458/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270213T150000Z
 DTEND:20270213T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 467/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 459/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270213T165000Z
 DTEND:20270213T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 468/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 460/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270213T184000Z
 DTEND:20270213T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 469/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 461/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270214T070000Z
 DTEND:20270214T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 470/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 462/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270214T085000Z
 DTEND:20270214T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 471/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 463/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270214T104000Z
 DTEND:20270214T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 472/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 464/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270214T123000Z
 DTEND:20270214T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 473/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 465/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270214T150000Z
 DTEND:20270214T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 474/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 466/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270214T165000Z
 DTEND:20270214T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 475/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 467/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270214T184000Z
 DTEND:20270214T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 476/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 468/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270215T070000Z
 DTEND:20270215T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 477/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 469/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270215T085000Z
@@ -6112,21 +6644,21 @@ DTSTART:20270215T150000Z
 DTEND:20270215T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 478/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 470/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270215T165000Z
 DTEND:20270215T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 479/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 471/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270215T184000Z
 DTEND:20270215T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 480/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 472/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270216T070000Z
@@ -6154,28 +6686,21 @@ DTSTART:20270216T150000Z
 DTEND:20270216T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 481/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 473/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270216T165000Z
 DTEND:20270216T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 482/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 474/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270216T184000Z
 DTEND:20270216T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 483/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270217T070000Z
-DTEND:20270217T083500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 484/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 475/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270217T104000Z
@@ -6185,262 +6710,262 @@ LOCATION:6/ 23A
 DESCRIPTION:Technika mikrofalowa - (Zaliczenie poprawkowe.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270217T150000Z
-DTEND:20270217T163500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 485/1\nProwadzący: -
+DTSTART:20270217T123000Z
+DTEND:20270217T140500Z
+SUMMARY:PeK (Inne)
+LOCATION:20 46
+DESCRIPTION:Podstawy elektroniki kwantowej - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270217T165000Z
 DTEND:20270217T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 486/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 476/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270217T184000Z
 DTEND:20270217T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 487/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 477/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270218T070000Z
 DTEND:20270218T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 488/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 478/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270218T085000Z
 DTEND:20270218T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 489/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 479/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270218T123000Z
 DTEND:20270218T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 490/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 480/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270218T150000Z
 DTEND:20270218T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 491/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 481/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270218T165000Z
 DTEND:20270218T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 492/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 482/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270218T184000Z
 DTEND:20270218T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 493/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 483/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270219T070000Z
 DTEND:20270219T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 494/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 484/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270219T085000Z
 DTEND:20270219T102500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 495/1\nProwadzący: -
+SUMMARY:OPT (Inne)
+LOCATION:21 46
+DESCRIPTION:Optyka - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270219T104000Z
 DTEND:20270219T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 496/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 485/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270219T123000Z
 DTEND:20270219T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 497/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 486/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270219T150000Z
 DTEND:20270219T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 498/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 487/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270219T165000Z
 DTEND:20270219T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 499/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 488/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270219T184000Z
 DTEND:20270219T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 500/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 489/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270220T070000Z
 DTEND:20270220T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 501/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 490/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270220T085000Z
 DTEND:20270220T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 502/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 491/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270220T104000Z
 DTEND:20270220T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 503/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 492/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270220T123000Z
 DTEND:20270220T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 504/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 493/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270220T150000Z
 DTEND:20270220T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 505/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 494/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270220T165000Z
 DTEND:20270220T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 506/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 495/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270220T184000Z
 DTEND:20270220T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 507/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 496/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270221T070000Z
 DTEND:20270221T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 508/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 497/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270221T085000Z
 DTEND:20270221T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 509/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 498/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270221T104000Z
 DTEND:20270221T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 510/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 499/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270221T123000Z
 DTEND:20270221T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 511/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 500/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270221T150000Z
 DTEND:20270221T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 512/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 501/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270221T165000Z
 DTEND:20270221T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 513/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 502/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270221T184000Z
 DTEND:20270221T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 514/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 503/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270226T070000Z
 DTEND:20270226T083500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 515/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 504/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270226T085000Z
 DTEND:20270226T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 516/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 505/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270226T104000Z
 DTEND:20270226T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 517/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 506/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270226T123000Z
 DTEND:20270226T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 518/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 507/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270226T150000Z
 DTEND:20270226T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 519/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 508/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270226T165000Z
 DTEND:20270226T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 520/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 509/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270226T184000Z
 DTEND:20270226T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 521/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 510/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

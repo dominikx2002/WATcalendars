@@ -74,6 +74,13 @@ LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261008T075000Z
+DTEND:20261008T092500Z
+SUMMARY:Mat I (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/19\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261008T094000Z
 DTEND:20261008T111500Z
 SUMMARY:WF (ć)
@@ -109,6 +116,13 @@ LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 3/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261009T075000Z
+DTEND:20261009T092500Z
+SUMMARY:M II (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261009T094000Z
 DTEND:20261009T111500Z
 SUMMARY:WdI (w)
@@ -128,6 +142,13 @@ DTEND:20261012T073500Z
 SUMMARY:M II (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 4/17\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261012T075000Z
+DTEND:20261012T092500Z
+SUMMARY:M II (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T094000Z
@@ -156,6 +177,13 @@ DTEND:20261015T073500Z
 SUMMARY:Mat I (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T075000Z
+DTEND:20261015T092500Z
+SUMMARY:Mat I (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/19\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T094000Z
@@ -200,11 +228,25 @@ LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261016T094000Z
+DTEND:20261016T111500Z
+SUMMARY:PGI (ć)
+LOCATION:203 65
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261019T075000Z
 DTEND:20261019T092500Z
 SUMMARY:Owi (w)
 LOCATION:313 S
 DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T094000Z
+DTEND:20261019T111500Z
+SUMMARY:PGI (ć)
+LOCATION:101 65
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T113000Z
@@ -221,11 +263,32 @@ LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 5/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
+SUMMARY:Mat I (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/19\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T113000Z
+DTEND:20261021T130500Z
+SUMMARY:M II (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261022T060000Z
 DTEND:20261022T073500Z
 SUMMARY:Mat I (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T075000Z
+DTEND:20261022T092500Z
+SUMMARY:Mat I (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/19\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T094000Z
@@ -263,6 +326,27 @@ LOCATION:314 S
 DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261023T113000Z
+DTEND:20261023T130500Z
+SUMMARY:PGI (ć)
+LOCATION:29/ 54 30/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T140000Z
+DTEND:20261023T153500Z
+SUMMARY:PGI (ć)
+LOCATION:29/ 54 30/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T070000Z
+DTEND:20261026T083500Z
+SUMMARY:PGI (ć)
+LOCATION:29/ 54 30/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261026T085000Z
 DTEND:20261026T102500Z
 SUMMARY:Owi (w)
@@ -296,6 +380,13 @@ DTEND:20261029T083500Z
 SUMMARY:Mat I (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T085000Z
+DTEND:20261029T102500Z
+SUMMARY:Mat I (ć)
+LOCATION:203 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/19\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -354,6 +445,13 @@ LOCATION:313 S
 DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261102T104000Z
+DTEND:20261102T121500Z
+SUMMARY:M II (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261102T123000Z
 DTEND:20261102T140500Z
 SUMMARY:MD1 (w)
@@ -373,6 +471,13 @@ DTEND:20261105T083500Z
 SUMMARY:Mat I (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T085000Z
+DTEND:20261105T102500Z
+SUMMARY:PGI (ć)
+LOCATION:204 65
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
@@ -415,6 +520,13 @@ DTEND:20261106T102500Z
 SUMMARY:WDM (w)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T104000Z
+DTEND:20261109T121500Z
+SUMMARY:Mat I (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T123000Z
@@ -466,6 +578,13 @@ LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261112T085000Z
+DTEND:20261112T102500Z
+SUMMARY:PGI (ć)
+LOCATION:204 65
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T104000Z
 DTEND:20261112T121500Z
 SUMMARY:WF (ć)
@@ -492,6 +611,13 @@ DTEND:20261112T182500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:M II (ć)
+LOCATION:203 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T085000Z
@@ -534,6 +660,13 @@ DTEND:20261116T182500Z
 SUMMARY:WdI (L)
 LOCATION:223 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T085000Z
+DTEND:20261117T102500Z
+SUMMARY:WDM (ć)
+LOCATION:252 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -599,6 +732,20 @@ LOCATION:313 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 9/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261120T123000Z
+DTEND:20261120T140500Z
+SUMMARY:M II (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T070000Z
+DTEND:20261123T083500Z
+SUMMARY:Mat I (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261123T085000Z
 DTEND:20261123T102500Z
 SUMMARY:Owi (w)
@@ -606,11 +753,25 @@ LOCATION:313 S
 DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261123T104000Z
+DTEND:20261123T121500Z
+SUMMARY:M II (ć)
+LOCATION:203 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261124T070000Z
 DTEND:20261124T083500Z
 SUMMARY:M II (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 10/17\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T104000Z
+DTEND:20261124T121500Z
+SUMMARY:WDM (ć)
+LOCATION:307 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -662,11 +823,25 @@ LOCATION:317 S
 DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261130T104000Z
+DTEND:20261130T121500Z
+SUMMARY:Mat I (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261201T104000Z
 DTEND:20261201T121500Z
 SUMMARY:M II (w)
 LOCATION:316 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 11/17\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T123000Z
+DTEND:20261201T140500Z
+SUMMARY:M II (ć)
+LOCATION:101 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T150000Z
@@ -688,6 +863,13 @@ DTEND:20261203T083500Z
 SUMMARY:Mat I (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T085000Z
+DTEND:20261203T102500Z
+SUMMARY:PGI (ć)
+LOCATION:203 65
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
@@ -725,6 +907,27 @@ LOCATION:313 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 12/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261204T104000Z
+DTEND:20261204T121500Z
+SUMMARY:WDM (ć)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T104000Z
+DTEND:20261207T121500Z
+SUMMARY:Mat I (ć)
+LOCATION:203 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/19\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T123000Z
+DTEND:20261207T140500Z
+SUMMARY:M II (ć)
+LOCATION:203 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261208T070000Z
 DTEND:20261208T083500Z
 SUMMARY:M II (w)
@@ -746,6 +949,20 @@ LOCATION:317 S
 DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T104000Z
+DTEND:20261209T121500Z
+SUMMARY:Owi (ć)
+LOCATION:307 S
+DESCRIPTION:Ochrona własności intelektualnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:WDM (ć)
+LOCATION:308 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261210T070000Z
 DTEND:20261210T083500Z
 SUMMARY:Mat I (w)
@@ -753,11 +970,25 @@ LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261210T085000Z
+DTEND:20261210T102500Z
+SUMMARY:PGI (ć)
+LOCATION:203 65
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T123000Z
+DTEND:20261210T140500Z
+SUMMARY:Mat I (ć)
+LOCATION:101 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T150000Z
@@ -779,6 +1010,27 @@ DTEND:20261211T083500Z
 SUMMARY:M II (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 14/17\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T104000Z
+DTEND:20261214T121500Z
+SUMMARY:Mat I (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/19\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T123000Z
+DTEND:20261214T140500Z
+SUMMARY:M II (ć)
+LOCATION:203 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T085000Z
+DTEND:20261215T102500Z
+SUMMARY:WDM (ć)
+LOCATION:313 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T104000Z
@@ -816,11 +1068,25 @@ LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261217T085000Z
+DTEND:20261217T102500Z
+SUMMARY:PGI (ć)
+LOCATION:203 65
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T123000Z
+DTEND:20261217T140500Z
+SUMMARY:Mat I (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T150000Z
@@ -844,11 +1110,11 @@ LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 15/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261221T085000Z
-DTEND:20261221T102500Z
-SUMMARY:Wzp (w)
-LOCATION:316 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+DTSTART:20261221T070000Z
+DTEND:20261221T083500Z
+SUMMARY:M II (ć)
+LOCATION:203 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T070000Z
@@ -872,6 +1138,13 @@ LOCATION:317 S
 DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261223T123000Z
+DTEND:20261223T140500Z
+SUMMARY:WDM (ć)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270107T070000Z
 DTEND:20270107T083500Z
 SUMMARY:Mat I (w)
@@ -893,6 +1166,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270107T123000Z
+DTEND:20270107T140500Z
+SUMMARY:Mat I (ć)
+LOCATION:203 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/19\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270107T150000Z
 DTEND:20270107T163500Z
 SUMMARY:JoM (ć)
@@ -907,11 +1187,60 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270108T104000Z
+DTEND:20270108T121500Z
+SUMMARY:WDM (ć)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T085000Z
+DTEND:20270112T102500Z
+SUMMARY:WDM (ć)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270112T104000Z
 DTEND:20270112T121500Z
 SUMMARY:M II (w)
 LOCATION:316 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 17/17\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T150000Z
+DTEND:20270112T163500Z
+SUMMARY:Ez (ć)
+LOCATION:317 S
+DESCRIPTION:Etyka zawodowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T070000Z
+DTEND:20270113T083500Z
+SUMMARY:Wzp (ć)
+LOCATION:316 S
+DESCRIPTION:Wybrane zagadnienia prawa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T085000Z
+DTEND:20270113T102500Z
+SUMMARY:Wzp (ć)
+LOCATION:316 S
+DESCRIPTION:Wybrane zagadnienia prawa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T104000Z
+DTEND:20270113T121500Z
+SUMMARY:Mat I (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/19\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T123000Z
+DTEND:20270113T140500Z
+SUMMARY:M II (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T070000Z
@@ -921,11 +1250,25 @@ LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270114T085000Z
+DTEND:20270114T102500Z
+SUMMARY:PGI (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270114T104000Z
 DTEND:20270114T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T123000Z
+DTEND:20270114T140500Z
+SUMMARY:Mat I (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T150000Z
@@ -942,6 +1285,27 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270115T104000Z
+DTEND:20270115T121500Z
+SUMMARY:M II (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T104000Z
+DTEND:20270119T121500Z
+SUMMARY:WDM (ć)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T123000Z
+DTEND:20270119T140500Z
+SUMMARY:Ez (ć)
+LOCATION:317 S
+DESCRIPTION:Etyka zawodowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270120T070000Z
 DTEND:20270120T083500Z
 SUMMARY:WdI (L)
@@ -956,6 +1320,20 @@ LOCATION:236 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270120T104000Z
+DTEND:20270120T121500Z
+SUMMARY:Mat I (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/19\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T123000Z
+DTEND:20270120T140500Z
+SUMMARY:M II (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270121T070000Z
 DTEND:20270121T083500Z
 SUMMARY:Mat I (w)
@@ -963,11 +1341,25 @@ LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270121T085000Z
+DTEND:20270121T102500Z
+SUMMARY:Mat I (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/19\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270121T104000Z
 DTEND:20270121T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T123000Z
+DTEND:20270121T140500Z
+SUMMARY:M II (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T150000Z
@@ -984,6 +1376,34 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270125T150000Z
+DTEND:20270125T163500Z
+SUMMARY:Wzp (w)
+LOCATION:314 S
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T104000Z
+DTEND:20270126T121500Z
+SUMMARY:WDM (ć)
+LOCATION:317 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T104000Z
+DTEND:20270127T121500Z
+SUMMARY:Mat I (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/19\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T123000Z
+DTEND:20270127T140500Z
+SUMMARY:M II (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270128T070000Z
 DTEND:20270128T083500Z
 SUMMARY:Mat I (w)
@@ -991,11 +1411,25 @@ LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270128T085000Z
+DTEND:20270128T102500Z
+SUMMARY:PGI (ć)
+LOCATION:101 65
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270128T104000Z
 DTEND:20270128T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T123000Z
+DTEND:20270128T140500Z
+SUMMARY:Mat I (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/19\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T150000Z
@@ -1017,5 +1451,12 @@ DTEND:20270129T083500Z
 SUMMARY:WdI (w)
 LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T123000Z
+DTEND:20270129T140500Z
+SUMMARY:M II (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 END:VCALENDAR

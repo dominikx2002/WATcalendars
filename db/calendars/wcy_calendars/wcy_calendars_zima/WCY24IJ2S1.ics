@@ -263,6 +263,20 @@ LOCATION:308 S
 DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T121500Z
+SUMMARY:MPR (L)
+LOCATION:224 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
+SUMMARY:MPR (L)
+LOCATION:224 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261028T165000Z
 DTEND:20261028T182500Z
 SUMMARY:Mass (w)
@@ -270,11 +284,32 @@ LOCATION:308 S
 DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261029T104000Z
+DTEND:20261029T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:314 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T150000Z
 DTEND:20261029T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T165000Z
+DTEND:20261029T182500Z
+SUMMARY:Mass (L)
+LOCATION:233 S
+DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T184000Z
+DTEND:20261029T201500Z
+SUMMARY:Mass (L)
+LOCATION:233 S
+DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T085000Z
@@ -340,11 +375,39 @@ LOCATION:307 S
 DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261105T104000Z
+DTEND:20261105T121500Z
+SUMMARY:Hd (L)
+LOCATION:223 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T123000Z
+DTEND:20261105T140500Z
+SUMMARY:PZiP (ć)
+LOCATION:236 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261105T150000Z
 DTEND:20261105T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T165000Z
+DTEND:20261105T182500Z
+SUMMARY:Mass (L)
+LOCATION:224 S
+DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T184000Z
+DTEND:20261105T201500Z
+SUMMARY:Mass (L)
+LOCATION:224 S
+DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T070000Z
@@ -375,11 +438,53 @@ LOCATION:308 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261110T070000Z
+DTEND:20261110T083500Z
+SUMMARY:MPR (L)
+LOCATION:239 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T085000Z
+DTEND:20261110T102500Z
+SUMMARY:MPR (L)
+LOCATION:239 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T104000Z
+DTEND:20261110T121500Z
+SUMMARY:Wdis (ć)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T104000Z
+DTEND:20261112T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:252 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T150000Z
 DTEND:20261112T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T165000Z
+DTEND:20261112T182500Z
+SUMMARY:Mass (L)
+LOCATION:223 S
+DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T184000Z
+DTEND:20261112T201500Z
+SUMMARY:Mass (L)
+LOCATION:223 S
+DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
@@ -403,6 +508,27 @@ LOCATION:317 S
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261117T104000Z
+DTEND:20261117T121500Z
+SUMMARY:Wdis (ć)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T104000Z
+DTEND:20261118T121500Z
+SUMMARY:Hd (L)
+LOCATION:233 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
+SUMMARY:Hd (L)
+LOCATION:233 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:Med (w)
@@ -424,11 +550,60 @@ LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261119T165000Z
+DTEND:20261119T182500Z
+SUMMARY:Mass (L)
+LOCATION:223 S
+DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T184000Z
+DTEND:20261119T201500Z
+SUMMARY:Mass (L)
+LOCATION:223 S
+DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T070000Z
+DTEND:20261120T083500Z
+SUMMARY:PSy (L)
+LOCATION:233 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T085000Z
+DTEND:20261120T102500Z
+SUMMARY:PSy (L)
+LOCATION:233 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261120T104000Z
 DTEND:20261120T121500Z
 SUMMARY:PSy (w)
 LOCATION:316 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T123000Z
+DTEND:20261120T140500Z
+SUMMARY:PZiP (ć)
+LOCATION:309 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T104000Z
+DTEND:20261123T121500Z
+SUMMARY:MPR (L)
+LOCATION:233 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T123000Z
+DTEND:20261123T140500Z
+SUMMARY:MPR (L)
+LOCATION:233 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T150000Z
@@ -443,6 +618,13 @@ DTEND:20261124T182500Z
 SUMMARY:PBI (L)
 LOCATION:125 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:Wdis (ć)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T150000Z
@@ -471,6 +653,34 @@ DTEND:20261126T102500Z
 SUMMARY:Hd (w)
 LOCATION:313 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T070000Z
+DTEND:20261130T083500Z
+SUMMARY:PSy (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T085000Z
+DTEND:20261130T102500Z
+SUMMARY:PSy (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T104000Z
+DTEND:20261130T121500Z
+SUMMARY:Hd (L)
+LOCATION:236 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T123000Z
+DTEND:20261130T140500Z
+SUMMARY:Hd (L)
+LOCATION:236 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
@@ -522,6 +732,27 @@ LOCATION:316 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261204T123000Z
+DTEND:20261204T140500Z
+SUMMARY:Wdis (ć)
+LOCATION:313 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T150000Z
+DTEND:20261204T163500Z
+SUMMARY:Wdis (ć)
+LOCATION:313 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T165000Z
+DTEND:20261204T182500Z
+SUMMARY:PZiP (ć)
+LOCATION:307 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:PBI (L)
@@ -550,18 +781,67 @@ LOCATION:316 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261210T104000Z
+DTEND:20261210T121500Z
+SUMMARY:Wdis (ć)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T070000Z
+DTEND:20261211T083500Z
+SUMMARY:MPR (L)
+LOCATION:227 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T085000Z
+DTEND:20261211T102500Z
+SUMMARY:MPR (L)
+LOCATION:227 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T104000Z
+DTEND:20261211T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:317 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T104000Z
+DTEND:20261214T121500Z
+SUMMARY:Hd (L)
+LOCATION:233 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T123000Z
+DTEND:20261214T140500Z
+SUMMARY:Hd (L)
+LOCATION:233 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T070000Z
+DTEND:20261216T083500Z
+SUMMARY:PSy (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:PSy (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T070000Z
 DTEND:20261217T083500Z
 SUMMARY:Gk (w)
 LOCATION:317 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T085000Z
-DTEND:20261217T102500Z
-SUMMARY:PZiP (w)
-LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T070000Z
@@ -585,6 +865,20 @@ LOCATION:252 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261221T104000Z
+DTEND:20261221T121500Z
+SUMMARY:Wdis (ć)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T123000Z
+DTEND:20261221T140500Z
+SUMMARY:Wdis (ć)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:Gk (L)
@@ -604,6 +898,13 @@ DTEND:20270107T083500Z
 SUMMARY:Gk (w)
 LOCATION:313 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T085000Z
+DTEND:20270107T102500Z
+SUMMARY:Hd (L)
+LOCATION:223 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T070000Z
@@ -627,6 +928,13 @@ LOCATION:252 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270108T150000Z
+DTEND:20270108T163500Z
+SUMMARY:PZiP (ć)
+LOCATION:307 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270111T150000Z
 DTEND:20270111T163500Z
 SUMMARY:Bpe (L)
@@ -639,6 +947,20 @@ DTEND:20270111T182500Z
 SUMMARY:Bpe (L)
 LOCATION:121 65
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T070000Z
+DTEND:20270112T083500Z
+SUMMARY:PSy (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T085000Z
+DTEND:20270112T102500Z
+SUMMARY:PSy (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T104000Z
@@ -688,6 +1010,27 @@ DTEND:20270121T083500Z
 SUMMARY:PBI (L)
 LOCATION:120 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/4\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T085000Z
+DTEND:20270121T102500Z
+SUMMARY:PZiP (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T070000Z
+DTEND:20270126T083500Z
+SUMMARY:PSy (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T085000Z
+DTEND:20270126T102500Z
+SUMMARY:PSy (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T104000Z
