@@ -1,12 +1,12 @@
 ###### _<div align="right"><sub>Designed by Dominik Serafin</sub></div>_
 
 <div align="center">
-  <a href="https://watcalendars.byst.re">
+  <a href="https://dominikx2002.github.io/WATcalendars/">
     <img alt="WATcalendars" src="https://raw.githubusercontent.com/dominikx2002/watcalendars-assets/main/watcalendars-logo/title-logo.png">
   </a>
 
   <p>
-    <a href="https://watcalendars.byst.re"><img src="https://img.shields.io/badge/Strona-0a5c42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Strona"></a>
+    <a href="https://dominikx2002.github.io/WATcalendars/"><img src="https://img.shields.io/badge/Strona-0a5c42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Strona"></a>
     <a href="#dla-studentów"><img src="https://img.shields.io/badge/Jak_zacząć-2ea043?style=for-the-badge&logo=apple&logoColor=white" alt="Jak zacząć"></a>
     <a href="docs/architecture.md"><img src="https://img.shields.io/badge/Architektura-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Architektura"></a>
     <a href="https://github.com/dominikx2002/WATcalendars/issues"><img src="https://img.shields.io/badge/Zgłoś_błąd-555555?style=for-the-badge&logo=github&logoColor=white" alt="Zgłoś błąd"></a>
