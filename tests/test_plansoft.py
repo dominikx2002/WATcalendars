@@ -35,3 +35,21 @@ def test_groups_are_sorted_and_unique():
 def test_empty_and_broken_input_do_not_raise():
     assert parse_index("") == ([], None)
     assert parse_index("<not xml") == ([], None)
+
+
+def test_accept_parameter_controls_extensions():
+    """WTC lists .pdf but serves .htm twins; IOE's .pdf entries are junk.
+
+    The two cases are opposite, which is why this is a parameter.
+    """
+    xml = (
+        '<xml><data>'
+        '<gro href="GRP1.htm" text="GRP1"/>'
+        '<gro href="GRP2.pdf" text="GRP2"/>'
+        '</data></xml>'
+    )
+    html_only, _ = parse_index(xml)
+    assert html_only == ["GRP1"]
+
+    with_pdf, _ = parse_index(xml, accept=("htm", "html", "pdf"))
+    assert with_pdf == ["GRP1", "GRP2"]

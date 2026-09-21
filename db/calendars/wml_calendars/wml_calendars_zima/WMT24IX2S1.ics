@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WATcalendars//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WMT24IX2S1
+BEGIN:VEVENT
+DTSTART:20250202T085000Z
+DTEND:20250202T102500Z
+SUMMARY:Met (E)
+LOCATION:S2 72
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr inż. Omen Łukasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250209T085000Z
+DTEND:20250209T102500Z
+SUMMARY:EiE (E)
+LOCATION:19 36
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250223T085000Z
+DTEND:20250223T102500Z
+SUMMARY:EiE (Ep)
+LOCATION:19 36
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250219T070000Z
+DTEND:20250219T083500Z
+SUMMARY:F2 (Ep)
+LOCATION:19 36
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250206T070000Z
+DTEND:20250206T083500Z
+SUMMARY:F2 (E)
+LOCATION:19 36
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+END:VCALENDAR

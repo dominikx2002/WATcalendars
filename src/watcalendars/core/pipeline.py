@@ -88,21 +88,30 @@ def run_groups(spec: FacultySpec) -> Dict[str, str]:
 
 
 def _fetch_documents(spec, pairs, label):
-    """Download .docx schedules; returns {group: local path}."""
-    from watcalendars.fetch.downloads import download_schedule_file
+    """Download .docx schedules; returns {group: local path}.
+
+    Goes through the browser's session (the WIG site sits behind
+    Incapsula, which 403s plain requests and never fires a download
+    event, so the old listener just timed out 30 s per file).
+    """
+    from watcalendars.fetch.browser import download_many
 
     target = ensure_dir(cache_dir(spec.code))
-    log.info(f"{label} ({len(pairs)} documents) into '{target}'...")
+    warmup = spec.url_for("groups", None) if isinstance(spec.groups_url, str) else None
+    blobs = download_many(pairs, spec.concurrency, label, warmup_url=warmup)
 
     results = {}
-    for index, (group, url) in enumerate(pairs, 1):
-        path = download_schedule_file(url, target, group)
-        results[group] = path if path and os.path.exists(path) else None
-        if results[group]:
-            size = os.path.getsize(path) / 1024
-            log.info(f"{OK} [{index}/{len(pairs)}] {group} downloaded ({size:.1f} KB)")
-        else:
-            log.warning(f"{ERROR} [{index}/{len(pairs)}] {group} download failed")
+    for group, body in blobs.items():
+        if not body:
+            results[group] = None
+            continue
+        path = os.path.join(target, f"{group}.docx")
+        with open(path, "wb") as handle:
+            handle.write(body)
+        results[group] = path
+
+    saved = len([p for p in results.values() if p])
+    log.info(f"{INFO} Saved {saved}/{len(pairs)} documents into '{target}'")
     return results
 
 

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WATcalendars//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IOE23HX1S0
+BEGIN:VEVENT
+DTSTART:20260914T075000Z
+DTEND:20260914T092500Z
+SUMMARY:SIUM (Ep)
+LOCATION:27 70
+DESCRIPTION:Sztuczna inteligencja i uczenie maszyn\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Olejniczak Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260917T075000Z
+DTEND:20260917T092500Z
+SUMMARY:TeTe (Ep)
+LOCATION:204 136
+DESCRIPTION:Technologie teledetekcyjne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Zygmunt Marek
+END:VEVENT
+END:VCALENDAR

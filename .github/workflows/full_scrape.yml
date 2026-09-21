@@ -62,11 +62,31 @@ jobs:
           ${{ github.event.inputs.semester && format('--semester {0}', github.event.inputs.semester) || '' }}
           calendars ${{ github.event.inputs.faculties || 'all' }}
 
+      # Authoritative status: the CLI already wrote one, but only CI knows
+      # whether the earlier stages (employees, groups) failed too, and
+      # only CI has the run URL to link to.
+      - name: Record run status
+        if: always()
+        run: |
+          python - <<'PY'
+          import json, os, datetime
+          ok = "${{ job.status }}" == "success"
+          json.dump({
+              "conclusion": "success" if ok else "failure",
+              "finished": datetime.datetime.now(datetime.timezone.utc)
+                          .strftime("%Y-%m-%dT%H:%M:%SZ"),
+              "detail": "${{ job.status }}",
+              "run_url": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}",
+          }, open("db/calendars/status.json", "w"), separators=(",", ":"))
+          PY
+
       - name: Commit results
         if: always()
         run: |
           git config user.name 'Github Actions Bot'
           git config user.email 'actions@github.com'
+          # index.json is what the website reads; it is rebuilt by the
+          # calendars stage, so it must ship with the .ics files.
           git add db/employees.json db/groups_url db/calendars logs
           git commit -m "Automated daily scrape" || echo "Nothing to commit"
           git push || echo "Nothing to push"

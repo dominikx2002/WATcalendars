@@ -26,3 +26,15 @@ def current_semester(now: Optional[datetime] = None) -> str:
 
     month = (now or datetime.now()).month
     return WINTER if month >= 9 or month <= 2 else SUMMER
+
+
+def academic_year(now: Optional[datetime] = None) -> int:
+    """Starting year of the current academic year.
+
+    WML publishes under <year>_sem_<semester>, where <year> is the year
+    the academic year began: winter 2026/27 and the summer that follows
+    it are both "2026". Computing this beats hard-coding a year that
+    would need editing every autumn.
+    """
+    moment = now or datetime.now()
+    return moment.year if moment.month >= 9 else moment.year - 1
