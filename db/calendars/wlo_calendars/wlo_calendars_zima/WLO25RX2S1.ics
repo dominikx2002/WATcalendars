@@ -77,15 +77,15 @@ BEGIN:VEVENT
 DTSTART:20261019T094000Z
 DTEND:20261019T111500Z
 SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 1/19\nProwadzący: dr hab. Zalewski Jerzy 3
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 1/19\nProwadzący: dr hab. Zalewski Jerzy 3; prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T104000Z
 DTEND:20261130T121500Z
 SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 2/19\nProwadzący: dr hab. Zalewski Jerzy 3
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 2/19\nProwadzący: dr hab. Zalewski Jerzy 3; prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T104000Z
@@ -112,8 +112,8 @@ BEGIN:VEVENT
 DTSTART:20261019T113000Z
 DTEND:20261019T130500Z
 SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 3/19\nProwadzący: dr hab. Zalewski Jerzy 3
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 3/19\nProwadzący: dr hab. Zalewski Jerzy 3; prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T123000Z
@@ -210,8 +210,8 @@ BEGIN:VEVENT
 DTSTART:20261207T150000Z
 DTEND:20261207T163500Z
 SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 7/19\nProwadzący: dr hab. Zalewski Jerzy 3
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 7/19\nProwadzący: dr hab. Zalewski Jerzy 3; prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T150000Z
@@ -399,8 +399,8 @@ BEGIN:VEVENT
 DTSTART:20261013T075000Z
 DTEND:20261013T092500Z
 SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 8/19\nProwadzący: dr hab. Zalewski Jerzy 3
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 8/19\nProwadzący: dr hab. Zalewski Jerzy 3; prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T085000Z
@@ -469,15 +469,15 @@ BEGIN:VEVENT
 DTSTART:20261013T094000Z
 DTEND:20261013T111500Z
 SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr hab. Zalewski Jerzy 3
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr hab. Zalewski Jerzy 3; prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T094000Z
 DTEND:20261020T111500Z
 SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 10/19\nProwadzący: dr hab. Zalewski Jerzy 3
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 10/19\nProwadzący: dr hab. Zalewski Jerzy 3; prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
@@ -686,8 +686,8 @@ BEGIN:VEVENT
 DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 11/19\nProwadzący: dr hab. Zalewski Jerzy 3
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 11/19\nProwadzący: dr hab. Zalewski Jerzy 3; prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T070000Z
@@ -721,8 +721,8 @@ BEGIN:VEVENT
 DTSTART:20261223T085000Z
 DTEND:20261223T102500Z
 SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: dr hab. Zalewski Jerzy 3
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: dr hab. Zalewski Jerzy 3; prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T085000Z
@@ -868,8 +868,8 @@ BEGIN:VEVENT
 DTSTART:20261021T113000Z
 DTEND:20261021T130500Z
 SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 14/19\nProwadzący: dr hab. Zalewski Jerzy 3
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 14/19\nProwadzący: dr hab. Zalewski Jerzy 3; prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T123000Z
@@ -1050,8 +1050,8 @@ BEGIN:VEVENT
 DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr hab. Zalewski Jerzy 3
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr hab. Zalewski Jerzy 3; prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z
@@ -1127,8 +1127,8 @@ BEGIN:VEVENT
 DTSTART:20261008T113000Z
 DTEND:20261008T130500Z
 SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: dr hab. Zalewski Jerzy 3
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: dr hab. Zalewski Jerzy 3; prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T113000Z

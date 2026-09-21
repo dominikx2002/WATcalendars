@@ -434,7 +434,7 @@ BEGIN:VEVENT
 DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
 SUMMARY:wzbnim (ć)
-LOCATION:2.22/135
+LOCATION:1.17/16
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
 END:VEVENT
 BEGIN:VEVENT
@@ -478,13 +478,6 @@ DTEND:20261014T111500Z
 SUMMARY:wzbnim (w)
 LOCATION:0.19/135
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261028T104000Z
-DTEND:20261028T121500Z
-SUMMARY:wzbnim (ć)
-LOCATION:2.22/135
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T104000Z
@@ -760,13 +753,6 @@ LOCATION:5.17/135
 DESCRIPTION:Wsp.bezp.w\nRodzaj zajęć: -\nNumer zajęć: 8/22\nProwadzący: dr inż. Magierski Mieczysław 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T094000Z
-DTEND:20261022T111500Z
-SUMMARY:wzbnim (ć)
-LOCATION:1.15/16
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:wzbnim (w)
@@ -790,9 +776,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
-SUMMARY:Gry 
-LOCATION:5.17/135
-DESCRIPTION:Gry\nRodzaj zajęć: -\nNumer zajęć: 8/22\nProwadzący: dr inż. Magierski Mieczysław 2; dr inż. Magierski Mieczysław
+SUMMARY:wzbnim (w)
+LOCATION:0.19/135
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T113000Z
@@ -827,7 +813,7 @@ DTSTART:20261119T123000Z
 DTEND:20261119T140500Z
 SUMMARY:wzbnim (w)
 LOCATION:0.19/135
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T123000Z
@@ -848,7 +834,7 @@ DTSTART:20260128T123000Z
 DTEND:20260128T140500Z
 SUMMARY:wzbnim (ć)
 LOCATION:1.27/135
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T140000Z
@@ -869,7 +855,7 @@ DTSTART:20261022T140000Z
 DTEND:20261022T153500Z
 SUMMARY:Gry 
 LOCATION:5.17/135
-DESCRIPTION:Gry\nRodzaj zajęć: -\nNumer zajęć: 9/22\nProwadzący: dr inż. Magierski Mieczysław 2; dr inż. Magierski Mieczysław
+DESCRIPTION:Gry\nRodzaj zajęć: -\nNumer zajęć: 8/22\nProwadzący: dr inż. Magierski Mieczysław 2; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T150000Z
@@ -883,7 +869,7 @@ DTSTART:20261112T150000Z
 DTEND:20261112T163500Z
 SUMMARY:Gry 
 LOCATION:5.17/135
-DESCRIPTION:Gry\nRodzaj zajęć: -\nNumer zajęć: 10/22\nProwadzący: dr inż. Magierski Mieczysław 2; dr inż. Magierski Mieczysław
+DESCRIPTION:Gry\nRodzaj zajęć: -\nNumer zajęć: 9/22\nProwadzący: dr inż. Magierski Mieczysław 2; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T150000Z
@@ -897,11 +883,18 @@ DTSTART:20261210T150000Z
 DTEND:20261210T163500Z
 SUMMARY:Gry 
 LOCATION:5.17/135
-DESCRIPTION:Gry\nRodzaj zajęć: -\nNumer zajęć: 11/22\nProwadzący: dr inż. Magierski Mieczysław 2; dr inż. Magierski Mieczysław
+DESCRIPTION:Gry\nRodzaj zajęć: -\nNumer zajęć: 10/22\nProwadzący: dr inż. Magierski Mieczysław 2; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T150000Z
 DTEND:20260128T163500Z
+SUMMARY:Gry 
+LOCATION:5.17/135
+DESCRIPTION:Gry\nRodzaj zajęć: -\nNumer zajęć: 11/22\nProwadzący: dr inż. Magierski Mieczysław 2; dr inż. Magierski Mieczysław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261001T155000Z
+DTEND:20261001T172500Z
 SUMMARY:Gry 
 LOCATION:5.17/135
 DESCRIPTION:Gry\nRodzaj zajęć: -\nNumer zajęć: 12/22\nProwadzący: dr inż. Magierski Mieczysław 2; dr inż. Magierski Mieczysław
@@ -953,7 +946,7 @@ DTSTART:20261030T104000Z
 DTEND:20261030T121500Z
 SUMMARY:wzbnim (ć)
 LOCATION:54E
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T104000Z
@@ -968,6 +961,13 @@ DTEND:20260122T121500Z
 SUMMARY:Inżynieria 
 LOCATION:5.21/135
 DESCRIPTION:Inżynieria\nRodzaj zajęć: -\nNumer zajęć: 23/24\nProwadzący: dr Kawalerski Paweł 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T113000Z
+DTEND:20261002T130500Z
+SUMMARY:wzbnim (ć)
+LOCATION:2/22
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T113000Z
@@ -988,7 +988,7 @@ DTSTART:20261030T123000Z
 DTEND:20261030T140500Z
 SUMMARY:wzbnim (w)
 LOCATION:0.19/135
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T123000Z
@@ -1005,18 +1005,18 @@ LOCATION:5.21/135
 DESCRIPTION:Inżynieria\nRodzaj zajęć: -\nNumer zajęć: 24/24\nProwadzący: dr Kawalerski Paweł 5
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261002T140000Z
+DTEND:20261002T153500Z
+SUMMARY:wzbnim (ć)
+LOCATION:2/22
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261009T140000Z
 DTEND:20261009T153500Z
 SUMMARY:Wsp.bezp.w 
 LOCATION:5.17/135
 DESCRIPTION:Wsp.bezp.w\nRodzaj zajęć: -\nNumer zajęć: 21/22\nProwadzący: dr inż. Magierski Mieczysław 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261016T140000Z
-DTEND:20261016T153500Z
-SUMMARY:wzbnim (w)
-LOCATION:0.24/135
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T140000Z

@@ -1,0 +1,541 @@
+/* WATcalendars - one page, one job: find a group, subscribe to it.
+   Mobile-first; every width below is a min-width. */
+
+:root {
+    --bg: #ffffff;
+    --surface: #f4f5f7;
+    --surface-2: #e9ebef;
+    --text: #15171c;
+    --text-dim: #5b6270;
+    --line: #d8dbe2;
+    --accent: #0a5c42;
+    --accent-text: #ffffff;
+    --focus: #0a5c42;
+    --radius: 12px;
+    --font-display: "Chakra Petch", system-ui, sans-serif;
+    --font-body: "IBM Plex Sans", system-ui, -apple-system, sans-serif;
+    --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+    .chip-logo, .result-logo, .sheet-logo {
+        background: rgb(255 255 255 / 0.92);
+        border-radius: 6px;
+        padding: 2px;
+    }
+    .brand-logo { filter: none; }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #0f1115;
+        --surface: #171a21;
+        --surface-2: #1f232c;
+        --text: #e8eaee;
+        --text-dim: #969db0;
+        --line: #2a2f3a;
+        --accent: #2e9e75;
+        --accent-text: #0f1115;
+        --focus: #3faa82;
+    }
+}
+
+* { box-sizing: border-box; }
+
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 0 16px env(safe-area-inset-bottom, 0px);
+    -webkit-text-size-adjust: 100%;
+}
+
+a { color: var(--accent); }
+
+:focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+.sr-only {
+    position: absolute; width: 1px; height: 1px;
+    padding: 0; margin: -1px; overflow: hidden;
+    clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+
+/* ---------- masthead ---------- */
+
+.masthead {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 20px 0 8px;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 1.1rem;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: var(--text);
+}
+
+.brand-mark { color: var(--accent); }
+
+.brand-logo {
+    width: 26px;
+    height: auto;
+    display: block;
+}
+
+.ghost-link {
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    text-decoration: none;
+}
+.ghost-link:hover { color: var(--text); }
+
+/* ---------- hero + search ---------- */
+
+main { max-width: 680px; margin: 0 auto; }
+
+.hero { padding: 24px 0 8px; }
+
+h1 {
+    font-family: var(--font-display);
+    font-size: 1.65rem;
+    line-height: 1.2;
+    margin: 0 0 8px;
+}
+
+.lede {
+    margin: 0 0 20px;
+    color: var(--text-dim);
+    font-size: 1rem;
+}
+
+.search-wrap { position: relative; }
+
+.search {
+    width: 100%;
+    padding: 15px 44px 15px 16px;
+    font-family: var(--font-mono);
+    font-size: 1rem;          /* 16px keeps iOS from zooming on focus */
+    color: var(--text);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    appearance: none;
+}
+.search::placeholder { color: var(--text-dim); font-family: var(--font-body); }
+.search:focus { border-color: var(--accent); outline: none; box-shadow: 0 0 0 3px rgb(10 92 66 / 0.22); }
+.search::-webkit-search-cancel-button { display: none; }
+
+.clear {
+    position: absolute;
+    right: 6px; top: 50%;
+    transform: translateY(-50%);
+    width: 34px; height: 34px;
+    font-size: 1.4rem; line-height: 1;
+    color: var(--text-dim);
+    background: none; border: 0; border-radius: 8px;
+    cursor: pointer;
+}
+.clear:hover { color: var(--text); background: var(--surface-2); }
+
+.hint { margin: 10px 2px 0; font-size: 0.85rem; color: var(--text-dim); }
+
+/* ---------- faculty chips ---------- */
+
+.faculties {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    margin: 18px 0 4px;
+}
+
+.chip {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    padding: 12px 4px 10px;
+    color: var(--text);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    cursor: pointer;
+    font: inherit;
+    transition: border-color 0.12s, background 0.12s;
+}
+.chip:hover { background: var(--surface-2); border-color: var(--accent); }
+
+.chip-logo {
+    width: 34px;
+    height: 34px;
+    object-fit: contain;
+    /* The faculty crests are dark line art - lift them out of a dark
+       background without washing out the light theme. */
+    filter: none;
+}
+
+.chip-code {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 0.78rem;
+    letter-spacing: 0.03em;
+}
+
+.chip-count { font-size: 0.68rem; color: var(--text-dim); }
+
+.chip[aria-pressed="true"] {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--accent-text);
+}
+.chip[aria-pressed="true"] .chip-count { color: inherit; opacity: 0.8; }
+.chip[aria-pressed="true"] .chip-logo {
+    background: rgb(255 255 255 / 0.9);
+    border-radius: 6px;
+    padding: 2px;
+}
+
+/* ---------- results ---------- */
+
+.status { margin: 16px 2px 2px; font-size: 0.85rem; color: var(--text-dim); min-height: 1.2em; }
+
+.results { list-style: none; margin: 0 0 32px; padding: 0; }
+
+.result {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    padding: 13px 14px;
+    margin-bottom: 8px;
+    text-align: left;
+    color: var(--text);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    cursor: pointer;
+    font: inherit;
+}
+.result:hover, .result.active { border-color: var(--accent); background: var(--surface-2); }
+
+.result-id {
+    flex: 1;
+    min-width: 0;
+    font-family: var(--font-mono);
+    font-size: 0.95rem;
+    /* Group names run to 80+ characters at WIM - never let one push the
+       page sideways. The full name lives in the title attribute. */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.result-logo {
+    flex: none;
+    width: 26px;
+    height: 26px;
+    object-fit: contain;
+}
+
+.result-events { flex: none; font-size: 0.78rem; color: var(--text-dim); }
+
+.pager {
+    /* Arrows sit flush with the result cards and the range label centres
+       between them, so the row lines up with the list instead of
+       floating in the middle of it. */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin: 10px 0 14px;
+}
+
+.pager-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: none;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    font: inherit;
+    font-size: 1rem;
+    line-height: 1;
+    color: var(--text);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    cursor: pointer;
+}
+.pager-btn:hover:not(:disabled) { border-color: var(--accent); background: var(--surface-2); }
+.pager-btn:disabled { opacity: 0.3; cursor: default; }
+
+.pager-label {
+    flex: 1;
+    text-align: center;
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    color: var(--text-dim);
+    white-space: nowrap;
+}
+
+.empty { padding: 24px 2px; color: var(--text-dim); }
+
+/* ---------- subscription sheet ---------- */
+
+/* The hidden attribute must win over display:flex below, or the
+   invisible overlay keeps swallowing clicks on the whole page. */
+[hidden] { display: none !important; }
+
+.sheet {
+    position: fixed;
+    inset: 0;
+    z-index: 20;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    background: rgb(0 0 0 / 0.45);
+    padding: 0;
+}
+
+.sheet-inner {
+    position: relative;
+    width: 100%;
+    max-width: 520px;
+    max-height: 90vh;
+    overflow-y: auto;
+    padding: 24px 20px calc(24px + env(safe-area-inset-bottom, 0px));
+    background: var(--bg);
+    border-radius: 18px 18px 0 0;
+    border-top: 1px solid var(--line);
+}
+
+.sheet-actions {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    display: flex;
+    gap: 6px;
+}
+
+.sheet-source {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px; height: 36px;
+    color: var(--text-dim);
+    background: var(--surface);
+    border-radius: 10px;
+    text-decoration: none;
+}
+.sheet-source:hover { color: var(--accent); background: var(--surface-2); }
+
+.sheet-close {
+    width: 36px; height: 36px;
+    font-size: 1.6rem; line-height: 1;
+    color: var(--text-dim);
+    background: var(--surface); border: 0; border-radius: 10px;
+    cursor: pointer;
+}
+.sheet-close:hover { color: var(--text); }
+
+.sheet-head {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    margin-bottom: 6px;
+    /* Clears both corner buttons (source link + close), not just one. */
+    padding-right: 84px;
+    min-height: 44px;
+}
+
+.sheet-logo {
+    flex: none;
+    width: 44px;
+    height: 44px;
+    object-fit: contain;
+}
+
+.sheet-head-text { min-width: 0; }
+
+.sheet-faculty {
+    margin: 0 0 4px;
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-dim);
+}
+
+.sheet-title {
+    margin: 0;
+    font-family: var(--font-mono);
+    font-size: 1.15rem;
+    font-weight: 500;
+    /* Long WIM names must wrap here rather than overflow. */
+    overflow-wrap: anywhere;
+}
+
+.sheet-meta { margin: 0 0 20px; font-size: 0.85rem; color: var(--text-dim); }
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+    width: 100%;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+    font: inherit;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    border-radius: var(--radius);
+    cursor: pointer;
+}
+
+.btn-primary { background: var(--accent); color: var(--accent-text); border: 1px solid var(--accent); }
+.btn-primary:hover { filter: brightness(1.08); }
+
+.btn-ghost {
+    background: var(--surface);
+    color: var(--text);
+    border: 1px solid var(--line);
+    font-weight: 500;
+}
+.btn-ghost:hover { background: var(--surface-2); }
+
+.btn-icon {
+    display: inline-flex;
+    align-items: center;
+    flex: none;
+}
+.btn-icon svg, .btn-icon img { display: block; }
+
+.btn-note { margin: 0 0 18px; font-size: 0.82rem; color: var(--text-dim); text-align: center; }
+
+.more { border-top: 1px solid var(--line); padding-top: 14px; }
+.more summary { cursor: pointer; font-size: 0.9rem; color: var(--text-dim); }
+.more summary:hover { color: var(--text); }
+.more-body { padding-top: 14px; }
+
+.copy-label { display: block; margin: 16px 0 6px; font-size: 0.8rem; color: var(--text-dim); }
+.copy-row { display: flex; gap: 8px; }
+
+.copy-input {
+    flex: 1;
+    min-width: 0;
+    padding: 10px 12px;
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    color: var(--text-dim);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+}
+
+.copy-btn {
+    flex: none;
+    padding: 10px 14px;
+    font: inherit;
+    font-size: 0.85rem;
+    color: var(--text);
+    background: var(--surface-2);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    cursor: pointer;
+}
+.copy-btn:hover { border-color: var(--accent); }
+
+/* ---------- misc ---------- */
+
+.noscript, .error-box {
+    padding: 16px;
+    margin: 16px 0;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    font-size: 0.9rem;
+}
+
+.footer {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 28px 0 36px;
+    border-top: 1px solid var(--line);
+    font-size: 0.82rem;
+    color: var(--text-dim);
+}
+.footer p { margin: 0 0 6px; }
+
+.footer-status { display: flex; align-items: center; gap: 8px; }
+
+.dot {
+    /* An <a> is inline by default, so width/height would be ignored. */
+    display: inline-block;
+    flex: none;
+    position: relative;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background: var(--dot, var(--text-dim));
+    text-decoration: none;
+}
+
+/* The halo is a separate ring so the dot itself stays crisp. */
+.dot::after {
+    content: "";
+    position: absolute;
+    inset: -3px;
+    border-radius: 50%;
+    border: 1px solid var(--dot, var(--text-dim));
+    opacity: 0;
+}
+
+.dot.ok      { --dot: #2ea043; }
+.dot.failed  { --dot: #e5534b; }
+
+@media (prefers-reduced-motion: no-preference) {
+    .dot::after { animation: ping 2.4s cubic-bezier(0, 0, 0.2, 1) infinite; }
+    @keyframes ping {
+        0%   { transform: scale(0.8); opacity: 0.9; }
+        70%  { transform: scale(2.1); opacity: 0; }
+        100% { transform: scale(2.1); opacity: 0; }
+    }
+}
+
+.copyright {
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid var(--line);
+    font-size: 0.78rem;
+    opacity: 0.85;
+}
+
+@media (min-width: 620px) {
+    body { padding: 0 24px; }
+    .faculties { grid-template-columns: repeat(8, 1fr); }
+    h1 { font-size: 2.1rem; }
+    .hero { padding: 40px 0 8px; }
+    .sheet { align-items: center; padding: 24px; }
+    .sheet-inner { border-radius: 18px; border: 1px solid var(--line); }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .sheet-inner { animation: rise 0.18s ease-out; }
+    @keyframes rise { from { transform: translateY(12px); opacity: 0; } }
+}

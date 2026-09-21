@@ -928,13 +928,6 @@ LOCATION:0.28/135
 DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: mgr inż. Radzimierski Mariusz 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T094000Z
-DTEND:20261021T111500Z
-SUMMARY:BiESTS (L)
-LOCATION:22/21
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Pogorzelski Ireneusz 5
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261125T104000Z
 DTEND:20261125T121500Z
 SUMMARY:Is (w)
@@ -1052,6 +1045,13 @@ DTEND:20260127T140500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K; 132 K
 DESCRIPTION:Język angielski 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T150000Z
+DTEND:20261028T163500Z
+SUMMARY:BiESTS (L)
+LOCATION:22/21
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Pogorzelski Ireneusz 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T150000Z

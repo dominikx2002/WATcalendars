@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WATcalendars//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY22KX3S0
+BEGIN:VEVENT
+DTSTART:20250303T104000Z
+DTEND:20250303T121500Z
+SUMMARY:Pk (Inne)
+LOCATION:078 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Dzierzkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250303T123000Z
+DTEND:20250303T140500Z
+SUMMARY:Pk (Inne)
+LOCATION:078 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Dzierzkowski
+END:VEVENT
+END:VCALENDAR

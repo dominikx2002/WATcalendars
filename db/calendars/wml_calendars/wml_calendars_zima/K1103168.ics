@@ -4,521 +4,640 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:K1103168
 BEGIN:VEVENT
-DTSTART:20260921T060000Z
-DTEND:20260921T073500Z
+DTSTART:20250316T070000Z
+DTEND:20250316T083500Z
+SUMMARY:EPZP (w)
+LOCATION:28 69
+DESCRIPTION:Elementy prawa zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Piechna Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250413T060000Z
+DTEND:20250413T073500Z
+SUMMARY:KiEBA (ć)
+LOCATION:28 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250511T060000Z
+DTEND:20250511T073500Z
+SUMMARY:EPZP (w)
+LOCATION:39 36
+DESCRIPTION:Elementy prawa zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Piechna Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T060000Z
+DTEND:20250608T073500Z
+SUMMARY:Sd. (S)
+LOCATION:22 69
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Woźniak Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250202T085000Z
+DTEND:20250202T102500Z
+SUMMARY:KiEBA (w)
+LOCATION:20 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250223T085000Z
+DTEND:20250223T102500Z
+SUMMARY:Mw (w)
+LOCATION:28 69
+DESCRIPTION:Materiały wybuchowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250316T085000Z
+DTEND:20250316T102500Z
+SUMMARY:EPZP (w)
+LOCATION:28 69
+DESCRIPTION:Elementy prawa zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Piechna Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250413T075000Z
+DTEND:20250413T092500Z
+SUMMARY:KiEBA (w)
+LOCATION:28 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Motyl Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250511T075000Z
+DTEND:20250511T092500Z
+SUMMARY:EPZP (w)
+LOCATION:39 36
+DESCRIPTION:Elementy prawa zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Piechna Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T075000Z
+DTEND:20250608T092500Z
+SUMMARY:PPiWU (w)
+LOCATION:22 69
+DESCRIPTION:Procedury pozyskiwania i wdrażania spW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Woźniak Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250202T104000Z
+DTEND:20250202T121500Z
+SUMMARY:KiEBA (w)
+LOCATION:20 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250223T104000Z
+DTEND:20250223T121500Z
+SUMMARY:KiEBA (w)
+LOCATION:7 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250316T104000Z
+DTEND:20250316T121500Z
+SUMMARY:EPZP (w)
+LOCATION:28 69
+DESCRIPTION:Elementy prawa zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Piechna Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250413T094000Z
+DTEND:20250413T111500Z
+SUMMARY:Mw (w)
+LOCATION:28 69
+DESCRIPTION:Materiały wybuchowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250511T094000Z
+DTEND:20250511T111500Z
+SUMMARY:EPZP (ć)
+LOCATION:39 36
+DESCRIPTION:Elementy prawa zamówień publicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Piechna Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T094000Z
+DTEND:20250608T111500Z
+SUMMARY:Beuos (w)
+LOCATION:39 36
+DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Koperski Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250316T123000Z
+DTEND:20250316T140500Z
+SUMMARY:EPZP (w)
+LOCATION:28 69
+DESCRIPTION:Elementy prawa zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Piechna Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250413T113000Z
+DTEND:20250413T130500Z
+SUMMARY:Badba (L)
+LOCATION:29 69
+DESCRIPTION:Badania broni i amunicji.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Kijewski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250511T113000Z
+DTEND:20250511T130500Z
+SUMMARY:EPZP (ć)
+LOCATION:39 36
+DESCRIPTION:Elementy prawa zamówień publicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Piechna Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T113000Z
+DTEND:20250608T130500Z
+SUMMARY:Beuos (w)
+LOCATION:39 36
+DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Koperski Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250203T070000Z
+DTEND:20250203T083500Z
+SUMMARY:KiEBA (w)
+LOCATION:7 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250224T070000Z
+DTEND:20250224T083500Z
+SUMMARY:KiEBA (w)
+LOCATION:28 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250317T070000Z
+DTEND:20250317T083500Z
+SUMMARY:KiEBA (w)
+LOCATION:28 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250414T060000Z
+DTEND:20250414T073500Z
+SUMMARY:Badba (L)
+LOCATION:29 69
+DESCRIPTION:Badania broni i amunicji.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Kijewski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T060000Z
+DTEND:20250512T073500Z
+SUMMARY:KiEBA (w)
+LOCATION:teren2 WAT
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T060000Z
+DTEND:20250609T073500Z
 SUMMARY:Kswek (w)
 LOCATION:113 25
-DESCRIPTION:Komputerowe systemy wspomagania eksploatacji 6\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Idziaszek Zdzisław 7
+DESCRIPTION:Komputerowe systemy wspomagania eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Idziaszek Zdzisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T060000Z
-DTEND:20261019T073500Z
-SUMMARY:Kswek (ć)
-LOCATION:113 25
-DESCRIPTION:Komputerowe systemy wspomagania eksploatacji 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Piechna Sławomir 8
+DTSTART:20250203T085000Z
+DTEND:20250203T102500Z
+SUMMARY:KiEBA (ć)
+LOCATION:7 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261116T070000Z
-DTEND:20261116T083500Z
-SUMMARY:Beuos (ć)
+DTSTART:20250224T085000Z
+DTEND:20250224T102500Z
+SUMMARY:KiEBA (w)
+LOCATION:7 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250317T085000Z
+DTEND:20250317T102500Z
+SUMMARY:KiEBA (w)
 LOCATION:28 69
-DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Koperski Wojciech 2
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Motyl Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261207T070000Z
-DTEND:20261207T083500Z
-SUMMARY:Sd. (S)
-LOCATION:22 69
-DESCRIPTION:Seminarium dyplomowe 16\nRodzaj zajęć: Seminarium\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Woźniak Ryszard 17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260921T075000Z
-DTEND:20260921T092500Z
-SUMMARY:NTW (w)
-LOCATION:6 25
-DESCRIPTION:Nowoczesne techniki wytwarzania 9\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Janiszewski Jacek 10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T075000Z
-DTEND:20261019T092500Z
-SUMMARY:Kswek (ć)
-LOCATION:113 25
-DESCRIPTION:Komputerowe systemy wspomagania eksploatacji 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Piechna Sławomir 8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T085000Z
-DTEND:20261116T102500Z
-SUMMARY:NTW (w)
-LOCATION:6 25
-DESCRIPTION:Nowoczesne techniki wytwarzania 9\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Janiszewski Jacek 10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261207T085000Z
-DTEND:20261207T102500Z
-SUMMARY:Sd. (S)
-LOCATION:22 69
-DESCRIPTION:Seminarium dyplomowe 16\nRodzaj zajęć: Seminarium\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Woźniak Ryszard 17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260921T094000Z
-DTEND:20260921T111500Z
-SUMMARY:PPiWU (w)
-LOCATION:22 69
-DESCRIPTION:Procedury pozyskiwania i wdrażania spW w SZ RP 14\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Woźniak Ryszard 15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T094000Z
-DTEND:20261019T111500Z
-SUMMARY:SN (w)
+DTSTART:20250414T075000Z
+DTEND:20250414T092500Z
+SUMMARY:KiEBA (w)
 LOCATION:28 69
-DESCRIPTION:Sztuka negocjacji 18\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr Kasperski Marian 19
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Motyl Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261116T104000Z
-DTEND:20261116T121500Z
-SUMMARY:Kswek (L)
-LOCATION:113 25
-DESCRIPTION:Komputerowe systemy wspomagania eksploatacji 6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Idziaszek Zdzisław 7
+DTSTART:20250512T075000Z
+DTEND:20250512T092500Z
+SUMMARY:KiEBA (w)
+LOCATION:teren2 WAT
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260921T113000Z
-DTEND:20260921T130500Z
-SUMMARY:Beuos (w)
-LOCATION:28 69
-DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Koperski Wojciech 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T113000Z
-DTEND:20261019T130500Z
-SUMMARY:SN (w)
-LOCATION:28 69
-DESCRIPTION:Sztuka negocjacji 18\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Kasperski Marian 19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T123000Z
-DTEND:20261116T140500Z
-SUMMARY:Kswek (L)
-LOCATION:113 25
-DESCRIPTION:Komputerowe systemy wspomagania eksploatacji 6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Idziaszek Zdzisław 7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260922T060000Z
-DTEND:20260922T073500Z
-SUMMARY:Kswek (ć)
-LOCATION:113 25
-DESCRIPTION:Komputerowe systemy wspomagania eksploatacji 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Piechna Sławomir 8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T060000Z
-DTEND:20261020T073500Z
-SUMMARY:SN (w)
-LOCATION:28 69
-DESCRIPTION:Sztuka negocjacji 18\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr Kasperski Marian 19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T070000Z
-DTEND:20261117T083500Z
-SUMMARY:SN (ć)
-LOCATION:28 69
-DESCRIPTION:Sztuka negocjacji 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr Kasperski Marian 19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T070000Z
-DTEND:20261208T083500Z
-SUMMARY:Sd. (S)
-LOCATION:22 69
-DESCRIPTION:Seminarium dyplomowe 16\nRodzaj zajęć: Seminarium\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Woźniak Ryszard 17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260922T075000Z
-DTEND:20260922T092500Z
-SUMMARY:NTW (w)
-LOCATION:6 25
-DESCRIPTION:Nowoczesne techniki wytwarzania 9\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Janiszewski Jacek 10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T075000Z
-DTEND:20261020T092500Z
-SUMMARY:PPiWU (w)
-LOCATION:28 69
-DESCRIPTION:Procedury pozyskiwania i wdrażania spW w SZ RP 14\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Woźniak Ryszard 15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T085000Z
-DTEND:20261117T102500Z
-SUMMARY:SN (ć)
-LOCATION:28 69
-DESCRIPTION:Sztuka negocjacji 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Kasperski Marian 19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T085000Z
-DTEND:20261208T102500Z
-SUMMARY:Sd. (S)
-LOCATION:22 69
-DESCRIPTION:Seminarium dyplomowe 16\nRodzaj zajęć: Seminarium\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Woźniak Ryszard 17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260922T094000Z
-DTEND:20260922T111500Z
-SUMMARY:Beuos (w)
-LOCATION:28 69
-DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Koperski Wojciech 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T111500Z
-SUMMARY:PPiWU (w)
-LOCATION:28 69
-DESCRIPTION:Procedury pozyskiwania i wdrażania spW w SZ RP 14\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Woźniak Ryszard 15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T104000Z
-DTEND:20261117T121500Z
-SUMMARY:PPiWU (w)
-LOCATION:28 69
-DESCRIPTION:Procedury pozyskiwania i wdrażania spW w SZ RP 14\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Woźniak Ryszard 15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260922T113000Z
-DTEND:20260922T130500Z
-SUMMARY:PPiWU (w)
-LOCATION:22 69
-DESCRIPTION:Procedury pozyskiwania i wdrażania spW w SZ RP 14\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Woźniak Ryszard 15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
-SUMMARY:Beuos (w)
-LOCATION:28 69
-DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Koperski Wojciech 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:SN (w)
-LOCATION:28 69
-DESCRIPTION:Sztuka negocjacji 18\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Kasperski Marian 19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260923T060000Z
-DTEND:20260923T073500Z
-SUMMARY:Beuos (w)
-LOCATION:28 69
-DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Koperski Wojciech 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T060000Z
-DTEND:20261021T073500Z
-SUMMARY:SN (w)
-LOCATION:28 69
-DESCRIPTION:Sztuka negocjacji 18\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr Kasperski Marian 19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T070000Z
-DTEND:20261118T083500Z
-SUMMARY:PPiWU (ć)
-LOCATION:28 69
-DESCRIPTION:Procedury pozyskiwania i wdrażania spW w SZ RP 14\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Woźniak Ryszard 15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261209T070000Z
-DTEND:20261209T083500Z
-SUMMARY:EgzD (E)
-LOCATION:22 69
-DESCRIPTION:Egzamin dyplomowy 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260923T075000Z
-DTEND:20260923T092500Z
-SUMMARY:Beuos (w)
-LOCATION:28 69
-DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Koperski Wojciech 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T075000Z
-DTEND:20261021T092500Z
-SUMMARY:SN (w)
-LOCATION:28 69
-DESCRIPTION:Sztuka negocjacji 18\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr Kasperski Marian 19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T085000Z
-DTEND:20261118T102500Z
-SUMMARY:SN (ć)
-LOCATION:28 69
-DESCRIPTION:Sztuka negocjacji 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Kasperski Marian 19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261209T085000Z
-DTEND:20261209T102500Z
-SUMMARY:EgzD (E)
-LOCATION:22 69
-DESCRIPTION:Egzamin dyplomowy 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260923T094000Z
-DTEND:20260923T111500Z
+DTSTART:20250609T075000Z
+DTEND:20250609T092500Z
 SUMMARY:Kswek (w)
 LOCATION:113 25
-DESCRIPTION:Komputerowe systemy wspomagania eksploatacji 6\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Piechna Sławomir 8
+DESCRIPTION:Komputerowe systemy wspomagania eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Piechna Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T094000Z
-DTEND:20261021T111500Z
+DTSTART:20250203T104000Z
+DTEND:20250203T121500Z
+SUMMARY:Badba (w)
+LOCATION:22 69
+DESCRIPTION:Badania broni i amunicji.\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Woźniak Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250224T104000Z
+DTEND:20250224T121500Z
+SUMMARY:Mw (w)
+LOCATION:28 69
+DESCRIPTION:Materiały wybuchowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250317T104000Z
+DTEND:20250317T121500Z
+SUMMARY:Mw (w)
+LOCATION:28 69
+DESCRIPTION:Materiały wybuchowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250414T094000Z
+DTEND:20250414T111500Z
+SUMMARY:KiEBA (ć)
+LOCATION:29 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T094000Z
+DTEND:20250512T111500Z
+SUMMARY:KiEBA (w)
+LOCATION:teren2 WAT
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T094000Z
+DTEND:20250609T111500Z
+SUMMARY:NTW (w)
+LOCATION:6 25
+DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Janiszewski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250203T123000Z
+DTEND:20250203T140500Z
+SUMMARY:Badba (w)
+LOCATION:22 69
+DESCRIPTION:Badania broni i amunicji.\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Woźniak Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T113000Z
+DTEND:20250609T130500Z
+SUMMARY:Beuos (w)
+LOCATION:28 69
+DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Koperski Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250204T070000Z
+DTEND:20250204T083500Z
+SUMMARY:KiEBA (w)
+LOCATION:7 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250225T070000Z
+DTEND:20250225T083500Z
+SUMMARY:KiEBA (ć)
+LOCATION:28 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T070000Z
+DTEND:20250318T083500Z
+SUMMARY:Mw (w)
+LOCATION:28 69
+DESCRIPTION:Materiały wybuchowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T060000Z
+DTEND:20250415T073500Z
+SUMMARY:KiEBA (w)
+LOCATION:teren2 WAT
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T060000Z
+DTEND:20250513T073500Z
+SUMMARY:KiEBA (w)
+LOCATION:15 63
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Motyl Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T060000Z
+DTEND:20250610T073500Z
+SUMMARY:NTW (w)
+LOCATION:6 25
+DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Janiszewski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250204T085000Z
+DTEND:20250204T102500Z
+SUMMARY:KiEBA (w)
+LOCATION:7 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250225T085000Z
+DTEND:20250225T102500Z
+SUMMARY:KiEBA (w)
+LOCATION:7 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T085000Z
+DTEND:20250318T102500Z
+SUMMARY:KiEBA (w)
+LOCATION:28 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T075000Z
+DTEND:20250415T092500Z
+SUMMARY:KiEBA (w)
+LOCATION:teren2 WAT
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T075000Z
+DTEND:20250513T092500Z
+SUMMARY:KiEBA (ć)
+LOCATION:18 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T075000Z
+DTEND:20250610T092500Z
+SUMMARY:NTW (w)
+LOCATION:6 25
+DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Janiszewski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250204T104000Z
+DTEND:20250204T121500Z
+SUMMARY:KiEBA (w)
+LOCATION:18 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250225T104000Z
+DTEND:20250225T121500Z
+SUMMARY:KiEBA (w)
+LOCATION:28 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Motyl Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T104000Z
+DTEND:20250318T121500Z
+SUMMARY:KiEBA (w)
+LOCATION:28 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Motyl Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T094000Z
+DTEND:20250415T111500Z
+SUMMARY:KiEBA (w)
+LOCATION:teren2 WAT
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T094000Z
+DTEND:20250513T111500Z
+SUMMARY:Mw (L)
+LOCATION:117 24
+DESCRIPTION:Materiały wybuchowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Szymańczyk Leszek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T094000Z
+DTEND:20250610T111500Z
 SUMMARY:PPiWU (w)
 LOCATION:28 69
-DESCRIPTION:Procedury pozyskiwania i wdrażania spW w SZ RP 14\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Woźniak Ryszard 15
+DESCRIPTION:Procedury pozyskiwania i wdrażania spW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Woźniak Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T104000Z
-DTEND:20261118T121500Z
-SUMMARY:SN (ć)
+DTSTART:20250513T113000Z
+DTEND:20250513T130500Z
+SUMMARY:Mw (L)
+LOCATION:117 24
+DESCRIPTION:Materiały wybuchowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Szymańczyk Leszek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T113000Z
+DTEND:20250610T130500Z
+SUMMARY:Beuos (w)
 LOCATION:28 69
-DESCRIPTION:Sztuka negocjacji 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Kasperski Marian 19
+DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261209T104000Z
-DTEND:20261209T121500Z
-SUMMARY:EgzD (E)
+DTSTART:20250205T070000Z
+DTEND:20250205T083500Z
+SUMMARY:EPZP (w)
 LOCATION:22 69
-DESCRIPTION:Egzamin dyplomowy 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6
+DESCRIPTION:Elementy prawa zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Piechna Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260923T113000Z
-DTEND:20260923T130500Z
+DTSTART:20250226T070000Z
+DTEND:20250226T083500Z
+SUMMARY:Badba (w)
+LOCATION:28 69
+DESCRIPTION:Badania broni i amunicji.\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Woźniak Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250319T070000Z
+DTEND:20250319T083500Z
+SUMMARY:KiEBA (w)
+LOCATION:28 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T060000Z
+DTEND:20250416T073500Z
+SUMMARY:KiEBA (ć)
+LOCATION:28 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Motyl Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T060000Z
+DTEND:20250514T073500Z
+SUMMARY:KiEBA (w)
+LOCATION:teren2 WAT
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T060000Z
+DTEND:20250611T073500Z
 SUMMARY:Kswek (w)
 LOCATION:113 25
-DESCRIPTION:Komputerowe systemy wspomagania eksploatacji 6\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Piechna Sławomir 8
+DESCRIPTION:Komputerowe systemy wspomagania eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Piechna Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T113000Z
-DTEND:20261021T130500Z
-SUMMARY:Beuos (w)
-LOCATION:28 69
-DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Koperski Wojciech 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T123000Z
-DTEND:20261118T140500Z
-SUMMARY:PPiWU (ć)
-LOCATION:28 69
-DESCRIPTION:Procedury pozyskiwania i wdrażania spW w SZ RP 14\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Woźniak Ryszard 15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261209T123000Z
-DTEND:20261209T140500Z
-SUMMARY:EgzD (E)
+DTSTART:20250205T085000Z
+DTEND:20250205T102500Z
+SUMMARY:EPZP (w)
 LOCATION:22 69
-DESCRIPTION:Egzamin dyplomowy 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 7-8
+DESCRIPTION:Elementy prawa zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Piechna Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260924T060000Z
-DTEND:20260924T073500Z
-SUMMARY:Kswek (ć)
+DTSTART:20250226T085000Z
+DTEND:20250226T102500Z
+SUMMARY:KiEBA (ć)
+LOCATION:7 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250319T085000Z
+DTEND:20250319T102500Z
+SUMMARY:KiEBA (ć)
+LOCATION:28 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T075000Z
+DTEND:20250416T092500Z
+SUMMARY:Mw (w)
+LOCATION:28 69
+DESCRIPTION:Materiały wybuchowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T075000Z
+DTEND:20250514T092500Z
+SUMMARY:KiEBA (w)
+LOCATION:teren2 WAT
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T075000Z
+DTEND:20250611T092500Z
+SUMMARY:Kswek (w)
 LOCATION:113 25
-DESCRIPTION:Komputerowe systemy wspomagania eksploatacji 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Piechna Sławomir 8
+DESCRIPTION:Komputerowe systemy wspomagania eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Idziaszek Zdzisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T060000Z
-DTEND:20261022T073500Z
-SUMMARY:Beuos (w)
-LOCATION:28 69
-DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Koperski Wojciech 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:Kswek (L)
-LOCATION:113 25
-DESCRIPTION:Komputerowe systemy wspomagania eksploatacji 6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Piechna Sławomir 8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T070000Z
-DTEND:20261210T083500Z
-SUMMARY:EgzD (E)
+DTSTART:20250205T104000Z
+DTEND:20250205T121500Z
+SUMMARY:Badba (w)
 LOCATION:22 69
-DESCRIPTION:Egzamin dyplomowy 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2
+DESCRIPTION:Badania broni i amunicji.\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Woźniak Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260924T075000Z
-DTEND:20260924T092500Z
-SUMMARY:Kswek (ć)
-LOCATION:113 25
-DESCRIPTION:Komputerowe systemy wspomagania eksploatacji 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Idziaszek Zdzisław 7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T075000Z
-DTEND:20261022T092500Z
-SUMMARY:Beuos (w)
+DTSTART:20250226T104000Z
+DTEND:20250226T121500Z
+SUMMARY:KiEBA (w)
 LOCATION:28 69
-DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Koperski Wojciech 2
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Furmanek Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T085000Z
-DTEND:20261119T102500Z
-SUMMARY:Kswek (L)
-LOCATION:113 25
-DESCRIPTION:Komputerowe systemy wspomagania eksploatacji 6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Piechna Sławomir 8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T102500Z
-SUMMARY:EgzD (E)
-LOCATION:22 69
-DESCRIPTION:Egzamin dyplomowy 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260924T094000Z
-DTEND:20260924T111500Z
-SUMMARY:Beuos (w)
+DTSTART:20250319T104000Z
+DTEND:20250319T121500Z
+SUMMARY:KiEBA (ć)
 LOCATION:28 69
-DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Koperski Wojciech 2
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Furmanek Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T094000Z
-DTEND:20261022T111500Z
-SUMMARY:SN (w)
+DTSTART:20250416T094000Z
+DTEND:20250416T111500Z
+SUMMARY:Mw (w)
 LOCATION:28 69
-DESCRIPTION:Sztuka negocjacji 18\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr Kasperski Marian 19
+DESCRIPTION:Materiały wybuchowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T104000Z
-DTEND:20261119T121500Z
-SUMMARY:PPiWU (w)
+DTSTART:20250514T094000Z
+DTEND:20250514T111500Z
+SUMMARY:KiEBA (w)
+LOCATION:teren2 WAT
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250206T070000Z
+DTEND:20250206T083500Z
+SUMMARY:KiEBA (w)
+LOCATION:7 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Motyl Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250227T070000Z
+DTEND:20250227T083500Z
+SUMMARY:Badba (w)
 LOCATION:28 69
-DESCRIPTION:Procedury pozyskiwania i wdrażania spW w SZ RP 14\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Woźniak Ryszard 15
+DESCRIPTION:Badania broni i amunicji.\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Woźniak Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T104000Z
-DTEND:20261210T121500Z
-SUMMARY:EgzD (E)
-LOCATION:22 69
-DESCRIPTION:Egzamin dyplomowy 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260924T113000Z
-DTEND:20260924T130500Z
-SUMMARY:PPiWU (w)
-LOCATION:22 69
-DESCRIPTION:Procedury pozyskiwania i wdrażania spW w SZ RP 14\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Woźniak Ryszard 15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T113000Z
-DTEND:20261022T130500Z
-SUMMARY:SN (w)
+DTSTART:20250320T070000Z
+DTEND:20250320T083500Z
+SUMMARY:KiEBA (ć)
 LOCATION:28 69
-DESCRIPTION:Sztuka negocjacji 18\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Kasperski Marian 19
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Furmanek Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T123000Z
-DTEND:20261119T140500Z
+DTSTART:20250417T060000Z
+DTEND:20250417T073500Z
+SUMMARY:Mw (w)
+LOCATION:28 69
+DESCRIPTION:Materiały wybuchowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T060000Z
+DTEND:20250515T073500Z
+SUMMARY:Badba (L)
+LOCATION:29 69
+DESCRIPTION:Badania broni i amunicji.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Kijewski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T060000Z
+DTEND:20250612T073500Z
 SUMMARY:Sd. (S)
-LOCATION:28 69
-DESCRIPTION:Seminarium dyplomowe 16\nRodzaj zajęć: Seminarium\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Woźniak Ryszard 17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T123000Z
-DTEND:20261210T140500Z
-SUMMARY:EgzD (E)
 LOCATION:22 69
-DESCRIPTION:Egzamin dyplomowy 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 7-8
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Woźniak Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260925T060000Z
-DTEND:20260925T073500Z
+DTSTART:20250206T085000Z
+DTEND:20250206T102500Z
+SUMMARY:KiEBA (ć)
+LOCATION:18 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250227T085000Z
+DTEND:20250227T102500Z
+SUMMARY:Mw (w)
+LOCATION:28 69
+DESCRIPTION:Materiały wybuchowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250320T085000Z
+DTEND:20250320T102500Z
+SUMMARY:Mw (w)
+LOCATION:28 69
+DESCRIPTION:Materiały wybuchowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T075000Z
+DTEND:20250417T092500Z
+SUMMARY:KiEBA (ć)
+LOCATION:7 69
+DESCRIPTION:Konstrukcja i eksploatacja broni i amunicji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Furmanek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T075000Z
+DTEND:20250612T092500Z
+SUMMARY:Sd. (S)
+LOCATION:22 69
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Woźniak Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250206T104000Z
+DTEND:20250206T121500Z
+SUMMARY:Badba (w)
+LOCATION:22 69
+DESCRIPTION:Badania broni i amunicji.\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Woźniak Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T094000Z
+DTEND:20250417T111500Z
+SUMMARY:Badba (L)
+LOCATION:5 26
+DESCRIPTION:Badania broni i amunicji.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Kijewski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T094000Z
+DTEND:20250612T111500Z
 SUMMARY:Beuos (w)
-LOCATION:28 69
-DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Koperski Wojciech 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261023T060000Z
-DTEND:20261023T073500Z
-SUMMARY:NTW (w)
-LOCATION:6 25
-DESCRIPTION:Nowoczesne techniki wytwarzania 9\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Janiszewski Jacek 10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261120T070000Z
-DTEND:20261120T083500Z
-SUMMARY:NTW (L)
-LOCATION:6 25
-DESCRIPTION:Nowoczesne techniki wytwarzania 9\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Paszkowski Robert 11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T070000Z
-DTEND:20261211T083500Z
-SUMMARY:EgzD (E)
-LOCATION:22 69
-DESCRIPTION:Egzamin dyplomowy 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260925T075000Z
-DTEND:20260925T092500Z
-SUMMARY:NTW (w)
-LOCATION:6 25
-DESCRIPTION:Nowoczesne techniki wytwarzania 9\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Janiszewski Jacek 10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261023T075000Z
-DTEND:20261023T092500Z
-SUMMARY:NTW (L)
-LOCATION:bud. 87
-DESCRIPTION:Nowoczesne techniki wytwarzania 9\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Szymańczyk Leszek 13
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261120T085000Z
-DTEND:20261120T102500Z
-SUMMARY:NTW (L)
-LOCATION:6 25
-DESCRIPTION:Nowoczesne techniki wytwarzania 9\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Paszkowski Robert 11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T085000Z
-DTEND:20261211T102500Z
-SUMMARY:EgzD (E)
-LOCATION:22 69
-DESCRIPTION:Egzamin dyplomowy 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260925T094000Z
-DTEND:20260925T111500Z
-SUMMARY:NTW (w)
-LOCATION:6 25
-DESCRIPTION:Nowoczesne techniki wytwarzania 9\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Janiszewski Jacek 10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261023T094000Z
-DTEND:20261023T111500Z
-SUMMARY:NTW (L)
-LOCATION:bud. 87
-DESCRIPTION:Nowoczesne techniki wytwarzania 9\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Szymańczyk Leszek 13
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261120T104000Z
-DTEND:20261120T121500Z
-SUMMARY:NTW (L)
-LOCATION:6 25
-DESCRIPTION:Nowoczesne techniki wytwarzania 9\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert 11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T104000Z
-DTEND:20261211T121500Z
-SUMMARY:EgzD (E)
-LOCATION:22 69
-DESCRIPTION:Egzamin dyplomowy 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260925T113000Z
-DTEND:20260925T130500Z
-SUMMARY:NTW (w)
-LOCATION:6 25
-DESCRIPTION:Nowoczesne techniki wytwarzania 9\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Janiszewski Jacek 10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T123000Z
-DTEND:20261211T140500Z
-SUMMARY:EgzD (E)
-LOCATION:22 69
-DESCRIPTION:Egzamin dyplomowy 4\nRodzaj zajęć: Egzamin\nNumer zajęć: 7-8
+LOCATION:39 36
+DESCRIPTION:Bezpieczeństwo eksploatacji uzbrojenia i obiektów szkoleniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 END:VCALENDAR

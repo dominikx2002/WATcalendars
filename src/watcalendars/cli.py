@@ -58,6 +58,7 @@ def build_parser() -> argparse.ArgumentParser:
         )
 
     sub.add_parser("employees", help="scrape the USOSweb staff list")
+    sub.add_parser("index", help="rebuild db/calendars/index.json for the website")
     sub.add_parser("list", help="show configured faculties")
     return parser
 
@@ -83,7 +84,8 @@ def cmd_list() -> int:
 PAUSE_BETWEEN_FACULTIES = 20
 
 
-def _run_stage(stage: str, specs) -> int:
+def _run_stage(stage: str, specs):
+    """Returns (exit code, list of faculty codes that failed)."""
     failures = []
     for position, spec in enumerate(specs):
         if position and spec.fetch_strategy != "http":
@@ -107,9 +109,9 @@ def _run_stage(stage: str, specs) -> int:
             f"{WARNING} Finished with failures: {', '.join(sorted(failures))} "
             f"({len(specs) - len(failures)}/{len(specs)} succeeded)"
         )
-        return 1
+        return 1, sorted(failures)
     log.info(f"{SUCCESS} All {len(specs)} faculties completed.")
-    return 0
+    return 0, []
 
 
 def main(argv=None) -> int:
@@ -123,6 +125,12 @@ def main(argv=None) -> int:
 
     if args.command == "list":
         return cmd_list()
+
+    if args.command == "index":
+        from watcalendars.store.index import build_index
+
+        build_index()
+        return 0
 
     if args.command == "employees":
         # Imported here: the employee scraper needs Playwright, and the
@@ -138,7 +146,27 @@ def main(argv=None) -> int:
         return 2
 
     started = time.time()
-    code = _run_stage(args.command, specs)
+    code, failures = _run_stage(args.command, specs)
+
+    if args.command in ("calendars", "run"):
+        # The website reads both files; writing them here means nobody
+        # has to remember a separate step after a scrape.
+        from watcalendars.store.index import build_index, write_status
+
+        try:
+            build_index()
+        except Exception as exc:
+            log.error(f"{ERROR} Could not rebuild index.json: {exc}")
+
+        try:
+            detail = (
+                "nie powiodło się: " + ", ".join(f.upper() for f in failures)
+                if failures
+                else f"{len(specs)}/{len(specs)} wydziałów"
+            )
+            write_status(not failures, detail)
+        except Exception as exc:
+            log.error(f"{ERROR} Could not write status.json: {exc}")
     log.info(f"{INFO} Total time: {format_duration(time.time() - started)}")
     return code
 

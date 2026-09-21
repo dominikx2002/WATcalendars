@@ -956,11 +956,18 @@ LOCATION:0.7/16
 DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Kasperski Marian 11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261021T140000Z
+DTEND:20261021T153500Z
+SUMMARY:Neg (w)
+LOCATION:1003 HIL
+DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Kasperski Marian 11
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261028T150000Z
 DTEND:20261028T163500Z
 SUMMARY:Neg (w)
 LOCATION:0.6/16
-DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Kasperski Marian 11
+DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Kasperski Marian 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T150000Z
@@ -1023,7 +1030,7 @@ DTSTART:20261112T070000Z
 DTEND:20261112T083500Z
 SUMMARY:Neg (w)
 LOCATION:1003 HIL
-DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Kasperski Marian 11
+DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Kasperski Marian 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -1121,7 +1128,7 @@ DTSTART:20261203T085000Z
 DTEND:20261203T102500Z
 SUMMARY:Neg (w)
 LOCATION:1003 HIL
-DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Kasperski Marian 11
+DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Kasperski Marian 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T085000Z
@@ -1199,13 +1206,6 @@ DTEND:20261022T111500Z
 SUMMARY:Zwf (ć)
 LOCATION:1b/28
 DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T121500Z
-SUMMARY:Neg (w)
-LOCATION:5.17/135
-DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Kasperski Marian 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z

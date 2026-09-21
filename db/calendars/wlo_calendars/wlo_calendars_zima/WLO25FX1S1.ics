@@ -1068,6 +1068,13 @@ LOCATION:1.27/135
 DESCRIPTION:Logistyka zaopatrzenia 42\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: płk dr inż. Zelkowski Jarosław 43
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261104T150000Z
+DTEND:20261104T163500Z
+SUMMARY:BiESTS (L)
+LOCATION:22/21
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Pogorzelski Ireneusz 5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261202T150000Z
 DTEND:20261202T163500Z
 SUMMARY:LZ (ć)
@@ -1129,13 +1136,6 @@ DTEND:20260121T083500Z
 SUMMARY:Is (S)
 LOCATION:0.7/16
 DESCRIPTION:Inżynieria systemów i analiza systemowa 23\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: prof. dr. hab. inż. Brzeziński Marian 24
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T085000Z
-DTEND:20261112T102500Z
-SUMMARY:BiESTS (L)
-LOCATION:22/21
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Pogorzelski Ireneusz 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T085000Z

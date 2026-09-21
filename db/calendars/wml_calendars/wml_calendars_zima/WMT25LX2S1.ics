@@ -4,1333 +4,1683 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WMT25LX2S1
 BEGIN:VEVENT
-DTSTART:20261005T060000Z
-DTEND:20261005T073500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DTSTART:20250202T070000Z
+DTEND:20250202T083500Z
+SUMMARY:M1 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: Dr Tarka Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T060000Z
-DTEND:20261019T073500Z
-SUMMARY:CL (w)
-LOCATION:S3 72
-DESCRIPTION:Czynnik ludzki 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Jaskółowski Waldemar 2
+DTSTART:20250323T070000Z
+DTEND:20250323T083500Z
+SUMMARY:Iw (w)
+LOCATION:19 36
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261109T070000Z
-DTEND:20261109T083500Z
-SUMMARY:EiE (ć)
+DTSTART:20250413T060000Z
+DTEND:20250413T073500Z
+SUMMARY:F1 (ć)
 LOCATION:18 63
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kurenda Maciej 5
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261123T070000Z
-DTEND:20261123T083500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DTSTART:20250316T085000Z
+DTEND:20250316T102500Z
+SUMMARY:Mat3 (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Hajduk Karol
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261130T070000Z
-DTEND:20261130T083500Z
-SUMMARY:Met (ć)
-LOCATION:P 66
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż.. Kowalski Maciej 39
+DTSTART:20250323T085000Z
+DTEND:20250323T102500Z
+SUMMARY:Mat3 (ć)
+LOCATION:18 63
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Hajduk Karol
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261207T070000Z
-DTEND:20261207T083500Z
-SUMMARY:Pomuf (ć)
+DTSTART:20250330T075000Z
+DTEND:20250330T092500Z
+SUMMARY:Mat3 (ć)
+LOCATION:18 63
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Hajduk Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250413T075000Z
+DTEND:20250413T092500Z
+SUMMARY:Mat3 (ć)
+LOCATION:15 63
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Hajduk Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250420T075000Z
+DTEND:20250420T092500Z
+SUMMARY:Mat3 (ć)
+LOCATION:119 45
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Hajduk Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250427T075000Z
+DTEND:20250427T092500Z
+SUMMARY:Gin (ć)
 LOCATION:18 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kochan Jakub 42
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Szcześniak Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260125T070000Z
-DTEND:20260125T083500Z
-SUMMARY:Met (ć)
-LOCATION:9 67
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż.. Kowalski Maciej 39
+DTSTART:20250504T075000Z
+DTEND:20250504T092500Z
+SUMMARY:Mat3 (ć)
+LOCATION:18 63
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Hajduk Karol
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260914T075000Z
-DTEND:20260914T092500Z
-SUMMARY:Mat3 (Ep)
-LOCATION:19 36
-DESCRIPTION:Matematyka 3 35\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna 36
+DTSTART:20250511T075000Z
+DTEND:20250511T092500Z
+SUMMARY:Mat3 (ć)
+LOCATION:18 63
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Hajduk Karol
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261005T075000Z
-DTEND:20261005T092500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DTSTART:20250518T075000Z
+DTEND:20250518T092500Z
+SUMMARY:Mat3 (ć)
+LOCATION:118 45
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Hajduk Karol
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T075000Z
-DTEND:20261019T092500Z
-SUMMARY:F2 (L)
-LOCATION:141 S;139
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr Chodorow Urszula 17
+DTSTART:20250525T075000Z
+DTEND:20250525T092500Z
+SUMMARY:Iw (ć)
+LOCATION:46 63
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Grązka Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261109T085000Z
-DTEND:20261109T102500Z
-SUMMARY:Sosz (L)
-LOCATION:003 36;004
-DESCRIPTION:* Soszyński P 11\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: por. mgr inż. Zalewski Włodzimierz ... 13
+DTSTART:20250601T075000Z
+DTEND:20250601T092500Z
+SUMMARY:Metr (L)
+LOCATION:2 25
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261116T085000Z
-DTEND:20261116T102500Z
-SUMMARY:Sosz (L)
-LOCATION:003 36
-DESCRIPTION:* Soszyński P 11\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: por. mgr inż. Zalewski Włodzimierz ... 13
+DTSTART:20250608T075000Z
+DTEND:20250608T092500Z
+SUMMARY:Iw (ć)
+LOCATION:6 25
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Grązka Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261123T085000Z
-DTEND:20261123T102500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261130T085000Z
-DTEND:20261130T102500Z
-SUMMARY:Lwnm (L)
-LOCATION:31 67
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Szlendak Gabriel 34
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261207T085000Z
-DTEND:20261207T102500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T085000Z
-DTEND:20260111T102500Z
-SUMMARY:Lwnm (ć)
-LOCATION:2 25;13 25
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Dębski Andrzej 28
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260118T085000Z
-DTEND:20260118T102500Z
-SUMMARY:Lwnm (ć)
-LOCATION:31 67
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Szlendak Gabriel 34
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260125T085000Z
-DTEND:20260125T102500Z
-SUMMARY:Pomuf (ć)
+DTSTART:20250615T075000Z
+DTEND:20250615T092500Z
+SUMMARY:Gin (ć)
 LOCATION:18 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Kurnyta-Mazurek Paulina 43
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Szcześniak Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T094000Z
-DTEND:20261012T111500Z
-SUMMARY:Pomuf (ć)
-LOCATION:18 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Djabin Jakub 41
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261102T104000Z
-DTEND:20261102T121500Z
-SUMMARY:CL (w)
-LOCATION:S3 72
-DESCRIPTION:Czynnik ludzki 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Jaskółowski Waldemar 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T104000Z
-DTEND:20261116T121500Z
-SUMMARY:CL (w)
-LOCATION:S3 72
-DESCRIPTION:Czynnik ludzki 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Jaskółowski Waldemar 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261130T104000Z
-DTEND:20261130T121500Z
-SUMMARY:Sosz (L)
-LOCATION:003 36;004
-DESCRIPTION:* Soszyński P 11\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: por. mgr inż. Zalewski Włodzimierz ... 13
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261207T104000Z
-DTEND:20261207T121500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzegorczyk Tomasz 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261214T104000Z
-DTEND:20261214T121500Z
-SUMMARY:Lwnm (ć)
-LOCATION:7 25;13 25
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Dębski Andrzej 28
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T104000Z
-DTEND:20260111T121500Z
-SUMMARY:Pomuf (ć)
-LOCATION:43 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Djabin Jakub 41
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261005T113000Z
-DTEND:20261005T130500Z
-SUMMARY:F2 (w)
+DTSTART:20250316T104000Z
+DTEND:20250316T121500Z
+SUMMARY:Gin (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Kachel Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T113000Z
-DTEND:20261012T130500Z
-SUMMARY:F2 (w)
+DTSTART:20250323T104000Z
+DTEND:20250323T121500Z
+SUMMARY:Iw (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T113000Z
-DTEND:20261019T130500Z
-SUMMARY:F2 (w)
+DTSTART:20250330T094000Z
+DTEND:20250330T111500Z
+SUMMARY:Nom (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Dębski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261026T123000Z
-DTEND:20261026T140500Z
-SUMMARY:F2 (w)
+DTSTART:20250413T094000Z
+DTEND:20250413T111500Z
+SUMMARY:Nom (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Dębski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261116T123000Z
-DTEND:20261116T140500Z
-SUMMARY:F2 (w)
+DTSTART:20250420T094000Z
+DTEND:20250420T111500Z
+SUMMARY:Nom (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Dębski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261123T123000Z
-DTEND:20261123T140500Z
-SUMMARY:F2 (w)
+DTSTART:20250427T094000Z
+DTEND:20250427T111500Z
+SUMMARY:Iw (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261130T123000Z
-DTEND:20261130T140500Z
-SUMMARY:F2 (w)
+DTSTART:20250504T094000Z
+DTEND:20250504T111500Z
+SUMMARY:Iw (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261207T123000Z
-DTEND:20261207T140500Z
-SUMMARY:F2 (w)
+DTSTART:20250511T094000Z
+DTEND:20250511T111500Z
+SUMMARY:In (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DESCRIPTION:Informatyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Cieplak Kamil
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261214T123000Z
-DTEND:20261214T140500Z
-SUMMARY:F2 (w)
+DTSTART:20250518T094000Z
+DTEND:20250518T111500Z
+SUMMARY:In (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DESCRIPTION:Informatyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260111T123000Z
-DTEND:20260111T140500Z
-SUMMARY:F2 (w)
+DTSTART:20250525T094000Z
+DTEND:20250525T111500Z
+SUMMARY:Iw (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260118T123000Z
-DTEND:20260118T140500Z
-SUMMARY:F2 (w)
-LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DTSTART:20250601T094000Z
+DTEND:20250601T111500Z
+SUMMARY:Metr (L)
+LOCATION:2 25
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzegorczyk Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260125T123000Z
-DTEND:20260125T140500Z
-SUMMARY:F2 (w)
-LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DTSTART:20250608T094000Z
+DTEND:20250608T111500Z
+SUMMARY:Metr (L)
+LOCATION:2 25
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzegorczyk Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260208T123000Z
-DTEND:20260208T140500Z
-SUMMARY:F2 (E)
-LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Egzamin\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DTSTART:20250615T094000Z
+DTEND:20250615T111500Z
+SUMMARY:Iw (ć)
+LOCATION:7 25
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Sienkiewicz Judyta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261005T140000Z
-DTEND:20261005T153500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
+DTSTART:20250629T094000Z
+DTEND:20250629T111500Z
+SUMMARY:Nom (E)
+LOCATION:113 25
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Dębski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T140000Z
-DTEND:20261012T153500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
+DTSTART:20250511T113000Z
+DTEND:20250511T130500Z
+SUMMARY:F1 (ć)
+LOCATION:15 63
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T140000Z
-DTEND:20261019T153500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
+DTSTART:20250518T113000Z
+DTEND:20250518T130500Z
+SUMMARY:F1 (ć)
+LOCATION:18 63
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261026T150000Z
-DTEND:20261026T163500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
+DTSTART:20250608T113000Z
+DTEND:20250608T130500Z
+SUMMARY:Metr (L)
+LOCATION:2 25
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Grzegorczyk Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261102T150000Z
-DTEND:20261102T163500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
+DTSTART:20250608T140000Z
+DTEND:20250608T153500Z
+SUMMARY:F1 (L)
+LOCATION:142 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261109T150000Z
-DTEND:20261109T163500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
+DTSTART:20250317T070000Z
+DTEND:20250317T083500Z
+SUMMARY:F1 (ć)
+LOCATION:18 63
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261116T150000Z
-DTEND:20261116T163500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
+DTSTART:20250331T060000Z
+DTEND:20250331T073500Z
+SUMMARY:F1 (ć)
+LOCATION:18 63
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261123T150000Z
-DTEND:20261123T163500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261130T150000Z
-DTEND:20261130T163500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261207T150000Z
-DTEND:20261207T163500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261214T150000Z
-DTEND:20261214T163500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261221T150000Z
-DTEND:20261221T163500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T150000Z
-DTEND:20260111T163500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260118T150000Z
-DTEND:20260118T163500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260125T150000Z
-DTEND:20260125T163500Z
-SUMMARY:Ja (ć)
-LOCATION:230 K;134
-DESCRIPTION:Język angielski 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261005T155000Z
-DTEND:20261005T172500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T155000Z
-DTEND:20261012T172500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T155000Z
-DTEND:20261019T172500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261026T165000Z
-DTEND:20261026T182500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261102T165000Z
-DTEND:20261102T182500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261109T165000Z
-DTEND:20261109T182500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T165000Z
-DTEND:20261116T182500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261123T165000Z
-DTEND:20261123T182500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261130T165000Z
-DTEND:20261130T182500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261207T165000Z
-DTEND:20261207T182500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261214T165000Z
-DTEND:20261214T182500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261221T165000Z
-DTEND:20261221T182500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T165000Z
-DTEND:20260111T182500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260118T165000Z
-DTEND:20260118T182500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260125T165000Z
-DTEND:20260125T182500Z
-SUMMARY:JoM (ć)
-LOCATION:230 K;231
-DESCRIPTION:Język obcy (II) międzywydziałowy 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T060000Z
-DTEND:20261013T073500Z
-SUMMARY:Met (ć)
-LOCATION:9 67
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż.. Kowalski Maciej 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T070000Z
-DTEND:20261117T083500Z
-SUMMARY:Lwnm (ć)
-LOCATION:7 25;13 25
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Dębski Andrzej 28
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260126T070000Z
-DTEND:20260126T083500Z
-SUMMARY:EiE (ć)
+DTSTART:20250421T060000Z
+DTEND:20250421T073500Z
+SUMMARY:F1 (ć)
 LOCATION:19 63
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T092500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250505T060000Z
+DTEND:20250505T073500Z
+SUMMARY:F1 (ć)
+LOCATION:18 63
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T075000Z
-DTEND:20261020T092500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250512T060000Z
+DTEND:20250512T073500Z
+SUMMARY:F1 (ć)
+LOCATION:15 63
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T102500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250519T060000Z
+DTEND:20250519T073500Z
+SUMMARY:F1 (ć)
+LOCATION:15 63
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261103T085000Z
-DTEND:20261103T102500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250303T085000Z
+DTEND:20250303T102500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T085000Z
-DTEND:20261110T102500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250310T085000Z
+DTEND:20250310T102500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T085000Z
-DTEND:20261117T102500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250317T085000Z
+DTEND:20250317T102500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T085000Z
-DTEND:20261201T102500Z
-SUMMARY:F2 (ć)
-LOCATION:28 69
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Dudek Michał 18
+DTSTART:20250324T085000Z
+DTEND:20250324T102500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T085000Z
-DTEND:20261215T102500Z
-SUMMARY:F2 (ć)
+DTSTART:20250331T075000Z
+DTEND:20250331T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250414T075000Z
+DTEND:20250414T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250421T075000Z
+DTEND:20250421T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T075000Z
+DTEND:20250428T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T075000Z
+DTEND:20250505T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T075000Z
+DTEND:20250512T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T075000Z
+DTEND:20250519T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T075000Z
+DTEND:20250526T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T075000Z
+DTEND:20250602T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T075000Z
+DTEND:20250609T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T075000Z
+DTEND:20250616T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Stawicka Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T075000Z
+DTEND:20250623T092500Z
+SUMMARY:Mat3 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250317T104000Z
+DTEND:20250317T121500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T104000Z
+DTEND:20250324T121500Z
+SUMMARY:F1 (ć)
 LOCATION:41 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Dudek Michał 18
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261222T085000Z
-DTEND:20261222T102500Z
-SUMMARY:F2 (w)
+DTSTART:20250414T094000Z
+DTEND:20250414T111500Z
+SUMMARY:Gin (ć)
+LOCATION:18 67
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Szcześniak Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250421T094000Z
+DTEND:20250421T111500Z
+SUMMARY:In (ć)
+LOCATION:6 25
+DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Cieplak Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T094000Z
+DTEND:20250428T111500Z
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T094000Z
+DTEND:20250505T111500Z
+SUMMARY:Nom (ć)
+LOCATION:15 63
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Makowska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T094000Z
+DTEND:20250519T111500Z
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Korczago Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T094000Z
+DTEND:20250526T111500Z
+SUMMARY:Metr (L)
+LOCATION:128 36
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kurenda Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T094000Z
+DTEND:20250602T111500Z
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T094000Z
+DTEND:20250609T111500Z
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T094000Z
+DTEND:20250616T111500Z
+SUMMARY:F1 (ć)
+LOCATION:18 63
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Morawiak Przemysław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250303T123000Z
+DTEND:20250303T140500Z
+SUMMARY:Iw (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab .inż. Perkowski Paweł 20
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260112T085000Z
-DTEND:20260112T102500Z
-SUMMARY:F2 (ć)
-LOCATION:18 63
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Dudek Michał 18
+DTSTART:20250310T123000Z
+DTEND:20250310T140500Z
+SUMMARY:PEM (w)
+LOCATION:301/ S
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Korczago Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T111500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250317T123000Z
+DTEND:20250317T140500Z
+SUMMARY:PEM (w)
+LOCATION:301/ S
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Korczago Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T111500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250324T123000Z
+DTEND:20250324T140500Z
+SUMMARY:PEM (w)
+LOCATION:301/ S
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Korczago Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T121500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250331T113000Z
+DTEND:20250331T130500Z
+SUMMARY:PEM (w)
+LOCATION:301/ S
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Korczago Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261103T104000Z
-DTEND:20261103T121500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250414T113000Z
+DTEND:20250414T130500Z
+SUMMARY:F1 (L)
+LOCATION:142 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T104000Z
-DTEND:20261110T121500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250512T113000Z
+DTEND:20250512T130500Z
+SUMMARY:PEM (w)
+LOCATION:103 K
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Korczago Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T104000Z
-DTEND:20261117T121500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250519T113000Z
+DTEND:20250519T130500Z
+SUMMARY:PEM (w)
+LOCATION:103 K
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Korczago Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T104000Z
-DTEND:20261201T121500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250602T113000Z
+DTEND:20250602T130500Z
+SUMMARY:HP (ć)
+LOCATION:19 63
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T104000Z
-DTEND:20261208T121500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał 38
+DTSTART:20250324T150000Z
+DTEND:20250324T163500Z
+SUMMARY:Nom (ć)
+LOCATION:6 25
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Makowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T104000Z
-DTEND:20261215T121500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał 38
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261222T104000Z
-DTEND:20261222T121500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał 38
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260112T104000Z
-DTEND:20260112T121500Z
-SUMMARY:Met (w)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał 38
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260126T104000Z
-DTEND:20260126T121500Z
-SUMMARY:Pipl (L)
-LOCATION:33 67
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Wróblewski Mirosław 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T113000Z
-DTEND:20261013T130500Z
-SUMMARY:CL (w)
-LOCATION:S3 72
-DESCRIPTION:Czynnik ludzki 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Jaskółowski Waldemar 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
-SUMMARY:Pomuf (ć)
-LOCATION:18 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kochan Jakub 42
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261103T123000Z
-DTEND:20261103T140500Z
-SUMMARY:CL (w)
-LOCATION:S3 72
-DESCRIPTION:Czynnik ludzki 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Jaskółowski Waldemar 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:CL (w)
-LOCATION:S3 72
-DESCRIPTION:Czynnik ludzki 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Jaskółowski Waldemar 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T123000Z
-DTEND:20261201T140500Z
-SUMMARY:CL (w)
-LOCATION:S3 72
-DESCRIPTION:Czynnik ludzki 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Jaskółowski Waldemar 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T123000Z
-DTEND:20261208T140500Z
-SUMMARY:F2 (ć)
-LOCATION:28 69
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Dudek Michał 18
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T123000Z
-DTEND:20261215T140500Z
-SUMMARY:CL (w)
-LOCATION:S3 72
-DESCRIPTION:Czynnik ludzki 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Jaskółowski Waldemar 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T150000Z
-DTEND:20261027T163500Z
-SUMMARY:Met (ć)
-LOCATION:P 66
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż.. Kowalski Maciej 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261103T150000Z
-DTEND:20261103T163500Z
-SUMMARY:Pipl (ć)
-LOCATION:S2 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Wróblewski Mirosław 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T150000Z
-DTEND:20261110T163500Z
-SUMMARY:Pomuf (ć)
-LOCATION:18 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Kochan Jakub 42
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T150000Z
-DTEND:20261117T163500Z
-SUMMARY:F2 (L)
-LOCATION:141 S;139
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr Chodorow Urszula 17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T150000Z
-DTEND:20261124T163500Z
-SUMMARY:EiE (ć)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Grzegorczyk Tomasz 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T150000Z
-DTEND:20261201T163500Z
-SUMMARY:F2 (L)
-LOCATION:141 S;139
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr Chodorow Urszula 17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T150000Z
-DTEND:20261208T163500Z
-SUMMARY:Pomuf (ć)
-LOCATION:18 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Kochan Jakub 42
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T150000Z
-DTEND:20261215T163500Z
-SUMMARY:F2 (L)
-LOCATION:141 S;139
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr Chodorow Urszula 17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260119T150000Z
-DTEND:20260119T163500Z
-SUMMARY:Pomuf (ć)
-LOCATION:18 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Kochan Jakub 42
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261103T165000Z
-DTEND:20261103T182500Z
-SUMMARY:EiE (L)
-LOCATION:141 36;04
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T165000Z
-DTEND:20261124T182500Z
-SUMMARY:EiE (L)
-LOCATION:141 36;04
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261007T060000Z
-DTEND:20261007T073500Z
-SUMMARY:EiE (w)
+DTSTART:20250526T140000Z
+DTEND:20250526T153500Z
+SUMMARY:F1 (w)
 LOCATION:19 36
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T060000Z
-DTEND:20261014T073500Z
-SUMMARY:Pipl (w)
-LOCATION:S3 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Wróblewski Mirosław 45
+DTSTART:20250616T155000Z
+DTEND:20250616T172500Z
+SUMMARY:PEM (w)
+LOCATION:103 K
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: dr Korczago Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T060000Z
-DTEND:20261021T073500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Grzegorczyk Tomasz 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261028T070000Z
-DTEND:20261028T083500Z
-SUMMARY:Pipl (w)
-LOCATION:S3 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Wróblewski Mirosław 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261104T070000Z
-DTEND:20261104T083500Z
-SUMMARY:Pipl (w)
-LOCATION:S3 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Wróblewski Mirosław 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T070000Z
-DTEND:20261118T083500Z
-SUMMARY:Pipl (w)
-LOCATION:S3 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Wróblewski Mirosław 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261125T070000Z
-DTEND:20261125T083500Z
-SUMMARY:Pipl (w)
-LOCATION:S3 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Wróblewski Mirosław 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T070000Z
-DTEND:20261202T083500Z
-SUMMARY:Pipl (w)
-LOCATION:S3 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Wróblewski Mirosław 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261209T070000Z
-DTEND:20261209T083500Z
-SUMMARY:Pipl (w)
-LOCATION:S3 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Wróblewski Mirosław 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T070000Z
-DTEND:20261216T083500Z
-SUMMARY:Pipl (w)
-LOCATION:S3 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Wróblewski Mirosław 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261223T070000Z
-DTEND:20261223T083500Z
-SUMMARY:Pipl (w)
-LOCATION:S3 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Wróblewski Mirosław 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260113T070000Z
-DTEND:20260113T083500Z
-SUMMARY:Pipl (w)
-LOCATION:S3 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Wróblewski Mirosław 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261007T075000Z
-DTEND:20261007T092500Z
-SUMMARY:EiE (w)
+DTSTART:20250304T070000Z
+DTEND:20250304T083500Z
+SUMMARY:F1 (w)
 LOCATION:19 36
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T075000Z
-DTEND:20261014T092500Z
-SUMMARY:Pipl (w)
-LOCATION:S3 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Wróblewski Mirosław 45
+DTSTART:20250311T070000Z
+DTEND:20250311T083500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T075000Z
-DTEND:20261021T092500Z
-SUMMARY:F2 (ć)
-LOCATION:18 63
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Dudek Michał 18
+DTSTART:20250318T070000Z
+DTEND:20250318T083500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T085000Z
-DTEND:20261028T102500Z
-SUMMARY:F2 (ć)
-LOCATION:18 63
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Dudek Michał 18
+DTSTART:20250325T070000Z
+DTEND:20250325T083500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T085000Z
-DTEND:20261104T102500Z
-SUMMARY:F2 (ć)
-LOCATION:20 63
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Dudek Michał 18
+DTSTART:20250401T060000Z
+DTEND:20250401T073500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T085000Z
-DTEND:20261118T102500Z
-SUMMARY:Met (ć)
-LOCATION:P 66
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż.. Kowalski Maciej 39
+DTSTART:20250408T060000Z
+DTEND:20250408T073500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T085000Z
-DTEND:20261125T102500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DTSTART:20250415T060000Z
+DTEND:20250415T073500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261202T085000Z
-DTEND:20261202T102500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DTSTART:20250422T060000Z
+DTEND:20250422T073500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261209T085000Z
-DTEND:20261209T102500Z
-SUMMARY:F2 (ć)
-LOCATION:18 63
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Dudek Michał 18
+DTSTART:20250429T060000Z
+DTEND:20250429T073500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T085000Z
-DTEND:20261216T102500Z
-SUMMARY:F2 (ć)
-LOCATION:18 63
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Dudek Michał 18
+DTSTART:20250506T060000Z
+DTEND:20250506T073500Z
+SUMMARY:In (ć)
+LOCATION:4 63A
+DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260113T085000Z
-DTEND:20260113T102500Z
-SUMMARY:Pomuf (ć)
-LOCATION:43 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Djabin Jakub 41
+DTSTART:20250513T060000Z
+DTEND:20250513T073500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Dębski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260120T085000Z
-DTEND:20260120T102500Z
+DTSTART:20250520T060000Z
+DTEND:20250520T073500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T060000Z
+DTEND:20250603T073500Z
+SUMMARY:Nom (ć)
+LOCATION:113 25
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Paszkowski Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250218T085000Z
+DTEND:20250218T102500Z
+SUMMARY:M1 (Ep)
+LOCATION:19 36
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250304T085000Z
+DTEND:20250304T102500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250311T085000Z
+DTEND:20250311T102500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T085000Z
+DTEND:20250318T102500Z
 SUMMARY:Sosz (L)
-LOCATION:03 36
-DESCRIPTION:* Soszyński P 11\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: por. mgr inż. Zalewski Włodzimierz ... 13
+LOCATION:128 36
+DESCRIPTION:* Soszyński P\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T094000Z
-DTEND:20261014T111500Z
-SUMMARY:Met (ć)
-LOCATION:9 67
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż.. Kowalski Maciej 39
+DTSTART:20250325T085000Z
+DTEND:20250325T102500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T094000Z
-DTEND:20261021T111500Z
-SUMMARY:EiE (ć)
-LOCATION:18 63
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kurenda Maciej 5
+DTSTART:20250401T075000Z
+DTEND:20250401T092500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T104000Z
-DTEND:20261028T121500Z
-SUMMARY:EiE (ć)
+DTSTART:20250408T075000Z
+DTEND:20250408T092500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T075000Z
+DTEND:20250415T092500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250422T075000Z
+DTEND:20250422T092500Z
+SUMMARY:In (ć)
+LOCATION:7 25
+DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Rajkowski Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T075000Z
+DTEND:20250429T092500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250506T075000Z
+DTEND:20250506T092500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T075000Z
+DTEND:20250513T092500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T075000Z
+DTEND:20250520T092500Z
+SUMMARY:In (w)
+LOCATION:19 36
+DESCRIPTION:Informatyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Paszkowski Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250527T075000Z
+DTEND:20250527T092500Z
+SUMMARY:Mat3 (L)
+LOCATION:219 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr Hajduk Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T075000Z
+DTEND:20250603T092500Z
+SUMMARY:Nom (ć)
+LOCATION:39 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Makowska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T075000Z
+DTEND:20250610T092500Z
+SUMMARY:In (ć)
+LOCATION:4 63A
+DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Baranowski Leszek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250311T104000Z
+DTEND:20250311T121500Z
+SUMMARY:Gin (w)
+LOCATION:19 36
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T104000Z
+DTEND:20250318T121500Z
+SUMMARY:F1 (ć)
 LOCATION:19 63
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kurenda Maciej 5
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T104000Z
-DTEND:20261104T121500Z
-SUMMARY:EiE (w)
+DTSTART:20250325T104000Z
+DTEND:20250325T121500Z
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Korczago Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250401T094000Z
+DTEND:20250401T111500Z
+SUMMARY:Metr (w)
 LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DESCRIPTION:Metrologia\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Janiszewski Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T104000Z
-DTEND:20261118T121500Z
-SUMMARY:F2 (ć)
+DTSTART:20250408T094000Z
+DTEND:20250408T111500Z
+SUMMARY:Iw (w)
+LOCATION:19 36
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Majewski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T094000Z
+DTEND:20250415T111500Z
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Korczago Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250422T094000Z
+DTEND:20250422T111500Z
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Korczago Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T094000Z
+DTEND:20250429T111500Z
+SUMMARY:Iw (w)
+LOCATION:19 36
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Majewski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250506T094000Z
+DTEND:20250506T111500Z
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T094000Z
+DTEND:20250513T111500Z
+SUMMARY:Iw (w)
+LOCATION:19 36
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Majewski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T094000Z
+DTEND:20250520T111500Z
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Korczago Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250527T094000Z
+DTEND:20250527T111500Z
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Korczago Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T094000Z
+DTEND:20250603T111500Z
+SUMMARY:Gin (ć)
+LOCATION:18 67
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Szcześniak Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250304T123000Z
+DTEND:20250304T140500Z
+SUMMARY:PEM (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Korczago Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250311T123000Z
+DTEND:20250311T140500Z
+SUMMARY:F1 (ć)
 LOCATION:18 63
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Dudek Michał 18
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T104000Z
-DTEND:20261125T121500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DTSTART:20250318T123000Z
+DTEND:20250318T140500Z
+SUMMARY:In (w)
+LOCATION:19 36
+DESCRIPTION:Informatyka\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261202T104000Z
-DTEND:20261202T121500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DTSTART:20250325T123000Z
+DTEND:20250325T140500Z
+SUMMARY:Sosz (L)
+LOCATION:128 36
+DESCRIPTION:* Soszyński P\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261209T104000Z
-DTEND:20261209T121500Z
-SUMMARY:EiE (ć)
-LOCATION:18 63
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kurenda Maciej 5
+DTSTART:20250401T113000Z
+DTEND:20250401T130500Z
+SUMMARY:Sosz (L)
+LOCATION:128 36
+DESCRIPTION:* Soszyński P\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T104000Z
-DTEND:20261216T121500Z
-SUMMARY:Lwnm (ć)
-LOCATION:31 67
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Szlendak Gabriel 34
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260120T104000Z
-DTEND:20260120T121500Z
-SUMMARY:Pipl (ć)
-LOCATION:S2 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Wróblewski Mirosław 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T113000Z
-DTEND:20261021T130500Z
-SUMMARY:EiE (ć)
+DTSTART:20250408T113000Z
+DTEND:20250408T130500Z
+SUMMARY:F1 (ć)
 LOCATION:19 63
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kurenda Maciej 5
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T123000Z
-DTEND:20261104T140500Z
-SUMMARY:EiE (w)
+DTSTART:20250415T113000Z
+DTEND:20250415T130500Z
+SUMMARY:HP (w)
 LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T123000Z
-DTEND:20261118T140500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Grzegorczyk Tomasz 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T123000Z
-DTEND:20261202T140500Z
-SUMMARY:Lwnm (ć)
-LOCATION:2 25;13 25
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej 28
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261209T123000Z
-DTEND:20261209T140500Z
-SUMMARY:F2 (L)
-LOCATION:141 S;139
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr Chodorow Urszula 17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T123000Z
-DTEND:20261216T140500Z
-SUMMARY:Lwnm (ć)
-LOCATION:7 25;24 25
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej 28
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260113T123000Z
-DTEND:20260113T140500Z
-SUMMARY:Met (ć)
-LOCATION:P 66
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż.. Kowalski Maciej 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260120T123000Z
-DTEND:20260120T140500Z
-SUMMARY:Lwnm (ć)
-LOCATION:31 67
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Szlendak Gabriel 34
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261209T150000Z
-DTEND:20261209T163500Z
-SUMMARY:Met (ć)
-LOCATION:S2 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż.. Kowalski Maciej 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260127T165000Z
-DTEND:20260127T182500Z
-SUMMARY:EiE (ć)
-LOCATION:004 36;141
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
-SUMMARY:F2 (w)
-LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł 20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
-SUMMARY:F2 (w)
-LOCATION:19 36
-DESCRIPTION:Fizyka 2 16\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł 20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T070000Z
-DTEND:20261112T083500Z
-SUMMARY:Lwnm (L)
-LOCATION:31 67
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Szlendak Gabriel 34
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260121T070000Z
-DTEND:20260121T083500Z
-SUMMARY:Met (ć)
-LOCATION:9 67
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż.. Kowalski Maciej 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T085000Z
-DTEND:20261112T102500Z
-SUMMARY:Met (ć)
-LOCATION:P 66
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż.. Kowalski Maciej 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T113000Z
-DTEND:20261022T130500Z
-SUMMARY:Met (ć)
-LOCATION:P 66
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż.. Kowalski Maciej 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T123000Z
-DTEND:20261119T140500Z
-SUMMARY:Lwnm (L)
-LOCATION:2 25;13 25
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej 28
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T123000Z
-DTEND:20261126T140500Z
-SUMMARY:Lwnm (L)
-LOCATION:2 25;13 25
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej 28
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T123000Z
-DTEND:20260107T140500Z
-SUMMARY:Met (ć)
-LOCATION:S3 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż.. Kowalski Maciej 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T140000Z
-DTEND:20261022T153500Z
-SUMMARY:Pomuf (ć)
-LOCATION:18 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Djabin Jakub 41
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T150000Z
-DTEND:20261119T163500Z
-SUMMARY:Lwnm (L)
-LOCATION:7 25;24 25
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach 27\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Dębski Andrzej 28
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T150000Z
-DTEND:20261217T163500Z
-SUMMARY:EiE (ć)
-LOCATION:18 63
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Kurenda Maciej 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T150000Z
-DTEND:20260107T163500Z
-SUMMARY:EiE (L)
-LOCATION:141 36;04
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Grzegorczyk Tomasz 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260121T150000Z
-DTEND:20260121T163500Z
-SUMMARY:EiE (ć)
+DTSTART:20250422T113000Z
+DTEND:20250422T130500Z
+SUMMARY:HP (ć)
 LOCATION:19 63
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T165000Z
-DTEND:20261119T182500Z
-SUMMARY:EiE (L)
-LOCATION:141 36;04
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DTSTART:20250429T113000Z
+DTEND:20250429T130500Z
+SUMMARY:HP (w)
+LOCATION:S2 72
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260918T060000Z
-DTEND:20260918T073500Z
-SUMMARY:F1 (Ep)
+DTSTART:20250506T113000Z
+DTEND:20250506T130500Z
+SUMMARY:Gin (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 1 14\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł 15
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Kachel Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261016T060000Z
-DTEND:20261016T073500Z
-SUMMARY:EiE (ć)
-LOCATION:18 63
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kurenda Maciej 5
+DTSTART:20250513T113000Z
+DTEND:20250513T130500Z
+SUMMARY:HP (w)
+LOCATION:S2 72
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261023T060000Z
-DTEND:20261023T073500Z
-SUMMARY:Met (ć)
-LOCATION:S3 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż.. Kowalski Maciej 39
+DTSTART:20250520T113000Z
+DTEND:20250520T130500Z
+SUMMARY:HP (ć)
+LOCATION:19 63
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261030T070000Z
-DTEND:20261030T083500Z
-SUMMARY:Pomuf (ć)
-LOCATION:18 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kochan Jakub 42
+DTSTART:20250527T113000Z
+DTEND:20250527T130500Z
+SUMMARY:HP (w)
+LOCATION:S2 72
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261113T070000Z
-DTEND:20261113T083500Z
-SUMMARY:Pomuf (ć)
-LOCATION:43 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Djabin Jakub 41
+DTSTART:20250603T113000Z
+DTEND:20250603T130500Z
+SUMMARY:HP (ć)
+LOCATION:19 63
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261218T070000Z
-DTEND:20261218T083500Z
-SUMMARY:Met (ć)
-LOCATION:S3 72
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż.. Kowalski Maciej 39
+DTSTART:20250610T113000Z
+DTEND:20250610T130500Z
+SUMMARY:HP (ć)
+LOCATION:19 63
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260108T070000Z
-DTEND:20260108T083500Z
-SUMMARY:Met (ć)
-LOCATION:9 67
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż.. Kowalski Maciej 39
+DTSTART:20250617T113000Z
+DTEND:20250617T130500Z
+SUMMARY:HP (ć)
+LOCATION:19 63
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T070000Z
-DTEND:20260122T083500Z
-SUMMARY:Met (ć)
-LOCATION:9 67
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż.. Kowalski Maciej 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260918T075000Z
-DTEND:20260918T092500Z
-SUMMARY:F1 (Ep)
+DTSTART:20250304T150000Z
+DTEND:20250304T163500Z
+SUMMARY:Iw (w)
 LOCATION:19 36
-DESCRIPTION:Fizyka 1 14\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr hab .inż. Perkowski Paweł 15
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T085000Z
-DTEND:20260122T102500Z
-SUMMARY:Met (ć)
-LOCATION:9 67
-DESCRIPTION:Mechanika techniczna 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż.. Kowalski Maciej 39
+DTSTART:20250311T150000Z
+DTEND:20250311T163500Z
+SUMMARY:Iw (w)
+LOCATION:19 36
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Sienkiewicz Judyta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261016T094000Z
-DTEND:20261016T111500Z
-SUMMARY:EiE (w)
+DTSTART:20250325T150000Z
+DTEND:20250325T163500Z
+SUMMARY:In (w)
+LOCATION:19 36
+DESCRIPTION:Informatyka\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Paszkowski Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250401T140000Z
+DTEND:20250401T153500Z
+SUMMARY:In (w)
+LOCATION:19 36
+DESCRIPTION:Informatyka\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: mgr inż. Cieplak Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T140000Z
+DTEND:20250415T153500Z
+SUMMARY:HP (w)
 LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261023T094000Z
-DTEND:20261023T111500Z
-SUMMARY:EiE (w)
+DTSTART:20250429T140000Z
+DTEND:20250429T153500Z
+SUMMARY:HP (w)
 LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261030T104000Z
-DTEND:20261030T121500Z
-SUMMARY:Pipl (w)
-LOCATION:S3 72
-DESCRIPTION:Prawo i przepisy lotnicze 44\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Wróblewski Mirosław 45
+DTSTART:20250506T140000Z
+DTEND:20250506T153500Z
+SUMMARY:HP (ć)
+LOCATION:19 63
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261106T104000Z
-DTEND:20261106T121500Z
-SUMMARY:EiE (w)
+DTSTART:20250513T140000Z
+DTEND:20250513T153500Z
+SUMMARY:HP (w)
 LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261113T104000Z
-DTEND:20261113T121500Z
-SUMMARY:EiE (w)
-LOCATION:S2 72
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzegorczyk Tomasz 4
+DTSTART:20250311T165000Z
+DTEND:20250311T182500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260108T104000Z
-DTEND:20260108T121500Z
-SUMMARY:Pomuf (ć)
-LOCATION:43 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Djabin Jakub 41
+DTSTART:20250318T165000Z
+DTEND:20250318T182500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T104000Z
-DTEND:20260122T121500Z
-SUMMARY:EiE (L)
-LOCATION:141 36;04
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6
+DTSTART:20250325T165000Z
+DTEND:20250325T182500Z
+SUMMARY:JoM (ć)
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261016T113000Z
-DTEND:20261016T130500Z
-SUMMARY:Pomuf (ć)
+DTSTART:20250401T155000Z
+DTEND:20250401T172500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T155000Z
+DTEND:20250408T172500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T155000Z
+DTEND:20250415T172500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250422T155000Z
+DTEND:20250422T172500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T155000Z
+DTEND:20250429T172500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250506T155000Z
+DTEND:20250506T172500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T155000Z
+DTEND:20250513T172500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T155000Z
+DTEND:20250520T172500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250527T155000Z
+DTEND:20250527T172500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T155000Z
+DTEND:20250603T172500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T155000Z
+DTEND:20250610T172500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T155000Z
+DTEND:20250617T172500Z
+SUMMARY:JoM (ć)
+LOCATION:233 K;232
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T060000Z
+DTEND:20250430T073500Z
+SUMMARY:In (ć)
+LOCATION:7 25
+DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Rajkowski Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T060000Z
+DTEND:20250528T073500Z
+SUMMARY:Mat2 (Ep)
+LOCATION:46 63
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T060000Z
+DTEND:20250618T073500Z
+SUMMARY:HP (w)
+LOCATION:19 36
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr Ważniewski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T060000Z
+DTEND:20250625T073500Z
+SUMMARY:F1 (E)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250205T085000Z
+DTEND:20250205T102500Z
+SUMMARY:Mat2 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T075000Z
+DTEND:20250423T092500Z
+SUMMARY:Metr (L)
+LOCATION:128 36
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Janiszewski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T075000Z
+DTEND:20250507T092500Z
+SUMMARY:Gin (ć)
 LOCATION:18 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Djabin Jakub 41
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Szcześniak Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261211T123000Z
-DTEND:20261211T140500Z
-SUMMARY:EiE (L)
-LOCATION:141 36;04
-DESCRIPTION:Elektrotechnika i elektronika 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8
+DTSTART:20250514T075000Z
+DTEND:20250514T092500Z
+SUMMARY:F1 (L)
+LOCATION:141 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261211T150000Z
-DTEND:20261211T163500Z
-SUMMARY:Pomuf (ć)
+DTSTART:20250611T075000Z
+DTEND:20250611T092500Z
+SUMMARY:Gin (ć)
 LOCATION:18 67
-DESCRIPTION:Podstawy modelowania układów fizycznych 40\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Kochan Jakub 42
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Szcześniak Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T075000Z
+DTEND:20250625T092500Z
+SUMMARY:F1 (E)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250205T104000Z
+DTEND:20250205T121500Z
+SUMMARY:Rez. 
+LOCATION:314 S
+DESCRIPTION:Rezerwacja.\nRodzaj zajęć: -\nNumer zajęć: 5-6\nProwadzący: dr Hajduk Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250319T104000Z
+DTEND:20250319T121500Z
+SUMMARY:Metr (w)
+LOCATION:S2 72
+DESCRIPTION:Metrologia\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzegorczyk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250326T104000Z
+DTEND:20250326T121500Z
+SUMMARY:Sosz (L)
+LOCATION:128 36
+DESCRIPTION:* Soszyński P\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T094000Z
+DTEND:20250402T111500Z
+SUMMARY:F1 (L)
+LOCATION:142 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Chrunik Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T094000Z
+DTEND:20250416T111500Z
+SUMMARY:Gin (ć)
+LOCATION:18 67
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Szcześniak Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T094000Z
+DTEND:20250423T111500Z
+SUMMARY:F1 (L)
+LOCATION:142 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Chrunik Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T094000Z
+DTEND:20250507T111500Z
+SUMMARY:Mat3 (ć)
+LOCATION:15 63
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Hajduk Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T094000Z
+DTEND:20250514T111500Z
+SUMMARY:Mat3 (ć)
+LOCATION:15 63
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Hajduk Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T094000Z
+DTEND:20250521T111500Z
+SUMMARY:F1 (ć)
+LOCATION:119 45
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Morawiak Przemysław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T094000Z
+DTEND:20250528T111500Z
+SUMMARY:Mat3 (L)
+LOCATION:219 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr Hajduk Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250205T123000Z
+DTEND:20250205T140500Z
+SUMMARY:Rez. 
+LOCATION:314 S
+DESCRIPTION:Rezerwacja.\nRodzaj zajęć: -\nNumer zajęć: 7-8\nProwadzący: dr Hajduk Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250305T123000Z
+DTEND:20250305T140500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T123000Z
+DTEND:20250312T140500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250319T123000Z
+DTEND:20250319T140500Z
+SUMMARY:Gin (ć)
+LOCATION:18 67
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Szcześniak Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250326T123000Z
+DTEND:20250326T140500Z
+SUMMARY:Gin (w)
+LOCATION:19 36
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T113000Z
+DTEND:20250402T130500Z
+SUMMARY:Gin (ć)
+LOCATION:18 67
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Szcześniak Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T113000Z
+DTEND:20250409T130500Z
+SUMMARY:Gin (w)
+LOCATION:19 36
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T113000Z
+DTEND:20250416T130500Z
+SUMMARY:Gin (w)
+LOCATION:19 36
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T113000Z
+DTEND:20250423T130500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T113000Z
+DTEND:20250430T130500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T113000Z
+DTEND:20250507T130500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T113000Z
+DTEND:20250514T130500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T113000Z
+DTEND:20250521T130500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T113000Z
+DTEND:20250528T130500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T113000Z
+DTEND:20250611T130500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T113000Z
+DTEND:20250618T130500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T140000Z
+DTEND:20250514T153500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T140000Z
+DTEND:20250521T153500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T140000Z
+DTEND:20250528T153500Z
+SUMMARY:Nom (w)
+LOCATION:19 36
+DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Dębski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250305T165000Z
+DTEND:20250305T182500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T165000Z
+DTEND:20250312T182500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250319T165000Z
+DTEND:20250319T182500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250326T165000Z
+DTEND:20250326T182500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T155000Z
+DTEND:20250402T172500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T155000Z
+DTEND:20250409T172500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T155000Z
+DTEND:20250416T172500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T155000Z
+DTEND:20250423T172500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T155000Z
+DTEND:20250430T172500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T155000Z
+DTEND:20250507T172500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T155000Z
+DTEND:20250514T172500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T155000Z
+DTEND:20250521T172500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T155000Z
+DTEND:20250528T172500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T155000Z
+DTEND:20250611T172500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T155000Z
+DTEND:20250618T172500Z
+SUMMARY:Ja (ć)
+LOCATION:238 K;237
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250306T070000Z
+DTEND:20250306T083500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250313T070000Z
+DTEND:20250313T083500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250320T070000Z
+DTEND:20250320T083500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250410T060000Z
+DTEND:20250410T073500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T060000Z
+DTEND:20250417T073500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T060000Z
+DTEND:20250508T073500Z
+SUMMARY:In (w)
+LOCATION:19 36
+DESCRIPTION:Informatyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Cieplak Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T060000Z
+DTEND:20250515T073500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T060000Z
+DTEND:20250522T073500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T060000Z
+DTEND:20250529T073500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T060000Z
+DTEND:20250612T073500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250619T060000Z
+DTEND:20250619T073500Z
+SUMMARY:F1 (w)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250220T085000Z
+DTEND:20250220T102500Z
+SUMMARY:Mat2 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250313T085000Z
+DTEND:20250313T102500Z
+SUMMARY:Metr (w)
+LOCATION:S2 72
+DESCRIPTION:Metrologia\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250320T085000Z
+DTEND:20250320T102500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250410T075000Z
+DTEND:20250410T092500Z
+SUMMARY:Metr (w)
+LOCATION:S2 72
+DESCRIPTION:Metrologia\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T075000Z
+DTEND:20250417T092500Z
+SUMMARY:Metr (w)
+LOCATION:S2 72
+DESCRIPTION:Metrologia\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T075000Z
+DTEND:20250508T092500Z
+SUMMARY:Metr (L)
+LOCATION:128 36
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T075000Z
+DTEND:20250515T092500Z
+SUMMARY:In (ć)
+LOCATION:7 25
+DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Rajkowski Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T075000Z
+DTEND:20250522T092500Z
+SUMMARY:In (ć)
+LOCATION:7 25
+DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Cieplak Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T075000Z
+DTEND:20250529T092500Z
+SUMMARY:In (ć)
+LOCATION:7 25
+DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Cieplak Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T075000Z
+DTEND:20250612T092500Z
+SUMMARY:Metr (L)
+LOCATION:128 36
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T094000Z
+DTEND:20250508T111500Z
+SUMMARY:M1 (Ep)
+LOCATION:19 36
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T094000Z
+DTEND:20250612T111500Z
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Korczago Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T113000Z
+DTEND:20250522T130500Z
+SUMMARY:Metr (L)
+LOCATION:128 36
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kurenda Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T113000Z
+DTEND:20250529T130500Z
+SUMMARY:Metr (L)
+LOCATION:128 36
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Janiszewski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T140000Z
+DTEND:20250529T153500Z
+SUMMARY:Iw (w)
+LOCATION:19 36
+DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 END:VCALENDAR
