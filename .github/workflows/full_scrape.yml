@@ -4,93 +4,77 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+    inputs:
+      faculties:
+        description: 'Faculty codes (space separated) or "all"'
+        default: 'all'
+      semester:
+        description: 'Override semester (zima/lato), blank = auto'
+        default: ''
 
 permissions:
   contents: write
 
 jobs:
-  run-scrapers:
+  scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
-      - name: Install dependencies
+      - name: Install project
         run: |
           pip install --upgrade pip
           pip install -e .
-      
-      - name: Install Playwright browsers
-        run: |
-          playwright install
 
-      - name: Prepare log file and clear (14days) logs
+      - name: Install Playwright browsers
+        run: playwright install --with-deps firefox chromium
+
+      - name: Prepare logs
         run: |
           mkdir -p logs
           find logs -name "*.txt" -type f -mtime +14 -delete
-          
           echo "LOG_PATH=logs/scrape_$(date +'%Y-%m-%d_%H-%M').txt" >> $GITHUB_ENV
 
-      - name: Run employees scraper
-        run: python src/watcalendars/watemployees.py 2>&1 | tee -a ${{ env.LOG_PATH }}
+      # One command per stage instead of 17 hand-listed steps. A faculty
+      # that fails is reported and the others still run, because the CLI
+      # isolates each one; the exit code still turns the run red.
+      - name: Scrape employees
+        continue-on-error: true
+        run: watcal --verbose --log-file "$LOG_PATH" employees
 
-      - name: Run GROUPS scraper - IOE
-        run: python src/watcalendars/groups/groups_ioe.py 2>&1 | tee -a ${{ env.LOG_PATH }}
+      - name: Discover groups
+        continue-on-error: true
+        run: >
+          watcal --verbose --log-file "$LOG_PATH"
+          ${{ github.event.inputs.semester && format('--semester {0}', github.event.inputs.semester) || '' }}
+          groups ${{ github.event.inputs.faculties || 'all' }}
 
-      - name: Run GROUPS scraper - WCY
-        run: python src/watcalendars/groups/groups_wcy.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-        
-      - name: Run GROUPS scraper - WEL
-        run: python src/watcalendars/groups/groups_wel.py 2>&1 | tee -a ${{ env.LOG_PATH }}
+      - name: Build calendars
+        id: calendars
+        run: >
+          watcal --verbose --log-file "$LOG_PATH"
+          ${{ github.event.inputs.semester && format('--semester {0}', github.event.inputs.semester) || '' }}
+          calendars ${{ github.event.inputs.faculties || 'all' }}
 
-      - name: Run GROUPS scraper - WIG
-        run: python src/watcalendars/groups/groups_wig.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-
-      - name: Run GROUPS scraper - WIM
-        run: python src/watcalendars/groups/groups_wim.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-
-      - name: Run GROUPS scraper - WLO
-        run: python src/watcalendars/groups/groups_wlo.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-
-      - name: Run GROUPS scraper - WML
-        run: python src/watcalendars/groups/groups_wml.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-      
-      - name: Run GROUPS scraper - WTC
-        run: python src/watcalendars/groups/groups_wtc.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-
-      - name: Run SCHEDULE scraper - IOE
-        run: python src/watcalendars/calendar_ioe.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-
-      - name: Run SCHEDULE scraper - WCY
-        run: python src/watcalendars/calendar_wcy.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-
-      - name: Run SCHEDULE scraper - WEL
-        run: python src/watcalendars/calendar_wel.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-
-      - name: Run SCHEDULE scraper - WIG
-        run: python src/watcalendars/calendar_wig.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-
-      - name: Run SCHEDULE scraper - WIM
-        run: python src/watcalendars/calendar_wim.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-
-      - name: Run SCHEDULE scraper - WLO
-        run: python src/watcalendars/calendar_wlo.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-
-      - name: Run SCHEDULE scraper - WML
-        run: python src/watcalendars/calendar_wml.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-
-      - name: Run SCHEDULE scraper - WTC
-        run: python src/watcalendars/calendar_wtc.py 2>&1 | tee -a ${{ env.LOG_PATH }}
-
-      - name: Commit and push changes
+      - name: Commit results
+        if: always()
         run: |
-          git config --global user.name 'Github Actions Bot'
-          git config --global user.email 'actions@github.com'
-          git add db/employees.json db/groups_url/* db/calendars/* logs/*
-          git commit -m "Automated daily scrape - logs updated" || echo "No changes to commit"
-          git push || echo "No changes to push"
+          git config user.name 'Github Actions Bot'
+          git config user.email 'actions@github.com'
+          git add db/employees.json db/groups_url db/calendars logs
+          git commit -m "Automated daily scrape" || echo "Nothing to commit"
+          git push || echo "Nothing to push"
+
+      - name: Upload log artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-log
+          path: ${{ env.LOG_PATH }}
+          retention-days: 14

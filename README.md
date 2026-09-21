@@ -68,6 +68,34 @@ Instrukcje importowania harmonogramu do urządzeń mobilnych dostępne są na [o
 
 <br>
 
+<br>
+
+## Użycie
+
+```bash
+pip install -e .
+playwright install firefox chromium
+
+watcal list                 # co jest skonfigurowane
+watcal groups all           # wykryj grupy wszystkich wydziałów
+watcal calendars wcy wim    # zbuduj .ics dla wybranych
+watcal run all              # grupy + kalendarze
+watcal employees            # odśwież listę pracowników z USOSweb
+```
+
+Przydatne przełączniki:
+
+```bash
+watcal -v calendars wel                 # logi DEBUG: każde żądanie, status, rozmiar, czas
+watcal --log-file logs/run.txt run all  # plik zawsze dostaje DEBUG
+watcal --semester lato groups wim       # wymuś semestr zamiast wykrywania po dacie
+```
+
+Opis struktury katalogów, strategii pobierania i sposobu dodania
+kolejnego wydziału: [`docs/architecture.md`](docs/architecture.md).
+
+<br>
+
 <a id="contact"></a>
 ## CONTACT
 

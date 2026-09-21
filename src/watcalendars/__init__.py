@@ -1,13 +1,15 @@
-import os
+"""WATcalendars - turns WAT faculty schedule pages into .ics calendars.
 
-PACKAGE_DIR = os.path.dirname(__file__)
+Layout:
 
-PROJECT_ROOT = os.path.abspath(os.path.join(PACKAGE_DIR, "..", ".."))
+    core/       contracts and orchestration (models, registry, pipeline)
+    fetch/      getting bytes off the internet (http, browser, downloads)
+    parsers/    turning those bytes into lessons - one module per faculty
+    store/      writing results (ics, groups, employees)
+    faculties/  one FacultySpec per faculty; the only place they differ
+    cli.py      the single entry point (`watcal`)
 
-DB_DIR = os.path.join(PROJECT_ROOT, "db")
+Paths live in core.paths, not here; import them from there.
+"""
 
-GROUPS_DIR = os.path.join(DB_DIR, "groups_url")
-GROUPS_CONFIG = os.path.join(DB_DIR, 'url_for_group.json')
-SCHEDULES_CONFIG = os.path.join(DB_DIR, 'url_for_schedules.json')
-CALENDARS_DIR = os.path.join(DB_DIR, "calendars")
-SCHEDULES_DIR = os.path.join(DB_DIR, "schedules")
+__version__ = "0.4.0"
