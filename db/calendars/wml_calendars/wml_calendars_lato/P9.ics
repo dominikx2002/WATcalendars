@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WATcalendars//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:P9
+BEGIN:VEVENT
+DTSTART:20260411T060000Z
+DTEND:20260411T073500Z
+SUMMARY:Xpa (w)
+LOCATION:S3 72
+DESCRIPTION:XPodstawy automatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Henzel Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T060000Z
+DTEND:20260418T073500Z
+SUMMARY:Xpa (ć)
+LOCATION:136 36
+DESCRIPTION:XPodstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Henzel Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260509T060000Z
+DTEND:20260509T073500Z
+SUMMARY:Xpa (ć)
+LOCATION:S3 72
+DESCRIPTION:XPodstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Henzel Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T060000Z
+DTEND:20260516T073500Z
+SUMMARY:Xpa (ć)
+LOCATION:136 36
+DESCRIPTION:XPodstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Henzel Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T060000Z
+DTEND:20260530T073500Z
+SUMMARY:Xpa (w)
+LOCATION:S3 72
+DESCRIPTION:XPodstawy automatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Henzel Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260620T060000Z
+DTEND:20260620T073500Z
+SUMMARY:Xpa (w)
+LOCATION:S3 72
+DESCRIPTION:XPodstawy automatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Henzel Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T075000Z
+DTEND:20260418T092500Z
+SUMMARY:Xpa (L)
+LOCATION:130 36
+DESCRIPTION:XPodstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Henzel Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260509T075000Z
+DTEND:20260509T092500Z
+SUMMARY:Xpa (L)
+LOCATION:130 36
+DESCRIPTION:XPodstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Henzel Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T075000Z
+DTEND:20260516T092500Z
+SUMMARY:Xpa (L)
+LOCATION:130 36
+DESCRIPTION:XPodstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Henzel Maciej
+END:VEVENT
+END:VCALENDAR

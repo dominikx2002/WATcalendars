@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WATcalendars//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WLO25RD1N2
+BEGIN:VEVENT
+DTSTART:20260228T070000Z
+DTEND:20260228T083500Z
+SUMMARY:Kierowanie 
+LOCATION:0.22/16
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 1/1\nProwadzący: dr Polak Arkadiusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T085000Z
+DTEND:20260228T102500Z
+SUMMARY:Bezpieczeństwo 
+LOCATION:0.22/16
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 1/2\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T104000Z
+DTEND:20260228T121500Z
+SUMMARY:Bezpieczeństwo 
+LOCATION:0.22/16
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 2/2\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T123000Z
+DTEND:20260228T140500Z
+SUMMARY:Z.S.Bezp (w)
+LOCATION:0.6/16
+DESCRIPTION:Zarządzanie strategiczne bezpieczeństwem\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Śmiałek Wiesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T150000Z
+DTEND:20260228T163500Z
+SUMMARY:Z.S.Bezp (w)
+LOCATION:0.6/16
+DESCRIPTION:Zarządzanie strategiczne bezpieczeństwem\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Śmiałek Wiesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T085000Z
+DTEND:20260301T102500Z
+SUMMARY:Jo (ć)
+LOCATION:133 K
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: mgr Zeneli Andi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T104000Z
+DTEND:20260301T121500Z
+SUMMARY:SPiSNATO (w)
+LOCATION:0.22/16
+DESCRIPTION:Struktura, Polityka i Strategia NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T123000Z
+DTEND:20260301T140500Z
+SUMMARY:Polityka 
+LOCATION:0.22/16
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 1/1\nProwadzący: dr Moch Natalia; dr Polak Arkadiusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T150000Z
+DTEND:20260301T163500Z
+SUMMARY:PDyplo (w)
+LOCATION:0.22/16
+DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+END:VCALENDAR

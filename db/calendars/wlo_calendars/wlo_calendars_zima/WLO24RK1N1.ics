@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WATcalendars//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WLO24RK1N1
+BEGIN:VEVENT
+DTSTART:20260228T070000Z
+DTEND:20260228T083500Z
+SUMMARY:Kraj.Sys.Obr.p.BMR (w)
+LOCATION:0.19/135
+DESCRIPTION:Krajowy System Obrony Przed B.M.R.\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T085000Z
+DTEND:20260228T102500Z
+SUMMARY:Kraj.Sys.Obr.p.BMR (w)
+LOCATION:0.19/135
+DESCRIPTION:Krajowy System Obrony Przed B.M.R.\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T104000Z
+DTEND:20260228T121500Z
+SUMMARY:Kraj.Sys.Obr.p.BMR (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Krajowy System Obrony Przed B.M.R.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T123000Z
+DTEND:20260228T140500Z
+SUMMARY:Z.KnS.L (w)
+LOCATION:0.23/16
+DESCRIPTION:Zarządzanie kryzysowe na szczeblu lokalnym\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Śmiałek Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T150000Z
+DTEND:20260228T163500Z
+SUMMARY:Z.KnS.L (w)
+LOCATION:0.23/16
+DESCRIPTION:Zarządzanie kryzysowe na szczeblu lokalnym\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Śmiałek Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T070000Z
+DTEND:20260301T083500Z
+SUMMARY:PPB 
+LOCATION:0.19/135
+DESCRIPTION:PPB\nRodzaj zajęć: -\nNumer zajęć: 1/1\nProwadzący: dr Śmiałek Wiesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T085000Z
+DTEND:20260301T102500Z
+SUMMARY:Jo (ć)
+LOCATION:134 K
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: mgr Kurzela Anna
+END:VEVENT
+END:VCALENDAR

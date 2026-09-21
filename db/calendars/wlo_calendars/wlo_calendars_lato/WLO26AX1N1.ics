@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WATcalendars//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WLO26AX1N1
+BEGIN:VEVENT
+DTSTART:20261024T060000Z
+DTEND:20261024T073500Z
+SUMMARY:WdS (w)
+LOCATION:aula/135
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Łakoma Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T094000Z
+DTEND:20261003T111500Z
+SUMMARY:WdS (w)
+LOCATION:aula/135
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Łakoma Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T113000Z
+DTEND:20261003T130500Z
+SUMMARY:WdS (w)
+LOCATION:aula/135
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Łakoma Ewa
+END:VEVENT
+END:VCALENDAR

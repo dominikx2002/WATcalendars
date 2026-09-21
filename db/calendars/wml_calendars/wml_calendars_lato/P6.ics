@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WATcalendars//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:P6
+BEGIN:VEVENT
+DTSTART:20260427T140000Z
+DTEND:20260427T153500Z
+SUMMARY:Xinf (ć)
+LOCATION:113 25
+DESCRIPTION:XInformatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Piechna Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T155000Z
+DTEND:20260414T172500Z
+SUMMARY:Xinf (ć)
+LOCATION:4 63A
+DESCRIPTION:XInformatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12\nProwadzący: dr hab. inż. Baranowski Leszek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T155000Z
+DTEND:20260428T172500Z
+SUMMARY:Xinf (ć)
+LOCATION:4 63A
+DESCRIPTION:XInformatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12\nProwadzący: dr hab. inż. Baranowski Leszek
+END:VEVENT
+END:VCALENDAR

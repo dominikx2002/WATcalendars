@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WATcalendars//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY23IX4S0
+BEGIN:VEVENT
+DTSTART:20250430T155000Z
+DTEND:20250430T172500Z
+SUMMARY:Pnak (Inne)
+LOCATION:120 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr inż. Adam Patkowski, mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250701T094000Z
+DTEND:20250701T111500Z
+SUMMARY:Pnak (Inne)
+LOCATION:106 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr inż. Adam Patkowski, mgr inż. Waldemar Szylberg
+END:VEVENT
+END:VCALENDAR

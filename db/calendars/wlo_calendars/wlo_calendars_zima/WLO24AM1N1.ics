@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WATcalendars//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WLO24AM1N1
+BEGIN:VEVENT
+DTSTART:20260228T070000Z
+DTEND:20260228T083500Z
+SUMMARY:PPG (w)
+LOCATION:0.21/16
+DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Śledzik Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T085000Z
+DTEND:20260228T102500Z
+SUMMARY:PPG (w)
+LOCATION:0.21/16
+DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Śledzik Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T104000Z
+DTEND:20260228T121500Z
+SUMMARY:Jo (ć)
+LOCATION:237 K
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: mgr Jaśkiewicz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T123000Z
+DTEND:20260228T140500Z
+SUMMARY:P.Admin. (w)
+LOCATION:255 S
+DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Śledzik Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T150000Z
+DTEND:20260228T163500Z
+SUMMARY:P.Admin. (w)
+LOCATION:255 S
+DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Śledzik Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T070000Z
+DTEND:20260301T083500Z
+SUMMARY:BNiM (w)
+LOCATION:1.16/16
+DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Piwowarczyk Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T085000Z
+DTEND:20260301T102500Z
+SUMMARY:BNiM (w)
+LOCATION:1.16/16
+DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Piwowarczyk Ryszard
+END:VEVENT
+END:VCALENDAR
