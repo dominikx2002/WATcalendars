@@ -27,8 +27,19 @@ def _strip_declaration(xml_text: str) -> str:
     return _DECLARED_ENCODING.sub("", xml_text, count=1)
 
 
-def parse_index(xml_text: str) -> Tuple[List[str], Optional[str]]:
-    """Return (group names, period label) from a Plansoft index.xml."""
+HTML_EXTENSIONS = ("htm", "html")
+
+
+def parse_index(
+    xml_text: str, accept: Tuple[str, ...] = HTML_EXTENSIONS
+) -> Tuple[List[str], Optional[str]]:
+    """Return (group names, period label) from a Plansoft index.xml.
+
+    `accept` lists the href extensions that count as a group schedule.
+    It defaults to HTML only, because some faculties list supplementary
+    PDFs (timetable grids, academic-year calendars) next to the real
+    groups - see WTC and IOE for the two opposite cases.
+    """
     if not xml_text:
         log.error(f"{ERROR} Empty index.xml")
         return [], None
@@ -55,7 +66,7 @@ def parse_index(xml_text: str) -> Tuple[List[str], Optional[str]]:
             continue
         stem, _, extension = href.rpartition(".")
         extension = extension.lower()
-        if extension not in ("htm", "html"):
+        if extension not in accept:
             # Some faculties have switched to PDF; the HTML parsers
             # cannot read those, so say so instead of emitting dead URLs.
             skipped[extension] = skipped.get(extension, 0) + 1
@@ -76,9 +87,9 @@ def parse_index(xml_text: str) -> Tuple[List[str], Optional[str]]:
     return sorted(set(groups)), period
 
 
-def parse_groups(xml_text: str) -> List[str]:
+def parse_groups(xml_text: str, accept: Tuple[str, ...] = HTML_EXTENSIONS) -> List[str]:
     """FacultySpec.parse_groups entry point."""
-    groups, period = parse_index(xml_text)
+    groups, period = parse_index(xml_text, accept=accept)
     if period:
         log.info(f"{OK} Plansoft period: {period}")
     return groups

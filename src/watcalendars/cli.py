@@ -77,9 +77,21 @@ def cmd_list() -> int:
     return 0
 
 
+# Imperva tracks reputation per IP: hammering six protected faculties
+# back to back got us 403s on whichever ran last. A short pause between
+# faculties costs nothing on a nightly job and avoids the cascade.
+PAUSE_BETWEEN_FACULTIES = 20
+
+
 def _run_stage(stage: str, specs) -> int:
     failures = []
-    for spec in specs:
+    for position, spec in enumerate(specs):
+        if position and spec.fetch_strategy != "http":
+            log.debug(
+                f"{INFO} Pausing {PAUSE_BETWEEN_FACULTIES}s before "
+                f"{spec.code.upper()} to stay under the WAF's rate limits"
+            )
+            time.sleep(PAUSE_BETWEEN_FACULTIES)
         try:
             if stage in ("groups", "run"):
                 run_groups(spec)

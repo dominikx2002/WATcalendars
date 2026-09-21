@@ -84,14 +84,20 @@ class FacultySpec:
     notes: str = ""
 
     def url_for(self, which: str, semester: Optional[str]) -> str:
-        """Resolve groups_url/schedule_url, which may be per-semester."""
+        """Resolve groups_url/schedule_url.
+
+        Handles per-semester mappings and the {year} placeholder, which
+        expands to the starting year of the current academic year.
+        """
+        from watcalendars.core.semester import academic_year
+
         source = self.groups_url if which == "groups" else self.schedule_url
         if isinstance(source, str):
-            return source
+            return source.replace("{year}", str(academic_year()))
         if semester is None:
             raise ValueError(f"{self.code}: {which} URL is per-semester but no semester given")
         try:
-            return source[semester]
+            return source[semester].replace("{year}", str(academic_year()))
         except KeyError:
             raise ValueError(
                 f"{self.code}: no {which} URL for semester '{semester}' "

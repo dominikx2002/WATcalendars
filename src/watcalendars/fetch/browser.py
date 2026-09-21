@@ -10,7 +10,7 @@ from __future__ import annotations
 import asyncio
 from typing import Dict, Optional, Sequence, Tuple
 
-from watcalendars.core.logging import DEBUG, ERROR, OK, WARNING, get_logger
+from watcalendars.core.logging import DEBUG, ERROR, INFO, OK, WARNING, get_logger
 from watcalendars.fetch.http import decode
 
 log = get_logger()
@@ -149,6 +149,54 @@ async def _scrape_async(
             await browser.close()
 
     return results
+
+
+async def _download_async(pairs, concurrency, label, warmup_url=None):
+    from playwright.async_api import async_playwright
+
+    results = {}
+    total = len(pairs)
+    async with async_playwright() as playwright:
+        browser = await playwright.firefox.launch(headless=True, args=BROWSER_ARGS)
+        context = await browser.new_context(accept_downloads=True)
+        page = await context.new_page()
+        log.info(f"{INFO} {label}: {total} documents via browser")
+
+        if warmup_url:
+            # Clear the WAF challenge once, then reuse the cookies for
+            # every download instead of paying the cost per file.
+            log.debug(f"{DEBUG} warming up session on {warmup_url}")
+            try:
+                await page.goto(warmup_url, timeout=60000, wait_until="domcontentloaded")
+                await asyncio.sleep(3)
+            except Exception as exc:
+                log.debug(f"{WARNING} warm-up failed: {exc}")
+
+        try:
+            for index, (identifier, url) in enumerate(pairs, 1):
+                try:
+                    response = await context.request.get(url, timeout=60000)
+                    body = await response.body()
+                    if response.status == 200 and body[:2] == b"PK":
+                        results[identifier] = body
+                        log.info(f"{OK} [{index}/{total}] {identifier} ({len(body)} bytes)")
+                        continue
+                    log.warning(
+                        f"{ERROR} [{index}/{total}] {identifier}: HTTP {response.status}, "
+                        f"{len(body)} bytes, not a document"
+                    )
+                except Exception as exc:
+                    log.warning(f"{ERROR} [{index}/{total}] {identifier}: {exc}")
+                results[identifier] = None
+                await asyncio.sleep(1)
+        finally:
+            await browser.close()
+    return results
+
+
+def download_many(pairs, concurrency=1, label="Downloading", warmup_url=None):
+    """Fetch binary documents (WIG's .docx) through the browser session."""
+    return asyncio.run(_download_async(pairs, concurrency, label, warmup_url))
 
 
 def fetch_many(

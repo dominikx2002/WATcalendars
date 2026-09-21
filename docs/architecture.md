@@ -69,25 +69,62 @@ Jeśli bezpośrednie żądanie dostanie odmowę, kod raz nawiguje przeglądarką
 
 ## Stan źródeł (sprawdzony 2026-09-21)
 
-| Wydział | Stan | Uwaga |
-|---|---|---|
-| WCY | ✅ 184 grupy, 46 730 wydarzeń | HTTP, bez przeglądarki |
-| WIM | ✅ 95 grup, 45 397 wydarzeń | HTTP, bez przeglądarki |
-| WEL | ✅ 173 grupy, 154 pliki `.ics` | **URL zmieniony** — patrz niżej |
-| WLO | ✅ 164 grupy, 31 408 wydarzeń | |
-| IOE | ⚠️ 18 grup (z 22) | publikuje tylko jeden semestr; 4 wpisy to PDF |
-| WIG | ⚠️ 37 grup z 58 podkategorii | `.docx`, nieprzetestowane do końca |
-| WML | ❌ 2 grupy | uczelnia nie opublikowała aktualnego rozkładu |
-| WTC | ❌ 0 grup | **źródło zmieniło format na PDF** (22/22) |
+| Wydział | Grupy | Wydarzenia | Pobieranie |
+|---|---|---|---|
+| WCY | 184 | 46 730 | HTTP |
+| WIM | 95 | 45 397 | HTTP |
+| WEL | 173 | ~12 200 | browser |
+| WLO | 164 | 31 408 | browser |
+| WML | 180 | 33 182 | browser |
+| WTC | 22 | 4 776 | browser |
+| IOE | 18 | 3 493 | browser |
+| WIG | 37 | — | browser + docx — **niezweryfikowane** |
 
-Zmiany adresów wykryte 2026-09-21:
+Zmiany adresów wykryte i naprawione 2026-09-21:
 
 - **WEL**: `plany.wel.wat.edu.pl` → **NXDOMAIN**. Nowy adres:
   `https://wel.wat.edu.pl/planyzajec/{zima,lato}/index.xml`.
-- **WTC**: wariant z `www.` zwraca HTML zamiast XML. Działa
+- **WTC**: wariant z `www.` zwraca HTML zamiast XML — działa
   `https://wtc.wat.edu.pl/Plany/index.xml` (bez `www.`).
+  Dodatkowo `index.xml` wymienia wyłącznie `.pdf`, ale **bliźniacze
+  pliki `.htm` nadal są serwowane** (22/22) i to je pobieramy —
+  parser PDF okazał się niepotrzebny.
+- **WML**: stary URL przypinał folder `2025_sem_lato`. Wydział publikuje
+  pod `<rok>_sem_<semestr>/index.xml`, gdzie `<rok>` to rok rozpoczęcia
+  roku akademickiego. Placeholder `{year}` jest podstawiany w czasie
+  działania, więc nie wymaga corocznej edycji.
 - **IOE**: `ioe.wat.edu.pl` jest aliasem na `www.wat.edu.pl`;
-  `plany/zima/` zwraca 404, istnieje tylko `plany/lato/`.
+  `plany/zima/` zwraca 404, a `plany/lato/` zawiera plan **zimowy**
+  (pole period: `IOE-Zima2026`). Dlatego IOE jest `seasonal=False`.
+  Cztery wpisy PDF w indeksie to dokumenty pomocnicze (Siatka Godzin,
+  Harmonogram RA), nie plany grup — filtr HTML słusznie je pomija.
+- **WIG**: pobieranie `.docx` szło przez nasłuch zdarzenia `download`
+  w Playwrighcie, które za Incapsulą nigdy nie następuje — 37 plików ×
+  30 s timeoutu = 19 min i zero pobranych dokumentów. Zamienione na
+  `context.request.get()` z jednorazowym rozgrzaniem sesji. **Ta zmiana
+  nie została zweryfikowana na żywo**, bo w trakcie prac adres IP
+  wpadł w blokadę Impervy.
+
+### Limity Impervy — ważne operacyjnie
+
+Sześć wydziałów stoi za Imperva/Incapsula, a reputacja liczona jest
+**per adres IP**. W pełnym przebiegu `run all` (30 min ciągłego ruchu,
+w tym 37 nieudanych pobrań WIG) ostatnie w kolejce wydziały — WML i WTC —
+zaczęły dostawać 403, mimo że osobno działały bez zarzutu. Blokada
+utrzymywała się jeszcze po zakończeniu przebiegu.
+
+Dlatego CLI robi 20-sekundową przerwę przed każdym wydziałem, który nie
+używa czystego HTTP (`PAUSE_BETWEEN_FACULTIES` w `cli.py`). Jeśli mimo
+to zobaczysz serię 403 — odczekaj i uruchom ponownie, ewentualnie dziel
+przebieg na mniejsze partie (`watcal calendars wcy wim`, potem reszta).
+
+### Rozszerzenia w index.xml
+
+`plansoft.parse_groups(xml, accept=...)` decyduje, które wpisy są
+planami grup. Domyślnie tylko HTML. WTC nadpisuje to na
+`("htm", "html", "pdf")`, bo tam PDF-y mają działające odpowiedniki HTML.
+Dwa przeciwne przypadki — WTC i IOE — są powodem, dla którego to jest
+parametr, a nie stała.
 
 ## Źródła danych
 

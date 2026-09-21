@@ -56,14 +56,17 @@ def decode(body: bytes, header_charset: Optional[str] = None) -> str:
         candidates.append(match.group(1).decode("ascii", "ignore"))
     if header_charset:
         candidates.append(header_charset)
-    candidates += ["utf-8", "windows-1250"]
+    candidates += ["utf-8", "windows-1250", "iso-8859-2"]
 
     for charset in candidates:
         try:
             return body.decode(charset)
         except (LookupError, UnicodeDecodeError):
             continue
-    return body.decode("utf-8", errors="replace")
+    # Last resort: windows-1250 rather than utf-8, because every WAT page
+    # that reaches this point is Polish - replacing a stray byte beats
+    # mangling every diacritic in the document.
+    return body.decode("windows-1250", errors="replace")
 
 
 def fetch_one(url: str, timeout: int = 30, retries: int = 3) -> Optional[str]:
