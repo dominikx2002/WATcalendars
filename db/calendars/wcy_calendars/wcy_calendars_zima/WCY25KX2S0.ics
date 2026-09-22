@@ -714,14 +714,14 @@ BEGIN:VEVENT
 DTSTART:20260410T060000Z
 DTEND:20260410T073500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T075000Z
 DTEND:20260410T092500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1085,14 +1085,14 @@ BEGIN:VEVENT
 DTSTART:20260425T140000Z
 DTEND:20260425T153500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T155000Z
 DTEND:20260425T172500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1351,14 +1351,14 @@ BEGIN:VEVENT
 DTSTART:20260507T140000Z
 DTEND:20260507T153500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T155000Z
 DTEND:20260507T172500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3427,6 +3427,13 @@ LOCATION:314 S
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261124T123000Z
+DTEND:20261124T140500Z
+SUMMARY:Pwd (ć)
+LOCATION:118 45
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261124T150000Z
 DTEND:20261124T163500Z
 SUMMARY:Als (w)
@@ -3501,7 +3508,7 @@ DTSTART:20261130T123000Z
 DTEND:20261130T140500Z
 SUMMARY:Pwd (ć)
 LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
@@ -3516,6 +3523,13 @@ DTEND:20261201T121500Z
 SUMMARY:F2 (w)
 LOCATION:314 S
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T123000Z
+DTEND:20261201T140500Z
+SUMMARY:Pwd (ć)
+LOCATION:118 45
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T150000Z
@@ -3620,7 +3634,7 @@ DTSTART:20261207T070000Z
 DTEND:20261207T083500Z
 SUMMARY:Pwd (ć)
 LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T085000Z
@@ -3725,7 +3739,7 @@ DTSTART:20261211T104000Z
 DTEND:20261211T121500Z
 SUMMARY:Pwd (ć)
 LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T123000Z
@@ -3775,13 +3789,6 @@ DTEND:20261214T140500Z
 SUMMARY:Aok (w)
 LOCATION:316 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T070000Z
-DTEND:20261215T083500Z
-SUMMARY:Pwd (ć)
-LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T085000Z
@@ -3929,13 +3936,6 @@ DTEND:20261222T121500Z
 SUMMARY:F2 (w)
 LOCATION:314 S
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261222T123000Z
-DTEND:20261222T140500Z
-SUMMARY:Pwd (ć)
-LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T150000Z

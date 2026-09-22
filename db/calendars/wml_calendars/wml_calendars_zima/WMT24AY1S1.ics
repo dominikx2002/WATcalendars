@@ -4,1613 +4,1291 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WMT24AY1S1
 BEGIN:VEVENT
-DTSTART:20250316T070000Z
-DTEND:20250316T083500Z
-SUMMARY:Caxb (ć)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250427T060000Z
-DTEND:20250427T073500Z
-SUMMARY:Dims (ć)
-LOCATION:4 63A
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250511T060000Z
-DTEND:20250511T073500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250518T060000Z
-DTEND:20250518T073500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250601T060000Z
-DTEND:20250601T073500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250608T060000Z
-DTEND:20250608T073500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250316T085000Z
-DTEND:20250316T102500Z
-SUMMARY:Bomc2 (w)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250323T085000Z
-DTEND:20250323T102500Z
-SUMMARY:Bomc2 (w)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250330T075000Z
-DTEND:20250330T092500Z
-SUMMARY:Dims (ć)
-LOCATION:4 63A
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250420T075000Z
-DTEND:20250420T092500Z
-SUMMARY:Bomc2 (w)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250504T075000Z
-DTEND:20250504T092500Z
-SUMMARY:Eeae2 (L)
-LOCATION:3 63A
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Jakubik Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250511T075000Z
-DTEND:20250511T092500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250518T075000Z
-DTEND:20250518T092500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250525T075000Z
-DTEND:20250525T092500Z
-SUMMARY:Eeae2 (w)
+DTSTART:20261207T070000Z
+DTEND:20261207T083500Z
+SUMMARY:Meas (L)
 LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Para Wojciech
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr.inż. Miernik Jakub 14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250601T075000Z
-DTEND:20250601T092500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Szymonik Jacek
+DTSTART:20261214T070000Z
+DTEND:20261214T083500Z
+SUMMARY:Meas (L)
+LOCATION:323 S
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr.inż. Miernik Jakub 14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250608T075000Z
-DTEND:20250608T092500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250615T075000Z
-DTEND:20250615T092500Z
-SUMMARY:Eeae2 (L)
-LOCATION:3 63A
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Jakubik Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250209T104000Z
-DTEND:20250209T121500Z
-SUMMARY:Bomc (E)
-LOCATION:41 36
-DESCRIPTION:Basics of Machine Construction\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Michalski Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250309T104000Z
-DTEND:20250309T121500Z
-SUMMARY:Bomc2 (w)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250316T104000Z
-DTEND:20250316T121500Z
-SUMMARY:FunoR (w)
+DTSTART:20261221T070000Z
+DTEND:20261221T083500Z
+SUMMARY:Comna (w)
 LOCATION:17 63
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Prusaczyk Piotr 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250323T104000Z
-DTEND:20250323T121500Z
-SUMMARY:FunoR (w)
-LOCATION:17 63
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250330T094000Z
-DTEND:20250330T111500Z
-SUMMARY:Bomc2 (w)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250420T094000Z
-DTEND:20250420T111500Z
-SUMMARY:Eeae2 (L)
-LOCATION:3 63A
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Jakubik Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250504T094000Z
-DTEND:20250504T111500Z
-SUMMARY:Caxb (L)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Rajkowski Kamil
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250518T094000Z
-DTEND:20250518T111500Z
-SUMMARY:Dims (L)
-LOCATION:4 63A
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250525T094000Z
-DTEND:20250525T111500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Majchrowicz Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250601T094000Z
-DTEND:20250601T111500Z
-SUMMARY:Eeae2 (L)
-LOCATION:3 63A
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Jakubik Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250615T094000Z
-DTEND:20250615T111500Z
-SUMMARY:Eeae2 (L)
-LOCATION:3 63A
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Jakubik Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250622T094000Z
-DTEND:20250622T111500Z
-SUMMARY:Baoa (E)
-LOCATION:34 67
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250629T094000Z
-DTEND:20250629T111500Z
-SUMMARY:Dims (E)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250330T113000Z
-DTEND:20250330T130500Z
-SUMMARY:FunoR (w)
-LOCATION:17 63
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250413T113000Z
-DTEND:20250413T130500Z
-SUMMARY:Caxb (L)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Rajkowski Kamil
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250427T113000Z
-DTEND:20250427T130500Z
-SUMMARY:FunoR (w)
-LOCATION:17 63
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250608T113000Z
-DTEND:20250608T130500Z
-SUMMARY:Dims (L)
-LOCATION:4 63A
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250615T113000Z
-DTEND:20250615T130500Z
-SUMMARY:Dims (ć)
-LOCATION:17 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250302T150000Z
-DTEND:20250302T163500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250309T150000Z
-DTEND:20250309T163500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250316T150000Z
-DTEND:20250316T163500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250323T150000Z
-DTEND:20250323T163500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250330T140000Z
-DTEND:20250330T153500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250413T140000Z
-DTEND:20250413T153500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250420T140000Z
-DTEND:20250420T153500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250427T140000Z
-DTEND:20250427T153500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250504T140000Z
-DTEND:20250504T153500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250511T140000Z
-DTEND:20250511T153500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250518T140000Z
-DTEND:20250518T153500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250525T140000Z
-DTEND:20250525T153500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250601T140000Z
-DTEND:20250601T153500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250608T140000Z
-DTEND:20250608T153500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250615T140000Z
-DTEND:20250615T153500Z
-SUMMARY:Forl (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250302T165000Z
-DTEND:20250302T182500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250309T165000Z
-DTEND:20250309T182500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250316T165000Z
-DTEND:20250316T182500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250323T165000Z
-DTEND:20250323T182500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250330T155000Z
-DTEND:20250330T172500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250413T155000Z
-DTEND:20250413T172500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250420T155000Z
-DTEND:20250420T172500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250427T155000Z
-DTEND:20250427T172500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250504T155000Z
-DTEND:20250504T172500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250511T155000Z
-DTEND:20250511T172500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250518T155000Z
-DTEND:20250518T172500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250525T155000Z
-DTEND:20250525T172500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250601T155000Z
-DTEND:20250601T172500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250608T155000Z
-DTEND:20250608T172500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250615T155000Z
-DTEND:20250615T172500Z
-SUMMARY:Forl1 (ć)
-LOCATION:132 K
-DESCRIPTION:Foreign language German/Russian\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250203T070000Z
-DTEND:20250203T083500Z
-SUMMARY:Tnme (E)
-LOCATION:39 36
-DESCRIPTION:Technical Mechanics\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: prof.dr hab.inż. Trębiński Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T060000Z
-DTEND:20250331T073500Z
-SUMMARY:PieJ (w)
-LOCATION:325 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250421T060000Z
-DTEND:20250421T073500Z
-SUMMARY:PieJ (w)
-LOCATION:325 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250428T060000Z
-DTEND:20250428T073500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: kpt. mgr inż. Majchrowicz Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T060000Z
-DTEND:20250505T073500Z
-SUMMARY:FunoR (L)
-LOCATION:106 36
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250512T060000Z
-DTEND:20250512T073500Z
-SUMMARY:Caxb (L)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Rajkowski Kamil
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250519T060000Z
-DTEND:20250519T073500Z
-SUMMARY:FunoR (L)
+DTSTART:20260111T070000Z
+DTEND:20260111T083500Z
+SUMMARY:Comna (w)
 LOCATION:111 36
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Prusaczyk Piotr 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250526T060000Z
-DTEND:20250526T073500Z
-SUMMARY:Szym (ć)
-LOCATION:45 63
-DESCRIPTION:Szym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250602T060000Z
-DTEND:20250602T073500Z
-SUMMARY:Dims (ć)
-LOCATION:4 63A
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250609T060000Z
-DTEND:20250609T073500Z
-SUMMARY:Dims (ć)
-LOCATION:17 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250203T085000Z
-DTEND:20250203T102500Z
-SUMMARY:Tnme (E)
-LOCATION:39 36
-DESCRIPTION:Technical Mechanics\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: prof.dr hab.inż. Trębiński Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250310T085000Z
-DTEND:20250310T102500Z
-SUMMARY:Eeae2 (w)
-LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Szczurko Jan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250317T085000Z
-DTEND:20250317T102500Z
-SUMMARY:Eeae2 (w)
-LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Szczurko Jan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250324T085000Z
-DTEND:20250324T102500Z
-SUMMARY:PieJ (P)
-LOCATION:323 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Projekt\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T075000Z
-DTEND:20250331T092500Z
-SUMMARY:PieJ (w)
-LOCATION:325 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250414T075000Z
-DTEND:20250414T092500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250421T075000Z
-DTEND:20250421T092500Z
-SUMMARY:PieJ (w)
-LOCATION:325 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T075000Z
-DTEND:20250505T092500Z
-SUMMARY:FunoR (L)
-LOCATION:106 36
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250519T075000Z
-DTEND:20250519T092500Z
-SUMMARY:FunoR (L)
+DTSTART:20260125T070000Z
+DTEND:20260125T083500Z
+SUMMARY:Comna (L)
 LOCATION:111 36
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Prusaczyk Piotr 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250526T075000Z
-DTEND:20250526T092500Z
-SUMMARY:Dims (ć)
-LOCATION:17 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250609T075000Z
-DTEND:20250609T092500Z
-SUMMARY:Dims (ć)
-LOCATION:17 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250317T104000Z
-DTEND:20250317T121500Z
-SUMMARY:FunoR (ć)
-LOCATION:17 63
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250324T104000Z
-DTEND:20250324T121500Z
-SUMMARY:FunoR (ć)
-LOCATION:17 63
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T094000Z
-DTEND:20250331T111500Z
-SUMMARY:FunoR (ć)
-LOCATION:17 63
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250414T094000Z
-DTEND:20250414T111500Z
-SUMMARY:FunoR (w)
-LOCATION:17 63
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250421T094000Z
-DTEND:20250421T111500Z
-SUMMARY:Baoa (w)
-LOCATION:34 67
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250428T094000Z
-DTEND:20250428T111500Z
-SUMMARY:FunoR (ć)
-LOCATION:17 63
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T094000Z
-DTEND:20250505T111500Z
-SUMMARY:Baoa (w)
-LOCATION:34 67
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250512T094000Z
-DTEND:20250512T111500Z
-SUMMARY:Baoa (w)
-LOCATION:34 67
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250519T094000Z
-DTEND:20250519T111500Z
-SUMMARY:Baoa (w)
-LOCATION:34 67
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250526T094000Z
-DTEND:20250526T111500Z
-SUMMARY:Dims (ć)
-LOCATION:17 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250602T094000Z
-DTEND:20250602T111500Z
-SUMMARY:Dims (ć)
-LOCATION:17 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250609T094000Z
-DTEND:20250609T111500Z
-SUMMARY:Dims (ć)
-LOCATION:17 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250623T094000Z
-DTEND:20250623T111500Z
-SUMMARY:Bomc2 (E)
+DTSTART:20261005T075000Z
+DTEND:20261005T092500Z
+SUMMARY:Comna (w)
 LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Szupieńko Damian
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Prusaczyk Piotr 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250324T123000Z
-DTEND:20250324T140500Z
-SUMMARY:Eeae2 (w)
+DTSTART:20261012T075000Z
+DTEND:20261012T092500Z
+SUMMARY:Comna (w)
+LOCATION:45 63
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Prusaczyk Piotr 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T075000Z
+DTEND:20261019T092500Z
+SUMMARY:Comna (w)
+LOCATION:45 63
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Prusaczyk Piotr 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T085000Z
+DTEND:20261026T102500Z
+SUMMARY:Coms (w)
+LOCATION:45 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T085000Z
+DTEND:20261102T102500Z
+SUMMARY:Coms (w)
+LOCATION:45 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T085000Z
+DTEND:20261109T102500Z
+SUMMARY:Coms (ć)
+LOCATION:47 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T085000Z
+DTEND:20261116T102500Z
+SUMMARY:Coms (w)
+LOCATION:45 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T085000Z
+DTEND:20261123T102500Z
+SUMMARY:Coms (ć)
+LOCATION:47 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T085000Z
+DTEND:20261130T102500Z
+SUMMARY:Coms (w)
+LOCATION:45 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T085000Z
+DTEND:20261207T102500Z
+SUMMARY:Coms (ć)
+LOCATION:47 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T085000Z
+DTEND:20261214T102500Z
+SUMMARY:Coms (w)
+LOCATION:45 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T085000Z
+DTEND:20261221T102500Z
+SUMMARY:Opts (L)
+LOCATION:14 41
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T085000Z
+DTEND:20260111T102500Z
+SUMMARY:Coms (ć)
+LOCATION:47 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T085000Z
+DTEND:20260118T102500Z
+SUMMARY:Meas (L)
 LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Szczurko Jan
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr.inż. Miernik Jakub 14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250331T113000Z
-DTEND:20250331T130500Z
-SUMMARY:Caxb (w)
-LOCATION:2 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250414T113000Z
-DTEND:20250414T130500Z
-SUMMARY:Eeae2 (w)
+DTSTART:20260125T085000Z
+DTEND:20260125T102500Z
+SUMMARY:Meas (L)
 LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Szczurko Jan
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr.inż. Miernik Jakub 14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250421T113000Z
-DTEND:20250421T130500Z
-SUMMARY:Dims (w)
+DTSTART:20261005T094000Z
+DTEND:20261005T111500Z
+SUMMARY:Comna (w)
 LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: por.mgr inż. Dyjak Jakub
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Prusaczyk Piotr 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T113000Z
-DTEND:20250428T130500Z
-SUMMARY:Eeae2 (w)
+DTSTART:20261012T094000Z
+DTEND:20261012T111500Z
+SUMMARY:Coms (w)
+LOCATION:45 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T094000Z
+DTEND:20261019T111500Z
+SUMMARY:Comna (w)
+LOCATION:45 63
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Prusaczyk Piotr 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T104000Z
+DTEND:20261026T121500Z
+SUMMARY:Coms (w)
+LOCATION:45 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T104000Z
+DTEND:20261102T121500Z
+SUMMARY:Comna (w)
+LOCATION:111 36
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Prusaczyk Piotr 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T104000Z
+DTEND:20261116T121500Z
+SUMMARY:Coms (ć)
+LOCATION:47 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T104000Z
+DTEND:20261130T121500Z
+SUMMARY:Opts (L)
+LOCATION:6 46
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T104000Z
+DTEND:20261207T121500Z
+SUMMARY:Opts (L)
+LOCATION:111 136
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T104000Z
+DTEND:20261214T121500Z
+SUMMARY:Opts (L)
+LOCATION:006 144
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T104000Z
+DTEND:20261221T121500Z
+SUMMARY:Opts (L)
+LOCATION:14 41
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T104000Z
+DTEND:20260111T121500Z
+SUMMARY:Meas (ć)
 LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Szczurko Jan
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr.inż. Miernik Jakub 14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250512T113000Z
-DTEND:20250512T130500Z
-SUMMARY:Eeae2 (w)
-LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Para Wojciech
+DTSTART:20260118T104000Z
+DTEND:20260118T121500Z
+SUMMARY:Comna (L)
+LOCATION:111 36
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Szymonik Jacek 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250526T113000Z
-DTEND:20250526T130500Z
-SUMMARY:Eeae2 (w)
-LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Para Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250602T113000Z
-DTEND:20250602T130500Z
-SUMMARY:Eeae2 (w)
-LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Para Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250609T113000Z
-DTEND:20250609T130500Z
-SUMMARY:PieJ (P)
-LOCATION:323 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Projekt\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250310T150000Z
-DTEND:20250310T163500Z
-SUMMARY:Caxb (ć)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250324T150000Z
-DTEND:20250324T163500Z
-SUMMARY:Caxb (w)
-LOCATION:106 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250421T140000Z
-DTEND:20250421T153500Z
-SUMMARY:Baoa (L)
-LOCATION:130 36
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250428T140000Z
-DTEND:20250428T153500Z
-SUMMARY:Baoa (ć)
-LOCATION:136 36
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T140000Z
-DTEND:20250505T153500Z
-SUMMARY:Baoa (ć)
-LOCATION:136 36
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250218T070000Z
-DTEND:20250218T083500Z
-SUMMARY:Tnme (Ep)
-LOCATION:39 36
-DESCRIPTION:Technical Mechanics\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: prof.dr hab.inż. Trębiński Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250318T070000Z
-DTEND:20250318T083500Z
-SUMMARY:Caxb (ć)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250401T060000Z
-DTEND:20250401T073500Z
-SUMMARY:Bomc2 (ć)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250408T060000Z
-DTEND:20250408T073500Z
-SUMMARY:Bomc2 (ć)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250415T060000Z
-DTEND:20250415T073500Z
-SUMMARY:Bomc2 (ć)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250422T060000Z
-DTEND:20250422T073500Z
-SUMMARY:Eeae2 (w)
-LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Para Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250520T060000Z
-DTEND:20250520T073500Z
-SUMMARY:Eeae2 (w)
-LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Para Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T060000Z
-DTEND:20250527T073500Z
-SUMMARY:Caxb (ć)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Modrzejewski P
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250204T085000Z
-DTEND:20250204T102500Z
-SUMMARY:Phys2 (E)
-LOCATION:34 67
-DESCRIPTION:Physics 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. Bennis Noureddine
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250218T085000Z
-DTEND:20250218T102500Z
-SUMMARY:Tnme (Ep)
-LOCATION:39 36
-DESCRIPTION:Technical Mechanics\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: prof.dr hab.inż. Trębiński Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250311T085000Z
-DTEND:20250311T102500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250401T075000Z
-DTEND:20250401T092500Z
-SUMMARY:Bomc2 (ć)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250408T075000Z
-DTEND:20250408T092500Z
-SUMMARY:Bomc2 (ć)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250415T075000Z
-DTEND:20250415T092500Z
-SUMMARY:Bomc2 (ć)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250422T075000Z
-DTEND:20250422T092500Z
-SUMMARY:Bomc2 (P)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Projekt\nNumer zajęć: 3-4\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250429T075000Z
-DTEND:20250429T092500Z
-SUMMARY:Sosz (L)
-LOCATION:141 36
-DESCRIPTION:* Soszyński P\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kochan Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250513T075000Z
-DTEND:20250513T092500Z
-SUMMARY:Caxb (ć)
-LOCATION:113 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Modrzejewski P
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250520T075000Z
-DTEND:20250520T092500Z
-SUMMARY:Bomc2 (P)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Projekt\nNumer zajęć: 3-4\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T075000Z
-DTEND:20250527T092500Z
-SUMMARY:Sosz (L)
-LOCATION:130 36
-DESCRIPTION:* Soszyński P\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kochan Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250603T075000Z
-DTEND:20250603T092500Z
-SUMMARY:Bomc2 (ć)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250610T075000Z
-DTEND:20250610T092500Z
-SUMMARY:Bomc2 (P)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Projekt\nNumer zajęć: 3-4\nProwadzący: dr inż. Szupieńko Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250311T104000Z
-DTEND:20250311T121500Z
-SUMMARY:Caxb (w)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250318T104000Z
-DTEND:20250318T121500Z
-SUMMARY:Caxb (w)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250415T094000Z
-DTEND:20250415T111500Z
-SUMMARY:Caxb (w)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250422T094000Z
-DTEND:20250422T111500Z
-SUMMARY:Baoa (ć)
-LOCATION:136 36
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T094000Z
-DTEND:20250506T111500Z
-SUMMARY:Dims (L)
-LOCATION:4 63A
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250513T094000Z
-DTEND:20250513T111500Z
-SUMMARY:Caxb (w)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250520T094000Z
-DTEND:20250520T111500Z
-SUMMARY:Caxb (w)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T094000Z
-DTEND:20250527T111500Z
-SUMMARY:Caxb (w)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250603T094000Z
-DTEND:20250603T111500Z
-SUMMARY:Caxb (w)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250610T094000Z
-DTEND:20250610T111500Z
-SUMMARY:Caxb (w)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250617T094000Z
-DTEND:20250617T111500Z
-SUMMARY:Kasz (L)
-LOCATION:45 63
-DESCRIPTION:Kasz\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250415T113000Z
-DTEND:20250415T130500Z
-SUMMARY:Caxb (ć)
-LOCATION:106 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250422T113000Z
-DTEND:20250422T130500Z
-SUMMARY:Eeae2 (w)
-LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Szczurko Jan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T113000Z
-DTEND:20250506T130500Z
-SUMMARY:Szym (ć)
-LOCATION:45 63
-DESCRIPTION:Szym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250513T113000Z
-DTEND:20250513T130500Z
-SUMMARY:FunoR (w)
-LOCATION:17 63
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250520T113000Z
-DTEND:20250520T130500Z
-SUMMARY:Szym (ć)
-LOCATION:45 63
-DESCRIPTION:Szym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T113000Z
-DTEND:20250527T130500Z
-SUMMARY:Kasz (L)
+DTSTART:20261019T113000Z
+DTEND:20261019T130500Z
+SUMMARY:Meas (w)
 LOCATION:322 S
-DESCRIPTION:Kasz\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kunikowski Mateusz
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Grzywiński Stanisław 12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250603T113000Z
-DTEND:20250603T130500Z
-SUMMARY:Szym (ć)
+DTSTART:20261116T123000Z
+DTEND:20261116T140500Z
+SUMMARY:Comna (ć)
+LOCATION:323 S
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr.inż. Miernik Jakub 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T123000Z
+DTEND:20261130T140500Z
+SUMMARY:Opts (L)
+LOCATION:6 46
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T123000Z
+DTEND:20261207T140500Z
+SUMMARY:Opts (L)
+LOCATION:111 136
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T123000Z
+DTEND:20261214T140500Z
+SUMMARY:Opts (L)
+LOCATION:006 144
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T123000Z
+DTEND:20261221T140500Z
+SUMMARY:Coms (ć)
+LOCATION:47 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T123000Z
+DTEND:20260111T140500Z
+SUMMARY:Meas (w)
 LOCATION:322 S
-DESCRIPTION:Szym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kunikowski Mateusz
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Grzywiński Stanisław 12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250610T113000Z
-DTEND:20250610T130500Z
-SUMMARY:Szym (ć)
-LOCATION:45 63
-DESCRIPTION:Szym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250617T113000Z
-DTEND:20250617T130500Z
-SUMMARY:Kasz (L)
-LOCATION:45 63
-DESCRIPTION:Kasz\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250408T140000Z
-DTEND:20250408T153500Z
-SUMMARY:Baoa (ć)
-LOCATION:136 36
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250415T140000Z
-DTEND:20250415T153500Z
-SUMMARY:Baoa (ć)
-LOCATION:136 36
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250429T140000Z
-DTEND:20250429T153500Z
-SUMMARY:Baoa (ć)
-LOCATION:136 36
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T140000Z
-DTEND:20250506T153500Z
-SUMMARY:Kasz (L)
+DTSTART:20261124T070000Z
+DTEND:20261124T083500Z
+SUMMARY:Meas (w)
 LOCATION:322 S
-DESCRIPTION:Kasz\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Kunikowski Mateusz
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr.inż. Miernik Jakub 14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250520T140000Z
-DTEND:20250520T153500Z
-SUMMARY:Baoa (ć)
-LOCATION:136 36
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Dziendzikowski Michał
+DTSTART:20261201T070000Z
+DTEND:20261201T083500Z
+SUMMARY:Rome (ć)
+LOCATION:323 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250527T140000Z
-DTEND:20250527T153500Z
-SUMMARY:Szym (ć)
-LOCATION:45 63
-DESCRIPTION:Szym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Kunikowski Mateusz
+DTSTART:20261208T070000Z
+DTEND:20261208T083500Z
+SUMMARY:Rome (ć)
+LOCATION:323 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250603T140000Z
-DTEND:20250603T153500Z
-SUMMARY:Szym (ć)
-LOCATION:45 63
-DESCRIPTION:Szym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Kunikowski Mateusz
+DTSTART:20261215T070000Z
+DTEND:20261215T083500Z
+SUMMARY:Rome (ć)
+LOCATION:323 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250610T140000Z
-DTEND:20250610T153500Z
-SUMMARY:Kasz (L)
+DTSTART:20261222T070000Z
+DTEND:20261222T083500Z
+SUMMARY:Meas (w)
 LOCATION:322 S
-DESCRIPTION:Kasz\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Kunikowski Mateusz
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Grzywiński Stanisław 12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T155000Z
-DTEND:20250506T172500Z
-SUMMARY:Kasz (L)
+DTSTART:20260112T070000Z
+DTEND:20260112T083500Z
+SUMMARY:Opts (L)
+LOCATION:9 70
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Achtenberg Krzysztof 17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T070000Z
+DTEND:20260119T083500Z
+SUMMARY:Opts (L)
+LOCATION:9 70
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Prokopiuk Artur 16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T085000Z
+DTEND:20261027T102500Z
+SUMMARY:Comna (w)
+LOCATION:45 63
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr.inż. Miernik Jakub 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261103T085000Z
+DTEND:20261103T102500Z
+SUMMARY:Pv (ć)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T085000Z
+DTEND:20261117T102500Z
+SUMMARY:Pv (ć)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T085000Z
+DTEND:20261124T102500Z
+SUMMARY:Meas (w)
 LOCATION:322 S
-DESCRIPTION:Kasz\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: mgr inż. Kunikowski Mateusz
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr.inż. Miernik Jakub 14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250319T070000Z
-DTEND:20250319T083500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: por.mgr inż. Dyjak Jakub
+DTSTART:20261201T085000Z
+DTEND:20261201T102500Z
+SUMMARY:Rome (ć)
+LOCATION:323 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T060000Z
-DTEND:20250402T073500Z
-SUMMARY:Caxb (ć)
-LOCATION:106 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250409T060000Z
-DTEND:20250409T073500Z
-SUMMARY:PieJ (w)
+DTSTART:20261208T085000Z
+DTEND:20261208T102500Z
+SUMMARY:Meas (w)
 LOCATION:322 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kunikowski Mateusz
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzywiński Stanisław 12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T060000Z
-DTEND:20250416T073500Z
-SUMMARY:Caxb (L)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Rajkowski Kamil
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T060000Z
-DTEND:20250430T073500Z
-SUMMARY:Eeae2 (w)
-LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Para Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T060000Z
-DTEND:20250507T073500Z
-SUMMARY:Caxb (L)
-LOCATION:8 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Modrzejewski P
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T060000Z
-DTEND:20250514T073500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250521T060000Z
-DTEND:20250521T073500Z
-SUMMARY:Caxb (L)
-LOCATION:18 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Modrzejewski P
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250528T060000Z
-DTEND:20250528T073500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250611T060000Z
-DTEND:20250611T073500Z
-SUMMARY:Eeae2 (ć)
-LOCATION:45 63
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Walenczykowska Marta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250305T085000Z
-DTEND:20250305T102500Z
-SUMMARY:PieJ (w)
-LOCATION:323 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250312T085000Z
-DTEND:20250312T102500Z
-SUMMARY:PieJ (w)
-LOCATION:323 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250319T085000Z
-DTEND:20250319T102500Z
-SUMMARY:PieJ (w)
-LOCATION:323 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T075000Z
-DTEND:20250402T092500Z
-SUMMARY:Caxb (L)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250409T075000Z
-DTEND:20250409T092500Z
-SUMMARY:PieJ (w)
+DTSTART:20261215T085000Z
+DTEND:20261215T102500Z
+SUMMARY:Meas (w)
 LOCATION:322 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kunikowski Mateusz
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzywiński Stanisław 12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T075000Z
-DTEND:20250416T092500Z
-SUMMARY:Dims (ć)
-LOCATION:4 63A
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: por.mgr inż. Dyjak Jakub
+DTSTART:20261222T085000Z
+DTEND:20261222T102500Z
+SUMMARY:Coms (L)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Jaworowicz Marek 8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T075000Z
-DTEND:20250423T092500Z
-SUMMARY:Eeae2 (L)
-LOCATION:3 63A
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Jakubik Wojciech
+DTSTART:20260112T085000Z
+DTEND:20260112T102500Z
+SUMMARY:Opts (L)
+LOCATION:9 70
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Achtenberg Krzysztof 17
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T075000Z
-DTEND:20250430T092500Z
-SUMMARY:Caxb (L)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Paszkowski Robert
+DTSTART:20260119T085000Z
+DTEND:20260119T102500Z
+SUMMARY:Opts (L)
+LOCATION:9 70
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Prokopiuk Artur 16
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T075000Z
-DTEND:20250507T092500Z
-SUMMARY:Caxb (L)
-LOCATION:8 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Modrzejewski P
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T075000Z
-DTEND:20250514T092500Z
-SUMMARY:Dims (w)
+DTSTART:20261006T094000Z
+DTEND:20261006T111500Z
+SUMMARY:Opts (w)
 LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Szymonik Jacek
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250521T075000Z
-DTEND:20250521T092500Z
-SUMMARY:Caxb (L)
-LOCATION:18 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Modrzejewski P
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250528T075000Z
-DTEND:20250528T092500Z
-SUMMARY:PieJ (P)
-LOCATION:323 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Projekt\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250611T075000Z
-DTEND:20250611T092500Z
-SUMMARY:Eeae2 (L)
-LOCATION:3 63A
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Jakubik Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250625T075000Z
-DTEND:20250625T092500Z
-SUMMARY:Eeae2 (E)
-LOCATION:325 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr inż. Para Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250305T104000Z
-DTEND:20250305T121500Z
-SUMMARY:PieJ (w)
-LOCATION:323 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250312T104000Z
-DTEND:20250312T121500Z
-SUMMARY:PieJ (w)
-LOCATION:323 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250319T104000Z
-DTEND:20250319T121500Z
-SUMMARY:PieJ (w)
-LOCATION:323 S
-DESCRIPTION:PieJ\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T094000Z
-DTEND:20250402T111500Z
-SUMMARY:Caxb (L)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250409T094000Z
-DTEND:20250409T111500Z
-SUMMARY:Baoa (w)
-LOCATION:34 67
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T094000Z
-DTEND:20250416T111500Z
-SUMMARY:Baoa (w)
-LOCATION:34 67
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T094000Z
-DTEND:20250430T111500Z
-SUMMARY:Caxb (L)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T094000Z
-DTEND:20250507T111500Z
-SUMMARY:Eeae2 (w)
-LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Para Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T094000Z
-DTEND:20250514T111500Z
-SUMMARY:Eeae2 (w)
-LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Para Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250521T094000Z
-DTEND:20250521T111500Z
-SUMMARY:Dims (w)
+DTSTART:20261013T094000Z
+DTEND:20261013T111500Z
+SUMMARY:Opts (w)
 LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Szymonik Jacek
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T094000Z
-DTEND:20250528T111500Z
-SUMMARY:Caxb (ć)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Modrzejewski P
+DTSTART:20261020T094000Z
+DTEND:20261020T111500Z
+SUMMARY:Opts (w)
+LOCATION:45 63
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250611T094000Z
-DTEND:20250611T111500Z
-SUMMARY:Dims (ć)
+DTSTART:20261027T104000Z
+DTEND:20261027T121500Z
+SUMMARY:Opts (w)
+LOCATION:45 63
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261103T104000Z
+DTEND:20261103T121500Z
+SUMMARY:Opts (w)
+LOCATION:45 63
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T104000Z
+DTEND:20261110T121500Z
+SUMMARY:Opts (w)
+LOCATION:45 63
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T104000Z
+DTEND:20261117T121500Z
+SUMMARY:Opts (w)
+LOCATION:45 63
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T104000Z
+DTEND:20261124T121500Z
+SUMMARY:Opts (w)
+LOCATION:45 63
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T104000Z
+DTEND:20261201T121500Z
+SUMMARY:Opts (w)
+LOCATION:45 63
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T104000Z
+DTEND:20261208T121500Z
+SUMMARY:Opts (w)
+LOCATION:45 63
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T104000Z
+DTEND:20261215T121500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T104000Z
+DTEND:20261222T121500Z
+SUMMARY:Opts (w)
+LOCATION:45 63
+DESCRIPTION:Optoelectronics 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kaliszewski Miron 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T104000Z
+DTEND:20260112T121500Z
+SUMMARY:Coms (L)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Jaworowicz Marek 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T104000Z
+DTEND:20260119T121500Z
+SUMMARY:Meas (w)
+LOCATION:323 S
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Majchrowicz Jakub 13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T104000Z
+DTEND:20260126T121500Z
+SUMMARY:Meas (w)
+LOCATION:323 S
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Majchrowicz Jakub 13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T123000Z
+DTEND:20261027T140500Z
+SUMMARY:Meas (w)
+LOCATION:322 S
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: mgr.inż. Miernik Jakub 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261103T123000Z
+DTEND:20261103T140500Z
+SUMMARY:Meas (w)
+LOCATION:322 S
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: mgr.inż. Miernik Jakub 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T123000Z
+DTEND:20261110T140500Z
+SUMMARY:Meas (w)
+LOCATION:322 S
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: mgr.inż. Miernik Jakub 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T123000Z
+DTEND:20261117T140500Z
+SUMMARY:Meas (w)
+LOCATION:322 S
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: mgr.inż. Miernik Jakub 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T123000Z
+DTEND:20261124T140500Z
+SUMMARY:Comna (ć)
+LOCATION:323 S
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr.inż. Miernik Jakub 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T123000Z
+DTEND:20261201T140500Z
+SUMMARY:Meas (ć)
+LOCATION:323 S
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr.inż. Miernik Jakub 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T123000Z
+DTEND:20261208T140500Z
+SUMMARY:Meas (ć)
+LOCATION:323 S
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr.inż. Miernik Jakub 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T123000Z
+DTEND:20261215T140500Z
+SUMMARY:Meas (ć)
+LOCATION:323 S
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr.inż. Miernik Jakub 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T123000Z
+DTEND:20261222T140500Z
+SUMMARY:Meas (ć)
+LOCATION:323 S
+DESCRIPTION:Measurements 11\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr.inż. Miernik Jakub 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T123000Z
+DTEND:20260112T140500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T060000Z
+DTEND:20261014T073500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:Tmwo (ć)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T070000Z
+DTEND:20261028T083500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T070000Z
+DTEND:20261104T083500Z
+SUMMARY:Tmwo (ć)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T070000Z
+DTEND:20261118T083500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:Tmwo (ć)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T070000Z
+DTEND:20261209T083500Z
+SUMMARY:Tmwo (ć)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T070000Z
+DTEND:20261216T083500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T070000Z
+DTEND:20261223T083500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T070000Z
+DTEND:20260113T083500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T070000Z
+DTEND:20260120T083500Z
+SUMMARY:Tmwo (ć)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T070000Z
+DTEND:20260127T083500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T075000Z
+DTEND:20261014T092500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T075000Z
+DTEND:20261021T092500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T085000Z
+DTEND:20261104T102500Z
+SUMMARY:Pv (ć)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T085000Z
+DTEND:20261118T102500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T085000Z
+DTEND:20261125T102500Z
+SUMMARY:Pv (ć)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T085000Z
+DTEND:20261202T102500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T085000Z
+DTEND:20261209T102500Z
+SUMMARY:Pv (ć)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T085000Z
+DTEND:20261223T102500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T085000Z
+DTEND:20260113T102500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T085000Z
+DTEND:20260127T102500Z
+SUMMARY:Tmwo (w)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T094000Z
+DTEND:20261014T111500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T121500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T104000Z
+DTEND:20261104T121500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T104000Z
+DTEND:20261118T121500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T104000Z
+DTEND:20261202T121500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T104000Z
+DTEND:20261209T121500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T121500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T104000Z
+DTEND:20261223T121500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T104000Z
+DTEND:20260113T121500Z
+SUMMARY:Rome (L)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Rodzik Dariusz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T104000Z
+DTEND:20260120T121500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T104000Z
+DTEND:20260127T121500Z
+SUMMARY:Pv (w)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T123000Z
+DTEND:20261104T140500Z
+SUMMARY:Rome (w)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Rodzik Dariusz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
+SUMMARY:Rome (w)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Rodzik Dariusz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:Rome (w)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Rodzik Dariusz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T123000Z
+DTEND:20261202T140500Z
+SUMMARY:Rome (w)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Rodzik Dariusz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:Rome (w)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Rodzik Dariusz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T123000Z
+DTEND:20261216T140500Z
+SUMMARY:Rome (w)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Rodzik Dariusz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T123000Z
+DTEND:20261223T140500Z
+SUMMARY:Rome (w)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Rodzik Dariusz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T123000Z
+DTEND:20260113T140500Z
+SUMMARY:Rome (L)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Rodzik Dariusz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T070000Z
+DTEND:20261210T083500Z
+SUMMARY:Comna (w)
 LOCATION:17 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Szymonik Jacek
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Prusaczyk Piotr 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250319T123000Z
-DTEND:20250319T140500Z
-SUMMARY:Caxb (w)
-LOCATION:106 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Paszkowski Robert
+DTSTART:20261022T075000Z
+DTEND:20261022T092500Z
+SUMMARY:Coms (w)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T113000Z
-DTEND:20250402T130500Z
-SUMMARY:Eeae2 (ć)
-LOCATION:322 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Szczurko Jan
+DTSTART:20261029T085000Z
+DTEND:20261029T102500Z
+SUMMARY:Coms (w)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T113000Z
-DTEND:20250409T130500Z
-SUMMARY:Baoa (L)
-LOCATION:43 67
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Djabin Jakub
+DTSTART:20261105T085000Z
+DTEND:20261105T102500Z
+SUMMARY:Coms (w)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T113000Z
-DTEND:20250423T130500Z
-SUMMARY:Eeae2 (ć)
+DTSTART:20261112T085000Z
+DTEND:20261112T102500Z
+SUMMARY:Comna (w)
+LOCATION:45 63
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr.inż. Miernik Jakub 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T085000Z
+DTEND:20261126T102500Z
+SUMMARY:Comna (w)
+LOCATION:17 63
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Prusaczyk Piotr 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T085000Z
+DTEND:20261203T102500Z
+SUMMARY:Comna (w)
+LOCATION:45 63
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Prusaczyk Piotr 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T085000Z
+DTEND:20261210T102500Z
+SUMMARY:Coms (ć)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T085000Z
+DTEND:20261217T102500Z
+SUMMARY:Comna (ć)
 LOCATION:323 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Szczurko Jan
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr.inż. Miernik Jakub 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T113000Z
-DTEND:20250430T130500Z
-SUMMARY:Eeae2 (ć)
+DTSTART:20260107T085000Z
+DTEND:20260107T102500Z
+SUMMARY:Coms (ć)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T085000Z
+DTEND:20260114T102500Z
+SUMMARY:Comna (L)
+LOCATION:323 S
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr.inż. Miernik Jakub 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T094000Z
+DTEND:20261015T111500Z
+SUMMARY:Coms (w)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T094000Z
+DTEND:20261022T111500Z
+SUMMARY:Coms (w)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T104000Z
+DTEND:20261029T121500Z
+SUMMARY:Coms (w)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T104000Z
+DTEND:20261105T121500Z
+SUMMARY:Coms (w)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T104000Z
+DTEND:20261112T121500Z
+SUMMARY:Coms (L)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T104000Z
+DTEND:20261119T121500Z
+SUMMARY:Coms (ć)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T104000Z
+DTEND:20261126T121500Z
+SUMMARY:Coms (L)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T104000Z
+DTEND:20261203T121500Z
+SUMMARY:Coms (ć)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T104000Z
+DTEND:20261210T121500Z
+SUMMARY:Coms (ć)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T104000Z
+DTEND:20261217T121500Z
+SUMMARY:Coms (L)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T104000Z
+DTEND:20260107T121500Z
+SUMMARY:Coms (ć)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T104000Z
+DTEND:20260114T121500Z
+SUMMARY:Coms (w)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T104000Z
+DTEND:20260121T121500Z
+SUMMARY:Coms (L)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T104000Z
+DTEND:20260128T121500Z
+SUMMARY:Coms (L)
+LOCATION:16 63
+DESCRIPTION:Control in Mechatronic Systems 1 7\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T123000Z
+DTEND:20261112T140500Z
+SUMMARY:Pv (L)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T123000Z
+DTEND:20261119T140500Z
+SUMMARY:Comna (w)
+LOCATION:17 63
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: mgr inż. Prusaczyk Piotr 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T123000Z
+DTEND:20261126T140500Z
+SUMMARY:Pv (L)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T123000Z
+DTEND:20261203T140500Z
+SUMMARY:Pv (L)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T123000Z
+DTEND:20261210T140500Z
+SUMMARY:Pv (L)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T123000Z
+DTEND:20261217T140500Z
+SUMMARY:Pv (L)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T123000Z
+DTEND:20260107T140500Z
+SUMMARY:Pv (L)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T123000Z
+DTEND:20260114T140500Z
+SUMMARY:Pv (L)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T123000Z
+DTEND:20260121T140500Z
+SUMMARY:Pv (L)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T123000Z
+DTEND:20260128T140500Z
+SUMMARY:Pv (L)
+LOCATION:45 63
+DESCRIPTION:Programing virtual instruments for data acquisiion 23\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Krenc Ksawery 24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T070000Z
+DTEND:20261106T083500Z
+SUMMARY:Rome (w)
 LOCATION:322 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Szczurko Jan
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T113000Z
-DTEND:20250514T130500Z
-SUMMARY:Eeae2 (ć)
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:Comna (ć)
+LOCATION:111 36
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Szymonik Jacek 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T070000Z
+DTEND:20261120T083500Z
+SUMMARY:Rome (ć)
 LOCATION:322 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Para Wojciech
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250611T113000Z
-DTEND:20250611T130500Z
-SUMMARY:Dims (ć)
+DTSTART:20261204T070000Z
+DTEND:20261204T083500Z
+SUMMARY:Comna (w)
 LOCATION:17 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Szymonik Jacek
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Prusaczyk Piotr 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T140000Z
-DTEND:20250409T153500Z
-SUMMARY:Caxb (w)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Paszkowski Robert
+DTSTART:20261211T070000Z
+DTEND:20261211T083500Z
+SUMMARY:Rome (ć)
+LOCATION:323 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T140000Z
-DTEND:20250423T153500Z
-SUMMARY:Eeae2 (ć)
+DTSTART:20261218T070000Z
+DTEND:20261218T083500Z
+SUMMARY:Comna (w)
+LOCATION:17 63
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Prusaczyk Piotr 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T070000Z
+DTEND:20260108T083500Z
+SUMMARY:Tmwo (ć)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T070000Z
+DTEND:20260115T083500Z
+SUMMARY:Tmwo (ć)
+LOCATION:45 63
+DESCRIPTION:Time Mangement and Work Organisation 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Piątkowski Andrzej 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T070000Z
+DTEND:20260122T083500Z
+SUMMARY:Rome (L)
 LOCATION:322 S
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Szczurko Jan
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250410T060000Z
-DTEND:20250410T073500Z
-SUMMARY:Baoa (L)
-LOCATION:130 36
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Djabin Jakub
+DTSTART:20261106T085000Z
+DTEND:20261106T102500Z
+SUMMARY:Rome (w)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T060000Z
-DTEND:20250417T073500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: por.mgr inż. Dyjak Jakub
+DTSTART:20261113T085000Z
+DTEND:20261113T102500Z
+SUMMARY:Rome (w)
+LOCATION:323 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T060000Z
-DTEND:20250508T073500Z
-SUMMARY:Baoa (w)
-LOCATION:34 67
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Dziendzikowski Michał
+DTSTART:20261120T085000Z
+DTEND:20261120T102500Z
+SUMMARY:Rome (ć)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250522T060000Z
-DTEND:20250522T073500Z
-SUMMARY:Szym (ć)
-LOCATION:45 63
-DESCRIPTION:Szym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kunikowski Mateusz
+DTSTART:20261204T085000Z
+DTEND:20261204T102500Z
+SUMMARY:Rome (w)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250206T085000Z
-DTEND:20250206T102500Z
-SUMMARY:Eeae (E)
-LOCATION:20 63
-DESCRIPTION:Electrical Engineering and Electronics\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Zieja Mariusz
+DTSTART:20261211T085000Z
+DTEND:20261211T102500Z
+SUMMARY:Rome (ć)
+LOCATION:323 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250313T085000Z
-DTEND:20250313T102500Z
-SUMMARY:Caxb (ć)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Paszkowski Robert
+DTSTART:20261218T085000Z
+DTEND:20261218T102500Z
+SUMMARY:Comna (ć)
+LOCATION:111 36
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Szymonik Jacek 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250410T075000Z
-DTEND:20250410T092500Z
-SUMMARY:FunoR (w)
-LOCATION:17 63
-DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Kaczmarek Wojciech
+DTSTART:20260108T085000Z
+DTEND:20260108T102500Z
+SUMMARY:Comna (ć)
+LOCATION:323 S
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr.inż. Miernik Jakub 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T075000Z
-DTEND:20250508T092500Z
-SUMMARY:Bomc2 (ć)
-LOCATION:45 63
-DESCRIPTION:Basics of Machine Construction 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Szupieńko Damian
+DTSTART:20260122T085000Z
+DTEND:20260122T102500Z
+SUMMARY:Rome (L)
+LOCATION:322 S
+DESCRIPTION:Reliability and Operation of Mechatronic Equipment 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Rodzik Dariusz 26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250522T075000Z
-DTEND:20250522T092500Z
-SUMMARY:Dims (w)
-LOCATION:45 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Szymonik Jacek
+DTSTART:20261106T104000Z
+DTEND:20261106T121500Z
+SUMMARY:Comna (L)
+LOCATION:323 S
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr.inż. Miernik Jakub 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250612T075000Z
-DTEND:20250612T092500Z
-SUMMARY:Dims (L)
-LOCATION:17 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Szymonik Jacek
+DTSTART:20261113T104000Z
+DTEND:20261113T121500Z
+SUMMARY:Comna (L)
+LOCATION:323 S
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr.inż. Miernik Jakub 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250619T075000Z
-DTEND:20250619T092500Z
-SUMMARY:Kasz (L)
-LOCATION:45 63
-DESCRIPTION:Kasz\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kunikowski Mateusz
+DTSTART:20261120T104000Z
+DTEND:20261120T121500Z
+SUMMARY:Comna (L)
+LOCATION:323 S
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr.inż. Miernik Jakub 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250313T104000Z
-DTEND:20250313T121500Z
-SUMMARY:Baoa (w)
-LOCATION:P 66
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Dziendzikowski Michał
+DTSTART:20261211T104000Z
+DTEND:20261211T121500Z
+SUMMARY:Comna (ć)
+LOCATION:111 36
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Szymonik Jacek 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250320T104000Z
-DTEND:20250320T121500Z
-SUMMARY:Baoa (L)
-LOCATION:128 36
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Djabin Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250410T094000Z
-DTEND:20250410T111500Z
-SUMMARY:Caxb (L)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Modrzejewski P
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250508T094000Z
-DTEND:20250508T111500Z
-SUMMARY:Baoa (L)
-LOCATION:128 36
-DESCRIPTION:Basics of automation\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kochan Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250522T094000Z
-DTEND:20250522T111500Z
-SUMMARY:Eeae2 (ć)
-LOCATION:45 63
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Para Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250612T094000Z
-DTEND:20250612T111500Z
-SUMMARY:Caxb (ć)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Modrzejewski P
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250619T094000Z
-DTEND:20250619T111500Z
-SUMMARY:Eeae2 (L)
-LOCATION:3 63A
-DESCRIPTION:Electrical Engineering and Electronics 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Jakubik Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250313T123000Z
-DTEND:20250313T140500Z
-SUMMARY:Caxb (ć)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250522T113000Z
-DTEND:20250522T130500Z
-SUMMARY:Dims (ć)
-LOCATION:17 63
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Szymonik Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250612T113000Z
-DTEND:20250612T130500Z
-SUMMARY:Caxb (ć)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Modrzejewski P
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250320T150000Z
-DTEND:20250320T163500Z
-SUMMARY:Caxb (ć)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Paszkowski Robert
+DTSTART:20260115T104000Z
+DTEND:20260115T121500Z
+SUMMARY:Comna (L)
+LOCATION:111 36
+DESCRIPTION:Comunication Networks in Automation 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Szymonik Jacek 4
 END:VEVENT
 END:VCALENDAR

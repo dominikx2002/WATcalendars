@@ -735,14 +735,14 @@ BEGIN:VEVENT
 DTSTART:20260410T060000Z
 DTEND:20260410T073500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T075000Z
 DTEND:20260410T092500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1127,14 +1127,14 @@ BEGIN:VEVENT
 DTSTART:20260425T140000Z
 DTEND:20260425T153500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T155000Z
 DTEND:20260425T172500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1372,14 +1372,14 @@ BEGIN:VEVENT
 DTSTART:20260507T140000Z
 DTEND:20260507T153500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T155000Z
 DTEND:20260507T172500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3301,6 +3301,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 45/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261119T123000Z
+DTEND:20261119T140500Z
+SUMMARY:Pwd (ć)
+LOCATION:203 65
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261119T150000Z
 DTEND:20261119T163500Z
 SUMMARY:Aok (L)
@@ -3501,7 +3508,7 @@ DTSTART:20261201T070000Z
 DTEND:20261201T083500Z
 SUMMARY:Pwd (ć)
 LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
@@ -3595,13 +3602,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 48/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261204T104000Z
-DTEND:20261204T121500Z
-SUMMARY:Pwd (ć)
-LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261204T123000Z
 DTEND:20261204T140500Z
 SUMMARY:Ja (ć)
@@ -3635,13 +3635,6 @@ DTEND:20261207T140500Z
 SUMMARY:Aok (w)
 LOCATION:316 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T070000Z
-DTEND:20261208T083500Z
-SUMMARY:Pwd (ć)
-LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T085000Z
@@ -3753,7 +3746,7 @@ DTSTART:20261214T104000Z
 DTEND:20261214T121500Z
 SUMMARY:Pwd (ć)
 LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T123000Z
@@ -3782,6 +3775,13 @@ DTEND:20261215T140500Z
 SUMMARY:PO (ć)
 LOCATION:223 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T150000Z
+DTEND:20261215T163500Z
+SUMMARY:Pwd (ć)
+LOCATION:203 65
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -3894,13 +3894,6 @@ DTEND:20261221T140500Z
 SUMMARY:Pnak (L)
 LOCATION:237 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Waldemar Szylberg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261222T070000Z
-DTEND:20261222T083500Z
-SUMMARY:Pwd (ć)
-LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T085000Z
@@ -4019,7 +4012,7 @@ DTSTART:20270111T104000Z
 DTEND:20270111T121500Z
 SUMMARY:Pwd (ć)
 LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270111T123000Z
@@ -4069,6 +4062,13 @@ DTEND:20270114T083500Z
 SUMMARY:ZINŻ (ć)
 LOCATION:308 S
 DESCRIPTION:Zabezpieczenie inżynieryjne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T085000Z
+DTEND:20270114T102500Z
+SUMMARY:Pwd (ć)
+LOCATION:55/ 62
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T104000Z
@@ -4274,6 +4274,13 @@ LOCATION:314 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270127T104000Z
+DTEND:20270127T121500Z
+SUMMARY:Pwd (ć)
+LOCATION:203 65
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270128T070000Z
 DTEND:20270128T083500Z
 SUMMARY:Aok (L)
@@ -4307,13 +4314,6 @@ DTEND:20270129T102500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 60/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270129T104000Z
-DTEND:20270129T121500Z
-SUMMARY:Pwd (ć)
-LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T123000Z

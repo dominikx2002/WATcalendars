@@ -7,22 +7,22 @@ BEGIN:VEVENT
 DTSTART:20261012T060000Z
 DTEND:20261012T073500Z
 SUMMARY:P 
-LOCATION:25PX; 1S; 25PX; 2S; 25Px; 3S; 1 Chy; 7a
+LOCATION:25PX; 1S; 25PX; 2S; 25PX; 3S; 1 Chy; 7a
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 1/20\nProwadzący: prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T070000Z
 DTEND:20261026T083500Z
 SUMMARY:Sta (w)
-LOCATION:3S; 1 Oz; 7a
-DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Oziębło Małgorzata 36
+LOCATION:7a
+DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Oziębło Małgorzata 36; dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T070000Z
 DTEND:20261102T083500Z
 SUMMARY:Sta (w)
-LOCATION:3S; 1 Oz; 7a
-DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Oziębło Małgorzata 36
+LOCATION:7a
+DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Oziębło Małgorzata 36; dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T070000Z
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 DTSTART:20261012T075000Z
 DTEND:20261012T092500Z
 SUMMARY:P 
-LOCATION:25PX; 1S; 25PX; 2S; 25Px; 3S; 1 Chy; 7a
+LOCATION:25PX; 1S; 25PX; 2S; 25PX; 3S; 1 Chy; 7a
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 2/20\nProwadzący: prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
@@ -63,8 +63,8 @@ BEGIN:VEVENT
 DTSTART:20261116T085000Z
 DTEND:20261116T102500Z
 SUMMARY:ZŚN (w)
-LOCATION:3S; 1 Ad; 7a
-DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Adamkiewicz Jakub 44
+LOCATION:7a
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Adamkiewicz Jakub 44; dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T085000Z
@@ -84,8 +84,8 @@ BEGIN:VEVENT
 DTSTART:20260111T085000Z
 DTEND:20260111T102500Z
 SUMMARY:Sta (w)
-LOCATION:3S; 1 Oz; 7a
-DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Oziębło Małgorzata 36
+LOCATION:7a
+DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Oziębło Małgorzata 36; dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T085000Z
@@ -105,15 +105,15 @@ BEGIN:VEVENT
 DTSTART:20261109T104000Z
 DTEND:20261109T121500Z
 SUMMARY:ZŚN (w)
-LOCATION:3S; 1 Ad; 7a
-DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Adamkiewicz Jakub 44
+LOCATION:7a
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Adamkiewicz Jakub 44; dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
 DTEND:20261116T121500Z
 SUMMARY:ZŚN (w)
-LOCATION:3S; 1 Ad; 7a
-DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Adamkiewicz Jakub 44
+LOCATION:7a
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Adamkiewicz Jakub 44; dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T104000Z
@@ -147,8 +147,8 @@ BEGIN:VEVENT
 DTSTART:20261005T113000Z
 DTEND:20261005T130500Z
 SUMMARY:Ap (w)
-LOCATION:3S; 1 Chy; 7a
-DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9
+LOCATION:7a
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T123000Z
@@ -161,8 +161,8 @@ BEGIN:VEVENT
 DTSTART:20261102T123000Z
 DTEND:20261102T140500Z
 SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 1/22\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+LOCATION:25PX; 3S; 1 D; 5.27/STRZELNICA
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 1/22\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T123000Z
@@ -189,15 +189,15 @@ BEGIN:VEVENT
 DTSTART:20261207T123000Z
 DTEND:20261207T140500Z
 SUMMARY:ZŚN (w)
-LOCATION:3S; 1 Ad
-DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9
+LOCATION:
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Adamkiewicz Jakub 44
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T123000Z
 DTEND:20261221T140500Z
 SUMMARY:ZŚN (w)
-LOCATION:3S; 1 Ad
-DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9
+LOCATION:
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Adamkiewicz Jakub 44
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T123000Z
@@ -217,8 +217,8 @@ BEGIN:VEVENT
 DTSTART:20261005T140000Z
 DTEND:20261005T153500Z
 SUMMARY:Ap (w)
-LOCATION:3S; 1 Chy; 7a
-DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9
+LOCATION:7a
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T140000Z
@@ -238,14 +238,14 @@ BEGIN:VEVENT
 DTSTART:20261102T150000Z
 DTEND:20261102T163500Z
 SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 2/22\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+LOCATION:25PX; 3S; 1 D; 5.27/STRZELNICA
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 2/22\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T150000Z
 DTEND:20261130T163500Z
 SUMMARY:PODST. 
-LOCATION:25Px; 3S; 25PX; 2S; 25PX; 1S; 1 Trz; 7a
+LOCATION:25PX; 3S; 25PX; 2S; 25PX; 1S; 1 Trz; 7a
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 3/22\nProwadzący: dr Chyrzyński Ryszard 2; prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 DTSTART:20261027T070000Z
 DTEND:20261027T083500Z
 SUMMARY:P 
-LOCATION:25PX; 1S; 25PX; 2S; 25Px; 3S; 1 Chy; 7a
+LOCATION:25PX; 1S; 25PX; 2S; 25PX; 3S; 1 Chy; 7a
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 3/20\nProwadzący: prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 DTSTART:20261110T070000Z
 DTEND:20261110T083500Z
 SUMMARY:P 
-LOCATION:25PX; 1S; 25PX; 2S; 25Px; 3S; 1 Chy; 7a
+LOCATION:25PX; 1S; 25PX; 2S; 25PX; 3S; 1 Chy; 7a
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 4/20\nProwadzący: prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
@@ -434,8 +434,8 @@ BEGIN:VEVENT
 DTSTART:20261110T085000Z
 DTEND:20261110T102500Z
 SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 5/22\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+LOCATION:25PX; 3S; 1 D; 5.27/STRZELNICA
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 5/22\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T085000Z
@@ -490,7 +490,7 @@ BEGIN:VEVENT
 DTSTART:20260216T085000Z
 DTEND:20260216T102500Z
 SUMMARY:PODST. 
-LOCATION:25PX; 1S; 25PX; 2S; 25Px; 3S; 1 Trz; 7a
+LOCATION:25PX; 1S; 25PX; 2S; 25PX; 3S; 1 Trz; 7a
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 7/22\nProwadzący: dr Chyrzyński Ryszard 2; prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
@@ -518,15 +518,15 @@ BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 8/22\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+LOCATION:25PX; 3S; 1 D; 5.27/STRZELNICA
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 8/22\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 9/22\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+LOCATION:25PX; 3S; 1 D; 5.27/STRZELNICA
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 9/22\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T104000Z
@@ -539,8 +539,8 @@ BEGIN:VEVENT
 DTSTART:20261201T104000Z
 DTEND:20261201T121500Z
 SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 10/22\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+LOCATION:25PX; 3S; 1 D; 5.27/STRZELNICA
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 10/22\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T104000Z
@@ -560,7 +560,7 @@ BEGIN:VEVENT
 DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
 SUMMARY:P 
-LOCATION:25PX; 1S; 25PX; 2S; 25Px; 3S; 1 Chy; 7a
+LOCATION:25PX; 1S; 25PX; 2S; 25PX; 3S; 1 Chy; 7a
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 8/20\nProwadzący: prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
@@ -588,15 +588,15 @@ BEGIN:VEVENT
 DTSTART:20261117T123000Z
 DTEND:20261117T140500Z
 SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 11/22\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+LOCATION:25PX; 3S; 1 D; 5.27/STRZELNICA
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 11/22\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
 SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 12/22\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+LOCATION:25PX; 3S; 1 D; 5.27/STRZELNICA
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 12/22\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T123000Z
@@ -623,21 +623,21 @@ BEGIN:VEVENT
 DTSTART:20260126T123000Z
 DTEND:20260126T140500Z
 SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 13/22\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+LOCATION:25PX; 3S; 1 D; 5.27/STRZELNICA
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 13/22\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T140000Z
 DTEND:20261006T153500Z
 SUMMARY:P 
-LOCATION:25PX; 1S; 25PX; 2S; 25Px; 3S; 1 Chy; 7a
+LOCATION:25PX; 1S; 25PX; 2S; 25PX; 3S; 1 Chy; 7a
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 10/20\nProwadzący: prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T140000Z
 DTEND:20261020T153500Z
 SUMMARY:P 
-LOCATION:25PX; 1S; 25PX; 2S; 25Px; 3S; 1 Chy; 7a
+LOCATION:25PX; 1S; 25PX; 2S; 25PX; 3S; 1 Chy; 7a
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 11/20\nProwadzący: prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
@@ -693,22 +693,22 @@ BEGIN:VEVENT
 DTSTART:20261028T070000Z
 DTEND:20261028T083500Z
 SUMMARY:Sta (w)
-LOCATION:3S; 1 Oz; 7a
-DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Oziębło Małgorzata 36
+LOCATION:7a
+DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Oziębło Małgorzata 36; dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
 DTEND:20261104T083500Z
 SUMMARY:P 
-LOCATION:25PX; 1S; 25PX; 2S; 25Px; 3S; 1 Chy; 7a
+LOCATION:25PX; 1S; 25PX; 2S; 25PX; 3S; 1 Chy; 7a
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 12/20\nProwadzący: prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
 SUMMARY:Sta (w)
-LOCATION:3S; 1 Oz; 7a
-DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Oziębło Małgorzata 36
+LOCATION:7a
+DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Oziębło Małgorzata 36; dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
@@ -735,8 +735,8 @@ BEGIN:VEVENT
 DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
 SUMMARY:Ap (w)
-LOCATION:3S; 1 Chy; 7a
-DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9
+LOCATION:7a
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T085000Z
@@ -777,36 +777,36 @@ BEGIN:VEVENT
 DTSTART:20261021T094000Z
 DTEND:20261021T111500Z
 SUMMARY:Sta (w)
-LOCATION:3S; 1 Oz; 7a
-DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Oziębło Małgorzata 36
+LOCATION:7a
+DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Oziębło Małgorzata 36; dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T104000Z
 DTEND:20261028T121500Z
 SUMMARY:Gp (w)
-LOCATION:3S; 1 PSt; 7a
+LOCATION:7a
 DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T104000Z
 DTEND:20261104T121500Z
 SUMMARY:Gp (w)
-LOCATION:3S; 1 PSt; 7a
+LOCATION:7a
 DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T104000Z
 DTEND:20261118T121500Z
 SUMMARY:Gp (w)
-LOCATION:3S; 1 PSt; 7a
+LOCATION:7a
 DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T104000Z
 DTEND:20261202T121500Z
 SUMMARY:Sta (w)
-LOCATION:3S; 1 Oz; 7a
-DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Oziębło Małgorzata 36
+LOCATION:7a
+DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Oziębło Małgorzata 36; dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T104000Z
@@ -847,56 +847,56 @@ BEGIN:VEVENT
 DTSTART:20261007T113000Z
 DTEND:20261007T130500Z
 SUMMARY:Hsw (w)
-LOCATION:3S; 1 S; 7a
-DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr inż. Kleszcz Sławomir 16
+LOCATION:7a
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T113000Z
 DTEND:20261014T130500Z
 SUMMARY:Hsw (w)
-LOCATION:3S; 1 S; 7a
-DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr inż. Kleszcz Sławomir 16
+LOCATION:7a
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T113000Z
 DTEND:20261021T130500Z
 SUMMARY:Sta (w)
-LOCATION:3S; 1 Oz; 7a
-DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Oziębło Małgorzata 36
+LOCATION:7a
+DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Oziębło Małgorzata 36; dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T123000Z
 DTEND:20261028T140500Z
 SUMMARY:Gp (w)
-LOCATION:3S; 1 PSt; 7a
+LOCATION:7a
 DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T123000Z
 DTEND:20261104T140500Z
 SUMMARY:Gp (w)
-LOCATION:3S; 1 PSt; 7a
+LOCATION:7a
 DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T123000Z
 DTEND:20261118T140500Z
 SUMMARY:Gp (w)
-LOCATION:3S; 1 PSt; 7a
+LOCATION:7a
 DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T123000Z
 DTEND:20261125T140500Z
 SUMMARY:Hsw (w)
-LOCATION:3S; 1 S; 7a
-DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Kleszcz Sławomir 16
+LOCATION:7a
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
 SUMMARY:Gp (w)
-LOCATION:3S; 1 PSt; 7a
+LOCATION:7a
 DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
@@ -938,15 +938,15 @@ BEGIN:VEVENT
 DTSTART:20261007T140000Z
 DTEND:20261007T153500Z
 SUMMARY:Hsw (w)
-LOCATION:3S; 1 S; 7a
-DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr inż. Kleszcz Sławomir 16
+LOCATION:7a
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T140000Z
 DTEND:20261014T153500Z
 SUMMARY:Hsw (w)
-LOCATION:3S; 1 S; 7a
-DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr inż. Kleszcz Sławomir 16
+LOCATION:7a
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T150000Z
@@ -966,8 +966,8 @@ BEGIN:VEVENT
 DTSTART:20261125T150000Z
 DTEND:20261125T163500Z
 SUMMARY:Hsw (w)
-LOCATION:3S; 1 S; 7a
-DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Kleszcz Sławomir 16
+LOCATION:7a
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T150000Z
@@ -1176,14 +1176,14 @@ BEGIN:VEVENT
 DTSTART:20261015T075000Z
 DTEND:20261015T092500Z
 SUMMARY:Ap (w)
-LOCATION:3S; 1 Chy; 7a
-DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9
+LOCATION:7a
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T085000Z
 DTEND:20261112T102500Z
 SUMMARY:Gp (w)
-LOCATION:3S; 1 PSt; 7a
+LOCATION:7a
 DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
@@ -1232,22 +1232,22 @@ BEGIN:VEVENT
 DTSTART:20260204T085000Z
 DTEND:20260204T102500Z
 SUMMARY:Syst.zarz. 
-LOCATION:25Px; 3S; 25PX; 2S; 25PX; 1S; 1 Bwp; 7a
+LOCATION:25PX; 3S; 25PX; 2S; 25PX; 1S; 1 Bwp; 7a
 DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 12/22\nProwadzący: dr Stawarz Paweł 13; prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T085000Z
 DTEND:20260218T102500Z
 SUMMARY:Syst.zarz. 
-LOCATION:25Px; 3S; 25PX; 2S; 25PX; 1S; 1 Bwp; 7a
+LOCATION:25PX; 3S; 25PX; 2S; 25PX; 1S; 1 Bwp; 7a
 DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 13/22\nProwadzący: dr Stawarz Paweł 13; prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T094000Z
 DTEND:20261015T111500Z
 SUMMARY:Ap (w)
-LOCATION:3S; 1 Chy; 7a
-DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9
+LOCATION:7a
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T094000Z
@@ -1274,7 +1274,7 @@ BEGIN:VEVENT
 DTSTART:20261112T104000Z
 DTEND:20261112T121500Z
 SUMMARY:Gp (w)
-LOCATION:3S; 1 PSt; 7a
+LOCATION:7a
 DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9
 END:VEVENT
 BEGIN:VEVENT
@@ -1288,8 +1288,8 @@ BEGIN:VEVENT
 DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 18/22\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+LOCATION:25PX; 3S; 1 D; 5.27/STRZELNICA
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 18/22\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T104000Z
@@ -1337,8 +1337,8 @@ BEGIN:VEVENT
 DTSTART:20261217T123000Z
 DTEND:20261217T140500Z
 SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 19/22\nProwadzący: dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10
+LOCATION:25PX; 3S; 1 D; 5.27/STRZELNICA
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 19/22\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T123000Z
@@ -1442,8 +1442,8 @@ BEGIN:VEVENT
 DTSTART:20261002T060000Z
 DTEND:20261002T073500Z
 SUMMARY:Sta (w)
-LOCATION:3S; 1 Oz; 7a
-DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Oziębło Małgorzata 36
+LOCATION:7a
+DESCRIPTION:Statystyka 35\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Oziębło Małgorzata 36; dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T070000Z
@@ -1463,22 +1463,22 @@ BEGIN:VEVENT
 DTSTART:20261002T075000Z
 DTEND:20261002T092500Z
 SUMMARY:Ap (w)
-LOCATION:3S; 1 Chy; 7a
-DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9
+LOCATION:7a
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T075000Z
 DTEND:20261009T092500Z
 SUMMARY:P 
-LOCATION:25PX; 1S; 25PX; 2S; 25Px; 3S; 1 Chy; 7a
+LOCATION:25PX; 1S; 25PX; 2S; 25PX; 3S; 1 Chy; 7a
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 19/20\nProwadzący: prof. dr hab. Misiuk Andrzej 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T085000Z
 DTEND:20261106T102500Z
 SUMMARY:ZŚN (w)
-LOCATION:3S; 1 Ad; 7a
-DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Adamkiewicz Jakub 44
+LOCATION:7a
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Adamkiewicz Jakub 44; dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T085000Z
@@ -1505,15 +1505,15 @@ BEGIN:VEVENT
 DTSTART:20261002T094000Z
 DTEND:20261002T111500Z
 SUMMARY:Ap (w)
-LOCATION:3S; 1 Chy; 7a
-DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9
+LOCATION:7a
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T094000Z
 DTEND:20261009T111500Z
 SUMMARY:Ap (w)
-LOCATION:3S; 1 Chy; 7a
-DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9
+LOCATION:7a
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T104000Z
@@ -1526,8 +1526,8 @@ BEGIN:VEVENT
 DTSTART:20261106T104000Z
 DTEND:20261106T121500Z
 SUMMARY:ZŚN (w)
-LOCATION:3S; 1 Ad; 7a
-DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Adamkiewicz Jakub 44
+LOCATION:7a
+DESCRIPTION:Zagrożenia Środowiska Naturalnego 43\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Adamkiewicz Jakub 44; dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T104000Z
@@ -1554,8 +1554,8 @@ BEGIN:VEVENT
 DTSTART:20261009T113000Z
 DTEND:20261009T130500Z
 SUMMARY:Ap (w)
-LOCATION:3S; 1 Chy; 7a
-DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9
+LOCATION:7a
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T113000Z

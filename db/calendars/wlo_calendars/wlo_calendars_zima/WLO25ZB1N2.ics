@@ -4,13 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO25ZB1N2
 BEGIN:VEVENT
-DTSTART:20261003T060000Z
-DTEND:20261003T073500Z
-SUMMARY:Iaa (w)
-LOCATION:237 S
-DESCRIPTION:Informatyczne systemy agregacji i analizy danych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261024T060000Z
 DTEND:20261024T073500Z
 SUMMARY:Prc (w)
@@ -22,7 +15,7 @@ DTSTART:20261107T070000Z
 DTEND:20261107T083500Z
 SUMMARY:Iaa (w)
 LOCATION:227 S
-DESCRIPTION:Informatyczne systemy agregacji i analizy danych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6
+DESCRIPTION:Informatyczne systemy agregacji i analizy danych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T070000Z
@@ -36,7 +29,7 @@ DTSTART:20261121T070000Z
 DTEND:20261121T083500Z
 SUMMARY:Iaa (w)
 LOCATION:227 S
-DESCRIPTION:Informatyczne systemy agregacji i analizy danych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6
+DESCRIPTION:Informatyczne systemy agregacji i analizy danych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T070000Z
@@ -88,13 +81,6 @@ LOCATION:4.22 /135
 DESCRIPTION:Seminarium dyplomowe 29\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/16\nProwadzący: dr Tarapata Jolanta 33
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T075000Z
-DTEND:20261003T092500Z
-SUMMARY:Iaa (w)
-LOCATION:237 S
-DESCRIPTION:Informatyczne systemy agregacji i analizy danych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261010T075000Z
 DTEND:20261010T092500Z
 SUMMARY:szjISO (w)
@@ -113,7 +99,7 @@ DTSTART:20261107T085000Z
 DTEND:20261107T102500Z
 SUMMARY:Iaa (w)
 LOCATION:227 S
-DESCRIPTION:Informatyczne systemy agregacji i analizy danych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6
+DESCRIPTION:Informatyczne systemy agregacji i analizy danych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T085000Z
@@ -127,7 +113,7 @@ DTSTART:20261121T085000Z
 DTEND:20261121T102500Z
 SUMMARY:Iaa (w)
 LOCATION:227 S
-DESCRIPTION:Informatyczne systemy agregacji i analizy danych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6
+DESCRIPTION:Informatyczne systemy agregacji i analizy danych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T085000Z
@@ -795,6 +781,13 @@ LOCATION:4.24 /135
 DESCRIPTION:Seminarium dyplomowe 29\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/16\nProwadzący: dr Kaczmarska Krawczak Jadwiga 31
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261011T140000Z
+DTEND:20261011T153500Z
+SUMMARY:Iaa (w)
+LOCATION:237 S
+DESCRIPTION:Informatyczne systemy agregacji i analizy danych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261108T150000Z
 DTEND:20261108T163500Z
 SUMMARY:KNiO (w)
@@ -842,6 +835,13 @@ DTEND:20260124T163500Z
 SUMMARY:Ohd (L)
 LOCATION:252 S
 DESCRIPTION:Organizacja hurtowni danych 20\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Rozmus Stefan 21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T155000Z
+DTEND:20261011T172500Z
+SUMMARY:Iaa (w)
+LOCATION:237 S
+DESCRIPTION:Informatyczne systemy agregacji i analizy danych 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T165000Z

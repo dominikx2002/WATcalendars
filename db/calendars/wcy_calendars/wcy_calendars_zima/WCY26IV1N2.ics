@@ -2,7 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:WCY26KA1N2
+X-WR-CALNAME:WCY26IV1N2
+BEGIN:VEVENT
+DTSTART:20261003T060000Z
+DTEND:20261003T073500Z
+SUMMARY:Ing (Inne)
+LOCATION:klub WAT
+DESCRIPTION:Inauguracja\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T075000Z
+DTEND:20261003T092500Z
+SUMMARY:Ing (Inne)
+LOCATION:klub WAT
+DESCRIPTION:Inauguracja\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T094000Z
 DTEND:20261003T111500Z
@@ -15,21 +29,7 @@ DTSTART:20261003T113000Z
 DTEND:20261003T130500Z
 SUMMARY:Ps (w)
 LOCATION:317 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Piotr Mularczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261003T140000Z
-DTEND:20261003T153500Z
-SUMMARY:Mnk (w)
-LOCATION:316 S
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. Ewa Czuchry
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261003T155000Z
-DTEND:20261003T172500Z
-SUMMARY:Mnk (w)
-LOCATION:316 S
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T060000Z
@@ -41,16 +41,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T075000Z
 DTEND:20261004T092500Z
-SUMMARY:WIT (w)
-LOCATION:307 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Witold Żorski
+SUMMARY:Isim (w)
+LOCATION:309 S
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T094000Z
 DTEND:20261004T111500Z
-SUMMARY:WIT (w)
-LOCATION:307 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Witold Żorski
+SUMMARY:Mia (w)
+LOCATION:309 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T060000Z
@@ -71,14 +71,21 @@ DTSTART:20261010T094000Z
 DTEND:20261010T111500Z
 SUMMARY:Ps (w)
 LOCATION:307 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T113000Z
 DTEND:20261010T130500Z
 SUMMARY:Ps (w)
 LOCATION:307 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T155000Z
+DTEND:20261010T172500Z
+SUMMARY:MumII (w)
+LOCATION:-
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T060000Z
@@ -90,37 +97,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T075000Z
 DTEND:20261011T092500Z
-SUMMARY:WIT (w)
-LOCATION:203 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Witold Żorski
+SUMMARY:Isim (w)
+LOCATION:309 S
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T094000Z
 DTEND:20261011T111500Z
-SUMMARY:WIT (w)
-LOCATION:203 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Witold Żorski
+SUMMARY:Mia (w)
+LOCATION:309 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T060000Z
 DTEND:20261017T073500Z
-SUMMARY:Ek (w)
-LOCATION:309 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: -
+SUMMARY:Clc (w)
+LOCATION:314 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T075000Z
 DTEND:20261017T092500Z
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T094000Z
 DTEND:20261017T111500Z
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T113000Z
@@ -132,9 +139,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T140000Z
 DTEND:20261017T153500Z
-SUMMARY:Mnk (w)
-LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. Ewa Czuchry
+SUMMARY:Mia (w)
+LOCATION:309 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T155000Z
+DTEND:20261017T172500Z
+SUMMARY:MumII (w)
+LOCATION:308 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261018T060000Z
@@ -144,32 +158,25 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261018T113000Z
-DTEND:20261018T130500Z
-SUMMARY:Soc (w)
-LOCATION:307 S
-DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T140000Z
-DTEND:20261018T153500Z
-SUMMARY:Mnk (w)
-LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. Ewa Czuchry
+DTSTART:20261018T075000Z
+DTEND:20261018T092500Z
+SUMMARY:Isim (w)
+LOCATION:309 S
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T060000Z
 DTEND:20261024T073500Z
-SUMMARY:WIT (w)
-LOCATION:203 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Witold Żorski
+SUMMARY:Clc (w)
+LOCATION:307 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T075000Z
 DTEND:20261024T092500Z
-SUMMARY:Ek (w)
-LOCATION:309 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: -
+SUMMARY:Clc (w)
+LOCATION:307 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T094000Z
@@ -193,18 +200,18 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261025T123000Z
-DTEND:20261025T140500Z
-SUMMARY:Soc (w)
+DTSTART:20261114T070000Z
+DTEND:20261114T083500Z
+SUMMARY:Msk. (w)
 LOCATION:307 S
-DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: -
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T085000Z
 DTEND:20261114T102500Z
-SUMMARY:Ek (w)
-LOCATION:309 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: -
+SUMMARY:Msk. (w)
+LOCATION:307 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T104000Z
@@ -221,13 +228,6 @@ LOCATION:314 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261114T150000Z
-DTEND:20261114T163500Z
-SUMMARY:Mnk (w)
-LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. Ewa Czuchry
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261115T070000Z
 DTEND:20261115T083500Z
 SUMMARY:Ja (ć)
@@ -235,18 +235,39 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261115T123000Z
-DTEND:20261115T140500Z
-SUMMARY:Mnk (w)
-LOCATION:309 S
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. Ewa Czuchry
+DTSTART:20261115T085000Z
+DTEND:20261115T102500Z
+SUMMARY:Mia (w)
+LOCATION:307 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T070000Z
+DTEND:20261121T083500Z
+SUMMARY:Msk. (w)
+LOCATION:307 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T085000Z
+DTEND:20261121T102500Z
+SUMMARY:Msk. (w)
+LOCATION:307 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T104000Z
+DTEND:20261121T121500Z
+SUMMARY:MumII (w)
+LOCATION:313 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T123000Z
 DTEND:20261121T140500Z
-SUMMARY:Ek (ć)
-LOCATION:309 S
-DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
+SUMMARY:Ps (w)
+LOCATION:314 S
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T150000Z
@@ -270,22 +291,22 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261122T085000Z
-DTEND:20261122T102500Z
-SUMMARY:Soc (w)
+DTSTART:20261205T070000Z
+DTEND:20261205T083500Z
+SUMMARY:Mia (w)
 LOCATION:307 S
-DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: -
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261205T123000Z
-DTEND:20261205T140500Z
-SUMMARY:Mnk (w)
-LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. Ewa Czuchry
+DTSTART:20261205T085000Z
+DTEND:20261205T102500Z
+SUMMARY:Mia (w)
+LOCATION:307 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261205T165000Z
-DTEND:20261205T182500Z
+DTSTART:20261205T150000Z
+DTEND:20261205T163500Z
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Piotr Mularczyk
@@ -298,25 +319,25 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261206T085000Z
-DTEND:20261206T102500Z
-SUMMARY:Soc (w)
-LOCATION:307 S
-DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261212T085000Z
 DTEND:20261212T102500Z
-SUMMARY:Ek (w)
-LOCATION:309 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: -
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T104000Z
 DTEND:20261212T121500Z
-SUMMARY:Ek (ć)
-LOCATION:309 S
-DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T123000Z
+DTEND:20261212T140500Z
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T070000Z
@@ -326,41 +347,6 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261213T085000Z
-DTEND:20261213T102500Z
-SUMMARY:Soc (w)
-LOCATION:307 S
-DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261213T123000Z
-DTEND:20261213T140500Z
-SUMMARY:Soc (ć)
-LOCATION:307 S
-DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261219T085000Z
-DTEND:20261219T102500Z
-SUMMARY:Ek (w)
-LOCATION:309 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261219T123000Z
-DTEND:20261219T140500Z
-SUMMARY:Mnk (w)
-LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. Ewa Czuchry
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261219T165000Z
-DTEND:20261219T182500Z
-SUMMARY:Ps (ć)
-LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Piotr Mularczyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261220T070000Z
 DTEND:20261220T083500Z
 SUMMARY:Ja (ć)
@@ -368,18 +354,25 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270109T070000Z
-DTEND:20270109T083500Z
-SUMMARY:Ps (ć)
-LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Piotr Mularczyk
+DTSTART:20270109T104000Z
+DTEND:20270109T121500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270109T123000Z
 DTEND:20270109T140500Z
-SUMMARY:Mnk (w)
-LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. Ewa Czuchry
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270109T150000Z
+DTEND:20270109T163500Z
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270110T070000Z
@@ -396,18 +389,18 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270117T123000Z
-DTEND:20270117T140500Z
-SUMMARY:Soc (ć)
-LOCATION:308 S
-DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+DTSTART:20270123T104000Z
+DTEND:20270123T121500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270123T123000Z
 DTEND:20270123T140500Z
-SUMMARY:Mnk (w)
-LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. Ewa Czuchry
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270124T070000Z
@@ -424,8 +417,8 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270130T070000Z
-DTEND:20270130T083500Z
+DTSTART:20270130T104000Z
+DTEND:20270130T121500Z
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Piotr Mularczyk

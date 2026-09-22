@@ -1092,14 +1092,14 @@ BEGIN:VEVENT
 DTSTART:20260508T075000Z
 DTEND:20260508T092500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
+LOCATION:ST.nr 1(KB)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
 DTEND:20260508T111500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
+LOCATION:ST.nr 1(KB)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1694,14 +1694,14 @@ BEGIN:VEVENT
 DTSTART:20260612T140000Z
 DTEND:20260612T153500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
+LOCATION:ST.nr 1(KB)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T155000Z
 DTEND:20260612T172500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
+LOCATION:ST.nr 1(KB)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1827,7 +1827,7 @@ BEGIN:VEVENT
 DTSTART:20260619T075000Z
 DTEND:20260619T092500Z
 SUMMARY:DSiSM (Inne)
-LOCATION:BIBL /22
+LOCATION:22 /BIBL
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2195,13 +2195,6 @@ LOCATION:308 S
 DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T155000Z
-DTEND:20261014T172500Z
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261015T060000Z
 DTEND:20261015T073500Z
 SUMMARY:Kre (w)
@@ -2240,14 +2233,14 @@ BEGIN:VEVENT
 DTSTART:20261016T075000Z
 DTEND:20261016T092500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC2)
+LOCATION:ST.nr 1(KSP)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T094000Z
 DTEND:20261016T111500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC2)
+LOCATION:ST.nr 1(KSP)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2354,13 +2347,6 @@ DTEND:20261021T130500Z
 SUMMARY:QPQ (w)
 LOCATION:085 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T155000Z
-DTEND:20261021T172500Z
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T060000Z
@@ -2678,13 +2664,6 @@ LOCATION:078 S
 DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T165000Z
-DTEND:20261104T182500Z
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
 SUMMARY:Ps (w)
@@ -2972,13 +2951,6 @@ LOCATION:085 S
 DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T165000Z
-DTEND:20261118T182500Z
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261119T070000Z
 DTEND:20261119T083500Z
 SUMMARY:WF (ć)
@@ -3017,14 +2989,14 @@ BEGIN:VEVENT
 DTSTART:20261120T070000Z
 DTEND:20261120T083500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T085000Z
 DTEND:20261120T102500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3159,13 +3131,6 @@ DTEND:20261125T163500Z
 SUMMARY:Wkakp (L)
 LOCATION:085 S
 DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261125T165000Z
-DTEND:20261125T182500Z
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z
@@ -3836,14 +3801,14 @@ BEGIN:VEVENT
 DTSTART:20270108T085000Z
 DTEND:20270108T102500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T104000Z
 DTEND:20270108T121500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3990,14 +3955,14 @@ BEGIN:VEVENT
 DTSTART:20270115T085000Z
 DTEND:20270115T102500Z
 SUMMARY:SzS (ć)
-LOCATION:ŚNIEŻNIK
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T104000Z
 DTEND:20270115T121500Z
 SUMMARY:SzS (ć)
-LOCATION:ŚNIEŻNIK
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

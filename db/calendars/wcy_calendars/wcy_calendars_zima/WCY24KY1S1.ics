@@ -1670,13 +1670,6 @@ LOCATION:106 65
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr inż. Adam Patkowski, mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260922T075000Z
-DTEND:20260922T092500Z
-SUMMARY:Pk (Inne)
-LOCATION:085 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: Kamila Sirant
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260922T155000Z
 DTEND:20260922T172500Z
 SUMMARY:Etl (Inne)
@@ -1689,6 +1682,13 @@ DTEND:20261021T092500Z
 SUMMARY:MM (Inne)
 LOCATION:307 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T075000Z
+DTEND:20261022T092500Z
+SUMMARY:Pk (Inne)
+LOCATION:085 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: Kamila Sirant
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T104000Z

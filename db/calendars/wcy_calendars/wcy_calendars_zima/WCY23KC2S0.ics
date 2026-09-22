@@ -1393,14 +1393,14 @@ BEGIN:VEVENT
 DTSTART:20260508T075000Z
 DTEND:20260508T092500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
+LOCATION:ST.nr 1(KB)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
 DTEND:20260508T111500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
+LOCATION:ST.nr 1(KB)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2058,14 +2058,14 @@ BEGIN:VEVENT
 DTSTART:20260612T140000Z
 DTEND:20260612T153500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
+LOCATION:ST.nr 1(KB)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T155000Z
 DTEND:20260612T172500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
+LOCATION:ST.nr 1(KB)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2177,7 +2177,7 @@ BEGIN:VEVENT
 DTSTART:20260619T075000Z
 DTEND:20260619T092500Z
 SUMMARY:DSiSM (Inne)
-LOCATION:BIBL /22
+LOCATION:22 /BIBL
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2566,13 +2566,6 @@ LOCATION:203 65
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T155000Z
-DTEND:20261014T172500Z
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261015T060000Z
 DTEND:20261015T073500Z
 SUMMARY:AśW (w)
@@ -2604,14 +2597,14 @@ BEGIN:VEVENT
 DTSTART:20261016T075000Z
 DTEND:20261016T092500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC2)
+LOCATION:ST.nr 1(KSP)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T094000Z
 DTEND:20261016T111500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC2)
+LOCATION:ST.nr 1(KSP)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2732,13 +2725,6 @@ DTEND:20261021T153500Z
 SUMMARY:Ps (ć)
 LOCATION:201 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T155000Z
-DTEND:20261021T172500Z
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T075000Z
@@ -3035,13 +3021,6 @@ LOCATION:309 S
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T165000Z
-DTEND:20261104T182500Z
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
 SUMMARY:Ps (w)
@@ -3322,13 +3301,6 @@ LOCATION:236 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T165000Z
-DTEND:20261118T182500Z
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261119T070000Z
 DTEND:20261119T083500Z
 SUMMARY:WF (ć)
@@ -3353,14 +3325,14 @@ BEGIN:VEVENT
 DTSTART:20261120T070000Z
 DTEND:20261120T083500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T085000Z
 DTEND:20261120T102500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3481,13 +3453,6 @@ DTEND:20261125T140500Z
 SUMMARY:MPH (ć)
 LOCATION:203 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261125T165000Z
-DTEND:20261125T182500Z
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -4095,14 +4060,14 @@ BEGIN:VEVENT
 DTSTART:20270108T085000Z
 DTEND:20270108T102500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T104000Z
 DTEND:20270108T121500Z
 SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC1)
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4249,14 +4214,14 @@ BEGIN:VEVENT
 DTSTART:20270115T085000Z
 DTEND:20270115T102500Z
 SUMMARY:SzS (ć)
-LOCATION:ŚNIEŻNIK
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T104000Z
 DTEND:20270115T121500Z
 SUMMARY:SzS (ć)
-LOCATION:ŚNIEŻNIK
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

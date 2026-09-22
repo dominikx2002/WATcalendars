@@ -193,6 +193,13 @@ LOCATION:0.21/16
 DESCRIPTION:Dowodzenie pododdziałem logistycznym 15\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Gułaj Mariusz 17
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261214T085000Z
+DTEND:20261214T102500Z
+SUMMARY:PSLiPuiw (S)
+LOCATION:0.6/16
+DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych 38\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr inż. Kalwasiński Marek 39
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261221T085000Z
 DTEND:20261221T102500Z
 SUMMARY:BiESW (L)
@@ -2934,7 +2941,7 @@ DTSTART:20260108T085000Z
 DTEND:20260108T102500Z
 SUMMARY:PSLiPuiw (S)
 LOCATION:1.16/16
-DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych 38\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr inż. Kalwasiński Marek 39
+DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych 38\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr inż. Kalwasiński Marek 39
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T085000Z
@@ -3067,13 +3074,6 @@ DTSTART:20260108T104000Z
 DTEND:20260108T121500Z
 SUMMARY:PSLiPuiw (S)
 LOCATION:1.16/16
-DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych 38\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr inż. Kalwasiński Marek 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T104000Z
-DTEND:20260115T121500Z
-SUMMARY:PSLiPuiw (S)
-LOCATION:1.17/16
 DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych 38\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr inż. Kalwasiński Marek 39
 END:VEVENT
 BEGIN:VEVENT

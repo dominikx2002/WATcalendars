@@ -172,6 +172,13 @@ LOCATION:5.17/135
 DESCRIPTION:Fizyka 2 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: mgr inż. Przybysz Natalia 12
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261102T104000Z
+DTEND:20261102T121500Z
+SUMMARY:BiESTS (L)
+LOCATION:22/21
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Pogorzelski Ireneusz 5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T104000Z
 DTEND:20261109T121500Z
 SUMMARY:BiESTS (w)
@@ -778,7 +785,7 @@ DTSTART:20260126T123000Z
 DTEND:20260126T140500Z
 SUMMARY:BiESTS (L)
 LOCATION:22/21
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Radzimierski Mariusz 2
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Radzimierski Mariusz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T140000Z
@@ -1345,7 +1352,7 @@ DTSTART:20261112T070000Z
 DTEND:20261112T083500Z
 SUMMARY:BiESTS (L)
 LOCATION:22/21
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Pogorzelski Ireneusz 5
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Pogorzelski Ireneusz 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -1353,13 +1360,6 @@ DTEND:20261119T083500Z
 SUMMARY:OIN (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 Gr; 3/043 T
 DESCRIPTION:Ochrona informacji niejawnych 46\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz 47
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T070000Z
-DTEND:20261126T083500Z
-SUMMARY:BiESTS (L)
-LOCATION:22/21
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Pogorzelski Ireneusz 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
