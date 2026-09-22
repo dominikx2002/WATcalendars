@@ -39,7 +39,7 @@ Google, Outlooku czy Thunderbirdzie.
 
 ## Dla studentów
 
-Wejdź na **[watcalendars.byst.re](https://watcalendars.byst.re)**, wpisz
+Wejdź na **https://dominikx2002.github.io/WATcalendars/**, wpisz
 kod swojej grupy i kliknij *Dodaj do kalendarza*. To wszystko — plan
 pojawi się w telefonie i będzie się odświeżał bez Twojego udziału.
 
@@ -115,36 +115,9 @@ pytest                      # 79 testów, ~0.5 s
    core/pipeline.py  ← jeden przebieg wspólny dla wszystkich wydziałów
         │
         ├─ fetch/     http | browser | browser_slow | docx
-        ├─ parsers/   jeden moduł na wydział — tu wolno się różnić
+        ├─ parsers/   jeden moduł na wydział
         └─ store/     ics | groups | employees — wspólne dla wszystkich
 ```
-
-Zasada podziału: **wspólne jest pobieranie, orkiestracja i zapis, osobne
-tylko parsowanie**. ICS to jeden standard, więc duplikowanie zapisu
-oznaczałoby osiem identycznych poprawek przy każdej zmianie. HTML
-wydziałów naprawdę się różni i zmienia niezależnie — tam izolacja chroni
-pozostałe wydziały przed skutkami przebudowy jednej strony.
-
-### Dodanie wydziału
-
-Jeden plik `src/watcalendars/faculties/<kod>.py`:
-
-```python
-SPEC = FacultySpec(
-    code="xyz",
-    name="Wydział XYZ",
-    groups_url={"zima": "...", "lato": "..."},
-    schedule_url="https://.../{group}.htm",
-    parse_groups=plansoft.parse_groups,       # gotowy, jeśli Plansoft
-    parse_schedule=parsers.schedule.xyz.parse_schedule,
-    seasonal=True,
-    fetch_strategy="http",
-)
-```
-
-…plus jedna linia w `core/registry.py`. Żadnego nowego `main()`, writera,
-wpisu w `pyproject.toml` ani w workflow. `tests/test_specs.py` od razu
-sprawdzi, czy spec jest poprawny.
 
 ### Źródła danych
 
@@ -155,15 +128,6 @@ sprawdzi, czy spec jest poprawny.
 | IOE, WEL, WLO, WML, WTC | Plansoft za Imperva/Incapsula | przeglądarka |
 | WIG | dwupoziomowa lista Joomla → pliki `.docx` | przeglądarka |
 
-Sześć wydziałów publikuje przez **Plansoft.org**: `index.xml` z listą
-grup i `<GRUPA>.htm` z planem. Listę czytamy z XML-a, nie z widoku
-wyrenderowanego przez XSLT.
-
-> **WAT ma publiczne USOS API** (`usosapps.wat.edu.pl`), a metoda
-> `tt/classgroup_dates2` działa bez klucza — ale rozkłady są tam puste.
-> Planowanie zajęć odbywa się poza USOS-em i dlatego istnieje osiem
-> osobnych stron wydziałowych. Szczegóły w
-> [docs/architecture.md](docs/architecture.md).
 
 <br>
 
@@ -172,15 +136,6 @@ wyrenderowanego przez XSLT.
 Strona (`index.html`, `assets/`) serwuje się z **GitHub Pages prosto z
 tej gałęzi**, dzięki czemu pliki `.ics` leżą pod tym samym adresem —
 bez CORS, bez limitów API i bez osobnego hostingu.
-
-Włączenie (raz): *Settings → Pages → Deploy from a branch → `main`,
-katalog `/ (root)`*. Plik `.nojekyll` jest już w repo.
-
-Podgląd lokalny:
-
-```bash
-python3 -m http.server 8000     # http://localhost:8000
-```
 
 Strona czyta `db/calendars/index.json` — listę grup z liczbą zajęć,
 odświeżaną automatycznie po etapie `calendars`.
