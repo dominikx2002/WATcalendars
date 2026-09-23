@@ -1978,13 +1978,6 @@ LOCATION:252 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
-SUMMARY:Med (w)
-LOCATION:239 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T060000Z
 DTEND:20261002T073500Z
 SUMMARY:REG (w)
@@ -2107,7 +2100,14 @@ BEGIN:VEVENT
 DTSTART:20261008T094000Z
 DTEND:20261008T111500Z
 SUMMARY:Med (w)
-LOCATION:239 S
+LOCATION:226 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261008T113000Z
+DTEND:20261008T130500Z
+SUMMARY:Med (w)
+LOCATION:226 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
@@ -2473,6 +2473,13 @@ DTEND:20261028T140500Z
 SUMMARY:Med (w)
 LOCATION:313 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T150000Z
+DTEND:20261028T163500Z
+SUMMARY:Med (L)
+LOCATION:228 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T085000Z
@@ -2902,6 +2909,13 @@ LOCATION:307 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261119T070000Z
+DTEND:20261119T083500Z
+SUMMARY:Med (L)
+LOCATION:224 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261119T085000Z
 DTEND:20261119T102500Z
 SUMMARY:Ja (ć)
@@ -3203,6 +3217,13 @@ LOCATION:317 S
 DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261203T150000Z
+DTEND:20261203T163500Z
+SUMMARY:Med (L)
+LOCATION:228 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261204T085000Z
 DTEND:20261204T102500Z
 SUMMARY:WF (ć)
@@ -3313,6 +3334,13 @@ DTEND:20261209T140500Z
 SUMMARY:DGB (ć)
 LOCATION:-
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T070000Z
+DTEND:20261210T083500Z
+SUMMARY:Med (L)
+LOCATION:224 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T085000Z
@@ -3574,6 +3602,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 53/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261222T070000Z
+DTEND:20261222T083500Z
+SUMMARY:Med (L)
+LOCATION:223 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261222T085000Z
 DTEND:20261222T102500Z
 SUMMARY:Ao (w)
@@ -3742,6 +3777,13 @@ LOCATION:-
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270114T070000Z
+DTEND:20270114T083500Z
+SUMMARY:Med (L)
+LOCATION:226 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270114T085000Z
 DTEND:20270114T102500Z
 SUMMARY:Ja (ć)
@@ -3854,6 +3896,13 @@ LOCATION:203 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270121T123000Z
+DTEND:20270121T140500Z
+SUMMARY:Med (L)
+LOCATION:227 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270122T085000Z
 DTEND:20270122T102500Z
 SUMMARY:WF (ć)
@@ -3915,6 +3964,13 @@ DTEND:20270127T102500Z
 SUMMARY:Muma (w)
 LOCATION:313 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T104000Z
+DTEND:20270127T121500Z
+SUMMARY:Med (L)
+LOCATION:227 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T123000Z

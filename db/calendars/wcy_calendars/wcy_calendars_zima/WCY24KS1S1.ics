@@ -172,6 +172,13 @@ LOCATION:078 S
 DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261015T075000Z
+DTEND:20261015T092500Z
+SUMMARY:Wkkp (L)
+LOCATION:085 S
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261016T075000Z
 DTEND:20261016T092500Z
 SUMMARY:Bpe (w)
@@ -235,6 +242,13 @@ LOCATION:317 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:Ab (ć)
+LOCATION:085 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
 SUMMARY:PSy (w)
@@ -268,6 +282,20 @@ DTEND:20261022T130500Z
 SUMMARY:Ab (w)
 LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/20\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T070000Z
+DTEND:20261027T083500Z
+SUMMARY:Ab (L)
+LOCATION:085 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T085000Z
+DTEND:20261027T102500Z
+SUMMARY:Wkkp (L)
+LOCATION:085 S
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T104000Z
@@ -347,6 +375,20 @@ LOCATION:078 S
 DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261102T085000Z
+DTEND:20261102T102500Z
+SUMMARY:Kre (L)
+LOCATION:078 S
+DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T104000Z
+DTEND:20261102T121500Z
+SUMMARY:Ab (ć)
+LOCATION:085 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261103T070000Z
 DTEND:20261103T083500Z
 SUMMARY:PBI (w)
@@ -375,6 +417,13 @@ LOCATION:308 S
 DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261103T150000Z
+DTEND:20261103T163500Z
+SUMMARY:Nsk (ć)
+LOCATION:309 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261104T070000Z
 DTEND:20261104T083500Z
 SUMMARY:Ztk (w)
@@ -387,6 +436,13 @@ DTEND:20261104T102500Z
 SUMMARY:Wkkp (w)
 LOCATION:078 S
 DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T085000Z
+DTEND:20261105T102500Z
+SUMMARY:Wkkp (L)
+LOCATION:085 S
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
@@ -431,11 +487,25 @@ LOCATION:314 S
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261110T085000Z
+DTEND:20261110T102500Z
+SUMMARY:Wkkp (L)
+LOCATION:085 S
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:ZKwI (w)
 LOCATION:317 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T123000Z
+DTEND:20261110T140500Z
+SUMMARY:Kre (L)
+LOCATION:085 S
+DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -506,6 +576,34 @@ DTEND:20261117T121500Z
 SUMMARY:ZKwI (w)
 LOCATION:317 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T123000Z
+DTEND:20261117T140500Z
+SUMMARY:Ab (L)
+LOCATION:085 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T150000Z
+DTEND:20261117T163500Z
+SUMMARY:Nsk (ć)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T070000Z
+DTEND:20261118T083500Z
+SUMMARY:Wkkp (L)
+LOCATION:085 S
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T085000Z
+DTEND:20261118T102500Z
+SUMMARY:Ab (ć)
+LOCATION:085 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T085000Z
@@ -585,6 +683,13 @@ LOCATION:120 65
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261125T085000Z
 DTEND:20261125T102500Z
 SUMMARY:Ztk (w)
@@ -597,6 +702,13 @@ DTEND:20261126T121500Z
 SUMMARY:Ab (w)
 LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 12/20\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T123000Z
+DTEND:20261126T140500Z
+SUMMARY:Kre (L)
+LOCATION:085 S
+DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T165000Z
@@ -655,6 +767,13 @@ LOCATION:078 S
 DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261203T085000Z
+DTEND:20261203T102500Z
+SUMMARY:Kre (L)
+LOCATION:085 S
+DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261203T104000Z
 DTEND:20261203T121500Z
 SUMMARY:PZiP (ć)
@@ -681,6 +800,20 @@ DTEND:20261204T121500Z
 SUMMARY:PSy (w)
 LOCATION:316 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T070000Z
+DTEND:20261207T083500Z
+SUMMARY:Ab (L)
+LOCATION:085 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T085000Z
+DTEND:20261207T102500Z
+SUMMARY:Kre (L)
+LOCATION:078 S
+DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T104000Z
@@ -746,6 +879,13 @@ LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 16/20\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261211T104000Z
+DTEND:20261211T121500Z
+SUMMARY:Wkkp (L)
+LOCATION:085 S
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261214T085000Z
 DTEND:20261214T102500Z
 SUMMARY:Ab (w)
@@ -767,11 +907,39 @@ LOCATION:085 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261215T104000Z
+DTEND:20261215T121500Z
+SUMMARY:Ab (ć)
+LOCATION:085 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:Ztk (L)
 LOCATION:078 S
 DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:Nsk (ć)
+LOCATION:309 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T121500Z
+SUMMARY:Wkkp (L)
+LOCATION:085 S
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T104000Z
+DTEND:20261217T121500Z
+SUMMARY:Kre (L)
+LOCATION:085 S
+DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T123000Z
@@ -786,6 +954,13 @@ DTEND:20261218T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T070000Z
+DTEND:20261221T083500Z
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T085000Z
@@ -821,6 +996,13 @@ DTEND:20270107T182500Z
 SUMMARY:PZiP (ć)
 LOCATION:307 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T085000Z
+DTEND:20270111T102500Z
+SUMMARY:Nsk (ć)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270111T104000Z
@@ -893,6 +1075,20 @@ LOCATION:309 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270118T070000Z
+DTEND:20270118T083500Z
+SUMMARY:Nsk (ć)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T085000Z
+DTEND:20270118T102500Z
+SUMMARY:Wkkp (L)
+LOCATION:085 S
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270118T104000Z
 DTEND:20270118T121500Z
 SUMMARY:PSy (L)
@@ -921,11 +1117,39 @@ LOCATION:078 S
 DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270120T123000Z
+DTEND:20270120T140500Z
+SUMMARY:Ab (ć)
+LOCATION:085 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T104000Z
+DTEND:20270121T121500Z
+SUMMARY:Ab (L)
+LOCATION:085 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270122T070000Z
 DTEND:20270122T083500Z
 SUMMARY:PZiP (w)
 LOCATION:316 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T085000Z
+DTEND:20270122T102500Z
+SUMMARY:Kre (L)
+LOCATION:085 S
+DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270125T085000Z
+DTEND:20270125T102500Z
+SUMMARY:Nsk (ć)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270125T104000Z
@@ -975,5 +1199,12 @@ DTEND:20270128T102500Z
 SUMMARY:PBI (L)
 LOCATION:011 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/4\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T104000Z
+DTEND:20270128T121500Z
+SUMMARY:Ab (ć)
+LOCATION:-
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 END:VCALENDAR

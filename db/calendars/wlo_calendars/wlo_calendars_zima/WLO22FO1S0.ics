@@ -249,13 +249,6 @@ LOCATION:
 DESCRIPTION:Budowa i eksploatacja sprzętu wojskowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: ppłk dr inż. Szmit Łukasz 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261102T104000Z
-DTEND:20261102T121500Z
-SUMMARY:BiESW (ć)
-LOCATION:
-DESCRIPTION:Budowa i eksploatacja sprzętu wojskowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: ppłk dr inż. Szmit Łukasz 3
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261109T104000Z
 DTEND:20261109T121500Z
 SUMMARY:REG (w)
@@ -2634,6 +2627,13 @@ DTEND:20261105T163500Z
 SUMMARY:Spulo (w)
 LOCATION:0.24/135
 DESCRIPTION:Specjalistyczne usługi logistyczne 51\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Sobczak Iwona 52
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T150000Z
+DTEND:20261112T163500Z
+SUMMARY:BiESW (ć)
+LOCATION:
+DESCRIPTION:Budowa i eksploatacja sprzętu wojskowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: ppłk dr inż. Szmit Łukasz 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T150000Z

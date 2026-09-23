@@ -1887,13 +1887,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 51/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260107T070000Z
-DTEND:20260107T083500Z
-SUMMARY:App (S)
-LOCATION:5/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260114T070000Z
 DTEND:20260114T083500Z
 SUMMARY:Peks (ć)
@@ -1982,7 +1975,7 @@ DTSTART:20260107T085000Z
 DTEND:20260107T102500Z
 SUMMARY:App (S)
 LOCATION:5/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T085000Z
@@ -2039,6 +2032,13 @@ DTEND:20261119T121500Z
 SUMMARY:IEP. (w)
 LOCATION:42/ 20
 DESCRIPTION:Introduction to Elasticity Theory\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: dr inż. Morka Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T104000Z
+DTEND:20261126T121500Z
+SUMMARY:App (S)
+LOCATION:15/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z

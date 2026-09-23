@@ -832,9 +832,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T104000Z
 DTEND:20260113T121500Z
-SUMMARY:Mi (ć)
+SUMMARY:Pz (ć)
 LOCATION:0.22/16
-DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: dr Owczarczyk Anna 10
+DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: dr Woźniak Jacek 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T104000Z
@@ -862,7 +862,7 @@ DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:Mi (ć)
 LOCATION:1.17/16
-DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: dr Owczarczyk Anna 10
+DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: dr Owczarczyk Anna 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T123000Z
@@ -890,7 +890,7 @@ DTSTART:20260120T123000Z
 DTEND:20260120T140500Z
 SUMMARY:Mi (ć)
 LOCATION:0.8/16
-DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: dr Owczarczyk Anna 10
+DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: dr Owczarczyk Anna 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T123000Z
@@ -918,14 +918,14 @@ DTSTART:20261209T150000Z
 DTEND:20261209T163500Z
 SUMMARY:Mi (ć)
 LOCATION:1.17/16
-DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: dr Owczarczyk Anna 10
+DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: dr Owczarczyk Anna 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T150000Z
 DTEND:20261216T163500Z
 SUMMARY:Pz (ć)
 LOCATION:4.23/135
-DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: dr Woźniak Jacek 26
+DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr Woźniak Jacek 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T150000Z
@@ -935,18 +935,11 @@ LOCATION:0.24/135
 DESCRIPTION:Prawo 28\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Kobielski Piotr 29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260113T150000Z
-DTEND:20260113T163500Z
-SUMMARY:Pz (ć)
-LOCATION:0.6/16
-DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr Woźniak Jacek 26
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260120T150000Z
 DTEND:20260120T163500Z
 SUMMARY:Mi (ć)
 LOCATION:0.8/16
-DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: dr Owczarczyk Anna 10
+DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: dr Owczarczyk Anna 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T165000Z
@@ -1037,7 +1030,7 @@ DTSTART:20261105T085000Z
 DTEND:20261105T102500Z
 SUMMARY:Mi (ć)
 LOCATION:0.8/16
-DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: dr Owczarczyk Anna 10
+DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: dr Owczarczyk Anna 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T085000Z
@@ -1107,14 +1100,14 @@ DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
 SUMMARY:Mi (ć)
 LOCATION:0.8/16
-DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: dr Owczarczyk Anna 10
+DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: dr Owczarczyk Anna 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z
 DTEND:20261126T121500Z
 SUMMARY:Mi (ć)
 LOCATION:1.27/135
-DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: dr Owczarczyk Anna 10
+DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: dr Owczarczyk Anna 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
@@ -1142,6 +1135,13 @@ DTSTART:20260107T104000Z
 DTEND:20260107T121500Z
 SUMMARY:Mi (ć)
 LOCATION:4.23/135
+DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: dr Owczarczyk Anna 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T104000Z
+DTEND:20260114T121500Z
+SUMMARY:Mi (ć)
+LOCATION:0.28/135
 DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: dr Owczarczyk Anna 10
 END:VEVENT
 BEGIN:VEVENT

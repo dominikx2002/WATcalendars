@@ -1565,13 +1565,6 @@ LOCATION:2/ 23A
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261223T123000Z
-DTEND:20261223T140500Z
-SUMMARY:App (S)
-LOCATION:6/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261230T123000Z
 DTEND:20261230T140500Z
 SUMMARY:I 
@@ -2095,6 +2088,13 @@ DTEND:20261203T140500Z
 SUMMARY:Et. (ć)
 LOCATION:42/ 20
 DESCRIPTION:Ekonomika transportu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: inż. Kochański Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T123000Z
+DTEND:20261210T140500Z
+SUMMARY:App (S)
+LOCATION:42/ 20
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T123000Z

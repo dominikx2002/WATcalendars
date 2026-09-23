@@ -599,6 +599,13 @@ LOCATION:187 S
 DESCRIPTION:Komunikacja społeczna 14\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr Bryczek-Wróbel Patrycja 15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260119T123000Z
+DTEND:20260119T140500Z
+SUMMARY:Ocgr.Lud.i 
+LOCATION:0.19/135
+DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr hab. Stochaj Justyna 18
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261013T140000Z
 DTEND:20261013T153500Z
 SUMMARY:Bin (w)
@@ -709,13 +716,6 @@ DTEND:20261118T102500Z
 SUMMARY:Pi (L)
 LOCATION:0.8/16
 DESCRIPTION:Podstawy informatyki 20\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Pokorski Grzegorz 21
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T085000Z
-DTEND:20261216T102500Z
-SUMMARY:Ocgr.Lud.i 
-LOCATION:1.17/16
-DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr hab. Stochaj Justyna 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T085000Z
@@ -886,13 +886,6 @@ LOCATION:54E
 DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 10/21\nProwadzący: dr hab. Stochaj Justyna 18
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T123000Z
-DTEND:20261125T140500Z
-SUMMARY:Ocgr.Lud.i 
-LOCATION:187 S
-DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 10/19\nProwadzący: dr hab. Stochaj Justyna 18
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
 SUMMARY:Pi (L)
@@ -963,6 +956,13 @@ LOCATION:1.9/16
 DESCRIPTION:Podstawy informatyki 20\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Pokorski Grzegorz 21
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260107T070000Z
+DTEND:20260107T083500Z
+SUMMARY:Plog (w)
+LOCATION:1.9/16
+DESCRIPTION:Podstawy logistyki 23\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: prof.dr hab. Mitkow Szymon 24
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260121T070000Z
 DTEND:20260121T083500Z
 SUMMARY:Teo. 
@@ -970,11 +970,18 @@ LOCATION:25RX; 1S; 25RX; 2S; 1 Goc
 DESCRIPTION:Teo.\nRodzaj zajęć: -\nNumer zajęć: 10/19
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261105T085000Z
+DTEND:20261105T102500Z
+SUMMARY:PODST. 
+LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr hab. Zalewski Jerzy 3
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261126T085000Z
 DTEND:20261126T102500Z
 SUMMARY:Ocgr.Lud.i 
 LOCATION:25RX; 1S; 25RX; 2S; 1 JS; 7a
-DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 11/19\nProwadzący: dr Bryczek-Wróbel Patrycja 2
+DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 10/19\nProwadzący: dr Bryczek-Wróbel Patrycja 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T085000Z
@@ -988,7 +995,7 @@ DTSTART:20261217T085000Z
 DTEND:20261217T102500Z
 SUMMARY:Ocgr.Lud.i 
 LOCATION:187 S
-DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: dr hab. Stochaj Justyna 18
+DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 11/19\nProwadzący: dr hab. Stochaj Justyna 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T085000Z
@@ -1016,7 +1023,7 @@ DTSTART:20260128T085000Z
 DTEND:20260128T102500Z
 SUMMARY:Ocgr.Lud.i 
 LOCATION:187 S
-DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 13/19\nProwadzący: dr hab. Stochaj Justyna 18
+DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: dr hab. Stochaj Justyna 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T094000Z
@@ -1051,14 +1058,14 @@ DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:PODST. 
 LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr hab. Zalewski Jerzy 3
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: dr hab. Zalewski Jerzy 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z
 DTEND:20261126T121500Z
 SUMMARY:Ocgr.Lud.i 
 LOCATION:25RX; 1S; 25RX; 2S; 1 JS; 7a
-DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 14/19\nProwadzący: dr Bryczek-Wróbel Patrycja 2
+DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 13/19\nProwadzący: dr Bryczek-Wróbel Patrycja 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
@@ -1072,21 +1079,21 @@ DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
 SUMMARY:Ocgr.Lud.i 
 LOCATION:25RX; 1S; 25RX; 2S; 1 JS; 7a
-DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 15/19\nProwadzący: dr Bryczek-Wróbel Patrycja 2
+DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 14/19\nProwadzący: dr Bryczek-Wróbel Patrycja 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:Ocgr.Lud.i 
 LOCATION:25RX; 1S; 25RX; 2S; 1 JS; 7a
-DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr Bryczek-Wróbel Patrycja 2
+DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 15/19\nProwadzący: dr Bryczek-Wróbel Patrycja 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T104000Z
 DTEND:20260107T121500Z
 SUMMARY:Ocgr.Lud.i 
 LOCATION:1.27/135
-DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: dr hab. Stochaj Justyna 18
+DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr hab. Stochaj Justyna 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T104000Z
@@ -1122,13 +1129,6 @@ DTEND:20260218T121500Z
 SUMMARY:SZK (Ep)
 LOCATION:7a
 DESCRIPTION:System zarzadzania kryzysowego 34\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Bryczek-Wróbel Patrycja 35; dr Bryczek-Wróbel Patrycja
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T113000Z
-DTEND:20261008T130500Z
-SUMMARY:PODST. 
-LOCATION:25RX; 2S; 1 D; 5.27/STRZELNICA
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: dr hab. Zalewski Jerzy 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T113000Z
@@ -1184,7 +1184,7 @@ DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
 SUMMARY:Ocgr.Lud.i 
 LOCATION:25RX; 1S; 25RX; 2S; 1 JS; 7a
-DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 18/19\nProwadzący: dr Bryczek-Wróbel Patrycja 2
+DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: dr Bryczek-Wróbel Patrycja 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T123000Z
@@ -1380,7 +1380,7 @@ DTSTART:20261023T075000Z
 DTEND:20261023T092500Z
 SUMMARY:Ocgr.Lud.i 
 LOCATION:25RX; 1S; 25RX; 2S; 1 JS; 7a
-DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 19/19\nProwadzący: dr Bryczek-Wróbel Patrycja 2
+DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 18/19\nProwadzący: dr Bryczek-Wróbel Patrycja 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T085000Z
@@ -1408,21 +1408,21 @@ DTSTART:20261211T085000Z
 DTEND:20261211T102500Z
 SUMMARY:Plog (w)
 LOCATION:7a
-DESCRIPTION:Podstawy logistyki 23\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: prof.dr hab. Mitkow Szymon 24; prof.dr hab. Mitkow Szymon
+DESCRIPTION:Podstawy logistyki 23\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: prof.dr hab. Mitkow Szymon 24; prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T085000Z
 DTEND:20261218T102500Z
 SUMMARY:Plog (w)
 LOCATION:7a
-DESCRIPTION:Podstawy logistyki 23\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: prof.dr hab. Mitkow Szymon 24; prof.dr hab. Mitkow Szymon
+DESCRIPTION:Podstawy logistyki 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: prof.dr hab. Mitkow Szymon 24; prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T085000Z
 DTEND:20260108T102500Z
 SUMMARY:Plog (w)
 LOCATION:7a
-DESCRIPTION:Podstawy logistyki 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: prof.dr hab. Mitkow Szymon 24; prof.dr hab. Mitkow Szymon
+DESCRIPTION:Podstawy logistyki 23\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: prof.dr hab. Mitkow Szymon 24; prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T085000Z
@@ -1437,13 +1437,6 @@ DTEND:20260122T102500Z
 SUMMARY:Teo. 
 LOCATION:187 S
 DESCRIPTION:Teo.\nRodzaj zajęć: -\nNumer zajęć: 18/19\nProwadzący: mgr Moszczyński Maciej 7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261009T094000Z
-DTEND:20261009T111500Z
-SUMMARY:Plog (w)
-LOCATION:0.19/135
-DESCRIPTION:Podstawy logistyki 23\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: prof.dr hab. Mitkow Szymon 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T094000Z
@@ -1507,6 +1500,13 @@ DTEND:20261106T140500Z
 SUMMARY:Pi (L)
 LOCATION:1.16/16
 DESCRIPTION:Podstawy informatyki 20\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Pokorski Grzegorz 21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T123000Z
+DTEND:20261113T140500Z
+SUMMARY:Ocgr.Lud.i 
+LOCATION:0.28/135
+DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 19/19\nProwadzący: dr hab. Stochaj Justyna 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T123000Z

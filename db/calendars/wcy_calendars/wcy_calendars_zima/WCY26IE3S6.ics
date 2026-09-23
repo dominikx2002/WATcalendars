@@ -186,13 +186,6 @@ LOCATION:120 65
 DESCRIPTION:Niezawodność i bezpieczeństwo sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T104000Z
-DTEND:20261201T121500Z
-SUMMARY:StS (w)
-LOCATION:101 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Maciej Marczyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261202T070000Z
 DTEND:20261202T083500Z
 SUMMARY:Zsk (w)
@@ -239,14 +232,14 @@ DTSTART:20261204T070000Z
 DTEND:20261204T083500Z
 SUMMARY:StS (w)
 LOCATION:101 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T085000Z
 DTEND:20261204T102500Z
 SUMMARY:StS (w)
 LOCATION:101 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T070000Z
@@ -254,6 +247,13 @@ DTEND:20261207T083500Z
 SUMMARY:NLan (w)
 LOCATION:101 65
 DESCRIPTION:Niezawodność i bezpieczeństwo sieci LAN\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T085000Z
+DTEND:20261207T102500Z
+SUMMARY:StS (w)
+LOCATION:313 S
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T104000Z

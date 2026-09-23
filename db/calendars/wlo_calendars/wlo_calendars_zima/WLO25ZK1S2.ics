@@ -354,6 +354,13 @@ LOCATION:1003 HIL
 DESCRIPTION:Praktyka działań kadrowych 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: dr Piotrkowski Kazimierz 14
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260112T085000Z
+DTEND:20260112T102500Z
+SUMMARY:Hg (ć)
+LOCATION:1003 HIL
+DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260119T085000Z
 DTEND:20260119T102500Z
 SUMMARY:Zkre (ć)
@@ -407,7 +414,7 @@ DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Hg (ć)
 LOCATION:1003 HIL
-DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
+DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
@@ -464,6 +471,13 @@ DTEND:20261222T121500Z
 SUMMARY:Pdk (ć)
 LOCATION:1003 HIL
 DESCRIPTION:Praktyka działań kadrowych 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: dr Piotrkowski Kazimierz 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T104000Z
+DTEND:20260112T121500Z
+SUMMARY:Hg (ć)
+LOCATION:1003 HIL
+DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T104000Z
@@ -613,6 +627,13 @@ LOCATION:4.23/135
 DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261215T150000Z
+DTEND:20261215T163500Z
+SUMMARY:Hg (ć)
+LOCATION:0.19/135
+DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261222T150000Z
 DTEND:20261222T163500Z
 SUMMARY:Mm (ć)
@@ -746,13 +767,6 @@ LOCATION:1003 HIL
 DESCRIPTION:Praktyka działań kadrowych 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: dr Piotrkowski Kazimierz 14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T085000Z
-DTEND:20261216T102500Z
-SUMMARY:Hg (ć)
-LOCATION:1003 HIL
-DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261223T085000Z
 DTEND:20261223T102500Z
 SUMMARY:Pdk (ć)
@@ -841,7 +855,7 @@ DTSTART:20261223T104000Z
 DTEND:20261223T121500Z
 SUMMARY:Hg (ć)
 LOCATION:1b/28
-DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
+DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T104000Z
@@ -907,13 +921,6 @@ LOCATION:1003 HIL
 DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T123000Z
-DTEND:20261125T140500Z
-SUMMARY:Hg (ć)
-LOCATION:1002 HIL
-DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:Zwf (ć)
@@ -932,7 +939,7 @@ DTSTART:20261223T123000Z
 DTEND:20261223T140500Z
 SUMMARY:Hg (ć)
 LOCATION:1b/28
-DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
+DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T123000Z
@@ -961,13 +968,6 @@ DTEND:20261028T163500Z
 SUMMARY:Neg (w)
 LOCATION:0.6/16
 DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Kasperski Marian 11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261125T150000Z
-DTEND:20261125T163500Z
-SUMMARY:Hg (ć)
-LOCATION:1002 HIL
-DESCRIPTION:Historia gospodarcza 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T150000Z

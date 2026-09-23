@@ -2181,6 +2181,13 @@ LOCATION:308 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261009T140000Z
+DTEND:20261009T153500Z
+SUMMARY:Tuim (L)
+LOCATION:226 S
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261009T174000Z
 DTEND:20261009T191500Z
 SUMMARY:- (S.Sz.W.)
@@ -2384,6 +2391,13 @@ LOCATION:309 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:Miar (ć)
+LOCATION:227 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
 SUMMARY:Ps (w)
@@ -2438,6 +2452,13 @@ DTEND:20261023T092500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/47\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T140000Z
+DTEND:20261023T153500Z
+SUMMARY:Tuim (L)
+LOCATION:223 S
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T174000Z
@@ -2543,6 +2564,13 @@ DTEND:20261028T163500Z
 SUMMARY:Tuim (w)
 LOCATION:313 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T070000Z
+DTEND:20261029T083500Z
+SUMMARY:Miar (ć)
+LOCATION:227 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T085000Z
@@ -2678,6 +2706,20 @@ LOCATION:309 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261103T150000Z
+DTEND:20261103T163500Z
+SUMMARY:Med (L)
+LOCATION:224 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T070000Z
+DTEND:20261104T083500Z
+SUMMARY:Miar (ć)
+LOCATION:228 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261104T085000Z
 DTEND:20261104T102500Z
 SUMMARY:Ps (w)
@@ -2746,6 +2788,13 @@ DTEND:20261106T140500Z
 SUMMARY:BbD (L)
 LOCATION:228 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T150000Z
+DTEND:20261106T163500Z
+SUMMARY:Tuim (L)
+LOCATION:227 S
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T184000Z
@@ -2818,6 +2867,13 @@ LOCATION:309 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261112T070000Z
+DTEND:20261112T083500Z
+SUMMARY:Med (L)
+LOCATION:223 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T085000Z
 DTEND:20261112T102500Z
 SUMMARY:Ja (ć)
@@ -2867,6 +2923,13 @@ LOCATION:233 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261113T150000Z
+DTEND:20261113T163500Z
+SUMMARY:Tuim (L)
+LOCATION:228 S
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261113T184000Z
 DTEND:20261113T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -2879,6 +2942,13 @@ DTEND:20261114T083500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T070000Z
+DTEND:20261116T083500Z
+SUMMARY:Miar (L)
+LOCATION:236 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T085000Z
@@ -3035,6 +3105,13 @@ LOCATION:204 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261123T085000Z
+DTEND:20261123T102500Z
+SUMMARY:Miar (L)
+LOCATION:252 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261123T104000Z
 DTEND:20261123T121500Z
 SUMMARY:Ja (ć)
@@ -3089,6 +3166,13 @@ DTEND:20261124T140500Z
 SUMMARY:BbD (L)
 LOCATION:237 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:Med (L)
+LOCATION:227 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T085000Z
@@ -3154,6 +3238,13 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261130T085000Z
+DTEND:20261130T102500Z
+SUMMARY:Miar (L)
+LOCATION:252 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261130T104000Z
 DTEND:20261130T121500Z
 SUMMARY:Ja (ć)
@@ -3187,6 +3278,13 @@ DTEND:20261201T083500Z
 SUMMARY:Med (w)
 LOCATION:309 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T085000Z
+DTEND:20261201T102500Z
+SUMMARY:Med (L)
+LOCATION:227 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T070000Z
@@ -3266,6 +3364,13 @@ LOCATION:0.28/ 135
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261204T150000Z
+DTEND:20261204T163500Z
+SUMMARY:Tuim (L)
+LOCATION:236 S
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261204T184000Z
 DTEND:20261204T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -3320,6 +3425,13 @@ DTEND:20261208T102500Z
 SUMMARY:BbD (L)
 LOCATION:236 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T104000Z
+DTEND:20261208T121500Z
+SUMMARY:Med (L)
+LOCATION:226 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
@@ -3425,6 +3537,13 @@ DTEND:20261212T083500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T070000Z
+DTEND:20261214T083500Z
+SUMMARY:Miar (L)
+LOCATION:227 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T085000Z
@@ -3553,6 +3672,13 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261221T070000Z
+DTEND:20261221T083500Z
+SUMMARY:Miar (L)
+LOCATION:227 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261221T085000Z
 DTEND:20261221T102500Z
 SUMMARY:Ps (ć)
@@ -3600,6 +3726,13 @@ DTEND:20261222T102500Z
 SUMMARY:Msz (L)
 LOCATION:224 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T104000Z
+DTEND:20261222T121500Z
+SUMMARY:Med (L)
+LOCATION:227 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
@@ -3763,6 +3896,20 @@ LOCATION:203 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270113T123000Z
+DTEND:20270113T140500Z
+SUMMARY:Med (L)
+LOCATION:228 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T150000Z
+DTEND:20270113T163500Z
+SUMMARY:Miar (L)
+LOCATION:224 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270114T070000Z
 DTEND:20270114T083500Z
 SUMMARY:wzbnim (ć)
@@ -3882,6 +4029,13 @@ LOCATION:204 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270121T070000Z
+DTEND:20270121T083500Z
+SUMMARY:Med (L)
+LOCATION:226 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270121T085000Z
 DTEND:20270121T102500Z
 SUMMARY:Ja (ć)
@@ -3931,6 +4085,13 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270125T070000Z
+DTEND:20270125T083500Z
+SUMMARY:Med (L)
+LOCATION:224 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270125T104000Z
 DTEND:20270125T121500Z
 SUMMARY:Ja (ć)
@@ -3971,6 +4132,13 @@ DTEND:20270127T102500Z
 SUMMARY:Muma (w)
 LOCATION:313 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T104000Z
+DTEND:20270127T121500Z
+SUMMARY:Miar (L)
+LOCATION:228 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T123000Z

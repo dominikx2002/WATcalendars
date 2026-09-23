@@ -1092,8 +1092,8 @@ BEGIN:VEVENT
 DTSTART:20261001T140000Z
 DTEND:20261001T153500Z
 SUMMARY:Historyczne 
-LOCATION:26PX; 3S; 26PX; 4S; 26PX; 1S; 26PX; 2S; 1 WoJ
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 1/23\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7; prof. dr hab. Kościelecki Lech 2
+LOCATION:0.24/135
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 1/23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T140000Z
@@ -1148,8 +1148,8 @@ BEGIN:VEVENT
 DTSTART:20261001T155000Z
 DTEND:20261001T172500Z
 SUMMARY:Historyczne 
-LOCATION:26PX; 3S; 26PX; 4S; 26PX; 1S; 26PX; 2S; 1 WoJ
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 3/23\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7; prof. dr hab. Kościelecki Lech 2
+LOCATION:0.24/135
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 3/23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T155000Z

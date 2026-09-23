@@ -2657,6 +2657,13 @@ LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 40/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261103T150000Z
+DTEND:20261103T163500Z
+SUMMARY:PBI (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261104T104000Z
 DTEND:20261104T121500Z
 SUMMARY:Wek (w)
@@ -3021,6 +3028,13 @@ LOCATION:317 S
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261120T150000Z
+DTEND:20261120T163500Z
+SUMMARY:PBI (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261121T085000Z
 DTEND:20261121T102500Z
 SUMMARY:XWF (ć)
@@ -3320,6 +3334,13 @@ DTEND:20261207T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 50/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T150000Z
+DTEND:20261207T163500Z
+SUMMARY:PBI (L)
+LOCATION:223 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T104000Z
@@ -3665,6 +3686,13 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270111T104000Z
+DTEND:20270111T121500Z
+SUMMARY:PBI (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270111T123000Z
 DTEND:20270111T140500Z
 SUMMARY:WF (ć)
@@ -3887,6 +3915,13 @@ DTEND:20270125T083500Z
 SUMMARY:GMiB (Inne)
 LOCATION:22 /BIBL
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270125T104000Z
+DTEND:20270125T121500Z
+SUMMARY:PBI (L)
+LOCATION:233 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270125T123000Z

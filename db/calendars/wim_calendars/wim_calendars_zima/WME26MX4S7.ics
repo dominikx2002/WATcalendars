@@ -4,13 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WME26MX4S7
 BEGIN:VEVENT
-DTSTART:20261026T070000Z
-DTEND:20261026T083500Z
-SUMMARY:Msme (w)
-LOCATION:12/ 62
-DESCRIPTION:Multibody simulation in mechanical engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Świerczewski Marek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261102T070000Z
 DTEND:20261102T083500Z
 SUMMARY:MTD (w)
@@ -127,14 +120,14 @@ DTSTART:20261102T104000Z
 DTEND:20261102T121500Z
 SUMMARY:Msme (w)
 LOCATION:12/ 62
-DESCRIPTION:Multibody simulation in mechanical engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Multibody simulation in mechanical engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T104000Z
 DTEND:20261109T121500Z
 SUMMARY:Msme (w)
 LOCATION:12/ 62
-DESCRIPTION:Multibody simulation in mechanical engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Multibody simulation in mechanical engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T104000Z
@@ -204,7 +197,7 @@ DTSTART:20261109T123000Z
 DTEND:20261109T140500Z
 SUMMARY:Msme (w)
 LOCATION:12/ 62
-DESCRIPTION:Multibody simulation in mechanical engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Multibody simulation in mechanical engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T123000Z
@@ -697,13 +690,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 34/132
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T085000Z
-DTEND:20261028T102500Z
-SUMMARY:Msme (w)
-LOCATION:12/ 62
-DESCRIPTION:Multibody simulation in mechanical engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Świerczewski Marek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261104T085000Z
 DTEND:20261104T102500Z
 SUMMARY:Msme (L)
@@ -795,6 +781,13 @@ LOCATION:5/ 23A
 DESCRIPTION:Construction of military vehicles\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr inż. Papliński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:Msme (w)
+LOCATION:12/ 62
+DESCRIPTION:Multibody simulation in mechanical engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Świerczewski Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261202T104000Z
 DTEND:20261202T121500Z
 SUMMARY:Cmv (w)
@@ -856,6 +849,13 @@ DTEND:20261118T140500Z
 SUMMARY:MTD (ć)
 LOCATION:42/ 62
 DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:Msme (w)
+LOCATION:12/ 62
+DESCRIPTION:Multibody simulation in mechanical engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T123000Z

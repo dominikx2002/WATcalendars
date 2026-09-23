@@ -452,6 +452,13 @@ LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261022T113000Z
+DTEND:20261022T130500Z
+SUMMARY:WdI (L)
+LOCATION:236 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261022T140000Z
 DTEND:20261022T153500Z
 SUMMARY:PGI (ć)
@@ -578,13 +585,6 @@ LOCATION:313 S
 DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T165000Z
-DTEND:20261027T182500Z
-SUMMARY:M II (ć)
-LOCATION:307 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/17\nProwadzący: dr Paweł Lubowiecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
 SUMMARY:PoCy (w)
@@ -625,6 +625,13 @@ DTEND:20261029T121500Z
 SUMMARY:MD1 (w)
 LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T123000Z
+DTEND:20261029T140500Z
+SUMMARY:WdI (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T085000Z
@@ -676,11 +683,11 @@ LOCATION:1 55A
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261102T150000Z
-DTEND:20261102T163500Z
+DTSTART:20261102T123000Z
+DTEND:20261102T140500Z
 SUMMARY:M II (ć)
-LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: dr Paweł Lubowiecki
+LOCATION:314 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/17\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T184000Z
@@ -816,10 +823,10 @@ LOCATION:AW 3/043
 DESCRIPTION:Obrona powietrzna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261109T150000Z
-DTEND:20261109T163500Z
+DTSTART:20261109T123000Z
+DTEND:20261109T140500Z
 SUMMARY:Mat I (ć)
-LOCATION:308 S
+LOCATION:087 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/19\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
@@ -855,7 +862,7 @@ DTSTART:20261110T123000Z
 DTEND:20261110T140500Z
 SUMMARY:M II (ć)
 LOCATION:237 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: dr Paweł Lubowiecki
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -863,6 +870,13 @@ DTEND:20261112T083500Z
 SUMMARY:WdI (w)
 LOCATION:316 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T085000Z
+DTEND:20261112T102500Z
+SUMMARY:WdI (L)
+LOCATION:237 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T104000Z
@@ -961,6 +975,13 @@ DTEND:20261117T121500Z
 SUMMARY:Mat I (w)
 LOCATION:313 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr Paweł Lubowiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T123000Z
+DTEND:20261117T140500Z
+SUMMARY:M II (ć)
+LOCATION:087 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T150000Z
@@ -1138,13 +1159,6 @@ LOCATION:308 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/19\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T165000Z
-DTEND:20261124T182500Z
-SUMMARY:M II (ć)
-LOCATION:307 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr Paweł Lubowiecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:WDM (ć)
@@ -1178,6 +1192,13 @@ DTEND:20261126T083500Z
 SUMMARY:MD1 (ć)
 LOCATION:316 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T104000Z
+DTEND:20261126T121500Z
+SUMMARY:WdI (L)
+LOCATION:237 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T070000Z
@@ -1257,13 +1278,6 @@ LOCATION:308 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T165000Z
-DTEND:20261201T182500Z
-SUMMARY:M II (ć)
-LOCATION:307 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr Paweł Lubowiecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261202T070000Z
 DTEND:20261202T083500Z
 SUMMARY:PGI (ć)
@@ -1290,6 +1304,13 @@ DTEND:20261202T140500Z
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T070000Z
+DTEND:20261203T083500Z
+SUMMARY:WdI (L)
+LOCATION:224 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
@@ -1394,7 +1415,14 @@ DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
 SUMMARY:M II (ć)
 LOCATION:317 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr Paweł Lubowiecki
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr Paweł Lubowiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T070000Z
+DTEND:20261210T083500Z
+SUMMARY:WdI (L)
+LOCATION:226 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T085000Z
@@ -1509,13 +1537,6 @@ LOCATION:308 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T165000Z
-DTEND:20261215T182500Z
-SUMMARY:M II (ć)
-LOCATION:307 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: dr Paweł Lubowiecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261216T085000Z
 DTEND:20261216T102500Z
 SUMMARY:M II (w)
@@ -1523,11 +1544,25 @@ LOCATION:313 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 13/17\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T121500Z
+SUMMARY:M II (ć)
+LOCATION:087 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr Paweł Lubowiecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T123000Z
 DTEND:20261216T140500Z
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T070000Z
+DTEND:20261217T083500Z
+SUMMARY:WdI (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T070000Z
@@ -1590,7 +1625,7 @@ DTSTART:20261221T150000Z
 DTEND:20261221T163500Z
 SUMMARY:M II (ć)
 LOCATION:308 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: dr Paweł Lubowiecki
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T184000Z
@@ -1621,6 +1656,13 @@ LOCATION:317 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261222T123000Z
+DTEND:20261222T140500Z
+SUMMARY:M II (ć)
+LOCATION:087 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: dr Paweł Lubowiecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:PGI (ć)
@@ -1632,7 +1674,7 @@ DTSTART:20261223T085000Z
 DTEND:20261223T102500Z
 SUMMARY:M II (ć)
 LOCATION:307 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: dr Paweł Lubowiecki
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T104000Z
@@ -1647,6 +1689,13 @@ DTEND:20261223T140500Z
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T104000Z
+DTEND:20270107T121500Z
+SUMMARY:WdI (L)
+LOCATION:237 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T070000Z
@@ -1733,6 +1782,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 21/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270112T070000Z
+DTEND:20270112T083500Z
+SUMMARY:WdI (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270112T085000Z
 DTEND:20270112T102500Z
 SUMMARY:WF (ć)
@@ -1751,7 +1807,7 @@ DTSTART:20270112T123000Z
 DTEND:20270112T140500Z
 SUMMARY:M II (ć)
 LOCATION:313 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: dr Paweł Lubowiecki
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T085000Z
@@ -1807,7 +1863,7 @@ DTSTART:20270115T150000Z
 DTEND:20270115T163500Z
 SUMMARY:M II (ć)
 LOCATION:308 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: dr Paweł Lubowiecki
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T070000Z
@@ -1824,11 +1880,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270118T104000Z
+DTEND:20270118T121500Z
+SUMMARY:WdI (L)
+LOCATION:236 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270118T123000Z
 DTEND:20270118T140500Z
 SUMMARY:M II (ć)
 LOCATION:308 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: dr Paweł Lubowiecki
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: dr Paweł Lubowiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T150000Z
+DTEND:20270118T163500Z
+SUMMARY:MD1 (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T184000Z
@@ -1857,6 +1927,13 @@ DTEND:20270119T121500Z
 SUMMARY:PGI (ć)
 LOCATION:201 65
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T123000Z
+DTEND:20270119T140500Z
+SUMMARY:M II (ć)
+LOCATION:087 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T070000Z
@@ -1913,6 +1990,13 @@ DTEND:20270122T140500Z
 SUMMARY:M II (ć)
 LOCATION:308 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: dr Paweł Lubowiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270125T070000Z
+DTEND:20270125T083500Z
+SUMMARY:WdI (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270125T085000Z

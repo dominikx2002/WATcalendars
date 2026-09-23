@@ -3238,13 +3238,6 @@ LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T085000Z
-DTEND:20261118T102500Z
-SUMMARY:Pwd (ć)
-LOCATION:307 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261118T104000Z
 DTEND:20261118T121500Z
 SUMMARY:F2 (w)
@@ -3354,7 +3347,7 @@ DTSTART:20261125T104000Z
 DTEND:20261125T121500Z
 SUMMARY:Pwd (ć)
 LOCATION:307 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -3564,7 +3557,7 @@ DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
 SUMMARY:Pwd (ć)
 LOCATION:309 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
@@ -3630,11 +3623,11 @@ LOCATION:139 S 141 S
 DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261214T085000Z
-DTEND:20261214T102500Z
+DTSTART:20261214T104000Z
+DTEND:20261214T121500Z
 SUMMARY:Pwd (ć)
-LOCATION:204 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
+LOCATION:103 61
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T123000Z
@@ -3698,6 +3691,13 @@ DTEND:20261218T102500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 52/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T104000Z
+DTEND:20261218T121500Z
+SUMMARY:Pwd (ć)
+LOCATION:8/ 62
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T123000Z
@@ -3826,11 +3826,18 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 55/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270112T104000Z
+DTEND:20270112T121500Z
+SUMMARY:Pwd (ć)
+LOCATION:103 61
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270113T123000Z
 DTEND:20270113T140500Z
 SUMMARY:Pwd (ć)
 LOCATION:307 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T070000Z
@@ -3886,7 +3893,7 @@ DTSTART:20270118T104000Z
 DTEND:20270118T121500Z
 SUMMARY:Pwd (ć)
 LOCATION:307 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T070000Z
@@ -3915,13 +3922,6 @@ DTEND:20270121T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 57/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270121T104000Z
-DTEND:20270121T121500Z
-SUMMARY:Pwd (ć)
-LOCATION:201 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T184000Z

@@ -1119,9 +1119,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T085000Z
 DTEND:20260127T102500Z
-SUMMARY:Ek (ć)
+SUMMARY:LD (ć)
 LOCATION:2.21/135
-DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: płk dr hab. Stańczyk Konrad 8
+DESCRIPTION:Logistyka dystrybucji 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Kalbarczyk Ewa 33; dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T094000Z
@@ -1208,13 +1208,6 @@ LOCATION:1.27/135
 DESCRIPTION:Inżynieria systemów i analiza systemowa 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: prof. dr. hab. inż. Brzeziński Marian 21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260127T104000Z
-DTEND:20260127T121500Z
-SUMMARY:Ek (ć)
-LOCATION:2.21/135
-DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: płk dr hab. Stańczyk Konrad 8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261014T113000Z
 DTEND:20261014T130500Z
 SUMMARY:DGB (ć)
@@ -1261,7 +1254,7 @@ DTSTART:20260113T123000Z
 DTEND:20260113T140500Z
 SUMMARY:Ek (ć)
 LOCATION:2.21/135
-DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: płk dr hab. Stańczyk Konrad 8
+DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: płk dr hab. Stańczyk Konrad 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T123000Z
@@ -1269,13 +1262,6 @@ DTEND:20260120T140500Z
 SUMMARY:Is (S)
 LOCATION:1.27/135
 DESCRIPTION:Inżynieria systemów i analiza systemowa 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: prof. dr. hab. inż. Brzeziński Marian 21
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260127T123000Z
-DTEND:20260127T140500Z
-SUMMARY:LD (ć)
-LOCATION:1/22
-DESCRIPTION:Logistyka dystrybucji 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Kalbarczyk Ewa 33; dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T140000Z
@@ -1296,21 +1282,21 @@ DTSTART:20261125T150000Z
 DTEND:20261125T163500Z
 SUMMARY:Ek (ć)
 LOCATION:0.7/16
-DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: płk dr hab. Stańczyk Konrad 8
+DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: płk dr hab. Stańczyk Konrad 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T150000Z
+DTEND:20261202T163500Z
+SUMMARY:BiESTS (ć)
+LOCATION:3/23A
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr inż. Radzimierski Mariusz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T150000Z
 DTEND:20260113T163500Z
 SUMMARY:Ek (ć)
 LOCATION:2.21/135
-DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: płk dr hab. Stańczyk Konrad 8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260127T150000Z
-DTEND:20260127T163500Z
-SUMMARY:BiESTS (ć)
-LOCATION:3/23A
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr inż. Radzimierski Mariusz 2
+DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: płk dr hab. Stańczyk Konrad 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T150000Z
@@ -1551,6 +1537,13 @@ LOCATION:5W
 DESCRIPTION:System łączności i środki dowodzenia 54\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: mgr inż. Krawczak Robert 56; mgr inż. Krawczak Robert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261203T104000Z
+DTEND:20261203T121500Z
+SUMMARY:Ek (ć)
+LOCATION:0.28/135
+DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: płk dr hab. Stańczyk Konrad 8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:SSW 
@@ -1619,6 +1612,13 @@ DTEND:20261119T140500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T123000Z
+DTEND:20261203T140500Z
+SUMMARY:Ek (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: płk dr hab. Stańczyk Konrad 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T123000Z
@@ -1890,8 +1890,8 @@ BEGIN:VEVENT
 DTSTART:20261002T075000Z
 DTEND:20261002T092500Z
 SUMMARY:F2 (w)
-LOCATION:
-DESCRIPTION:Fizyka 2 10\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof 11; prof. dr hab. inż. Jóźwikowski Krzysztof; mgr inż. Przybysz Natalia 12
+LOCATION:51/62
+DESCRIPTION:Fizyka 2 10\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T075000Z

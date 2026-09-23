@@ -242,6 +242,13 @@ LOCATION:25PX; 3S; 1 D; 5.27/STRZELNICA
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 2/22\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261116T150000Z
+DTEND:20261116T163500Z
+SUMMARY:Ap (ć)
+LOCATION:255 S
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr Chyrzyński Ryszard 2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261130T150000Z
 DTEND:20261130T163500Z
 SUMMARY:PODST. 
@@ -505,7 +512,7 @@ DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Ap (ć)
 LOCATION:0.22/16
-DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr Chyrzyński Ryszard 2
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
@@ -568,7 +575,7 @@ DTSTART:20261027T123000Z
 DTEND:20261027T140500Z
 SUMMARY:Ap (ć)
 LOCATION:0.22/16
-DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr Chyrzyński Ryszard 2
+DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T123000Z
@@ -604,13 +611,6 @@ DTEND:20261208T140500Z
 SUMMARY:Gp (ć)
 LOCATION:1/22
 DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261222T123000Z
-DTEND:20261222T140500Z
-SUMMARY:Ap (ć)
-LOCATION:0.6/16
-DESCRIPTION:Administracja publiczna 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr Chyrzyński Ryszard 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T123000Z
@@ -660,13 +660,6 @@ DTEND:20261208T163500Z
 SUMMARY:Gp (ć)
 LOCATION:1/22
 DESCRIPTION:Geografia polityczna 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261222T150000Z
-DTEND:20261222T163500Z
-SUMMARY:Bwp (w)
-LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T150000Z
@@ -729,7 +722,7 @@ DTSTART:20260120T070000Z
 DTEND:20260120T083500Z
 SUMMARY:Bwp (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T075000Z
@@ -765,6 +758,13 @@ DTEND:20261223T102500Z
 SUMMARY:Podst.prawne 
 LOCATION:0.24/135
 DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 12/24\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10; dr Stawarz Paweł 13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T094000Z
+DTEND:20261007T111500Z
+SUMMARY:Bwp (w)
+LOCATION:
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej; prof. dr hab. Misiuk Andrzej 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T094000Z

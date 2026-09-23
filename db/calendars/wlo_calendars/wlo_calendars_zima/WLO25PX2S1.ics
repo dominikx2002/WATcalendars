@@ -697,13 +697,6 @@ LOCATION:5.17/135
 DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 11/22\nProwadzący: dr Stawarz Paweł 13
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261222T150000Z
-DTEND:20261222T163500Z
-SUMMARY:Bwp (w)
-LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T165000Z
 DTEND:20261110T182500Z
 SUMMARY:Gp (ć)
@@ -757,7 +750,7 @@ DTSTART:20260120T070000Z
 DTEND:20260120T083500Z
 SUMMARY:Bwp (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
@@ -793,6 +786,13 @@ DTEND:20261223T102500Z
 SUMMARY:Podst.prawne 
 LOCATION:0.24/135
 DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 13/24\nProwadzący: prof. dr hab. Misiuk Andrzej 5; dr Chyrzyński Ryszard 2; dr Kościelecki Tomasz 10; dr Stawarz Paweł 13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T094000Z
+DTEND:20261007T111500Z
+SUMMARY:Bwp (w)
+LOCATION:
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: prof. dr hab. Misiuk Andrzej 5; prof. dr hab. Misiuk Andrzej; prof. dr hab. Misiuk Andrzej 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T094000Z

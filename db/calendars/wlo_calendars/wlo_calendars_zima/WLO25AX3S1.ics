@@ -585,13 +585,6 @@ LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Nad.\nRodzaj zajęć: -\nNumer zajęć: 2/18\nProwadzący: dr Chyrzyński Ryszard 5; dr Stawarz Paweł 2; dr Ćwik Dariusz 12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261222T150000Z
-DTEND:20261222T163500Z
-SUMMARY:FPiPF (ć)
-LOCATION:1.16/16
-DESCRIPTION:Finanse publiczne i prawo finansowe 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr Chyrzyński Ryszard 5
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260112T150000Z
 DTEND:20260112T163500Z
 SUMMARY:Adm.Obr. (ć)
@@ -660,13 +653,6 @@ DTEND:20261208T182500Z
 SUMMARY:Leg. 
 LOCATION:0.8/16
 DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 8/22\nProwadzący: dr Ćwik Dariusz 12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261222T165000Z
-DTEND:20261222T182500Z
-SUMMARY:FPiPF (ć)
-LOCATION:1.16/16
-DESCRIPTION:Finanse publiczne i prawo finansowe 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr Chyrzyński Ryszard 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T165000Z
@@ -802,6 +788,13 @@ LOCATION:1.9/16; 1.10/16
 DESCRIPTION:Prawo cywilne 23\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:FPiPF (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Finanse publiczne i prawo finansowe 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr Chyrzyński Ryszard 5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
 SUMMARY:Polit.Klima. (w)
@@ -820,7 +813,7 @@ DTSTART:20261021T113000Z
 DTEND:20261021T130500Z
 SUMMARY:FPiPF (ć)
 LOCATION:1.10/16; 1.9/16
-DESCRIPTION:Finanse publiczne i prawo finansowe 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr Chyrzyński Ryszard 5
+DESCRIPTION:Finanse publiczne i prawo finansowe 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr Chyrzyński Ryszard 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T123000Z
@@ -918,7 +911,7 @@ DTSTART:20260127T150000Z
 DTEND:20260127T163500Z
 SUMMARY:FPiPF (ć)
 LOCATION:1002 HIL
-DESCRIPTION:Finanse publiczne i prawo finansowe 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr Chyrzyński Ryszard 5
+DESCRIPTION:Finanse publiczne i prawo finansowe 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr Chyrzyński Ryszard 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T155000Z
@@ -1001,8 +994,8 @@ BEGIN:VEVENT
 DTSTART:20261001T075000Z
 DTEND:20261001T092500Z
 SUMMARY:P.Adm. (w)
-LOCATION:
-DESCRIPTION:Prawo administracyjne 20\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: dr Śledzik Waldemar 21; dr Śledzik Waldemar
+LOCATION:3/54
+DESCRIPTION:Prawo administracyjne 20\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: dr Śledzik Waldemar 21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T075000Z
@@ -1057,8 +1050,8 @@ BEGIN:VEVENT
 DTSTART:20261001T094000Z
 DTEND:20261001T111500Z
 SUMMARY:P.Adm. (w)
-LOCATION:
-DESCRIPTION:Prawo administracyjne 20\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: dr Śledzik Waldemar 21; dr Śledzik Waldemar
+LOCATION:3/54
+DESCRIPTION:Prawo administracyjne 20\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: dr Śledzik Waldemar 21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T094000Z
@@ -1374,6 +1367,13 @@ DTEND:20261030T121500Z
 SUMMARY:Polit.Klima. (w)
 LOCATION:1.9/16; 1.10/16
 DESCRIPTION:Polityka klimatyczna 17\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Adamkiewicz Jakub 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T104000Z
+DTEND:20261120T121500Z
+SUMMARY:FPiPF (ć)
+LOCATION:1.27/135
+DESCRIPTION:Finanse publiczne i prawo finansowe 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr Chyrzyński Ryszard 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T104000Z

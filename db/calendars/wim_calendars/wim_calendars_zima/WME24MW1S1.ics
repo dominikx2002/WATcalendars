@@ -1726,13 +1726,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 51/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260114T070000Z
-DTEND:20260114T083500Z
-SUMMARY:App (S)
-LOCATION:5/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/4\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260121T070000Z
 DTEND:20260121T083500Z
 SUMMARY:Peks (ć)
@@ -1849,14 +1842,14 @@ DTSTART:20260114T085000Z
 DTEND:20260114T102500Z
 SUMMARY:App (S)
 LOCATION:5/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/4\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/4\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T085000Z
 DTEND:20260121T102500Z
 SUMMARY:App (S)
 LOCATION:5/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/4\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T085000Z
@@ -1920,6 +1913,13 @@ DTEND:20261119T121500Z
 SUMMARY:Zts (w)
 LOCATION:109/ 54
 DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Grzelak Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T104000Z
+DTEND:20261203T121500Z
+SUMMARY:App (S)
+LOCATION:09/ 54A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T104000Z

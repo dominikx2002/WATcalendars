@@ -1131,6 +1131,13 @@ LOCATION:29/ 54; 30/ 54
 DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260130T184000Z
+DTEND:20260130T201500Z
+SUMMARY:Mp (L)
+LOCATION:05/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Rubiec Arkadiusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260206T184000Z
 DTEND:20260206T201500Z
 SUMMARY:I 
@@ -1590,7 +1597,7 @@ DTSTART:20260131T104000Z
 DTEND:20260131T121500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T104000Z
@@ -1723,28 +1730,28 @@ DTSTART:20260110T123000Z
 DTEND:20260110T140500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T123000Z
 DTEND:20260117T140500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T123000Z
 DTEND:20260124T140500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T123000Z
 DTEND:20260131T140500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T123000Z
@@ -1796,6 +1803,27 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 80/98
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261206T150000Z
+DTEND:20261206T163500Z
+SUMMARY:Mp (L)
+LOCATION:05/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Rubiec Arkadiusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T150000Z
+DTEND:20261213T163500Z
+SUMMARY:Mp (L)
+LOCATION:05/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Rubiec Arkadiusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261220T150000Z
+DTEND:20261220T163500Z
+SUMMARY:Mp (L)
+LOCATION:05/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Rubiec Arkadiusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261227T150000Z
 DTEND:20261227T163500Z
 SUMMARY:I 
@@ -1814,21 +1842,21 @@ DTSTART:20260110T150000Z
 DTEND:20260110T163500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T150000Z
 DTEND:20260117T163500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T150000Z
 DTEND:20260124T163500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T150000Z

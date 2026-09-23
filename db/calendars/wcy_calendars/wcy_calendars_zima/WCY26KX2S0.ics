@@ -1936,6 +1936,13 @@ LOCATION:PTW/ 28 HANGAR
 DESCRIPTION:TAKTYKA - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270118T150000Z
+DTEND:20270118T163500Z
+SUMMARY:MD1 (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270118T184000Z
 DTEND:20270118T201500Z
 SUMMARY:- (S.Sz.W.)

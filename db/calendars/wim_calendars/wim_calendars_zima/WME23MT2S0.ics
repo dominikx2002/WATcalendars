@@ -1551,13 +1551,6 @@ LOCATION:20/ 68
 DESCRIPTION:Prawo transportowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/4\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260127T085000Z
-DTEND:20260127T102500Z
-SUMMARY:Pt (S)
-LOCATION:20/ 68
-DESCRIPTION:Prawo transportowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Chojnowski Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260210T085000Z
 DTEND:20260210T102500Z
 SUMMARY:Pms 
@@ -2045,7 +2038,7 @@ DTSTART:20260107T070000Z
 DTEND:20260107T083500Z
 SUMMARY:Pt (S)
 LOCATION:20/ 68
-DESCRIPTION:Prawo transportowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Chojnowski Janusz
+DESCRIPTION:Prawo transportowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T070000Z
@@ -2368,6 +2361,13 @@ DTEND:20260107T140500Z
 SUMMARY:Pt (ć)
 LOCATION:20/ 68
 DESCRIPTION:Prawo transportowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Chojnowski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T123000Z
+DTEND:20260114T140500Z
+SUMMARY:Pt (S)
+LOCATION:20/ 68
+DESCRIPTION:Prawo transportowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T123000Z

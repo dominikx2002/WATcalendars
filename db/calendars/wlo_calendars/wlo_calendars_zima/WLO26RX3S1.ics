@@ -802,11 +802,18 @@ LOCATION:7a
 DESCRIPTION:Podstawy teorii bezpieczeństwa 26\nRodzaj zajęć: Wykład\nNumer zajęć: 2/13\nProwadzący: dr hab. Stańczyk Jerzy 27; dr hab. Stańczyk Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260113T104000Z
+DTEND:20260113T121500Z
+SUMMARY:PTb (w)
+LOCATION:
+DESCRIPTION:Podstawy teorii bezpieczeństwa 26\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: dr hab. Stańczyk Jerzy 27; dr hab. Stańczyk Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260120T104000Z
 DTEND:20260120T121500Z
 SUMMARY:PTb (w)
 LOCATION:aula/135
-DESCRIPTION:Podstawy teorii bezpieczeństwa 26\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: dr hab. Stańczyk Jerzy 27
+DESCRIPTION:Podstawy teorii bezpieczeństwa 26\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: dr hab. Stańczyk Jerzy 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T104000Z
@@ -856,13 +863,6 @@ DTEND:20260113T140500Z
 SUMMARY:PTb (ć)
 LOCATION:1002 HIL
 DESCRIPTION:Podstawy teorii bezpieczeństwa 26\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr Krysowaty Aneta 28
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260127T123000Z
-DTEND:20260127T140500Z
-SUMMARY:PTb (w)
-LOCATION:aula/135
-DESCRIPTION:Podstawy teorii bezpieczeństwa 26\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: dr hab. Stańczyk Jerzy 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T140000Z
@@ -1176,8 +1176,8 @@ BEGIN:VEVENT
 DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
 SUMMARY:Ez (w)
-LOCATION:
-DESCRIPTION:Etyka zawodowa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 5; dr hab. (prof. WAT) Świerszcz Katarzyna; dr hab. (prof. WAT) Świerszcz Katarzyna 6
+LOCATION:0.24/135
+DESCRIPTION:Etyka zawodowa 4\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T113000Z

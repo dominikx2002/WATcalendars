@@ -2251,6 +2251,13 @@ LOCATION:252 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261022T060000Z
+DTEND:20261022T073500Z
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261022T075000Z
 DTEND:20261022T092500Z
 SUMMARY:BD (ć)
@@ -2333,6 +2340,13 @@ DTEND:20261026T182500Z
 SUMMARY:Po (L)
 LOCATION:226 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/16\nProwadzący: mgr inż. Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T085000Z
+DTEND:20261027T102500Z
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T104000Z
@@ -2459,6 +2473,13 @@ DTEND:20261102T182500Z
 SUMMARY:BD (ć)
 LOCATION:307 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261103T085000Z
+DTEND:20261103T102500Z
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
@@ -2594,6 +2615,13 @@ LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261112T070000Z
+DTEND:20261112T083500Z
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T085000Z
 DTEND:20261112T102500Z
 SUMMARY:F2 (L)
@@ -2662,6 +2690,13 @@ DTEND:20261116T140500Z
 SUMMARY:Als (w)
 LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T085000Z
+DTEND:20261117T102500Z
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -2825,6 +2860,13 @@ LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:SO (L)
+LOCATION:239 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261125T104000Z
 DTEND:20261125T121500Z
 SUMMARY:Als (L)
@@ -2893,6 +2935,13 @@ DTEND:20261130T182500Z
 SUMMARY:Po (L)
 LOCATION:224 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/16\nProwadzący: mgr inż. Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T085000Z
+DTEND:20261201T102500Z
+SUMMARY:SO (L)
+LOCATION:239 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T104000Z
@@ -3028,6 +3077,13 @@ LOCATION:121 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261215T070000Z
+DTEND:20261215T083500Z
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261215T104000Z
 DTEND:20261215T121500Z
 SUMMARY:Ja (ć)
@@ -3147,6 +3203,13 @@ LOCATION:204 65
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270108T123000Z
+DTEND:20270108T140500Z
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270112T104000Z
 DTEND:20270112T121500Z
 SUMMARY:Ja (ć)
@@ -3166,6 +3229,13 @@ DTEND:20270112T182500Z
 SUMMARY:JoM (ć)
 LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T070000Z
+DTEND:20270114T083500Z
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T085000Z
@@ -3215,6 +3285,13 @@ DTEND:20270119T140500Z
 SUMMARY:F2 (w)
 LOCATION:314 S
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T150000Z
+DTEND:20270119T163500Z
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T165000Z
@@ -3319,14 +3396,14 @@ DTSTART:20270129T085000Z
 DTEND:20270129T102500Z
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T104000Z
 DTEND:20270129T121500Z
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T123000Z

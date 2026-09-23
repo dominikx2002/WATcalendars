@@ -1425,11 +1425,18 @@ LOCATION:1/ 21
 DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:App (S)
+LOCATION:6/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T104000Z
 DTEND:20261216T121500Z
-SUMMARY:App (S)
+SUMMARY:GmP. (S)
 LOCATION:42/ 54A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T104000Z
@@ -1450,7 +1457,7 @@ DTSTART:20260127T104000Z
 DTEND:20260127T121500Z
 SUMMARY:GmP. (S)
 LOCATION:1/ 21; 5/ 19
-DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: mgr inż. Wójcik Maciej
+DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T104000Z
@@ -1500,13 +1507,6 @@ DTEND:20261125T140500Z
 SUMMARY:E-L (L)
 LOCATION:
 DESCRIPTION:E-logistyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Waśniewski Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T123000Z
-DTEND:20261216T140500Z
-SUMMARY:GmP. (S)
-LOCATION:1/ 21
-DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T123000Z

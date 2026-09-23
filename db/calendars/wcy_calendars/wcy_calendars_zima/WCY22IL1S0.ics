@@ -2671,6 +2671,20 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 39/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261103T070000Z
+DTEND:20261103T083500Z
+SUMMARY:IRz (L)
+LOCATION:224 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261103T085000Z
+DTEND:20261103T102500Z
+SUMMARY:IRz (L)
+LOCATION:224 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
 SUMMARY:ZaMe (ć)
@@ -2725,6 +2739,13 @@ DTEND:20261104T140500Z
 SUMMARY:wzbnim (w)
 LOCATION:19 36
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T150000Z
+DTEND:20261104T163500Z
+SUMMARY:Sme. (ć)
+LOCATION:309 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T165000Z
@@ -2839,6 +2860,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 44/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261110T150000Z
+DTEND:20261110T163500Z
+SUMMARY:Sme. (ć)
+LOCATION:313 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261110T184000Z
 DTEND:20261110T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -2899,14 +2927,14 @@ DTSTART:20261113T104000Z
 DTEND:20261113T121500Z
 SUMMARY:IRz (L)
 LOCATION:223 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T123000Z
 DTEND:20261113T140500Z
 SUMMARY:IRz (L)
 LOCATION:223 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T085000Z
@@ -3140,6 +3168,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 49/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261124T150000Z
+DTEND:20261124T163500Z
+SUMMARY:Sme. (ć)
+LOCATION:313 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261124T184000Z
 DTEND:20261124T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -3301,6 +3336,13 @@ LOCATION:AW 3/043
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261201T150000Z
+DTEND:20261201T163500Z
+SUMMARY:Sme. (ć)
+LOCATION:313 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261201T184000Z
 DTEND:20261201T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -3382,14 +3424,14 @@ DTSTART:20261204T070000Z
 DTEND:20261204T083500Z
 SUMMARY:IRz (L)
 LOCATION:224 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T085000Z
 DTEND:20261204T102500Z
 SUMMARY:IRz (L)
 LOCATION:224 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T104000Z
@@ -3467,6 +3509,13 @@ DTEND:20261208T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 55/70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T150000Z
+DTEND:20261208T163500Z
+SUMMARY:Sme. (ć)
+LOCATION:309 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T184000Z
@@ -3644,6 +3693,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 58/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T150000Z
+DTEND:20261216T163500Z
+SUMMARY:Sme. (ć)
+LOCATION:308 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T070000Z
 DTEND:20261217T083500Z
 SUMMARY:PZ (P)
@@ -3756,6 +3812,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 60/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261222T150000Z
+DTEND:20261222T163500Z
+SUMMARY:Sme. (ć)
+LOCATION:309 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261222T184000Z
 DTEND:20261222T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -3781,14 +3844,14 @@ DTSTART:20261223T104000Z
 DTEND:20261223T121500Z
 SUMMARY:IRz (L)
 LOCATION:227 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T123000Z
 DTEND:20261223T140500Z
 SUMMARY:IRz (L)
 LOCATION:227 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T070000Z
@@ -3845,20 +3908,6 @@ DTEND:20270111T102500Z
 SUMMARY:Mspw (P)
 LOCATION:233 S
 DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Projekt\nNumer zajęć: 4/7\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270111T104000Z
-DTEND:20270111T121500Z
-SUMMARY:IRz (L)
-LOCATION:236 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270111T123000Z
-DTEND:20270111T140500Z
-SUMMARY:IRz (L)
-LOCATION:236 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270111T150000Z

@@ -543,13 +543,6 @@ LOCATION:0.24/135
 DESCRIPTION:Zasady ekonomii wojskowej 80\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr Chyrzyński Ryszard 81; dr Chyrzyński Ryszard; dr Chyrzyński Ryszard 82
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260209T123000Z
-DTEND:20260209T140500Z
-SUMMARY:ZfSZ (S)
-LOCATION:5.17/135
-DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna 83\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr Tomaszewski Jarosław 84; dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260216T123000Z
 DTEND:20260216T140500Z
 SUMMARY:ZOPKW (S)
@@ -597,6 +590,13 @@ DTEND:20260216T163500Z
 SUMMARY:ZOPKW (S)
 LOCATION:0.19/135
 DESCRIPTION:Zabezpieczenie operacyjne i logistyczne PKW poza granicami kraju 65\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Żuchowski Dariusz 66; dr inż. Żuchowski Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260223T150000Z
+DTEND:20260223T163500Z
+SUMMARY:ZfSZ (S)
+LOCATION:5.17/135
+DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna 83\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr Tomaszewski Jarosław 84; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T150000Z

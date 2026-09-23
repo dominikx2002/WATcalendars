@@ -1222,13 +1222,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 31/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260113T070000Z
-DTEND:20260113T083500Z
-SUMMARY:App (S)
-LOCATION:5/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260120T070000Z
 DTEND:20260120T083500Z
 SUMMARY:PiN 
@@ -1352,7 +1345,7 @@ DTSTART:20260113T085000Z
 DTEND:20260113T102500Z
 SUMMARY:App (S)
 LOCATION:5/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T085000Z
@@ -1465,6 +1458,13 @@ DTEND:20261216T140500Z
 SUMMARY:Dp (ć)
 LOCATION:42/ 20
 DESCRIPTION:Diagnostyka pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż. Trawiński Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T123000Z
+DTEND:20261223T140500Z
+SUMMARY:App (S)
+LOCATION:6/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z

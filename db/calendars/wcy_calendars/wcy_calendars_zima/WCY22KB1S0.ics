@@ -2293,6 +2293,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 40/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261023T113000Z
+DTEND:20261023T130500Z
+SUMMARY:Zawi (L)
+LOCATION:228 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261024T075000Z
 DTEND:20261024T092500Z
 SUMMARY:XWF (ć)
@@ -2349,11 +2356,25 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 38/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T121500Z
+SUMMARY:Zawi (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T070000Z
 DTEND:20261029T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 42/70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T085000Z
+DTEND:20261029T102500Z
+SUMMARY:Zawi (P)
+LOCATION:228 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 1/12\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -2405,6 +2426,13 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261102T085000Z
+DTEND:20261102T102500Z
+SUMMARY:Zawi (L)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261102T104000Z
 DTEND:20261102T121500Z
 SUMMARY:wzbnim (w)
@@ -2438,6 +2466,13 @@ DTEND:20261103T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 44/70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261103T123000Z
+DTEND:20261103T140500Z
+SUMMARY:Zawi (P)
+LOCATION:237 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 2/12\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
@@ -2685,11 +2720,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 48/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261113T123000Z
+DTEND:20261113T140500Z
+SUMMARY:Zawi (P)
+LOCATION:237 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 3/12\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261114T085000Z
 DTEND:20261114T102500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T085000Z
+DTEND:20261116T102500Z
+SUMMARY:Zawi (L)
+LOCATION:236 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
@@ -2732,6 +2781,13 @@ DTEND:20261118T121500Z
 SUMMARY:Zmwm (w)
 LOCATION:308 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
+SUMMARY:Zawi (P)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 4/12\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -3098,6 +3154,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 55/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261204T123000Z
+DTEND:20261204T140500Z
+SUMMARY:Zawi (P)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 5/12\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261205T085000Z
 DTEND:20261205T102500Z
 SUMMARY:XWF (ć)
@@ -3217,6 +3280,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261211T085000Z
+DTEND:20261211T102500Z
+SUMMARY:Zawi (P)
+LOCATION:236 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 6/12\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261211T104000Z
 DTEND:20261211T121500Z
 SUMMARY:WF (ć)
@@ -3278,6 +3348,13 @@ DTEND:20261215T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 59/70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T123000Z
+DTEND:20261215T140500Z
+SUMMARY:Zawi (P)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 7/12\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -3390,6 +3467,13 @@ DTEND:20261221T121500Z
 SUMMARY:Stg (w)
 LOCATION:307 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T123000Z
+DTEND:20261221T140500Z
+SUMMARY:Zawi (P)
+LOCATION:252 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 8/12\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T150000Z
@@ -3518,6 +3602,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 64/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270108T123000Z
+DTEND:20270108T140500Z
+SUMMARY:Zawi (P)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 9/12\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270109T085000Z
 DTEND:20270109T102500Z
 SUMMARY:XWF (ć)
@@ -3600,6 +3691,13 @@ DTEND:20270113T121500Z
 SUMMARY:wzbnim (ć)
 LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T123000Z
+DTEND:20270113T140500Z
+SUMMARY:Zawi (P)
+LOCATION:239 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 10/12\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T070000Z
@@ -3712,6 +3810,13 @@ DTEND:20270120T083500Z
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 58/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T085000Z
+DTEND:20270120T102500Z
+SUMMARY:Zawi (P)
+LOCATION:226 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 11/12\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T104000Z
@@ -3845,6 +3950,13 @@ DTEND:20270127T083500Z
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 60/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T085000Z
+DTEND:20270127T102500Z
+SUMMARY:Zawi (P)
+LOCATION:228 S
+DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 12/12\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T104000Z

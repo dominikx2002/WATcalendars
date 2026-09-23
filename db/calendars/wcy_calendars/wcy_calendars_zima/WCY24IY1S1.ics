@@ -1761,6 +1761,13 @@ LOCATION:106 65
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: dr inż. Adam Patkowski, mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260923T113000Z
+DTEND:20260923T130500Z
+SUMMARY:SI (Inne)
+LOCATION:314 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261117T150000Z
 DTEND:20261117T163500Z
 SUMMARY:MM (Inne)

@@ -494,6 +494,20 @@ LOCATION:0.19/135
 DESCRIPTION:Rynki kapitałowe i operacje giełdowe 22\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. Przychocka Iwona 23
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261020T140000Z
+DTEND:20261020T153500Z
+SUMMARY:ZPr (ć)
+LOCATION:2.21/135
+DESCRIPTION:Zarządzanie projektami 30\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T150000Z
+DTEND:20261110T163500Z
+SUMMARY:ZPr (ć)
+LOCATION:2.21/135
+DESCRIPTION:Zarządzanie projektami 30\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261117T150000Z
 DTEND:20261117T163500Z
 SUMMARY:Rkg (w)
@@ -506,13 +520,6 @@ DTEND:20261124T163500Z
 SUMMARY:Ewz (w)
 LOCATION:1.10/16
 DESCRIPTION:Etyka w zarządzaniu 6\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Kasperski Marian 7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T150000Z
-DTEND:20261201T163500Z
-SUMMARY:ZPr (ć)
-LOCATION:2.21/135
-DESCRIPTION:Zarządzanie projektami 30\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T150000Z
@@ -533,7 +540,7 @@ DTSTART:20260126T150000Z
 DTEND:20260126T163500Z
 SUMMARY:ZPr (ć)
 LOCATION:0.7/16
-DESCRIPTION:Zarządzanie projektami 30\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+DESCRIPTION:Zarządzanie projektami 30\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T155000Z
@@ -564,13 +571,6 @@ LOCATION:1.9/16
 DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T165000Z
-DTEND:20261201T182500Z
-SUMMARY:ZPr (ć)
-LOCATION:2.21/135
-DESCRIPTION:Zarządzanie projektami 30\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261208T165000Z
 DTEND:20261208T182500Z
 SUMMARY:Rkg (w)
@@ -578,17 +578,17 @@ LOCATION:0.19/135
 DESCRIPTION:Rynki kapitałowe i operacje giełdowe 22\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. Przychocka Iwona 23
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260119T165000Z
+DTEND:20260119T182500Z
+SUMMARY:ZPr (ć)
+LOCATION:2.21/135
+DESCRIPTION:Zarządzanie projektami 30\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260126T165000Z
 DTEND:20260126T182500Z
 SUMMARY:ZPr (ć)
 LOCATION:0.7/16
-DESCRIPTION:Zarządzanie projektami 30\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T184000Z
-DTEND:20261201T201500Z
-SUMMARY:ZPr (ć)
-LOCATION:2.21/135
 DESCRIPTION:Zarządzanie projektami 30\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT

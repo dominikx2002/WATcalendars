@@ -1096,6 +1096,13 @@ LOCATION:5.21/135
 DESCRIPTION:Sieci komputerowe 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr Kawalerski Paweł 23
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261009T094000Z
+DTEND:20261009T111500Z
+SUMMARY:Sck (w)
+LOCATION:5.21/135
+DESCRIPTION:Sieci komputerowe 22\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Kawalerski Paweł 23
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261030T104000Z
 DTEND:20261030T121500Z
 SUMMARY:Pge (ć)
@@ -1103,11 +1110,11 @@ LOCATION:0.22/16
 DESCRIPTION:Podstawy geopolityki 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Kostrzewa-Zorbas Grzegorz 20
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261002T113000Z
-DTEND:20261002T130500Z
+DTSTART:20261009T113000Z
+DTEND:20261009T130500Z
 SUMMARY:Sck (w)
 LOCATION:5.21/135
-DESCRIPTION:Sieci komputerowe 22\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Kawalerski Paweł 23
+DESCRIPTION:Sieci komputerowe 22\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Kawalerski Paweł 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T123000Z
@@ -1115,13 +1122,6 @@ DTEND:20261030T140500Z
 SUMMARY:wzbnim (w)
 LOCATION:0.19/135
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 30\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 31
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261002T140000Z
-DTEND:20261002T153500Z
-SUMMARY:Sck (w)
-LOCATION:5.21/135
-DESCRIPTION:Sieci komputerowe 22\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Kawalerski Paweł 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T140000Z

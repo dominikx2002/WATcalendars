@@ -928,6 +928,13 @@ LOCATION:aula/135
 DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: płk dr hab. Stańczyk Konrad 8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261215T165000Z
+DTEND:20261215T182500Z
+SUMMARY:Ek (ć)
+LOCATION:1.27/135
+DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: płk dr hab. Stańczyk Konrad 8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261014T060000Z
 DTEND:20261014T073500Z
 SUMMARY:DGB (ć)
@@ -1075,13 +1082,6 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB 66\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T085000Z
-DTEND:20261216T102500Z
-SUMMARY:Ek (ć)
-LOCATION:0.7/16
-DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: płk dr hab. Stańczyk Konrad 8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261223T085000Z
 DTEND:20261223T102500Z
 SUMMARY:IWSL (ć)
@@ -1157,13 +1157,6 @@ DTEND:20261209T121500Z
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB 66\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T104000Z
-DTEND:20261216T121500Z
-SUMMARY:Ek (ć)
-LOCATION:0.7/16
-DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: płk dr hab. Stańczyk Konrad 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T104000Z
@@ -1472,6 +1465,13 @@ DTEND:20261217T102500Z
 SUMMARY:SzS (ć)
 LOCATION:3pl/29kp; 4pl/29kp; 25FW; 1S; 25FW; 2S; 0 ST
 DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: kpt. mgr Ślusakowicz Stanisław 69; kpt. mgr inż. Żmuda Marcin 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T085000Z
+DTEND:20260107T102500Z
+SUMMARY:Ek (ć)
+LOCATION:301/S
+DESCRIPTION:Ekonomia 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: płk dr hab. Stańczyk Konrad 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T085000Z
@@ -1862,8 +1862,8 @@ BEGIN:VEVENT
 DTSTART:20261002T075000Z
 DTEND:20261002T092500Z
 SUMMARY:F2 (w)
-LOCATION:
-DESCRIPTION:Fizyka 2 10\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof 11; prof. dr hab. inż. Jóźwikowski Krzysztof; dr inż. Larkowski Waldemar 12
+LOCATION:51/62
+DESCRIPTION:Fizyka 2 10\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T075000Z
