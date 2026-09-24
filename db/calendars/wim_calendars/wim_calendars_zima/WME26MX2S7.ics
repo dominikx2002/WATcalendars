@@ -39,6 +39,13 @@ LOCATION:43/ 54A
 DESCRIPTION:FMD\nRodzaj zajęć: -\nNumer zajęć: 5/18\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261123T070000Z
+DTEND:20261123T083500Z
+SUMMARY:FEM (L)
+LOCATION:6/ 62
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261130T070000Z
 DTEND:20261130T083500Z
 SUMMARY:FMD 
@@ -51,6 +58,13 @@ DTEND:20261207T083500Z
 SUMMARY:FMD 
 LOCATION:43/ 54A
 DESCRIPTION:FMD\nRodzaj zajęć: -\nNumer zajęć: 7/18\nProwadzący: dr inż. Torzewski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T070000Z
+DTEND:20261214T083500Z
+SUMMARY:FEM (L)
+LOCATION:6/ 62
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T070000Z
@@ -347,6 +361,13 @@ LOCATION:9/ 68
 DESCRIPTION:Vehicle drivetrain\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261019T140000Z
+DTEND:20261019T153500Z
+SUMMARY:FEM (w)
+LOCATION:7/ 62
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261214T150000Z
 DTEND:20261214T163500Z
 SUMMARY:Mv (ć)
@@ -414,7 +435,7 @@ DTSTART:20261027T070000Z
 DTEND:20261027T083500Z
 SUMMARY:FEM (w)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T070000Z
@@ -426,44 +447,44 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T070000Z
 DTEND:20261110T083500Z
-SUMMARY:FEM (w)
+SUMMARY:FEM (ć)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:FEM (ć)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T070000Z
 DTEND:20261124T083500Z
-SUMMARY:FEM (w)
+SUMMARY:FEM (L)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
 DTEND:20261201T083500Z
 SUMMARY:FEM (L)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T070000Z
 DTEND:20261208T083500Z
 SUMMARY:FEM (L)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T070000Z
 DTEND:20261215T083500Z
 SUMMARY:FEM (L)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T070000Z
@@ -491,49 +512,49 @@ DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:FEM (w)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T085000Z
 DTEND:20261103T102500Z
 SUMMARY:FEM (ć)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T085000Z
 DTEND:20261110T102500Z
-SUMMARY:FEM (w)
+SUMMARY:FEM (ć)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T085000Z
 DTEND:20261117T102500Z
-SUMMARY:FEM (ć)
+SUMMARY:FEM (L)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
-SUMMARY:FEM (ć)
+SUMMARY:FEM (L)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
 DTEND:20261201T102500Z
 SUMMARY:FEM (L)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T085000Z
 DTEND:20261208T102500Z
 SUMMARY:FEM (L)
 LOCATION:7/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T085000Z
@@ -984,13 +1005,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 40/129
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T113000Z
-DTEND:20261021T130500Z
-SUMMARY:MTD (w)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż Polak Filip
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261028T123000Z
 DTEND:20261028T140500Z
 SUMMARY:Hev (w)
@@ -1052,13 +1066,6 @@ DTEND:20260106T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 43/129
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261028T150000Z
-DTEND:20261028T163500Z
-SUMMARY:MTD (w)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż Polak Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T150000Z
@@ -1152,13 +1159,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 56/129
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T104000Z
-DTEND:20261217T121500Z
-SUMMARY:MTD (ć)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr inż Polak Filip
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261224T104000Z
 DTEND:20261224T121500Z
 SUMMARY:I 
@@ -1220,13 +1220,6 @@ DTEND:20261203T140500Z
 SUMMARY:Vd (ć)
 LOCATION:20/ 68
 DESCRIPTION:Vehicle drivetrain\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Chojnowski Janusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T123000Z
-DTEND:20261217T140500Z
-SUMMARY:MTD (ć)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr inż Polak Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T123000Z
@@ -1341,25 +1334,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 66/129
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261106T070000Z
-DTEND:20261106T083500Z
-SUMMARY:MTD (w)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż Polak Filip
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261113T070000Z
-DTEND:20261113T083500Z
-SUMMARY:MTD (w)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż Polak Filip
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261120T070000Z
-DTEND:20261120T083500Z
-SUMMARY:MTD (w)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż Polak Filip
+DTSTART:20261030T070000Z
+DTEND:20261030T083500Z
+SUMMARY:FEM (w)
+LOCATION:6/ 62
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261127T070000Z
@@ -1369,25 +1348,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 67/129
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261204T070000Z
-DTEND:20261204T083500Z
-SUMMARY:MTD (w)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż Polak Filip
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T070000Z
-DTEND:20261211T083500Z
-SUMMARY:MTD (w)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż Polak Filip
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261218T070000Z
 DTEND:20261218T083500Z
-SUMMARY:MTD (w)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż Polak Filip
+SUMMARY:FEM (L)
+LOCATION:6/ 62
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261225T070000Z
@@ -1402,6 +1367,13 @@ DTEND:20260101T083500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 69/129
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T102500Z
+SUMMARY:FEM (w)
+LOCATION:6/ 62
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T085000Z
@@ -1448,9 +1420,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T085000Z
 DTEND:20261218T102500Z
-SUMMARY:MTD (w)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż Polak Filip
+SUMMARY:FEM (L)
+LOCATION:6/ 62
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261225T085000Z
@@ -1509,13 +1481,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 75/129
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260108T104000Z
-DTEND:20260108T121500Z
-SUMMARY:MTD (ć)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż Polak Filip
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261127T123000Z
 DTEND:20261127T140500Z
 SUMMARY:I 
@@ -1549,13 +1514,6 @@ DTEND:20260101T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 78/129
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260108T123000Z
-DTEND:20260108T140500Z
-SUMMARY:MTD (w)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż Polak Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261127T150000Z

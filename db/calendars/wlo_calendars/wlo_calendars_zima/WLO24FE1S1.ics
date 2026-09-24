@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO24FE1S1
 BEGIN:VEVENT
+DTSTART:20261019T060000Z
+DTEND:20261019T073500Z
+SUMMARY:OśG (L)
+LOCATION:10/19
+DESCRIPTION:Ochrona środowiska w gospodarce płynami eksploatacyjnymi 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Dziobek Ilona 24
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261026T070000Z
 DTEND:20261026T083500Z
 SUMMARY:Bisp (w)
@@ -72,6 +79,13 @@ DTEND:20261012T092500Z
 SUMMARY:GmP. (w)
 LOCATION:1b/28
 DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi 9\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: mgr inż. Wójcik Maciej 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T075000Z
+DTEND:20261019T092500Z
+SUMMARY:OśG (L)
+LOCATION:10/19
+DESCRIPTION:Ochrona środowiska w gospodarce płynami eksploatacyjnymi 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Dziobek Ilona 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T085000Z
@@ -151,6 +165,13 @@ LOCATION:1b/28
 DESCRIPTION:Zarządzanie bazą i stacją paliw 44\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: mgr inż. Wójcik Maciej 45
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261019T094000Z
+DTEND:20261019T111500Z
+SUMMARY:OśG (L)
+LOCATION:10/19
+DESCRIPTION:Ochrona środowiska w gospodarce płynami eksploatacyjnymi 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Dziobek Ilona 24
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T104000Z
 DTEND:20261109T121500Z
 SUMMARY:Bisp (w)
@@ -212,6 +233,13 @@ DTEND:20261012T130500Z
 SUMMARY:ZBiSP (w)
 LOCATION:1b/28
 DESCRIPTION:Zarządzanie bazą i stacją paliw 44\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: mgr inż. Wójcik Maciej 45
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T113000Z
+DTEND:20261019T130500Z
+SUMMARY:OśG (L)
+LOCATION:10/19
+DESCRIPTION:Ochrona środowiska w gospodarce płynami eksploatacyjnymi 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Dziobek Ilona 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T123000Z
@@ -330,7 +358,7 @@ DTSTART:20261222T070000Z
 DTEND:20261222T083500Z
 SUMMARY:OśG (L)
 LOCATION:10/19
-DESCRIPTION:Ochrona środowiska w gospodarce płynami eksploatacyjnymi 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: mgr inż. Dziobek Ilona 24
+DESCRIPTION:Ochrona środowiska w gospodarce płynami eksploatacyjnymi 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Dziobek Ilona 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T070000Z
@@ -414,7 +442,7 @@ DTSTART:20261222T085000Z
 DTEND:20261222T102500Z
 SUMMARY:OśG (L)
 LOCATION:10/19
-DESCRIPTION:Ochrona środowiska w gospodarce płynami eksploatacyjnymi 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: mgr inż. Dziobek Ilona 24
+DESCRIPTION:Ochrona środowiska w gospodarce płynami eksploatacyjnymi 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Dziobek Ilona 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T085000Z
@@ -505,7 +533,7 @@ DTSTART:20261222T104000Z
 DTEND:20261222T121500Z
 SUMMARY:OśG (L)
 LOCATION:10/19
-DESCRIPTION:Ochrona środowiska w gospodarce płynami eksploatacyjnymi 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: mgr inż. Dziobek Ilona 24
+DESCRIPTION:Ochrona środowiska w gospodarce płynami eksploatacyjnymi 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Dziobek Ilona 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T104000Z
@@ -582,7 +610,7 @@ DTSTART:20261222T123000Z
 DTEND:20261222T140500Z
 SUMMARY:OśG (L)
 LOCATION:10/19
-DESCRIPTION:Ochrona środowiska w gospodarce płynami eksploatacyjnymi 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: mgr inż. Dziobek Ilona 24
+DESCRIPTION:Ochrona środowiska w gospodarce płynami eksploatacyjnymi 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Dziobek Ilona 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T123000Z

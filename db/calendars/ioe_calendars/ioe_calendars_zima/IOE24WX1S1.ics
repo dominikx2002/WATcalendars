@@ -35,8 +35,8 @@ BEGIN:VEVENT
 DTSTART:20261109T070000Z
 DTEND:20261109T083500Z
 SUMMARY:UoG (L)
-LOCATION:108 58
-DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+LOCATION:108 5
+DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T070000Z
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 DTSTART:20261130T070000Z
 DTEND:20261130T083500Z
 SUMMARY:Ptd (ć)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 DTSTART:20261214T070000Z
 DTEND:20261214T083500Z
 SUMMARY:Ptd (ć)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 DTSTART:20260111T070000Z
 DTEND:20260111T083500Z
 SUMMARY:Ptd (ć)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
@@ -126,15 +126,15 @@ BEGIN:VEVENT
 DTSTART:20261109T085000Z
 DTEND:20261109T102500Z
 SUMMARY:UoG (L)
-LOCATION:108 58
-DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+LOCATION:108 5
+DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T085000Z
 DTEND:20261116T102500Z
 SUMMARY:MSa (w)
 LOCATION:4 41
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. Piecek Wiktor
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T085000Z
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 DTSTART:20261109T123000Z
 DTEND:20261109T140500Z
 SUMMARY:OI (w)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -343,14 +343,14 @@ BEGIN:VEVENT
 DTSTART:20261207T123000Z
 DTEND:20261207T140500Z
 SUMMARY:Ptd (w)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/23\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T123000Z
 DTEND:20261214T140500Z
 SUMMARY:Ptd (w)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/23\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
@@ -385,15 +385,15 @@ BEGIN:VEVENT
 DTSTART:20261207T150000Z
 DTEND:20261207T163500Z
 SUMMARY:OI (ć)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T150000Z
 DTEND:20260125T163500Z
 SUMMARY:MSa (L)
-LOCATION:212 53
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Piecek Wiktor
+LOCATION:212 5
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T060000Z
@@ -407,7 +407,7 @@ DTSTART:20261027T070000Z
 DTEND:20261027T083500Z
 SUMMARY:MSa (w)
 LOCATION:20 46
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Piecek Wiktor
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T070000Z
@@ -420,15 +420,15 @@ BEGIN:VEVENT
 DTSTART:20261110T070000Z
 DTEND:20261110T083500Z
 SUMMARY:L4g. (L)
-LOCATION:13 136;4 49;301 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/30\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr inż. Jakubaszek Marcin
+LOCATION:13 13
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/30\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:L4g. (L)
-LOCATION:13 136;4 49;301 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/30\nProwadzący: dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr inż. Zagrajek Przemysław
+LOCATION:13 13
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/30\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T070000Z
@@ -441,22 +441,22 @@ BEGIN:VEVENT
 DTSTART:20261201T070000Z
 DTEND:20261201T083500Z
 SUMMARY:L4g. (L)
-LOCATION:13 41;09 41
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/30\nProwadzący: dr inż. Zagrajek Przemysław; dr Kurzyna Jacek
+LOCATION:13 41
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/30\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T070000Z
 DTEND:20261222T083500Z
 SUMMARY:L4g. (L)
-LOCATION:309 136;17 136;13 41
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/30\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr inż. Zagrajek Przemysław
+LOCATION:309 1
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/30\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T070000Z
 DTEND:20260112T083500Z
 SUMMARY:L4g. (L)
-LOCATION:13 41;09 41
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/30\nProwadzący: dr inż. Zagrajek Przemysław; dr Kurzyna Jacek
+LOCATION:13 41
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/30\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T075000Z
@@ -470,90 +470,90 @@ DTSTART:20261013T075000Z
 DTEND:20261013T092500Z
 SUMMARY:MSa (w)
 LOCATION:4 41
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Piecek Wiktor
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:MSa (w)
 LOCATION:4 41
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Piecek Wiktor
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:MSa (w)
 LOCATION:20 46
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Piecek Wiktor
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T085000Z
 DTEND:20261103T102500Z
 SUMMARY:MSa (w)
 LOCATION:20 46
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Piecek Wiktor
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T085000Z
 DTEND:20261110T102500Z
 SUMMARY:L4g. (L)
-LOCATION:13 136;4 49;301 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/30\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr inż. Jakubaszek Marcin
+LOCATION:13 13
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/30\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T085000Z
 DTEND:20261117T102500Z
 SUMMARY:L4g. (L)
-LOCATION:13 136;4 49;301 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/30\nProwadzący: dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr inż. Zagrajek Przemysław
+LOCATION:13 13
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/30\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:OI (ć)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
 DTEND:20261201T102500Z
 SUMMARY:L4g. (L)
-LOCATION:13 41;09 41
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/30\nProwadzący: dr inż. Zagrajek Przemysław; dr Kurzyna Jacek
+LOCATION:13 41
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/30\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T085000Z
 DTEND:20261215T102500Z
 SUMMARY:Ptd (w)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/23\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T085000Z
 DTEND:20261222T102500Z
 SUMMARY:L4g. (L)
-LOCATION:309 136;17 136;13 41
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/30\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr inż. Zagrajek Przemysław
+LOCATION:309 1
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/30\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T085000Z
 DTEND:20260112T102500Z
 SUMMARY:L4g. (L)
-LOCATION:13 41;09 41
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/30\nProwadzący: dr inż. Zagrajek Przemysław; dr Kurzyna Jacek
+LOCATION:13 41
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/30\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T085000Z
 DTEND:20260202T102500Z
 SUMMARY:OI (E)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T094000Z
 DTEND:20261006T111500Z
 SUMMARY:Pfk (w)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -609,15 +609,15 @@ BEGIN:VEVENT
 DTSTART:20261201T104000Z
 DTEND:20261201T121500Z
 SUMMARY:Ptd (w)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/23\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T104000Z
 DTEND:20261208T121500Z
 SUMMARY:L4g. (L)
-LOCATION:27 46;4 49;301 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/30\nProwadzący: dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr inż. Gorajek Łukasz
+LOCATION:27 46
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/30\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T104000Z
@@ -658,56 +658,56 @@ BEGIN:VEVENT
 DTSTART:20261013T113000Z
 DTEND:20261013T130500Z
 SUMMARY:OI (w)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
 SUMMARY:OI (w)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T123000Z
 DTEND:20261027T140500Z
 SUMMARY:OI (w)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
 SUMMARY:OI (w)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T123000Z
 DTEND:20261110T140500Z
 SUMMARY:OI (w)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T123000Z
 DTEND:20261117T140500Z
 SUMMARY:OI (w)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
 SUMMARY:L4g. (L)
-LOCATION:27 46;4 49;301 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/30\nProwadzący: dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr inż. Gorajek Łukasz
+LOCATION:27 46
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/30\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:OI (ć)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -715,7 +715,7 @@ DTSTART:20261222T123000Z
 DTEND:20261222T140500Z
 SUMMARY:MSa (w)
 LOCATION:4 41
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Piecek Wiktor
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T123000Z
@@ -728,105 +728,105 @@ BEGIN:VEVENT
 DTSTART:20261013T155000Z
 DTEND:20261013T172500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T155000Z
 DTEND:20261020T172500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T165000Z
 DTEND:20261027T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T165000Z
 DTEND:20261103T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T165000Z
 DTEND:20261110T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T165000Z
 DTEND:20261117T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T165000Z
 DTEND:20261124T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T165000Z
 DTEND:20261201T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 9/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T165000Z
 DTEND:20261208T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 10/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T165000Z
 DTEND:20261215T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 11/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T174000Z
 DTEND:20261013T191500Z
 SUMMARY:Ptd (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 8/23\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T174000Z
 DTEND:20261020T191500Z
 SUMMARY:Ptd (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 9/23\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T184000Z
 DTEND:20261027T201500Z
 SUMMARY:Ptd (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 10/23\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T184000Z
 DTEND:20261103T201500Z
 SUMMARY:Ptd (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 11/23\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T184000Z
 DTEND:20261110T201500Z
 SUMMARY:Ptd (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 12/23\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
@@ -903,15 +903,15 @@ BEGIN:VEVENT
 DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:UoG (L)
-LOCATION:108 58
-DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+LOCATION:108 5
+DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T070000Z
 DTEND:20260120T083500Z
 SUMMARY:MSa (L)
-LOCATION:212 53
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. Piecek Wiktor
+LOCATION:212 5
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T075000Z
@@ -987,8 +987,8 @@ BEGIN:VEVENT
 DTSTART:20261223T085000Z
 DTEND:20261223T102500Z
 SUMMARY:UoG (L)
-LOCATION:108 58
-DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+LOCATION:108 5
+DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T085000Z
@@ -1057,7 +1057,7 @@ BEGIN:VEVENT
 DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
 SUMMARY:Ptd (w)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 13/23\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
@@ -1071,7 +1071,7 @@ BEGIN:VEVENT
 DTSTART:20261223T104000Z
 DTEND:20261223T121500Z
 SUMMARY:Ptd (w)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 15/23\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
@@ -1085,8 +1085,8 @@ BEGIN:VEVENT
 DTSTART:20260120T104000Z
 DTEND:20260120T121500Z
 SUMMARY:L4g. (L)
-LOCATION:309 136;17 136;13 41
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/30\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr inż. Zagrajek Przemysław
+LOCATION:309 1
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/30\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T113000Z
@@ -1169,8 +1169,8 @@ BEGIN:VEVENT
 DTSTART:20260120T123000Z
 DTEND:20260120T140500Z
 SUMMARY:L4g. (L)
-LOCATION:309 136;17 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/30\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+LOCATION:309 1
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/30\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -1183,8 +1183,8 @@ BEGIN:VEVENT
 DTSTART:20261203T070000Z
 DTEND:20261203T083500Z
 SUMMARY:MSa (L)
-LOCATION:212 53
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Piecek Wiktor
+LOCATION:212 5
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T070000Z
@@ -1204,29 +1204,29 @@ BEGIN:VEVENT
 DTSTART:20260114T070000Z
 DTEND:20260114T083500Z
 SUMMARY:MSa (L)
-LOCATION:212 53
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Piecek Wiktor
+LOCATION:212 5
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T075000Z
 DTEND:20261008T092500Z
 SUMMARY:Ing 
 LOCATION:
-DESCRIPTION:Ing\nRodzaj zajęć: -\nNumer zajęć: 1/2\nProwadzący: dr Kurzyna Jacek; dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr inż. Kamiński Kamil; dr inż. Jakubaszek Marcin; dr inż. Wróblewski Mirosław; dr inż. Zagrajek Przemysław; dr inż. Drozd Tadeusz; dr inż. Gorajek Łukasz; dr inż. Węgrzyński Łukasz; mgr inż. Bartosewicz Bartosz; mgr inż. Majszyk Mateusz; mgr inż. Nowak Michał; dr hab. inż. (prof. ucz.) Bartnik Andrzej; dr inż. Frant Michał; mgr inż. Misiak Zawadzka Aneta; por. mgr inż. Okoń Tomasz; por. mgr Kaczmarzyk Bartosz; prof. dr hab. inż. Żendzian Waldemar; prof. dr hab. Błęcki Jan; dr inż. Jujeczko Paweł; prof. dr hab. inż. Jabczyński Jan; dr Błęcka Maria; dr inż. Zygmunt Marek; dr inż. Wiśnios Michał; prof. dr hab. inż. Pałka Norbert; prof. dr. hab. inż. Panas Andrzej; dr inż. Zieliński Mateusz; prof. dr hab. inż. Kłos Anna; dr inż. Szołucha Marcin; 01 II 08 II 15 II 22 II EPK Elektryczne napędy reaktywne dla pojazdów kosmicznych pon. 1-2 Tte w 4 41 PałN UoG w 4 41 KłA UoG w 4 41 KłA UoG ć 4 41 KłA UoG L 108 58 SzoM UoG w 4 41 KłA UoG w 4 41 KłA Ptd ć 204 136 DrT L4g. L 09 41 KK Ptd ć 204 136 DrT UoG w 4 41 KłA Ptd ć 204 136 DrT w 16 dr Kurzyna Jacek pon. 3-4 PeK Ep 20 46 Żen Mp w 3 67 Fra UoG w 4 41 KłA UoG w 4 41 KłA UoG ć 4 41 KłA UoG L 108 58 SzoM MSa w 4 41 KaczB UoG w 4 41 KłA Mp w 3 67 Fra L4g. L 09 41 KK Mp w 3 67 Fra UoG w 4 41 KłA UoG ć 4 41 KłA UoG ć 4 41 KłA ć 14 dr Kurzyna Jacek pon. 5-6 F3 Ep 4 41 Pie EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK F3 Fizyka 3 pon. 7-8 POT Ep 9 46 JabJ Ptd w 4 41 BM Tte w 4 41 PałN OI w 301 136 WOJ Ptd w 4 41 BM UoG ć 4 41 KłA Ptd w 204 136 Zyg Ptd w 204 136 Zyg Tt L 8 72 ZiMa Tt L 8 72 ZiMa Tt L 8 72 ZiMa UoG w 4 41 KłA Ep 2 dr hab. inż. Piecek Wiktor pon. 9-10 OI ć 301 136 WOJ MSa L 212 53 KaczB L4g. Laboratorium-4g. wt. 15 IX 22 IX 29 IX 06 X 13 X 20 X 27 X 03 XI 10 XI 17 XI 24 XI 01 XII 08 XII 15 XII 22 XII 29 XII 05; 02 II 09 II 16 II 23 II L 12 dr hab. inż. (prof. ucz.) Wojtanowski Jacek wt. 1-2 Tte w 4 41 PałN MSa w 20 46 KaczB Tte w 4 41 PałN L4g. L 13 136; KK L 12 dr hab. inż. (prof. ucz.) Młyńczak Jarosław wt. 3-4 Mp w 3 67 Fra MSa w 4 41 KaczB MSa w 4 41 KaczB MSa w 20 46 KaczB MSa w 20 46 KaczB L4g. L 13 136; KK OI E 301 136 WOJ L 24 dr inż. Kamiński Kamil wt. 5-6 Pfk w 204 136 JB Mp w 3 67 Fra Mp ć 24 67 Misi Mp w 3 67 Fra Mp w 3 67 Fra Mp w 3 67 Fra Mp w 3 67 Fra Mp w 3 67 Fra Ptd w 204 136 Zyg L4g. L 27 46; GorŁ Mp w 3 67 Fra Ptd w 20 46 Zyg L4g. L 09 41 KK Pfk Ep 4 41 JB L 12 dr inż. Jakubaszek Marcin wt. 7-8 Tte w 4 41 PałN OI w 301 136 WOJ OI w 301 136 WOJ OI w 301 136 WOJ OI w 301 136 WOJ OI w 301 136 WOJ OI w 301 136 WOJ L4g. L 27 46; GorŁ OI ć 301 136 WOJ MSa w 4 41 KaczB L4g. L 09 41 KK L 12 dr inż. Wróblewski Mirosław wt. 11-12 Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB L 18 dr inż. Zagrajek Przemysław wt. 13-14 Ptd w ON-LINE BM Ptd w ON-LINE BM Ptd w ON-LINE BM Ptd w ON-LINE BM Ptd w ON-LINE BM L 12 dr inż. Drozd Tadeusz śr. 16 IX 23 IX 30 IX 07 X 14 X 21 X 28 X 04 XI 11 XI 18 XI 25 XI 02 XII 09 XII 16 XII 23 XII 30 XII 06; 03 II 10 II 17 II 24 II L 12 dr inż. Gorajek Łukasz śr. 1-2 Tt w 27 70 Pana Tt w 27 70 Pana Tt w 27 70 Pana Tt w 27 70 Pana Tt w 27 70 Pana Tt w 27 70 Pana Tt ć S1 72 ZiMa Tt w 27 70 Pana Tt w 27 70 Pana Tt w 27 70 Pana UoG L 108 58 SzoM MSa L 212 53 KaczB L 16 dr inż.  Węgrzyński Łukasz śr. 3-4 Tt w 27 70 Pana Tt w 27 70 Pana Mp L 3 67 Okoń Tt w 27 70 Pana Tt w 27 70 Pana Mp L 3 67 Okoń Mp L 3 67 Okoń Tt w 27 70 Pana Tt ć S1 72 ZiMa Mp L 3 67 Okoń UoG L 108 58 SzoM Pfk ć 4 41 PJ L 12 mgr inż. Bartosewicz Bartosz śr. 5-6 LPK w 20 46 BarA LPK w 20 46 BarA LPK w 20 46 BarA LPK w 20 46 BarA LPK w 20 46 BarA LPK w 20 46 BarA LPK w 20 46 BarA LPK w 20 46 BarA Ptd w 204 136 Zyg Ptd w 20 46 Zyg Ptd w 204 136 Zyg Mp L 3 67 Okoń L4g. L 309 136; Zagr L 8 mgr inż. Majszyk Mateusz śr. 7-8 Mp w 3 67 Fra Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Ptd w 20 46 Zyg Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ L4g. L 309 136; MN L 12 mgr inż. Nowak Michał czw. 17 IX 24 IX 01 X 08 X 15 X 22 X 29 X 05 XI 12 XI 19 XI 26 XI 03 XII 10 XII 17 XII 24 XII 31 XII 07; materii w przestrzeni kosmicznej czw. 1-2 Tte w 4 41 PałN MSa L 212 53 KaczB L4g. L 09 41 KK L4g. L 09 41 KK MSa L 212 53 KaczB w 16 dr hab. inż. (prof. ucz.) Bartnik Andrzej czw. 3-4 Ing MSa w 21 46 KaczB MSa L 212 53 KaczB L4g. L 09 41 KK L4g. L 09 41 KK MSa L 212 53 KaczB ć 6 dr hab. inż. (prof. ucz.) Bartnik Andrzej czw. 5-6 Sipu Zp. aE S WiśM Ing L4g. L 13 136; GorŁ w 24 dr inż. Frant Michał pt. 18 IX 25 IX 02 X 09 X 16 X 23 X 30 X 06 XI 13 XI 20 XI 27 XI 04 XII 11 XII 18 XII 25 XII 01; 05 II 12 II 19 II 26 II ć 10 mgr inż. Misiak Zawadzka Aneta pt. 1-2 Tt ć S1 72 ZiMa Mp ć 24 67 Misi Mp ć 24 67 Misi Mp ć 24 67 Misi Mp ć 24 67 Misi L 10 por. mgr inż. Okoń Tomasz pt. 3-4 OI ć 301 136 WOJ OI ć 301 136 WOJ OI ć 301 136 WOJ OI ć 301 136 WOJ OI ć 301 136 WOJ Ptd w 204 136 Zyg MSa L 212 53 KaczB OI Ep 301 136 WOJ MSa Meteorologia satelitarna pt. 5-6 LPK ć 20 46 BarA LPK ć 20 46 BarA LPK ć 20 46 BarA L4g. L 309 136; GorŁ UoG L 108 58 SzoM UoG L 108 58 SzoM UoG L 108 58 SzoM Pfk E 4 41 JB w 16 por. mgr Kaczmarzyk Bartosz pt. 7-8 Tt L 8 72 ZiMa Tt L 8 72 ZiMa L4g. L 309 136; GorŁ UoG L 108 58 SzoM UoG L 108 58 SzoM Ptd w 204 136 Zyg L 14 por. mgr Kaczmarzyk Bartosz pt. 9-10 Ptd w ON-LINE BM Ptd w ON-LINE BM Ptd w ON-LINE BM Ptd w ON-LINE BM OI Optyka instrumentalna pt. 11-12 Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB w 14 dr hab. inż. (prof. ucz.) Wojtanowski Jacek sob. 19 IX 26 IX 03 X 10 X 17 X 24 X 31 X 07 XI 14 XI 21 XI 28 XI 05 XII 12 XII 19 XII 26 XII 02; 06 II 13 II 20 II 27 II ć 16 dr hab. inż. (prof. ucz.) Wojtanowski Jacek niedz. 20 IX 27 IX 04 X 11 X 18 X 25 X 01 XI 08 XI 15 XI 22 XI 29 XI 06 XII 13 XII 20 XII 27 XII 03; 07 II 14 II 21 II 28 II E 2 dr hab. inż. (prof. ucz.) Wojtanowski Jacek Ep 2 dr hab. inż. (prof. ucz.) Wojtanowski Jacek PeK Podstawy elektroniki kwantowej Ep 2 prof. dr hab. inż. Żendzian Waldemar Pfk Podstawy fizyki kosmicznej w 40 prof. dr hab. Błęcki Jan ć 20 dr inż. Jujeczko Paweł E 2 prof. dr hab. Błęcki Jan Ep 2 prof. dr hab. Błęcki Jan POT Podstawy optyki Ep 2 prof. dr hab. inż. Jabczyński Jan Ptd Podstawy teledetekcji w 22 dr Błęcka Maria w 24 dr inż. Zygmunt Marek ć 6 dr inż. Drozd Tadeusz Sipu Symulacja; projektowanie układów Zp. 2 dr inż. Wiśnios Michał Tte Technika terahercowa w 14 prof. dr hab. inż. Pałka Norbert Tt Termodynamika techniczna w 28 prof. dr. hab. inż. Panas Andrzej ć 6 dr inż. Zieliński Mateusz L 10 dr inż. Zieliński Mateusz UoG Układy odniesienia; podstawy geodezji w 20 prof. dr hab. inż. Kłos Anna ć 10 prof. dr hab. inż. Kłos Anna L 18 dr inż. Szołucha Marcin Data aktualizacji: 21.09.2026 14:03:07 Dokument został utworzony za pomocą programu Plansoft.org; podstawy geodezji w 20 prof. dr hab. inż. Kłos Anna ć 10 prof. dr hab. inż. Kłos Anna L 18 dr inż. Szołucha Marcin; dr inż.  Węgrzyński Łukasz
+DESCRIPTION:Ing\nRodzaj zajęć: -\nNumer zajęć: 1/2\nProwadzący: dr Kurzyna Jacek; dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr inż. Kamiński Kamil; dr inż. Jakubaszek Marcin; dr inż. Wróblewski Mirosław; dr inż. Zagrajek Przemysław; dr inż. Drozd Tadeusz; dr inż. Gorajek Łukasz; dr inż. Węgrzyński Łukasz; mgr inż. Bartosewicz Bartosz ...; dr hab. inż. (prof. ucz.) Bartnik Andrzej; dr inż. Frant Michał; mgr inż. Misiak Zawadzka Aneta; por. mgr inż. Okoń Tomasz; por. mgr Kaczmarzyk Bartosz; prof. dr hab. inż. Żendzian Waldemar; prof. dr hab. Błęcki Jan; dr inż. Jujeczko Paweł; prof. dr hab. inż. Jabczyński Jan; dr Błęcka Maria; dr inż. Zygmunt Marek; dr inż. Wiśnios Michał; prof. dr hab. inż. Pałka Norbert; prof. dr. hab. inż. Panas Andrzej; dr inż. Zieliński Mateusz; prof. dr hab. inż. Kłos Anna; dr inż. Szołucha Marcin; 01 II 08 II 15 II 22 II EPK Elektryczne napędy reaktywne dla pojazdów kosmicznych pon. 1-2 Tte w 4 41 Pał UoG w 4 41 KłA UoG w 4 41 KłA UoG ć 4 41 KłA UoG L 108 5 Szo UoG w 4 41 KłA UoG w 4 41 KłA Ptd ć 204 1 DrT L4g. L 09 41 KK Ptd ć 204 1 DrT UoG w 4 41 KłA Ptd ć 204 1 DrT w 16 dr Kurzyna Jacek pon. 3-4 PeK Ep 20 46 Żen Mp w 3 67 Fra UoG w 4 41 KłA UoG w 4 41 KłA UoG ć 4 41 KłA UoG L 108 5 Szo MSa w 4 41 Kac UoG w 4 41 KłA Mp w 3 67 Fra L4g. L 09 41 KK Mp w 3 67 Fra UoG w 4 41 KłA UoG ć 4 41 KłA UoG ć 4 41 KłA ć 14 dr Kurzyna Jacek pon. 5-6 F3 Ep 4 41 Pie EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK F3 Fizyka 3 pon. 7-8 POT Ep 9 46 Jab Ptd w 4 41 BM Tte w 4 41 Pał OI w 301 1 WOJ Ptd w 4 41 BM UoG ć 4 41 KłA Ptd w 204 1 Zyg Ptd w 204 1 Zyg Tt L 8 72 ZiM Tt L 8 72 ZiM Tt L 8 72 ZiM UoG w 4 41 KłA Ep 2 dr hab. inż. Piecek Wiktor pon. 9-10 OI ć 301 1 WOJ MSa L 212 5 Kac L4g. Laboratorium-4g. wt. 15 IX 22 IX 29 IX 06 X 13 X 20 X 27 X 03 XI 10 XI 17 XI 24 XI 01 XII 08 XII 15 XII 22 XII 29 XII 05; 02 II 09 II 16 II 23 II L 12 dr hab. inż. (prof. ucz.) Wojtanowski Jacek wt. 1-2 Tte w 4 41 Pał MSa w 20 46 Kac Tte w 4 41 Pał L4g. L 13 13 Mły L4g. L 13 13 ŁW; Tte w 4 41 Pał L4g. L 13 41 Zag L4g. L 309 1 WOJ L4g. L 13 41 Zag L 12 dr hab. inż. (prof. ucz.) Młyńczak Jarosław wt. 3-4 Mp w 3 67 Fra MSa w 4 41 Kac MSa w 4 41 Kac MSa w 20 46 Kac MSa w 20 46 Kac L4g. L 13 13 Mły L4g. L 13 13 ŁW; OI ć 301 1 WOJ L4g. L 13 41 Zag Ptd w 204 1 Zyg L4g. L 309 1 WOJ L4g. L 13 41 Zag OI E 301 1 WOJ L 24 dr inż. Kamiński Kamil wt. 5-6 Pfk w 204 1 JB Mp w 3 67 Fra Mp ć 24 67 Mis Mp w 3 67 Fra Mp w 3 67 Fra Mp w 3 67 Fra Mp w 3 67 Fra Mp w 3 67 Fra Ptd w 204 1 Zyg L4g. L 27 46 ŁW; Mp w 3 67 Fra Ptd w 20 46 Zyg L4g. L 09 41 KK Pfk Ep 4 41 JB L 12 dr inż. Jakubaszek Marcin wt. 7-8 Tte w 4 41 Pał OI w 301 1 WOJ OI w 301 1 WOJ OI w 301 1 WOJ OI w 301 1 WOJ OI w 301 1 WOJ OI w 301 1 WOJ L4g. L 27 46 ŁW; OI ć 301 1 WOJ MSa w 4 41 Kac L4g. L 09 41 KK L 12 dr inż. Wróblewski Mirosław wt. 11-12 Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB L 18 dr inż. Zagrajek Przemysław wt. 13-14 Ptd w ON-LI BM Ptd w ON-LI BM Ptd w ON-LI BM Ptd w ON-LI BM Ptd w ON-LI BM L 12 dr inż. Drozd Tadeusz śr. 16 IX 23 IX 30 IX 07 X 14 X 21 X 28 X 04 XI 11 XI 18 XI 25 XI 02 XII 09 XII 16 XII 23 XII 30 XII 06; 03 II 10 II 17 II 24 II L 12 dr inż. Gorajek Łukasz śr. 1-2 Tt w 27 70 Pan Tt w 27 70 Pan Tt w 27 70 Pan Tt w 27 70 Pan Tt w 27 70 Pan Tt w 27 70 Pan Tt ć S1 72 ZiM Tt w 27 70 Pan Tt w 27 70 Pan Tt w 27 70 Pan UoG L 108 5 Szo MSa L 212 5 Kac L 16 dr inż.  Węgrzyński Łukasz śr. 3-4 Tt w 27 70 Pan Tt w 27 70 Pan Mp L 3 67 Oko Tt w 27 70 Pan Tt w 27 70 Pan Mp L 3 67 Oko Mp L 3 67 Oko Tt w 27 70 Pan Tt ć S1 72 ZiM Mp L 3 67 Oko UoG L 108 5 Szo Pfk ć 4 41 PJ L 12 mgr inż. Bartosewicz Bartosz  ... śr. 5-6 LPK w 20 46 Bar LPK w 20 46 Bar LPK w 20 46 Bar LPK w 20 46 Bar LPK w 20 46 Bar LPK w 20 46 Bar LPK w 20 46 Bar LPK w 20 46 Bar Ptd w 204 1 Zyg Ptd w 20 46 Zyg Ptd w 204 1 Zyg Mp L 3 67 Oko L4g. L 309 1 WOJ LPK Laboratoryjne metody symulacji zjawisk; materii w przestrzeni kosmicznej śr. 7-8 Mp w 3 67 Fra Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Ptd w 20 46 Zyg Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ L4g. L 309 1 WOJ w 16 dr hab. inż. (prof. ucz.) Bartnik Andrzej czw. 17 IX 24 IX 01 X 08 X 15 X 22 X 29 X 05 XI 12 XI 19 XI 26 XI 03 XII 10 XII 17 XII 24 XII 31 XII 07; 04 II 11 II 18 II 25 II ć 6 dr hab. inż. (prof. ucz.) Bartnik Andrzej czw. 1-2 Tte w 4 41 Pał MSa L 212 5 Kac L4g. L 09 41 KK L4g. L 09 41 KK MSa L 212 5 Kac Mp Mechanika płynów czw. 3-4 Ing MSa w 21 46 Kac MSa L 212 5 Kac L4g. L 09 41 KK L4g. L 09 41 KK MSa L 212 5 Kac w 24 dr inż. Frant Michał czw. 5-6 Sipu Zp. aE S Wiś Ing L4g. L 13 13 Mat L4g. L 27 46 Mat Ptd w 204 1 Zyg ć 10 mgr inż. Misiak Zawadzka Aneta czw. 7-8 L4g. L 13 13 Mat L4g. L 27 46 Mat L 10 por. mgr inż. Okoń Tomasz pt. 18 IX 25 IX 02 X 09 X 16 X 23 X 30 X 06 XI 13 XI 20 XI 27 XI 04 XII 11 XII 18 XII 25 XII 01; 05 II 12 II 19 II 26 II MSa Meteorologia satelitarna pt. 1-2 Tt ć S1 72 ZiM Mp ć 24 67 Mis Mp ć 24 67 Mis Mp ć 24 67 Mis Mp ć 24 67 Mis w 16 por. mgr Kaczmarzyk Bartosz pt. 3-4 OI ć 301 1 WOJ OI ć 301 1 WOJ OI ć 301 1 WOJ OI ć 301 1 WOJ OI ć 301 1 WOJ Ptd w 204 1 Zyg MSa L 212 5 Kac OI Ep 301 1 WOJ L 14 por. mgr Kaczmarzyk Bartosz pt. 5-6 LPK ć 20 46 Bar LPK ć 20 46 Bar LPK ć 20 46 Bar L4g. L 309 1 WOJ L4g. L 27 46 ŁW; UoG L 108 5 Szo UoG L 108 5 Szo Ptd w 204 1 Zyg w 14 dr hab. inż. (prof. ucz.) Wojtanowski Jacek pt. 9-10 Ptd w ON-LI BM Ptd w ON-LI BM Ptd w ON-LI BM Ptd w ON-LI BM ć 16 dr hab. inż. (prof. ucz.) Wojtanowski Jacek pt. 11-12 Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB E 2 dr hab. inż. (prof. ucz.) Wojtanowski Jacek sob. 19 IX 26 IX 03 X 10 X 17 X 24 X 31 X 07 XI 14 XI 21 XI 28 XI 05 XII 12 XII 19 XII 26 XII 02; 06 II 13 II 20 II 27 II Ep 2 dr hab. inż. (prof. ucz.) Wojtanowski Jacek niedz. 20 IX 27 IX 04 X 11 X 18 X 25 X 01 XI 08 XI 15 XI 22 XI 29 XI 06 XII 13 XII 20 XII 27 XII 03; 07 II 14 II 21 II 28 II PeK Podstawy elektroniki kwantowej Ep 2 prof. dr hab. inż. Żendzian Waldemar Pfk Podstawy fizyki kosmicznej w 40 prof. dr hab. Błęcki Jan ć 20 dr inż. Jujeczko Paweł E 2 prof. dr hab. Błęcki Jan Ep 2 prof. dr hab. Błęcki Jan POT Podstawy optyki Ep 2 prof. dr hab. inż. Jabczyński Jan Ptd Podstawy teledetekcji w 22 dr Błęcka Maria w 24 dr inż. Zygmunt Marek ć 6 dr inż. Drozd Tadeusz Sipu Symulacja; projektowanie układów Zp. 2 dr inż. Wiśnios Michał Tte Technika terahercowa w 14 prof. dr hab. inż. Pałka Norbert Tt Termodynamika techniczna w 28 prof. dr. hab. inż. Panas Andrzej ć 6 dr inż. Zieliński Mateusz L 10 dr inż. Zieliński Mateusz UoG Układy odniesienia; podstawy geodezji w 20 prof. dr hab. inż. Kłos Anna ć 10 prof. dr hab. inż. Kłos Anna L 18 dr inż. Szołucha Marcin Data aktualizacji: 22.09.2026 14:24:02 Dokument został utworzony za pomocą programu Plansoft.org; podstawy geodezji w 20 prof. dr hab. inż. Kłos Anna ć 10 prof. dr hab. inż. Kłos Anna L 18 dr inż. Szołucha Marcin; dr inż.  Węgrzyński Łukasz; mgr inż. Bartosewicz Bartosz  ...
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z
 DTEND:20261126T102500Z
 SUMMARY:MSa (w)
 LOCATION:21 46
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Piecek Wiktor
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T085000Z
 DTEND:20261203T102500Z
 SUMMARY:MSa (L)
-LOCATION:212 53
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Piecek Wiktor
+LOCATION:212 5
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T085000Z
@@ -1246,57 +1246,57 @@ BEGIN:VEVENT
 DTSTART:20260114T085000Z
 DTEND:20260114T102500Z
 SUMMARY:MSa (L)
-LOCATION:212 53
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Piecek Wiktor
+LOCATION:212 5
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260917T094000Z
 DTEND:20260917T111500Z
 SUMMARY:Sipu Zp.
 LOCATION:aE S
-DESCRIPTION:Symulacja i projektowanie układów\nRodzaj zajęć: Zp.\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Symulacja i projektowanie układów\nRodzaj zajęć: Zp.\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T094000Z
 DTEND:20261008T111500Z
 SUMMARY:Ing 
 LOCATION:
-DESCRIPTION:Ing\nRodzaj zajęć: -\nNumer zajęć: 2/2\nProwadzący: dr Kurzyna Jacek; dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr inż. Kamiński Kamil; dr inż. Jakubaszek Marcin; dr inż. Wróblewski Mirosław; dr inż. Zagrajek Przemysław; dr inż. Drozd Tadeusz; dr inż. Gorajek Łukasz; dr inż. Węgrzyński Łukasz; mgr inż. Bartosewicz Bartosz; mgr inż. Majszyk Mateusz; mgr inż. Nowak Michał; dr hab. inż. (prof. ucz.) Bartnik Andrzej; dr inż. Frant Michał; mgr inż. Misiak Zawadzka Aneta; por. mgr inż. Okoń Tomasz; por. mgr Kaczmarzyk Bartosz; prof. dr hab. inż. Żendzian Waldemar; prof. dr hab. Błęcki Jan; dr inż. Jujeczko Paweł; prof. dr hab. inż. Jabczyński Jan; dr Błęcka Maria; dr inż. Zygmunt Marek; dr inż. Wiśnios Michał; prof. dr hab. inż. Pałka Norbert; prof. dr. hab. inż. Panas Andrzej; dr inż. Zieliński Mateusz; prof. dr hab. inż. Kłos Anna; dr inż. Szołucha Marcin; 01 II 08 II 15 II 22 II EPK Elektryczne napędy reaktywne dla pojazdów kosmicznych pon. 1-2 Tte w 4 41 PałN UoG w 4 41 KłA UoG w 4 41 KłA UoG ć 4 41 KłA UoG L 108 58 SzoM UoG w 4 41 KłA UoG w 4 41 KłA Ptd ć 204 136 DrT L4g. L 09 41 KK Ptd ć 204 136 DrT UoG w 4 41 KłA Ptd ć 204 136 DrT w 16 dr Kurzyna Jacek pon. 3-4 PeK Ep 20 46 Żen Mp w 3 67 Fra UoG w 4 41 KłA UoG w 4 41 KłA UoG ć 4 41 KłA UoG L 108 58 SzoM MSa w 4 41 KaczB UoG w 4 41 KłA Mp w 3 67 Fra L4g. L 09 41 KK Mp w 3 67 Fra UoG w 4 41 KłA UoG ć 4 41 KłA UoG ć 4 41 KłA ć 14 dr Kurzyna Jacek pon. 5-6 F3 Ep 4 41 Pie EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK F3 Fizyka 3 pon. 7-8 POT Ep 9 46 JabJ Ptd w 4 41 BM Tte w 4 41 PałN OI w 301 136 WOJ Ptd w 4 41 BM UoG ć 4 41 KłA Ptd w 204 136 Zyg Ptd w 204 136 Zyg Tt L 8 72 ZiMa Tt L 8 72 ZiMa Tt L 8 72 ZiMa UoG w 4 41 KłA Ep 2 dr hab. inż. Piecek Wiktor pon. 9-10 OI ć 301 136 WOJ MSa L 212 53 KaczB L4g. Laboratorium-4g. wt. 15 IX 22 IX 29 IX 06 X 13 X 20 X 27 X 03 XI 10 XI 17 XI 24 XI 01 XII 08 XII 15 XII 22 XII 29 XII 05; 02 II 09 II 16 II 23 II L 12 dr hab. inż. (prof. ucz.) Wojtanowski Jacek wt. 1-2 Tte w 4 41 PałN MSa w 20 46 KaczB Tte w 4 41 PałN L4g. L 13 136; KK L 12 dr hab. inż. (prof. ucz.) Młyńczak Jarosław wt. 3-4 Mp w 3 67 Fra MSa w 4 41 KaczB MSa w 4 41 KaczB MSa w 20 46 KaczB MSa w 20 46 KaczB L4g. L 13 136; KK OI E 301 136 WOJ L 24 dr inż. Kamiński Kamil wt. 5-6 Pfk w 204 136 JB Mp w 3 67 Fra Mp ć 24 67 Misi Mp w 3 67 Fra Mp w 3 67 Fra Mp w 3 67 Fra Mp w 3 67 Fra Mp w 3 67 Fra Ptd w 204 136 Zyg L4g. L 27 46; GorŁ Mp w 3 67 Fra Ptd w 20 46 Zyg L4g. L 09 41 KK Pfk Ep 4 41 JB L 12 dr inż. Jakubaszek Marcin wt. 7-8 Tte w 4 41 PałN OI w 301 136 WOJ OI w 301 136 WOJ OI w 301 136 WOJ OI w 301 136 WOJ OI w 301 136 WOJ OI w 301 136 WOJ L4g. L 27 46; GorŁ OI ć 301 136 WOJ MSa w 4 41 KaczB L4g. L 09 41 KK L 12 dr inż. Wróblewski Mirosław wt. 11-12 Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB L 18 dr inż. Zagrajek Przemysław wt. 13-14 Ptd w ON-LINE BM Ptd w ON-LINE BM Ptd w ON-LINE BM Ptd w ON-LINE BM Ptd w ON-LINE BM L 12 dr inż. Drozd Tadeusz śr. 16 IX 23 IX 30 IX 07 X 14 X 21 X 28 X 04 XI 11 XI 18 XI 25 XI 02 XII 09 XII 16 XII 23 XII 30 XII 06; 03 II 10 II 17 II 24 II L 12 dr inż. Gorajek Łukasz śr. 1-2 Tt w 27 70 Pana Tt w 27 70 Pana Tt w 27 70 Pana Tt w 27 70 Pana Tt w 27 70 Pana Tt w 27 70 Pana Tt ć S1 72 ZiMa Tt w 27 70 Pana Tt w 27 70 Pana Tt w 27 70 Pana UoG L 108 58 SzoM MSa L 212 53 KaczB L 16 dr inż.  Węgrzyński Łukasz śr. 3-4 Tt w 27 70 Pana Tt w 27 70 Pana Mp L 3 67 Okoń Tt w 27 70 Pana Tt w 27 70 Pana Mp L 3 67 Okoń Mp L 3 67 Okoń Tt w 27 70 Pana Tt ć S1 72 ZiMa Mp L 3 67 Okoń UoG L 108 58 SzoM Pfk ć 4 41 PJ L 12 mgr inż. Bartosewicz Bartosz śr. 5-6 LPK w 20 46 BarA LPK w 20 46 BarA LPK w 20 46 BarA LPK w 20 46 BarA LPK w 20 46 BarA LPK w 20 46 BarA LPK w 20 46 BarA LPK w 20 46 BarA Ptd w 204 136 Zyg Ptd w 20 46 Zyg Ptd w 204 136 Zyg Mp L 3 67 Okoń L4g. L 309 136; Zagr L 8 mgr inż. Majszyk Mateusz śr. 7-8 Mp w 3 67 Fra Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Ptd w 20 46 Zyg Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ L4g. L 309 136; MN L 12 mgr inż. Nowak Michał czw. 17 IX 24 IX 01 X 08 X 15 X 22 X 29 X 05 XI 12 XI 19 XI 26 XI 03 XII 10 XII 17 XII 24 XII 31 XII 07; materii w przestrzeni kosmicznej czw. 1-2 Tte w 4 41 PałN MSa L 212 53 KaczB L4g. L 09 41 KK L4g. L 09 41 KK MSa L 212 53 KaczB w 16 dr hab. inż. (prof. ucz.) Bartnik Andrzej czw. 3-4 Ing MSa w 21 46 KaczB MSa L 212 53 KaczB L4g. L 09 41 KK L4g. L 09 41 KK MSa L 212 53 KaczB ć 6 dr hab. inż. (prof. ucz.) Bartnik Andrzej czw. 5-6 Sipu Zp. aE S WiśM Ing L4g. L 13 136; GorŁ w 24 dr inż. Frant Michał pt. 18 IX 25 IX 02 X 09 X 16 X 23 X 30 X 06 XI 13 XI 20 XI 27 XI 04 XII 11 XII 18 XII 25 XII 01; 05 II 12 II 19 II 26 II ć 10 mgr inż. Misiak Zawadzka Aneta pt. 1-2 Tt ć S1 72 ZiMa Mp ć 24 67 Misi Mp ć 24 67 Misi Mp ć 24 67 Misi Mp ć 24 67 Misi L 10 por. mgr inż. Okoń Tomasz pt. 3-4 OI ć 301 136 WOJ OI ć 301 136 WOJ OI ć 301 136 WOJ OI ć 301 136 WOJ OI ć 301 136 WOJ Ptd w 204 136 Zyg MSa L 212 53 KaczB OI Ep 301 136 WOJ MSa Meteorologia satelitarna pt. 5-6 LPK ć 20 46 BarA LPK ć 20 46 BarA LPK ć 20 46 BarA L4g. L 309 136; GorŁ UoG L 108 58 SzoM UoG L 108 58 SzoM UoG L 108 58 SzoM Pfk E 4 41 JB w 16 por. mgr Kaczmarzyk Bartosz pt. 7-8 Tt L 8 72 ZiMa Tt L 8 72 ZiMa L4g. L 309 136; GorŁ UoG L 108 58 SzoM UoG L 108 58 SzoM Ptd w 204 136 Zyg L 14 por. mgr Kaczmarzyk Bartosz pt. 9-10 Ptd w ON-LINE BM Ptd w ON-LINE BM Ptd w ON-LINE BM Ptd w ON-LINE BM OI Optyka instrumentalna pt. 11-12 Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB Pfk w ON-LINE JB w 14 dr hab. inż. (prof. ucz.) Wojtanowski Jacek sob. 19 IX 26 IX 03 X 10 X 17 X 24 X 31 X 07 XI 14 XI 21 XI 28 XI 05 XII 12 XII 19 XII 26 XII 02; 06 II 13 II 20 II 27 II ć 16 dr hab. inż. (prof. ucz.) Wojtanowski Jacek niedz. 20 IX 27 IX 04 X 11 X 18 X 25 X 01 XI 08 XI 15 XI 22 XI 29 XI 06 XII 13 XII 20 XII 27 XII 03; 07 II 14 II 21 II 28 II E 2 dr hab. inż. (prof. ucz.) Wojtanowski Jacek Ep 2 dr hab. inż. (prof. ucz.) Wojtanowski Jacek PeK Podstawy elektroniki kwantowej Ep 2 prof. dr hab. inż. Żendzian Waldemar Pfk Podstawy fizyki kosmicznej w 40 prof. dr hab. Błęcki Jan ć 20 dr inż. Jujeczko Paweł E 2 prof. dr hab. Błęcki Jan Ep 2 prof. dr hab. Błęcki Jan POT Podstawy optyki Ep 2 prof. dr hab. inż. Jabczyński Jan Ptd Podstawy teledetekcji w 22 dr Błęcka Maria w 24 dr inż. Zygmunt Marek ć 6 dr inż. Drozd Tadeusz Sipu Symulacja; projektowanie układów Zp. 2 dr inż. Wiśnios Michał Tte Technika terahercowa w 14 prof. dr hab. inż. Pałka Norbert Tt Termodynamika techniczna w 28 prof. dr. hab. inż. Panas Andrzej ć 6 dr inż. Zieliński Mateusz L 10 dr inż. Zieliński Mateusz UoG Układy odniesienia; podstawy geodezji w 20 prof. dr hab. inż. Kłos Anna ć 10 prof. dr hab. inż. Kłos Anna L 18 dr inż. Szołucha Marcin Data aktualizacji: 21.09.2026 14:03:07 Dokument został utworzony za pomocą programu Plansoft.org; podstawy geodezji w 20 prof. dr hab. inż. Kłos Anna ć 10 prof. dr hab. inż. Kłos Anna L 18 dr inż. Szołucha Marcin; dr inż.  Węgrzyński Łukasz
+DESCRIPTION:Ing\nRodzaj zajęć: -\nNumer zajęć: 2/2\nProwadzący: dr Kurzyna Jacek; dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr inż. Kamiński Kamil; dr inż. Jakubaszek Marcin; dr inż. Wróblewski Mirosław; dr inż. Zagrajek Przemysław; dr inż. Drozd Tadeusz; dr inż. Gorajek Łukasz; dr inż. Węgrzyński Łukasz; mgr inż. Bartosewicz Bartosz ...; dr hab. inż. (prof. ucz.) Bartnik Andrzej; dr inż. Frant Michał; mgr inż. Misiak Zawadzka Aneta; por. mgr inż. Okoń Tomasz; por. mgr Kaczmarzyk Bartosz; prof. dr hab. inż. Żendzian Waldemar; prof. dr hab. Błęcki Jan; dr inż. Jujeczko Paweł; prof. dr hab. inż. Jabczyński Jan; dr Błęcka Maria; dr inż. Zygmunt Marek; dr inż. Wiśnios Michał; prof. dr hab. inż. Pałka Norbert; prof. dr. hab. inż. Panas Andrzej; dr inż. Zieliński Mateusz; prof. dr hab. inż. Kłos Anna; dr inż. Szołucha Marcin; 01 II 08 II 15 II 22 II EPK Elektryczne napędy reaktywne dla pojazdów kosmicznych pon. 1-2 Tte w 4 41 Pał UoG w 4 41 KłA UoG w 4 41 KłA UoG ć 4 41 KłA UoG L 108 5 Szo UoG w 4 41 KłA UoG w 4 41 KłA Ptd ć 204 1 DrT L4g. L 09 41 KK Ptd ć 204 1 DrT UoG w 4 41 KłA Ptd ć 204 1 DrT w 16 dr Kurzyna Jacek pon. 3-4 PeK Ep 20 46 Żen Mp w 3 67 Fra UoG w 4 41 KłA UoG w 4 41 KłA UoG ć 4 41 KłA UoG L 108 5 Szo MSa w 4 41 Kac UoG w 4 41 KłA Mp w 3 67 Fra L4g. L 09 41 KK Mp w 3 67 Fra UoG w 4 41 KłA UoG ć 4 41 KłA UoG ć 4 41 KłA ć 14 dr Kurzyna Jacek pon. 5-6 F3 Ep 4 41 Pie EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK w 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK EPK ć 4 41 JK F3 Fizyka 3 pon. 7-8 POT Ep 9 46 Jab Ptd w 4 41 BM Tte w 4 41 Pał OI w 301 1 WOJ Ptd w 4 41 BM UoG ć 4 41 KłA Ptd w 204 1 Zyg Ptd w 204 1 Zyg Tt L 8 72 ZiM Tt L 8 72 ZiM Tt L 8 72 ZiM UoG w 4 41 KłA Ep 2 dr hab. inż. Piecek Wiktor pon. 9-10 OI ć 301 1 WOJ MSa L 212 5 Kac L4g. Laboratorium-4g. wt. 15 IX 22 IX 29 IX 06 X 13 X 20 X 27 X 03 XI 10 XI 17 XI 24 XI 01 XII 08 XII 15 XII 22 XII 29 XII 05; 02 II 09 II 16 II 23 II L 12 dr hab. inż. (prof. ucz.) Wojtanowski Jacek wt. 1-2 Tte w 4 41 Pał MSa w 20 46 Kac Tte w 4 41 Pał L4g. L 13 13 Mły L4g. L 13 13 ŁW; Tte w 4 41 Pał L4g. L 13 41 Zag L4g. L 309 1 WOJ L4g. L 13 41 Zag L 12 dr hab. inż. (prof. ucz.) Młyńczak Jarosław wt. 3-4 Mp w 3 67 Fra MSa w 4 41 Kac MSa w 4 41 Kac MSa w 20 46 Kac MSa w 20 46 Kac L4g. L 13 13 Mły L4g. L 13 13 ŁW; OI ć 301 1 WOJ L4g. L 13 41 Zag Ptd w 204 1 Zyg L4g. L 309 1 WOJ L4g. L 13 41 Zag OI E 301 1 WOJ L 24 dr inż. Kamiński Kamil wt. 5-6 Pfk w 204 1 JB Mp w 3 67 Fra Mp ć 24 67 Mis Mp w 3 67 Fra Mp w 3 67 Fra Mp w 3 67 Fra Mp w 3 67 Fra Mp w 3 67 Fra Ptd w 204 1 Zyg L4g. L 27 46 ŁW; Mp w 3 67 Fra Ptd w 20 46 Zyg L4g. L 09 41 KK Pfk Ep 4 41 JB L 12 dr inż. Jakubaszek Marcin wt. 7-8 Tte w 4 41 Pał OI w 301 1 WOJ OI w 301 1 WOJ OI w 301 1 WOJ OI w 301 1 WOJ OI w 301 1 WOJ OI w 301 1 WOJ L4g. L 27 46 ŁW; OI ć 301 1 WOJ MSa w 4 41 Kac L4g. L 09 41 KK L 12 dr inż. Wróblewski Mirosław wt. 11-12 Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB L 18 dr inż. Zagrajek Przemysław wt. 13-14 Ptd w ON-LI BM Ptd w ON-LI BM Ptd w ON-LI BM Ptd w ON-LI BM Ptd w ON-LI BM L 12 dr inż. Drozd Tadeusz śr. 16 IX 23 IX 30 IX 07 X 14 X 21 X 28 X 04 XI 11 XI 18 XI 25 XI 02 XII 09 XII 16 XII 23 XII 30 XII 06; 03 II 10 II 17 II 24 II L 12 dr inż. Gorajek Łukasz śr. 1-2 Tt w 27 70 Pan Tt w 27 70 Pan Tt w 27 70 Pan Tt w 27 70 Pan Tt w 27 70 Pan Tt w 27 70 Pan Tt ć S1 72 ZiM Tt w 27 70 Pan Tt w 27 70 Pan Tt w 27 70 Pan UoG L 108 5 Szo MSa L 212 5 Kac L 16 dr inż.  Węgrzyński Łukasz śr. 3-4 Tt w 27 70 Pan Tt w 27 70 Pan Mp L 3 67 Oko Tt w 27 70 Pan Tt w 27 70 Pan Mp L 3 67 Oko Mp L 3 67 Oko Tt w 27 70 Pan Tt ć S1 72 ZiM Mp L 3 67 Oko UoG L 108 5 Szo Pfk ć 4 41 PJ L 12 mgr inż. Bartosewicz Bartosz  ... śr. 5-6 LPK w 20 46 Bar LPK w 20 46 Bar LPK w 20 46 Bar LPK w 20 46 Bar LPK w 20 46 Bar LPK w 20 46 Bar LPK w 20 46 Bar LPK w 20 46 Bar Ptd w 204 1 Zyg Ptd w 20 46 Zyg Ptd w 204 1 Zyg Mp L 3 67 Oko L4g. L 309 1 WOJ LPK Laboratoryjne metody symulacji zjawisk; materii w przestrzeni kosmicznej śr. 7-8 Mp w 3 67 Fra Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Ptd w 20 46 Zyg Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ Pfk ć 4 41 PJ L4g. L 309 1 WOJ w 16 dr hab. inż. (prof. ucz.) Bartnik Andrzej czw. 17 IX 24 IX 01 X 08 X 15 X 22 X 29 X 05 XI 12 XI 19 XI 26 XI 03 XII 10 XII 17 XII 24 XII 31 XII 07; 04 II 11 II 18 II 25 II ć 6 dr hab. inż. (prof. ucz.) Bartnik Andrzej czw. 1-2 Tte w 4 41 Pał MSa L 212 5 Kac L4g. L 09 41 KK L4g. L 09 41 KK MSa L 212 5 Kac Mp Mechanika płynów czw. 3-4 Ing MSa w 21 46 Kac MSa L 212 5 Kac L4g. L 09 41 KK L4g. L 09 41 KK MSa L 212 5 Kac w 24 dr inż. Frant Michał czw. 5-6 Sipu Zp. aE S Wiś Ing L4g. L 13 13 Mat L4g. L 27 46 Mat Ptd w 204 1 Zyg ć 10 mgr inż. Misiak Zawadzka Aneta czw. 7-8 L4g. L 13 13 Mat L4g. L 27 46 Mat L 10 por. mgr inż. Okoń Tomasz pt. 18 IX 25 IX 02 X 09 X 16 X 23 X 30 X 06 XI 13 XI 20 XI 27 XI 04 XII 11 XII 18 XII 25 XII 01; 05 II 12 II 19 II 26 II MSa Meteorologia satelitarna pt. 1-2 Tt ć S1 72 ZiM Mp ć 24 67 Mis Mp ć 24 67 Mis Mp ć 24 67 Mis Mp ć 24 67 Mis w 16 por. mgr Kaczmarzyk Bartosz pt. 3-4 OI ć 301 1 WOJ OI ć 301 1 WOJ OI ć 301 1 WOJ OI ć 301 1 WOJ OI ć 301 1 WOJ Ptd w 204 1 Zyg MSa L 212 5 Kac OI Ep 301 1 WOJ L 14 por. mgr Kaczmarzyk Bartosz pt. 5-6 LPK ć 20 46 Bar LPK ć 20 46 Bar LPK ć 20 46 Bar L4g. L 309 1 WOJ L4g. L 27 46 ŁW; UoG L 108 5 Szo UoG L 108 5 Szo Ptd w 204 1 Zyg w 14 dr hab. inż. (prof. ucz.) Wojtanowski Jacek pt. 9-10 Ptd w ON-LI BM Ptd w ON-LI BM Ptd w ON-LI BM Ptd w ON-LI BM ć 16 dr hab. inż. (prof. ucz.) Wojtanowski Jacek pt. 11-12 Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB Pfk w ON-LI JB E 2 dr hab. inż. (prof. ucz.) Wojtanowski Jacek sob. 19 IX 26 IX 03 X 10 X 17 X 24 X 31 X 07 XI 14 XI 21 XI 28 XI 05 XII 12 XII 19 XII 26 XII 02; 06 II 13 II 20 II 27 II Ep 2 dr hab. inż. (prof. ucz.) Wojtanowski Jacek niedz. 20 IX 27 IX 04 X 11 X 18 X 25 X 01 XI 08 XI 15 XI 22 XI 29 XI 06 XII 13 XII 20 XII 27 XII 03; 07 II 14 II 21 II 28 II PeK Podstawy elektroniki kwantowej Ep 2 prof. dr hab. inż. Żendzian Waldemar Pfk Podstawy fizyki kosmicznej w 40 prof. dr hab. Błęcki Jan ć 20 dr inż. Jujeczko Paweł E 2 prof. dr hab. Błęcki Jan Ep 2 prof. dr hab. Błęcki Jan POT Podstawy optyki Ep 2 prof. dr hab. inż. Jabczyński Jan Ptd Podstawy teledetekcji w 22 dr Błęcka Maria w 24 dr inż. Zygmunt Marek ć 6 dr inż. Drozd Tadeusz Sipu Symulacja; projektowanie układów Zp. 2 dr inż. Wiśnios Michał Tte Technika terahercowa w 14 prof. dr hab. inż. Pałka Norbert Tt Termodynamika techniczna w 28 prof. dr. hab. inż. Panas Andrzej ć 6 dr inż. Zieliński Mateusz L 10 dr inż. Zieliński Mateusz UoG Układy odniesienia; podstawy geodezji w 20 prof. dr hab. inż. Kłos Anna ć 10 prof. dr hab. inż. Kłos Anna L 18 dr inż. Szołucha Marcin Data aktualizacji: 22.09.2026 14:24:02 Dokument został utworzony za pomocą programu Plansoft.org; podstawy geodezji w 20 prof. dr hab. inż. Kłos Anna ć 10 prof. dr hab. inż. Kłos Anna L 18 dr inż. Szołucha Marcin; dr inż.  Węgrzyński Łukasz; mgr inż. Bartosewicz Bartosz  ...
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z
 DTEND:20261126T121500Z
 SUMMARY:L4g. (L)
-LOCATION:13 136;6 49;301 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 23/30\nProwadzący: mgr inż. Bartosewicz Bartosz; dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+LOCATION:13 13
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 23/30\nProwadzący: mgr inż. Bartosewicz Bartosz ...
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
 DTEND:20261203T121500Z
 SUMMARY:L4g. (L)
-LOCATION:27 46;6 49;301 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 24/30\nProwadzący: mgr inż. Bartosewicz Bartosz; dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr inż. Gorajek Łukasz
+LOCATION:27 46
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 24/30\nProwadzący: mgr inż. Bartosewicz Bartosz ...
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:Ptd (w)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 17/23\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T123000Z
 DTEND:20261126T140500Z
 SUMMARY:L4g. (L)
-LOCATION:13 136;6 49;301 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 25/30\nProwadzący: mgr inż. Bartosewicz Bartosz; dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+LOCATION:13 13
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 25/30\nProwadzący: mgr inż. Bartosewicz Bartosz ...
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T123000Z
 DTEND:20261203T140500Z
 SUMMARY:L4g. (L)
-LOCATION:27 46;6 49;301 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 26/30\nProwadzący: mgr inż. Bartosewicz Bartosz; dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr inż. Gorajek Łukasz
+LOCATION:27 46
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 26/30\nProwadzący: mgr inż. Bartosewicz Bartosz ...
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T070000Z
@@ -1337,56 +1337,56 @@ BEGIN:VEVENT
 DTSTART:20261106T085000Z
 DTEND:20261106T102500Z
 SUMMARY:OI (ć)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T085000Z
 DTEND:20261120T102500Z
 SUMMARY:OI (ć)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T085000Z
 DTEND:20261204T102500Z
 SUMMARY:OI (ć)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T085000Z
 DTEND:20261211T102500Z
 SUMMARY:OI (ć)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T085000Z
 DTEND:20261218T102500Z
 SUMMARY:OI (ć)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T085000Z
 DTEND:20260108T102500Z
 SUMMARY:Ptd (w)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 18/23\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T085000Z
 DTEND:20260122T102500Z
 SUMMARY:MSa (L)
-LOCATION:212 53
-DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Piecek Wiktor
+LOCATION:212 5
+DESCRIPTION:Meteorologia satelitarna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr Kurzyna Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T085000Z
 DTEND:20260219T102500Z
 SUMMARY:OI (Ep)
-LOCATION:301 136
+LOCATION:301 1
 DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -1414,36 +1414,36 @@ BEGIN:VEVENT
 DTSTART:20261211T104000Z
 DTEND:20261211T121500Z
 SUMMARY:L4g. (L)
-LOCATION:309 136;17 136;13 41
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 27/30\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr inż. Zagrajek Przemysław
+LOCATION:309 1
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 27/30\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T104000Z
 DTEND:20261218T121500Z
 SUMMARY:L4g. (L)
-LOCATION:27 46;4 49;301 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 28/30\nProwadzący: dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr inż. Gorajek Łukasz
+LOCATION:27 46
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 28/30\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T104000Z
 DTEND:20260108T121500Z
 SUMMARY:UoG (L)
-LOCATION:108 58
-DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+LOCATION:108 5
+DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T104000Z
 DTEND:20260115T121500Z
 SUMMARY:UoG (L)
-LOCATION:108 58
-DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+LOCATION:108 5
+DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T104000Z
 DTEND:20260122T121500Z
 SUMMARY:UoG (L)
-LOCATION:108 58
-DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+LOCATION:108 5
+DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260205T104000Z
@@ -1470,126 +1470,126 @@ BEGIN:VEVENT
 DTSTART:20261211T123000Z
 DTEND:20261211T140500Z
 SUMMARY:L4g. (L)
-LOCATION:309 136;17 136;13 41
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 29/30\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr inż. Zagrajek Przemysław
+LOCATION:309 1
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 29/30\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T123000Z
 DTEND:20261218T140500Z
 SUMMARY:L4g. (L)
-LOCATION:27 46;4 49;301 136
-DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 30/30\nProwadzący: dr hab. inż. Piecek Wiktor; dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr inż. Gorajek Łukasz
+LOCATION:27 46
+DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 30/30\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T123000Z
 DTEND:20260108T140500Z
 SUMMARY:UoG (L)
-LOCATION:108 58
-DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+LOCATION:108 5
+DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T123000Z
 DTEND:20260115T140500Z
 SUMMARY:UoG (L)
-LOCATION:108 58
-DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+LOCATION:108 5
+DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T123000Z
 DTEND:20260122T140500Z
 SUMMARY:Ptd (w)
-LOCATION:204 136
+LOCATION:204 1
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 19/23\nProwadzący: dr inż. Zagrajek Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T140000Z
 DTEND:20261016T153500Z
 SUMMARY:Ptd (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 20/23\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T140000Z
 DTEND:20261023T153500Z
 SUMMARY:Ptd (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 21/23\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T150000Z
 DTEND:20261030T163500Z
 SUMMARY:Ptd (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 22/23\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T150000Z
 DTEND:20261106T163500Z
 SUMMARY:Ptd (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 23/23\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T155000Z
 DTEND:20261009T172500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 12/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T155000Z
 DTEND:20261016T172500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 13/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T155000Z
 DTEND:20261023T172500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 14/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T165000Z
 DTEND:20261030T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 15/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T165000Z
 DTEND:20261106T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 16/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T165000Z
 DTEND:20261120T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 17/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T165000Z
 DTEND:20261204T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 18/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T165000Z
 DTEND:20261211T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 19/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T165000Z
 DTEND:20261218T182500Z
 SUMMARY:Pfk (w)
-LOCATION:ON-LINE
+LOCATION:ON-LI
 DESCRIPTION:Podstawy fizyki kosmicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 20/20\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 END:VCALENDAR

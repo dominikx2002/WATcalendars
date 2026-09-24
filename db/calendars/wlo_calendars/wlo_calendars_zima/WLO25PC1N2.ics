@@ -211,14 +211,7 @@ DTSTART:20261121T104000Z
 DTEND:20261121T121500Z
 SUMMARY:Wsp.Cyw 
 LOCATION:A.1.3/135
-DESCRIPTION:Wsp.Cyw\nRodzaj zajęć: -\nNumer zajęć: 3/11\nProwadzący: prof. dr hab. Jagusiak Bogusław 42
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261205T104000Z
-DTEND:20261205T121500Z
-SUMMARY:Log 
-LOCATION:255 S
-DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 1/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr inż. Żuchowski Dariusz 22
+DESCRIPTION:Wsp.Cyw\nRodzaj zajęć: -\nNumer zajęć: 3/11\nProwadzący: dr Woźniak Jacek; prof. dr hab. Jagusiak Bogusław 42
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T104000Z
@@ -267,7 +260,7 @@ DTSTART:20260206T104000Z
 DTEND:20260206T121500Z
 SUMMARY:Wsp.Cyw 
 LOCATION:3.16/135
-DESCRIPTION:Wsp.Cyw\nRodzaj zajęć: -\nNumer zajęć: 4/11\nProwadzący: prof. dr hab. Jagusiak Bogusław 42
+DESCRIPTION:Wsp.Cyw\nRodzaj zajęć: -\nNumer zajęć: 4/11\nProwadzący: dr Woźniak Jacek; prof. dr hab. Jagusiak Bogusław 42
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T104000Z
@@ -275,13 +268,6 @@ DTEND:20260220T121500Z
 SUMMARY:PDwK (Ep)
 LOCATION:2.21/135
 DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu 33\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Kleszcz Sławomir 34; dr inż. Kleszcz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261003T113000Z
-DTEND:20261003T130500Z
-SUMMARY:Log 
-LOCATION:1.16/16
-DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 2/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr inż. Żuchowski Dariusz 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T113000Z
@@ -316,7 +302,7 @@ DTSTART:20261121T123000Z
 DTEND:20261121T140500Z
 SUMMARY:Wsp.Cyw 
 LOCATION:A.1.3/135
-DESCRIPTION:Wsp.Cyw\nRodzaj zajęć: -\nNumer zajęć: 6/11\nProwadzący: prof. dr hab. Jagusiak Bogusław 42
+DESCRIPTION:Wsp.Cyw\nRodzaj zajęć: -\nNumer zajęć: 6/11\nProwadzący: dr Woźniak Jacek; prof. dr hab. Jagusiak Bogusław 42
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T123000Z
@@ -324,6 +310,13 @@ DTEND:20261212T140500Z
 SUMMARY:Pr.Nego.w 
 LOCATION:1/22
 DESCRIPTION:Pr.Nego.w\nRodzaj zajęć: -\nNumer zajęć: 9/9\nProwadzący: dr Moskal Marta 28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T123000Z
+DTEND:20261219T140500Z
+SUMMARY:Log 
+LOCATION:0.22/16
+DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 1/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T123000Z
@@ -337,7 +330,7 @@ DTSTART:20260116T123000Z
 DTEND:20260116T140500Z
 SUMMARY:Wsp.Cyw 
 LOCATION:A.1.3/135
-DESCRIPTION:Wsp.Cyw\nRodzaj zajęć: -\nNumer zajęć: 7/11\nProwadzący: prof. dr hab. Jagusiak Bogusław 42
+DESCRIPTION:Wsp.Cyw\nRodzaj zajęć: -\nNumer zajęć: 7/11\nProwadzący: dr Woźniak Jacek; prof. dr hab. Jagusiak Bogusław 42
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T123000Z
@@ -372,7 +365,7 @@ DTSTART:20261003T140000Z
 DTEND:20261003T153500Z
 SUMMARY:Log 
 LOCATION:1.16/16
-DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 3/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr inż. Żuchowski Dariusz 22
+DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 2/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T140000Z
@@ -400,7 +393,7 @@ DTSTART:20261114T150000Z
 DTEND:20261114T163500Z
 SUMMARY:Wsp.Cyw 
 LOCATION:A.1.3/135
-DESCRIPTION:Wsp.Cyw\nRodzaj zajęć: -\nNumer zajęć: 8/11\nProwadzący: prof. dr hab. Jagusiak Bogusław 42
+DESCRIPTION:Wsp.Cyw\nRodzaj zajęć: -\nNumer zajęć: 8/11\nProwadzący: dr Woźniak Jacek; prof. dr hab. Jagusiak Bogusław 42
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T150000Z
@@ -408,6 +401,13 @@ DTEND:20261121T163500Z
 SUMMARY:BIwO (w)
 LOCATION:0.28/135
 DESCRIPTION:Bezpieczeństwo informacji w obronności 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T150000Z
+DTEND:20261219T163500Z
+SUMMARY:Log 
+LOCATION:0.22/16
+DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 3/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T150000Z
@@ -421,7 +421,7 @@ DTSTART:20260116T150000Z
 DTEND:20260116T163500Z
 SUMMARY:Wsp.Cyw 
 LOCATION:2.21/135
-DESCRIPTION:Wsp.Cyw\nRodzaj zajęć: -\nNumer zajęć: 9/11\nProwadzący: prof. dr hab. Jagusiak Bogusław 42
+DESCRIPTION:Wsp.Cyw\nRodzaj zajęć: -\nNumer zajęć: 9/11\nProwadzący: dr Woźniak Jacek; prof. dr hab. Jagusiak Bogusław 42
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T150000Z
@@ -459,6 +459,13 @@ LOCATION:1003 HIL
 DESCRIPTION:Bezpieczeństwo informacji w obronności 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261114T165000Z
+DTEND:20261114T182500Z
+SUMMARY:Log 
+LOCATION:2.21/135
+DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 4/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr Woźniak Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261121T165000Z
 DTEND:20261121T182500Z
 SUMMARY:BIwO (ć)
@@ -477,7 +484,7 @@ DTSTART:20261011T060000Z
 DTEND:20261011T073500Z
 SUMMARY:Log 
 LOCATION:1.16/16
-DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 4/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr inż. Żuchowski Dariusz 22
+DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 5/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261108T070000Z
@@ -485,13 +492,6 @@ DTEND:20261108T083500Z
 SUMMARY:Fb (w)
 LOCATION:0.8/16
 DESCRIPTION:Filozofia bezpieczeństwa 9\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261122T070000Z
-DTEND:20261122T083500Z
-SUMMARY:Log 
-LOCATION:1.16/16
-DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 5/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr inż. Żuchowski Dariusz 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261206T070000Z
@@ -533,7 +533,7 @@ DTSTART:20261011T075000Z
 DTEND:20261011T092500Z
 SUMMARY:Log 
 LOCATION:1.16/16
-DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 6/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr inż. Żuchowski Dariusz 22
+DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 6/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T085000Z
@@ -561,7 +561,7 @@ DTSTART:20261122T085000Z
 DTEND:20261122T102500Z
 SUMMARY:Log 
 LOCATION:1.16/16
-DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 7/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr inż. Żuchowski Dariusz 22
+DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 7/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261206T085000Z
@@ -729,7 +729,7 @@ DTSTART:20261115T123000Z
 DTEND:20261115T140500Z
 SUMMARY:Log 
 LOCATION:187 S
-DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 8/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr inż. Żuchowski Dariusz 22
+DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 8/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T123000Z
@@ -799,7 +799,7 @@ DTSTART:20261115T150000Z
 DTEND:20261115T163500Z
 SUMMARY:Log 
 LOCATION:187 S
-DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 9/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr inż. Żuchowski Dariusz 22
+DESCRIPTION:Log\nRodzaj zajęć: -\nNumer zajęć: 9/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 16; dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T150000Z

@@ -2279,13 +2279,6 @@ LOCATION:09/ 54A
 DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
-SUMMARY:Ptr (L)
-LOCATION:4c/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261112T070000Z
 DTEND:20261112T083500Z
 SUMMARY:Dtw (w)
@@ -2794,7 +2787,7 @@ DTSTART:20261217T123000Z
 DTEND:20261217T140500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T123000Z
@@ -2872,6 +2865,13 @@ DTEND:20261001T153500Z
 SUMMARY:Tt (Ep)
 LOCATION:5/ 20
 DESCRIPTION:Termodynamika techniczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Koliński Kazimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T150000Z
+DTEND:20261105T163500Z
+SUMMARY:Ptr (L)
+LOCATION:4c/ 19; 3d/ 19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T150000Z

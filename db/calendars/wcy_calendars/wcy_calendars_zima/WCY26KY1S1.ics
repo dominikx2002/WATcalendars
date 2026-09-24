@@ -235,6 +235,13 @@ LOCATION:313 S
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:MD1 (ć)
+LOCATION:307 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: mgr Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
 SUMMARY:Mat I (ć)
@@ -415,6 +422,13 @@ DTEND:20261102T121500Z
 SUMMARY:MD1 (w)
 LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T123000Z
+DTEND:20261102T140500Z
+SUMMARY:MD1 (ć)
+LOCATION:252 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T150000Z
@@ -676,6 +690,13 @@ LOCATION:203 65
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
+SUMMARY:MD1 (ć)
+LOCATION:252 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261119T085000Z
 DTEND:20261119T102500Z
 SUMMARY:M II (w)
@@ -730,6 +751,13 @@ DTEND:20261124T121500Z
 SUMMARY:WDM (w)
 LOCATION:316 S
 DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:MD1 (ć)
+LOCATION:308 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T085000Z
@@ -1082,11 +1110,25 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261218T070000Z
+DTEND:20261218T083500Z
+SUMMARY:MD1 (ć)
+LOCATION:239 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261218T085000Z
 DTEND:20261218T102500Z
 SUMMARY:Mat I (ć)
 LOCATION:204 65
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T070000Z
+DTEND:20261221T083500Z
+SUMMARY:MD1 (ć)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T085000Z
@@ -1283,6 +1325,13 @@ DTEND:20270114T182500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T070000Z
+DTEND:20270115T083500Z
+SUMMARY:MD1 (ć)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T085000Z

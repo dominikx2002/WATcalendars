@@ -760,6 +760,13 @@ LOCATION:01/ 54A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261006T075000Z
+DTEND:20261006T092500Z
+SUMMARY:WdMN (w)
+LOCATION:09/ 54A
+DESCRIPTION:Wstęp do modelowania numerycznego w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Damaziak Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261013T075000Z
 DTEND:20261013T092500Z
 SUMMARY:Par (w)
@@ -907,13 +914,6 @@ LOCATION:9/ 62
 DESCRIPTION:Analiza ruchu człowieka\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T111500Z
-SUMMARY:WdMN (w)
-LOCATION:09/ 54A
-DESCRIPTION:Wstęp do modelowania numerycznego w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Damaziak Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:ArCz (w)
@@ -1045,13 +1045,6 @@ DTEND:20261013T130500Z
 SUMMARY:Wdmuc (w)
 LOCATION:8/ 62
 DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Sławiński Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
-SUMMARY:WdMN (w)
-LOCATION:09/ 54A
-DESCRIPTION:Wstęp do modelowania numerycznego w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Damaziak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T123000Z
@@ -1380,28 +1373,21 @@ DTSTART:20261014T060000Z
 DTEND:20261014T073500Z
 SUMMARY:WdMN (w)
 LOCATION:9/ 62
-DESCRIPTION:Wstęp do modelowania numerycznego w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Damaziak Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T060000Z
-DTEND:20261021T073500Z
-SUMMARY:WdMN (w)
-LOCATION:9/ 62
-DESCRIPTION:Wstęp do modelowania numerycznego w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Damaziak Krzysztof
+DESCRIPTION:Wstęp do modelowania numerycznego w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Damaziak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T070000Z
 DTEND:20261028T083500Z
 SUMMARY:WdMN (w)
 LOCATION:9/ 62
-DESCRIPTION:Wstęp do modelowania numerycznego w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Damaziak Krzysztof
+DESCRIPTION:Wstęp do modelowania numerycznego w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Damaziak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
 DTEND:20261104T083500Z
 SUMMARY:WdMN (w)
 LOCATION:9/ 62
-DESCRIPTION:Wstęp do modelowania numerycznego w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Damaziak Krzysztof
+DESCRIPTION:Wstęp do modelowania numerycznego w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Damaziak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T070000Z
@@ -1682,6 +1668,13 @@ DTEND:20261118T121500Z
 SUMMARY:BKiF (w)
 LOCATION:51/ 62
 DESCRIPTION:Biomateriały konstrukcyjne i funkcjonalne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Bogusz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:WdMN (w)
+LOCATION:1/ 19
+DESCRIPTION:Wstęp do modelowania numerycznego w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Damaziak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T104000Z
@@ -2074,6 +2067,13 @@ DTEND:20261112T083500Z
 SUMMARY:Swb (L)
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T070000Z
+DTEND:20261119T083500Z
+SUMMARY:WdMN (w)
+LOCATION:09/ 54A
+DESCRIPTION:Wstęp do modelowania numerycznego w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Damaziak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z

@@ -18,6 +18,13 @@ LOCATION:2.22/135
 DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Skulska Joanna 6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261207T070000Z
+DTEND:20261207T083500Z
+SUMMARY:KNiO (w)
+LOCATION:1003 HIL
+DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 1/12\nProwadzący: dr Jończyk Joanna 5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260111T070000Z
 DTEND:20260111T083500Z
 SUMMARY:KNiO (ć)
@@ -207,13 +214,6 @@ LOCATION:4.04 /135
 DESCRIPTION:Seminarium dyplomowe 21\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/17\nProwadzący: dr Skulska Joanna 22
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T060000Z
-DTEND:20261020T073500Z
-SUMMARY:KNiO (w)
-LOCATION:1.27/135
-DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 1/12\nProwadzący: dr Jończyk Joanna 5
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T070000Z
 DTEND:20261027T083500Z
 SUMMARY:Neg (w)
@@ -270,11 +270,18 @@ LOCATION:1003 HIL
 DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Kasperski Marian 11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260119T070000Z
+DTEND:20260119T083500Z
+SUMMARY:KNiO (w)
+LOCATION:1003 HIL
+DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 2/12\nProwadzący: dr Jończyk Joanna 5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261006T075000Z
 DTEND:20261006T092500Z
 SUMMARY:KNiO (w)
 LOCATION:1b/28
-DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 2/12\nProwadzący: dr Jończyk Joanna 5
+DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr Jończyk Joanna 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T075000Z
@@ -282,13 +289,6 @@ DTEND:20261013T092500Z
 SUMMARY:KNiO (ć)
 LOCATION:1a/28
 DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Skulska Joanna 6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T075000Z
-DTEND:20261020T092500Z
-SUMMARY:KNiO (w)
-LOCATION:A.1.3/135
-DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr Jończyk Joanna 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T085000Z
@@ -403,13 +403,6 @@ LOCATION:1003 HIL
 DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr Jończyk Joanna 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T111500Z
-SUMMARY:KNiO (w)
-LOCATION:1b/28
-DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr Jończyk Joanna 5
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Hg (ć)
@@ -498,14 +491,14 @@ DTSTART:20261006T113000Z
 DTEND:20261006T130500Z
 SUMMARY:KNiO (w)
 LOCATION:1b/28
-DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr Jończyk Joanna 5
+DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr Jończyk Joanna 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T113000Z
 DTEND:20261013T130500Z
 SUMMARY:KNiO (w)
 LOCATION:1003 HIL
-DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr Jończyk Joanna 5
+DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr Jończyk Joanna 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T113000Z
@@ -578,6 +571,13 @@ LOCATION:1b/28
 DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Kasperski Marian 11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260126T123000Z
+DTEND:20260126T140500Z
+SUMMARY:KNiO (w)
+LOCATION:0.6/16
+DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr Jończyk Joanna 5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261013T140000Z
 DTEND:20261013T153500Z
 SUMMARY:KNiO (w)
@@ -646,6 +646,13 @@ DTEND:20260112T163500Z
 SUMMARY:Sd. (S)
 LOCATION:4.28 /135
 DESCRIPTION:Seminarium dyplomowe 21\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/17\nProwadzący: dr Skulska Joanna 22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T150000Z
+DTEND:20260126T163500Z
+SUMMARY:KNiO (w)
+LOCATION:0.6/16
+DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: dr Jończyk Joanna 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T060000Z
@@ -996,13 +1003,6 @@ DTEND:20260127T201500Z
 SUMMARY:Zkre (ć)
 LOCATION:0.28/135
 DESCRIPTION:Zarządzanie kapitałem relacyjnym 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: dr hab. (prof. WAT) Wereda Wioletta 29
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T060000Z
-DTEND:20261015T073500Z
-SUMMARY:KNiO (w)
-LOCATION:1003 HIL
-DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: dr Jończyk Joanna 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z

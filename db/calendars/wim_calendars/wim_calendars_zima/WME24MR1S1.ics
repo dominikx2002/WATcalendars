@@ -1257,13 +1257,6 @@ LOCATION:6/ 23A
 DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T070000Z
-DTEND:20261125T083500Z
-SUMMARY:Płe (L)
-LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:REZ 
@@ -1366,14 +1359,14 @@ DTSTART:20261118T085000Z
 DTEND:20261118T102500Z
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T085000Z
 DTEND:20261125T102500Z
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T085000Z
@@ -1492,7 +1485,7 @@ DTSTART:20261118T104000Z
 DTEND:20261118T121500Z
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T104000Z
@@ -2130,6 +2123,13 @@ DTEND:20261119T140500Z
 SUMMARY:Kszm1 (L)
 LOCATION:6/ 62
 DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/16\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T123000Z
+DTEND:20261210T140500Z
+SUMMARY:Płe (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T123000Z

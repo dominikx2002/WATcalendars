@@ -102,6 +102,11 @@
     },
     {
       "degree": "dr",
+      "is_new": true,
+      "name": "Anna Łapińska [NEW]"
+    },
+    {
+      "degree": "dr",
       "is_new": false,
       "name": "Arkadiusz Szymaniec"
     },
@@ -5887,10 +5892,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T03:55:25.329459",
-    "last_updated_readable": "2026-09-23 03:55:25",
-    "new_employees_count": 0,
+    "last_updated": "2026-09-24T03:47:18.359866",
+    "last_updated_readable": "2026-09-24 03:47:18",
+    "new_employees_count": 1,
     "scraper_version": "1.0",
-    "total_employees": 1177
+    "total_employees": 1178
   }
 }

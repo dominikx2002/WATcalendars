@@ -951,9 +951,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T104000Z
 DTEND:20261208T121500Z
-SUMMARY:SLwLSZ (L)
-LOCATION:7/ 16
-DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: płk mgr inż. Górski Piotr
+SUMMARY:Mr 
+LOCATION:3/ 23A
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 14/30\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T104000Z
@@ -995,7 +995,7 @@ DTSTART:20260119T104000Z
 DTEND:20260119T121500Z
 SUMMARY:Mr 
 LOCATION:5/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 14/30\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 15/30\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T104000Z
@@ -1072,14 +1072,7 @@ DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
 SUMMARY:SLwLSZ (L)
 LOCATION:7/ 16
-DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T123000Z
-DTEND:20261208T140500Z
-SUMMARY:SLwLSZ (L)
-LOCATION:7/ 16
-DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: płk mgr inż. Górski Piotr
+DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T123000Z
@@ -1191,14 +1184,7 @@ DTSTART:20261201T150000Z
 DTEND:20261201T163500Z
 SUMMARY:SLwLSZ (L)
 LOCATION:7/ 16
-DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T150000Z
-DTEND:20261208T163500Z
-SUMMARY:Mr 
-LOCATION:3/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 15/30\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T150000Z
@@ -1325,6 +1311,13 @@ DTEND:20261028T083500Z
 SUMMARY:ZŻWAT (i)
 LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: (i)\nNumer zajęć: 1/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T070000Z
+DTEND:20261104T083500Z
+SUMMARY:SLwLSZ (L)
+LOCATION:7/ 16
+DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T070000Z
@@ -1563,6 +1556,13 @@ DTEND:20261125T121500Z
 SUMMARY:wzbnim (w)
 LOCATION:
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: mjr dr inż. Walkowiak Marzena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T104000Z
+DTEND:20261202T121500Z
+SUMMARY:SLwLSZ (L)
+LOCATION:7/ 16
+DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T104000Z
@@ -2678,13 +2678,6 @@ LOCATION:3/038
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: ppłk rez. Jęcek Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261030T085000Z
-DTEND:20261030T102500Z
-SUMMARY:SLwLSZ (L)
-LOCATION:7/ 16
-DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261106T085000Z
 DTEND:20261106T102500Z
 SUMMARY:SzS (ć)
@@ -2781,13 +2774,6 @@ DTEND:20261009T111500Z
 SUMMARY:Mr 
 LOCATION:5/ 23A
 DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 30/30\nProwadzący: dr inż. Pankiewicz Bolesław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T104000Z
-DTEND:20261030T121500Z
-SUMMARY:SLwLSZ (L)
-LOCATION:7/ 16
-DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T104000Z
@@ -2920,14 +2906,14 @@ DTSTART:20260115T123000Z
 DTEND:20260115T140500Z
 SUMMARY:SLwLSZ (L)
 LOCATION:7/ 16
-DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: płk mgr inż. Górski Piotr
+DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T123000Z
 DTEND:20260122T140500Z
 SUMMARY:SLwLSZ (L)
 LOCATION:7/ 16
-DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: płk mgr inż. Górski Piotr
+DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T123000Z
@@ -2970,6 +2956,20 @@ DTEND:20260101T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 105/154
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T150000Z
+DTEND:20260108T163500Z
+SUMMARY:SLwLSZ (L)
+LOCATION:7/ 16
+DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: płk mgr inż. Górski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T150000Z
+DTEND:20260115T163500Z
+SUMMARY:SLwLSZ (L)
+LOCATION:7/ 16
+DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T150000Z

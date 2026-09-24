@@ -634,18 +634,11 @@ LOCATION:aula/135
 DESCRIPTION:Podstawy cyberbezpieczeństwa 27\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr hab. inż. Marczyk Maciej 28
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T111500Z
-SUMMARY:PGI (ć)
-LOCATION:1.27/135
-DESCRIPTION:Podstawy grafiki inżynierskiej 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 36
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T094000Z
 DTEND:20261020T111500Z
 SUMMARY:PGI (ć)
 LOCATION:1.27/135
-DESCRIPTION:Podstawy grafiki inżynierskiej 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 36
+DESCRIPTION:Podstawy grafiki inżynierskiej 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
@@ -659,7 +652,7 @@ DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:PGI (ć)
 LOCATION:0.7/16
-DESCRIPTION:Podstawy grafiki inżynierskiej 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 36
+DESCRIPTION:Podstawy grafiki inżynierskiej 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -758,6 +751,13 @@ DTEND:20261110T140500Z
 SUMMARY:WF (ć)
 LOCATION:2PL/21KP; 26FW; 4S; 26FW; 5S; 26FW; 6S; 0 ZCz
 DESCRIPTION:Wychowanie fizyczne 65\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T123000Z
+DTEND:20261117T140500Z
+SUMMARY:PGI (ć)
+LOCATION:55A
+DESCRIPTION:Podstawy grafiki inżynierskiej 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T123000Z

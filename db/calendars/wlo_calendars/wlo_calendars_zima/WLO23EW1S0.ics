@@ -431,6 +431,13 @@ LOCATION:A.1.3/135
 DESCRIPTION:Zarządzanie w sektorze publicznym 67\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261019T155000Z
+DTEND:20261019T172500Z
+SUMMARY:PTiRW (w)
+LOCATION:A.1.3/135
+DESCRIPTION:Podsystem transportu i ruchu wojsk 23\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Żuchowski Dariusz 24
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261102T165000Z
 DTEND:20261102T182500Z
 SUMMARY:ZwSP (ć)
@@ -660,6 +667,13 @@ DTEND:20260126T121500Z
 SUMMARY:WF (ć)
 LOCATION:1pl/24kp; 23FO; 3S; 23EW; 1S; 0 PRy
 DESCRIPTION:Wychowanie fizyczne 55\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T123000Z
+DTEND:20261110T140500Z
+SUMMARY:PTiRW (w)
+LOCATION:0.6/16
+DESCRIPTION:Podsystem transportu i ruchu wojsk 23\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Żuchowski Dariusz 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T123000Z
@@ -974,7 +988,7 @@ DTSTART:20261007T094000Z
 DTEND:20261007T111500Z
 SUMMARY:PTiRW (w)
 LOCATION:A.1.3/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk 23\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Żuchowski Dariusz 24
+DESCRIPTION:Podsystem transportu i ruchu wojsk 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Żuchowski Dariusz 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T094000Z
@@ -1065,7 +1079,7 @@ DTSTART:20261007T113000Z
 DTEND:20261007T130500Z
 SUMMARY:PTiRW (w)
 LOCATION:A.1.3/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk 23\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Żuchowski Dariusz 24
+DESCRIPTION:Podsystem transportu i ruchu wojsk 23\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Żuchowski Dariusz 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T113000Z
@@ -1362,13 +1376,6 @@ LOCATION:0.28/135
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Jasiński Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T111500Z
-SUMMARY:PTiRW (w)
-LOCATION:A.1.3/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk 23\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Żuchowski Dariusz 24
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261008T094000Z
 DTEND:20261008T111500Z
 SUMMARY:Rf (ć)
@@ -1472,13 +1479,6 @@ DTEND:20260128T121500Z
 SUMMARY:Gm. (ć)
 LOCATION:1.27/135
 DESCRIPTION:Gospodarka mieniem 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Kalwasiński Marek 7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
-SUMMARY:PTiRW (w)
-LOCATION:A.1.3/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk 23\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Żuchowski Dariusz 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z

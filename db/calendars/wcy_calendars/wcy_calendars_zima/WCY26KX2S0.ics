@@ -179,6 +179,13 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261009T060000Z
+DTEND:20261009T073500Z
+SUMMARY:OPW (w)
+LOCATION:AW 3/038
+DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261009T075000Z
 DTEND:20261009T092500Z
 SUMMARY:Ja (ć)
@@ -226,13 +233,6 @@ DTEND:20261012T130500Z
 SUMMARY:RiAIP (w)
 LOCATION:AW 4
 DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T140000Z
-DTEND:20261012T153500Z
-SUMMARY:OPW (w)
-LOCATION:AW 4
-DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T174000Z
@@ -370,9 +370,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T113000Z
 DTEND:20261019T130500Z
-SUMMARY:OPW (ć)
+SUMMARY:OPW (w)
 LOCATION:AW 3/043
-DESCRIPTION:Obrona powietrzna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
+DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T174000Z
@@ -825,9 +825,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T123000Z
 DTEND:20261109T140500Z
-SUMMARY:OPW (w)
+SUMMARY:OPW (ć)
 LOCATION:AW 3/038
-DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Obrona powietrzna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T184000Z
@@ -1145,13 +1145,6 @@ LOCATION:316 S
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T070000Z
-DTEND:20261125T083500Z
-SUMMARY:HP (ć)
-LOCATION:308 S
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261125T085000Z
 DTEND:20261125T102500Z
 SUMMARY:M II (w)
@@ -1289,7 +1282,7 @@ DTSTART:20261202T070000Z
 DTEND:20261202T083500Z
 SUMMARY:HP (ć)
 LOCATION:308 S
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T085000Z
@@ -1444,6 +1437,13 @@ DTEND:20261209T163500Z
 SUMMARY:M II (ć)
 LOCATION:307 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr inż. Jarosław Łazuka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T070000Z
+DTEND:20261210T083500Z
+SUMMARY:HP (ć)
+LOCATION:117 45
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T085000Z

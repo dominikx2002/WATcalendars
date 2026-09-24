@@ -207,6 +207,13 @@ LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261016T094000Z
+DTEND:20261016T111500Z
+SUMMARY:MD1 (ć)
+LOCATION:252 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: mgr Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261016T140000Z
 DTEND:20261016T153500Z
 SUMMARY:Mat I (ć)
@@ -429,6 +436,13 @@ DTEND:20261102T083500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54 30/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T085000Z
+DTEND:20261102T102500Z
+SUMMARY:MD1 (ć)
+LOCATION:252 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T123000Z
@@ -739,6 +753,13 @@ LOCATION:313 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 9/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261123T070000Z
+DTEND:20261123T083500Z
+SUMMARY:MD1 (ć)
+LOCATION:313 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261123T085000Z
 DTEND:20261123T102500Z
 SUMMARY:Owi (w)
@@ -949,6 +970,13 @@ LOCATION:309 S
 DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:MD1 (ć)
+LOCATION:309 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T150000Z
 DTEND:20261209T163500Z
 SUMMARY:Mat I (ć)
@@ -1052,6 +1080,13 @@ DTEND:20261216T102500Z
 SUMMARY:Ez (w)
 LOCATION:317 S
 DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T121500Z
+SUMMARY:MD1 (ć)
+LOCATION:307 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T123000Z
@@ -1201,6 +1236,13 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270112T085000Z
+DTEND:20270112T102500Z
+SUMMARY:MD1 (ć)
+LOCATION:236 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270112T104000Z
 DTEND:20270112T121500Z
 SUMMARY:M II (w)
@@ -1311,6 +1353,13 @@ DTEND:20270120T102500Z
 SUMMARY:WDM (ć)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T123000Z
+DTEND:20270120T140500Z
+SUMMARY:MD1 (ć)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T150000Z

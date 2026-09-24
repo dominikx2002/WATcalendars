@@ -375,13 +375,6 @@ LOCATION:103 K
 DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T140000Z
-DTEND:20261019T153500Z
-SUMMARY:OPW (w)
-LOCATION:AW 3/038
-DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261019T155000Z
 DTEND:20261019T172500Z
 SUMMARY:TW (w)
@@ -394,6 +387,13 @@ DTEND:20261019T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 3/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T060000Z
+DTEND:20261020T073500Z
+SUMMARY:OPW (w)
+LOCATION:AW 3/043
+DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T075000Z
@@ -478,6 +478,13 @@ DTEND:20261022T153500Z
 SUMMARY:M II (ć)
 LOCATION:205 65
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/17\nProwadzący: mgr inż. Stanisław Zoń
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T060000Z
+DTEND:20261023T073500Z
+SUMMARY:OPW (w)
+LOCATION:AW 7
+DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T075000Z
@@ -961,13 +968,6 @@ DTEND:20261116T140500Z
 SUMMARY:PD (w)
 LOCATION:AW 3/038
 DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T150000Z
-DTEND:20261116T163500Z
-SUMMARY:OPW (w)
-LOCATION:AW 3/038
-DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T184000Z
@@ -1537,13 +1537,6 @@ LOCATION:313 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 13/17\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T104000Z
-DTEND:20261216T121500Z
-SUMMARY:HP (ć)
-LOCATION:307 S
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261216T123000Z
 DTEND:20261216T140500Z
 SUMMARY:Ja (ć)
@@ -1668,6 +1661,13 @@ DTEND:20261223T083500Z
 SUMMARY:WDM (ć)
 LOCATION:309 S
 DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T085000Z
+DTEND:20261223T102500Z
+SUMMARY:HP (ć)
+LOCATION:16 57
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T123000Z

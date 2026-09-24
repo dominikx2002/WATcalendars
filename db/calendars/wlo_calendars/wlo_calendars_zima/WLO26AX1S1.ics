@@ -763,8 +763,8 @@ BEGIN:VEVENT
 DTSTART:20260113T070000Z
 DTEND:20260113T083500Z
 SUMMARY:Org. 
-LOCATION:26AX; 4S; 26AX; 3S; 26AX; 2S; 26AX; 1S; 1 Ww
-DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 9/23\nProwadzący: dr Karczewski Edward 14; dr Karczewski Edward; dr hab. (prof. WAT) Wereda Wioletta 17; dr Komar Aleksandra 2
+LOCATION:1 Ww
+DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 9/23\nProwadzący: dr Karczewski Edward 14; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T075000Z

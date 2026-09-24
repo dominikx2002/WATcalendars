@@ -116,11 +116,18 @@ LOCATION:3.16/135
 DESCRIPTION:Analiza rynku 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Kolasińska-Morawska Katarzyna 2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261221T104000Z
+DTEND:20261221T121500Z
+SUMMARY:S.D. (S)
+LOCATION:4.22 /135
+DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/18\nProwadzący: dr Pawlak Katarzyna 22
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260111T104000Z
 DTEND:20260111T121500Z
 SUMMARY:S.D. (S)
 LOCATION:
-DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/18\nProwadzący: dr Woźniak Jacek 21
+DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/18\nProwadzący: dr Woźniak Jacek 21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T113000Z
@@ -141,7 +148,7 @@ DTSTART:20261019T113000Z
 DTEND:20261019T130500Z
 SUMMARY:S.D. (S)
 LOCATION:
-DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/18\nProwadzący: dr hab. Przychocka Iwona 24
+DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/18\nProwadzący: dr hab. Przychocka Iwona 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T123000Z
@@ -155,7 +162,7 @@ DTSTART:20261102T123000Z
 DTEND:20261102T140500Z
 SUMMARY:S.D. (S)
 LOCATION:
-DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/18\nProwadzący: dr hab. Przychocka Iwona 24
+DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/18\nProwadzący: dr hab. Przychocka Iwona 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T123000Z
@@ -169,7 +176,7 @@ DTSTART:20261130T123000Z
 DTEND:20261130T140500Z
 SUMMARY:S.D. (S)
 LOCATION:4.22 /135
-DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/18\nProwadzący: dr Pawlak Katarzyna 22
+DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/18\nProwadzący: dr Pawlak Katarzyna 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T123000Z
@@ -183,7 +190,7 @@ DTSTART:20260118T123000Z
 DTEND:20260118T140500Z
 SUMMARY:S.D. (S)
 LOCATION:
-DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/18\nProwadzący: dr Woźniak Jacek 21
+DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/18\nProwadzący: dr Woźniak Jacek 21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T140000Z
@@ -204,21 +211,21 @@ DTSTART:20261019T140000Z
 DTEND:20261019T153500Z
 SUMMARY:S.D. (S)
 LOCATION:
-DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/18\nProwadzący: dr hab. Przychocka Iwona 24
+DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/18\nProwadzący: dr hab. Przychocka Iwona 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T150000Z
 DTEND:20261116T163500Z
 SUMMARY:S.D. (S)
 LOCATION:4.22 /135
-DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/18\nProwadzący: dr Pawlak Katarzyna 22
+DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/18\nProwadzący: dr Pawlak Katarzyna 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T150000Z
 DTEND:20260118T163500Z
 SUMMARY:S.D. (S)
 LOCATION:
-DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/18\nProwadzący: dr Woźniak Jacek 21
+DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/18\nProwadzący: dr Woźniak Jacek 21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T060000Z
@@ -389,6 +396,13 @@ LOCATION:0.8/16
 DESCRIPTION:Transformacja cyfrowa organizacji 31\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Sołek-Borowska Celina 32
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260119T085000Z
+DTEND:20260119T102500Z
+SUMMARY:S.OiW.P. (w)
+LOCATION:1.10/16; 1.9/16
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 28\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Jończyk Joanna 29
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260126T085000Z
 DTEND:20260126T102500Z
 SUMMARY:KwZ (w)
@@ -445,13 +459,6 @@ LOCATION:4.17a/135
 DESCRIPTION:Zarządzanie kapitałem niematerialnym 36\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Antczak Joanna 37
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T104000Z
-DTEND:20261110T121500Z
-SUMMARY:S.D. (S)
-LOCATION:4.22 /135
-DESCRIPTION:Seminarium Dyplomowe. 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/18\nProwadzący: dr Pawlak Katarzyna 22
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:Trans.Cyfr.Org. (w)
@@ -492,6 +499,13 @@ DTEND:20260112T121500Z
 SUMMARY:Trans.Cyfr.Org. (w)
 LOCATION:
 DESCRIPTION:Transformacja cyfrowa organizacji 31\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: dr Sołek-Borowska Celina 32
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T104000Z
+DTEND:20260119T121500Z
+SUMMARY:S.OiW.P. (ć)
+LOCATION:1.10/16; 1.9/16
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Jończyk Joanna 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T104000Z
@@ -539,7 +553,7 @@ BEGIN:VEVENT
 DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:Kzl (ć)
-LOCATION:54E
+LOCATION:2/22
 DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Piotrkowski Kazimierz 5
 END:VEVENT
 BEGIN:VEVENT
@@ -582,7 +596,7 @@ DTSTART:20261006T140000Z
 DTEND:20261006T153500Z
 SUMMARY:S.OiW.P. (w)
 LOCATION:A.1.3/135
-DESCRIPTION:Systemy oceniania i wynagradzania pracowników 28\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Jończyk Joanna 29
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 28\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Jończyk Joanna 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T140000Z
@@ -592,17 +606,17 @@ LOCATION:1.27/135
 DESCRIPTION:Zarządzanie kompetencjami w organizacji 39\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Wojciechowski Zdzisław 40
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T150000Z
-DTEND:20261117T163500Z
-SUMMARY:Kzl (ć)
-LOCATION:54E
-DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Piotrkowski Kazimierz 5
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T150000Z
 DTEND:20261124T163500Z
 SUMMARY:Kzl (ć)
-LOCATION:54E
+LOCATION:2/22
+DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Piotrkowski Kazimierz 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T150000Z
+DTEND:20261201T163500Z
+SUMMARY:Kzl (ć)
+LOCATION:4.17a/135
 DESCRIPTION:Kierowanie zespołami ludzkimi 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr Piotrkowski Kazimierz 5
 END:VEVENT
 BEGIN:VEVENT
@@ -624,7 +638,7 @@ DTSTART:20261006T155000Z
 DTEND:20261006T172500Z
 SUMMARY:S.OiW.P. (ć)
 LOCATION:A.1.3/135
-DESCRIPTION:Systemy oceniania i wynagradzania pracowników 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Jończyk Joanna 29
+DESCRIPTION:Systemy oceniania i wynagradzania pracowników 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Jończyk Joanna 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T070000Z
@@ -956,13 +970,6 @@ LOCATION:2.21/135
 DESCRIPTION:Zarządzanie kompetencjami w organizacji 39\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Wojciechowski Zdzisław 40
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T092500Z
-SUMMARY:S.OiW.P. (w)
-LOCATION:2/22
-DESCRIPTION:Systemy oceniania i wynagradzania pracowników 28\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Jończyk Joanna 29
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261022T075000Z
 DTEND:20261022T092500Z
 SUMMARY:ZKo (ć)
@@ -1059,13 +1066,6 @@ DTEND:20261001T111500Z
 SUMMARY:S.OiW.P. (w)
 LOCATION:1.15/16
 DESCRIPTION:Systemy oceniania i wynagradzania pracowników 28\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Jończyk Joanna 29
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T111500Z
-SUMMARY:S.OiW.P. (ć)
-LOCATION:2/22
-DESCRIPTION:Systemy oceniania i wynagradzania pracowników 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Jończyk Joanna 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T094000Z

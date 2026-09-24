@@ -748,16 +748,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T150000Z
 DTEND:20261210T163500Z
-SUMMARY:Zbi (L)
+SUMMARY:Zbi (ć)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T165000Z
 DTEND:20261210T182500Z
-SUMMARY:Zbi (L)
+SUMMARY:Zbi (ć)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T104000Z
@@ -853,16 +853,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T150000Z
 DTEND:20261217T163500Z
-SUMMARY:Zbi (L)
+SUMMARY:Zbi (ć)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T165000Z
 DTEND:20261217T182500Z
-SUMMARY:Zbi (L)
+SUMMARY:Zbi (ć)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T123000Z
@@ -1023,14 +1023,7 @@ DTSTART:20270114T150000Z
 DTEND:20270114T163500Z
 SUMMARY:Zbi (ć)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270114T165000Z
-DTEND:20270114T182500Z
-SUMMARY:Zbi (ć)
-LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T104000Z
@@ -1070,16 +1063,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T150000Z
 DTEND:20270120T163500Z
-SUMMARY:Zbi (ć)
+SUMMARY:Zbi (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T165000Z
 DTEND:20270120T182500Z
-SUMMARY:Zbi (ć)
+SUMMARY:Zbi (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T104000Z
@@ -1098,9 +1091,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T150000Z
 DTEND:20270121T163500Z
-SUMMARY:Zbi (ć)
+SUMMARY:Zbi (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T165000Z
+DTEND:20270121T182500Z
+SUMMARY:Zbi (L)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T070000Z
@@ -1135,7 +1135,7 @@ DTSTART:20270126T150000Z
 DTEND:20270126T163500Z
 SUMMARY:Zbi (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/4\nProwadzący: dr inż. Krzysztof Liderman
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T165000Z

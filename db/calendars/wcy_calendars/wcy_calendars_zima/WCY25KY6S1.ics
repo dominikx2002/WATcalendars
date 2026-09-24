@@ -2440,6 +2440,13 @@ LOCATION:314 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261023T140000Z
+DTEND:20261023T153500Z
+SUMMARY:Als (L)
+LOCATION:224 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261026T085000Z
 DTEND:20261026T102500Z
 SUMMARY:SO (w)
@@ -2452,6 +2459,13 @@ DTEND:20261026T121500Z
 SUMMARY:Als (w)
 LOCATION:316 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T123000Z
+DTEND:20261026T140500Z
+SUMMARY:Als (L)
+LOCATION:233 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T070000Z
@@ -2580,6 +2594,13 @@ LOCATION:316 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261103T070000Z
+DTEND:20261103T083500Z
+SUMMARY:Als (L)
+LOCATION:223 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261103T085000Z
 DTEND:20261103T102500Z
 SUMMARY:F2 (w)
@@ -2678,6 +2699,13 @@ LOCATION:224 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/16\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261109T070000Z
+DTEND:20261109T083500Z
+SUMMARY:Als (L)
+LOCATION:233 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T085000Z
 DTEND:20261109T102500Z
 SUMMARY:Aok (w)
@@ -2769,6 +2797,13 @@ LOCATION:120 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/16\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261113T165000Z
+DTEND:20261113T182500Z
+SUMMARY:Sm (L)
+LOCATION:085 S
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261116T085000Z
 DTEND:20261116T102500Z
 SUMMARY:Aok (w)
@@ -2837,6 +2872,13 @@ DTEND:20261117T182500Z
 SUMMARY:JoM (ć)
 LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T085000Z
+DTEND:20261118T102500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T104000Z
@@ -2944,6 +2986,13 @@ LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:Als (L)
+LOCATION:252 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261125T085000Z
 DTEND:20261125T102500Z
 SUMMARY:F2 (ć)
@@ -3014,6 +3063,13 @@ LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:Als (L)
+LOCATION:227 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261202T085000Z
 DTEND:20261202T102500Z
 SUMMARY:SO (w)
@@ -3077,6 +3133,13 @@ LOCATION:228 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261208T070000Z
+DTEND:20261208T083500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261208T085000Z
 DTEND:20261208T102500Z
 SUMMARY:F2 (w)
@@ -3089,6 +3152,13 @@ DTEND:20261208T121500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T150000Z
+DTEND:20261208T163500Z
+SUMMARY:Als (L)
+LOCATION:224 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T165000Z
@@ -3140,6 +3210,13 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261215T123000Z
+DTEND:20261215T140500Z
+SUMMARY:Als (L)
+LOCATION:228 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261215T165000Z
 DTEND:20261215T182500Z
 SUMMARY:JoM (ć)
@@ -3168,6 +3245,13 @@ LOCATION:101 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261218T104000Z
+DTEND:20261218T121500Z
+SUMMARY:Sm (L)
+LOCATION:085 S
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261218T123000Z
 DTEND:20261218T140500Z
 SUMMARY:Aok (L)
@@ -3194,6 +3278,13 @@ DTEND:20261218T201500Z
 SUMMARY:Po (L)
 LOCATION:223 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/16\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T070000Z
+DTEND:20261221T083500Z
+SUMMARY:Sm (L)
+LOCATION:218 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T070000Z
@@ -3273,6 +3364,20 @@ LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270114T070000Z
+DTEND:20270114T083500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T104000Z
+DTEND:20270114T121500Z
+SUMMARY:Als (L)
+LOCATION:223 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270115T123000Z
 DTEND:20270115T140500Z
 SUMMARY:Aok (L)
@@ -3301,6 +3406,13 @@ LOCATION:223 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270118T104000Z
+DTEND:20270118T121500Z
+SUMMARY:Sm (L)
+LOCATION:078 S
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270118T123000Z
 DTEND:20270118T140500Z
 SUMMARY:Tik (ć)
@@ -3320,6 +3432,13 @@ DTEND:20270118T182500Z
 SUMMARY:Po (L)
 LOCATION:224 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/16\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T070000Z
+DTEND:20270119T083500Z
+SUMMARY:Als (L)
+LOCATION:233 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T085000Z
@@ -3467,6 +3586,13 @@ DTEND:20270127T121500Z
 SUMMARY:Als (w)
 LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T085000Z
+DTEND:20270128T102500Z
+SUMMARY:Als (L)
+LOCATION:236 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T104000Z

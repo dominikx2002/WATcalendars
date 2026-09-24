@@ -620,18 +620,11 @@ LOCATION:aula/135
 DESCRIPTION:Podstawy cyberbezpieczeństwa 27\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr hab. inż. Marczyk Maciej 28
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T111500Z
-SUMMARY:PGI (ć)
-LOCATION:1.27/135
-DESCRIPTION:Podstawy grafiki inżynierskiej 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 35
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T094000Z
 DTEND:20261020T111500Z
 SUMMARY:PGI (ć)
 LOCATION:1.27/135
-DESCRIPTION:Podstawy grafiki inżynierskiej 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 35
+DESCRIPTION:Podstawy grafiki inżynierskiej 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
@@ -645,7 +638,7 @@ DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:PGI (ć)
 LOCATION:0.7/16
-DESCRIPTION:Podstawy grafiki inżynierskiej 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 35
+DESCRIPTION:Podstawy grafiki inżynierskiej 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -737,6 +730,13 @@ DTEND:20261110T140500Z
 SUMMARY:WF (ć)
 LOCATION:1PL/21KP; 26FW; 2S; 26FW; 3S; 0 JW
 DESCRIPTION:Wychowanie fizyczne 66\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T123000Z
+DTEND:20261117T140500Z
+SUMMARY:PGI (ć)
+LOCATION:55A
+DESCRIPTION:Podstawy grafiki inżynierskiej 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T123000Z
@@ -833,7 +833,7 @@ BEGIN:VEVENT
 DTSTART:20261014T060000Z
 DTEND:20261014T073500Z
 SUMMARY:DGB (ć)
-LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 2PL/10KP; 3PL/10KP; 4PL/10KP
+LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 4PL/10KP; 2pl/31kp; 3pl/31kp
 DESCRIPTION:Szkolenie wojskowe - DGB 49\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
@@ -847,7 +847,7 @@ BEGIN:VEVENT
 DTSTART:20261028T070000Z
 DTEND:20261028T083500Z
 SUMMARY:ZŻWAT (i)
-LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 2PL/10KP; 3PL/10KP; 4PL/10KP
+LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 4PL/10KP; 2pl/31kp; 3pl/31kp
 DESCRIPTION:Zbiórka żołnierzy WAT 68\nRodzaj zajęć: (i)\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
@@ -861,7 +861,7 @@ BEGIN:VEVENT
 DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
 SUMMARY:ZŻWAT (i)
-LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 2PL/10KP; 3PL/10KP; 4PL/10KP
+LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 4PL/10KP; 2pl/31kp; 3pl/31kp
 DESCRIPTION:Zbiórka żołnierzy WAT 68\nRodzaj zajęć: (i)\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
@@ -882,14 +882,14 @@ BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:DGB (ć)
-LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 2PL/10KP; 3PL/10KP; 4PL/10KP
+LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 4PL/10KP; 2pl/31kp; 3pl/31kp
 DESCRIPTION:Szkolenie wojskowe - DGB 49\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:ZŻWAT (i)
-LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 2PL/10KP; 3PL/10KP; 4PL/10KP
+LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 4PL/10KP; 2pl/31kp; 3pl/31kp
 DESCRIPTION:Zbiórka żołnierzy WAT 68\nRodzaj zajęć: (i)\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
@@ -903,7 +903,7 @@ BEGIN:VEVENT
 DTSTART:20260113T070000Z
 DTEND:20260113T083500Z
 SUMMARY:ZŻWAT (i)
-LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 2PL/10KP; 3PL/10KP; 4PL/10KP
+LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 4PL/10KP; 2pl/31kp; 3pl/31kp
 DESCRIPTION:Zbiórka żołnierzy WAT 68\nRodzaj zajęć: (i)\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
@@ -931,7 +931,7 @@ BEGIN:VEVENT
 DTSTART:20261014T075000Z
 DTEND:20261014T092500Z
 SUMMARY:DGB (ć)
-LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 2PL/10KP; 3PL/10KP; 4PL/10KP
+LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 4PL/10KP; 2pl/31kp; 3pl/31kp
 DESCRIPTION:Szkolenie wojskowe - DGB 49\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
@@ -980,7 +980,7 @@ BEGIN:VEVENT
 DTSTART:20261209T085000Z
 DTEND:20261209T102500Z
 SUMMARY:DGB (ć)
-LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 2PL/10KP; 3PL/10KP; 4PL/10KP
+LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 4PL/10KP; 2pl/31kp; 3pl/31kp
 DESCRIPTION:Szkolenie wojskowe - DGB 49\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
@@ -1029,7 +1029,7 @@ BEGIN:VEVENT
 DTSTART:20261014T094000Z
 DTEND:20261014T111500Z
 SUMMARY:DGB (ć)
-LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 2PL/10KP; 3PL/10KP; 4PL/10KP
+LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 4PL/10KP; 2pl/31kp; 3pl/31kp
 DESCRIPTION:Szkolenie wojskowe - DGB 49\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
@@ -1078,7 +1078,7 @@ BEGIN:VEVENT
 DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
 SUMMARY:DGB (ć)
-LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 2PL/10KP; 3PL/10KP; 4PL/10KP
+LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 4PL/10KP; 2pl/31kp; 3pl/31kp
 DESCRIPTION:Szkolenie wojskowe - DGB 49\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
@@ -1127,7 +1127,7 @@ BEGIN:VEVENT
 DTSTART:20261014T113000Z
 DTEND:20261014T130500Z
 SUMMARY:DGB (ć)
-LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 2PL/10KP; 3PL/10KP; 4PL/10KP
+LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 4PL/10KP; 2pl/31kp; 3pl/31kp
 DESCRIPTION:Szkolenie wojskowe - DGB 49\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
@@ -1162,7 +1162,7 @@ BEGIN:VEVENT
 DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:DGB (ć)
-LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 2PL/10KP; 3PL/10KP; 4PL/10KP
+LOCATION:1pl/33kp; 2pl/33kp; 3pl/33kp; 4pl/33kp; 5pl/33kp; 4PL/10KP; 2pl/31kp; 3pl/31kp
 DESCRIPTION:Szkolenie wojskowe - DGB 49\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
 END:VEVENT
 BEGIN:VEVENT

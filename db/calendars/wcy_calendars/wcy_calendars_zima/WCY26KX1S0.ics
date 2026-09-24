@@ -193,6 +193,13 @@ LOCATION:29/ 54 30/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261009T060000Z
+DTEND:20261009T073500Z
+SUMMARY:OPW (w)
+LOCATION:AW 3/038
+DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261009T075000Z
 DTEND:20261009T092500Z
 SUMMARY:Ja (ć)
@@ -240,13 +247,6 @@ DTEND:20261012T130500Z
 SUMMARY:RiAIP (w)
 LOCATION:AW 4
 DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T140000Z
-DTEND:20261012T153500Z
-SUMMARY:OPW (w)
-LOCATION:AW 4
-DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T174000Z
@@ -356,9 +356,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T113000Z
 DTEND:20261019T130500Z
-SUMMARY:OPW (ć)
+SUMMARY:OPW (w)
 LOCATION:AW 3/043
-DESCRIPTION:Obrona powietrzna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
+DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T174000Z
@@ -832,9 +832,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T123000Z
 DTEND:20261109T140500Z
-SUMMARY:OPW (w)
+SUMMARY:OPW (ć)
 LOCATION:AW 3/038
-DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Obrona powietrzna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T184000Z

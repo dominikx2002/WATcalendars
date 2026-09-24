@@ -365,7 +365,7 @@ DTSTART:20260320T150000Z
 DTEND:20260320T163500Z
 SUMMARY:SzOR (Inne)
 LOCATION:316 S
-DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T104000Z
@@ -2027,6 +2027,13 @@ LOCATION:313 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261002T094000Z
+DTEND:20261002T111500Z
+SUMMARY:SzOR (Inne)
+LOCATION:309 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261002T140000Z
 DTEND:20261002T153500Z
 SUMMARY:F1 (Inne)
@@ -2713,6 +2720,13 @@ LOCATION:011 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/16\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261110T085000Z
+DTEND:20261110T102500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:Ja (ć)
@@ -2788,6 +2802,13 @@ DTEND:20261116T182500Z
 SUMMARY:Po (L)
 LOCATION:227 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/16\nProwadzący: mgr inż. Radosław Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T085000Z
+DTEND:20261117T102500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -2965,6 +2986,13 @@ LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261126T085000Z
+DTEND:20261126T102500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261126T104000Z
 DTEND:20261126T121500Z
 SUMMARY:F2 (ć)
@@ -2991,6 +3019,13 @@ DTEND:20261201T140500Z
 SUMMARY:F2 (w)
 LOCATION:314 S
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T150000Z
+DTEND:20261201T163500Z
+SUMMARY:Sm (L)
+LOCATION:085 S
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T165000Z
@@ -3119,6 +3154,13 @@ LOCATION:313 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261210T085000Z
+DTEND:20261210T102500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
 SUMMARY:F2 (ć)
@@ -3152,6 +3194,13 @@ DTEND:20261211T102500Z
 SUMMARY:BD (L)
 LOCATION:223 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T085000Z
+DTEND:20261214T102500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T104000Z
@@ -3271,6 +3320,13 @@ DTEND:20261223T182500Z
 SUMMARY:Aok (L)
 LOCATION:09 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T070000Z
+DTEND:20270107T083500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T085000Z

@@ -162,7 +162,7 @@ DTSTART:20261205T070000Z
 DTEND:20261205T083500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/ 19; 4c/ 19; 4d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T070000Z
@@ -176,7 +176,7 @@ DTSTART:20261219T070000Z
 DTEND:20261219T083500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/ 19; 4c/ 19; 4d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261226T070000Z
@@ -1565,25 +1565,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 73/98
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261206T123000Z
-DTEND:20261206T140500Z
-SUMMARY:Ptr (L)
-LOCATION:3d/ 19; 4c/ 19; 4d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261213T123000Z
 DTEND:20261213T140500Z
 SUMMARY:UelM (L)
 LOCATION:H4/ 54A
 DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261220T123000Z
-DTEND:20261220T140500Z
-SUMMARY:Ptr (L)
-LOCATION:3d/ 19; 4c/ 19; 4d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261227T123000Z

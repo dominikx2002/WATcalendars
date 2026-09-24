@@ -81,10 +81,17 @@ LOCATION:307 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261010T140000Z
+DTEND:20261010T153500Z
+SUMMARY:Tdst (w)
+LOCATION:308 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261010T155000Z
 DTEND:20261010T172500Z
 SUMMARY:MumII (w)
-LOCATION:-
+LOCATION:307 S
 DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
@@ -165,6 +172,20 @@ LOCATION:309 S
 DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261018T094000Z
+DTEND:20261018T111500Z
+SUMMARY:Tdst (w)
+LOCATION:228 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T113000Z
+DTEND:20261018T130500Z
+SUMMARY:Tdst (w)
+LOCATION:228 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261024T060000Z
 DTEND:20261024T073500Z
 SUMMARY:Clc (w)
@@ -200,6 +221,20 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261025T085000Z
+DTEND:20261025T102500Z
+SUMMARY:Mn2 (w)
+LOCATION:226 S
+DESCRIPTION:Metody numeryczne II\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T104000Z
+DTEND:20261025T121500Z
+SUMMARY:Mn2 (w)
+LOCATION:226 S
+DESCRIPTION:Metody numeryczne II\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261114T070000Z
 DTEND:20261114T083500Z
 SUMMARY:Msk. (w)
@@ -228,6 +263,13 @@ LOCATION:314 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261114T150000Z
+DTEND:20261114T163500Z
+SUMMARY:Tdst (w)
+LOCATION:309 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261115T070000Z
 DTEND:20261115T083500Z
 SUMMARY:Ja (ć)
@@ -240,6 +282,20 @@ DTEND:20261115T102500Z
 SUMMARY:Mia (w)
 LOCATION:307 S
 DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T104000Z
+DTEND:20261115T121500Z
+SUMMARY:Mn2 (w)
+LOCATION:224 S
+DESCRIPTION:Metody numeryczne II\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T123000Z
+DTEND:20261115T140500Z
+SUMMARY:Mn2 (L)
+LOCATION:224 S
+DESCRIPTION:Metody numeryczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T070000Z
@@ -291,6 +347,55 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261122T085000Z
+DTEND:20261122T102500Z
+SUMMARY:Isim (P)
+LOCATION:233 S
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 1/4\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T104000Z
+DTEND:20261122T121500Z
+SUMMARY:Tdst (L)
+LOCATION:226 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T123000Z
+DTEND:20261122T140500Z
+SUMMARY:Tdst (L)
+LOCATION:226 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T070000Z
+DTEND:20261205T083500Z
+SUMMARY:Clc (L)
+LOCATION:226 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: dr inż. Michał Dyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T085000Z
+DTEND:20261205T102500Z
+SUMMARY:Clc (L)
+LOCATION:226 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr inż. Michał Dyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T104000Z
+DTEND:20261205T121500Z
+SUMMARY:Mia (L)
+LOCATION:227 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T123000Z
+DTEND:20261205T140500Z
+SUMMARY:Mia (L)
+LOCATION:227 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261205T150000Z
 DTEND:20261205T163500Z
 SUMMARY:Ps (ć)
@@ -303,6 +408,34 @@ DTEND:20261206T083500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T085000Z
+DTEND:20261206T102500Z
+SUMMARY:Tdst (L)
+LOCATION:224 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T104000Z
+DTEND:20261206T121500Z
+SUMMARY:Tdst (L)
+LOCATION:224 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T123000Z
+DTEND:20261206T140500Z
+SUMMARY:Isim (L)
+LOCATION:233 S
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T150000Z
+DTEND:20261206T163500Z
+SUMMARY:Isim (L)
+LOCATION:233 S
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T085000Z
@@ -326,6 +459,20 @@ LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261212T150000Z
+DTEND:20261212T163500Z
+SUMMARY:Isim (P)
+LOCATION:236 S
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T165000Z
+DTEND:20261212T182500Z
+SUMMARY:Tal (L)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: mgr inż. Jarosław Napiórkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261213T070000Z
 DTEND:20261213T083500Z
 SUMMARY:Ja (ć)
@@ -333,11 +480,109 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261213T085000Z
+DTEND:20261213T102500Z
+SUMMARY:Mn2 (L)
+LOCATION:228 S
+DESCRIPTION:Metody numeryczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T104000Z
+DTEND:20261213T121500Z
+SUMMARY:Mn2 (L)
+LOCATION:228 S
+DESCRIPTION:Metody numeryczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T165000Z
+DTEND:20261218T182500Z
+SUMMARY:Ja (ć)
+LOCATION:on-line..
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T184000Z
+DTEND:20261218T201500Z
+SUMMARY:Ja (ć)
+LOCATION:on-line..
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T070000Z
+DTEND:20261219T083500Z
+SUMMARY:Clc (L)
+LOCATION:224 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr inż. Michał Dyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T085000Z
+DTEND:20261219T102500Z
+SUMMARY:Clc (L)
+LOCATION:224 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr inż. Michał Dyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T104000Z
+DTEND:20261219T121500Z
+SUMMARY:Isim (P)
+LOCATION:233 S
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 3/4\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T123000Z
+DTEND:20261219T140500Z
+SUMMARY:MumII (L)
+LOCATION:223 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T150000Z
+DTEND:20261219T163500Z
+SUMMARY:MumII (L)
+LOCATION:223 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T165000Z
+DTEND:20261219T182500Z
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 1/3\nProwadzący: mgr inż. Jarosław Napiórkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261220T070000Z
 DTEND:20261220T083500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261220T085000Z
+DTEND:20261220T102500Z
+SUMMARY:Mn2 (L)
+LOCATION:228 S
+DESCRIPTION:Metody numeryczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261220T104000Z
+DTEND:20261220T121500Z
+SUMMARY:Mn2 (L)
+LOCATION:228 S
+DESCRIPTION:Metody numeryczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270109T070000Z
+DTEND:20270109T083500Z
+SUMMARY:Tal (P)
+LOCATION:228 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 2/3\nProwadzący: mgr inż. Jarosław Napiórkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270109T085000Z
+DTEND:20270109T102500Z
+SUMMARY:Tal (P)
+LOCATION:228 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 3/3\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270109T104000Z
@@ -361,18 +606,123 @@ LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270109T165000Z
+DTEND:20270109T182500Z
+SUMMARY:Nmtz (ć)
+LOCATION:308 S
+DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270110T070000Z
 DTEND:20270110T083500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270110T085000Z
+DTEND:20270110T102500Z
+SUMMARY:Tdst (L)
+LOCATION:224 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270110T104000Z
+DTEND:20270110T121500Z
+SUMMARY:Tdst (L)
+LOCATION:224 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270110T123000Z
+DTEND:20270110T140500Z
+SUMMARY:Mia (L)
+LOCATION:224 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270110T150000Z
+DTEND:20270110T163500Z
+SUMMARY:Mia (L)
+LOCATION:224 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270116T070000Z
+DTEND:20270116T083500Z
+SUMMARY:MumII (L)
+LOCATION:223 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270116T085000Z
+DTEND:20270116T102500Z
+SUMMARY:MumII (L)
+LOCATION:223 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270116T104000Z
+DTEND:20270116T121500Z
+SUMMARY:Clc (L)
+LOCATION:226 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr inż. Michał Dyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270116T123000Z
+DTEND:20270116T140500Z
+SUMMARY:Clc (L)
+LOCATION:226 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270117T070000Z
 DTEND:20270117T083500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270117T085000Z
+DTEND:20270117T102500Z
+SUMMARY:Tal (L)
+LOCATION:228 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: mgr inż. Jarosław Napiórkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270117T104000Z
+DTEND:20270117T121500Z
+SUMMARY:Isim (L)
+LOCATION:224 S
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270117T123000Z
+DTEND:20270117T140500Z
+SUMMARY:Mia (L)
+LOCATION:224 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270117T150000Z
+DTEND:20270117T163500Z
+SUMMARY:Mia (L)
+LOCATION:224 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270123T070000Z
+DTEND:20270123T083500Z
+SUMMARY:MumII (L)
+LOCATION:224 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270123T085000Z
+DTEND:20270123T102500Z
+SUMMARY:MumII (L)
+LOCATION:224 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270123T104000Z
@@ -393,14 +743,21 @@ DTSTART:20270124T070000Z
 DTEND:20270124T083500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270124T085000Z
-DTEND:20270124T102500Z
-SUMMARY:Ja (ć)
-LOCATION:134 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
+DTSTART:20270130T070000Z
+DTEND:20270130T083500Z
+SUMMARY:Nmtz (ć)
+LOCATION:308 S
+DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270130T085000Z
+DTEND:20270130T102500Z
+SUMMARY:Clc (L)
+LOCATION:223 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270130T104000Z
@@ -410,17 +767,38 @@ LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270130T123000Z
+DTEND:20270130T140500Z
+SUMMARY:MumII (L)
+LOCATION:224 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270130T150000Z
+DTEND:20270130T163500Z
+SUMMARY:Mn2 (L)
+LOCATION:223 S
+DESCRIPTION:Metody numeryczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270130T165000Z
+DTEND:20270130T182500Z
+SUMMARY:Mn2 (L)
+LOCATION:223 S
+DESCRIPTION:Metody numeryczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270131T070000Z
 DTEND:20270131T083500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270131T085000Z
 DTEND:20270131T102500Z
-SUMMARY:Ja (ć)
-LOCATION:134 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: -
+SUMMARY:Isim (P)
+LOCATION:233 S
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 END:VCALENDAR

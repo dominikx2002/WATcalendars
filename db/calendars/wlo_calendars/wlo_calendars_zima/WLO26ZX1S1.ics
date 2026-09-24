@@ -11,6 +11,13 @@ LOCATION:4.17a/135
 DESCRIPTION:Podstawy informatyki 16\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Staruch Marcin 17
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261019T060000Z
+DTEND:20261019T073500Z
+SUMMARY:Pmr (ć)
+LOCATION:4.23/135
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr Pawlak Katarzyna 20
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261214T070000Z
 DTEND:20261214T083500Z
 SUMMARY:Pi (w)
@@ -32,6 +39,13 @@ LOCATION:0.24/135
 DESCRIPTION:Podstawy informatyki 16\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Staruch Marcin 17
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260125T070000Z
+DTEND:20260125T083500Z
+SUMMARY:Pmr (ć)
+LOCATION:0.6/16
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr Pawlak Katarzyna 20
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261012T075000Z
 DTEND:20261012T092500Z
 SUMMARY:Owi (w)
@@ -51,6 +65,13 @@ DTEND:20261102T102500Z
 SUMMARY:P. (ć)
 LOCATION:1.15/16
 DESCRIPTION:Prawo 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Kobielski Piotr 29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T085000Z
+DTEND:20261109T102500Z
+SUMMARY:Pmr (ć)
+LOCATION:1.27/135
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr Pawlak Katarzyna 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T085000Z
@@ -102,6 +123,13 @@ LOCATION:aula/135
 DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Antczak Joanna 9
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260215T085000Z
+DTEND:20260215T102500Z
+SUMMARY:Pmr (Ep)
+LOCATION:A.1.3/135
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Pawlak Katarzyna 20
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261012T094000Z
 DTEND:20261012T111500Z
 SUMMARY:Owi (w)
@@ -121,6 +149,13 @@ DTEND:20261102T121500Z
 SUMMARY:P. (ć)
 LOCATION:1.15/16
 DESCRIPTION:Prawo 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Kobielski Piotr 29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T104000Z
+DTEND:20261109T121500Z
+SUMMARY:Pmr (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr Pawlak Katarzyna 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
@@ -148,7 +183,7 @@ DTSTART:20261214T104000Z
 DTEND:20261214T121500Z
 SUMMARY:Pmr (ć)
 LOCATION:
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr Pawlak Katarzyna 20
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr Pawlak Katarzyna 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T104000Z
@@ -162,14 +197,14 @@ DTSTART:20261019T113000Z
 DTEND:20261019T130500Z
 SUMMARY:Pmr (ć)
 LOCATION:4.23/135
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr Pawlak Katarzyna 20
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr Pawlak Katarzyna 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T123000Z
 DTEND:20261102T140500Z
 SUMMARY:Pmr (ć)
 LOCATION:1.17/16
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr Pawlak Katarzyna 20
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr Pawlak Katarzyna 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T123000Z
@@ -284,6 +319,13 @@ LOCATION:aula/135
 DESCRIPTION:Prawo 28\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Kobielski Piotr 29
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260125T150000Z
+DTEND:20260125T163500Z
+SUMMARY:Pmr (w)
+LOCATION:7a
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr Pawlak Katarzyna 20
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261005T155000Z
 DTEND:20261005T172500Z
 SUMMARY:P. (w)
@@ -309,7 +351,7 @@ DTSTART:20261116T165000Z
 DTEND:20261116T182500Z
 SUMMARY:Pmr (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr Pawlak Katarzyna 20
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: dr Pawlak Katarzyna 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T165000Z
@@ -368,13 +410,6 @@ LOCATION:7a
 DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Wykład\nNumer zajęć: 5/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 25
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T104000Z
-DTEND:20261208T121500Z
-SUMMARY:Pmr (ć)
-LOCATION:
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr Pawlak Katarzyna 20
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260112T104000Z
 DTEND:20260112T121500Z
 SUMMARY:Pz (w)
@@ -401,13 +436,6 @@ DTEND:20261103T140500Z
 SUMMARY:Mi (w)
 LOCATION:0.24/135
 DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr Antczak Joanna 9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T123000Z
-DTEND:20261110T140500Z
-SUMMARY:Pmr (ć)
-LOCATION:0.6/16
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr Pawlak Katarzyna 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T123000Z
@@ -443,13 +471,6 @@ DTEND:20260112T140500Z
 SUMMARY:Mat 
 LOCATION:255 S
 DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 2/30\nProwadzący: dr inż. Staruch Marcin 17; dr Matysiak Łukasz 6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260216T123000Z
-DTEND:20260216T140500Z
-SUMMARY:Pmr (Ep)
-LOCATION:aula/135
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Pawlak Katarzyna 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T140000Z
@@ -725,20 +746,6 @@ LOCATION:aula/135
 DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr Antczak Joanna 9
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261007T075000Z
-DTEND:20261007T092500Z
-SUMMARY:Pmr (ć)
-LOCATION:5.21/135
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr Pawlak Katarzyna 20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261014T075000Z
-DTEND:20261014T092500Z
-SUMMARY:Pmr (ć)
-LOCATION:1.15/16
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr Pawlak Katarzyna 20
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261125T085000Z
 DTEND:20261125T102500Z
 SUMMARY:Mat 
@@ -760,25 +767,11 @@ LOCATION:26ZX; 4S; 26ZX; 3S; 26ZX; 2S; 26ZX; 1S; 7a
 DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 7/30\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 25; dr Matysiak Łukasz 6; dr hab. inż. Rybiński Janusz 14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260113T085000Z
-DTEND:20260113T102500Z
-SUMMARY:Pmr (w)
-LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: dr Pawlak Katarzyna 20
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260120T085000Z
 DTEND:20260120T102500Z
 SUMMARY:Mat 
 LOCATION:0.8/16
 DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 8/30\nProwadzący: dr inż. Staruch Marcin 17; dr Matysiak Łukasz 6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260127T085000Z
-DTEND:20260127T102500Z
-SUMMARY:Pmr (ć)
-LOCATION:54E
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr Pawlak Katarzyna 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T104000Z
@@ -1318,6 +1311,13 @@ DTEND:20261106T102500Z
 SUMMARY:WdS (w)
 LOCATION:aula/135
 DESCRIPTION:Wprowadzenie do studiowania 33\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Łakoma Ewa 34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T085000Z
+DTEND:20261120T102500Z
+SUMMARY:Pmr (ć)
+LOCATION:1.27/135
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr Pawlak Katarzyna 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T085000Z

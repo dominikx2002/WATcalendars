@@ -627,13 +627,6 @@ LOCATION:3.16/135
 DESCRIPTION:Logistyka usług 15\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Nyszk Łukasz 16
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261115T123000Z
-DTEND:20261115T140500Z
-SUMMARY:SZK (ć)
-LOCATION:1/22
-DESCRIPTION:System zarzadzania kryzysowego 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Bryczek-Wróbel Patrycja 33
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261122T123000Z
 DTEND:20261122T140500Z
 SUMMARY:SZK (w)
@@ -652,7 +645,7 @@ DTSTART:20261213T123000Z
 DTEND:20261213T140500Z
 SUMMARY:SZK (ć)
 LOCATION:0.8/16
-DESCRIPTION:System zarzadzania kryzysowego 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Bryczek-Wróbel Patrycja 33
+DESCRIPTION:System zarzadzania kryzysowego 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Bryczek-Wróbel Patrycja 33
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T123000Z
@@ -718,13 +711,6 @@ LOCATION:3.16/135
 DESCRIPTION:Logistyka usług 15\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Nyszk Łukasz 16
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261115T150000Z
-DTEND:20261115T163500Z
-SUMMARY:SZK (ć)
-LOCATION:1/22
-DESCRIPTION:System zarzadzania kryzysowego 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Bryczek-Wróbel Patrycja 33
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261122T150000Z
 DTEND:20261122T163500Z
 SUMMARY:SZK (w)
@@ -736,7 +722,7 @@ DTSTART:20261213T150000Z
 DTEND:20261213T163500Z
 SUMMARY:SZK (ć)
 LOCATION:0.8/16
-DESCRIPTION:System zarzadzania kryzysowego 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Bryczek-Wróbel Patrycja 33
+DESCRIPTION:System zarzadzania kryzysowego 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Bryczek-Wróbel Patrycja 33
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T150000Z
@@ -760,6 +746,13 @@ LOCATION:0.8/16
 DESCRIPTION:Podstawy informatyki 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr inż. Pokorski Grzegorz 22
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260124T150000Z
+DTEND:20260124T163500Z
+SUMMARY:SZK (ć)
+LOCATION:1.17/16
+DESCRIPTION:System zarzadzania kryzysowego 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Bryczek-Wróbel Patrycja 33
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260131T150000Z
 DTEND:20260131T163500Z
 SUMMARY:Bin (ć)
@@ -779,5 +772,12 @@ DTEND:20260117T182500Z
 SUMMARY:Pi (L)
 LOCATION:0.8/16
 DESCRIPTION:Podstawy informatyki 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Pokorski Grzegorz 22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260124T165000Z
+DTEND:20260124T182500Z
+SUMMARY:SZK (ć)
+LOCATION:1.17/16
+DESCRIPTION:System zarzadzania kryzysowego 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Bryczek-Wróbel Patrycja 33
 END:VEVENT
 END:VCALENDAR

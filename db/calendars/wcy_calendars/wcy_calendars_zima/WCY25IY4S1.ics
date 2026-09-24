@@ -295,7 +295,7 @@ DTSTART:20260320T150000Z
 DTEND:20260320T163500Z
 SUMMARY:SzOR (Inne)
 LOCATION:316 S
-DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T104000Z
@@ -1915,6 +1915,13 @@ LOCATION:313 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261002T094000Z
+DTEND:20261002T111500Z
+SUMMARY:SzOR (Inne)
+LOCATION:309 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261002T140000Z
 DTEND:20261002T153500Z
 SUMMARY:F1 (Inne)
@@ -2517,6 +2524,13 @@ LOCATION:317 S
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261105T123000Z
+DTEND:20261105T140500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261105T150000Z
 DTEND:20261105T163500Z
 SUMMARY:Aok (L)
@@ -2634,6 +2648,13 @@ DTEND:20261112T121500Z
 SUMMARY:F2 (ć)
 LOCATION:204 65
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:Sm (L)
+LOCATION:085 S
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T085000Z
@@ -2888,6 +2909,13 @@ LOCATION:204 65
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261126T123000Z
+DTEND:20261126T140500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261126T150000Z
 DTEND:20261126T163500Z
 SUMMARY:Swb (L)
@@ -3042,6 +3070,13 @@ LOCATION:316 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T150000Z
 DTEND:20261209T163500Z
 SUMMARY:Aok (L)
@@ -3082,6 +3117,13 @@ DTEND:20261215T083500Z
 SUMMARY:SO (L)
 LOCATION:237 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T085000Z
+DTEND:20261215T102500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T104000Z
@@ -3168,6 +3210,13 @@ LOCATION:011 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261222T085000Z
+DTEND:20261222T102500Z
+SUMMARY:Sm (L)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261222T104000Z
 DTEND:20261222T121500Z
 SUMMARY:Ja (ć)
@@ -3201,6 +3250,13 @@ DTEND:20270107T102500Z
 SUMMARY:F2 (ć)
 LOCATION:204 65
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T104000Z
+DTEND:20270107T121500Z
+SUMMARY:Sm (L)
+LOCATION:218 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T123000Z

@@ -256,6 +256,13 @@ LOCATION:aula/135
 DESCRIPTION:Prawo 25\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Kobielski Piotr 26
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260125T150000Z
+DTEND:20260125T163500Z
+SUMMARY:Pmr (w)
+LOCATION:7a
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr Pawlak Katarzyna 20
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261005T155000Z
 DTEND:20261005T172500Z
 SUMMARY:P. (w)
@@ -281,7 +288,7 @@ DTSTART:20261116T165000Z
 DTEND:20261116T182500Z
 SUMMARY:Pmr (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr Pawlak Katarzyna 20
+DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: dr Pawlak Katarzyna 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T165000Z
@@ -716,13 +723,6 @@ DTEND:20261223T102500Z
 SUMMARY:Mat 
 LOCATION:1.16/16
 DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 12/30\nProwadzący: dr inż. Staruch Marcin 17; dr Matysiak Łukasz 6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260113T085000Z
-DTEND:20260113T102500Z
-SUMMARY:Pmr (w)
-LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: dr Pawlak Katarzyna 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T085000Z

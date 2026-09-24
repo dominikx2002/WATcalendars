@@ -249,6 +249,13 @@ LOCATION:308 S
 DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261026T123000Z
+DTEND:20261026T140500Z
+SUMMARY:Med (L)
+LOCATION:227 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:Med (w)
@@ -354,6 +361,13 @@ LOCATION:308 S
 DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261102T150000Z
+DTEND:20261102T163500Z
+SUMMARY:Med (L)
+LOCATION:227 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261103T070000Z
 DTEND:20261103T083500Z
 SUMMARY:PBI (w)
@@ -408,6 +422,13 @@ DTEND:20261105T201500Z
 SUMMARY:Mass (L)
 LOCATION:224 S
 DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T123000Z
+DTEND:20261106T140500Z
+SUMMARY:Nsk (ć)
+LOCATION:309 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T070000Z
@@ -485,6 +506,13 @@ DTEND:20261112T201500Z
 SUMMARY:Mass (L)
 LOCATION:223 S
 DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:Nsk (ć)
+LOCATION:317 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
@@ -592,6 +620,13 @@ LOCATION:309 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261120T150000Z
+DTEND:20261120T163500Z
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261123T104000Z
 DTEND:20261123T121500Z
 SUMMARY:MPR (L)
@@ -604,6 +639,13 @@ DTEND:20261123T140500Z
 SUMMARY:MPR (L)
 LOCATION:233 S
 DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T150000Z
+DTEND:20261123T163500Z
+SUMMARY:Med (L)
+LOCATION:233 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T150000Z
@@ -681,6 +723,13 @@ DTEND:20261130T140500Z
 SUMMARY:Hd (L)
 LOCATION:236 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T150000Z
+DTEND:20261130T163500Z
+SUMMARY:Med (L)
+LOCATION:223 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
@@ -767,6 +816,13 @@ LOCATION:09 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:Med (L)
+LOCATION:252 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261210T070000Z
 DTEND:20261210T083500Z
 SUMMARY:Gk (w)
@@ -807,6 +863,13 @@ DTEND:20261211T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:317 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T123000Z
+DTEND:20261211T140500Z
+SUMMARY:Nsk (ć)
+LOCATION:314 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T104000Z
@@ -863,6 +926,13 @@ DTEND:20261218T121500Z
 SUMMARY:Gk (L)
 LOCATION:252 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T123000Z
+DTEND:20261218T140500Z
+SUMMARY:Nsk (ć)
+LOCATION:309 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T104000Z
@@ -928,6 +998,13 @@ LOCATION:252 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270108T123000Z
+DTEND:20270108T140500Z
+SUMMARY:Nsk (ć)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270108T150000Z
 DTEND:20270108T163500Z
 SUMMARY:PZiP (ć)
@@ -977,6 +1054,13 @@ LOCATION:252 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270112T150000Z
+DTEND:20270112T163500Z
+SUMMARY:Med (L)
+LOCATION:223 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270114T070000Z
 DTEND:20270114T083500Z
 SUMMARY:Gk (w)
@@ -1019,6 +1103,20 @@ LOCATION:316 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270121T104000Z
+DTEND:20270121T121500Z
+SUMMARY:Med (L)
+LOCATION:252 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T104000Z
+DTEND:20270122T121500Z
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270126T070000Z
 DTEND:20270126T083500Z
 SUMMARY:PSy (L)
@@ -1045,5 +1143,19 @@ DTEND:20270126T140500Z
 SUMMARY:Gk (L)
 LOCATION:252 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T150000Z
+DTEND:20270126T163500Z
+SUMMARY:Med (L)
+LOCATION:223 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T104000Z
+DTEND:20270129T121500Z
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 END:VCALENDAR

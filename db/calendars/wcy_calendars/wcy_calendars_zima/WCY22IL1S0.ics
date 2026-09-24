@@ -1943,13 +1943,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 31/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
-SUMMARY:Temo (w)
-LOCATION:252 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T060000Z
 DTEND:20261002T073500Z
 SUMMARY:ZBD (w)
@@ -2115,7 +2108,7 @@ DTSTART:20261008T113000Z
 DTEND:20261008T130500Z
 SUMMARY:Temo (w)
 LOCATION:317 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T140000Z
@@ -2248,7 +2241,7 @@ DTSTART:20261015T113000Z
 DTEND:20261015T130500Z
 SUMMARY:Temo (w)
 LOCATION:252 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T140000Z
@@ -2277,6 +2270,13 @@ DTEND:20261016T130500Z
 SUMMARY:Srrw (w)
 LOCATION:95 S
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T140000Z
+DTEND:20261016T153500Z
+SUMMARY:Temo (w)
+LOCATION:309 S
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T075000Z
