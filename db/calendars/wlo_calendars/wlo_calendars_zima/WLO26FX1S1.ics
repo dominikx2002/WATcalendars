@@ -130,13 +130,6 @@ LOCATION:aula/135
 DESCRIPTION:Matematyka 1 8\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T113000Z
-DTEND:20261012T130500Z
-SUMMARY:PGI (ć)
-LOCATION:255 S
-DESCRIPTION:Podstawy grafiki inżynierskiej 21\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 23
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261026T123000Z
 DTEND:20261026T140500Z
 SUMMARY:Wzp (ć)
@@ -190,7 +183,7 @@ DTSTART:20261019T140000Z
 DTEND:20261019T153500Z
 SUMMARY:PGI (ć)
 LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej 21\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 23
+DESCRIPTION:Podstawy grafiki inżynierskiej 21\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T150000Z
@@ -786,6 +779,13 @@ DTEND:20260126T182500Z
 SUMMARY:Ja (ć)
 LOCATION:126 K; 125 K; 124 K; 122 K; 121 K; 120 K
 DESCRIPTION:Język angielski 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:PGI (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Podstawy grafiki inżynierskiej 21\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T070000Z

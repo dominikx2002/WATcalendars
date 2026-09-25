@@ -1789,6 +1789,13 @@ LOCATION:240 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270114T070000Z
+DTEND:20270114T083500Z
+SUMMARY:MD1 (ć)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270114T085000Z
 DTEND:20270114T102500Z
 SUMMARY:WdI (L)
@@ -1849,7 +1856,7 @@ DTSTART:20270118T123000Z
 DTEND:20270118T140500Z
 SUMMARY:MD1 (ć)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T150000Z
@@ -2046,13 +2053,6 @@ DTEND:20270128T102500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270128T104000Z
-DTEND:20270128T121500Z
-SUMMARY:MD1 (ć)
-LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T123000Z

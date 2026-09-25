@@ -949,6 +949,13 @@ LOCATION:01/ 54A
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261013T113000Z
+DTEND:20261013T130500Z
+SUMMARY:OPW (w)
+LOCATION:22 /BIBL
+DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Misiejuk Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
 SUMMARY:Owi (w)
@@ -1233,7 +1240,7 @@ DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:OPW (w)
 LOCATION:3/038
-DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Misiejuk Tomasz
+DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
@@ -1612,13 +1619,6 @@ DTEND:20261021T153500Z
 SUMMARY:OPBMR (w)
 LOCATION:
 DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261028T150000Z
-DTEND:20261028T163500Z
-SUMMARY:OPW (w)
-LOCATION:3/038
-DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T150000Z

@@ -25,13 +25,6 @@ LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261002T075000Z
-DTEND:20261002T092500Z
-SUMMARY:Sib (w)
-LOCATION:201 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: Zbigniew Świerczynski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T094000Z
 DTEND:20261002T111500Z
 SUMMARY:Bpe (w)
@@ -123,11 +116,11 @@ LOCATION:314 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261009T140000Z
-DTEND:20261009T153500Z
+DTSTART:20261013T060000Z
+DTEND:20261013T073500Z
 SUMMARY:Sib (w)
-LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: Zbigniew Świerczynski
+LOCATION:203 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T075000Z
@@ -184,6 +177,13 @@ DTEND:20261015T111500Z
 SUMMARY:Pap (L)
 LOCATION:011 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T060000Z
+DTEND:20261016T073500Z
+SUMMARY:Sib (w)
+LOCATION:204 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T075000Z
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 DTSTART:20261020T140000Z
 DTEND:20261020T153500Z
 SUMMARY:Sib (w)
-LOCATION:101 65
+LOCATION:203 65
 DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
@@ -268,6 +268,13 @@ DTEND:20261021T111500Z
 SUMMARY:Rou (w)
 LOCATION:201 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T060000Z
+DTEND:20261023T073500Z
+SUMMARY:Sib (w)
+LOCATION:204 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T075000Z
@@ -310,6 +317,20 @@ DTEND:20261026T140500Z
 SUMMARY:PZS (w)
 LOCATION:201 65
 DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T070000Z
+DTEND:20261027T083500Z
+SUMMARY:Sib (w)
+LOCATION:205 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T085000Z
+DTEND:20261027T102500Z
+SUMMARY:Sib (w)
+LOCATION:205 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T104000Z
@@ -473,6 +494,13 @@ LOCATION:011 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261103T150000Z
+DTEND:20261103T163500Z
+SUMMARY:Sib (w)
+LOCATION:203 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261104T123000Z
 DTEND:20261104T140500Z
 SUMMARY:Rou (w)
@@ -506,13 +534,6 @@ DTEND:20261105T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261106T085000Z
-DTEND:20261106T102500Z
-SUMMARY:Sib (w)
-LOCATION:201 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T123000Z
@@ -597,13 +618,6 @@ DTEND:20261112T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261113T085000Z
-DTEND:20261113T102500Z
-SUMMARY:Sib (w)
-LOCATION:204 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T123000Z
@@ -730,13 +744,6 @@ DTEND:20261119T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261120T085000Z
-DTEND:20261120T102500Z
-SUMMARY:Sib (w)
-LOCATION:204 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T104000Z
@@ -1297,13 +1304,6 @@ DTEND:20270115T102500Z
 SUMMARY:Bpe (w)
 LOCATION:314 S
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: mgr inż. Leszek Kalman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270115T104000Z
-DTEND:20270115T121500Z
-SUMMARY:Sib (w)
-LOCATION:203 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T150000Z

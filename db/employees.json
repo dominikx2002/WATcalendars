@@ -102,8 +102,8 @@
     },
     {
       "degree": "dr",
-      "is_new": true,
-      "name": "Anna Łapińska [NEW]"
+      "is_new": false,
+      "name": "Anna Łapińska"
     },
     {
       "degree": "dr",
@@ -5892,9 +5892,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T03:47:18.359866",
-    "last_updated_readable": "2026-09-24 03:47:18",
-    "new_employees_count": 1,
+    "last_updated": "2026-09-25T04:02:50.187670",
+    "last_updated_readable": "2026-09-25 04:02:50",
+    "new_employees_count": 0,
     "scraper_version": "1.0",
     "total_employees": 1178
   }

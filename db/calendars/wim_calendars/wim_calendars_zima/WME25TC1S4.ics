@@ -1551,6 +1551,13 @@ LOCATION:
 DESCRIPTION:SEzas.\nRodzaj zajęć: -\nNumer zajęć: 3/21
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261007T113000Z
+DTEND:20261007T130500Z
+SUMMARY:Eurm (w)
+LOCATION:5/ 20
+DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261014T113000Z
 DTEND:20261014T130500Z
 SUMMARY:WzPs (w)
@@ -1569,14 +1576,14 @@ DTSTART:20261028T123000Z
 DTEND:20261028T140500Z
 SUMMARY:Eurm (w)
 LOCATION:5/ 20
-DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T123000Z
 DTEND:20261104T140500Z
 SUMMARY:Eurm (w)
 LOCATION:42/ 20
-DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T123000Z
@@ -1597,7 +1604,7 @@ DTSTART:20261125T123000Z
 DTEND:20261125T140500Z
 SUMMARY:Eurm (w)
 LOCATION:52/ 62
-DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T123000Z
@@ -1709,7 +1716,7 @@ DTSTART:20261118T150000Z
 DTEND:20261118T163500Z
 SUMMARY:Eurm (w)
 LOCATION:42/ 20
-DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T150000Z
@@ -1933,14 +1940,14 @@ DTSTART:20261015T060000Z
 DTEND:20261015T073500Z
 SUMMARY:Eurm (w)
 LOCATION:42/ 20
-DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T060000Z
 DTEND:20261022T073500Z
 SUMMARY:Eurm (w)
 LOCATION:42/ 20
-DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z
@@ -2235,13 +2242,6 @@ DTEND:20261210T121500Z
 SUMMARY:KiPN (ć)
 LOCATION:09/ 54A
 DESCRIPTION:Komunikacja i podstawy negocjacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T104000Z
-DTEND:20261217T121500Z
-SUMMARY:Eurm (w)
-LOCATION:09/ 54A
-DESCRIPTION:Efektywność utrzymania ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T104000Z

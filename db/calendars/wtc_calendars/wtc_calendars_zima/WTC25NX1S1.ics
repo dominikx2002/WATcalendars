@@ -760,6 +760,13 @@ LOCATION:107 5
 DESCRIPTION:Materiały funkcjonalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Węgłowski Rafał; prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260126T123000Z
+DTEND:20260126T140500Z
+SUMMARY:PNM (w)
+LOCATION:11/ 34
+DESCRIPTION:Podstawy nauki o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261124T150000Z
 DTEND:20261124T163500Z
 SUMMARY:Maf (w)
@@ -1098,13 +1105,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T075000Z
 DTEND:20261008T092500Z
-SUMMARY:PNM (w)
-LOCATION:11/ 34
-DESCRIPTION:Podstawy nauki o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T092500Z
 SUMMARY:PNM (w)
 LOCATION:11/ 34
 DESCRIPTION:Podstawy nauki o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew

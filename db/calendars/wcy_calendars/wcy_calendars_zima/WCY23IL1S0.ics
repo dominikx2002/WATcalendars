@@ -2097,20 +2097,6 @@ LOCATION:128 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 33/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T094000Z
-DTEND:20261008T111500Z
-SUMMARY:Med (w)
-LOCATION:226 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T113000Z
-DTEND:20261008T130500Z
-SUMMARY:Med (w)
-LOCATION:226 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261009T060000Z
 DTEND:20261009T073500Z
 SUMMARY:REG (ć)
@@ -2234,7 +2220,7 @@ DTSTART:20261015T113000Z
 DTEND:20261015T130500Z
 SUMMARY:Med (w)
 LOCATION:239 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T140000Z
@@ -2447,6 +2433,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 38/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261027T123000Z
+DTEND:20261027T140500Z
+SUMMARY:Med (w)
+LOCATION:237 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261027T150000Z
 DTEND:20261027T163500Z
 SUMMARY:Insz (w)
@@ -2472,7 +2465,7 @@ DTSTART:20261028T123000Z
 DTEND:20261028T140500Z
 SUMMARY:Med (w)
 LOCATION:313 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T150000Z
@@ -2577,7 +2570,7 @@ DTSTART:20261103T085000Z
 DTEND:20261103T102500Z
 SUMMARY:Med (w)
 LOCATION:313 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
@@ -2794,7 +2787,7 @@ DTSTART:20261112T123000Z
 DTEND:20261112T140500Z
 SUMMARY:Med (w)
 LOCATION:317 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T070000Z
@@ -2906,7 +2899,7 @@ DTSTART:20261118T123000Z
 DTEND:20261118T140500Z
 SUMMARY:Med (w)
 LOCATION:307 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -3012,6 +3005,13 @@ DTEND:20261124T102500Z
 SUMMARY:Mnwd (w)
 LOCATION:317 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T104000Z
+DTEND:20261124T121500Z
+SUMMARY:Med (w)
+LOCATION:233 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T123000Z

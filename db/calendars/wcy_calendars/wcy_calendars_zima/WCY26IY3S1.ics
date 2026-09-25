@@ -487,6 +487,13 @@ LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 7/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261103T085000Z
+DTEND:20261103T102500Z
+SUMMARY:WDM (ć)
+LOCATION:252 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
 SUMMARY:Als (L)
@@ -506,13 +513,6 @@ DTEND:20261104T102500Z
 SUMMARY:PGI (ć)
 LOCATION:205 65
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261104T104000Z
-DTEND:20261104T121500Z
-SUMMARY:WDM (ć)
-LOCATION:308 S
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T070000Z
@@ -604,6 +604,13 @@ DTEND:20261110T140500Z
 SUMMARY:WdS (w)
 LOCATION:316 S
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Ewa Łakoma
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T150000Z
+DTEND:20261110T163500Z
+SUMMARY:WDM (ć)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -722,7 +729,7 @@ DTSTART:20261118T123000Z
 DTEND:20261118T140500Z
 SUMMARY:WDM (ć)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: -
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -820,7 +827,7 @@ DTSTART:20261125T123000Z
 DTEND:20261125T140500Z
 SUMMARY:WDM (ć)
 LOCATION:313 S
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: -
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -879,13 +886,6 @@ LOCATION:317 S
 DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T085000Z
-DTEND:20261201T102500Z
-SUMMARY:WDM (ć)
-LOCATION:308 S
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T104000Z
 DTEND:20261201T121500Z
 SUMMARY:M II (w)
@@ -905,6 +905,13 @@ DTEND:20261201T163500Z
 SUMMARY:Als (L)
 LOCATION:227 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T165000Z
+DTEND:20261201T182500Z
+SUMMARY:WDM (ć)
+LOCATION:313 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T070000Z
@@ -1005,11 +1012,11 @@ LOCATION:201 65
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261209T150000Z
-DTEND:20261209T163500Z
+DTSTART:20261209T165000Z
+DTEND:20261209T182500Z
 SUMMARY:WDM (ć)
-LOCATION:308 S
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
+LOCATION:307 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
@@ -1110,6 +1117,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261217T123000Z
+DTEND:20261217T140500Z
+SUMMARY:WDM (ć)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T150000Z
 DTEND:20261217T163500Z
 SUMMARY:JoM (ć)
@@ -1145,13 +1159,6 @@ LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261218T150000Z
-DTEND:20261218T163500Z
-SUMMARY:WDM (ć)
-LOCATION:313 S
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261218T165000Z
 DTEND:20261218T182500Z
 SUMMARY:Wzp (ć)
@@ -1178,13 +1185,6 @@ DTEND:20261222T083500Z
 SUMMARY:M II (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 16/17\nProwadzący: dr Joanna Piasecka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261222T085000Z
-DTEND:20261222T102500Z
-SUMMARY:WDM (ć)
-LOCATION:316 S
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
@@ -1292,13 +1292,6 @@ LOCATION:316 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 17/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270113T104000Z
-DTEND:20270113T121500Z
-SUMMARY:WDM (ć)
-LOCATION:307 S
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270113T123000Z
 DTEND:20270113T140500Z
 SUMMARY:MD1 (ć)
@@ -1353,6 +1346,13 @@ DTEND:20270115T102500Z
 SUMMARY:M II (ć)
 LOCATION:204 65
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T104000Z
+DTEND:20270115T121500Z
+SUMMARY:WDM (ć)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T070000Z
@@ -1425,18 +1425,18 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270122T070000Z
-DTEND:20270122T083500Z
-SUMMARY:WDM (ć)
-LOCATION:307 S
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270122T104000Z
 DTEND:20270122T121500Z
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T123000Z
+DTEND:20270122T140500Z
+SUMMARY:WDM (ć)
+LOCATION:317 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270125T070000Z
@@ -1474,6 +1474,13 @@ LOCATION:201 65
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270127T123000Z
+DTEND:20270127T140500Z
+SUMMARY:WDM (ć)
+LOCATION:313 S
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270128T070000Z
 DTEND:20270128T083500Z
 SUMMARY:Mat I (w)
@@ -1507,12 +1514,5 @@ DTEND:20270129T083500Z
 SUMMARY:WdI (w)
 LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270129T085000Z
-DTEND:20270129T102500Z
-SUMMARY:WDM (ć)
-LOCATION:313 S
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

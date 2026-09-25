@@ -49,15 +49,8 @@ BEGIN:VEVENT
 DTSTART:20260109T070000Z
 DTEND:20260109T083500Z
 SUMMARY:M1 (ć)
-LOCATION:252 S
+LOCATION:236 S
 DESCRIPTION:Matematyka 1 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Falkiewicz Ewa 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260116T070000Z
-DTEND:20260116T083500Z
-SUMMARY:Pz (w)
-LOCATION:aula/135
-DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T070000Z
@@ -113,7 +106,7 @@ DTSTART:20261121T085000Z
 DTEND:20261121T102500Z
 SUMMARY:Pz (w)
 LOCATION:0.24/135
-DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
+DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T085000Z
@@ -133,7 +126,7 @@ BEGIN:VEVENT
 DTSTART:20260109T085000Z
 DTEND:20260109T102500Z
 SUMMARY:M1 (ć)
-LOCATION:252 S
+LOCATION:236 S
 DESCRIPTION:Matematyka 1 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Falkiewicz Ewa 5
 END:VEVENT
 BEGIN:VEVENT
@@ -148,14 +141,14 @@ DTSTART:20260123T085000Z
 DTEND:20260123T102500Z
 SUMMARY:Pz (w)
 LOCATION:aula/135
-DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
+DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T085000Z
 DTEND:20260130T102500Z
 SUMMARY:Pz (w)
 LOCATION:aula/135
-DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
+DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T085000Z
@@ -302,7 +295,7 @@ DTSTART:20261205T123000Z
 DTEND:20261205T140500Z
 SUMMARY:Pz (w)
 LOCATION:0.24/135
-DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
+DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T123000Z
@@ -358,7 +351,7 @@ DTSTART:20261010T140000Z
 DTEND:20261010T153500Z
 SUMMARY:Pz (w)
 LOCATION:1.9/16
-DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
+DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T140000Z
@@ -617,7 +610,7 @@ DTSTART:20261004T094000Z
 DTEND:20261004T111500Z
 SUMMARY:Pz (w)
 LOCATION:3.16/135
-DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
+DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T094000Z
@@ -688,6 +681,13 @@ DTEND:20260207T121500Z
 SUMMARY:Pmr (E)
 LOCATION:1.9/16
 DESCRIPTION:Podstawy marketingu 18\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Pawlak Katarzyna 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261004T113000Z
+DTEND:20261004T130500Z
+SUMMARY:Pz (w)
+LOCATION:aula/135
+DESCRIPTION:Podstawy zarządzania 22\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T113000Z

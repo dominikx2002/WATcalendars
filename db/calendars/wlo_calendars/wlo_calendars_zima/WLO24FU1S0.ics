@@ -823,6 +823,13 @@ LOCATION:aula/135
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce 50\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Torzewski Janusz 51
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:MmsM (w)
+LOCATION:1.7/16
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: płk mgr inż. Górski Piotr 23
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:MrBr (w)
@@ -918,7 +925,7 @@ DTSTART:20261202T085000Z
 DTEND:20261202T102500Z
 SUMMARY:MmsM (w)
 LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: płk mgr inż. Górski Piotr 23
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: płk mgr inż. Górski Piotr 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T085000Z
@@ -1250,6 +1257,13 @@ LOCATION:5.21/135
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce 50\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Torzewski Janusz 51
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261112T085000Z
+DTEND:20261112T102500Z
+SUMMARY:MmsM (w)
+LOCATION:1.7/16
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: płk mgr inż. Górski Piotr 23
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261119T085000Z
 DTEND:20261119T102500Z
 SUMMARY:PoMa (w)
@@ -1275,7 +1289,7 @@ DTSTART:20261217T085000Z
 DTEND:20261217T102500Z
 SUMMARY:MmsM (w)
 LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: płk mgr inż. Górski Piotr 23
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: płk mgr inż. Górski Piotr 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T085000Z
@@ -1404,25 +1418,18 @@ LOCATION:238 K; 237 K; 235 K; 234 K; 233 K; 232 K; 231 K; 230 K; 134 K; 133 K
 DESCRIPTION:Język angielski 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
-SUMMARY:MmsM (w)
-LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: płk mgr inż. Górski Piotr 23
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261008T113000Z
 DTEND:20261008T130500Z
 SUMMARY:MmsM (w)
 LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: płk mgr inż. Górski Piotr 23
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: płk mgr inż. Górski Piotr 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T113000Z
 DTEND:20261015T130500Z
 SUMMARY:MmsM (w)
 LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: płk mgr inż. Górski Piotr 23
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: płk mgr inż. Górski Piotr 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T123000Z
@@ -1500,13 +1507,6 @@ DTEND:20260128T140500Z
 SUMMARY:PoTe (S)
 LOCATION:5.21/135
 DESCRIPTION:Podsystem techniczny 42\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr inż. Nagrabski Dariusz 43
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T140000Z
-DTEND:20261001T153500Z
-SUMMARY:MmsM (w)
-LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: płk mgr inż. Górski Piotr 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T140000Z

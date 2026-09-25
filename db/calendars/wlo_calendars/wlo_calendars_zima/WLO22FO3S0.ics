@@ -1075,6 +1075,13 @@ LOCATION:12W
 DESCRIPTION:Topografia wojskowa 58\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: mgr inż. Oleksiak Marek 59; mgr inż. Oleksiak Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261110T150000Z
+DTEND:20261110T163500Z
+SUMMARY:MM 
+LOCATION:301/S
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261215T150000Z
 DTEND:20261215T163500Z
 SUMMARY:ZaMe (ć)
@@ -1122,6 +1129,13 @@ DTEND:20260223T163500Z
 SUMMARY:Pdp 
 LOCATION:
 DESCRIPTION:Pdp\nRodzaj zajęć: -\nNumer zajęć: 48/196
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T165000Z
+DTEND:20261110T182500Z
+SUMMARY:MM 
+LOCATION:301/S
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T165000Z
@@ -1688,7 +1702,7 @@ DTSTART:20261007T113000Z
 DTEND:20261007T130500Z
 SUMMARY:MM 
 LOCATION:1.10/16; 1.9/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T113000Z
@@ -1807,7 +1821,7 @@ DTSTART:20261007T140000Z
 DTEND:20261007T153500Z
 SUMMARY:MM 
 LOCATION:1.10/16; 1.9/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T140000Z
@@ -2034,13 +2048,6 @@ LOCATION:
 DESCRIPTION:Pdp\nRodzaj zajęć: -\nNumer zajęć: 84/196
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T060000Z
-DTEND:20261001T073500Z
-SUMMARY:MM 
-LOCATION:1.10/16; 1.9/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261015T060000Z
 DTEND:20261015T073500Z
 SUMMARY:DSMwPKW (w)
@@ -2073,7 +2080,7 @@ DTSTART:20261119T070000Z
 DTEND:20261119T083500Z
 SUMMARY:MM 
 LOCATION:1.7/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -2137,13 +2144,6 @@ DTEND:20260225T083500Z
 SUMMARY:Pdp 
 LOCATION:
 DESCRIPTION:Pdp\nRodzaj zajęć: -\nNumer zajęć: 88/196
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T092500Z
-SUMMARY:MM 
-LOCATION:1.10/16; 1.9/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T075000Z

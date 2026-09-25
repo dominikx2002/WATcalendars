@@ -441,35 +441,35 @@ BEGIN:VEVENT
 DTSTART:20261013T060000Z
 DTEND:20261013T073500Z
 SUMMARY:TBNiM (ć)
-LOCATION:4.23/135
+LOCATION:1.17/16
 DESCRIPTION:Teoria Bezpieczeństwa Narodowego i Międzynarodowego 29\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: dr Warchał Arnold 30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T060000Z
 DTEND:20261020T073500Z
 SUMMARY:TBNiM (ć)
-LOCATION:4.23/135
+LOCATION:1.17/16
 DESCRIPTION:Teoria Bezpieczeństwa Narodowego i Międzynarodowego 29\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: dr Warchał Arnold 30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T070000Z
 DTEND:20261027T083500Z
 SUMMARY:TBNiM (ć)
-LOCATION:5.21/135
+LOCATION:1.16/16
 DESCRIPTION:Teoria Bezpieczeństwa Narodowego i Międzynarodowego 29\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: dr Warchał Arnold 30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T070000Z
 DTEND:20261103T083500Z
-SUMMARY:ULwB (w)
+SUMMARY:Fb (w)
 LOCATION:aula/135
-DESCRIPTION:Usługi logistyczne w bezpieczeństwie 32\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. inż.(prof. ucz.) Wysocki Józef 33
+DESCRIPTION:Filozofia bezpieczeństwa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. Świniarski Janusz 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T070000Z
 DTEND:20261110T083500Z
 SUMMARY:TBNiM (ć)
-LOCATION:5.21/135
+LOCATION:1.16/16
 DESCRIPTION:Teoria Bezpieczeństwa Narodowego i Międzynarodowego 29\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr Warchał Arnold 30
 END:VEVENT
 BEGIN:VEVENT
@@ -491,49 +491,42 @@ DTSTART:20260112T070000Z
 DTEND:20260112T083500Z
 SUMMARY:Fb (w)
 LOCATION:aula/135
-DESCRIPTION:Filozofia bezpieczeństwa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. Świniarski Janusz 7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260119T070000Z
-DTEND:20260119T083500Z
-SUMMARY:A (w)
-LOCATION:7a
-DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: dr Warchał Arnold 18
+DESCRIPTION:Filozofia bezpieczeństwa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr hab. Świniarski Janusz 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T075000Z
 DTEND:20261006T092500Z
 SUMMARY:Fb (w)
 LOCATION:0.28/135
-DESCRIPTION:Filozofia bezpieczeństwa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr hab. Świniarski Janusz 7
+DESCRIPTION:Filozofia bezpieczeństwa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. Świniarski Janusz 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T075000Z
 DTEND:20261013T092500Z
 SUMMARY:Fb (w)
 LOCATION:0.19/135
-DESCRIPTION:Filozofia bezpieczeństwa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. Świniarski Janusz 7
+DESCRIPTION:Filozofia bezpieczeństwa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr hab. Świniarski Janusz 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:Fb (w)
 LOCATION:0.28/135
-DESCRIPTION:Filozofia bezpieczeństwa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr hab. Świniarski Janusz 7
+DESCRIPTION:Filozofia bezpieczeństwa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr hab. Świniarski Janusz 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:Fb (w)
 LOCATION:0.28/135
-DESCRIPTION:Filozofia bezpieczeństwa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr hab. Świniarski Janusz 7
+DESCRIPTION:Filozofia bezpieczeństwa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr hab. Świniarski Janusz 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T085000Z
 DTEND:20261103T102500Z
-SUMMARY:Fb (w)
+SUMMARY:ULwB (w)
 LOCATION:7a
-DESCRIPTION:Filozofia bezpieczeństwa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr hab. Świniarski Janusz 7; dr hab. Świniarski Janusz
+DESCRIPTION:Usługi logistyczne w bezpieczeństwie 32\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. inż.(prof. ucz.) Wysocki Józef 33; dr hab. inż.(prof. ucz.) Wysocki Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T085000Z
@@ -666,7 +659,7 @@ DTSTART:20260126T104000Z
 DTEND:20260126T121500Z
 SUMMARY:A (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 2/13\nProwadzący: dr Warchał Arnold 18
+DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: dr Warchał Arnold 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T123000Z
@@ -694,7 +687,7 @@ DTSTART:20261117T123000Z
 DTEND:20261117T140500Z
 SUMMARY:A (w)
 LOCATION:7a
-DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: dr Warchał Arnold 18
+DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 2/13\nProwadzący: dr Warchał Arnold 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T123000Z
@@ -715,27 +708,27 @@ DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
 SUMMARY:A (w)
 LOCATION:7a
-DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: dr Warchał Arnold 18
+DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: dr Warchał Arnold 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:A (w)
 LOCATION:7a
-DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: dr Warchał Arnold 18
+DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: dr Warchał Arnold 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T123000Z
 DTEND:20261222T140500Z
 SUMMARY:A (w)
 LOCATION:7a
-DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: dr Warchał Arnold 18
+DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: dr Warchał Arnold 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T123000Z
 DTEND:20260112T140500Z
 SUMMARY:TBNiM (ć)
-LOCATION:0.6/16
+LOCATION:1.16/16
 DESCRIPTION:Teoria Bezpieczeństwa Narodowego i Międzynarodowego 29\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr Warchał Arnold 30
 END:VEVENT
 BEGIN:VEVENT
@@ -750,7 +743,7 @@ DTSTART:20261117T150000Z
 DTEND:20261117T163500Z
 SUMMARY:A (w)
 LOCATION:7a
-DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: dr Warchał Arnold 18
+DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: dr Warchał Arnold 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T150000Z
@@ -763,21 +756,21 @@ BEGIN:VEVENT
 DTSTART:20261201T150000Z
 DTEND:20261201T163500Z
 SUMMARY:A (w)
-LOCATION:1.10/16; 1.9/16
-DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: dr Warchał Arnold 18
+LOCATION:1.9/16; 1.10/16
+DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: dr Warchał Arnold 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T150000Z
 DTEND:20261208T163500Z
 SUMMARY:A (w)
 LOCATION:7a
-DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: dr Warchał Arnold 18
+DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: dr Warchał Arnold 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T150000Z
 DTEND:20261215T163500Z
 SUMMARY:BSiS (ć)
-LOCATION:4.23/135
+LOCATION:1.16/16
 DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr hab. Skrabacz Aleksandra 2
 END:VEVENT
 BEGIN:VEVENT
@@ -800,6 +793,13 @@ DTEND:20260126T182500Z
 SUMMARY:Zle (ć)
 LOCATION:1/22
 DESCRIPTION:Zachowania ludzi w sytuacjach ekstremalnych 35\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T070000Z
+DTEND:20261104T083500Z
+SUMMARY:A (w)
+LOCATION:1002 HIL
+DESCRIPTION:Przedmioty wybierane 17\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: dr Warchał Arnold 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T070000Z

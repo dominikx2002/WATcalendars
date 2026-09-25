@@ -1327,32 +1327,18 @@ LOCATION:203 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
-SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
-SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261102T070000Z
 DTEND:20261102T083500Z
 SUMMARY:Ztel (L)
 LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T085000Z
 DTEND:20261102T102500Z
 SUMMARY:Ztel (L)
 LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T070000Z
@@ -1367,6 +1353,20 @@ DTEND:20261103T102500Z
 SUMMARY:pzST (P)
 LOCATION:239 S
 DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 14/22\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T070000Z
+DTEND:20261109T083500Z
+SUMMARY:Ztel (L)
+LOCATION:121 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T085000Z
+DTEND:20261109T102500Z
+SUMMARY:Ztel (L)
+LOCATION:121 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T104000Z

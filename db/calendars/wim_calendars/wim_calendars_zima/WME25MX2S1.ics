@@ -459,6 +459,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 10/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260111T150000Z
+DTEND:20260111T163500Z
+SUMMARY:Og. (ć)
+LOCATION:6/ 23A
+DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260118T150000Z
 DTEND:20260118T163500Z
 SUMMARY:Mp (L)
@@ -1632,7 +1639,7 @@ DTSTART:20260120T123000Z
 DTEND:20260120T140500Z
 SUMMARY:Og. (ć)
 LOCATION:6/ 23A
-DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T123000Z
@@ -1891,7 +1898,7 @@ DTSTART:20260114T070000Z
 DTEND:20260114T083500Z
 SUMMARY:Og. (ć)
 LOCATION:2/ 23A
-DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T070000Z
@@ -2136,7 +2143,7 @@ DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:Og. (ć)
 LOCATION:6/ 23A
-DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T104000Z
@@ -2255,7 +2262,7 @@ DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
 SUMMARY:Og. (ć)
 LOCATION:6/ 23A
-DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T123000Z
@@ -2347,13 +2354,6 @@ DTEND:20261231T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 63/140
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T150000Z
-DTEND:20260107T163500Z
-SUMMARY:Og. (ć)
-LOCATION:6/ 23A
-DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T150000Z

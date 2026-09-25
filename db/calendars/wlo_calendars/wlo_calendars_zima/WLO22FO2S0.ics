@@ -1068,6 +1068,13 @@ LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 ST
 DESCRIPTION:Szkolenie strzeleckie 54\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: mjr dr inż. Walkowiak Marzena 64; prof. dr hab. Pawlisiak Mieczysław 16
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261110T150000Z
+DTEND:20261110T163500Z
+SUMMARY:MM 
+LOCATION:301/S
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261117T150000Z
 DTEND:20261117T163500Z
 SUMMARY:TW (ć)
@@ -1150,6 +1157,13 @@ DTEND:20261027T182500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T165000Z
+DTEND:20261110T182500Z
+SUMMARY:MM 
+LOCATION:301/S
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T165000Z
@@ -1695,7 +1709,7 @@ DTSTART:20261007T113000Z
 DTEND:20261007T130500Z
 SUMMARY:MM 
 LOCATION:1.10/16; 1.9/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T113000Z
@@ -1737,14 +1751,14 @@ DTSTART:20261125T123000Z
 DTEND:20261125T140500Z
 SUMMARY:MM 
 LOCATION:1.7/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
 SUMMARY:MM 
 LOCATION:1.7/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T123000Z
@@ -1814,7 +1828,7 @@ DTSTART:20261007T140000Z
 DTEND:20261007T153500Z
 SUMMARY:MM 
 LOCATION:1.10/16; 1.9/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T140000Z
@@ -1856,14 +1870,14 @@ DTSTART:20261125T150000Z
 DTEND:20261125T163500Z
 SUMMARY:MM 
 LOCATION:1.7/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T150000Z
 DTEND:20261202T163500Z
 SUMMARY:MM 
 LOCATION:1.7/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
+DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T150000Z
@@ -2069,13 +2083,6 @@ LOCATION:
 DESCRIPTION:Pdp\nRodzaj zajęć: -\nNumer zajęć: 84/196
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T060000Z
-DTEND:20261001T073500Z
-SUMMARY:MM 
-LOCATION:1.10/16; 1.9/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261015T060000Z
 DTEND:20261015T073500Z
 SUMMARY:DSMwPKW (w)
@@ -2186,13 +2193,6 @@ DTEND:20260225T083500Z
 SUMMARY:Pdp 
 LOCATION:
 DESCRIPTION:Pdp\nRodzaj zajęć: -\nNumer zajęć: 88/196
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T092500Z
-SUMMARY:MM 
-LOCATION:1.10/16; 1.9/16
-DESCRIPTION:MM\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: kpt. dr inż. Morawski Mateusz 7; ppłk dr inż. Leśnik Grzegorz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T075000Z

@@ -39,6 +39,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 2/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260111T070000Z
+DTEND:20260111T083500Z
+SUMMARY:Og. (ć)
+LOCATION:5/ 23A
+DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260208T070000Z
 DTEND:20260208T083500Z
 SUMMARY:Tw1 (Zp/lab.)
@@ -1548,7 +1555,7 @@ DTSTART:20260120T104000Z
 DTEND:20260120T121500Z
 SUMMARY:Og. (ć)
 LOCATION:6/ 23A
-DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T104000Z
@@ -1618,7 +1625,7 @@ DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:Og. (ć)
 LOCATION:6/ 23A
-DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T123000Z
@@ -1695,14 +1702,14 @@ DTSTART:20261125T150000Z
 DTEND:20261125T163500Z
 SUMMARY:Og. (ć)
 LOCATION:6/ 23A
-DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T150000Z
 DTEND:20261202T163500Z
 SUMMARY:Og. (ć)
 LOCATION:6/ 23A
-DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T150000Z
@@ -1724,6 +1731,13 @@ DTEND:20260106T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 43/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T150000Z
+DTEND:20260120T163500Z
+SUMMARY:Tw1 (L)
+LOCATION:17/ 21
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T150000Z
@@ -1922,13 +1936,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 51/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260107T070000Z
-DTEND:20260107T083500Z
-SUMMARY:Tw1 (L)
-LOCATION:17/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Woźniak Adam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260204T070000Z
 DTEND:20260204T083500Z
 SUMMARY:Mp (Zp/lab.)
@@ -2053,13 +2060,6 @@ DTEND:20261231T102500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 54/140
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T085000Z
-DTEND:20260107T102500Z
-SUMMARY:Og. (ć)
-LOCATION:6/ 23A
-DESCRIPTION:Ogólne podstawy ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T085000Z

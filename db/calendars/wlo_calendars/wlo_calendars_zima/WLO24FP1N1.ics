@@ -314,9 +314,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T123000Z
 DTEND:20260130T140500Z
-SUMMARY:MrBr (ć)
+SUMMARY:MrBr (w)
 LOCATION:1.17/16
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: mgr inż. Gajda Olga 3
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Ziubiński Mateusz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T140000Z
@@ -456,7 +456,7 @@ DTSTART:20261011T060000Z
 DTEND:20261011T073500Z
 SUMMARY:MrBr (w)
 LOCATION:255 S
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Ziubiński Mateusz 2
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Ziubiński Mateusz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T070000Z
@@ -498,7 +498,7 @@ DTSTART:20261011T075000Z
 DTEND:20261011T092500Z
 SUMMARY:MrBr (w)
 LOCATION:255 S
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Ziubiński Mateusz 2
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Ziubiński Mateusz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T085000Z
@@ -540,7 +540,7 @@ DTSTART:20261220T085000Z
 DTEND:20261220T102500Z
 SUMMARY:MrBr (ć)
 LOCATION:1.16/16
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: mgr inż. Gajda Olga 3
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: mgr inż. Gajda Olga 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T085000Z
@@ -601,16 +601,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T104000Z
 DTEND:20261115T121500Z
-SUMMARY:MrBr (ć)
+SUMMARY:MrBr (w)
 LOCATION:1.16/16
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: mgr inż. Gajda Olga 3
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Ziubiński Mateusz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T104000Z
 DTEND:20261122T121500Z
-SUMMARY:MrBr (w)
+SUMMARY:MrBr (ć)
 LOCATION:1.16/16
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Ziubiński Mateusz 2
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: mgr inż. Gajda Olga 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261206T104000Z
@@ -673,7 +673,7 @@ DTSTART:20261025T123000Z
 DTEND:20261025T140500Z
 SUMMARY:MrBr (ć)
 LOCATION:A.1.3/135
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: mgr inż. Gajda Olga 3
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: mgr inż. Gajda Olga 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261108T123000Z
@@ -692,9 +692,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T123000Z
 DTEND:20261122T140500Z
-SUMMARY:MrBr (w)
+SUMMARY:MrBr (ć)
 LOCATION:1.16/16
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Ziubiński Mateusz 2
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: mgr inż. Gajda Olga 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261206T123000Z

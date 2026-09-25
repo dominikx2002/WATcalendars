@@ -2286,13 +2286,6 @@ LOCATION:313 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/4\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261016T113000Z
-DTEND:20261016T130500Z
-SUMMARY:SO (L)
-LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: Sławomir Matusiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261016T140000Z
 DTEND:20261016T153500Z
 SUMMARY:Aok (L)
@@ -2332,7 +2325,7 @@ DTSTART:20261019T113000Z
 DTEND:20261019T130500Z
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T060000Z
@@ -2556,7 +2549,7 @@ DTSTART:20261030T123000Z
 DTEND:20261030T140500Z
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T150000Z
@@ -2675,7 +2668,7 @@ DTSTART:20261106T123000Z
 DTEND:20261106T140500Z
 SUMMARY:SO (L)
 LOCATION:239 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T150000Z
@@ -2773,7 +2766,7 @@ DTSTART:20261113T085000Z
 DTEND:20261113T102500Z
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13\nProwadzący: Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T104000Z
@@ -2836,7 +2829,7 @@ DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:SO (L)
 LOCATION:239 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T085000Z
@@ -2948,7 +2941,7 @@ DTSTART:20261124T070000Z
 DTEND:20261124T083500Z
 SUMMARY:SO (L)
 LOCATION:239 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/13\nProwadzący: Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T085000Z
@@ -3039,7 +3032,7 @@ DTSTART:20261201T070000Z
 DTEND:20261201T083500Z
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13\nProwadzący: Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
@@ -3172,7 +3165,7 @@ DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:SO (L)
 LOCATION:120 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T085000Z
@@ -3228,7 +3221,7 @@ DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:SO (L)
 LOCATION:120 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -3334,6 +3327,13 @@ DTEND:20270107T182500Z
 SUMMARY:Po (L)
 LOCATION:233 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/16\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T070000Z
+DTEND:20270108T083500Z
+SUMMARY:SO (L)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T070000Z

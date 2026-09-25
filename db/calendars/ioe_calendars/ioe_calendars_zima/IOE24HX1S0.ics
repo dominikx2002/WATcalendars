@@ -7,28 +7,28 @@ BEGIN:VEVENT
 DTSTART:20261005T060000Z
 DTEND:20261005T073500Z
 SUMMARY:Ed (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Eksploracja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Hoffmann Romuald
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T060000Z
 DTEND:20261012T073500Z
 SUMMARY:Ed (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Eksploracja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Hoffmann Romuald
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T060000Z
 DTEND:20261019T073500Z
 SUMMARY:Ed (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Eksploracja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Hoffmann Romuald
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T070000Z
 DTEND:20261026T083500Z
 SUMMARY:Ed (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Eksploracja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Hoffmann Romuald
 END:VEVENT
 BEGIN:VEVENT
@@ -105,21 +105,21 @@ BEGIN:VEVENT
 DTSTART:20260921T075000Z
 DTEND:20260921T092500Z
 SUMMARY:WIEA (Ep)
-LOCATION:30a 5
+LOCATION:30a 54E
 DESCRIPTION:Współczesna inżynieria elektroniki analogowej\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T075000Z
 DTEND:20261005T092500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T075000Z
 DTEND:20261012T092500Z
 SUMMARY:Twcz (w)
-LOCATION:103 6
+LOCATION:103 61
 DESCRIPTION:Technika wielkich częstotliwości\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -294,14 +294,14 @@ BEGIN:VEVENT
 DTSTART:20260111T104000Z
 DTEND:20260111T121500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T104000Z
 DTEND:20260118T121500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -323,7 +323,7 @@ DTSTART:20260914T113000Z
 DTEND:20260914T130500Z
 SUMMARY:F3 (Ep)
 LOCATION:4 41
-DESCRIPTION:F3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
+DESCRIPTION:F3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek; dr hab. inż. (prof. ucz.) Życzkowski Marek; prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T113000Z
@@ -434,70 +434,70 @@ BEGIN:VEVENT
 DTSTART:20261012T140000Z
 DTEND:20261012T153500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T140000Z
 DTEND:20261019T153500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T150000Z
 DTEND:20261026T163500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T150000Z
 DTEND:20261102T163500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T150000Z
 DTEND:20261109T163500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T150000Z
 DTEND:20261116T163500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T150000Z
 DTEND:20261123T163500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T150000Z
 DTEND:20261130T163500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T150000Z
 DTEND:20261221T163500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T060000Z
 DTEND:20261013T073500Z
 SUMMARY:Seip (w)
-LOCATION:103 6
+LOCATION:103 61
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/12\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
@@ -546,42 +546,42 @@ BEGIN:VEVENT
 DTSTART:20260922T075000Z
 DTEND:20260922T092500Z
 SUMMARY:ZMI (Ep)
-LOCATION:11/ 3
+LOCATION:11/ 34
 DESCRIPTION:Zaawansowane materiały inżynierskie\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T075000Z
 DTEND:20261006T092500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 13/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T075000Z
 DTEND:20261013T092500Z
 SUMMARY:TC (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/16\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 14/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:TC (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/16\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T085000Z
 DTEND:20261110T102500Z
 SUMMARY:TC (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/16\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -595,7 +595,7 @@ BEGIN:VEVENT
 DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:Twcz (ć)
-LOCATION:103 6
+LOCATION:103 61
 DESCRIPTION:Technika wielkich częstotliwości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -609,14 +609,14 @@ BEGIN:VEVENT
 DTSTART:20261208T085000Z
 DTEND:20261208T102500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 16/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T085000Z
 DTEND:20261215T102500Z
 SUMMARY:Twcz (L)
-LOCATION:31 61
+LOCATION:31 61A
 DESCRIPTION:Technika wielkich częstotliwości\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Hoffmann Romuald
 END:VEVENT
 BEGIN:VEVENT
@@ -644,7 +644,7 @@ BEGIN:VEVENT
 DTSTART:20260126T085000Z
 DTEND:20260126T102500Z
 SUMMARY:Twcz (L)
-LOCATION:31 61
+LOCATION:31 61A
 DESCRIPTION:Technika wielkich częstotliwości\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr inż. Hoffmann Romuald
 END:VEVENT
 BEGIN:VEVENT
@@ -664,9 +664,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260922T094000Z
 DTEND:20260922T111500Z
-SUMMARY:InK zpć
+SUMMARY:InK zpćw
 LOCATION:27 70
-DESCRIPTION:Informatyka kwantowa\nRodzaj zajęć: zpć\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
+DESCRIPTION:Informatyka kwantowa\nRodzaj zajęć: zpćw\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T094000Z
@@ -679,14 +679,14 @@ BEGIN:VEVENT
 DTSTART:20261013T094000Z
 DTEND:20261013T111500Z
 SUMMARY:TC (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/16\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T094000Z
 DTEND:20261020T111500Z
 SUMMARY:TC (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/16\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -700,7 +700,7 @@ BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:Twcz (w)
-LOCATION:103 6
+LOCATION:103 61
 DESCRIPTION:Technika wielkich częstotliwości\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -714,7 +714,7 @@ BEGIN:VEVENT
 DTSTART:20261124T104000Z
 DTEND:20261124T121500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 17/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -749,7 +749,7 @@ BEGIN:VEVENT
 DTSTART:20260112T104000Z
 DTEND:20260112T121500Z
 SUMMARY:Twcz (L)
-LOCATION:31 61
+LOCATION:31 61A
 DESCRIPTION:Technika wielkich częstotliwości\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr inż. Hoffmann Romuald
 END:VEVENT
 BEGIN:VEVENT
@@ -784,7 +784,7 @@ BEGIN:VEVENT
 DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
 SUMMARY:Seip (w)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/12\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
@@ -847,7 +847,7 @@ BEGIN:VEVENT
 DTSTART:20260119T123000Z
 DTEND:20260119T140500Z
 SUMMARY:Seip (w)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
@@ -861,28 +861,28 @@ BEGIN:VEVENT
 DTSTART:20261020T140000Z
 DTEND:20261020T153500Z
 SUMMARY:Twcz (w)
-LOCATION:103 6
+LOCATION:103 61
 DESCRIPTION:Technika wielkich częstotliwości\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T150000Z
 DTEND:20261027T163500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 19/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T150000Z
 DTEND:20261103T163500Z
 SUMMARY:Seip (w)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T150000Z
 DTEND:20261117T163500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 20/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -896,14 +896,14 @@ BEGIN:VEVENT
 DTSTART:20261215T150000Z
 DTEND:20261215T163500Z
 SUMMARY:TTe (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technologie telekomunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 21/22\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T165000Z
 DTEND:20261103T182500Z
 SUMMARY:Seip (w)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
@@ -945,21 +945,21 @@ BEGIN:VEVENT
 DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:Ekw (L)
-LOCATION:5 46;
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
+LOCATION:5 46;28 46
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek; dr inż. Grześ Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T070000Z
 DTEND:20260113T083500Z
 SUMMARY:Ekw (L)
-LOCATION:5 46;
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
+LOCATION:5 46;28 46
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek; dr inż. Grześ Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
 SUMMARY:TC (w)
-LOCATION:204 1
+LOCATION:204 136
 DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 11/16\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -994,15 +994,15 @@ BEGIN:VEVENT
 DTSTART:20261223T085000Z
 DTEND:20261223T102500Z
 SUMMARY:Ekw (L)
-LOCATION:5 46;
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
+LOCATION:5 46;28 46
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek; dr inż. Grześ Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T085000Z
 DTEND:20260113T102500Z
 SUMMARY:Ekw (L)
-LOCATION:5 46;
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
+LOCATION:5 46;28 46
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek; dr inż. Grześ Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T085000Z
@@ -1071,35 +1071,35 @@ BEGIN:VEVENT
 DTSTART:20261118T123000Z
 DTEND:20261118T140500Z
 SUMMARY:Seip (w)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T123000Z
 DTEND:20261125T140500Z
 SUMMARY:Seip (w)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
 SUMMARY:Seip (w)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:Seip (P)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Projekt\nNumer zajęć: 1/10\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T123000Z
 DTEND:20261223T140500Z
 SUMMARY:Seip (w)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
@@ -1113,56 +1113,56 @@ BEGIN:VEVENT
 DTSTART:20261104T150000Z
 DTEND:20261104T163500Z
 SUMMARY:Seip (P)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T150000Z
 DTEND:20261118T163500Z
 SUMMARY:Seip (w)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T150000Z
 DTEND:20261125T163500Z
 SUMMARY:Seip (w)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T150000Z
 DTEND:20261202T163500Z
 SUMMARY:Seip (w)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T150000Z
 DTEND:20261209T163500Z
 SUMMARY:Seip (P)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Projekt\nNumer zajęć: 3/10\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T150000Z
 DTEND:20261216T163500Z
 SUMMARY:Seip (P)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Projekt\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T165000Z
 DTEND:20261104T182500Z
 SUMMARY:Seip (P)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Projekt\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T165000Z
 DTEND:20261216T182500Z
 SUMMARY:Seip (P)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Projekt\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
@@ -1205,7 +1205,7 @@ DTSTART:20261008T075000Z
 DTEND:20261008T092500Z
 SUMMARY:Ing 
 LOCATION:
-DESCRIPTION:Ing\nRodzaj zajęć: -\nNumer zajęć: 1/2\nProwadzący: dr inż. Hoffmann Romuald; prof. dr hab. inż. Żendzian Waldemar; dr hab. inż. (prof. ucz.) Kwiatkowski Jacek; dr hab. inż. (prof. ucz.) Życzkowski Marek; dr inż. Grześ Paweł; dr hab .inż. Perkowski Paweł; dr hab. inż. Piecek Wiktor; prof.dr hab.inż. Rutkowski Jarosław; dr inż. Wiśniewska Joanna; prof. dr hab. inż. Bielecki Zbigniew; prof. dr hab. inż. Jabczyński Jan; dr inż. Gorajek Łukasz; dr inż. Gontar Przemysław; dr hab. Pęczkowski Paweł; dr inż. Jachna Zbigniew; por. mgr inż. Ślązak Paweł; dr hab. inż. Susek Waldemar; dr inż. Rutkowski Adam; dr inż. Jasiński Andrzej; prof. dr hab. inż. Dobrowolski Andrzej; ppłk dr inż. Karczewski Krzysztof; 01 II 08 II 15 II 22 II Ed Eksploracja danych pon. 1-2 Ed w 204 1 Hof Ed w 204 1 Hof Ed w 204 1 Hof Ed w 204 1 Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof w 20 dr inż. Hoffmann Romuald pon. 3-4 WIEA Ep 30a 5 Dob TTe w 204 1 AJa Twcz w 103 6 Sus Twcz w 27 61 Sus Ekw ć 20 46 Kwi Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed P 223 S Hof Ed P 223 S Hof Ed P 223 S Hof Ed P 223 S Hof L 20 dr inż. Hoffmann Romuald pon. 5-6 POT w 20 46 Jab Ekw w 20 46 Żen POT w 20 46 Jab POT w 20 46 Jab POT w 20 46 Jab Ekw w 20 46 Żen POT w 20 46 Jab Ekw w 20 46 Żen POT w 20 46 Jab POT w 20 46 Jab POT w 20 46 Jab POT w 20 46 Jab TTe w 204 1 AJa TTe w 204 1 AJa Ekw ć 20 46 Kwi TTe Ep 4 41 AJa P 20 dr inż. Hoffmann Romuald pon. 7-8 F3 Ep 4 41 Rut Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw Elektronika kwantowa pon. 9-10 TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa w 36 prof. dr hab. inż. Żendzian Waldemar wt. 15 IX 22 IX 29 IX 06 X 13 X 20 X 27 X 03 XI 10 XI 17 XI 24 XI 01 XII 08 XII 15 XII 22 XII 29 XII 05; 02 II 09 II 16 II 23 II ć 16 dr hab. inż. (prof. ucz.) Kwiatkowski Jacek wt. 1-2 Seip w 103 6 PęP Ed P 223 S Hof Ed P 223 S Hof Ed P 223 S Hof TTe L 21 47 AJa TTe L 21 47 AJa TTe L 21 47 AJa L 8 dr hab. inż. (prof. ucz.) Kwiatkowski Jacek wt. 3-4 ZMI Ep 11; 3 Kar TTe w 204 1 AJa TC w 204 1 Jac TTe w 204 1 AJa TC w 204 1 Jac TC w 204 1 Jac Twcz w 27 61 Sus Twcz ć 103 6 Sus TTe w 4 41 AJa TTe w 204 1 AJa Twcz L 31 61 RuA TTe L 21 47 AJa TTe L 21 47 AJa TTe L 21 47 AJa Twcz L 31 61 RuA TC E 4 41 Jac Ekw E 20 46 Żen L 8 dr hab. inż. (prof. ucz.) Życzkowski Marek wt. 5-6 InK zpć 27 70 WJ Twcz w 27 61 Sus TC w 204 1 Jac TC w 204 1 Jac TC L 14 45 Sla Twcz w 103 6 Sus TC L 14 45 Sla TTe w 204 1 AJa TC L 14 45 Sla POT L 7 46 GoP TC L 14 45 Sla TC L 14 45 Sla Twcz L 31 61 RuA POT ć 20 46 Gor TTe L 21 47 AJa L 8 dr inż. Grześ Paweł wt. 7-8 Twcz w 27 61 Sus TTe w 20 46 AJa Seip w 35 61 PęP TC L 14 45 Sla TC w 4 41 Jac TC L 14 45 Sla TC L 14 45 Sla POT L 7 46 GoP TC L 14 45 Sla TC L 14 45 Sla POT ć 20 46 Gor Seip w 35 61 PęP TTe L 21 47 AJa E 2 prof. dr hab. inż. Żendzian Waldemar wt. 9-10 Twcz w 103 6 Sus TTe w 204 1 AJa Seip w 35 61 PęP TTe w 204 1 AJa POT ć 20 46 Gor TTe w 204 1 AJa Ep 2 prof. dr hab. inż. Żendzian Waldemar wt. 11-12 Seip w 35 61 PęP F3 Fizyka 3 śr. 16 IX 23 IX 30 IX 07 X 14 X 21 X 28 X 04 XI 11 XI 18 XI 25 XI 02 XII 09 XII 16 XII 23 XII 30 XII 06; 03 II 10 II 17 II 24 II Ep 2 dr hab .inż. Perkowski Paweł śr. 1-2 Twcz w 27 61 Sus TC w 4 41 Jac TC w 4 41 Jac TC w 4 41 Jac TC w 4 41 Jac Ekw L 5 46; Kwi Ep 2 dr hab. inż. Piecek Wiktor śr. 3-4 TC w 204 1 Jac TC w 4 41 Jac TC w 4 41 Jac POT L 7 46 GoP POT L 7 46 GoP Ekw L 5 46; Kwi TC Ep 4 41 Jac Ep 2 prof.dr hab.inż. Rutkowski Jarosław śr. 5-6 TC w 4 41 Jac Ed P 223 S Hof Ekw ć 21 46 Kwi POT L 7 46 GoP POT L 7 46 GoP Ekw ć 20 46 Kwi POT L 7 46 GoP InK Informatyka kwantowa śr. 7-8 TC w 4 41 Jac Seip w 35 61 PęP Seip w 35 61 PęP Seip w 35 61 PęP Seip P 35 61 PęP Seip w 35 61 PęP POT L 7 46 GoP zpćw 2 dr inż. Wiśniewska Joanna śr. 9-10 Seip P 35 61 PęP Seip w 35 61 PęP Seip w 35 61 PęP Seip w 35 61 PęP Seip P 35 61 PęP Seip P 35 61 PęP MiDPO Modulacja; detekcja promieniowania optycznego śr. 11-12 Seip P 35 61 PęP Seip P 35 61 PęP Ep 2 prof. dr hab. inż. Bielecki Zbigniew czw. 17 IX 24 IX 01 X 08 X 15 X 22 X 29 X 05 XI 12 XI 19 XI 26 XI 03 XII 10 XII 17 XII 24 XII 31 XII 07; 04 II 11 II 18 II 25 II POT Podstawy optyki czw. 1-2 TC w 4 41 Jac POT ć 20 46 Gor POT ć 20 46 Gor Ekw L 14 41 Życ Ekw L 14 41 Życ w 18 prof. dr hab. inż. Jabczyński Jan czw. 3-4 Ing POT ć 20 46 Gor Twcz ć 27 61 Sus Twcz ć 103 6 Sus Ekw L 14 41 Życ Ekw L 14 41 Życ ć 18 dr inż. Gorajek Łukasz czw. 5-6 Ing Ekw ć 20 46 Kwi Ekw ć 20 46 Kwi Ekw ć 20 46 Kwi Ekw ć 20 46 Kwi POT ć 20 46 Gor Twcz L 31 61 RuA L 16 dr inż. Gontar  Przemysław czw. 7-8 Ed P 223 S Hof Ed P 223 S Hof POT ć 20 46 Gor Seip Sensory; 05 II 12 II 19 II 26 II w 24 dr hab. Pęczkowski Paweł pt. 1-2 Seip P 35 61 PęP POT ć 20 46 Gor P 20 dr hab. Pęczkowski Paweł pt. 3-4 MiDPO Ep 27 70 Bie Seip P 35 61 PęP TTe w 4 41 AJa TTe E 4 41 AJa Ekw Ep 20 46 Żen TC Technika cyfrowa pt. 5-6 Seip P 35 61 PęP TC L 14 45 Sla TC L 14 45 Sla w 32 dr inż. Jachna Zbigniew pt. 7-8 Seip P 35 61 PęP TC L 14 45 Sla TC L 14 45 Sla L 28 por. mgr inż. Ślązak Paweł sob. 19 IX 26 IX 03 X 10 X 17 X 24 X 31 X 07 XI 14 XI 21 XI 28 XI 05 XII 12 XII 19 XII 26 XII 02; 06 II 13 II 20 II 27 II E 2 dr inż. Jachna Zbigniew niedz. 20 IX 27 IX 04 X 11 X 18 X 25 X 01 XI 08 XI 15 XI 22 XI 29 XI 06 XII 13 XII 20 XII 27 XII 03; 07 II 14 II 21 II 28 II Ep 2 dr inż. Jachna Zbigniew Twcz Technika wielkich częstotliwości w 16 dr hab. inż. Susek Waldemar ć 6 dr hab. inż. Susek Waldemar L 8 dr inż. Rutkowski Adam TTe Technologie telekomunikacyjne w 44 dr inż. Jasiński Andrzej L 16 dr inż. Jasiński Andrzej E 2 dr inż. Jasiński Andrzej Ep 2 dr inż. Jasiński Andrzej WIEA Współczesna inżynieria elektroniki analogowej Ep 2 prof. dr hab. inż. Dobrowolski Andrzej ZMI Zaawansowane materiały inżynierskie Ep 2 ppłk dr inż. Karczewski Krzysztof Data aktualizacji: 23.09.2026 14:08:51 Dokument został utworzony za pomocą programu Plansoft.org; 07 II 14 II 21 II 28 II Ep 2 dr inż. Jachna Zbigniew Twcz Technika wielkich częstotliwości w 16 dr hab. inż. Susek Waldemar ć 6 dr hab. inż. Susek Waldemar L 8 dr inż. Rutkowski Adam TTe Technologie telekomunikacyjne w 44 dr inż. Jasiński Andrzej L 16 dr inż. Jasiński Andrzej E 2 dr inż. Jasiński Andrzej Ep 2 dr inż. Jasiński Andrzej WIEA Współczesna inżynieria elektroniki analogowej Ep 2 prof. dr hab. inż. Dobrowolski Andrzej ZMI Zaawansowane materiały inżynierskie Ep 2 ppłk dr inż. Karczewski Krzysztof; dr inż. Gontar  Przemysław
+DESCRIPTION:Ing\nRodzaj zajęć: -\nNumer zajęć: 1/2\nProwadzący: dr inż. Hoffmann Romuald; prof. dr hab. inż. Żendzian Waldemar; dr hab. inż. (prof. ucz.) Kwiatkowski Jacek; dr hab. inż. (prof. ucz.) Życzkowski Marek; dr inż. Grześ Paweł; dr hab .inż. Perkowski Paweł; dr hab. inż. Piecek Wiktor; prof.dr hab.inż. Rutkowski Jarosław; dr inż. Wiśniewska Joanna; prof. dr hab. inż. Bielecki Zbigniew; prof. dr hab. inż. Jabczyński Jan; dr inż. Gorajek Łukasz; dr inż. Gontar Przemysław; dr hab. Pęczkowski Paweł; dr inż. Jachna Zbigniew; por. mgr inż. Ślązak Paweł; dr hab. inż. Susek Waldemar; dr inż. Rutkowski Adam; dr inż. Jasiński Andrzej; prof. dr hab. inż. Dobrowolski Andrzej; ppłk dr inż. Karczewski Krzysztof; 01 II 08 II 15 II 22 II Ed Eksploracja danych pon. 1-2 Ed w 204 136 Hof Ed w 204 136 Hof Ed w 204 136 Hof Ed w 204 136 Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof w 20 dr inż. Hoffmann Romuald pon. 3-4 WIEA Ep 30a 54E Dobr TTe w 204 136 AJas Twcz w 103 61 Sus Twcz w 27 61 Sus Ekw ć 20 46 KwiJ Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed P 223 S Hof Ed P 223 S Hof Ed P 223 S Hof Ed P 223 S Hof L 20 dr inż. Hoffmann Romuald pon. 5-6 POT w 20 46 JabJ Ekw w 20 46 Żen POT w 20 46 JabJ POT w 20 46 JabJ POT w 20 46 JabJ Ekw w 20 46 Żen POT w 20 46 JabJ Ekw w 20 46 Żen POT w 20 46 JabJ POT w 20 46 JabJ POT w 20 46 JabJ POT w 20 46 JabJ TTe w 204 136 AJas TTe w 204 136 AJas Ekw ć 20 46 KwiJ TTe Ep 4 41 AJas P 20 dr inż. Hoffmann Romuald pon. 7-8 F3 Ep 4 41 Rut; Pie Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw Elektronika kwantowa pon. 9-10 TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas w 36 prof. dr hab. inż. Żendzian Waldemar wt. 15 IX 22 IX 29 IX 06 X 13 X 20 X 27 X 03 XI 10 XI 17 XI 24 XI 01 XII 08 XII 15 XII 22 XII 29 XII 05; 02 II 09 II 16 II 23 II ć 16 dr hab. inż. (prof. ucz.) Kwiatkowski Jacek wt. 1-2 Seip w 103 61 PęPa Ed P 223 S Hof Ed P 223 S Hof Ed P 223 S Hof TTe L 21 47 AJas TTe L 21 47 AJas TTe L 21 47 AJas L 8 dr hab. inż. (prof. ucz.) Kwiatkowski Jacek wt. 3-4 ZMI Ep 11; 34 Kar.K TTe w 204 136 AJas TC w 204 136 Jac TTe w 204 136 AJas TC w 204 136 Jac TC w 204 136 Jac Twcz w 27 61 Sus Twcz ć 103 61 Sus TTe w 4 41 AJas TTe w 204 136 AJas Twcz L 31 61A RuA TTe L 21 47 AJas TTe L 21 47 AJas TTe L 21 47 AJas Twcz L 31 61A RuA TC E 4 41 Jac Ekw E 20 46 Żen L 8 dr hab. inż. (prof. ucz.) Życzkowski Marek wt. 5-6 InK zpćw 27 70 WJ Twcz w 27 61 Sus TC w 204 136 Jac TC w 204 136 Jac TC L 14 45 SlazPa Twcz w 103 61 Sus TC L 14 45 SlazPa TTe w 204 136 AJas TC L 14 45 SlazPa POT L 7 46 GoP TC L 14 45 SlazPa TC L 14 45 SlazPa Twcz L 31 61A RuA POT ć 20 46 GorŁ TTe L 21 47 AJas L 8 dr inż. Grześ Paweł wt. 7-8 Twcz w 27 61 Sus TTe w 20 46 AJas Seip w 35 61a PęPa TC L 14 45 SlazPa TC w 4 41 Jac TC L 14 45 SlazPa TC L 14 45 SlazPa POT L 7 46 GoP TC L 14 45 SlazPa TC L 14 45 SlazPa POT ć 20 46 GorŁ Seip w 35 61a PęPa TTe L 21 47 AJas E 2 prof. dr hab. inż. Żendzian Waldemar wt. 9-10 Twcz w 103 61 Sus TTe w 204 136 AJas Seip w 35 61a PęPa TTe w 204 136 AJas POT ć 20 46 GorŁ TTe w 204 136 AJas Ep 2 prof. dr hab. inż. Żendzian Waldemar wt. 11-12 Seip w 35 61a PęPa F3 Fizyka 3 śr. 16 IX 23 IX 30 IX 07 X 14 X 21 X 28 X 04 XI 11 XI 18 XI 25 XI 02 XII 09 XII 16 XII 23 XII 30 XII 06; 03 II 10 II 17 II 24 II Ep 2 dr hab .inż. Perkowski Paweł śr. 1-2 Twcz w 27 61 Sus TC w 4 41 Jac TC w 4 41 Jac TC w 4 41 Jac TC w 4 41 Jac Ekw L 5 46; GP Ep 2 dr hab. inż. Piecek Wiktor śr. 3-4 TC w 204 136 Jac TC w 4 41 Jac TC w 4 41 Jac POT L 7 46 GoP POT L 7 46 GoP Ekw L 5 46; GP TC Ep 4 41 Jac Ep 2 prof.dr hab.inż. Rutkowski Jarosław śr. 5-6 TC w 4 41 Jac Ed P 223 S Hof Ekw ć 21 46 KwiJ POT L 7 46 GoP POT L 7 46 GoP Ekw ć 20 46 KwiJ POT L 7 46 GoP InK Informatyka kwantowa śr. 7-8 TC w 4 41 Jac Seip w 35 61a PęPa Seip w 35 61a PęPa Seip w 35 61a PęPa Seip P 35 61a PęPa Seip w 35 61a PęPa POT L 7 46 GoP zpćw 2 dr inż. Wiśniewska Joanna śr. 9-10 Seip P 35 61a PęPa Seip w 35 61a PęPa Seip w 35 61a PęPa Seip w 35 61a PęPa Seip P 35 61a PęPa Seip P 35 61a PęPa MiDPO Modulacja; detekcja promieniowania optycznego śr. 11-12 Seip P 35 61a PęPa Seip P 35 61a PęPa Ep 2 prof. dr hab. inż. Bielecki Zbigniew czw. 17 IX 24 IX 01 X 08 X 15 X 22 X 29 X 05 XI 12 XI 19 XI 26 XI 03 XII 10 XII 17 XII 24 XII 31 XII 07; 04 II 11 II 18 II 25 II POT Podstawy optyki czw. 1-2 TC w 4 41 Jac POT ć 20 46 GorŁ POT ć 20 46 GorŁ Ekw L 14 41 Życz Ekw L 14 41 Życz w 18 prof. dr hab. inż. Jabczyński Jan czw. 3-4 Ing POT ć 20 46 GorŁ Twcz ć 27 61 Sus Twcz ć 103 61 Sus Ekw L 14 41 Życz Ekw L 14 41 Życz ć 18 dr inż. Gorajek Łukasz czw. 5-6 Ing Ekw ć 20 46 KwiJ Ekw ć 20 46 KwiJ Ekw ć 20 46 KwiJ Ekw ć 20 46 KwiJ POT ć 20 46 GorŁ Twcz L 31 61A RuA L 16 dr inż. Gontar  Przemysław czw. 7-8 Ed P 223 S Hof Ed P 223 S Hof POT ć 20 46 GorŁ Seip Sensory; 05 II 12 II 19 II 26 II w 24 dr hab. Pęczkowski Paweł pt. 1-2 Seip P 35 61a PęPa POT ć 20 46 GorŁ P 20 dr hab. Pęczkowski Paweł pt. 3-4 MiDPO Ep 27 70 BieZ Seip P 35 61a PęPa TTe w 4 41 AJas TTe E 4 41 AJas Ekw Ep 20 46 Żen TC Technika cyfrowa pt. 5-6 Seip P 35 61a PęPa TC L 14 45 SlazPa TC L 14 45 SlazPa w 32 dr inż. Jachna Zbigniew pt. 7-8 Seip P 35 61a PęPa TC L 14 45 SlazPa TC L 14 45 SlazPa L 28 por. mgr inż. Ślązak Paweł sob. 19 IX 26 IX 03 X 10 X 17 X 24 X 31 X 07 XI 14 XI 21 XI 28 XI 05 XII 12 XII 19 XII 26 XII 02; 06 II 13 II 20 II 27 II E 2 dr inż. Jachna Zbigniew niedz. 20 IX 27 IX 04 X 11 X 18 X 25 X 01 XI 08 XI 15 XI 22 XI 29 XI 06 XII 13 XII 20 XII 27 XII 03; 07 II 14 II 21 II 28 II Ep 2 dr inż. Jachna Zbigniew Twcz Technika wielkich częstotliwości w 16 dr hab. inż. Susek Waldemar ć 6 dr hab. inż. Susek Waldemar L 8 dr inż. Rutkowski Adam TTe Technologie telekomunikacyjne w 44 dr inż. Jasiński Andrzej L 16 dr inż. Jasiński Andrzej E 2 dr inż. Jasiński Andrzej Ep 2 dr inż. Jasiński Andrzej WIEA Współczesna inżynieria elektroniki analogowej Ep 2 prof. dr hab. inż. Dobrowolski Andrzej ZMI Zaawansowane materiały inżynierskie Ep 2 ppłk dr inż. Karczewski Krzysztof Data aktualizacji: 24.09.2026 08:39:13 Dokument został utworzony za pomocą programu Plansoft.org; 07 II 14 II 21 II 28 II Ep 2 dr inż. Jachna Zbigniew Twcz Technika wielkich częstotliwości w 16 dr hab. inż. Susek Waldemar ć 6 dr hab. inż. Susek Waldemar L 8 dr inż. Rutkowski Adam TTe Technologie telekomunikacyjne w 44 dr inż. Jasiński Andrzej L 16 dr inż. Jasiński Andrzej E 2 dr inż. Jasiński Andrzej Ep 2 dr inż. Jasiński Andrzej WIEA Współczesna inżynieria elektroniki analogowej Ep 2 prof. dr hab. inż. Dobrowolski Andrzej ZMI Zaawansowane materiały inżynierskie Ep 2 ppłk dr inż. Karczewski Krzysztof; dr inż. Gontar  Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T085000Z
@@ -1225,7 +1225,7 @@ BEGIN:VEVENT
 DTSTART:20261210T085000Z
 DTEND:20261210T102500Z
 SUMMARY:Twcz (ć)
-LOCATION:103 6
+LOCATION:103 61
 DESCRIPTION:Technika wielkich częstotliwości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -1247,7 +1247,7 @@ DTSTART:20261008T094000Z
 DTEND:20261008T111500Z
 SUMMARY:Ing 
 LOCATION:
-DESCRIPTION:Ing\nRodzaj zajęć: -\nNumer zajęć: 2/2\nProwadzący: dr inż. Hoffmann Romuald; prof. dr hab. inż. Żendzian Waldemar; dr hab. inż. (prof. ucz.) Kwiatkowski Jacek; dr hab. inż. (prof. ucz.) Życzkowski Marek; dr inż. Grześ Paweł; dr hab .inż. Perkowski Paweł; dr hab. inż. Piecek Wiktor; prof.dr hab.inż. Rutkowski Jarosław; dr inż. Wiśniewska Joanna; prof. dr hab. inż. Bielecki Zbigniew; prof. dr hab. inż. Jabczyński Jan; dr inż. Gorajek Łukasz; dr inż. Gontar Przemysław; dr hab. Pęczkowski Paweł; dr inż. Jachna Zbigniew; por. mgr inż. Ślązak Paweł; dr hab. inż. Susek Waldemar; dr inż. Rutkowski Adam; dr inż. Jasiński Andrzej; prof. dr hab. inż. Dobrowolski Andrzej; ppłk dr inż. Karczewski Krzysztof; 01 II 08 II 15 II 22 II Ed Eksploracja danych pon. 1-2 Ed w 204 1 Hof Ed w 204 1 Hof Ed w 204 1 Hof Ed w 204 1 Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof w 20 dr inż. Hoffmann Romuald pon. 3-4 WIEA Ep 30a 5 Dob TTe w 204 1 AJa Twcz w 103 6 Sus Twcz w 27 61 Sus Ekw ć 20 46 Kwi Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed P 223 S Hof Ed P 223 S Hof Ed P 223 S Hof Ed P 223 S Hof L 20 dr inż. Hoffmann Romuald pon. 5-6 POT w 20 46 Jab Ekw w 20 46 Żen POT w 20 46 Jab POT w 20 46 Jab POT w 20 46 Jab Ekw w 20 46 Żen POT w 20 46 Jab Ekw w 20 46 Żen POT w 20 46 Jab POT w 20 46 Jab POT w 20 46 Jab POT w 20 46 Jab TTe w 204 1 AJa TTe w 204 1 AJa Ekw ć 20 46 Kwi TTe Ep 4 41 AJa P 20 dr inż. Hoffmann Romuald pon. 7-8 F3 Ep 4 41 Rut Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw Elektronika kwantowa pon. 9-10 TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa TTe w 204 1 AJa w 36 prof. dr hab. inż. Żendzian Waldemar wt. 15 IX 22 IX 29 IX 06 X 13 X 20 X 27 X 03 XI 10 XI 17 XI 24 XI 01 XII 08 XII 15 XII 22 XII 29 XII 05; 02 II 09 II 16 II 23 II ć 16 dr hab. inż. (prof. ucz.) Kwiatkowski Jacek wt. 1-2 Seip w 103 6 PęP Ed P 223 S Hof Ed P 223 S Hof Ed P 223 S Hof TTe L 21 47 AJa TTe L 21 47 AJa TTe L 21 47 AJa L 8 dr hab. inż. (prof. ucz.) Kwiatkowski Jacek wt. 3-4 ZMI Ep 11; 3 Kar TTe w 204 1 AJa TC w 204 1 Jac TTe w 204 1 AJa TC w 204 1 Jac TC w 204 1 Jac Twcz w 27 61 Sus Twcz ć 103 6 Sus TTe w 4 41 AJa TTe w 204 1 AJa Twcz L 31 61 RuA TTe L 21 47 AJa TTe L 21 47 AJa TTe L 21 47 AJa Twcz L 31 61 RuA TC E 4 41 Jac Ekw E 20 46 Żen L 8 dr hab. inż. (prof. ucz.) Życzkowski Marek wt. 5-6 InK zpć 27 70 WJ Twcz w 27 61 Sus TC w 204 1 Jac TC w 204 1 Jac TC L 14 45 Sla Twcz w 103 6 Sus TC L 14 45 Sla TTe w 204 1 AJa TC L 14 45 Sla POT L 7 46 GoP TC L 14 45 Sla TC L 14 45 Sla Twcz L 31 61 RuA POT ć 20 46 Gor TTe L 21 47 AJa L 8 dr inż. Grześ Paweł wt. 7-8 Twcz w 27 61 Sus TTe w 20 46 AJa Seip w 35 61 PęP TC L 14 45 Sla TC w 4 41 Jac TC L 14 45 Sla TC L 14 45 Sla POT L 7 46 GoP TC L 14 45 Sla TC L 14 45 Sla POT ć 20 46 Gor Seip w 35 61 PęP TTe L 21 47 AJa E 2 prof. dr hab. inż. Żendzian Waldemar wt. 9-10 Twcz w 103 6 Sus TTe w 204 1 AJa Seip w 35 61 PęP TTe w 204 1 AJa POT ć 20 46 Gor TTe w 204 1 AJa Ep 2 prof. dr hab. inż. Żendzian Waldemar wt. 11-12 Seip w 35 61 PęP F3 Fizyka 3 śr. 16 IX 23 IX 30 IX 07 X 14 X 21 X 28 X 04 XI 11 XI 18 XI 25 XI 02 XII 09 XII 16 XII 23 XII 30 XII 06; 03 II 10 II 17 II 24 II Ep 2 dr hab .inż. Perkowski Paweł śr. 1-2 Twcz w 27 61 Sus TC w 4 41 Jac TC w 4 41 Jac TC w 4 41 Jac TC w 4 41 Jac Ekw L 5 46; Kwi Ep 2 dr hab. inż. Piecek Wiktor śr. 3-4 TC w 204 1 Jac TC w 4 41 Jac TC w 4 41 Jac POT L 7 46 GoP POT L 7 46 GoP Ekw L 5 46; Kwi TC Ep 4 41 Jac Ep 2 prof.dr hab.inż. Rutkowski Jarosław śr. 5-6 TC w 4 41 Jac Ed P 223 S Hof Ekw ć 21 46 Kwi POT L 7 46 GoP POT L 7 46 GoP Ekw ć 20 46 Kwi POT L 7 46 GoP InK Informatyka kwantowa śr. 7-8 TC w 4 41 Jac Seip w 35 61 PęP Seip w 35 61 PęP Seip w 35 61 PęP Seip P 35 61 PęP Seip w 35 61 PęP POT L 7 46 GoP zpćw 2 dr inż. Wiśniewska Joanna śr. 9-10 Seip P 35 61 PęP Seip w 35 61 PęP Seip w 35 61 PęP Seip w 35 61 PęP Seip P 35 61 PęP Seip P 35 61 PęP MiDPO Modulacja; detekcja promieniowania optycznego śr. 11-12 Seip P 35 61 PęP Seip P 35 61 PęP Ep 2 prof. dr hab. inż. Bielecki Zbigniew czw. 17 IX 24 IX 01 X 08 X 15 X 22 X 29 X 05 XI 12 XI 19 XI 26 XI 03 XII 10 XII 17 XII 24 XII 31 XII 07; 04 II 11 II 18 II 25 II POT Podstawy optyki czw. 1-2 TC w 4 41 Jac POT ć 20 46 Gor POT ć 20 46 Gor Ekw L 14 41 Życ Ekw L 14 41 Życ w 18 prof. dr hab. inż. Jabczyński Jan czw. 3-4 Ing POT ć 20 46 Gor Twcz ć 27 61 Sus Twcz ć 103 6 Sus Ekw L 14 41 Życ Ekw L 14 41 Życ ć 18 dr inż. Gorajek Łukasz czw. 5-6 Ing Ekw ć 20 46 Kwi Ekw ć 20 46 Kwi Ekw ć 20 46 Kwi Ekw ć 20 46 Kwi POT ć 20 46 Gor Twcz L 31 61 RuA L 16 dr inż. Gontar  Przemysław czw. 7-8 Ed P 223 S Hof Ed P 223 S Hof POT ć 20 46 Gor Seip Sensory; 05 II 12 II 19 II 26 II w 24 dr hab. Pęczkowski Paweł pt. 1-2 Seip P 35 61 PęP POT ć 20 46 Gor P 20 dr hab. Pęczkowski Paweł pt. 3-4 MiDPO Ep 27 70 Bie Seip P 35 61 PęP TTe w 4 41 AJa TTe E 4 41 AJa Ekw Ep 20 46 Żen TC Technika cyfrowa pt. 5-6 Seip P 35 61 PęP TC L 14 45 Sla TC L 14 45 Sla w 32 dr inż. Jachna Zbigniew pt. 7-8 Seip P 35 61 PęP TC L 14 45 Sla TC L 14 45 Sla L 28 por. mgr inż. Ślązak Paweł sob. 19 IX 26 IX 03 X 10 X 17 X 24 X 31 X 07 XI 14 XI 21 XI 28 XI 05 XII 12 XII 19 XII 26 XII 02; 06 II 13 II 20 II 27 II E 2 dr inż. Jachna Zbigniew niedz. 20 IX 27 IX 04 X 11 X 18 X 25 X 01 XI 08 XI 15 XI 22 XI 29 XI 06 XII 13 XII 20 XII 27 XII 03; 07 II 14 II 21 II 28 II Ep 2 dr inż. Jachna Zbigniew Twcz Technika wielkich częstotliwości w 16 dr hab. inż. Susek Waldemar ć 6 dr hab. inż. Susek Waldemar L 8 dr inż. Rutkowski Adam TTe Technologie telekomunikacyjne w 44 dr inż. Jasiński Andrzej L 16 dr inż. Jasiński Andrzej E 2 dr inż. Jasiński Andrzej Ep 2 dr inż. Jasiński Andrzej WIEA Współczesna inżynieria elektroniki analogowej Ep 2 prof. dr hab. inż. Dobrowolski Andrzej ZMI Zaawansowane materiały inżynierskie Ep 2 ppłk dr inż. Karczewski Krzysztof Data aktualizacji: 23.09.2026 14:08:51 Dokument został utworzony za pomocą programu Plansoft.org; 07 II 14 II 21 II 28 II Ep 2 dr inż. Jachna Zbigniew Twcz Technika wielkich częstotliwości w 16 dr hab. inż. Susek Waldemar ć 6 dr hab. inż. Susek Waldemar L 8 dr inż. Rutkowski Adam TTe Technologie telekomunikacyjne w 44 dr inż. Jasiński Andrzej L 16 dr inż. Jasiński Andrzej E 2 dr inż. Jasiński Andrzej Ep 2 dr inż. Jasiński Andrzej WIEA Współczesna inżynieria elektroniki analogowej Ep 2 prof. dr hab. inż. Dobrowolski Andrzej ZMI Zaawansowane materiały inżynierskie Ep 2 ppłk dr inż. Karczewski Krzysztof; dr inż. Gontar  Przemysław
+DESCRIPTION:Ing\nRodzaj zajęć: -\nNumer zajęć: 2/2\nProwadzący: dr inż. Hoffmann Romuald; prof. dr hab. inż. Żendzian Waldemar; dr hab. inż. (prof. ucz.) Kwiatkowski Jacek; dr hab. inż. (prof. ucz.) Życzkowski Marek; dr inż. Grześ Paweł; dr hab .inż. Perkowski Paweł; dr hab. inż. Piecek Wiktor; prof.dr hab.inż. Rutkowski Jarosław; dr inż. Wiśniewska Joanna; prof. dr hab. inż. Bielecki Zbigniew; prof. dr hab. inż. Jabczyński Jan; dr inż. Gorajek Łukasz; dr inż. Gontar Przemysław; dr hab. Pęczkowski Paweł; dr inż. Jachna Zbigniew; por. mgr inż. Ślązak Paweł; dr hab. inż. Susek Waldemar; dr inż. Rutkowski Adam; dr inż. Jasiński Andrzej; prof. dr hab. inż. Dobrowolski Andrzej; ppłk dr inż. Karczewski Krzysztof; 01 II 08 II 15 II 22 II Ed Eksploracja danych pon. 1-2 Ed w 204 136 Hof Ed w 204 136 Hof Ed w 204 136 Hof Ed w 204 136 Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed w 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof w 20 dr inż. Hoffmann Romuald pon. 3-4 WIEA Ep 30a 54E Dobr TTe w 204 136 AJas Twcz w 103 61 Sus Twcz w 27 61 Sus Ekw ć 20 46 KwiJ Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed L 223 S Hof Ed P 223 S Hof Ed P 223 S Hof Ed P 223 S Hof Ed P 223 S Hof L 20 dr inż. Hoffmann Romuald pon. 5-6 POT w 20 46 JabJ Ekw w 20 46 Żen POT w 20 46 JabJ POT w 20 46 JabJ POT w 20 46 JabJ Ekw w 20 46 Żen POT w 20 46 JabJ Ekw w 20 46 Żen POT w 20 46 JabJ POT w 20 46 JabJ POT w 20 46 JabJ POT w 20 46 JabJ TTe w 204 136 AJas TTe w 204 136 AJas Ekw ć 20 46 KwiJ TTe Ep 4 41 AJas P 20 dr inż. Hoffmann Romuald pon. 7-8 F3 Ep 4 41 Rut; Pie Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw w 20 46 Żen Ekw Elektronika kwantowa pon. 9-10 TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas TTe w 204 136 AJas w 36 prof. dr hab. inż. Żendzian Waldemar wt. 15 IX 22 IX 29 IX 06 X 13 X 20 X 27 X 03 XI 10 XI 17 XI 24 XI 01 XII 08 XII 15 XII 22 XII 29 XII 05; 02 II 09 II 16 II 23 II ć 16 dr hab. inż. (prof. ucz.) Kwiatkowski Jacek wt. 1-2 Seip w 103 61 PęPa Ed P 223 S Hof Ed P 223 S Hof Ed P 223 S Hof TTe L 21 47 AJas TTe L 21 47 AJas TTe L 21 47 AJas L 8 dr hab. inż. (prof. ucz.) Kwiatkowski Jacek wt. 3-4 ZMI Ep 11; 34 Kar.K TTe w 204 136 AJas TC w 204 136 Jac TTe w 204 136 AJas TC w 204 136 Jac TC w 204 136 Jac Twcz w 27 61 Sus Twcz ć 103 61 Sus TTe w 4 41 AJas TTe w 204 136 AJas Twcz L 31 61A RuA TTe L 21 47 AJas TTe L 21 47 AJas TTe L 21 47 AJas Twcz L 31 61A RuA TC E 4 41 Jac Ekw E 20 46 Żen L 8 dr hab. inż. (prof. ucz.) Życzkowski Marek wt. 5-6 InK zpćw 27 70 WJ Twcz w 27 61 Sus TC w 204 136 Jac TC w 204 136 Jac TC L 14 45 SlazPa Twcz w 103 61 Sus TC L 14 45 SlazPa TTe w 204 136 AJas TC L 14 45 SlazPa POT L 7 46 GoP TC L 14 45 SlazPa TC L 14 45 SlazPa Twcz L 31 61A RuA POT ć 20 46 GorŁ TTe L 21 47 AJas L 8 dr inż. Grześ Paweł wt. 7-8 Twcz w 27 61 Sus TTe w 20 46 AJas Seip w 35 61a PęPa TC L 14 45 SlazPa TC w 4 41 Jac TC L 14 45 SlazPa TC L 14 45 SlazPa POT L 7 46 GoP TC L 14 45 SlazPa TC L 14 45 SlazPa POT ć 20 46 GorŁ Seip w 35 61a PęPa TTe L 21 47 AJas E 2 prof. dr hab. inż. Żendzian Waldemar wt. 9-10 Twcz w 103 61 Sus TTe w 204 136 AJas Seip w 35 61a PęPa TTe w 204 136 AJas POT ć 20 46 GorŁ TTe w 204 136 AJas Ep 2 prof. dr hab. inż. Żendzian Waldemar wt. 11-12 Seip w 35 61a PęPa F3 Fizyka 3 śr. 16 IX 23 IX 30 IX 07 X 14 X 21 X 28 X 04 XI 11 XI 18 XI 25 XI 02 XII 09 XII 16 XII 23 XII 30 XII 06; 03 II 10 II 17 II 24 II Ep 2 dr hab .inż. Perkowski Paweł śr. 1-2 Twcz w 27 61 Sus TC w 4 41 Jac TC w 4 41 Jac TC w 4 41 Jac TC w 4 41 Jac Ekw L 5 46; GP Ep 2 dr hab. inż. Piecek Wiktor śr. 3-4 TC w 204 136 Jac TC w 4 41 Jac TC w 4 41 Jac POT L 7 46 GoP POT L 7 46 GoP Ekw L 5 46; GP TC Ep 4 41 Jac Ep 2 prof.dr hab.inż. Rutkowski Jarosław śr. 5-6 TC w 4 41 Jac Ed P 223 S Hof Ekw ć 21 46 KwiJ POT L 7 46 GoP POT L 7 46 GoP Ekw ć 20 46 KwiJ POT L 7 46 GoP InK Informatyka kwantowa śr. 7-8 TC w 4 41 Jac Seip w 35 61a PęPa Seip w 35 61a PęPa Seip w 35 61a PęPa Seip P 35 61a PęPa Seip w 35 61a PęPa POT L 7 46 GoP zpćw 2 dr inż. Wiśniewska Joanna śr. 9-10 Seip P 35 61a PęPa Seip w 35 61a PęPa Seip w 35 61a PęPa Seip w 35 61a PęPa Seip P 35 61a PęPa Seip P 35 61a PęPa MiDPO Modulacja; detekcja promieniowania optycznego śr. 11-12 Seip P 35 61a PęPa Seip P 35 61a PęPa Ep 2 prof. dr hab. inż. Bielecki Zbigniew czw. 17 IX 24 IX 01 X 08 X 15 X 22 X 29 X 05 XI 12 XI 19 XI 26 XI 03 XII 10 XII 17 XII 24 XII 31 XII 07; 04 II 11 II 18 II 25 II POT Podstawy optyki czw. 1-2 TC w 4 41 Jac POT ć 20 46 GorŁ POT ć 20 46 GorŁ Ekw L 14 41 Życz Ekw L 14 41 Życz w 18 prof. dr hab. inż. Jabczyński Jan czw. 3-4 Ing POT ć 20 46 GorŁ Twcz ć 27 61 Sus Twcz ć 103 61 Sus Ekw L 14 41 Życz Ekw L 14 41 Życz ć 18 dr inż. Gorajek Łukasz czw. 5-6 Ing Ekw ć 20 46 KwiJ Ekw ć 20 46 KwiJ Ekw ć 20 46 KwiJ Ekw ć 20 46 KwiJ POT ć 20 46 GorŁ Twcz L 31 61A RuA L 16 dr inż. Gontar  Przemysław czw. 7-8 Ed P 223 S Hof Ed P 223 S Hof POT ć 20 46 GorŁ Seip Sensory; 05 II 12 II 19 II 26 II w 24 dr hab. Pęczkowski Paweł pt. 1-2 Seip P 35 61a PęPa POT ć 20 46 GorŁ P 20 dr hab. Pęczkowski Paweł pt. 3-4 MiDPO Ep 27 70 BieZ Seip P 35 61a PęPa TTe w 4 41 AJas TTe E 4 41 AJas Ekw Ep 20 46 Żen TC Technika cyfrowa pt. 5-6 Seip P 35 61a PęPa TC L 14 45 SlazPa TC L 14 45 SlazPa w 32 dr inż. Jachna Zbigniew pt. 7-8 Seip P 35 61a PęPa TC L 14 45 SlazPa TC L 14 45 SlazPa L 28 por. mgr inż. Ślązak Paweł sob. 19 IX 26 IX 03 X 10 X 17 X 24 X 31 X 07 XI 14 XI 21 XI 28 XI 05 XII 12 XII 19 XII 26 XII 02; 06 II 13 II 20 II 27 II E 2 dr inż. Jachna Zbigniew niedz. 20 IX 27 IX 04 X 11 X 18 X 25 X 01 XI 08 XI 15 XI 22 XI 29 XI 06 XII 13 XII 20 XII 27 XII 03; 07 II 14 II 21 II 28 II Ep 2 dr inż. Jachna Zbigniew Twcz Technika wielkich częstotliwości w 16 dr hab. inż. Susek Waldemar ć 6 dr hab. inż. Susek Waldemar L 8 dr inż. Rutkowski Adam TTe Technologie telekomunikacyjne w 44 dr inż. Jasiński Andrzej L 16 dr inż. Jasiński Andrzej E 2 dr inż. Jasiński Andrzej Ep 2 dr inż. Jasiński Andrzej WIEA Współczesna inżynieria elektroniki analogowej Ep 2 prof. dr hab. inż. Dobrowolski Andrzej ZMI Zaawansowane materiały inżynierskie Ep 2 ppłk dr inż. Karczewski Krzysztof Data aktualizacji: 24.09.2026 08:39:13 Dokument został utworzony za pomocą programu Plansoft.org; 07 II 14 II 21 II 28 II Ep 2 dr inż. Jachna Zbigniew Twcz Technika wielkich częstotliwości w 16 dr hab. inż. Susek Waldemar ć 6 dr hab. inż. Susek Waldemar L 8 dr inż. Rutkowski Adam TTe Technologie telekomunikacyjne w 44 dr inż. Jasiński Andrzej L 16 dr inż. Jasiński Andrzej E 2 dr inż. Jasiński Andrzej Ep 2 dr inż. Jasiński Andrzej WIEA Współczesna inżynieria elektroniki analogowej Ep 2 prof. dr hab. inż. Dobrowolski Andrzej ZMI Zaawansowane materiały inżynierskie Ep 2 ppłk dr inż. Karczewski Krzysztof; dr inż. Gontar  Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
@@ -1288,7 +1288,7 @@ BEGIN:VEVENT
 DTSTART:20260121T104000Z
 DTEND:20260121T121500Z
 SUMMARY:Twcz (L)
-LOCATION:31 61
+LOCATION:31 61A
 DESCRIPTION:Technika wielkich częstotliwości\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Hoffmann Romuald
 END:VEVENT
 BEGIN:VEVENT
@@ -1316,7 +1316,7 @@ BEGIN:VEVENT
 DTSTART:20261204T070000Z
 DTEND:20261204T083500Z
 SUMMARY:Seip (P)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Projekt\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
@@ -1337,7 +1337,7 @@ BEGIN:VEVENT
 DTSTART:20261204T085000Z
 DTEND:20261204T102500Z
 SUMMARY:Seip (P)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Projekt\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
@@ -1365,7 +1365,7 @@ BEGIN:VEVENT
 DTSTART:20260108T104000Z
 DTEND:20260108T121500Z
 SUMMARY:Seip (P)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Projekt\nNumer zajęć: 9/10\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
@@ -1386,7 +1386,7 @@ BEGIN:VEVENT
 DTSTART:20260108T123000Z
 DTEND:20260108T140500Z
 SUMMARY:Seip (P)
-LOCATION:35 61
+LOCATION:35 61a
 DESCRIPTION:Sensory i przetworniki\nRodzaj zajęć: Projekt\nNumer zajęć: 10/10\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT

@@ -1336,9 +1336,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
-SUMMARY:OPW (ć)
+SUMMARY:OPW (w)
 LOCATION:
-DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: ppłk mgr Misiejuk Tomasz
+DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
@@ -1367,6 +1367,13 @@ DTEND:20261125T102500Z
 SUMMARY:SzS (ć)
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T085000Z
+DTEND:20261202T102500Z
+SUMMARY:OPW (ć)
+LOCATION:
+DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T085000Z
@@ -1429,7 +1436,7 @@ DTSTART:20261007T094000Z
 DTEND:20261007T111500Z
 SUMMARY:OPW (w)
 LOCATION:3/043
-DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Misiejuk Tomasz
+DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T094000Z
@@ -1703,13 +1710,6 @@ DTEND:20261125T163500Z
 SUMMARY:REG (ć)
 LOCATION:
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: mjr mgr Nawalicki Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T150000Z
-DTEND:20261202T163500Z
-SUMMARY:OPW (w)
-LOCATION:
-DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T150000Z

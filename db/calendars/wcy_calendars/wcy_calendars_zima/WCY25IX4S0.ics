@@ -3819,6 +3819,13 @@ LOCATION:203 65
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270111T104000Z
+DTEND:20270111T121500Z
+SUMMARY:Pwd (ć)
+LOCATION:3.3 75
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270112T085000Z
 DTEND:20270112T102500Z
 SUMMARY:Ja (ć)
@@ -3830,14 +3837,14 @@ DTSTART:20270112T104000Z
 DTEND:20270112T121500Z
 SUMMARY:Pwd (ć)
 LOCATION:103 61
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270113T123000Z
-DTEND:20270113T140500Z
+DTSTART:20270113T085000Z
+DTEND:20270113T102500Z
 SUMMARY:Pwd (ć)
-LOCATION:307 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
+LOCATION:203 65
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T070000Z
@@ -3887,13 +3894,6 @@ DTEND:20270116T083500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270118T104000Z
-DTEND:20270118T121500Z
-SUMMARY:Pwd (ć)
-LOCATION:307 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T070000Z

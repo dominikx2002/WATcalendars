@@ -2265,13 +2265,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 31/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261002T094000Z
-DTEND:20261002T111500Z
-SUMMARY:Sib (w)
-LOCATION:201 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: Zbigniew Świerczynski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T174000Z
 DTEND:20261002T191500Z
 SUMMARY:- (S.Sz.W.)
@@ -2312,13 +2305,6 @@ DTEND:20261005T172500Z
 SUMMARY:MAST (w)
 LOCATION:316 S
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261006T075000Z
-DTEND:20261006T092500Z
-SUMMARY:Sib (w)
-LOCATION:201 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T094000Z
@@ -2454,6 +2440,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 34/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261013T060000Z
+DTEND:20261013T073500Z
+SUMMARY:Sib (w)
+LOCATION:203 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261013T075000Z
 DTEND:20261013T092500Z
 SUMMARY:bai (w)
@@ -2496,18 +2489,18 @@ LOCATION:314 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261016T060000Z
+DTEND:20261016T073500Z
+SUMMARY:Sib (w)
+LOCATION:204 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261016T075000Z
 DTEND:20261016T092500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 35/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261016T094000Z
-DTEND:20261016T111500Z
-SUMMARY:Sib (w)
-LOCATION:201 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T113000Z
@@ -2587,11 +2580,11 @@ LOCATION:203 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
+DTSTART:20261020T140000Z
+DTEND:20261020T153500Z
 SUMMARY:Sib (w)
-LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: Zbigniew Świerczynski
+LOCATION:203 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T060000Z
@@ -2641,6 +2634,13 @@ DTEND:20261022T130500Z
 SUMMARY:AśW (L)
 LOCATION:011 65
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T060000Z
+DTEND:20261023T073500Z
+SUMMARY:Sib (w)
+LOCATION:204 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T075000Z
@@ -2720,11 +2720,18 @@ LOCATION:237 S
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261027T070000Z
+DTEND:20261027T083500Z
+SUMMARY:Sib (w)
+LOCATION:205 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:Sib (w)
-LOCATION:201 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: Zbigniew Świerczynski
+LOCATION:205 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T104000Z
@@ -2867,11 +2874,11 @@ LOCATION:203 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261103T123000Z
-DTEND:20261103T140500Z
+DTSTART:20261103T150000Z
+DTEND:20261103T163500Z
 SUMMARY:Sib (w)
-LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: Zbigniew Świerczynski
+LOCATION:203 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
@@ -4027,13 +4034,6 @@ DTEND:20270111T182500Z
 SUMMARY:Wf_E (E)
 LOCATION:-
 DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270112T070000Z
-DTEND:20270112T083500Z
-SUMMARY:Sib (w)
-LOCATION:203 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T070000Z

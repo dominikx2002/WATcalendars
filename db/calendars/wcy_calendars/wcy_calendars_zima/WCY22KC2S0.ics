@@ -2174,13 +2174,6 @@ LOCATION:16 57
 DESCRIPTION:Topografia wojskowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T140000Z
-DTEND:20261008T153500Z
-SUMMARY:PsbI (L)
-LOCATION:011 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: Łukasz Giro
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261008T174000Z
 DTEND:20261008T191500Z
 SUMMARY:- (S.Sz.W.)
@@ -2419,13 +2412,6 @@ LOCATION:203 65
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T140000Z
-DTEND:20261020T153500Z
-SUMMARY:PsbI (L)
-LOCATION:011 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Łukasz Giro
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261021T060000Z
 DTEND:20261021T073500Z
 SUMMARY:Ja (ć)
@@ -2601,6 +2587,13 @@ LOCATION:121 65
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Projekt\nNumer zajęć: 2/6\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261028T165000Z
+DTEND:20261028T182500Z
+SUMMARY:PsbI (P)
+LOCATION:121 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 2/7\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T085000Z
 DTEND:20261029T102500Z
 SUMMARY:WF (ć)
@@ -2620,13 +2613,6 @@ DTEND:20261029T140500Z
 SUMMARY:TW (ć)
 LOCATION:16 57
 DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T150000Z
-DTEND:20261029T163500Z
-SUMMARY:PsbI (P)
-LOCATION:121 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 2/7\nProwadzący: Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T184000Z
@@ -2794,7 +2780,14 @@ DTSTART:20261105T150000Z
 DTEND:20261105T163500Z
 SUMMARY:PsbI (L)
 LOCATION:121 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Łukasz Giro
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T165000Z
+DTEND:20261105T182500Z
+SUMMARY:PsbI (L)
+LOCATION:121 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T184000Z
@@ -3088,6 +3081,13 @@ DTSTART:20261120T150000Z
 DTEND:20261120T163500Z
 SUMMARY:PsbI (L)
 LOCATION:120 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T165000Z
+DTEND:20261120T182500Z
+SUMMARY:PsbI (L)
+LOCATION:120 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
@@ -3299,13 +3299,6 @@ DTEND:20261203T121500Z
 SUMMARY:wzbnim (ć)
 LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T165000Z
-DTEND:20261203T182500Z
-SUMMARY:PsbI (L)
-LOCATION:125 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T184000Z
@@ -3530,13 +3523,6 @@ DTEND:20261215T163500Z
 SUMMARY:PCB (P)
 LOCATION:121 65
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 16/22\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T165000Z
-DTEND:20261215T182500Z
-SUMMARY:PsbI (L)
-LOCATION:09 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -3858,7 +3844,14 @@ DTSTART:20270115T150000Z
 DTEND:20270115T163500Z
 SUMMARY:PsbI (L)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: Łukasz Giro
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T165000Z
+DTEND:20270115T182500Z
+SUMMARY:PsbI (L)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270116T085000Z
@@ -4094,6 +4087,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T150000Z
 DTEND:20270129T163500Z
+SUMMARY:PsbI (L)
+LOCATION:011 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T165000Z
+DTEND:20270129T182500Z
 SUMMARY:PsbI (L)
 LOCATION:011 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: Łukasz Giro

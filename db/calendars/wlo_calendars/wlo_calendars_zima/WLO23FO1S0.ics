@@ -403,6 +403,13 @@ LOCATION:0.23/16
 DESCRIPTION:Gospodarka mieniem 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Kalwasiński Marek 18
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261221T150000Z
+DTEND:20261221T163500Z
+SUMMARY:DZSŚB (ć)
+LOCATION:0.19/135
+DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Gułaj Mariusz 10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261116T165000Z
 DTEND:20261116T182500Z
 SUMMARY:KL. (w)
@@ -1253,8 +1260,8 @@ BEGIN:VEVENT
 DTSTART:20261001T075000Z
 DTEND:20261001T092500Z
 SUMMARY:DZSŚB (w)
-LOCATION:
-DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym 9\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Gułaj Mariusz 10; dr Gułaj Mariusz
+LOCATION:1.9/16; 1.10/16
+DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym 9\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Gułaj Mariusz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T075000Z
@@ -1268,7 +1275,7 @@ DTSTART:20261022T075000Z
 DTEND:20261022T092500Z
 SUMMARY:DZSŚB (ć)
 LOCATION:0.28/135
-DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Gułaj Mariusz 10
+DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Gułaj Mariusz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T085000Z
@@ -1332,13 +1339,6 @@ DTEND:20260128T102500Z
 SUMMARY:DWiPD (ć)
 LOCATION:3.16/135
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna 15\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Jasiński Grzegorz 16
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T111500Z
-SUMMARY:DZSŚB (ć)
-LOCATION:1.16/16
-DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Gułaj Mariusz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T094000Z

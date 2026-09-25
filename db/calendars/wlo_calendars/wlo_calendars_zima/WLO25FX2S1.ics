@@ -949,11 +949,18 @@ LOCATION:141 S; 137 S
 DESCRIPTION:Fizyka 2 10\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Larkowski Waldemar 14; dr inż. Garbat Katarzyna 13; mgr inż. Jakubowska Iwona 15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260113T104000Z
+DTEND:20260113T121500Z
+SUMMARY:BiESTS (ć)
+LOCATION:1.10/16
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr inż. Radzimierski Mariusz 2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260127T104000Z
 DTEND:20260127T121500Z
 SUMMARY:BiESTS (ć)
 LOCATION:42/20
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr inż. Radzimierski Mariusz 2
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: mgr inż. Radzimierski Mariusz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T113000Z
@@ -1087,13 +1094,6 @@ DTEND:20261223T163500Z
 SUMMARY:LP (ć)
 LOCATION:0.7/16
 DESCRIPTION:Logistyka produkcji 36\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260113T150000Z
-DTEND:20260113T163500Z
-SUMMARY:BiESTS (ć)
-LOCATION:42/20
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: mgr inż. Radzimierski Mariusz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T150000Z
