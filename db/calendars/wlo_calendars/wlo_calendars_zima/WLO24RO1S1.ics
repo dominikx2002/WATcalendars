@@ -466,6 +466,13 @@ LOCATION:5.17/135
 DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury II 8\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Szwarc Krzysztof 9
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261007T094000Z
+DTEND:20261007T111500Z
+SUMMARY:An.Inf.w 
+LOCATION:24RO; 2S; 24RO; 1S; 1 MiM; 1002 HIL
+DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 3/15
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261014T094000Z
 DTEND:20261014T111500Z
 SUMMARY:wzbnim (w)
@@ -529,13 +536,6 @@ LOCATION:0.19/135
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T140000Z
-DTEND:20261014T153500Z
-SUMMARY:An.Inf.w 
-LOCATION:5.17/135
-DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: dr inż. Magierski Mieczysław 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261209T150000Z
 DTEND:20261209T163500Z
 SUMMARY:An.Inf.w 
@@ -557,18 +557,11 @@ LOCATION:0.19/135
 DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury II 8\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Szwarc Krzysztof 9
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T155000Z
-DTEND:20261014T172500Z
-SUMMARY:An.Inf.w 
-LOCATION:5.17/135
-DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr inż. Magierski Mieczysław 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260113T165000Z
 DTEND:20260113T182500Z
 SUMMARY:An.Inf.w 
 LOCATION:187 S
-DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr inż. Magierski Mieczysław 2
+DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr inż. Magierski Mieczysław 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T060000Z
@@ -667,6 +660,13 @@ DTEND:20261001T111500Z
 SUMMARY:Wsp.bezp.w 
 LOCATION:5.17/135
 DESCRIPTION:Wsp.bezp.w\nRodzaj zajęć: -\nNumer zajęć: 5/22\nProwadzący: dr inż. Magierski Mieczysław 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T104000Z
+DTEND:20261105T121500Z
+SUMMARY:An.Inf.w 
+LOCATION:301/S
+DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr inż. Magierski Mieczysław 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z

@@ -144,6 +144,13 @@ LOCATION:1003 HIL
 DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji 21\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261102T123000Z
+DTEND:20261102T140500Z
+SUMMARY:P 
+LOCATION:25PO; 1S; 2 MiM; 1002 HIL
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 1/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1003 HILTON
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261116T123000Z
 DTEND:20261116T140500Z
 SUMMARY:Gd (w)
@@ -351,77 +358,63 @@ DTSTART:20260118T165000Z
 DTEND:20260118T182500Z
 SUMMARY:P 
 LOCATION:25PO; 1S; 2 MiM; 1003 HIL
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 1/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1003 HILTON
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 2/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1003 HILTON
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T174000Z
 DTEND:20261005T191500Z
 SUMMARY:P 
 LOCATION:2.22/135
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 2/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T174000Z
-DTEND:20261012T191500Z
-SUMMARY:P 
-LOCATION:2.22/135
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 3/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T174000Z
-DTEND:20261019T191500Z
-SUMMARY:P 
-LOCATION:2.22/135
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 4/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T184000Z
 DTEND:20261102T201500Z
 SUMMARY:P 
 LOCATION:2.22/135
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 5/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 4/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T184000Z
 DTEND:20261109T201500Z
 SUMMARY:P 
 LOCATION:2.22/135
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 6/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 5/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T184000Z
 DTEND:20261116T201500Z
 SUMMARY:P 
 LOCATION:2.22/135
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 7/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 6/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T184000Z
 DTEND:20261207T201500Z
 SUMMARY:P 
 LOCATION:2.22/135
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 8/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 7/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T184000Z
 DTEND:20261214T201500Z
 SUMMARY:P 
 LOCATION:2.22/135
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 9/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 8/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T184000Z
 DTEND:20260111T201500Z
 SUMMARY:P 
 LOCATION:2.22/135
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 10/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 9/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; mgr Moszczyński Maciej 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T184000Z
 DTEND:20260118T201500Z
 SUMMARY:P 
 LOCATION:25PO; 1S; 2 MiM; 1003 HIL
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 11/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1003 HILTON
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 10/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1003 HILTON
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T060000Z
@@ -877,6 +870,13 @@ DTEND:20261021T130500Z
 SUMMARY:WiK (w)
 LOCATION:0.6/16
 DESCRIPTION:Wywiad i kontrwywiad 43\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: prof. dr hab. Misiuk Andrzej 44; prof. dr hab. Misiuk Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
+SUMMARY:P 
+LOCATION:25PO; 1S; 2 MiM; 1002 HIL
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 11/21\nProwadzący: Prof. dr hab. Cieślarczyk Marian 5; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1003 HILTON
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T123000Z

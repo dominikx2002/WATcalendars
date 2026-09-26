@@ -74,6 +74,13 @@ LOCATION:204 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261006T140000Z
+DTEND:20261006T153500Z
+SUMMARY:Sib (w)
+LOCATION:203 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261007T113000Z
 DTEND:20261007T130500Z
 SUMMARY:PZS (w)
@@ -120,7 +127,7 @@ DTSTART:20261013T060000Z
 DTEND:20261013T073500Z
 SUMMARY:Sib (w)
 LOCATION:203 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T075000Z
@@ -183,7 +190,7 @@ DTSTART:20261016T060000Z
 DTEND:20261016T073500Z
 SUMMARY:Sib (w)
 LOCATION:204 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T075000Z
@@ -247,13 +254,6 @@ DTEND:20261020T130500Z
 SUMMARY:PZS (w)
 LOCATION:201 65
 DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T140000Z
-DTEND:20261020T153500Z
-SUMMARY:Sib (w)
-LOCATION:203 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T075000Z

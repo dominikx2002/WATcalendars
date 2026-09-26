@@ -609,7 +609,7 @@ BEGIN:VEVENT
 DTSTART:20261108T104000Z
 DTEND:20261108T121500Z
 SUMMARY:Gep (ć)
-LOCATION:0.6/16
+LOCATION:1.17/16
 DESCRIPTION:Geopolityka 11\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz 12
 END:VEVENT
 BEGIN:VEVENT
@@ -672,14 +672,14 @@ BEGIN:VEVENT
 DTSTART:20261108T123000Z
 DTEND:20261108T140500Z
 SUMMARY:Rib (ć)
-LOCATION:0.6/16
+LOCATION:1/22
 DESCRIPTION:Regionalizacja i instytucjonalizacja bezpieczeństwa 22\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: prof. dr hab. Kaczmarek Waldemar 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T123000Z
 DTEND:20261115T140500Z
 SUMMARY:BSiS (ć)
-LOCATION:1002 HIL
+LOCATION:0.24/135
 DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. Skrabacz Aleksandra 2
 END:VEVENT
 BEGIN:VEVENT
@@ -707,7 +707,7 @@ BEGIN:VEVENT
 DTSTART:20261108T150000Z
 DTEND:20261108T163500Z
 SUMMARY:Rib (ć)
-LOCATION:0.6/16
+LOCATION:1/22
 DESCRIPTION:Regionalizacja i instytucjonalizacja bezpieczeństwa 22\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: prof. dr hab. Kaczmarek Waldemar 23
 END:VEVENT
 END:VCALENDAR

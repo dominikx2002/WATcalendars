@@ -18,11 +18,18 @@ LOCATION:0.24/135
 DESCRIPTION:Matematyka 1 7\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Gdula Agnieszka 8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261107T070000Z
+DTEND:20261107T083500Z
+SUMMARY:PGI (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Podstawy grafiki inżynierskiej 20\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Spadło Kacper 22
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261114T070000Z
 DTEND:20261114T083500Z
 SUMMARY:PGI (ć)
 LOCATION:5.17/135
-DESCRIPTION:Podstawy grafiki inżynierskiej 20\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Spadło Kacper 22
+DESCRIPTION:Podstawy grafiki inżynierskiej 20\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Spadło Kacper 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T070000Z
@@ -99,7 +106,7 @@ DTSTART:20261212T085000Z
 DTEND:20261212T102500Z
 SUMMARY:PGI (ć)
 LOCATION:30/54; 29/54
-DESCRIPTION:Podstawy grafiki inżynierskiej 20\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Kończalski Karol 23; dr inż. Spadło Kacper 22
+DESCRIPTION:Podstawy grafiki inżynierskiej 20\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Kończalski Karol 23; dr inż. Spadło Kacper 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T085000Z
@@ -232,7 +239,7 @@ DTSTART:20261107T123000Z
 DTEND:20261107T140500Z
 SUMMARY:PGI (ć)
 LOCATION:0.7/16
-DESCRIPTION:Podstawy grafiki inżynierskiej 20\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Spadło Kacper 22
+DESCRIPTION:Podstawy grafiki inżynierskiej 20\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Spadło Kacper 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T123000Z
@@ -253,7 +260,7 @@ DTSTART:20261205T123000Z
 DTEND:20261205T140500Z
 SUMMARY:PGI (ć)
 LOCATION:255 S
-DESCRIPTION:Podstawy grafiki inżynierskiej 20\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Spadło Kacper 22
+DESCRIPTION:Podstawy grafiki inżynierskiej 20\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Spadło Kacper 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T123000Z
@@ -394,13 +401,6 @@ DTEND:20261114T182500Z
 SUMMARY:Owi (w)
 LOCATION:aula/135
 DESCRIPTION:Ochrona własności intelektualnych 17\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Rybiński Janusz 18
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261121T165000Z
-DTEND:20261121T182500Z
-SUMMARY:PGI (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Podstawy grafiki inżynierskiej 20\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Spadło Kacper 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T165000Z

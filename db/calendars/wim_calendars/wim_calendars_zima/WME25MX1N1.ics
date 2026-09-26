@@ -1246,7 +1246,7 @@ BEGIN:VEVENT
 DTSTART:20261220T070000Z
 DTEND:20261220T083500Z
 SUMMARY:SCAE (L)
-LOCATION:6/ 62
+LOCATION:6/ 62; 7/ 62
 DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
@@ -1280,9 +1280,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T070000Z
 DTEND:20260124T083500Z
-SUMMARY:Sinż (ć)
-LOCATION:15/ 23A
-DESCRIPTION:Statystyka inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Sobczyk Zbigniew
+SUMMARY:SCAE (L)
+LOCATION:6/ 62; 7/ 62
+DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T070000Z
@@ -1400,8 +1400,8 @@ BEGIN:VEVENT
 DTSTART:20261220T085000Z
 DTEND:20261220T102500Z
 SUMMARY:SCAE (L)
-LOCATION:6/ 62
-DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
+LOCATION:6/ 62; 7/ 62
+DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261227T085000Z
@@ -1422,7 +1422,7 @@ DTSTART:20260110T085000Z
 DTEND:20260110T102500Z
 SUMMARY:Sinż (ć)
 LOCATION:3/ 23A; 7/ 23A
-DESCRIPTION:Statystyka inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
+DESCRIPTION:Statystyka inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T085000Z
@@ -1435,8 +1435,8 @@ BEGIN:VEVENT
 DTSTART:20260124T085000Z
 DTEND:20260124T102500Z
 SUMMARY:SCAE (L)
-LOCATION:6/ 62
-DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
+LOCATION:6/ 62; 7/ 62
+DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T085000Z
@@ -1583,14 +1583,14 @@ DTSTART:20260117T104000Z
 DTEND:20260117T121500Z
 SUMMARY:Sinż (ć)
 LOCATION:3/ 23A; 7/ 23A
-DESCRIPTION:Statystyka inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Statystyka inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T104000Z
 DTEND:20260124T121500Z
-SUMMARY:SCAE (L)
-LOCATION:6/ 62
-DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
+SUMMARY:Sinż (ć)
+LOCATION:15/ 23A
+DESCRIPTION:Statystyka inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T104000Z

@@ -1271,20 +1271,6 @@ LOCATION:0.24/135
 DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Wykład\nNumer zajęć: 15/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 25
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T155000Z
-DTEND:20261022T172500Z
-SUMMARY:Pz (w)
-LOCATION:aula/135
-DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Wykład\nNumer zajęć: 16/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 25
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T165000Z
-DTEND:20261029T182500Z
-SUMMARY:Pz (w)
-LOCATION:aula/135
-DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Wykład\nNumer zajęć: 17/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 25
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261112T165000Z
 DTEND:20261112T182500Z
 SUMMARY:Pi (L)
@@ -1296,7 +1282,7 @@ DTSTART:20260121T165000Z
 DTEND:20260121T182500Z
 SUMMARY:Pz (w)
 LOCATION:aula/135
-DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Wykład\nNumer zajęć: 18/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 25
+DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Wykład\nNumer zajęć: 16/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T070000Z
@@ -1339,6 +1325,13 @@ DTEND:20260129T102500Z
 SUMMARY:Pz (ć)
 LOCATION:4.23/135
 DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr Woźniak Jacek 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T094000Z
+DTEND:20261002T111500Z
+SUMMARY:Pz (w)
+LOCATION:0.24/135
+DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Wykład\nNumer zajęć: 17/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T094000Z
@@ -1492,7 +1485,7 @@ DTSTART:20260219T123000Z
 DTEND:20260219T140500Z
 SUMMARY:Pz (w)
 LOCATION:aula/135
-DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Wykład\nNumer zajęć: 19/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 25
+DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Wykład\nNumer zajęć: 18/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T140000Z
@@ -1514,5 +1507,12 @@ DTEND:20260115T163500Z
 SUMMARY:Pz (ć)
 LOCATION:0.21/16
 DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: dr Woźniak Jacek 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T155000Z
+DTEND:20261002T172500Z
+SUMMARY:Pz (w)
+LOCATION:0.24/135
+DESCRIPTION:Podstawy zarządzania 24\nRodzaj zajęć: Wykład\nNumer zajęć: 19/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 25
 END:VEVENT
 END:VCALENDAR

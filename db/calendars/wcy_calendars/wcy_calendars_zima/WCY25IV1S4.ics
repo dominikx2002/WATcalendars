@@ -144,6 +144,13 @@ LOCATION:223 S
 DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261021T075000Z
+DTEND:20261021T092500Z
+SUMMARY:Sbay (w)
+LOCATION:228 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261021T094000Z
 DTEND:20261021T111500Z
 SUMMARY:No (w)
@@ -184,6 +191,13 @@ DTEND:20261022T111500Z
 SUMMARY:Gum (w)
 LOCATION:236 S
 DESCRIPTION:Głębokie uczenie maszynowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T070000Z
+DTEND:20261028T083500Z
+SUMMARY:Sbay (w)
+LOCATION:308 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
@@ -298,6 +312,13 @@ LOCATION:223 S
 DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261109T123000Z
+DTEND:20261109T140500Z
+SUMMARY:Sbay (w)
+LOCATION:233 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261110T070000Z
 DTEND:20261110T083500Z
 SUMMARY:Tdst (L)
@@ -310,13 +331,6 @@ DTEND:20261110T102500Z
 SUMMARY:Tdst (L)
 LOCATION:224 S
 DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: mgr inż. Przemysław Czuba
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T104000Z
-DTEND:20261110T121500Z
-SUMMARY:Sbay (w)
-LOCATION:308 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -375,11 +389,11 @@ LOCATION:226 S
 DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T104000Z
-DTEND:20261117T121500Z
+DTSTART:20261118T070000Z
+DTEND:20261118T083500Z
 SUMMARY:Sbay (w)
-LOCATION:307 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+LOCATION:233 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T085000Z
@@ -466,18 +480,18 @@ LOCATION:224 S
 DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T104000Z
-DTEND:20261124T121500Z
-SUMMARY:Sbay (w)
-LOCATION:308 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:Mispb (w)
 LOCATION:308 S
 DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T085000Z
+DTEND:20261125T102500Z
+SUMMARY:Sbay (w)
+LOCATION:308 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T104000Z
@@ -566,16 +580,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T104000Z
 DTEND:20261201T121500Z
-SUMMARY:Sbay (w)
+SUMMARY:Mispb (w)
 LOCATION:308 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
 SUMMARY:Mispb (w)
 LOCATION:308 S
-DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T070000Z
@@ -596,7 +610,7 @@ DTSTART:20261202T104000Z
 DTEND:20261202T121500Z
 SUMMARY:Mispb (w)
 LOCATION:308 S
-DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T123000Z
@@ -676,20 +690,6 @@ LOCATION:224 S
 DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T104000Z
-DTEND:20261208T121500Z
-SUMMARY:Sbay (w)
-LOCATION:308 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T123000Z
-DTEND:20261208T140500Z
-SUMMARY:Mispb (w)
-LOCATION:308 S
-DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:ZU (L)
@@ -767,20 +767,6 @@ LOCATION:224 S
 DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T104000Z
-DTEND:20261215T121500Z
-SUMMARY:Sbay (w)
-LOCATION:308 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T123000Z
-DTEND:20261215T140500Z
-SUMMARY:Mispb (w)
-LOCATION:308 S
-DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:ZU (L)
@@ -799,7 +785,7 @@ DTSTART:20261216T104000Z
 DTEND:20261216T121500Z
 SUMMARY:Mispb (w)
 LOCATION:308 S
-DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T123000Z
@@ -858,6 +844,13 @@ LOCATION:228 S
 DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261221T070000Z
+DTEND:20261221T083500Z
+SUMMARY:Mispb (w)
+LOCATION:314 S
+DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261221T085000Z
 DTEND:20261221T102500Z
 SUMMARY:Sbay (L)
@@ -905,6 +898,13 @@ DTEND:20261222T140500Z
 SUMMARY:ZU (L)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T070000Z
+DTEND:20261223T083500Z
+SUMMARY:Sbay (w)
+LOCATION:314 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T085000Z

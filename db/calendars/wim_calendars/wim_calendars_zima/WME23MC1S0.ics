@@ -1488,6 +1488,13 @@ LOCATION:7/ 16
 DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260127T085000Z
+DTEND:20260127T102500Z
+SUMMARY:Pdm (L)
+LOCATION:14/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260210T085000Z
 DTEND:20260210T102500Z
 SUMMARY:Pms 
@@ -1721,9 +1728,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T123000Z
 DTEND:20260113T140500Z
-SUMMARY:Pdm (L)
-LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5
+SUMMARY:Mr 
+LOCATION:
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 18/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T123000Z
@@ -1737,7 +1744,7 @@ DTSTART:20260203T123000Z
 DTEND:20260203T140500Z
 SUMMARY:Mr 
 LOCATION:2/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 18/35\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 19/35\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T123000Z
@@ -1815,6 +1822,13 @@ DTEND:20260106T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 62/154
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T150000Z
+DTEND:20260113T163500Z
+SUMMARY:Mr 
+LOCATION:
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 20/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T150000Z
@@ -1982,7 +1996,7 @@ DTSTART:20261112T070000Z
 DTEND:20261112T083500Z
 SUMMARY:Mr 
 LOCATION:5/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 19/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 21/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -2290,7 +2304,7 @@ DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:Mr 
 LOCATION:301/ S
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 20/35\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 22/35\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T104000Z
@@ -2353,7 +2367,7 @@ DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
 SUMMARY:Mr 
 LOCATION:6/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 21/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 23/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z
@@ -2388,14 +2402,14 @@ DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
 SUMMARY:Mr 
 LOCATION:5/ 20
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 22/35\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 24/35\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T123000Z
 DTEND:20261217T140500Z
 SUMMARY:Mr 
 LOCATION:2/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 23/35\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 25/35\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T123000Z
@@ -2416,7 +2430,7 @@ DTSTART:20260107T123000Z
 DTEND:20260107T140500Z
 SUMMARY:Mr 
 LOCATION:301/ S
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 24/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 26/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T123000Z
@@ -2437,7 +2451,7 @@ DTSTART:20260128T123000Z
 DTEND:20260128T140500Z
 SUMMARY:Mr 
 LOCATION:PTW/ 28 HANGAR
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 25/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 27/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T123000Z
@@ -2475,13 +2489,6 @@ LOCATION:7/ 16
 DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T150000Z
-DTEND:20261217T163500Z
-SUMMARY:Mr 
-LOCATION:PTW/ 28 HANGAR
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 26/35\nProwadzący: dr inż. Wieczorek Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261224T150000Z
 DTEND:20261224T163500Z
 SUMMARY:I 
@@ -2514,7 +2521,7 @@ DTSTART:20260128T150000Z
 DTEND:20260128T163500Z
 SUMMARY:Mr 
 LOCATION:PTW/ 28 HANGAR
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 27/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 28/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T150000Z
@@ -2529,13 +2536,6 @@ DTEND:20260527T153500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 85/154
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T165000Z
-DTEND:20261217T182500Z
-SUMMARY:Mr 
-LOCATION:PTW/ 28 HANGAR
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 28/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T165000Z

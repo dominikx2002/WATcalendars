@@ -193,6 +193,13 @@ LOCATION:54E
 DESCRIPTION:Obr.\nRodzaj zajęć: -\nNumer zajęć: 9/17\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261123T123000Z
+DTEND:20261123T140500Z
+SUMMARY:PrzO (w)
+LOCATION:0.22/16
+DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Magierski Mieczysław 27
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261207T123000Z
 DTEND:20261207T140500Z
 SUMMARY:Obr. 
@@ -225,21 +232,7 @@ DTSTART:20261005T140000Z
 DTEND:20261005T153500Z
 SUMMARY:PrzO (w)
 LOCATION:2.22/135
-DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Magierski Mieczysław 27
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T140000Z
-DTEND:20261012T153500Z
-SUMMARY:PrzO (w)
-LOCATION:
 DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Magierski Mieczysław 27
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T140000Z
-DTEND:20261019T153500Z
-SUMMARY:PrzO (w)
-LOCATION:2.22/135
-DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Magierski Mieczysław 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T150000Z
@@ -309,21 +302,7 @@ DTSTART:20261005T155000Z
 DTEND:20261005T172500Z
 SUMMARY:PrzO (w)
 LOCATION:2.22/135
-DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Magierski Mieczysław 27
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T155000Z
-DTEND:20261012T172500Z
-SUMMARY:PrzO (w)
-LOCATION:2.22/135
-DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Magierski Mieczysław 27
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T155000Z
-DTEND:20261019T172500Z
-SUMMARY:PrzO (w)
-LOCATION:2.22/135
-DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Magierski Mieczysław 27
+DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Magierski Mieczysław 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T165000Z
@@ -876,7 +855,7 @@ DTSTART:20261021T140000Z
 DTEND:20261021T153500Z
 SUMMARY:PrzO (w)
 LOCATION:2.22/135
-DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Magierski Mieczysław 27
+DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Magierski Mieczysław 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T150000Z
@@ -1173,11 +1152,32 @@ LOCATION:0.6/16
 DESCRIPTION:Gry decyzyjne i zarządzanie ryzykiem 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261105T123000Z
+DTEND:20261105T140500Z
+SUMMARY:PrzO (w)
+LOCATION:1.27/135
+DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Magierski Mieczysław 27
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261119T123000Z
 DTEND:20261119T140500Z
 SUMMARY:P. 
 LOCATION:1b/28
 DESCRIPTION:P.\nRodzaj zajęć: -\nNumer zajęć: 17/17\nProwadzący: dr Wojnarowska Szpucha Sylwia 36; dr hab. (prof. WAT) Świerszcz Katarzyna 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T150000Z
+DTEND:20261029T163500Z
+SUMMARY:PrzO (w)
+LOCATION:0.22/16
+DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Magierski Mieczysław 27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T165000Z
+DTEND:20261029T182500Z
+SUMMARY:PrzO (w)
+LOCATION:0.22/16
+DESCRIPTION:Przemysł obronny 26\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Magierski Mieczysław 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T060000Z

@@ -1187,20 +1187,6 @@ LOCATION:4.17a/135
 DESCRIPTION:Podstawy informatyki 16\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Staruch Marcin 17
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T155000Z
-DTEND:20261022T172500Z
-SUMMARY:Pz (w)
-LOCATION:aula/135
-DESCRIPTION:Podstawy zarządzania 21\nRodzaj zajęć: Wykład\nNumer zajęć: 16/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 22
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T165000Z
-DTEND:20261029T182500Z
-SUMMARY:Pz (w)
-LOCATION:aula/135
-DESCRIPTION:Podstawy zarządzania 21\nRodzaj zajęć: Wykład\nNumer zajęć: 17/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 22
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261217T165000Z
 DTEND:20261217T182500Z
 SUMMARY:Mi (ć)
@@ -1212,7 +1198,7 @@ DTSTART:20260121T165000Z
 DTEND:20260121T182500Z
 SUMMARY:Pz (w)
 LOCATION:aula/135
-DESCRIPTION:Podstawy zarządzania 21\nRodzaj zajęć: Wykład\nNumer zajęć: 18/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 22
+DESCRIPTION:Podstawy zarządzania 21\nRodzaj zajęć: Wykład\nNumer zajęć: 16/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T070000Z
@@ -1255,6 +1241,13 @@ DTEND:20260108T102500Z
 SUMMARY:Pmr (w)
 LOCATION:0.24/135
 DESCRIPTION:Podstawy marketingu 19\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: dr Pawlak Katarzyna 20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T094000Z
+DTEND:20261002T111500Z
+SUMMARY:Pz (w)
+LOCATION:0.24/135
+DESCRIPTION:Podstawy zarządzania 21\nRodzaj zajęć: Wykład\nNumer zajęć: 17/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T113000Z
@@ -1359,7 +1352,7 @@ DTSTART:20260219T123000Z
 DTEND:20260219T140500Z
 SUMMARY:Pz (w)
 LOCATION:aula/135
-DESCRIPTION:Podstawy zarządzania 21\nRodzaj zajęć: Wykład\nNumer zajęć: 19/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 22
+DESCRIPTION:Podstawy zarządzania 21\nRodzaj zajęć: Wykład\nNumer zajęć: 18/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T140000Z
@@ -1416,6 +1409,13 @@ DTEND:20260129T163500Z
 SUMMARY:Mi (ć)
 LOCATION:4.17b/135
 DESCRIPTION:Mikroekonomia 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: dr Owczarczyk Anna 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T155000Z
+DTEND:20261002T172500Z
+SUMMARY:Pz (w)
+LOCATION:0.24/135
+DESCRIPTION:Podstawy zarządzania 21\nRodzaj zajęć: Wykład\nNumer zajęć: 19/19\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T155000Z
