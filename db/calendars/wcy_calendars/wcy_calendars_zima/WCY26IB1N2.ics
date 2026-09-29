@@ -60,13 +60,6 @@ LOCATION:309 S
 DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261004T113000Z
-DTEND:20261004T130500Z
-SUMMARY:Tim (w)
-LOCATION:309 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261010T060000Z
 DTEND:20261010T073500Z
 SUMMARY:Nmtz (w)
@@ -128,6 +121,13 @@ DTEND:20261011T111500Z
 SUMMARY:Mia (w)
 LOCATION:309 S
 DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T113000Z
+DTEND:20261011T130500Z
+SUMMARY:Tim (w)
+LOCATION:309 S
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T060000Z
@@ -230,9 +230,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T140000Z
 DTEND:20261024T153500Z
-SUMMARY:BSI (w)
-LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Piotr Górny
+SUMMARY:Sws (Inne)
+LOCATION:314 S
+DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Adam Kutyła, dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T070000Z
@@ -401,6 +401,13 @@ DTEND:20261205T121500Z
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T123000Z
+DTEND:20261205T140500Z
+SUMMARY:BSI (w)
+LOCATION:308 S
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T150000Z

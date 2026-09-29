@@ -144,13 +144,6 @@ LOCATION:S2 72
 DESCRIPTION:Introduction to Metrology - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T060000Z
-DTEND:20261012T073500Z
-SUMMARY:Boeg (w)
-LOCATION:204 65
-DESCRIPTION:Basics of Engineering Graphics - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261012T094000Z
 DTEND:20261012T111500Z
 SUMMARY:Seiss (w)
@@ -172,13 +165,6 @@ LOCATION:205 65
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T060000Z
-DTEND:20261013T073500Z
-SUMMARY:Math1 (ć)
-LOCATION:307 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/19\nProwadzący: dr Piotr Multarzyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261014T060000Z
 DTEND:20261014T073500Z
 SUMMARY:Math2 (w)
@@ -198,6 +184,13 @@ DTEND:20261014T111500Z
 SUMMARY:DM1 (ć)
 LOCATION:307 S
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T060000Z
+DTEND:20261015T073500Z
+SUMMARY:Math1 (ć)
+LOCATION:317 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/19\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T075000Z
@@ -284,11 +277,18 @@ LOCATION:085 S
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261021T113000Z
+DTEND:20261021T130500Z
+SUMMARY:Math1 (ć)
+LOCATION:314 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/19\nProwadzący: dr Justyna Ogorzały
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261022T060000Z
 DTEND:20261022T073500Z
 SUMMARY:Boeg (w)
 LOCATION:204 65
-DESCRIPTION:Basics of Engineering Graphics - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+DESCRIPTION:Basics of Engineering Graphics - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T075000Z
@@ -319,13 +319,6 @@ LOCATION:S2 72
 DESCRIPTION:Introduction to Metrology - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261023T140000Z
-DTEND:20261023T153500Z
-SUMMARY:Math1 (ć)
-LOCATION:309 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/19\nProwadzący: dr Piotr Multarzyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261026T070000Z
 DTEND:20261026T083500Z
 SUMMARY:Seiss (w)
@@ -340,11 +333,18 @@ LOCATION:204 65
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261026T104000Z
-DTEND:20261026T121500Z
+DTSTART:20261026T123000Z
+DTEND:20261026T140500Z
 SUMMARY:Math1 (ć)
-LOCATION:307 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/19\nProwadzący: dr Piotr Multarzyński
+LOCATION:308 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/19\nProwadzący: dr Justyna Ogorzały
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T150000Z
+DTEND:20261026T163500Z
+SUMMARY:SoKW (Inne)
+LOCATION:314 S
+DESCRIPTION:Spotkanie organizacyjne z kierownictwem Wydziału\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T070000Z
@@ -366,6 +366,13 @@ DTEND:20261027T121500Z
 SUMMARY:DM1 (ć)
 LOCATION:252 S
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T123000Z
+DTEND:20261027T140500Z
+SUMMARY:Boeg (w)
+LOCATION:101 65
+DESCRIPTION:Basics of Engineering Graphics - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T070000Z
@@ -501,6 +508,13 @@ LOCATION:239 S
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261104T123000Z
+DTEND:20261104T140500Z
+SUMMARY:Math1 (ć)
+LOCATION:317 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/19\nProwadzący: dr Justyna Ogorzały
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261105T070000Z
 DTEND:20261105T083500Z
 SUMMARY:Boeg (w)
@@ -533,7 +547,7 @@ DTSTART:20261109T070000Z
 DTEND:20261109T083500Z
 SUMMARY:Math1 (ć)
 LOCATION:307 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/19\nProwadzący: dr Piotr Multarzyński
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/19\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T085000Z
@@ -568,7 +582,7 @@ DTSTART:20261110T070000Z
 DTEND:20261110T083500Z
 SUMMARY:Math1 (ć)
 LOCATION:309 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/19\nProwadzący: dr Piotr Multarzyński
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T085000Z
@@ -606,13 +620,6 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261113T070000Z
-DTEND:20261113T083500Z
-SUMMARY:Math1 (ć)
-LOCATION:316 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19\nProwadzący: dr Piotr Multarzyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261113T085000Z
 DTEND:20261113T102500Z
 SUMMARY:Intm (w)
@@ -641,6 +648,13 @@ LOCATION:29/ 54 30/ 54
 DESCRIPTION:Basics of Engineering Graphics - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261117T104000Z
+DTEND:20261117T121500Z
+SUMMARY:Math1 (ć)
+LOCATION:307 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19\nProwadzący: dr Justyna Ogorzały
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261117T123000Z
 DTEND:20261117T140500Z
 SUMMARY:Its (w)
@@ -666,7 +680,7 @@ DTSTART:20261118T085000Z
 DTEND:20261118T102500Z
 SUMMARY:Math1 (ć)
 LOCATION:307 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19\nProwadzący: dr Piotr Multarzyński
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -781,13 +795,6 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261130T070000Z
-DTEND:20261130T083500Z
-SUMMARY:Math1 (ć)
-LOCATION:313 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19\nProwadzący: dr Piotr Multarzyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261130T104000Z
 DTEND:20261130T121500Z
 SUMMARY:Math2 (w)
@@ -821,6 +828,13 @@ DTEND:20261202T102500Z
 SUMMARY:Math1 (w)
 LOCATION:204 65
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr Piotr Multarzyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T104000Z
+DTEND:20261202T121500Z
+SUMMARY:Math1 (ć)
+LOCATION:317 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/19\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T070000Z
@@ -862,7 +876,7 @@ DTSTART:20261207T070000Z
 DTEND:20261207T083500Z
 SUMMARY:Math1 (ć)
 LOCATION:307 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/19\nProwadzący: dr Piotr Multarzyński
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T085000Z
@@ -921,6 +935,13 @@ LOCATION:201 65
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T104000Z
+DTEND:20261209T121500Z
+SUMMARY:Math1 (ć)
+LOCATION:317 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/19\nProwadzący: dr Justyna Ogorzały
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:Intm (ć)
@@ -963,25 +984,11 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261211T070000Z
-DTEND:20261211T083500Z
-SUMMARY:Math1 (ć)
-LOCATION:316 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: dr Piotr Multarzyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261211T104000Z
 DTEND:20261211T121500Z
 SUMMARY:Intm (ć)
 LOCATION:S3 72
 DESCRIPTION:Introduction to Metrology - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261214T070000Z
-DTEND:20261214T083500Z
-SUMMARY:Math1 (ć)
-LOCATION:307 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/19\nProwadzący: dr Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T085000Z
@@ -1009,7 +1016,7 @@ DTSTART:20261216T085000Z
 DTEND:20261216T102500Z
 SUMMARY:Math1 (ć)
 LOCATION:307 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: dr Piotr Multarzyński
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T070000Z
@@ -1040,6 +1047,13 @@ LOCATION:316 S
 DESCRIPTION:Professional ethics - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261217T150000Z
+DTEND:20261217T163500Z
+SUMMARY:Math1 (ć)
+LOCATION:313 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/19\nProwadzący: dr Justyna Ogorzały
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T165000Z
 DTEND:20261217T182500Z
 SUMMARY:Ja (ć)
@@ -1059,13 +1073,6 @@ DTEND:20261218T140500Z
 SUMMARY:Intm (ć)
 LOCATION:S3 72
 DESCRIPTION:Introduction to Metrology - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261221T070000Z
-DTEND:20261221T083500Z
-SUMMARY:Math1 (ć)
-LOCATION:313 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/19\nProwadzący: dr Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T085000Z
@@ -1138,6 +1145,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270107T150000Z
+DTEND:20270107T163500Z
+SUMMARY:Math1 (ć)
+LOCATION:316 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/19\nProwadzący: dr Justyna Ogorzały
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270107T165000Z
 DTEND:20270107T182500Z
 SUMMARY:Ja (ć)
@@ -1173,11 +1187,11 @@ LOCATION:205 65
 DESCRIPTION:Basics of Engineering Graphics - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T085000Z
-DTEND:20270112T102500Z
+DTSTART:20270111T123000Z
+DTEND:20270111T140500Z
 SUMMARY:Math1 (ć)
 LOCATION:317 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/19\nProwadzący: dr Piotr Multarzyński
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T070000Z
@@ -1215,6 +1229,13 @@ LOCATION:307 S
 DESCRIPTION:Professional ethics - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270114T123000Z
+DTEND:20270114T140500Z
+SUMMARY:Math1 (ć)
+LOCATION:317 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/19\nProwadzący: dr Justyna Ogorzały
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270114T165000Z
 DTEND:20270114T182500Z
 SUMMARY:Ja (ć)
@@ -1227,13 +1248,6 @@ DTEND:20270115T102500Z
 SUMMARY:Math2 (ć)
 LOCATION:219 65
 DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270115T104000Z
-DTEND:20270115T121500Z
-SUMMARY:Math1 (ć)
-LOCATION:317 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: dr Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T070000Z
@@ -1278,18 +1292,11 @@ LOCATION:218 65
 DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: mgr inż. Marcin Paź
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T085000Z
-DTEND:20270119T102500Z
-SUMMARY:Math1 (ć)
-LOCATION:316 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/19\nProwadzący: dr Piotr Multarzyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270120T070000Z
 DTEND:20270120T083500Z
 SUMMARY:Math1 (ć)
 LOCATION:309 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/19\nProwadzący: dr Piotr Multarzyński
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/19\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T085000Z
@@ -1318,6 +1325,13 @@ DTEND:20270121T121500Z
 SUMMARY:Pret (ć)
 LOCATION:307 S
 DESCRIPTION:Professional ethics - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T123000Z
+DTEND:20270121T140500Z
+SUMMARY:Math1 (ć)
+LOCATION:313 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/19\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T165000Z
@@ -1355,13 +1369,6 @@ LOCATION:201 65
 DESCRIPTION:Basics of Engineering Graphics - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270126T085000Z
-DTEND:20270126T102500Z
-SUMMARY:Math1 (ć)
-LOCATION:307 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/19\nProwadzący: dr Piotr Multarzyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270128T070000Z
 DTEND:20270128T083500Z
 SUMMARY:Proin (w)
@@ -1374,6 +1381,13 @@ DTEND:20270128T102500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T123000Z
+DTEND:20270128T140500Z
+SUMMARY:Math1 (ć)
+LOCATION:313 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/19\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T150000Z
@@ -1395,12 +1409,5 @@ DTEND:20270129T102500Z
 SUMMARY:Math2 (ć)
 LOCATION:201 65
 DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/17\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270129T104000Z
-DTEND:20270129T121500Z
-SUMMARY:Math1 (ć)
-LOCATION:317 S
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/19\nProwadzący: dr Piotr Multarzyński
 END:VEVENT
 END:VCALENDAR

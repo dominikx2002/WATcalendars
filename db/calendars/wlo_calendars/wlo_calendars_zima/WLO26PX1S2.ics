@@ -536,6 +536,13 @@ LOCATION:0.6/16
 DESCRIPTION:Historia bezpieczeństwa narodowego 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr hab. Ostanek Adam 11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261103T104000Z
+DTEND:20261103T121500Z
+SUMMARY:Pzbo (w)
+LOCATION:54E
+DESCRIPTION:Polityka zagraniczna bezpieczeństwa i obronnosci UE 16\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz 17
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:PiZS (ć)
@@ -660,13 +667,6 @@ DTEND:20260126T140500Z
 SUMMARY:A (w)
 LOCATION:0.28/135
 DESCRIPTION:Przedmioty wybierane 24\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Warchał Arnold 25
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261006T140000Z
-DTEND:20261006T153500Z
-SUMMARY:Pzbo (w)
-LOCATION:3.16/135
-DESCRIPTION:Polityka zagraniczna bezpieczeństwa i obronnosci UE 16\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T140000Z

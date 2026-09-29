@@ -560,8 +560,8 @@ BEGIN:VEVENT
 DTSTART:20260126T085000Z
 DTEND:20260126T102500Z
 SUMMARY:MrBr (L)
-LOCATION:6/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: mgr inż. Mantur Tomasz 28
+LOCATION:6/23A; 7/23A
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: kpt. mgr inż. Żmuda Marcin 24; mgr inż. Mantur Tomasz 28
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T085000Z
@@ -890,7 +890,7 @@ DTSTART:20261117T165000Z
 DTEND:20261117T182500Z
 SUMMARY:MrBr (L)
 LOCATION:2/23A; PTW/20; 3/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: mgr inż. Pogorzelski Ireneusz 27; mgr inż. Michałowski Bogusław 26
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Pogorzelski Ireneusz 27; mgr inż. Michałowski Bogusław 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T165000Z
@@ -904,21 +904,21 @@ DTSTART:20261215T165000Z
 DTEND:20261215T182500Z
 SUMMARY:MrBr (L)
 LOCATION:2/23A; PTW/20; 3/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: mgr inż. Pogorzelski Ireneusz 27; mgr inż. Michałowski Bogusław 26
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Pogorzelski Ireneusz 27; mgr inż. Michałowski Bogusław 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T184000Z
 DTEND:20261117T201500Z
 SUMMARY:MrBr (L)
 LOCATION:2/23A; PTW/20; 3/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: mgr inż. Pogorzelski Ireneusz 27; mgr inż. Michałowski Bogusław 26
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Pogorzelski Ireneusz 27; mgr inż. Michałowski Bogusław 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T184000Z
 DTEND:20261215T201500Z
 SUMMARY:MrBr (L)
 LOCATION:2/23A; PTW/20; 3/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13\nProwadzący: mgr inż. Pogorzelski Ireneusz 27; mgr inż. Michałowski Bogusław 26
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr inż. Pogorzelski Ireneusz 27; mgr inż. Michałowski Bogusław 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T060000Z
@@ -1262,13 +1262,6 @@ DTEND:20261223T163500Z
 SUMMARY:PŚZŻ (ć)
 LOCATION:1.16/16
 DESCRIPTION:Pozyskiwanie, dostarczanie, gromadzenie, magazynowanie środków zaopatrzenia żywniościowego 53\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: prof. WAT Kler Paweł 54
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260127T150000Z
-DTEND:20260127T163500Z
-SUMMARY:MrBr (L)
-LOCATION:6/23A; 7/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: kpt. mgr inż. Żmuda Marcin 24; mgr inż. Mantur Tomasz 28
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T155000Z
@@ -1772,7 +1765,7 @@ DTSTART:20260108T104000Z
 DTEND:20260108T121500Z
 SUMMARY:MrBr (L)
 LOCATION:6/23A; 7/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/13\nProwadzący: kpt. mgr inż. Żmuda Marcin 24; mgr inż. Mantur Tomasz 28
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: kpt. mgr inż. Żmuda Marcin 24; mgr inż. Mantur Tomasz 28
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T104000Z
@@ -1852,13 +1845,6 @@ LOCATION:2.22/135
 DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr Spychała Dariusz 10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T123000Z
-DTEND:20260122T140500Z
-SUMMARY:MrBr (L)
-LOCATION:3/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13\nProwadzący: mgr inż. Pogorzelski Ireneusz 27
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260129T123000Z
 DTEND:20260129T140500Z
 SUMMARY:TiTŻ (S)
@@ -1892,41 +1878,6 @@ DTEND:20261218T163500Z
 SUMMARY:TiTŻ (ć)
 LOCATION:1.16/16
 DESCRIPTION:Towaroznawstwo i technologia żywności 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: prof. WAT Kler Paweł 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T150000Z
-DTEND:20260115T163500Z
-SUMMARY:MrBr (L)
-LOCATION:2/23A; PTW/20
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: mgr inż. Michałowski Bogusław 26
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T150000Z
-DTEND:20260122T163500Z
-SUMMARY:MrBr (L)
-LOCATION:3/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: mgr inż. Pogorzelski Ireneusz 27
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260129T150000Z
-DTEND:20260129T163500Z
-SUMMARY:MrBr (L)
-LOCATION:2/23A; PTW/28 HANGAR
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: mgr inż. Michałowski Bogusław 26
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T165000Z
-DTEND:20260115T182500Z
-SUMMARY:MrBr (L)
-LOCATION:2/23A; PTW/20; PTW/28 HANGAR
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: mgr inż. Michałowski Bogusław 26
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260129T165000Z
-DTEND:20260129T182500Z
-SUMMARY:MrBr (L)
-LOCATION:2/23A; PTW/28 HANGAR
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/13\nProwadzący: mgr inż. Michałowski Bogusław 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T174000Z

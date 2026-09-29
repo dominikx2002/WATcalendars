@@ -872,13 +872,6 @@ LOCATION:15/ 23A
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T104000Z
-DTEND:20261117T121500Z
-SUMMARY:PeUT (ć)
-LOCATION:301/ S
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T104000Z
 DTEND:20261124T121500Z
 SUMMARY:Uk* (L)
@@ -1040,13 +1033,6 @@ LOCATION:2/ 68
 DESCRIPTION:Silniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż Polak Filip
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T140000Z
-DTEND:20261006T153500Z
-SUMMARY:E-L (w)
-LOCATION:2/ 23A
-DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Waśniewski Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261013T140000Z
 DTEND:20261013T153500Z
 SUMMARY:Ssh (L)
@@ -1058,7 +1044,7 @@ DTSTART:20261027T150000Z
 DTEND:20261027T163500Z
 SUMMARY:E-L (w)
 LOCATION:15/ 23A
-DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Waśniewski Tomasz
+DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Waśniewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -1331,7 +1317,7 @@ DTSTART:20261209T085000Z
 DTEND:20261209T102500Z
 SUMMARY:PeUT (ć)
 LOCATION:301/ S
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -1359,14 +1345,14 @@ DTSTART:20260113T085000Z
 DTEND:20260113T102500Z
 SUMMARY:PeUT (ć)
 LOCATION:301/ S
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T085000Z
 DTEND:20260120T102500Z
 SUMMARY:PeUT (ć)
 LOCATION:301/ S
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T085000Z
@@ -1422,7 +1408,7 @@ DTSTART:20261216T104000Z
 DTEND:20261216T121500Z
 SUMMARY:PeUT (ć)
 LOCATION:2/ 23A
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T104000Z
@@ -1506,7 +1492,7 @@ DTSTART:20261216T123000Z
 DTEND:20261216T140500Z
 SUMMARY:PeUT (ć)
 LOCATION:2/ 23A
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z
@@ -1745,6 +1731,13 @@ DTEND:20261029T083500Z
 SUMMARY:OwL (ć)
 LOCATION:116/ 54
 DESCRIPTION:Opakowania w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Oziębło Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T070000Z
+DTEND:20261105T083500Z
+SUMMARY:PeUT (ć)
+LOCATION:15/ 23A
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -2227,13 +2220,20 @@ DTSTART:20261015T140000Z
 DTEND:20261015T153500Z
 SUMMARY:E-L (w)
 LOCATION:2/ 23A
-DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Waśniewski Tomasz
+DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Waśniewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T140000Z
 DTEND:20261022T153500Z
 SUMMARY:E-L (w)
 LOCATION:2/ 23A
+DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Waśniewski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T150000Z
+DTEND:20261112T163500Z
+SUMMARY:E-L (w)
+LOCATION:15/ 23A
 DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Waśniewski Tomasz
 END:VEVENT
 BEGIN:VEVENT

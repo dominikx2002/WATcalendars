@@ -4,25 +4,18 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WTC24CN1S1
 BEGIN:VEVENT
-DTSTART:20261005T060000Z
-DTEND:20261005T073500Z
-SUMMARY:Mc (w)
-LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261019T060000Z
 DTEND:20261019T073500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T070000Z
 DTEND:20261026T083500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T070000Z
@@ -36,11 +29,18 @@ DTSTART:20261109T070000Z
 DTEND:20261109T083500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T070000Z
 DTEND:20261116T083500Z
+SUMMARY:Mc (w)
+LOCATION:110/ 14
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T070000Z
+DTEND:20261123T083500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
 DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
@@ -480,53 +480,46 @@ LOCATION:5 55
 DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Boczkowski Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T094000Z
-DTEND:20261006T111500Z
-SUMMARY:Mc (w)
-LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261013T094000Z
 DTEND:20261013T111500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T094000Z
 DTEND:20261020T111500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 13/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T104000Z
@@ -876,7 +869,7 @@ DTSTART:20261007T113000Z
 DTEND:20261007T130500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 14/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 13/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T113000Z
@@ -897,14 +890,14 @@ DTSTART:20261104T123000Z
 DTEND:20261104T140500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 15/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 14/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T123000Z
 DTEND:20261118T140500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 16/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 15/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T123000Z
@@ -981,7 +974,7 @@ DTSTART:20261008T075000Z
 DTEND:20261008T092500Z
 SUMMARY:Mc (w)
 LOCATION:109 24
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 17/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 16/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T075000Z
@@ -1051,21 +1044,21 @@ DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 18/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 17/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T104000Z
 DTEND:20261112T121500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 19/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 18/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 20/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 19/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z
@@ -1170,21 +1163,21 @@ DTSTART:20261113T085000Z
 DTEND:20261113T102500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 21/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 20/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T085000Z
 DTEND:20261120T102500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 22/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 21/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T094000Z
 DTEND:20261016T111500Z
 SUMMARY:Mc (w)
 LOCATION:108 24
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 23/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 22/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T094000Z
@@ -1199,6 +1192,13 @@ DTEND:20261030T121500Z
 SUMMARY:Cho (L)
 LOCATION:34/ 14
 DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 35/38\nProwadzący: dr inż. Harmata Piotr; mgr inż. Rychłowicz Natan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T113000Z
+DTEND:20261016T130500Z
+SUMMARY:Mc (w)
+LOCATION:1 55A
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 23/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T113000Z

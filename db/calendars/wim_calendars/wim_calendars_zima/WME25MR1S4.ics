@@ -491,7 +491,7 @@ DTSTART:20260118T123000Z
 DTEND:20260118T140500Z
 SUMMARY:BeS (ć)
 LOCATION:2/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T123000Z
@@ -624,7 +624,7 @@ DTSTART:20261207T165000Z
 DTEND:20261207T182500Z
 SUMMARY:BeS (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T165000Z
@@ -1184,7 +1184,7 @@ DTSTART:20260112T150000Z
 DTEND:20260112T163500Z
 SUMMARY:BeS (ć)
 LOCATION:3/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T150000Z
@@ -1436,7 +1436,7 @@ DTSTART:20261216T085000Z
 DTEND:20261216T102500Z
 SUMMARY:BeS (ć)
 LOCATION:7/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T085000Z
@@ -1611,7 +1611,7 @@ DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:BeS (ć)
 LOCATION:3/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T123000Z
@@ -2109,6 +2109,13 @@ DTEND:20261105T121500Z
 SUMMARY:MnK (ć)
 LOCATION:7/ 62
 DESCRIPTION:Metody numeryczne w analizie konstrukcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T104000Z
+DTEND:20261112T121500Z
+SUMMARY:BeS (ć)
+LOCATION:7/ 23A
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z

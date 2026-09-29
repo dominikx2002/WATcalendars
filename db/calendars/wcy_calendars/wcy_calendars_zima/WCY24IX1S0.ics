@@ -2307,6 +2307,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 31/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261007T075000Z
+DTEND:20261007T092500Z
+SUMMARY:Pw (w)
+LOCATION:307 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261007T140000Z
 DTEND:20261007T153500Z
 SUMMARY:ZaMe (w)
@@ -2389,13 +2396,6 @@ DTEND:20261012T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 16/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T092500Z
-SUMMARY:Pw (w)
-LOCATION:308 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T094000Z

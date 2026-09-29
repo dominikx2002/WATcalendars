@@ -256,20 +256,6 @@ LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 5/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
-SUMMARY:Als (L)
-LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T140000Z
-DTEND:20261020T153500Z
-SUMMARY:Als (L)
-LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261021T060000Z
 DTEND:20261021T073500Z
 SUMMARY:Mat I (ć)
@@ -282,6 +268,20 @@ DTEND:20261021T092500Z
 SUMMARY:M II (ć)
 LOCATION:203 65
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
+SUMMARY:WdI (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: Jakub Grątkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T113000Z
+DTEND:20261021T130500Z
+SUMMARY:WdI (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: Jakub Grątkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T060000Z
@@ -366,6 +366,20 @@ DTEND:20261027T083500Z
 SUMMARY:M II (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 6/17\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T085000Z
+DTEND:20261027T102500Z
+SUMMARY:WdI (L)
+LOCATION:228 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: Jakub Grątkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T104000Z
+DTEND:20261027T121500Z
+SUMMARY:WdI (L)
+LOCATION:228 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: Jakub Grątkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T070000Z
@@ -496,16 +510,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
-SUMMARY:Als (L)
+SUMMARY:WdI (L)
 LOCATION:233 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: Jakub Grątkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
-SUMMARY:Als (L)
+SUMMARY:WdI (L)
 LOCATION:233 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: Jakub Grątkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261103T150000Z
+DTEND:20261103T163500Z
+SUMMARY:SoKW (Inne)
+LOCATION:314 S
+DESCRIPTION:Spotkanie organizacyjne z kierownictwem Wydziału\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
@@ -683,25 +704,25 @@ LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261117T070000Z
+DTEND:20261117T083500Z
+SUMMARY:WdI (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: Jakub Grątkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T085000Z
+DTEND:20261117T102500Z
+SUMMARY:WdI (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: Jakub Grątkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:Owi (w)
 LOCATION:316 S
 DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:Als (L)
-LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T150000Z
-DTEND:20261117T163500Z
-SUMMARY:Als (L)
-LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T070000Z
@@ -786,20 +807,6 @@ DTEND:20261123T102500Z
 SUMMARY:Owi (w)
 LOCATION:313 S
 DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261123T104000Z
-DTEND:20261123T121500Z
-SUMMARY:Als (L)
-LOCATION:237 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261123T123000Z
-DTEND:20261123T140500Z
-SUMMARY:Als (L)
-LOCATION:237 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T070000Z
@@ -895,16 +902,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
-SUMMARY:Als (L)
+SUMMARY:WdI (L)
 LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: Jakub Grątkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T150000Z
 DTEND:20261201T163500Z
-SUMMARY:Als (L)
+SUMMARY:WdI (L)
 LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: Jakub Grątkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T165000Z
@@ -1098,9 +1105,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T104000Z
 DTEND:20261216T121500Z
-SUMMARY:Als (L)
+SUMMARY:WdI (L)
 LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: Jakub Grątkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T070000Z

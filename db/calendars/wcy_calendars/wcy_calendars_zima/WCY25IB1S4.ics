@@ -613,6 +613,20 @@ LOCATION:224 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261203T150000Z
+DTEND:20261203T163500Z
+SUMMARY:Clc (L)
+LOCATION:236 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T165000Z
+DTEND:20261203T182500Z
+SUMMARY:Clc (L)
+LOCATION:236 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261207T104000Z
 DTEND:20261207T121500Z
 SUMMARY:Wmo (ć)
@@ -645,14 +659,14 @@ DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:Clc (L)
 LOCATION:228 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T085000Z
 DTEND:20261209T102500Z
 SUMMARY:Clc (L)
 LOCATION:228 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T104000Z
@@ -743,14 +757,14 @@ DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:Clc (L)
 LOCATION:228 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
 DTEND:20261216T102500Z
 SUMMARY:Clc (L)
 LOCATION:228 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T104000Z
@@ -933,20 +947,6 @@ DTEND:20270112T140500Z
 SUMMARY:Mzw (L)
 LOCATION:223 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270113T070000Z
-DTEND:20270113T083500Z
-SUMMARY:Clc (L)
-LOCATION:224 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270113T085000Z
-DTEND:20270113T102500Z
-SUMMARY:Clc (L)
-LOCATION:224 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T104000Z

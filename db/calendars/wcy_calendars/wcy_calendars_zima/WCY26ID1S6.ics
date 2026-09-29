@@ -123,6 +123,13 @@ LOCATION:103 K
 DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:Sck (w)
+LOCATION:101 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261210T070000Z
 DTEND:20261210T083500Z
 SUMMARY:PODS.SUR. (w)
@@ -200,6 +207,13 @@ LOCATION:aula/ 135
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261214T070000Z
+DTEND:20261214T083500Z
+SUMMARY:SO (w)
+LOCATION:201 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261214T123000Z
 DTEND:20261214T140500Z
 SUMMARY:REG (Inne)
@@ -219,6 +233,13 @@ DTEND:20261215T121500Z
 SUMMARY:REG (Inne)
 LOCATION:22 /BIBL
 DESCRIPTION:Regulaminy SZ RP - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T123000Z
+DTEND:20261215T140500Z
+SUMMARY:NiBSI (w)
+LOCATION:308 S
+DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T070000Z
@@ -247,6 +268,20 @@ DTEND:20261217T140500Z
 SUMMARY:WF (w)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T165000Z
+DTEND:20261217T182500Z
+SUMMARY:SBD (w)
+LOCATION:309 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T184000Z
+DTEND:20261217T201500Z
+SUMMARY:SBD (w)
+LOCATION:309 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T070000Z
@@ -487,6 +522,27 @@ LOCATION:aula/ 135
 DESCRIPTION:Zarządzanie ryzykiem w aspekcie militarnym - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261229T085000Z
+DTEND:20261229T102500Z
+SUMMARY:MWDS (w)
+LOCATION:308 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261229T104000Z
+DTEND:20261229T121500Z
+SUMMARY:SO (w)
+LOCATION:201 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261229T123000Z
+DTEND:20261229T140500Z
+SUMMARY:NiBSI (w)
+LOCATION:308 S
+DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261230T070000Z
 DTEND:20261230T083500Z
 SUMMARY:GMiB (w)
@@ -499,6 +555,27 @@ DTEND:20261230T102500Z
 SUMMARY:OPW (w)
 LOCATION:103 K
 DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261230T104000Z
+DTEND:20261230T121500Z
+SUMMARY:Sck (w)
+LOCATION:101 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261230T150000Z
+DTEND:20261230T163500Z
+SUMMARY:Kws (w)
+LOCATION:204 65
+DESCRIPTION:Kryptologia współczesna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261230T165000Z
+DTEND:20261230T182500Z
+SUMMARY:Kws (w)
+LOCATION:204 65
+DESCRIPTION:Kryptologia współczesna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261231T070000Z
@@ -648,6 +725,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 56/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270104T070000Z
+DTEND:20270104T083500Z
+SUMMARY:SO (w)
+LOCATION:101 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270104T085000Z
+DTEND:20270104T102500Z
+SUMMARY:MWDS (w)
+LOCATION:308 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270104T104000Z
 DTEND:20270104T121500Z
 SUMMARY:GMiB (Inne)
@@ -655,11 +746,32 @@ LOCATION:AW 3/038
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270105T070000Z
+DTEND:20270105T083500Z
+SUMMARY:Sck (w)
+LOCATION:101 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270105T085000Z
 DTEND:20270105T102500Z
 SUMMARY:PESW (w)
 LOCATION:28 69
 DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270105T104000Z
+DTEND:20270105T121500Z
+SUMMARY:SO (w)
+LOCATION:201 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270105T123000Z
+DTEND:20270105T140500Z
+SUMMARY:NiBSI (w)
+LOCATION:308 S
+DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270106T070000Z
@@ -723,6 +835,13 @@ DTEND:20270107T102500Z
 SUMMARY:PoCy (w)
 LOCATION:313 S
 DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T104000Z
+DTEND:20270107T121500Z
+SUMMARY:SNATO (w)
+LOCATION:101 65
+DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T085000Z
@@ -802,6 +921,13 @@ LOCATION:0.8/ 16
 DESCRIPTION:Podstawy Komunikacji Strategicznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270113T070000Z
+DTEND:20270113T083500Z
+SUMMARY:Sck (w)
+LOCATION:101 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270113T085000Z
 DTEND:20270113T102500Z
 SUMMARY:REG (ć)
@@ -842,6 +968,20 @@ DTEND:20270114T102500Z
 SUMMARY:OPBMR (w)
 LOCATION:2 55A
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T150000Z
+DTEND:20270114T163500Z
+SUMMARY:SBD (w)
+LOCATION:309 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T165000Z
+DTEND:20270114T182500Z
+SUMMARY:SBD (w)
+LOCATION:309 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T070000Z
@@ -947,6 +1087,13 @@ DTEND:20270120T140500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 4/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T150000Z
+DTEND:20270120T163500Z
+SUMMARY:Kws (w)
+LOCATION:218 65
+DESCRIPTION:Kryptologia współczesna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T070000Z
@@ -1068,6 +1215,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 6/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270126T150000Z
+DTEND:20270126T163500Z
+SUMMARY:NiBSI (w)
+LOCATION:308 S
+DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270127T085000Z
 DTEND:20270127T102500Z
 SUMMARY:- (S.Sz.W.)
@@ -1089,6 +1243,13 @@ LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270127T150000Z
+DTEND:20270127T163500Z
+SUMMARY:Kws (w)
+LOCATION:204 65
+DESCRIPTION:Kryptologia współczesna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270128T085000Z
 DTEND:20270128T102500Z
 SUMMARY:ZRwAM (ć)
@@ -1101,6 +1262,13 @@ DTEND:20270128T121500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
 DESCRIPTION:Zabezpieczenie medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T150000Z
+DTEND:20270128T163500Z
+SUMMARY:SBD (w)
+LOCATION:309 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T085000Z
@@ -1157,6 +1325,13 @@ DTEND:20270201T140500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 8/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270202T070000Z
+DTEND:20270202T083500Z
+SUMMARY:SO (w)
+LOCATION:201 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270202T085000Z
@@ -1264,6 +1439,20 @@ LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270208T104000Z
+DTEND:20270208T121500Z
+SUMMARY:MWDS (w)
+LOCATION:308 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270208T123000Z
+DTEND:20270208T140500Z
+SUMMARY:SO (w)
+LOCATION:101 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270209T070000Z
 DTEND:20270209T083500Z
 SUMMARY:SzS (ć)
@@ -1285,6 +1474,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 12/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270209T123000Z
+DTEND:20270209T140500Z
+SUMMARY:SNATO (w)
+LOCATION:101 65
+DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270210T070000Z
 DTEND:20270210T083500Z
 SUMMARY:SzS (ć)
@@ -1304,6 +1500,20 @@ DTEND:20270210T121500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 13/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270210T150000Z
+DTEND:20270210T163500Z
+SUMMARY:Kws (w)
+LOCATION:204 65
+DESCRIPTION:Kryptologia współczesna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270210T165000Z
+DTEND:20270210T182500Z
+SUMMARY:Kws (w)
+LOCATION:204 65
+DESCRIPTION:Kryptologia współczesna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270211T070000Z
@@ -1460,6 +1670,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270218T070000Z
+DTEND:20270218T083500Z
+SUMMARY:Sck (w)
+LOCATION:101 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270218T085000Z
 DTEND:20270218T102500Z
 SUMMARY:REG (ć)
@@ -1472,6 +1689,13 @@ DTEND:20270218T121500Z
 SUMMARY:ZRwAM (ć)
 LOCATION:255 S
 DESCRIPTION:Zarządzanie ryzykiem w aspekcie militarnym - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270218T123000Z
+DTEND:20270218T140500Z
+SUMMARY:SO (w)
+LOCATION:101 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270219T070000Z

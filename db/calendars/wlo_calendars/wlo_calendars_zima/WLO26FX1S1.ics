@@ -942,6 +942,13 @@ LOCATION:0.24/135
 DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr inż. Boruta Grzegorz 35
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
+SUMMARY:M1 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 1 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: dr Szostakiewicz Michał 10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261125T123000Z
 DTEND:20261125T140500Z
 SUMMARY:PZiP (w)
@@ -1003,13 +1010,6 @@ DTEND:20261104T163500Z
 SUMMARY:Ez (ć)
 LOCATION:4.17a/135
 DESCRIPTION:Etyka zawodowa 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. Świniarski Janusz 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T150000Z
-DTEND:20261118T163500Z
-SUMMARY:M1 (ć)
-LOCATION:5.17/135
-DESCRIPTION:Matematyka 1 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: dr Szostakiewicz Michał 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T150000Z

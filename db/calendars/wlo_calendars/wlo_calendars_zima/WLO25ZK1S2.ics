@@ -687,7 +687,7 @@ DTSTART:20261202T070000Z
 DTEND:20261202T083500Z
 SUMMARY:Zwf (ć)
 LOCATION:1b/28
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
@@ -708,7 +708,7 @@ DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:Zwf (w)
 LOCATION:1b/28
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 1/12
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T070000Z
@@ -729,7 +729,7 @@ DTSTART:20260127T070000Z
 DTEND:20260127T083500Z
 SUMMARY:Zwf (ć)
 LOCATION:1b/28
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T075000Z
@@ -744,6 +744,13 @@ DTEND:20261014T092500Z
 SUMMARY:Pdk (ć)
 LOCATION:1a/28
 DESCRIPTION:Praktyka działań kadrowych 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: dr Piotrkowski Kazimierz 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T075000Z
+DTEND:20261021T092500Z
+SUMMARY:Zwf (w)
+LOCATION:1003 HIL
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 2/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
@@ -827,7 +834,7 @@ DTSTART:20261028T104000Z
 DTEND:20261028T121500Z
 SUMMARY:Zwf (w)
 LOCATION:1003 HIL
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 2/12
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T104000Z
@@ -925,14 +932,14 @@ DTSTART:20261028T123000Z
 DTEND:20261028T140500Z
 SUMMARY:Zwf (w)
 LOCATION:1003 HIL
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:Zwf (ć)
 LOCATION:1b/28
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T123000Z
@@ -1012,25 +1019,11 @@ LOCATION:1003 HIL
 DESCRIPTION:Przedsiębiorczość 18\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Kaczmarska Krawczak Jadwiga 19
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
-SUMMARY:Zwf (ć)
-LOCATION:2.22/135
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261112T070000Z
 DTEND:20261112T083500Z
 SUMMARY:Neg (w)
 LOCATION:1003 HIL
 DESCRIPTION:Negocjacje 10\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Kasperski Marian 11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:Zwf (ć)
-LOCATION:1a/28
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -1051,14 +1044,14 @@ DTSTART:20260107T070000Z
 DTEND:20260107T083500Z
 SUMMARY:Zwf (w)
 LOCATION:1b/28
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T070000Z
 DTEND:20260114T083500Z
 SUMMARY:Zwf (ć)
 LOCATION:1b/28
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T070000Z
@@ -1073,13 +1066,6 @@ DTEND:20261001T092500Z
 SUMMARY:KNiO (w)
 LOCATION:1b/28
 DESCRIPTION:Kultury narodowe i organizacyjne 4\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr Jończyk Joanna 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T092500Z
-SUMMARY:Zwf (w)
-LOCATION:1003 HIL
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T085000Z
@@ -1135,21 +1121,21 @@ DTSTART:20261217T085000Z
 DTEND:20261217T102500Z
 SUMMARY:Zwf (w)
 LOCATION:1003 HIL
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T085000Z
 DTEND:20260107T102500Z
 SUMMARY:Zwf (w)
 LOCATION:1b/28
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T085000Z
 DTEND:20260114T102500Z
 SUMMARY:Zwf (w)
 LOCATION:1/22
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T085000Z
@@ -1185,20 +1171,6 @@ DTEND:20261008T111500Z
 SUMMARY:Sd. (S)
 LOCATION:4.29 /135
 DESCRIPTION:Seminarium dyplomowe 21\nRodzaj zajęć: Seminarium\nNumer zajęć: 14/17\nProwadzący: dr inż. Wojciechowski Zdzisław 27
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T111500Z
-SUMMARY:Zwf (w)
-LOCATION:1003 HIL
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T094000Z
-DTEND:20261022T111500Z
-SUMMARY:Zwf (ć)
-LOCATION:1b/28
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -1247,14 +1219,14 @@ DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:Zwf (w)
 LOCATION:1003 HIL
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T104000Z
 DTEND:20260107T121500Z
 SUMMARY:Zwf (ć)
 LOCATION:1003 HIL
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T104000Z
@@ -1268,7 +1240,7 @@ DTSTART:20260121T104000Z
 DTEND:20260121T121500Z
 SUMMARY:Zwf (ć)
 LOCATION:1b/28
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T113000Z
@@ -1310,7 +1282,7 @@ DTSTART:20261112T123000Z
 DTEND:20261112T140500Z
 SUMMARY:Zwf (w)
 LOCATION:1003 HIL
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T123000Z
@@ -1338,7 +1310,7 @@ DTSTART:20260121T123000Z
 DTEND:20260121T140500Z
 SUMMARY:Zwf (ć)
 LOCATION:1b/28
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T140000Z
@@ -1380,7 +1352,7 @@ DTSTART:20261112T150000Z
 DTEND:20261112T163500Z
 SUMMARY:Zwf (w)
 LOCATION:1003 HIL
-DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T150000Z
@@ -1404,10 +1376,38 @@ LOCATION:4.24 /135
 DESCRIPTION:Seminarium dyplomowe 21\nRodzaj zajęć: Seminarium\nNumer zajęć: 16/17\nProwadzący: dr hab. inż. Miszalski Włodzimierz 26
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261015T155000Z
+DTEND:20261015T172500Z
+SUMMARY:Zwf (w)
+LOCATION:2.22/135
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T165000Z
+DTEND:20261105T182500Z
+SUMMARY:Zwf (ć)
+LOCATION:1003 HIL
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T165000Z
+DTEND:20261119T182500Z
+SUMMARY:Zwf (ć)
+LOCATION:1.15/16
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260121T165000Z
 DTEND:20260121T182500Z
 SUMMARY:Sd. (S)
 LOCATION:4.24 /135
 DESCRIPTION:Seminarium dyplomowe 21\nRodzaj zajęć: Seminarium\nNumer zajęć: 17/17\nProwadzący: dr hab. inż. Miszalski Włodzimierz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T174000Z
+DTEND:20261015T191500Z
+SUMMARY:Zwf (w)
+LOCATION:2.22/135
+DESCRIPTION:Zarządzanie wartością firmy 33\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13
 END:VEVENT
 END:VCALENDAR

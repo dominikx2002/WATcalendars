@@ -494,6 +494,13 @@ LOCATION:
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261116T150000Z
+DTEND:20261116T163500Z
+SUMMARY:Uh (ć)
+LOCATION:42/ 54A
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261207T150000Z
 DTEND:20261207T163500Z
 SUMMARY:ZaMe (ć)
@@ -946,7 +953,7 @@ DTSTART:20260119T085000Z
 DTEND:20260119T102500Z
 SUMMARY:Uh (ć)
 LOCATION:01/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T085000Z
@@ -1037,7 +1044,7 @@ DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:Uh (ć)
 LOCATION:116/ 54
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -1611,7 +1618,7 @@ DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
 SUMMARY:Uh (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
@@ -1912,7 +1919,7 @@ DTSTART:20261223T123000Z
 DTEND:20261223T140500Z
 SUMMARY:Uh (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z
@@ -2872,13 +2879,6 @@ DTEND:20261105T163500Z
 SUMMARY:Ptr (L)
 LOCATION:4c/ 19; 3d/ 19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T150000Z
-DTEND:20261119T163500Z
-SUMMARY:Uh (ć)
-LOCATION:42/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T150000Z

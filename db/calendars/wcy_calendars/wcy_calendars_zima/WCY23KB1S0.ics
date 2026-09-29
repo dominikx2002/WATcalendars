@@ -2062,6 +2062,13 @@ LOCATION:AW 7
 DESCRIPTION:Regulaminy SZ RP - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261002T113000Z
+DTEND:20261002T130500Z
+SUMMARY:Miar (w)
+LOCATION:309 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261002T174000Z
 DTEND:20261002T191500Z
 SUMMARY:- (S.Sz.W.)
@@ -2080,7 +2087,7 @@ DTSTART:20261005T075000Z
 DTEND:20261005T092500Z
 SUMMARY:Miar (w)
 LOCATION:308 S
-DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T094000Z
@@ -2249,13 +2256,6 @@ DTEND:20261013T092500Z
 SUMMARY:BbD (w)
 LOCATION:317 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. Bolesław Szafrański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T111500Z
-SUMMARY:Miar (w)
-LOCATION:309 S
-DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T140000Z
@@ -2538,13 +2538,6 @@ LOCATION:309 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T123000Z
-DTEND:20261027T140500Z
-SUMMARY:Miar (w)
-LOCATION:309 S
-DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
 SUMMARY:Ps (w)
@@ -2629,6 +2622,13 @@ LOCATION:233 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNumer zajęć: 3/5\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261030T150000Z
+DTEND:20261030T163500Z
+SUMMARY:Miar (w)
+LOCATION:314 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261030T184000Z
 DTEND:20261030T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -2685,13 +2685,6 @@ LOCATION:309 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261103T085000Z
-DTEND:20261103T102500Z
-SUMMARY:Miar (w)
-LOCATION:309 S
-DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
 SUMMARY:Mspb (w)
@@ -2739,6 +2732,13 @@ DTEND:20261104T140500Z
 SUMMARY:Tuim (w)
 LOCATION:307 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T150000Z
+DTEND:20261104T163500Z
+SUMMARY:Miar (w)
+LOCATION:314 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
@@ -3497,13 +3497,6 @@ LOCATION:223 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261211T070000Z
-DTEND:20261211T083500Z
-SUMMARY:MPH (ć)
-LOCATION:203 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261211T085000Z
 DTEND:20261211T102500Z
 SUMMARY:WF (ć)
@@ -3592,7 +3585,7 @@ DTSTART:20261216T085000Z
 DTEND:20261216T102500Z
 SUMMARY:MPH (ć)
 LOCATION:204 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: -
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T104000Z
@@ -3788,7 +3781,7 @@ DTSTART:20270107T123000Z
 DTEND:20270107T140500Z
 SUMMARY:MPH (ć)
 LOCATION:204 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: -
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T085000Z
@@ -3942,7 +3935,7 @@ DTSTART:20270115T070000Z
 DTEND:20270115T083500Z
 SUMMARY:MPH (ć)
 LOCATION:203 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: -
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T085000Z
@@ -4061,7 +4054,7 @@ DTSTART:20270122T070000Z
 DTEND:20270122T083500Z
 SUMMARY:MPH (ć)
 LOCATION:203 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: -
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270122T085000Z
@@ -4167,6 +4160,13 @@ DTEND:20270128T140500Z
 SUMMARY:SQL (L)
 LOCATION:226 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T070000Z
+DTEND:20270129T083500Z
+SUMMARY:MPH (ć)
+LOCATION:203 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T085000Z

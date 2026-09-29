@@ -74,6 +74,13 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261116T085000Z
+DTEND:20261116T102500Z
+SUMMARY:Bpm (w)
+LOCATION:6/ 23A
+DESCRIPTION:Budowa pojazdów mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261123T085000Z
 DTEND:20261123T102500Z
 SUMMARY:Ilog (w)
@@ -1667,7 +1674,7 @@ DTSTART:20261022T060000Z
 DTEND:20261022T073500Z
 SUMMARY:Bpm (w)
 LOCATION:6/ 23A
-DESCRIPTION:Budowa pojazdów mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
+DESCRIPTION:Budowa pojazdów mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z
@@ -1749,13 +1756,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T075000Z
 DTEND:20261001T092500Z
-SUMMARY:Bpm (w)
-LOCATION:6/ 23A
-DESCRIPTION:Budowa pojazdów mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T075000Z
-DTEND:20261008T092500Z
 SUMMARY:Bpm (w)
 LOCATION:6/ 23A
 DESCRIPTION:Budowa pojazdów mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław

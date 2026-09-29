@@ -144,18 +144,11 @@ LOCATION:5/ 19
 DESCRIPTION:Bazy i stacje paliw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261116T085000Z
-DTEND:20261116T102500Z
-SUMMARY:PeUT (ć)
-LOCATION:20/ 68
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261123T085000Z
 DTEND:20261123T102500Z
 SUMMARY:PeUT (ć)
 LOCATION:20/ 68
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T085000Z
@@ -813,7 +806,7 @@ DTSTART:20261222T085000Z
 DTEND:20261222T102500Z
 SUMMARY:PeUT (ć)
 LOCATION:2/ 68
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T085000Z
@@ -1044,7 +1037,7 @@ DTSTART:20260112T123000Z
 DTEND:20260112T140500Z
 SUMMARY:PeUT (ć)
 LOCATION:2/ 68
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T123000Z
@@ -1068,18 +1061,11 @@ LOCATION:15/ 23A
 DESCRIPTION:Transport ładunków 2\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T140000Z
-DTEND:20261006T153500Z
-SUMMARY:E-L (w)
-LOCATION:2/ 23A
-DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Waśniewski Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T150000Z
 DTEND:20261027T163500Z
 SUMMARY:E-L (w)
 LOCATION:15/ 23A
-DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Waśniewski Tomasz
+DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Waśniewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -1226,14 +1212,14 @@ DTSTART:20261202T070000Z
 DTEND:20261202T083500Z
 SUMMARY:PeUT (ć)
 LOCATION:301/ S
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:PeUT (ć)
 LOCATION:301/ S
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T070000Z
@@ -1325,6 +1311,13 @@ DTEND:20261125T102500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 5/221
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T085000Z
+DTEND:20261202T102500Z
+SUMMARY:PeUT (ć)
+LOCATION:301/ S
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T085000Z
@@ -2122,13 +2115,20 @@ DTSTART:20261015T140000Z
 DTEND:20261015T153500Z
 SUMMARY:E-L (w)
 LOCATION:2/ 23A
-DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Waśniewski Tomasz
+DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Waśniewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T140000Z
 DTEND:20261022T153500Z
 SUMMARY:E-L (w)
 LOCATION:2/ 23A
+DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Waśniewski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T150000Z
+DTEND:20261112T163500Z
+SUMMARY:E-L (w)
+LOCATION:15/ 23A
 DESCRIPTION:E-logistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Waśniewski Tomasz
 END:VEVENT
 BEGIN:VEVENT

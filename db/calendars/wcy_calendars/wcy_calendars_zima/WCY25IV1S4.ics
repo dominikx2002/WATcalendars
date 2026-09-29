@@ -81,6 +81,13 @@ LOCATION:223 S
 DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261014T075000Z
+DTEND:20261014T092500Z
+SUMMARY:Sbay (w)
+LOCATION:228 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261014T094000Z
 DTEND:20261014T111500Z
 SUMMARY:No (w)
@@ -144,11 +151,18 @@ LOCATION:223 S
 DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:Clc (L)
+LOCATION:228 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
-SUMMARY:Sbay (w)
+SUMMARY:Clc (L)
 LOCATION:228 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T094000Z
@@ -253,14 +267,14 @@ DTSTART:20261104T070000Z
 DTEND:20261104T083500Z
 SUMMARY:Clc (L)
 LOCATION:226 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
 DTEND:20261104T102500Z
 SUMMARY:Clc (L)
 LOCATION:226 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T104000Z
@@ -659,14 +673,14 @@ DTSTART:20261207T085000Z
 DTEND:20261207T102500Z
 SUMMARY:Clc (L)
 LOCATION:237 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T104000Z
 DTEND:20261207T121500Z
 SUMMARY:Clc (L)
 LOCATION:237 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T123000Z
@@ -753,6 +767,20 @@ LOCATION:223 S
 DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261214T150000Z
+DTEND:20261214T163500Z
+SUMMARY:Sbay (L)
+LOCATION:236 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T165000Z
+DTEND:20261214T182500Z
+SUMMARY:Sbay (L)
+LOCATION:236 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261215T070000Z
 DTEND:20261215T083500Z
 SUMMARY:Tdst (L)
@@ -834,14 +862,14 @@ DTSTART:20261218T070000Z
 DTEND:20261218T083500Z
 SUMMARY:Clc (L)
 LOCATION:228 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T085000Z
 DTEND:20261218T102500Z
 SUMMARY:Clc (L)
 LOCATION:228 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T070000Z
@@ -855,14 +883,14 @@ DTSTART:20261221T085000Z
 DTEND:20261221T102500Z
 SUMMARY:Sbay (L)
 LOCATION:226 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T104000Z
 DTEND:20261221T121500Z
 SUMMARY:Sbay (L)
 LOCATION:226 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T123000Z
@@ -911,7 +939,7 @@ DTSTART:20261223T085000Z
 DTEND:20261223T102500Z
 SUMMARY:Clc (L)
 LOCATION:226 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T104000Z
@@ -954,20 +982,6 @@ DTEND:20270107T140500Z
 SUMMARY:UzW (L)
 LOCATION:226 S
 DESCRIPTION:Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270112T070000Z
-DTEND:20270112T083500Z
-SUMMARY:Clc (L)
-LOCATION:224 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270112T085000Z
-DTEND:20270112T102500Z
-SUMMARY:Clc (L)
-LOCATION:224 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T104000Z
@@ -1080,20 +1094,6 @@ DTEND:20270120T102500Z
 SUMMARY:Mispb (L)
 LOCATION:223 S
 DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270120T104000Z
-DTEND:20270120T121500Z
-SUMMARY:Sbay (L)
-LOCATION:224 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270120T123000Z
-DTEND:20270120T140500Z
-SUMMARY:Sbay (L)
-LOCATION:224 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T070000Z

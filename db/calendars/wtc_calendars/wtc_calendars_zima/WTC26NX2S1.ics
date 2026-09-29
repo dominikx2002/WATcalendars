@@ -165,6 +165,20 @@ LOCATION:
 DESCRIPTION:Inauguracja WTC\nRodzaj zajęć: i\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261019T094000Z
+DTEND:20261019T111500Z
+SUMMARY:M1 (ć)
+LOCATION:116 45
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/19\nProwadzący: mgr Brzozowska Iwona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T104000Z
+DTEND:20261026T121500Z
+SUMMARY:M1 (ć)
+LOCATION:3.3 75
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/19\nProwadzący: mgr Brzozowska Iwona
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261214T104000Z
 DTEND:20261214T121500Z
 SUMMARY:WdI (L)
@@ -179,53 +193,60 @@ LOCATION:11/ 34
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260118T104000Z
+DTEND:20260118T121500Z
+SUMMARY:Mat2 (ć)
+LOCATION:3.3 75
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/17\nProwadzący: mgr Brzozowska Iwona
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261116T123000Z
 DTEND:20261116T140500Z
 SUMMARY:Mat2 (ć)
 LOCATION:103 61
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T123000Z
 DTEND:20261123T140500Z
 SUMMARY:Mat2 (ć)
 LOCATION:103 61
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T123000Z
 DTEND:20261130T140500Z
 SUMMARY:Mat2 (ć)
 LOCATION:16 57
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T123000Z
 DTEND:20261207T140500Z
 SUMMARY:Mat2 (ć)
 LOCATION:117 47
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T123000Z
 DTEND:20261214T140500Z
 SUMMARY:Mat2 (ć)
 LOCATION:3.3 75
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T123000Z
 DTEND:20261221T140500Z
 SUMMARY:Mat2 (ć)
 LOCATION:3.7 75
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T123000Z
 DTEND:20260111T140500Z
 SUMMARY:Mat2 (ć)
 LOCATION:17 57
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T150000Z
@@ -463,7 +484,7 @@ DTSTART:20260126T104000Z
 DTEND:20260126T121500Z
 SUMMARY:Mat2 (ć)
 LOCATION:116 45
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T113000Z
@@ -534,6 +555,13 @@ DTEND:20261215T140500Z
 SUMMARY:PGI (ć)
 LOCATION:26/ 34
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/18\nProwadzący: dr inż. Łyszkowski Radosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T123000Z
+DTEND:20260119T140500Z
+SUMMARY:Mat2 (ć)
+LOCATION:309 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T123000Z
@@ -648,95 +676,60 @@ LOCATION:11/ 34
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/18\nProwadzący: dr inż. Łyszkowski Radosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T085000Z
-DTEND:20261125T102500Z
-SUMMARY:Mat2 (ć)
-LOCATION:19 63
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: mgr Brzozowska Iwona
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260120T085000Z
-DTEND:20260120T102500Z
-SUMMARY:Mat2 (ć)
-LOCATION:110/ 14
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: mgr Brzozowska Iwona
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261014T094000Z
-DTEND:20261014T111500Z
-SUMMARY:M1 (ć)
-LOCATION:204 65
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/19\nProwadzący: mgr Brzozowska Iwona
+DTSTART:20261223T085000Z
+DTEND:20261223T102500Z
+SUMMARY:WDM (ć)
+LOCATION:11/ 34
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T094000Z
 DTEND:20261021T111500Z
 SUMMARY:M1 (ć)
 LOCATION:20 63
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/19\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/19\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T104000Z
 DTEND:20261028T121500Z
 SUMMARY:M1 (ć)
 LOCATION:11 57
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/19\nProwadzący: mgr Brzozowska Iwona
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261104T104000Z
-DTEND:20261104T121500Z
-SUMMARY:M1 (ć)
-LOCATION:28 69
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19\nProwadzący: mgr Brzozowska Iwona
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T104000Z
-DTEND:20261118T121500Z
-SUMMARY:M1 (ć)
-LOCATION:14 57
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T104000Z
 DTEND:20261125T121500Z
 SUMMARY:WDM (ć)
 LOCATION:11/ 34
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. Zarański Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261209T104000Z
-DTEND:20261209T121500Z
-SUMMARY:Mat2 (ć)
-LOCATION:116 45
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T104000Z
 DTEND:20261223T121500Z
 SUMMARY:WDM (ć)
 LOCATION:11/ 34
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. Zarański Zbigniew
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T104000Z
 DTEND:20260113T121500Z
 SUMMARY:WDM (ć)
 LOCATION:11/ 34
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr inż. Zarański Zbigniew
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T104000Z
 DTEND:20260120T121500Z
 SUMMARY:WDM (ć)
 LOCATION:11/ 34
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr inż. Zarański Zbigniew
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T104000Z
 DTEND:20260127T121500Z
 SUMMARY:WDM (ć)
 LOCATION:11/ 34
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr inż. Zarański Zbigniew
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T113000Z
@@ -820,7 +813,7 @@ DTSTART:20260113T123000Z
 DTEND:20260113T140500Z
 SUMMARY:Mat2 (ć)
 LOCATION:203 65
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T123000Z
@@ -1033,6 +1026,13 @@ LOCATION:131 K;128 K;127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261112T085000Z
+DTEND:20261112T102500Z
+SUMMARY:M1 (ć)
+LOCATION:41 36
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19\nProwadzący: mgr Brzozowska Iwona
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261126T085000Z
 DTEND:20261126T102500Z
 SUMMARY:M1 (ć)
@@ -1051,7 +1051,7 @@ DTSTART:20260114T085000Z
 DTEND:20260114T102500Z
 SUMMARY:WDM (ć)
 LOCATION:11/ 34
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. Zarański Zbigniew
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T085000Z
@@ -1107,112 +1107,112 @@ DTSTART:20260128T104000Z
 DTEND:20260128T121500Z
 SUMMARY:Mat2 (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z
 DTEND:20261008T130500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T113000Z
 DTEND:20261015T130500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T113000Z
 DTEND:20261022T130500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T123000Z
 DTEND:20261029T140500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T123000Z
 DTEND:20261105T140500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T123000Z
 DTEND:20261112T140500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T123000Z
 DTEND:20261119T140500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T123000Z
 DTEND:20261126T140500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T123000Z
 DTEND:20261203T140500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T123000Z
 DTEND:20261217T140500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T123000Z
 DTEND:20260107T140500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T123000Z
 DTEND:20260114T140500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T123000Z
 DTEND:20260121T140500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T123000Z
 DTEND:20260128T140500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: mgr Rybak Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T140000Z
@@ -1355,25 +1355,18 @@ LOCATION:166 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: mgr Łukasik Sebastian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261106T070000Z
-DTEND:20261106T083500Z
-SUMMARY:M1 (ć)
-LOCATION:201 65
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: mgr Brzozowska Iwona
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260108T070000Z
 DTEND:20260108T083500Z
 SUMMARY:Mat2 (ć)
 LOCATION:55/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T070000Z
 DTEND:20260115T083500Z
 SUMMARY:Mat2 (ć)
 LOCATION:55/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T070000Z
@@ -1401,7 +1394,7 @@ DTSTART:20261204T085000Z
 DTEND:20261204T102500Z
 SUMMARY:WDM (ć)
 LOCATION:11/ 34
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr inż. Zarański Zbigniew
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T085000Z
@@ -1409,13 +1402,6 @@ DTEND:20261211T102500Z
 SUMMARY:PGI (ć)
 LOCATION:26/ 34
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/18\nProwadzący: dr inż. Łyszkowski Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261218T085000Z
-DTEND:20261218T102500Z
-SUMMARY:WDM (ć)
-LOCATION:11/ 34
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T085000Z
@@ -1443,14 +1429,21 @@ DTSTART:20261023T094000Z
 DTEND:20261023T111500Z
 SUMMARY:M1 (ć)
 LOCATION:118 45
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/19\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T104000Z
 DTEND:20261030T121500Z
 SUMMARY:M1 (ć)
 LOCATION:109 24
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/19\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/19\nProwadzący: mgr Brzozowska Iwona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T104000Z
+DTEND:20261106T121500Z
+SUMMARY:Mat2 (ć)
+LOCATION:203 65
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T104000Z
@@ -1478,7 +1471,7 @@ DTSTART:20261211T104000Z
 DTEND:20261211T121500Z
 SUMMARY:M1 (ć)
 LOCATION:117 57
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/19\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T104000Z
@@ -1499,7 +1492,7 @@ DTSTART:20261016T113000Z
 DTEND:20261016T130500Z
 SUMMARY:M1 (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/19\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T113000Z
@@ -1514,6 +1507,13 @@ DTEND:20261030T140500Z
 SUMMARY:WdI (w)
 LOCATION:aF S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Bareła Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T123000Z
+DTEND:20261106T140500Z
+SUMMARY:M1 (ć)
+LOCATION:315b S
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/19\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T123000Z

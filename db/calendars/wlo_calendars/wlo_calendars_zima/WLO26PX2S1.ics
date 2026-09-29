@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO26PX2S1
 BEGIN:VEVENT
+DTSTART:20261130T070000Z
+DTEND:20261130T083500Z
+SUMMARY:WdI (L)
+LOCATION:1.15/16
+DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260111T070000Z
 DTEND:20260111T083500Z
 SUMMARY:Ez (w)
@@ -749,8 +756,8 @@ BEGIN:VEVENT
 DTSTART:20261014T094000Z
 DTEND:20261014T111500Z
 SUMMARY:Psy (w)
-LOCATION:7a
-DESCRIPTION:Psychologia 37\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Karczewski Edward 38
+LOCATION:
+DESCRIPTION:Psychologia 37\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Karczewski Edward 38; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T094000Z
@@ -828,6 +835,13 @@ DTEND:20261029T083500Z
 SUMMARY:Ek (w)
 LOCATION:aula/135
 DESCRIPTION:Ekonomia 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: prof. dr hab. Kościelecki Lech 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T070000Z
+DTEND:20261105T083500Z
+SUMMARY:WdI (L)
+LOCATION:0.22/16
+DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T070000Z
@@ -1173,25 +1187,18 @@ LOCATION:0.22/16
 DESCRIPTION:Ekonomia 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261023T060000Z
-DTEND:20261023T073500Z
-SUMMARY:WdI (L)
-LOCATION:1.15/16
-DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261030T070000Z
 DTEND:20261030T083500Z
 SUMMARY:WdI (L)
 LOCATION:0.6/16
-DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9
+DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T070000Z
 DTEND:20261106T083500Z
 SUMMARY:WdI (L)
 LOCATION:1.15/16
-DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9
+DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T070000Z
@@ -1355,13 +1362,6 @@ LOCATION:26PX; 1S; 26PX; 2S; 26PX; 3S; 26PX; 4S; 1 WoJ; 7a
 DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 7/23\nProwadzący: prof. dr hab. Kościelecki Lech 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261002T094000Z
-DTEND:20261002T111500Z
-SUMMARY:WdI (L)
-LOCATION:0.22/16
-DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261009T094000Z
 DTEND:20261009T111500Z
 SUMMARY:WdI (w)
@@ -1460,25 +1460,18 @@ LOCATION:26PX; 3S; 26PX; 2S; 26PX; 1S; 26PX; 4S; 1 TZ; 7a
 DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 24/24\nProwadzący: prof. dr hab. Kościelecki Lech 2; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261002T113000Z
-DTEND:20261002T130500Z
-SUMMARY:WdI (L)
-LOCATION:0.22/16
-DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261009T113000Z
 DTEND:20261009T130500Z
 SUMMARY:WdI (L)
 LOCATION:0.7/16
-DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
+DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T113000Z
 DTEND:20261016T130500Z
 SUMMARY:WdI (L)
 LOCATION:4.23/135
-DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9
+DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T123000Z
@@ -1486,6 +1479,13 @@ DTEND:20261030T140500Z
 SUMMARY:Historyczne 
 LOCATION:5.21/135
 DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 9/23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T123000Z
+DTEND:20261106T140500Z
+SUMMARY:WdI (L)
+LOCATION:0.22/16
+DESCRIPTION:Wprowadzenie do informatyki 42\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T123000Z

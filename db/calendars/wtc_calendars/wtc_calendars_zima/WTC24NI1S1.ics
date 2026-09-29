@@ -53,13 +53,6 @@ LOCATION:14/ 34
 DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Łyszkowski Radosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260921T075000Z
-DTEND:20260921T092500Z
-SUMMARY:SUM (Ep)
-LOCATION:11/ 34
-DESCRIPTION:Strukturalne uwarunkowania właściwości materiałów\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261026T085000Z
 DTEND:20261026T102500Z
 SUMMARY:SMNŻ (w)
@@ -204,14 +197,14 @@ DTSTART:20261006T060000Z
 DTEND:20261006T073500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T060000Z
 DTEND:20261020T073500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T070000Z
@@ -291,6 +284,13 @@ LOCATION:19/ 34
 DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260112T085000Z
+DTEND:20260112T102500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261006T094000Z
 DTEND:20261006T111500Z
 SUMMARY:KSŻ (w)
@@ -365,28 +365,28 @@ DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T123000Z
 DTEND:20261222T140500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T123000Z
 DTEND:20260112T140500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T150000Z
@@ -394,6 +394,13 @@ DTEND:20261215T163500Z
 SUMMARY:Bn (L)
 LOCATION:15/ 34
 DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T075000Z
@@ -414,7 +421,7 @@ DTSTART:20261104T085000Z
 DTEND:20261104T102500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T085000Z
@@ -428,7 +435,7 @@ DTSTART:20261125T085000Z
 DTEND:20261125T102500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T085000Z
@@ -582,7 +589,7 @@ DTSTART:20260107T104000Z
 DTEND:20260107T121500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T104000Z
@@ -610,7 +617,7 @@ DTSTART:20261126T123000Z
 DTEND:20261126T140500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T123000Z
@@ -743,14 +750,14 @@ DTSTART:20260115T070000Z
 DTEND:20260115T083500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T070000Z
 DTEND:20260122T083500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 14/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T070000Z
@@ -792,7 +799,7 @@ DTSTART:20261030T085000Z
 DTEND:20261030T102500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/13\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 15/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T085000Z

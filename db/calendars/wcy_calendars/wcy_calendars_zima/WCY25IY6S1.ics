@@ -2157,7 +2157,7 @@ DTSTART:20261009T094000Z
 DTEND:20261009T111500Z
 SUMMARY:Als (L)
 LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: Rafał Bogiel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T075000Z
@@ -2227,14 +2227,14 @@ DTSTART:20261015T094000Z
 DTEND:20261015T111500Z
 SUMMARY:Als (L)
 LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: Rafał Bogiel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T113000Z
 DTEND:20261015T130500Z
 SUMMARY:Als (L)
 LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: Rafał Bogiel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T140000Z
@@ -2528,14 +2528,14 @@ DTSTART:20261029T123000Z
 DTEND:20261029T140500Z
 SUMMARY:Als (L)
 LOCATION:233 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: Rafał Bogiel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T150000Z
 DTEND:20261029T163500Z
 SUMMARY:Als (L)
 LOCATION:233 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: Rafał Bogiel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T070000Z
@@ -2899,14 +2899,14 @@ DTSTART:20261120T104000Z
 DTEND:20261120T121500Z
 SUMMARY:Als (L)
 LOCATION:252 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: Rafał Bogiel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T123000Z
 DTEND:20261120T140500Z
 SUMMARY:Als (L)
 LOCATION:252 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: Rafał Bogiel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T085000Z
@@ -3088,14 +3088,14 @@ DTSTART:20261204T104000Z
 DTEND:20261204T121500Z
 SUMMARY:Als (L)
 LOCATION:252 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: Rafał Bogiel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T123000Z
 DTEND:20261204T140500Z
 SUMMARY:Als (L)
 LOCATION:252 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: Rafał Bogiel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T150000Z
@@ -3231,6 +3231,20 @@ LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T070000Z
+DTEND:20261216T083500Z
+SUMMARY:Als (L)
+LOCATION:233 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: Rafał Bogiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:Als (L)
+LOCATION:233 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: Rafał Bogiel
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T104000Z
 DTEND:20261216T121500Z
 SUMMARY:SO (w)
@@ -3250,20 +3264,6 @@ DTEND:20261217T121500Z
 SUMMARY:F2 (ć)
 LOCATION:205 65
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261218T070000Z
-DTEND:20261218T083500Z
-SUMMARY:Als (L)
-LOCATION:236 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: mgr inż. Jarosław Napiórkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261218T085000Z
-DTEND:20261218T102500Z
-SUMMARY:Als (L)
-LOCATION:236 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T150000Z

@@ -445,6 +445,13 @@ LOCATION:1.7/16
 DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: płk mgr inż. Górski Piotr 23
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260126T085000Z
+DTEND:20260126T102500Z
+SUMMARY:MrBr (L)
+LOCATION:6/23A; 7/23A
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: kpt. mgr inż. Żmuda Marcin 17; mgr inż. Mantur Tomasz 21
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260216T085000Z
 DTEND:20260216T102500Z
 SUMMARY:PoMa (Ep)
@@ -771,7 +778,7 @@ DTSTART:20261117T165000Z
 DTEND:20261117T182500Z
 SUMMARY:MrBr (L)
 LOCATION:2/23A; PTW/20; 3/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr inż. Pogorzelski Ireneusz 20; mgr inż. Michałowski Bogusław 19
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Pogorzelski Ireneusz 20; mgr inż. Michałowski Bogusław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T165000Z
@@ -785,21 +792,21 @@ DTSTART:20261215T165000Z
 DTEND:20261215T182500Z
 SUMMARY:MrBr (L)
 LOCATION:2/23A; PTW/20; 3/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Pogorzelski Ireneusz 20; mgr inż. Michałowski Bogusław 19
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Pogorzelski Ireneusz 20; mgr inż. Michałowski Bogusław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T184000Z
 DTEND:20261117T201500Z
 SUMMARY:MrBr (L)
 LOCATION:2/23A; PTW/20; 3/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Pogorzelski Ireneusz 20; mgr inż. Michałowski Bogusław 19
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Pogorzelski Ireneusz 20; mgr inż. Michałowski Bogusław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T184000Z
 DTEND:20261215T201500Z
 SUMMARY:MrBr (L)
 LOCATION:2/23A; PTW/20; 3/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Pogorzelski Ireneusz 20; mgr inż. Michałowski Bogusław 19
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr inż. Pogorzelski Ireneusz 20; mgr inż. Michałowski Bogusław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T060000Z
@@ -1164,13 +1171,6 @@ DTEND:20261223T163500Z
 SUMMARY:MmsM (L)
 LOCATION:1.7/16
 DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: płk mgr inż. Górski Piotr 23
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260127T150000Z
-DTEND:20260127T163500Z
-SUMMARY:MrBr (L)
-LOCATION:6/23A; 7/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 15\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: kpt. mgr inż. Żmuda Marcin 17; mgr inż. Mantur Tomasz 21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T165000Z
