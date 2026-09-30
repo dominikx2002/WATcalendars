@@ -25,13 +25,6 @@ LOCATION:308 S
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T155000Z
-DTEND:20261001T172500Z
-SUMMARY:PZiP (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T094000Z
 DTEND:20261002T111500Z
 SUMMARY:Bpe (w)
@@ -291,18 +284,11 @@ LOCATION:307 S
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T123000Z
-DTEND:20261029T140500Z
-SUMMARY:PZiP (ć)
-LOCATION:236 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261030T070000Z
 DTEND:20261030T083500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T085000Z
@@ -421,7 +407,7 @@ DTSTART:20261106T070000Z
 DTEND:20261106T083500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T123000Z
@@ -442,7 +428,7 @@ DTSTART:20261106T165000Z
 DTEND:20261106T182500Z
 SUMMARY:PZiP (ć)
 LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T070000Z
@@ -519,14 +505,14 @@ DTSTART:20261113T070000Z
 DTEND:20261113T083500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T104000Z
 DTEND:20261113T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T123000Z
@@ -617,14 +603,14 @@ DTSTART:20261119T165000Z
 DTEND:20261119T182500Z
 SUMMARY:PZiP (ć)
 LOCATION:308 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T070000Z
 DTEND:20261120T083500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T104000Z
@@ -632,6 +618,13 @@ DTEND:20261120T121500Z
 SUMMARY:PSy (w)
 LOCATION:316 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T165000Z
+DTEND:20261120T182500Z
+SUMMARY:PZiP (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T104000Z
@@ -932,7 +925,7 @@ DTSTART:20261211T165000Z
 DTEND:20261211T182500Z
 SUMMARY:PZiP (ć)
 LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T123000Z
@@ -988,7 +981,7 @@ DTSTART:20261217T150000Z
 DTEND:20261217T163500Z
 SUMMARY:PZiP (ć)
 LOCATION:308 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T165000Z
@@ -1170,7 +1163,7 @@ DTSTART:20270114T070000Z
 DTEND:20270114T083500Z
 SUMMARY:PZiP (ć)
 LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T070000Z
@@ -1229,6 +1222,13 @@ LOCATION:106 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270121T104000Z
+DTEND:20270121T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:314 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270121T123000Z
 DTEND:20270121T140500Z
 SUMMARY:PBI (L)
@@ -1248,13 +1248,6 @@ DTEND:20270121T182500Z
 SUMMARY:PSy (L)
 LOCATION:223 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Stanisław Skrzypecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270122T070000Z
-DTEND:20270122T083500Z
-SUMMARY:PZiP (w)
-LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270122T085000Z
@@ -1325,5 +1318,12 @@ DTEND:20270129T102500Z
 SUMMARY:Nsk (ć)
 LOCATION:316 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T150000Z
+DTEND:20270129T163500Z
+SUMMARY:PZiP (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

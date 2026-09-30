@@ -783,16 +783,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T104000Z
 DTEND:20260131T121500Z
-SUMMARY:PTS* (w)
+SUMMARY:Brd (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Giszczak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260221T104000Z
 DTEND:20260221T121500Z
 SUMMARY:Brd (w)
 LOCATION:15/ 23A
-DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Giszczak Jacek
+DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Giszczak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260314T104000Z
@@ -832,9 +832,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T123000Z
 DTEND:20261122T140500Z
-SUMMARY:Brd (w)
+SUMMARY:PTS* (w)
 LOCATION:15/ 23A
-DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Giszczak Jacek
+DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T123000Z
@@ -853,9 +853,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T123000Z
 DTEND:20260131T140500Z
-SUMMARY:PTS* (w)
+SUMMARY:Brd (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Giszczak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260221T123000Z
@@ -897,21 +897,21 @@ DTSTART:20261025T150000Z
 DTEND:20261025T163500Z
 SUMMARY:PTS* (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T150000Z
 DTEND:20261122T163500Z
-SUMMARY:Brd (w)
-LOCATION:15/ 23A
-DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Giszczak Jacek
+SUMMARY:S.D. (S)
+LOCATION:2/ 23A; 3/ 23A; 6/ 23A
+DESCRIPTION:Seminarium Dyplomowe.\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Seńko Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T150000Z
 DTEND:20261213T163500Z
-SUMMARY:S.D. (S)
+SUMMARY:PTS* (w)
 LOCATION:
-DESCRIPTION:Seminarium Dyplomowe.\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Seńko Jarosław
+DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T150000Z

@@ -417,13 +417,6 @@ LOCATION:116/ 54
 DESCRIPTION:Komunikacja i podstawy negocjacji\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261214T123000Z
-DTEND:20261214T140500Z
-SUMMARY:OPST (S)
-LOCATION:1/ 19
-DESCRIPTION:Organizacja parku sprzętu technicznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: mgr inż. Szpak Roman
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261228T123000Z
 DTEND:20261228T140500Z
 SUMMARY:I 
@@ -2480,6 +2473,13 @@ DTEND:20261231T102500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 54/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T085000Z
+DTEND:20260107T102500Z
+SUMMARY:OPST (S)
+LOCATION:5/ 20
+DESCRIPTION:Organizacja parku sprzętu technicznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T085000Z

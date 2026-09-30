@@ -1428,7 +1428,7 @@ BEGIN:VEVENT
 DTSTART:20261014T113000Z
 DTEND:20261014T130500Z
 SUMMARY:PLm (w)
-LOCATION:6/ 23A
+LOCATION:8/ 62
 DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -1528,6 +1528,13 @@ DTEND:20261007T153500Z
 SUMMARY:PLm (ć)
 LOCATION:54/ 62
 DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Orłowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T140000Z
+DTEND:20261014T153500Z
+SUMMARY:LZ (w)
+LOCATION:51/ 62
+DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T150000Z
@@ -2136,25 +2143,18 @@ DTSTART:20261001T140000Z
 DTEND:20261001T153500Z
 SUMMARY:LZ (w)
 LOCATION:301/ S
-DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: płk dr inż. Zelkowski Jarosław
+DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T140000Z
 DTEND:20261008T153500Z
 SUMMARY:LZ (w)
 LOCATION:301/ S
-DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: płk dr inż. Zelkowski Jarosław
+DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T140000Z
 DTEND:20261015T153500Z
-SUMMARY:LZ (w)
-LOCATION:301/ S
-DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: płk dr inż. Zelkowski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T140000Z
-DTEND:20261022T153500Z
 SUMMARY:LZ (w)
 LOCATION:301/ S
 DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: płk dr inż. Zelkowski Jarosław

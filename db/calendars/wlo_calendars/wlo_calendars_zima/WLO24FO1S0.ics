@@ -1677,6 +1677,13 @@ LOCATION:4.23/135
 DESCRIPTION:Budowa środków transportu 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr inż. Radzimierski Mariusz 4
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261029T123000Z
+DTEND:20261029T140500Z
+SUMMARY:MrBr (ć)
+LOCATION:6/23A
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 21\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: kpt. mgr inż. Żmuda Marcin 23
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T123000Z
 DTEND:20261112T140500Z
 SUMMARY:PIW (w)
@@ -1702,7 +1709,7 @@ DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
 SUMMARY:MrBr (ć)
 LOCATION:4/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 21\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: kpt. mgr inż. Żmuda Marcin 23
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 21\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: kpt. mgr inż. Żmuda Marcin 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T123000Z
@@ -1997,13 +2004,6 @@ DTEND:20260122T140500Z
 SUMMARY:PoTe (S)
 LOCATION:4.17b/135
 DESCRIPTION:Podsystem techniczny 51\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr inż. Nagrabski Dariusz 52
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260129T123000Z
-DTEND:20260129T140500Z
-SUMMARY:MrBr (ć)
-LOCATION:7/23A
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego 21\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: kpt. mgr inż. Żmuda Marcin 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T150000Z

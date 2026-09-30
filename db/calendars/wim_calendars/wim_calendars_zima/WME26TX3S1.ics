@@ -1334,13 +1334,6 @@ LOCATION:53/ 62
 DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T113000Z
-DTEND:20261014T130500Z
-SUMMARY:M1 (w)
-LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr Prusińska Agnieszka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261028T123000Z
 DTEND:20261028T140500Z
 SUMMARY:PGI (ć)
@@ -1660,14 +1653,14 @@ DTSTART:20261015T075000Z
 DTEND:20261015T092500Z
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T085000Z
 DTEND:20261029T102500Z
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T085000Z
@@ -1688,7 +1681,7 @@ DTSTART:20261119T085000Z
 DTEND:20261119T102500Z
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z
@@ -1716,7 +1709,7 @@ DTSTART:20261217T085000Z
 DTEND:20261217T102500Z
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T085000Z
@@ -1807,7 +1800,7 @@ DTSTART:20261029T104000Z
 DTEND:20261029T121500Z
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
@@ -1906,6 +1899,13 @@ DTEND:20260527T111500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 58/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261008T113000Z
+DTEND:20261008T130500Z
+SUMMARY:M1 (w)
+LOCATION:51/ 62
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T113000Z

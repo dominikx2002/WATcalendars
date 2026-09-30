@@ -991,32 +991,11 @@ LOCATION:110/ 14
 DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: płk dr hab. inż. Kula Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T150000Z
-DTEND:20261027T163500Z
-SUMMARY:Pmc (w)
-LOCATION:2 55A
-DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: ppłk dr inż. Grabka Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T150000Z
-DTEND:20261110T163500Z
-SUMMARY:Pmc (w)
-LOCATION:2 55A
-DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: ppłk dr inż. Grabka Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T150000Z
 DTEND:20261124T163500Z
 SUMMARY:50% Mwy
 LOCATION:ć
 DESCRIPTION:50%\nRodzaj zajęć: Mwy\nNumer zajęć: 1/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T150000Z
-DTEND:20261201T163500Z
-SUMMARY:Pmc (w)
-LOCATION:1 55A
-DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: ppłk dr inż. Grabka Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T150000Z
@@ -1100,7 +1079,7 @@ DTSTART:20261021T060000Z
 DTEND:20261021T073500Z
 SUMMARY:Pmc (w)
 LOCATION:2 55A
-DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: ppłk dr inż. Grabka Michał
+DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: ppłk dr inż. Grabka Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T070000Z
@@ -1114,7 +1093,7 @@ DTSTART:20261104T070000Z
 DTEND:20261104T083500Z
 SUMMARY:Pmc (w)
 LOCATION:2 55A
-DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: ppłk dr inż. Grabka Michał
+DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: ppłk dr inż. Grabka Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T070000Z
@@ -1135,7 +1114,7 @@ DTSTART:20261202T070000Z
 DTEND:20261202T083500Z
 SUMMARY:Pmc (w)
 LOCATION:2 55A
-DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: ppłk dr inż. Grabka Michał
+DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: ppłk dr inż. Grabka Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
@@ -1394,7 +1373,7 @@ DTSTART:20261028T123000Z
 DTEND:20261028T140500Z
 SUMMARY:Pmc (w)
 LOCATION:2 55A
-DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: ppłk dr inż. Grabka Michał
+DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: ppłk dr inż. Grabka Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T123000Z
@@ -1891,7 +1870,7 @@ DTSTART:20261022T094000Z
 DTEND:20261022T111500Z
 SUMMARY:Pmc (w)
 LOCATION:2 55A
-DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: ppłk dr inż. Grabka Michał
+DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: ppłk dr inż. Grabka Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -2592,6 +2571,27 @@ DTEND:20261016T153500Z
 SUMMARY:DSiSM (w)
 LOCATION:103 K
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; ppłk mgr Misiejuk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T150000Z
+DTEND:20261030T163500Z
+SUMMARY:Pmc (w)
+LOCATION:2 55A
+DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: ppłk dr inż. Grabka Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T150000Z
+DTEND:20261113T163500Z
+SUMMARY:Pmc (w)
+LOCATION:2 55A
+DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: ppłk dr inż. Grabka Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T150000Z
+DTEND:20261204T163500Z
+SUMMARY:Pmc (w)
+LOCATION:1 55A
+DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: ppłk dr inż. Grabka Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T150000Z

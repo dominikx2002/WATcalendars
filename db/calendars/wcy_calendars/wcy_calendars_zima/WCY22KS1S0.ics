@@ -3399,6 +3399,13 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261207T070000Z
+DTEND:20261207T083500Z
+SUMMARY:Stg (L)
+LOCATION:218 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261207T085000Z
 DTEND:20261207T102500Z
 SUMMARY:Stg (w)
@@ -3525,6 +3532,13 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261214T070000Z
+DTEND:20261214T083500Z
+SUMMARY:Stg (L)
+LOCATION:218 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261214T085000Z
 DTEND:20261214T102500Z
 SUMMARY:Stg (w)
@@ -3557,7 +3571,7 @@ DTSTART:20261215T070000Z
 DTEND:20261215T083500Z
 SUMMARY:Stg (L)
 LOCATION:218 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T085000Z
@@ -3711,7 +3725,7 @@ DTSTART:20261221T123000Z
 DTEND:20261221T140500Z
 SUMMARY:Stg (L)
 LOCATION:218 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T150000Z
@@ -3915,20 +3929,6 @@ DTEND:20270116T102500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/28\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270118T070000Z
-DTEND:20270118T083500Z
-SUMMARY:Stg (L)
-LOCATION:218 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr inż. Kamil Kaczyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270118T085000Z
-DTEND:20270118T102500Z
-SUMMARY:Stg (L)
-LOCATION:218 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T104000Z

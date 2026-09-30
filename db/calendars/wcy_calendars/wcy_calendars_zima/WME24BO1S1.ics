@@ -3133,6 +3133,20 @@ LOCATION:6/ 23A
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261019T140000Z
+DTEND:20261019T153500Z
+SUMMARY:App (L)
+LOCATION:7/ 23A 6/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T155000Z
+DTEND:20261019T172500Z
+SUMMARY:App (L)
+LOCATION:5/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261020T060000Z
 DTEND:20261020T073500Z
 SUMMARY:App (w)
@@ -3278,6 +3292,20 @@ DTEND:20261026T140500Z
 SUMMARY:OPT (w)
 LOCATION:12 46
 DESCRIPTION:Optyka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T150000Z
+DTEND:20261026T163500Z
+SUMMARY:App (L)
+LOCATION:7/ 23A 5/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T165000Z
+DTEND:20261026T182500Z
+SUMMARY:App (L)
+LOCATION:5/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T070000Z
@@ -3704,14 +3732,21 @@ DTSTART:20261109T123000Z
 DTEND:20261109T140500Z
 SUMMARY:App (L)
 LOCATION:3/ 23A 7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: -
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T150000Z
 DTEND:20261109T163500Z
 SUMMARY:App (L)
 LOCATION:3/ 23A 7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: -
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T165000Z
+DTEND:20261109T182500Z
+SUMMARY:App (L)
+LOCATION:5/ 23A 6/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T070000Z
@@ -4194,21 +4229,21 @@ DTSTART:20261130T085000Z
 DTEND:20261130T102500Z
 SUMMARY:App (L)
 LOCATION:Wyjazd
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: -
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T104000Z
 DTEND:20261130T121500Z
 SUMMARY:App (L)
 LOCATION:Wyjazd
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: -
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T123000Z
 DTEND:20261130T140500Z
 SUMMARY:App (L)
 LOCATION:Wyjazd
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: -
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T150000Z
@@ -4230,20 +4265,6 @@ DTEND:20261201T140500Z
 SUMMARY:Par (w)
 LOCATION:301/ S
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T070000Z
-DTEND:20261202T083500Z
-SUMMARY:App (L)
-LOCATION:3/ 23A 7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T085000Z
-DTEND:20261202T102500Z
-SUMMARY:App (L)
-LOCATION:3/ 23A 7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T104000Z
@@ -4410,8 +4431,15 @@ BEGIN:VEVENT
 DTSTART:20261208T150000Z
 DTEND:20261208T163500Z
 SUMMARY:App (L)
-LOCATION:5/ 23A 6/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: -
+LOCATION:3/ 23A 7/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T165000Z
+DTEND:20261208T182500Z
+SUMMARY:App (L)
+LOCATION:3/ 23A 7/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
@@ -4589,13 +4617,6 @@ LOCATION:21 46
 DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T150000Z
-DTEND:20261215T163500Z
-SUMMARY:App (L)
-LOCATION:5/ 23A 6/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:Dso (w)
@@ -4771,18 +4792,11 @@ LOCATION:21 46
 DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261222T150000Z
-DTEND:20261222T163500Z
-SUMMARY:App (L)
-LOCATION:5/ 23A 6/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261222T165000Z
 DTEND:20261222T182500Z
 SUMMARY:App (L)
 LOCATION:5/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: -
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z

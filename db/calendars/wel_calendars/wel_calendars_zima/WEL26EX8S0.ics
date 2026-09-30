@@ -466,6 +466,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne 78\nRodzaj zajęć: -\nProwadzący: mgr Lipka Mateusz 79
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261110T070000Z
+DTEND:20261110T083500Z
+SUMMARY:PGI 
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:WF 
@@ -816,20 +823,6 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB 56\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T150000Z
-DTEND:20261118T163500Z
-SUMMARY:PGI 
-LOCATION:11845
-DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261125T150000Z
-DTEND:20261125T163500Z
-SUMMARY:PGI 
-LOCATION:11845
-DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260127T150000Z
 DTEND:20260127T163500Z
 SUMMARY:PGI 
@@ -1094,6 +1087,13 @@ DTEND:20260108T121500Z
 SUMMARY:WDM 
 LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii 73\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kuchta Marek 74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T104000Z
+DTEND:20260115T121500Z
+SUMMARY:PGI 
+LOCATION:1547
+DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T104000Z

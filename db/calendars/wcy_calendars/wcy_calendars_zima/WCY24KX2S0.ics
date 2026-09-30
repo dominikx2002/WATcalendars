@@ -1971,13 +1971,6 @@ LOCATION:316 S
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T155000Z
-DTEND:20261001T172500Z
-SUMMARY:PZiP (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T060000Z
 DTEND:20261002T073500Z
 SUMMARY:BD (Inne)
@@ -2465,7 +2458,7 @@ DTSTART:20261030T070000Z
 DTEND:20261030T083500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T085000Z
@@ -2605,7 +2598,7 @@ DTSTART:20261106T070000Z
 DTEND:20261106T083500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T085000Z
@@ -2759,7 +2752,7 @@ DTSTART:20261113T070000Z
 DTEND:20261113T083500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T085000Z
@@ -2934,7 +2927,7 @@ DTSTART:20261120T070000Z
 DTEND:20261120T083500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T085000Z
@@ -2963,6 +2956,13 @@ DTEND:20261120T163500Z
 SUMMARY:Wek (L)
 LOCATION:078 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/16\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T165000Z
+DTEND:20261120T182500Z
+SUMMARY:PZiP (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T085000Z
@@ -3889,13 +3889,6 @@ LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 58/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270122T070000Z
-DTEND:20270122T083500Z
-SUMMARY:PZiP (w)
-LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270122T085000Z
 DTEND:20270122T102500Z
 SUMMARY:WF (ć)
@@ -4027,5 +4020,12 @@ DTEND:20270129T121500Z
 SUMMARY:Wek (L)
 LOCATION:078 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/16\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T150000Z
+DTEND:20270129T163500Z
+SUMMARY:PZiP (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

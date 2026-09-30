@@ -88,6 +88,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 11/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261006T060000Z
+DTEND:20261006T073500Z
+SUMMARY:Owi (w)
+LOCATION:301/ S
+DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261006T075000Z
 DTEND:20261006T092500Z
 SUMMARY:M1 (w)
@@ -100,13 +107,6 @@ DTEND:20261006T111500Z
 SUMMARY:PZiP (w)
 LOCATION:301/ S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261006T113000Z
-DTEND:20261006T130500Z
-SUMMARY:Owi (w)
-LOCATION:301/ S
-DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T060000Z

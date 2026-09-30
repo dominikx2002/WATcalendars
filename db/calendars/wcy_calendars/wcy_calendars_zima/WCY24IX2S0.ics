@@ -2202,13 +2202,6 @@ LOCATION:316 S
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T140000Z
-DTEND:20261001T153500Z
-SUMMARY:PZiP (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T060000Z
 DTEND:20261002T073500Z
 SUMMARY:BD (Inne)
@@ -2752,7 +2745,7 @@ DTSTART:20261029T150000Z
 DTEND:20261029T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T070000Z
@@ -2906,7 +2899,7 @@ DTSTART:20261105T150000Z
 DTEND:20261105T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T070000Z
@@ -3046,7 +3039,7 @@ DTSTART:20261112T150000Z
 DTEND:20261112T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T070000Z
@@ -3214,7 +3207,7 @@ DTSTART:20261119T150000Z
 DTEND:20261119T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T070000Z
@@ -3480,7 +3473,7 @@ DTSTART:20261203T123000Z
 DTEND:20261203T140500Z
 SUMMARY:PZiP (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T070000Z
@@ -3564,7 +3557,7 @@ DTSTART:20261210T085000Z
 DTEND:20261210T102500Z
 SUMMARY:PZiP (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T104000Z
@@ -3712,6 +3705,13 @@ DTEND:20261217T083500Z
 SUMMARY:DSiSM (w)
 LOCATION:103 K
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T085000Z
+DTEND:20261217T102500Z
+SUMMARY:PZiP (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
@@ -4113,13 +4113,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T085000Z
-DTEND:20270121T102500Z
-SUMMARY:PZiP (w)
-LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270121T104000Z
 DTEND:20270121T121500Z
 SUMMARY:Ja (ć)
@@ -4251,5 +4244,12 @@ DTEND:20270128T121500Z
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 60/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T123000Z
+DTEND:20270129T140500Z
+SUMMARY:PZiP (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

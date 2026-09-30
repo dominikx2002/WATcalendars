@@ -907,13 +907,6 @@ LOCATION:52/ 62
 DESCRIPTION:Fizjologia człowieka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Nowak-Stępniowska Agata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T111500Z
-SUMMARY:Mt 
-LOCATION:3/ 54
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr inż. Węgłowska Dorota
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T094000Z
 DTEND:20261020T111500Z
 SUMMARY:WdTB (w)
@@ -925,14 +918,14 @@ DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Mt 
 LOCATION:15/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 10/19\nProwadzący: dr inż. Węgłowska Dorota
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
 SUMMARY:Mt 
 LOCATION:3/ 54
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 11/19\nProwadzący: dr inż. Węgłowska Dorota
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 10/19\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T104000Z
@@ -953,14 +946,14 @@ DTSTART:20261124T104000Z
 DTEND:20261124T121500Z
 SUMMARY:Mt 
 LOCATION:3/ 54
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: dr inż. Węgłowska Dorota
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 11/19\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T104000Z
 DTEND:20261201T121500Z
 SUMMARY:Mt 
 LOCATION:3/ 54
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 13/19\nProwadzący: dr inż. Węgłowska Dorota
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T104000Z
@@ -974,7 +967,7 @@ DTSTART:20261215T104000Z
 DTEND:20261215T121500Z
 SUMMARY:Mt 
 LOCATION:109/ 54
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 14/19\nProwadzący: mgr Osuchowska Paulina
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 13/19\nProwadzący: mgr Osuchowska Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T104000Z
@@ -1023,7 +1016,7 @@ DTSTART:20260202T104000Z
 DTEND:20260202T121500Z
 SUMMARY:Mt 
 LOCATION:108/ 54
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 15/19\nProwadzący: mgr Osuchowska Paulina
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 14/19\nProwadzący: mgr Osuchowska Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T104000Z
@@ -1135,7 +1128,7 @@ DTSTART:20260216T123000Z
 DTEND:20260216T140500Z
 SUMMARY:Mt 
 LOCATION:3/ 54
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr inż. Węgłowska Dorota
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 15/19\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -1961,14 +1954,14 @@ DTSTART:20261203T070000Z
 DTEND:20261203T083500Z
 SUMMARY:Mt 
 LOCATION:108/ 54
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: mgr Osuchowska Paulina
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: mgr Osuchowska Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
 DTEND:20261210T083500Z
 SUMMARY:Mt 
 LOCATION:108/ 54
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 18/19\nProwadzący: mgr Osuchowska Paulina
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: mgr Osuchowska Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T070000Z
@@ -2192,7 +2185,7 @@ DTSTART:20261126T104000Z
 DTEND:20261126T121500Z
 SUMMARY:Mt 
 LOCATION:120/ 54
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 19/19\nProwadzący: mgr Osuchowska Paulina
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 18/19\nProwadzący: mgr Osuchowska Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T104000Z
@@ -2361,6 +2354,13 @@ DTEND:20260527T130500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 61/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T150000Z
+DTEND:20261029T163500Z
+SUMMARY:Mt 
+LOCATION:51/ 62
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 19/19\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T150000Z

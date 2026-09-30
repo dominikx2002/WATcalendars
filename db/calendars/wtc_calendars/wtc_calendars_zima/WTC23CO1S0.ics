@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WTC23CO1S0
 BEGIN:VEVENT
+DTSTART:20261005T060000Z
+DTEND:20261005T073500Z
+SUMMARY:MiSN (w)
+LOCATION:2 55A
+DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/14\nProwadzący: dr inż. Budzyńska Edyta
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261012T060000Z
 DTEND:20261012T073500Z
 SUMMARY:Dud (w)
@@ -22,28 +29,28 @@ DTSTART:20261026T070000Z
 DTEND:20261026T083500Z
 SUMMARY:MiSN (w)
 LOCATION:1 55A
-DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/14\nProwadzący: dr inż. Budzyńska Edyta
+DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/14\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T070000Z
 DTEND:20261102T083500Z
 SUMMARY:MiSN (w)
 LOCATION:1 55A
-DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/14\nProwadzący: dr inż. Budzyńska Edyta
+DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/14\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T070000Z
 DTEND:20261109T083500Z
 SUMMARY:MiSN (w)
 LOCATION:1 55A
-DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/14\nProwadzący: dr inż. Budzyńska Edyta
+DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/14\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T070000Z
 DTEND:20261130T083500Z
 SUMMARY:MiSN (w)
 LOCATION:1 55A
-DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/14\nProwadzący: dr inż. Budzyńska Edyta
+DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/14\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T070000Z
@@ -813,14 +820,14 @@ DTSTART:20261006T094000Z
 DTEND:20261006T111500Z
 SUMMARY:MiSN (w)
 LOCATION:2 55A
-DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/14\nProwadzący: dr inż. Budzyńska Edyta
+DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/14\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T094000Z
 DTEND:20261013T111500Z
 SUMMARY:MiSN (w)
 LOCATION:2 55A
-DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/14\nProwadzący: dr inż. Budzyńska Edyta
+DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/14\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T094000Z
@@ -926,6 +933,13 @@ DTEND:20260223T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 20/84
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261006T113000Z
+DTEND:20261006T130500Z
+SUMMARY:MiSN (w)
+LOCATION:2 55A
+DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/14\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T123000Z
@@ -1702,7 +1716,7 @@ DTSTART:20261015T060000Z
 DTEND:20261015T073500Z
 SUMMARY:MiSN (w)
 LOCATION:1 55A
-DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/14\nProwadzący: dr inż. Budzyńska Edyta
+DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/14\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T060000Z
@@ -2057,9 +2071,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
-SUMMARY:MiSN (w)
+SUMMARY:Ain (w)
 LOCATION:2 55A
-DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/14\nProwadzący: dr inż. Budzyńska Edyta
+DESCRIPTION:Analiza instrumentalna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr Wolańska Izabela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z
@@ -2172,13 +2186,6 @@ DTEND:20260225T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 50/84
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T140000Z
-DTEND:20261001T153500Z
-SUMMARY:Ain (w)
-LOCATION:2 55A
-DESCRIPTION:Analiza instrumentalna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr Wolańska Izabela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T140000Z
@@ -2367,7 +2374,7 @@ DTSTART:20261120T070000Z
 DTEND:20261120T083500Z
 SUMMARY:MiSN (w)
 LOCATION:1 55A
-DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/14\nProwadzący: dr inż. Budzyńska Edyta
+DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T070000Z
@@ -2508,13 +2515,6 @@ DTEND:20260226T102500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 60/84
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261002T094000Z
-DTEND:20261002T111500Z
-SUMMARY:MiSN (w)
-LOCATION:1 55A
-DESCRIPTION:Materiały i substancje niebezpieczne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T094000Z

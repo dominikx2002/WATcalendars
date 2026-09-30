@@ -18,13 +18,6 @@ LOCATION:204 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T140000Z
-DTEND:20261001T153500Z
-SUMMARY:PZiP (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T094000Z
 DTEND:20261002T111500Z
 SUMMARY:Bpe (w)
@@ -44,13 +37,6 @@ DTEND:20261002T153500Z
 SUMMARY:JEt (w)
 LOCATION:316 S
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261002T155000Z
-DTEND:20261002T172500Z
-SUMMARY:PZiP (ć)
-LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T060000Z
@@ -330,7 +316,14 @@ DTSTART:20261029T150000Z
 DTEND:20261029T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T165000Z
+DTEND:20261029T182500Z
+SUMMARY:PZiP (ć)
+LOCATION:314 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T085000Z
@@ -463,7 +456,7 @@ DTSTART:20261105T150000Z
 DTEND:20261105T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T165000Z
@@ -568,7 +561,7 @@ DTSTART:20261112T150000Z
 DTEND:20261112T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T085000Z
@@ -659,7 +652,7 @@ DTSTART:20261119T150000Z
 DTEND:20261119T163500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T104000Z
@@ -841,7 +834,7 @@ DTSTART:20261203T123000Z
 DTEND:20261203T140500Z
 SUMMARY:PZiP (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T165000Z
@@ -925,7 +918,7 @@ DTSTART:20261210T085000Z
 DTEND:20261210T102500Z
 SUMMARY:PZiP (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T104000Z
@@ -996,6 +989,13 @@ DTEND:20261217T083500Z
 SUMMARY:Gk (w)
 LOCATION:317 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T085000Z
+DTEND:20261217T102500Z
+SUMMARY:PZiP (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
@@ -1327,13 +1327,6 @@ LOCATION:120 65
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T085000Z
-DTEND:20270121T102500Z
-SUMMARY:PZiP (w)
-LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270122T085000Z
 DTEND:20270122T102500Z
 SUMMARY:Prmi (L)
@@ -1465,5 +1458,12 @@ DTEND:20270129T121500Z
 SUMMARY:PZS (L)
 LOCATION:121 65
 DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/13\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T123000Z
+DTEND:20270129T140500Z
+SUMMARY:PZiP (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

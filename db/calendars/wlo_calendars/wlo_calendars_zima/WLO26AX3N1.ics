@@ -532,8 +532,8 @@ BEGIN:VEVENT
 DTSTART:20261025T085000Z
 DTEND:20261025T102500Z
 SUMMARY:Lg (w)
-LOCATION:0.24/135
-DESCRIPTION:Logika 8\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Skulska Joanna 9
+LOCATION:
+DESCRIPTION:Logika 8\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Skulska Joanna 9; dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261108T085000Z

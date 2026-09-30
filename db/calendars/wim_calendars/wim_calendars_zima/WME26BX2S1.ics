@@ -494,6 +494,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 14/154
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261006T060000Z
+DTEND:20261006T073500Z
+SUMMARY:Owi (w)
+LOCATION:301/ S
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr Mielnik Marcin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261110T070000Z
 DTEND:20261110T083500Z
 SUMMARY:PGI (ć)
@@ -786,13 +793,6 @@ DTEND:20260216T121500Z
 SUMMARY:WDM (Zp.)
 LOCATION:301/ S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Boruta Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261006T113000Z
-DTEND:20261006T130500Z
-SUMMARY:Owi (w)
-LOCATION:301/ S
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr Mielnik Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T113000Z

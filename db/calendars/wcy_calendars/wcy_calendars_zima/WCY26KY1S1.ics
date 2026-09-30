@@ -323,7 +323,7 @@ DTSTART:20261026T150000Z
 DTEND:20261026T163500Z
 SUMMARY:SoKW (Inne)
 LOCATION:314 S
-DESCRIPTION:Spotkanie organizacyjne z kierownictwem Wydziału\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Spotkanie organizacyjne z kierownictwem Wydziału\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Adam Kutyła, dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T085000Z
@@ -683,6 +683,13 @@ LOCATION:201 65
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261117T123000Z
+DTEND:20261117T140500Z
+SUMMARY:MD1 (ć)
+LOCATION:313 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261118T085000Z
 DTEND:20261118T102500Z
 SUMMARY:WDM (ć)
@@ -695,13 +702,6 @@ DTEND:20261118T121500Z
 SUMMARY:M II (ć)
 LOCATION:203 65
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T123000Z
-DTEND:20261118T140500Z
-SUMMARY:MD1 (ć)
-LOCATION:252 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T085000Z

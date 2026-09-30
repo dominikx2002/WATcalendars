@@ -4,15 +4,15 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO25EW1S0
 BEGIN:VEVENT
-DTSTART:20261012T060000Z
-DTEND:20261012T073500Z
+DTSTART:20261005T060000Z
+DTEND:20261005T073500Z
 SUMMARY:IWSL (w)
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Inżynieria wojskowego systemu logistycznego 7\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Zelkowski Jarosław 8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T060000Z
-DTEND:20261019T073500Z
+DTSTART:20261012T060000Z
+DTEND:20261012T073500Z
 SUMMARY:IWSL (w)
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Inżynieria wojskowego systemu logistycznego 7\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: płk dr inż. Zelkowski Jarosław 8
@@ -1341,11 +1341,11 @@ LOCATION:1/22
 DESCRIPTION:Logistyka dystrybucji 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Kalbarczyk Ewa 14; dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T060000Z
-DTEND:20261008T073500Z
+DTSTART:20261015T060000Z
+DTEND:20261015T073500Z
 SUMMARY:TA (w)
 LOCATION:8W
-DESCRIPTION:TAKTYKA 57\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: kpt. mgr Ślusakowicz Stanisław 58; kpt. mgr Ślusakowicz Stanisław; kpt. mgr Ślusakowicz Stanisław 59; por. mgr inż. Kłosiński Artur 60
+DESCRIPTION:TAKTYKA 57\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: kpt. mgr Ślusakowicz Stanisław 59; kpt. mgr Ślusakowicz Stanisław; płk rez. dr inż. Krawczyk Grzegorz 58; por. mgr inż. Kłosiński Artur 60
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T060000Z
@@ -1359,7 +1359,7 @@ DTSTART:20261029T070000Z
 DTEND:20261029T083500Z
 SUMMARY:TA (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 2 T
-DESCRIPTION:TAKTYKA 57\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: kpt. mgr Ślusakowicz Stanisław 58
+DESCRIPTION:TAKTYKA 57\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: kpt. mgr Ślusakowicz Stanisław 59
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -1373,7 +1373,7 @@ DTSTART:20261217T070000Z
 DTEND:20261217T083500Z
 SUMMARY:TA (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 K; 7 T
-DESCRIPTION:TAKTYKA 57\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: kpt. mgr Ślusakowicz Stanisław 58; kpt. mgr Ślusakowicz Stanisław
+DESCRIPTION:TAKTYKA 57\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: płk rez. dr inż. Krawczyk Grzegorz 58; płk rez. dr inż. Krawczyk Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T070000Z
@@ -1429,7 +1429,7 @@ DTSTART:20261029T085000Z
 DTEND:20261029T102500Z
 SUMMARY:TA (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 2 T
-DESCRIPTION:TAKTYKA 57\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: kpt. mgr Ślusakowicz Stanisław 58
+DESCRIPTION:TAKTYKA 57\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: kpt. mgr Ślusakowicz Stanisław 59
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T085000Z

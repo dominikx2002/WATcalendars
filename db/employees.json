@@ -5602,6 +5602,11 @@
     },
     {
       "degree": "prof. dr hab. inż.",
+      "is_new": true,
+      "name": "Jacek Janiszewski [NEW]"
+    },
+    {
+      "degree": "prof. dr hab. inż.",
       "is_new": false,
       "name": "Jacek Paś"
     },
@@ -5897,10 +5902,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T04:54:30.383474",
-    "last_updated_readable": "2026-09-29 04:54:30",
-    "new_employees_count": 0,
+    "last_updated": "2026-09-30T04:39:38.043950",
+    "last_updated_readable": "2026-09-30 04:39:38",
+    "new_employees_count": 1,
     "scraper_version": "1.0",
-    "total_employees": 1179
+    "total_employees": 1180
   }
 }

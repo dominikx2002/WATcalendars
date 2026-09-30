@@ -190,7 +190,7 @@ DTSTART:20261130T085000Z
 DTEND:20261130T102500Z
 SUMMARY:App (L)
 LOCATION:
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T085000Z
@@ -323,7 +323,7 @@ DTSTART:20261130T104000Z
 DTEND:20261130T121500Z
 SUMMARY:App (L)
 LOCATION:
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T104000Z
@@ -421,7 +421,7 @@ DTSTART:20261109T123000Z
 DTEND:20261109T140500Z
 SUMMARY:App (L)
 LOCATION:3/ 23A; 7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T123000Z
@@ -442,7 +442,7 @@ DTSTART:20261130T123000Z
 DTEND:20261130T140500Z
 SUMMARY:App (L)
 LOCATION:
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T123000Z
@@ -501,11 +501,25 @@ LOCATION:
 DESCRIPTION:SEzas.\nRodzaj zajęć: -\nNumer zajęć: 4/41
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261019T140000Z
+DTEND:20261019T153500Z
+SUMMARY:App (L)
+LOCATION:7/ 23A; 6/ 23A; 5/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T150000Z
+DTEND:20261026T163500Z
+SUMMARY:App (L)
+LOCATION:7/ 23A; 5/ 23A; 6/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T150000Z
 DTEND:20261109T163500Z
 SUMMARY:App (L)
 LOCATION:3/ 23A; 7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T150000Z
@@ -583,6 +597,27 @@ DTEND:20260215T163500Z
 SUMMARY:SEpop. 
 LOCATION:
 DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 2/35
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T155000Z
+DTEND:20261019T172500Z
+SUMMARY:App (L)
+LOCATION:5/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T165000Z
+DTEND:20261026T182500Z
+SUMMARY:App (L)
+LOCATION:5/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T165000Z
+DTEND:20261109T182500Z
+SUMMARY:App (L)
+LOCATION:5/ 23A; 6/ 23A; 7/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T165000Z
@@ -1225,22 +1260,8 @@ BEGIN:VEVENT
 DTSTART:20261208T150000Z
 DTEND:20261208T163500Z
 SUMMARY:App (L)
-LOCATION:5/ 23A; 6/ 23A; 7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T150000Z
-DTEND:20261215T163500Z
-SUMMARY:App (L)
-LOCATION:5/ 23A; 6/ 23A; 7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261222T150000Z
-DTEND:20261222T163500Z
-SUMMARY:App (L)
-LOCATION:5/ 23A; 6/ 23A; 7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
+LOCATION:3/ 23A; 7/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T150000Z
@@ -1285,11 +1306,18 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 16/240
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261208T165000Z
+DTEND:20261208T182500Z
+SUMMARY:App (L)
+LOCATION:3/ 23A; 7/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261222T165000Z
 DTEND:20261222T182500Z
 SUMMARY:App (L)
 LOCATION:5/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T165000Z
@@ -1418,13 +1446,6 @@ LOCATION:
 DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261202T070000Z
-DTEND:20261202T083500Z
-SUMMARY:App (L)
-LOCATION:3/ 23A; 7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:PeK (w)
@@ -1535,13 +1556,6 @@ DTEND:20261125T102500Z
 SUMMARY:PeK (w)
 LOCATION:
 DESCRIPTION:Podstawy elektroniki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T085000Z
-DTEND:20261202T102500Z
-SUMMARY:App (L)
-LOCATION:3/ 23A; 7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T085000Z

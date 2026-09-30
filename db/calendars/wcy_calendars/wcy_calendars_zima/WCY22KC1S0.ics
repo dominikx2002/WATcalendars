@@ -3581,6 +3581,13 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261221T070000Z
+DTEND:20261221T083500Z
+SUMMARY:Stg (L)
+LOCATION:228 S
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261221T085000Z
 DTEND:20261221T102500Z
 SUMMARY:Stg (w)
@@ -3725,7 +3732,7 @@ DTSTART:20270111T104000Z
 DTEND:20270111T121500Z
 SUMMARY:Stg (L)
 LOCATION:219 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270111T150000Z
@@ -3894,13 +3901,6 @@ DTEND:20270119T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 67/70\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270119T123000Z
-DTEND:20270119T140500Z
-SUMMARY:Stg (L)
-LOCATION:219 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T150000Z

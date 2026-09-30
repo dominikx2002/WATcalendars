@@ -466,20 +466,6 @@ LOCATION:187 S
 DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr inż. Magierski Mieczysław 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T150000Z
-DTEND:20261027T163500Z
-SUMMARY:Karno.praw, 
-LOCATION:187 S
-DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr inż. Magierski Mieczysław 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T150000Z
-DTEND:20261124T163500Z
-SUMMARY:Karno.praw, 
-LOCATION:187 S
-DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr inż. Magierski Mieczysław 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T150000Z
 DTEND:20261215T163500Z
 SUMMARY:Krym (w)
@@ -526,21 +512,7 @@ DTSTART:20261006T155000Z
 DTEND:20261006T172500Z
 SUMMARY:Karno.praw, 
 LOCATION:187 S
-DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 12/15\nProwadzący: dr inż. Magierski Mieczysław 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T165000Z
-DTEND:20261027T182500Z
-SUMMARY:Karno.praw, 
-LOCATION:187 S
-DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 13/15\nProwadzący: dr inż. Magierski Mieczysław 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T165000Z
-DTEND:20261124T182500Z
-SUMMARY:Karno.praw, 
-LOCATION:187 S
-DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 14/15\nProwadzący: dr inż. Magierski Mieczysław 2
+DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr inż. Magierski Mieczysław 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T165000Z
@@ -569,13 +541,6 @@ DTEND:20260126T182500Z
 SUMMARY:Krym (ć)
 LOCATION:4.17b/135
 DESCRIPTION:Kryminalistyka 15\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: mgr Bogusz Marek 16
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T184000Z
-DTEND:20261027T201500Z
-SUMMARY:Karno.praw, 
-LOCATION:187 S
-DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: dr inż. Magierski Mieczysław 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T184000Z
@@ -802,6 +767,20 @@ LOCATION:4.17b/135
 DESCRIPTION:Kryminalistyka 15\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: mgr Bogusz Marek 16
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261028T150000Z
+DTEND:20261028T163500Z
+SUMMARY:Karno.praw, 
+LOCATION:24PW; 1S; 1 M; 1002 HIL
+DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 11/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T150000Z
+DTEND:20261104T163500Z
+SUMMARY:Karno.praw, 
+LOCATION:24PW; 1S; 1 M; 1002 HIL
+DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 12/15
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261118T150000Z
 DTEND:20261118T163500Z
 SUMMARY:Zcz (w)
@@ -837,6 +816,20 @@ LOCATION:4.17b/135
 DESCRIPTION:Kryminalistyka 15\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr Bogusz Marek 16
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261028T165000Z
+DTEND:20261028T182500Z
+SUMMARY:Karno.praw, 
+LOCATION:24PW; 1S; 1 M; 1002 HIL
+DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 13/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T165000Z
+DTEND:20261104T182500Z
+SUMMARY:Karno.praw, 
+LOCATION:24PW; 1S; 1 M; 1002 HIL
+DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 14/15
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261118T165000Z
 DTEND:20261118T182500Z
 SUMMARY:Zcz (w)
@@ -856,6 +849,13 @@ DTEND:20261216T182500Z
 SUMMARY:Zcz (w)
 LOCATION:187 S
 DESCRIPTION:Zarządzanie ciągłością działania 36\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Magierski Mieczysław 37
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T184000Z
+DTEND:20261028T201500Z
+SUMMARY:Karno.praw, 
+LOCATION:24PW; 1S; 1 M; 1002 HIL
+DESCRIPTION:Karno.praw,\nRodzaj zajęć: -\nNumer zajęć: 15/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T184000Z
@@ -1260,14 +1260,14 @@ BEGIN:VEVENT
 DTSTART:20261002T060000Z
 DTEND:20261002T073500Z
 SUMMARY:GDiZR (w)
-LOCATION:0.8/16
+LOCATION:0.19/135
 DESCRIPTION:Gry decyzyjne i zarządzanie ryzykiem 6\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T075000Z
 DTEND:20261002T092500Z
 SUMMARY:GDiZR (w)
-LOCATION:0.8/16
+LOCATION:5.17/135
 DESCRIPTION:Gry decyzyjne i zarządzanie ryzykiem 6\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
 END:VEVENT
 BEGIN:VEVENT
@@ -1281,7 +1281,7 @@ BEGIN:VEVENT
 DTSTART:20261002T094000Z
 DTEND:20261002T111500Z
 SUMMARY:GDiZR (w)
-LOCATION:0.8/16
+LOCATION:5.17/135
 DESCRIPTION:Gry decyzyjne i zarządzanie ryzykiem 6\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
 END:VEVENT
 BEGIN:VEVENT

@@ -242,13 +242,6 @@ LOCATION:0.23/16
 DESCRIPTION:Ocena systemów logistycznych 19\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: płk dr inż. Zelkowski Jarosław 20
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T140000Z
-DTEND:20261019T153500Z
-SUMMARY:Osl (w)
-LOCATION:0.23/16
-DESCRIPTION:Ocena systemów logistycznych 19\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: płk dr inż. Zelkowski Jarosław 20
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261026T150000Z
 DTEND:20261026T163500Z
 SUMMARY:TT (ć)
@@ -267,7 +260,7 @@ DTSTART:20261116T150000Z
 DTEND:20261116T163500Z
 SUMMARY:Osl (w)
 LOCATION:0.23/16
-DESCRIPTION:Ocena systemów logistycznych 19\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: płk dr inż. Zelkowski Jarosław 20
+DESCRIPTION:Ocena systemów logistycznych 19\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: płk dr inż. Zelkowski Jarosław 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T150000Z
@@ -305,6 +298,13 @@ LOCATION:1.27/135
 DESCRIPTION:Ocena systemów logistycznych 19\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: płk dr inż. Zelkowski Jarosław 20
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261005T155000Z
+DTEND:20261005T172500Z
+SUMMARY:Osl (w)
+LOCATION:1.27/135
+DESCRIPTION:Ocena systemów logistycznych 19\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: płk dr inż. Zelkowski Jarosław 20
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261012T155000Z
 DTEND:20261012T172500Z
 SUMMARY:Osl (w)
@@ -312,10 +312,10 @@ LOCATION:0.23/16
 DESCRIPTION:Ocena systemów logistycznych 19\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: płk dr inż. Zelkowski Jarosław 20
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T155000Z
-DTEND:20261019T172500Z
+DTSTART:20261026T165000Z
+DTEND:20261026T182500Z
 SUMMARY:Osl (w)
-LOCATION:0.23/16
+LOCATION:1.27/135
 DESCRIPTION:Ocena systemów logistycznych 19\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: płk dr inż. Zelkowski Jarosław 20
 END:VEVENT
 BEGIN:VEVENT
@@ -1064,7 +1064,7 @@ BEGIN:VEVENT
 DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
 SUMMARY:WNwL (L)
-LOCATION:0.8/16
+LOCATION:0.22/16
 DESCRIPTION:Wirtualne narzędzia w logistyce 50\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Waśniewski Tomasz 51
 END:VEVENT
 BEGIN:VEVENT
@@ -1134,7 +1134,7 @@ BEGIN:VEVENT
 DTSTART:20261001T140000Z
 DTEND:20261001T153500Z
 SUMMARY:WNwL (L)
-LOCATION:0.8/16
+LOCATION:0.22/16
 DESCRIPTION:Wirtualne narzędzia w logistyce 50\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Waśniewski Tomasz 51
 END:VEVENT
 BEGIN:VEVENT

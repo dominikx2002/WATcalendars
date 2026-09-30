@@ -347,6 +347,13 @@ LOCATION:1PL/3KP; 2PL/3KP; 3PL/3KP; 1PL/15KP; 24EN; 1S; 24EI; 1S; 24EV; 2S; 24EA
 DESCRIPTION:Szkolenie strzeleckie 54\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: kpt. mgr inż. Żmuda Marcin 17
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261201T070000Z
+DTEND:20261201T083500Z
+SUMMARY:MmsM (L)
+LOCATION:1.7/16
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: płk mgr inż. Górski Piotr 23
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261208T070000Z
 DTEND:20261208T083500Z
 SUMMARY:ZaMe (ć)
@@ -372,7 +379,7 @@ DTSTART:20260119T070000Z
 DTEND:20260119T083500Z
 SUMMARY:MmsM (L)
 LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: płk mgr inż. Górski Piotr 23
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: płk mgr inż. Górski Piotr 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T070000Z
@@ -417,6 +424,13 @@ LOCATION:1PL/3KP; 2PL/3KP; 3PL/3KP; 1PL/15KP; 24EN; 1S; 24EI; 1S; 24EV; 2S; 24EA
 DESCRIPTION:Szkolenie strzeleckie 54\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: kpt. mgr inż. Żmuda Marcin 17
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261201T085000Z
+DTEND:20261201T102500Z
+SUMMARY:MmsM (L)
+LOCATION:1.7/16
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: płk mgr inż. Górski Piotr 23
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261208T085000Z
 DTEND:20261208T102500Z
 SUMMARY:ZaMe (ć)
@@ -442,7 +456,7 @@ DTSTART:20260119T085000Z
 DTEND:20260119T102500Z
 SUMMARY:MmsM (L)
 LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: płk mgr inż. Górski Piotr 23
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: płk mgr inż. Górski Piotr 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T085000Z
@@ -851,6 +865,13 @@ LOCATION:1.7/16
 DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: płk mgr inż. Górski Piotr 23
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:MmsM (L)
+LOCATION:1.7/16
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: płk mgr inż. Górski Piotr 23
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:MrBr (w)
@@ -890,7 +911,7 @@ DTSTART:20260127T070000Z
 DTEND:20260127T083500Z
 SUMMARY:MmsM (L)
 LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: płk mgr inż. Górski Piotr 23
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: płk mgr inż. Górski Piotr 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T075000Z
@@ -1096,13 +1117,6 @@ LOCATION:5.21/135
 DESCRIPTION:Niezawodność systemów logistycznych 26\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261223T123000Z
-DTEND:20261223T140500Z
-SUMMARY:MmsM (L)
-LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: płk mgr inż. Górski Piotr 23
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260113T123000Z
 DTEND:20260113T140500Z
 SUMMARY:PwSM (S)
@@ -1166,25 +1180,11 @@ LOCATION:0.6/16
 DESCRIPTION:Podsystem materiałowy 36\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: prof. WAT Kler Paweł 37
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261223T150000Z
-DTEND:20261223T163500Z
-SUMMARY:MmsM (L)
-LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: płk mgr inż. Górski Piotr 23
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261125T165000Z
 DTEND:20261125T182500Z
 SUMMARY:Ja (ć)
 LOCATION:238 K
 DESCRIPTION:Język angielski 9\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/30
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261223T165000Z
-DTEND:20261223T182500Z
-SUMMARY:MmsM (L)
-LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: płk mgr inż. Górski Piotr 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T060000Z

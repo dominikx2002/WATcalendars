@@ -113,7 +113,7 @@ DTSTART:20261012T075000Z
 DTEND:20261012T092500Z
 SUMMARY:BeS (w)
 LOCATION:6/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T075000Z
@@ -407,14 +407,14 @@ DTSTART:20261026T123000Z
 DTEND:20261026T140500Z
 SUMMARY:BeS (w)
 LOCATION:6/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T123000Z
 DTEND:20261102T140500Z
 SUMMARY:BeS (w)
 LOCATION:2/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T123000Z
@@ -484,7 +484,7 @@ DTSTART:20260111T123000Z
 DTEND:20260111T140500Z
 SUMMARY:BeS (w)
 LOCATION:2/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T123000Z
@@ -498,7 +498,7 @@ DTSTART:20260125T123000Z
 DTEND:20260125T140500Z
 SUMMARY:BeS (w)
 LOCATION:2/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260215T123000Z
@@ -1380,7 +1380,7 @@ DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
 SUMMARY:BeS (w)
 LOCATION:6/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
@@ -1912,7 +1912,7 @@ DTSTART:20260107T070000Z
 DTEND:20260107T083500Z
 SUMMARY:BeS (w)
 LOCATION:6/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T070000Z
@@ -2235,6 +2235,13 @@ DTEND:20261015T130500Z
 SUMMARY:Zms2 (w)
 LOCATION:8/ 62
 DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Morka Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T123000Z
+DTEND:20261029T140500Z
+SUMMARY:BeS (w)
+LOCATION:15/ 23A
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T123000Z

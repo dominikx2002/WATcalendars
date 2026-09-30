@@ -620,6 +620,13 @@ LOCATION:1.10/16
 DESCRIPTION:Podstawy informatyki 15\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Staruch Marcin 16
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261025T104000Z
+DTEND:20261025T121500Z
+SUMMARY:M1 (ć)
+LOCATION:1.17/16
+DESCRIPTION:Matematyka 1 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Falkiewicz Ewa 5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261108T104000Z
 DTEND:20261108T121500Z
 SUMMARY:Pi (L)
@@ -746,13 +753,6 @@ LOCATION:133 K; 134 K
 DESCRIPTION:Język angielski 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: mgr Zeneli Andi 2; mgr Kurzela Anna 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261115T150000Z
-DTEND:20261115T163500Z
-SUMMARY:M1 (ć)
-LOCATION:237 S
-DESCRIPTION:Matematyka 1 4\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Falkiewicz Ewa 5
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261213T150000Z
 DTEND:20261213T163500Z
 SUMMARY:Mi (ć)
@@ -770,7 +770,7 @@ BEGIN:VEVENT
 DTSTART:20261220T165000Z
 DTEND:20261220T182500Z
 SUMMARY:M1 (w)
-LOCATION:307 S
+LOCATION:3.16/135
 DESCRIPTION:Matematyka 1 4\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Falkiewicz Ewa 5
 END:VEVENT
 END:VCALENDAR

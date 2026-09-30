@@ -4,15 +4,15 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO25FW1S0
 BEGIN:VEVENT
-DTSTART:20261012T060000Z
-DTEND:20261012T073500Z
+DTSTART:20261005T060000Z
+DTEND:20261005T073500Z
 SUMMARY:IWSL (w)
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Inżynieria wojskowego systemu logistycznego 28\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Zelkowski Jarosław 29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T060000Z
-DTEND:20261019T073500Z
+DTSTART:20261012T060000Z
+DTEND:20261012T073500Z
 SUMMARY:IWSL (w)
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Inżynieria wojskowego systemu logistycznego 28\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: płk dr inż. Zelkowski Jarosław 29
@@ -358,42 +358,42 @@ DTSTART:20261005T140000Z
 DTEND:20261005T153500Z
 SUMMARY:Met (w)
 LOCATION:aula/135
-DESCRIPTION:Mechanika techniczna 45\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Nowak Jacek 46
+DESCRIPTION:Mechanika techniczna 45\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T140000Z
 DTEND:20261012T153500Z
 SUMMARY:Met (w)
 LOCATION:aula/135
-DESCRIPTION:Mechanika techniczna 45\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Nowak Jacek 46
+DESCRIPTION:Mechanika techniczna 45\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T140000Z
 DTEND:20261019T153500Z
 SUMMARY:Met (w)
 LOCATION:aula/135
-DESCRIPTION:Mechanika techniczna 45\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Nowak Jacek 46
+DESCRIPTION:Mechanika techniczna 45\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T150000Z
 DTEND:20261102T163500Z
 SUMMARY:Met (w)
 LOCATION:aula/135
-DESCRIPTION:Mechanika techniczna 45\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Nowak Jacek 46
+DESCRIPTION:Mechanika techniczna 45\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T150000Z
 DTEND:20261109T163500Z
 SUMMARY:Met (w)
 LOCATION:aula/135
-DESCRIPTION:Mechanika techniczna 45\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Nowak Jacek 46
+DESCRIPTION:Mechanika techniczna 45\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T150000Z
 DTEND:20261116T163500Z
 SUMMARY:Met (w)
 LOCATION:aula/135
-DESCRIPTION:Mechanika techniczna 45\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Nowak Jacek 46
+DESCRIPTION:Mechanika techniczna 45\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T150000Z
@@ -953,7 +953,7 @@ DTSTART:20261028T070000Z
 DTEND:20261028T083500Z
 SUMMARY:ZŻWAT (i)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT 85\nRodzaj zajęć: (i)\nNumer zajęć: 1/4
+DESCRIPTION:Zbiórka żołnierzy WAT 87\nRodzaj zajęć: (i)\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
@@ -967,7 +967,7 @@ DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
 SUMMARY:ZŻWAT (i)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT 85\nRodzaj zajęć: (i)\nNumer zajęć: 2/4
+DESCRIPTION:Zbiórka żołnierzy WAT 87\nRodzaj zajęć: (i)\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T070000Z
@@ -995,7 +995,7 @@ DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:ZŻWAT (i)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT 85\nRodzaj zajęć: (i)\nNumer zajęć: 3/4
+DESCRIPTION:Zbiórka żołnierzy WAT 87\nRodzaj zajęć: (i)\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
@@ -1009,7 +1009,7 @@ DTSTART:20260113T070000Z
 DTEND:20260113T083500Z
 SUMMARY:ZŻWAT (i)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT 85\nRodzaj zajęć: (i)\nNumer zajęć: 4/4
+DESCRIPTION:Zbiórka żołnierzy WAT 87\nRodzaj zajęć: (i)\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T070000Z
@@ -1264,13 +1264,6 @@ LOCATION:A.1.3/135
 DESCRIPTION:Inżynieria wojskowego systemu logistycznego 28\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Zelkowski Jarosław 29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260127T123000Z
-DTEND:20260127T140500Z
-SUMMARY:BiESTS (ć)
-LOCATION:2/23A
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: mgr inż. Radzimierski Mariusz 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261014T140000Z
 DTEND:20261014T153500Z
 SUMMARY:BiESTS (w)
@@ -1320,25 +1313,18 @@ LOCATION:aula/135
 DESCRIPTION:Inżynieria systemów i analiza systemowa 22\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr. hab. inż. Brzeziński Marian 23
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T060000Z
-DTEND:20261008T073500Z
-SUMMARY:TA (w)
-LOCATION:8W
-DESCRIPTION:TAKTYKA 68\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: kpt. mgr Ślusakowicz Stanisław 69; kpt. mgr Ślusakowicz Stanisław; kpt. mgr Ślusakowicz Stanisław 70; por. mgr inż. Kłosiński Artur 71
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261015T060000Z
 DTEND:20261015T073500Z
 SUMMARY:SzS (ć)
 LOCATION:3PL/11KP; 3pl/29kp; 22MC; 1S; 22MI; 1S; 22MT; 1S; 25FW; 1S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: ppłk dr inż. Kędzierski Piotr 47; kpt. mgr inż. Żmuda Marcin 3
+DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef; ppłk dr inż. Kędzierski Piotr 47; kpt. mgr inż. Żmuda Marcin 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T060000Z
 DTEND:20261022T073500Z
 SUMMARY:ZINŻ (w)
 LOCATION:6W
-DESCRIPTION:Zabezpieczenie inżynieryjne 80\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Jurzysta Paweł 81; ppłk mgr Jurzysta Paweł; ppłk mgr Jurzysta Paweł 83; dr inż. Kuchta Wiesław 82; dr inż. Kuchta Wiesław
+DESCRIPTION:Zabezpieczenie inżynieryjne 82\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Jurzysta Paweł 83; ppłk mgr Jurzysta Paweł; ppłk mgr Jurzysta Paweł 85; dr inż. Kuchta Wiesław 84; dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z
@@ -1366,14 +1352,14 @@ DTSTART:20261210T070000Z
 DTEND:20261210T083500Z
 SUMMARY:ZINŻ (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 P
-DESCRIPTION:Zabezpieczenie inżynieryjne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr inż. Kuchta Wiesław 82
+DESCRIPTION:Zabezpieczenie inżynieryjne 82\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr inż. Kuchta Wiesław 84
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T070000Z
 DTEND:20261217T083500Z
 SUMMARY:SzS (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: kpt. mgr Ślusakowicz Stanisław 69; kpt. mgr inż. Żmuda Marcin 3
+DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef; płk rez. dr inż. Krawczyk Grzegorz 69; kpt. mgr inż. Żmuda Marcin 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T075000Z
@@ -1387,28 +1373,35 @@ DTSTART:20261008T075000Z
 DTEND:20261008T092500Z
 SUMMARY:OIN (w)
 LOCATION:3W
-DESCRIPTION:Ochrona informacji niejawnych 48\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz 49; ppłk mgr inż. Grądziel Grzegorz; ppłk mgr inż. Grądziel Grzegorz 50
+DESCRIPTION:Ochrona informacji niejawnych 48\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz 49; XWDM(w) WLO25FW1S0; ppłk mgr inż. Grądziel Grzegorz; ppłk mgr inż. Grądziel Grzegorz 50; WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T075000Z
 DTEND:20261015T092500Z
 SUMMARY:SzS (ć)
 LOCATION:4pl/29kp; 3PL/11KP; 3pl/29kp; 2PL/7KP; 25FW; 2S; 22MC; 1S; 22MI; 1S; 22MT; 1S; 25FW; 1S; 25GW; 3S; 25GW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr n.społ. inż. Rogowski Bogusław 20; ppłk dr inż. Kędzierski Piotr 47; kpt. mgr inż. Żmuda Marcin 3
+DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: XWDM(w) WLO25FW1S0; WLO25FW2S0; dr n.społ. inż. Rogowski Bogusław 20; ppłk dr inż. Kędzierski Piotr 47; kpt. mgr inż. Żmuda Marcin 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T075000Z
 DTEND:20261022T092500Z
 SUMMARY:ZINŻ (w)
 LOCATION:6W
-DESCRIPTION:Zabezpieczenie inżynieryjne 80\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Jurzysta Paweł 81; ppłk mgr Jurzysta Paweł; ppłk mgr Jurzysta Paweł 83; dr inż. Kuchta Wiesław 82; dr inż. Kuchta Wiesław
+DESCRIPTION:Zabezpieczenie inżynieryjne 82\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Jurzysta Paweł 83; ppłk mgr Jurzysta Paweł; ppłk mgr Jurzysta Paweł 85; dr inż. Kuchta Wiesław 84; dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T085000Z
 DTEND:20261029T102500Z
 SUMMARY:OIN (w)
 LOCATION:4W
-DESCRIPTION:Ochrona informacji niejawnych 48\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz 49; ppłk mgr inż. Grądziel Grzegorz; ppłk mgr inż. Grądziel Grzegorz 50
+DESCRIPTION:Ochrona informacji niejawnych 48\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz 49; ppłk mgr inż. Grądziel Grzegorz; ppłk mgr inż. Grądziel Grzegorz 50; XWDM(w) WLO25FW1S0; WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T085000Z
+DTEND:20261105T102500Z
+SUMMARY:TA (w)
+LOCATION:8W
+DESCRIPTION:TAKTYKA 68\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: kpt. mgr Ślusakowicz Stanisław 70; kpt. mgr Ślusakowicz Stanisław; płk rez. dr inż. Krawczyk Grzegorz 69; płk rez. dr inż. Krawczyk Grzegorz; por. mgr inż. Kłosiński Artur 71
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T085000Z
@@ -1429,7 +1422,7 @@ DTSTART:20261126T085000Z
 DTEND:20261126T102500Z
 SUMMARY:ZINŻ (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 P; 1 T
-DESCRIPTION:Zabezpieczenie inżynieryjne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
+DESCRIPTION:Zabezpieczenie inżynieryjne 82\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T085000Z
@@ -1450,7 +1443,7 @@ DTSTART:20261217T085000Z
 DTEND:20261217T102500Z
 SUMMARY:SzS (ć)
 LOCATION:3pl/29kp; 4pl/29kp; 25FW; 1S; 25FW; 2S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: kpt. mgr Ślusakowicz Stanisław 69; kpt. mgr inż. Żmuda Marcin 3
+DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: XWDM(w) WLO25FW1S0; WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef; płk rez. dr inż. Krawczyk Grzegorz 69; kpt. mgr inż. Żmuda Marcin 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T085000Z
@@ -1464,7 +1457,7 @@ DTSTART:20260121T085000Z
 DTEND:20260121T102500Z
 SUMMARY:ZINŻ (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 Kuc; 255 S
-DESCRIPTION:Zabezpieczenie inżynieryjne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
+DESCRIPTION:Zabezpieczenie inżynieryjne 82\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T094000Z
@@ -1527,7 +1520,7 @@ DTSTART:20261126T104000Z
 DTEND:20261126T121500Z
 SUMMARY:TA (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 2 T
-DESCRIPTION:TAKTYKA 68\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: kpt. mgr Ślusakowicz Stanisław 69
+DESCRIPTION:TAKTYKA 68\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: kpt. mgr Ślusakowicz Stanisław 70
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
@@ -1583,28 +1576,35 @@ DTSTART:20261008T113000Z
 DTEND:20261008T130500Z
 SUMMARY:SzS (w)
 LOCATION:1W
-DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: mgr inż. Pogorzelski Ireneusz 5; kpt. mgr inż. Żmuda Marcin 3; mgr inż. Pogorzelski Ireneusz; kpt. mgr inż. Żmuda Marcin; płk dr inż. Zelkowski Jarosław 29; kpt. mgr inż. Żmuda Marcin 4; płk dr inż. Zelkowski Jarosław; por mgr inż. Sobczyk Olimpia 39; mgr inż. Radzimierski Mariusz 2; płk dr hab. Stańczyk Konrad 8
+DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: mgr inż. Pogorzelski Ireneusz 5; kpt. mgr inż. Żmuda Marcin 3; mgr inż. Pogorzelski Ireneusz; kpt. mgr inż. Żmuda Marcin; płk dr inż. Zelkowski Jarosław 29; kpt. mgr inż. Żmuda Marcin 4; płk dr inż. Zelkowski Jarosław; por mgr inż. Sobczyk Olimpia 39; XWDM(w) WLO25FW1S0; WLO25FW2S0; WLO25FW3S0; płk rez. dr inż. Krawczyk Grzegorz 69; mgr inż. Radzimierski Mariusz 2; płk dr hab. Stańczyk Konrad 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T113000Z
+DTEND:20261015T130500Z
+SUMMARY:BiESTS (ć)
+LOCATION:2/23A
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: mgr inż. Radzimierski Mariusz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T123000Z
 DTEND:20261105T140500Z
 SUMMARY:SzS (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: kpt. mgr Ślusakowicz Stanisław 69; kpt. mgr inż. Żmuda Marcin 3
+DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef; płk rez. dr inż. Krawczyk Grzegorz 69; kpt. mgr inż. Żmuda Marcin 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T123000Z
 DTEND:20261126T140500Z
 SUMMARY:TA (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 2 T
-DESCRIPTION:TAKTYKA 68\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: kpt. mgr Ślusakowicz Stanisław 69
+DESCRIPTION:TAKTYKA 68\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: kpt. mgr Ślusakowicz Stanisław 70
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T123000Z
 DTEND:20261203T140500Z
 SUMMARY:OIN (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 Gr; 22 /BIBL T
-DESCRIPTION:Ochrona informacji niejawnych 48\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz 49
+DESCRIPTION:Ochrona informacji niejawnych 48\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: XWDM(w) WLO25FW1S0; ppłk mgr inż. Grądziel Grzegorz 49; WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T123000Z
@@ -1618,7 +1618,7 @@ DTSTART:20261217T123000Z
 DTEND:20261217T140500Z
 SUMMARY:TA (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 K; 7 T
-DESCRIPTION:TAKTYKA 68\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: kpt. mgr Ślusakowicz Stanisław 69; kpt. mgr Ślusakowicz Stanisław
+DESCRIPTION:TAKTYKA 68\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: płk rez. dr inż. Krawczyk Grzegorz 69; płk rez. dr inż. Krawczyk Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T123000Z
@@ -1632,14 +1632,14 @@ DTSTART:20260114T123000Z
 DTEND:20260114T140500Z
 SUMMARY:ZINŻ (r)
 LOCATION:9R
-DESCRIPTION:Zabezpieczenie inżynieryjne 80\nRodzaj zajęć: (r)\nNumer zajęć: 1/1\nProwadzący: ppłk mgr Jurzysta Paweł 81; ppłk mgr Jurzysta Paweł; ppłk mgr Jurzysta Paweł 83; dr inż. Kuchta Wiesław 82; dr inż. Kuchta Wiesław
+DESCRIPTION:Zabezpieczenie inżynieryjne 82\nRodzaj zajęć: (r)\nNumer zajęć: 1/1\nProwadzący: ppłk mgr Jurzysta Paweł 83; ppłk mgr Jurzysta Paweł; ppłk mgr Jurzysta Paweł 85; dr inż. Kuchta Wiesław 84; dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T150000Z
 DTEND:20261105T163500Z
 SUMMARY:SzS (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: kpt. mgr Ślusakowicz Stanisław 69; kpt. mgr inż. Żmuda Marcin 3
+DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef; płk rez. dr inż. Krawczyk Grzegorz 69; kpt. mgr inż. Żmuda Marcin 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T150000Z
@@ -2248,104 +2248,146 @@ DTSTART:20261003T060000Z
 DTEND:20261003T073500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T060000Z
 DTEND:20261010T073500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T060000Z
 DTEND:20261017T073500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T060000Z
 DTEND:20261024T073500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261031T070000Z
 DTEND:20261031T083500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261107T070000Z
 DTEND:20261107T083500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T070000Z
 DTEND:20261114T083500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T070000Z
 DTEND:20261121T083500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261128T070000Z
 DTEND:20261128T083500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T070000Z
 DTEND:20261205T083500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T070000Z
 DTEND:20261212T083500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T070000Z
 DTEND:20261219T083500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T070000Z
 DTEND:20260109T083500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T070000Z
 DTEND:20260116T083500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: XWDM(w) WLO25FW1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T070000Z
 DTEND:20260123T083500Z
 SUMMARY:XWF (ć)
 LOCATION:3pl/29kp; 25FW; 1S
-DESCRIPTION:XWychowanie fizyczne 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
+DESCRIPTION:XWychowanie fizyczne 80\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: XWDM(w) WLO25FW1S0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T150000Z
+DTEND:20261114T163500Z
+SUMMARY:XWDM (w)
+LOCATION:aula/135
+DESCRIPTION:XWprowadzenie do metrologii 78\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: mgr inż. Radzimierski Mariusz 2; płk dr hab. Stańczyk Konrad 8; WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef; kpt. mgr Ślusakowicz Stanisław 70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T184000Z
+DTEND:20261212T201500Z
+SUMMARY:XWDM (w)
+LOCATION:aula/135
+DESCRIPTION:XWprowadzenie do metrologii 78\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: mgr inż. Radzimierski Mariusz 2; płk dr hab. Stańczyk Konrad 8; WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef; kpt. mgr Ślusakowicz Stanisław 70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T070000Z
+DTEND:20261122T083500Z
+SUMMARY:XWDM (w)
+LOCATION:aula/135
+DESCRIPTION:XWprowadzenie do metrologii 78\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: mgr inż. Radzimierski Mariusz 2; płk dr hab. Stańczyk Konrad 8; WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef; kpt. mgr Ślusakowicz Stanisław 70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261220T070000Z
+DTEND:20261220T083500Z
+SUMMARY:XWDM (w)
+LOCATION:aula/135
+DESCRIPTION:XWprowadzenie do metrologii 78\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: mgr inż. Radzimierski Mariusz 2; płk dr hab. Stańczyk Konrad 8; WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef; kpt. mgr Ślusakowicz Stanisław 70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T150000Z
+DTEND:20260131T163500Z
+SUMMARY:XWDM (w)
+LOCATION:aula/135
+DESCRIPTION:XWprowadzenie do metrologii 78\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: mgr inż. Radzimierski Mariusz 2; płk dr hab. Stańczyk Konrad 8; WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef; kpt. mgr Ślusakowicz Stanisław 70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T165000Z
+DTEND:20261025T182500Z
+SUMMARY:XWDM (w)
+LOCATION:aula/135
+DESCRIPTION:XWprowadzenie do metrologii 78\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: mgr inż. Radzimierski Mariusz 2; płk dr hab. Stańczyk Konrad 8; WLO25FW4S0 dr hab. inż.(prof. ucz.) Pszczółkowski Józef; kpt. mgr Ślusakowicz Stanisław 70
 END:VEVENT
 END:VCALENDAR

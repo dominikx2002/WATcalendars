@@ -102,6 +102,13 @@ LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261012T060000Z
+DTEND:20261012T073500Z
+SUMMARY:PGI (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261012T075000Z
 DTEND:20261012T092500Z
 SUMMARY:Mat I (w)
@@ -183,14 +190,14 @@ DTSTART:20261016T060000Z
 DTEND:20261016T073500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T075000Z
 DTEND:20261016T092500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T094000Z
@@ -204,7 +211,7 @@ DTSTART:20261019T060000Z
 DTEND:20261019T073500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T075000Z
@@ -344,7 +351,7 @@ DTSTART:20261026T150000Z
 DTEND:20261026T163500Z
 SUMMARY:SoKW (Inne)
 LOCATION:314 S
-DESCRIPTION:Spotkanie organizacyjne z kierownictwem Wydziału\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Spotkanie organizacyjne z kierownictwem Wydziału\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Adam Kutyła, dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T104000Z
@@ -379,7 +386,7 @@ DTSTART:20261029T070000Z
 DTEND:20261029T083500Z
 SUMMARY:PGI (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T085000Z
@@ -589,7 +596,7 @@ DTSTART:20261112T070000Z
 DTEND:20261112T083500Z
 SUMMARY:PGI (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T085000Z
@@ -638,7 +645,7 @@ DTSTART:20261116T070000Z
 DTEND:20261116T083500Z
 SUMMARY:PGI (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T085000Z
@@ -848,7 +855,7 @@ DTSTART:20261130T070000Z
 DTEND:20261130T083500Z
 SUMMARY:PGI (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T085000Z
@@ -981,7 +988,7 @@ DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:PGI (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T085000Z
@@ -1093,7 +1100,7 @@ DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:PGI (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -1170,7 +1177,7 @@ DTSTART:20261221T104000Z
 DTEND:20261221T121500Z
 SUMMARY:PGI (ć)
 LOCATION:203 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T123000Z
@@ -1332,13 +1339,6 @@ DTEND:20270114T102500Z
 SUMMARY:M II (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 15/17\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270114T104000Z
-DTEND:20270114T121500Z
-SUMMARY:PGI (ć)
-LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T123000Z

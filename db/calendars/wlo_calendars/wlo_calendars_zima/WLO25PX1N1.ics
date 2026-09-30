@@ -11,13 +11,6 @@ LOCATION:1.15/16
 DESCRIPTION:Ekonomika obronna 9\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261010T060000Z
-DTEND:20261010T073500Z
-SUMMARY:Hsw (w)
-LOCATION:2.21/135
-DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261024T060000Z
 DTEND:20261024T073500Z
 SUMMARY:Sta (w)
@@ -261,6 +254,13 @@ DTEND:20261010T130500Z
 SUMMARY:ZŚN (ć)
 LOCATION:0.8/16
 DESCRIPTION:Zagrożenia Środowiska Naturalnego 41\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Adamkiewicz Jakub 42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T113000Z
+DTEND:20261024T130500Z
+SUMMARY:Hsw (w)
+LOCATION:1002 HIL
+DESCRIPTION:Historia sztuki wojennej 15\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Kleszcz Sławomir 16; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261107T123000Z
