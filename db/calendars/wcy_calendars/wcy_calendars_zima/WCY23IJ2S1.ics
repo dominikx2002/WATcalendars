@@ -1362,6 +1362,20 @@ LOCATION:227 S
 DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261029T070000Z
+DTEND:20261029T083500Z
+SUMMARY:RpdBd (L)
+LOCATION:252a S
+DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T085000Z
+DTEND:20261029T102500Z
+SUMMARY:RpdBd (L)
+LOCATION:252a S
+DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T150000Z
 DTEND:20261029T163500Z
 SUMMARY:Pjn (w)
@@ -1381,20 +1395,6 @@ DTEND:20261029T201500Z
 SUMMARY:Pjn (L)
 LOCATION:224 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T070000Z
-DTEND:20261030T083500Z
-SUMMARY:RpdBd (L)
-LOCATION:223 S
-DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T085000Z
-DTEND:20261030T102500Z
-SUMMARY:RpdBd (L)
-LOCATION:223 S
-DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T104000Z

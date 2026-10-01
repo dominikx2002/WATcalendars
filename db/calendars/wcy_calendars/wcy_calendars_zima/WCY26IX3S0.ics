@@ -1152,6 +1152,13 @@ LOCATION:316 S
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261124T150000Z
+DTEND:20261124T163500Z
+SUMMARY:PGI (ć)
+LOCATION:120/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:WDM (ć)
@@ -1184,7 +1191,7 @@ DTSTART:20261125T150000Z
 DTEND:20261125T163500Z
 SUMMARY:PGI (ć)
 LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -1304,13 +1311,6 @@ DTEND:20261202T140500Z
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T150000Z
-DTEND:20261202T163500Z
-SUMMARY:PGI (ć)
-LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T085000Z

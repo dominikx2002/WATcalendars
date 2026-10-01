@@ -505,7 +505,7 @@ DTSTART:20260118T123000Z
 DTEND:20260118T140500Z
 SUMMARY:RiAIP (ć)
 LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: mjr mgr Nawalicki Piotr
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T123000Z
@@ -606,11 +606,18 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 10/143
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260111T150000Z
+DTEND:20260111T163500Z
+SUMMARY:RiAIP (w)
+LOCATION:
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260118T150000Z
 DTEND:20260118T163500Z
 SUMMARY:RiAIP (ć)
 LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: mjr mgr Nawalicki Piotr
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T165000Z
@@ -1359,7 +1366,7 @@ DTSTART:20261118T085000Z
 DTEND:20261118T102500Z
 SUMMARY:RiAIP (w)
 LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: mjr mgr Nawalicki Piotr
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T085000Z
@@ -1472,13 +1479,6 @@ DTEND:20261111T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 35/143
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T104000Z
-DTEND:20261118T121500Z
-SUMMARY:RiAIP (w)
-LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: mjr mgr Nawalicki Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T104000Z

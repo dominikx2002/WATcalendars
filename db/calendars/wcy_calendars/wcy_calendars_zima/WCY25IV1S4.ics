@@ -18,13 +18,6 @@ LOCATION:236 S
 DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261002T094000Z
-DTEND:20261002T111500Z
-SUMMARY:Tdst (w)
-LOCATION:223 S
-DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261007T113000Z
 DTEND:20261007T130500Z
 SUMMARY:No (w)
@@ -72,13 +65,6 @@ DTEND:20261009T092500Z
 SUMMARY:isi (w)
 LOCATION:236 S
 DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Adrian Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261009T094000Z
-DTEND:20261009T111500Z
-SUMMARY:Tdst (w)
-LOCATION:223 S
-DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
@@ -144,13 +130,6 @@ LOCATION:236 S
 DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261016T094000Z
-DTEND:20261016T111500Z
-SUMMARY:Tdst (w)
-LOCATION:223 S
-DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261021T060000Z
 DTEND:20261021T073500Z
 SUMMARY:Clc (L)
@@ -170,13 +149,6 @@ DTEND:20261021T111500Z
 SUMMARY:No (w)
 LOCATION:309 S
 DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T113000Z
-DTEND:20261021T130500Z
-SUMMARY:Tdst (w)
-LOCATION:224 S
-DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T140000Z
@@ -288,7 +260,7 @@ DTSTART:20261104T123000Z
 DTEND:20261104T140500Z
 SUMMARY:Tdst (w)
 LOCATION:224 S
-DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T150000Z
@@ -333,6 +305,13 @@ LOCATION:233 S
 DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261109T150000Z
+DTEND:20261109T163500Z
+SUMMARY:Tdst (w)
+LOCATION:308 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261110T070000Z
 DTEND:20261110T083500Z
 SUMMARY:Tdst (L)
@@ -366,6 +345,13 @@ DTEND:20261112T121500Z
 SUMMARY:ZU (w)
 LOCATION:308 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T070000Z
+DTEND:20261116T083500Z
+SUMMARY:Tdst (w)
+LOCATION:252 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T085000Z
@@ -414,7 +400,7 @@ DTSTART:20261118T085000Z
 DTEND:20261118T102500Z
 SUMMARY:Tdst (w)
 LOCATION:223 S
-DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T104000Z
@@ -457,6 +443,20 @@ DTEND:20261119T121500Z
 SUMMARY:ZU (w)
 LOCATION:308 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T123000Z
+DTEND:20261119T140500Z
+SUMMARY:Tdst (w)
+LOCATION:224 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T070000Z
+DTEND:20261123T083500Z
+SUMMARY:Tdst (w)
+LOCATION:228 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T085000Z

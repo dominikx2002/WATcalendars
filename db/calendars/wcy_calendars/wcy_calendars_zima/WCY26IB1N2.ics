@@ -189,7 +189,7 @@ BEGIN:VEVENT
 DTSTART:20261018T094000Z
 DTEND:20261018T111500Z
 SUMMARY:BSI (w)
-LOCATION:307 S
+LOCATION:309 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
@@ -473,6 +473,13 @@ LOCATION:233 S
 DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261212T165000Z
+DTEND:20261212T182500Z
+SUMMARY:Isim (L)
+LOCATION:233 S
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261213T070000Z
 DTEND:20261213T083500Z
 SUMMARY:Ja (ć)
@@ -660,13 +667,6 @@ DTEND:20270124T083500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270124T085000Z
-DTEND:20270124T102500Z
-SUMMARY:Isim (L)
-LOCATION:252 S
-DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270124T104000Z

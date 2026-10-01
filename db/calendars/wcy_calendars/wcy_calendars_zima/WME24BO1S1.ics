@@ -3630,13 +3630,6 @@ LOCATION:13 71
 DESCRIPTION:Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T150000Z
-DTEND:20261104T163500Z
-SUMMARY:Dso (w)
-LOCATION:204 136
-DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261105T070000Z
 DTEND:20261105T083500Z
 SUMMARY:GwIB (ć)
@@ -4117,7 +4110,7 @@ DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:Dso (w)
 LOCATION:20 46
-DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
+DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T085000Z
@@ -4621,7 +4614,7 @@ DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:Dso (w)
 LOCATION:20 46
-DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
+DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -4803,7 +4796,7 @@ DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:Dso (w)
 LOCATION:4 41
-DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
+DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T085000Z
@@ -5630,6 +5623,13 @@ DTEND:20270111T121500Z
 SUMMARY:OPT (ć)
 LOCATION:20 46
 DESCRIPTION:Optyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T123000Z
+DTEND:20270111T140500Z
+SUMMARY:Dso (w)
+LOCATION:204 136
+DESCRIPTION:Detekcja sygnałów optycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T070000Z

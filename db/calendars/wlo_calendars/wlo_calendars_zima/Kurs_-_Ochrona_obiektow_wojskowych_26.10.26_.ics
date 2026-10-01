@@ -8,14 +8,14 @@ DTSTART:20261026T085000Z
 DTEND:20261026T102500Z
 SUMMARY:RK (i)
 LOCATION:3.16/135
-DESCRIPTION:Rozpoczęcie kursu 16\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: dr inż. Żuchowski Dariusz 3; dr n.społ. inż. Rogowski Bogusław 9
+DESCRIPTION:Rozpoczęcie kursu 16\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: kpt. dr inż. Lesiak Gabriel 17; kpt. dr inż. Lesiak Gabriel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T085000Z
 DTEND:20261102T102500Z
 SUMMARY:Zp* (S)
 LOCATION:3.16/135
-DESCRIPTION:Zamówienia publiczne 21\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/4\nProwadzący: dr inż. Żuchowski Dariusz 3; dr n.społ. inż. Rogowski Bogusław 9; dr inż. Kalwasiński Marek 23
+DESCRIPTION:Zamówienia publiczne 21\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Żuchowski Dariusz 3; dr n.społ. inż. Rogowski Bogusław 9; dr inż. Kalwasiński Marek 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T104000Z
@@ -246,41 +246,41 @@ DTSTART:20261030T070000Z
 DTEND:20261030T083500Z
 SUMMARY:Zp* (w)
 LOCATION:3.16/135
-DESCRIPTION:Zamówienia publiczne 21\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr inż. Żuchowski Dariusz 3; dr n.społ. inż. Rogowski Bogusław 9
+DESCRIPTION:Zamówienia publiczne 21\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Żuchowski Dariusz 3; dr n.społ. inż. Rogowski Bogusław 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T070000Z
 DTEND:20261106T083500Z
 SUMMARY:Egz. (E)
 LOCATION:3.16/135
-DESCRIPTION:Egzamin 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Żuchowski Dariusz 3; dr inż. Żuchowski Dariusz; dr hab. inż. Augustyn Sławomir 2
+DESCRIPTION:Egzamin 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Żuchowski Dariusz 3; kpt. dr inż. Lesiak Gabriel 4; dr inż. Żuchowski Dariusz; mgr inż. Juniec Krzysztof 5; dr hab. inż. Augustyn Sławomir 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T085000Z
 DTEND:20261030T102500Z
-SUMMARY:Zp* (S)
+SUMMARY:Zp* (w)
 LOCATION:3.16/135
-DESCRIPTION:Zamówienia publiczne 21\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/4\nProwadzący: dr inż. Żuchowski Dariusz 3; dr n.społ. inż. Rogowski Bogusław 9
+DESCRIPTION:Zamówienia publiczne 21\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Żuchowski Dariusz 3; dr n.społ. inż. Rogowski Bogusław 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T085000Z
 DTEND:20261106T102500Z
 SUMMARY:Egz. (E)
 LOCATION:3.16/135
-DESCRIPTION:Egzamin 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Żuchowski Dariusz 3; dr inż. Żuchowski Dariusz; dr hab. inż. Augustyn Sławomir 2
+DESCRIPTION:Egzamin 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Żuchowski Dariusz 3; kpt. dr inż. Lesiak Gabriel 4; dr inż. Żuchowski Dariusz; dr hab. inż. Augustyn Sławomir 2; mgr inż. Juniec Krzysztof 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T104000Z
 DTEND:20261030T121500Z
-SUMMARY:Zp* (S)
+SUMMARY:Zp* (w)
 LOCATION:3.16/135
-DESCRIPTION:Zamówienia publiczne 21\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Żuchowski Dariusz 3; dr n.społ. inż. Rogowski Bogusław 9
+DESCRIPTION:Zamówienia publiczne 21\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Żuchowski Dariusz 3; dr n.społ. inż. Rogowski Bogusław 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T123000Z
 DTEND:20261030T140500Z
 SUMMARY:Zp* (S)
 LOCATION:3.16/135
-DESCRIPTION:Zamówienia publiczne 21\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Żuchowski Dariusz 3; dr n.społ. inż. Rogowski Bogusław 9
+DESCRIPTION:Zamówienia publiczne 21\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Żuchowski Dariusz 3; dr n.społ. inż. Rogowski Bogusław 9
 END:VEVENT
 END:VCALENDAR

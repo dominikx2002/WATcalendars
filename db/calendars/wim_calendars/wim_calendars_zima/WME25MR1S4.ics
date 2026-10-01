@@ -109,13 +109,6 @@ LOCATION:
 DESCRIPTION:Pms\nRodzaj zajęć: -\nNumer zajęć: 1/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T075000Z
-DTEND:20261012T092500Z
-SUMMARY:BeS (w)
-LOCATION:6/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261019T075000Z
 DTEND:20261019T092500Z
 SUMMARY:REZ 
@@ -251,9 +244,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T094000Z
 DTEND:20261012T111500Z
-SUMMARY:PiWSI (w)
-LOCATION:120/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Łuszczek Jakub
+SUMMARY:BeS (w)
+LOCATION:2/ 23A
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T094000Z
@@ -415,13 +408,6 @@ DTEND:20261102T140500Z
 SUMMARY:BeS (w)
 LOCATION:2/ 23A
 DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261109T123000Z
-DTEND:20261109T140500Z
-SUMMARY:PiWSI (L)
-LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T123000Z
@@ -729,7 +715,7 @@ DTSTART:20261201T070000Z
 DTEND:20261201T083500Z
 SUMMARY:PiWSI (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/18\nProwadzący: dr inż. Łuszczek Jakub
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T070000Z
@@ -813,7 +799,7 @@ DTSTART:20261201T085000Z
 DTEND:20261201T102500Z
 SUMMARY:PiWSI (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/18\nProwadzący: dr inż. Łuszczek Jakub
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T085000Z
@@ -925,7 +911,7 @@ DTSTART:20261124T104000Z
 DTEND:20261124T121500Z
 SUMMARY:PiWSI (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/18\nProwadzący: dr inż. Łuszczek Jakub
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T104000Z
@@ -1044,7 +1030,7 @@ DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:PiWSI (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/18\nProwadzący: dr inż. Łuszczek Jakub
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T123000Z
@@ -1129,6 +1115,13 @@ DTEND:20261006T153500Z
 SUMMARY:IEPT. (w)
 LOCATION:51/ 62
 DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 7/16\nProwadzący: dr inż. Morka Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T140000Z
+DTEND:20261020T153500Z
+SUMMARY:PiWSI (L)
+LOCATION:30/ 54
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T150000Z
@@ -1276,6 +1269,13 @@ DTEND:20261014T073500Z
 SUMMARY:Zms2 (w)
 LOCATION:52/ 62
 DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Morka Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:PiWSI (w)
+LOCATION:120/ 54
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T070000Z

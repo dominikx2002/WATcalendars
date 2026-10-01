@@ -158,13 +158,6 @@ LOCATION:0.28/135
 DESCRIPTION:Współczesne wyzwania i zagrożenia cywilizacyjne 29\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Krysowaty Aneta 30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T094000Z
-DTEND:20261003T111500Z
-SUMMARY:BD (w)
-LOCATION:223 S
-DESCRIPTION:Bazy danych 4\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: mgr inż. Kowalski Arkadiusz 5
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261010T094000Z
 DTEND:20261010T111500Z
 SUMMARY:Ibw (w)
@@ -212,6 +205,13 @@ DTEND:20261212T121500Z
 SUMMARY:OPzR (w)
 LOCATION:255 S
 DESCRIPTION:Ocena postępowania z ryzykiem 21\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Szwarc Krzysztof 22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T104000Z
+DTEND:20261219T121500Z
+SUMMARY:BD (w)
+LOCATION:223 S
+DESCRIPTION:Bazy danych 4\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: mgr inż. Kowalski Arkadiusz 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T104000Z

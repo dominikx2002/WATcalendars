@@ -4757,6 +4757,11 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Krzysztof Kluska [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Krzysztof Kocoń"
     },
@@ -5094,6 +5099,11 @@
       "degree": "mgr inż.",
       "is_new": false,
       "name": "Paweł Ryś"
+    },
+    {
+      "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Paweł Soszyński [NEW]"
     },
     {
       "degree": "mgr inż.",
@@ -5602,8 +5612,8 @@
     },
     {
       "degree": "prof. dr hab. inż.",
-      "is_new": true,
-      "name": "Jacek Janiszewski [NEW]"
+      "is_new": false,
+      "name": "Jacek Janiszewski"
     },
     {
       "degree": "prof. dr hab. inż.",
@@ -5902,10 +5912,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T04:39:38.043950",
-    "last_updated_readable": "2026-09-30 04:39:38",
-    "new_employees_count": 1,
+    "last_updated": "2026-10-01T04:51:29.636848",
+    "last_updated_readable": "2026-10-01 04:51:29",
+    "new_employees_count": 2,
     "scraper_version": "1.0",
-    "total_employees": 1180
+    "total_employees": 1182
   }
 }

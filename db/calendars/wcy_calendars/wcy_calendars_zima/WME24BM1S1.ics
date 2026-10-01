@@ -3259,13 +3259,6 @@ LOCATION:2.09/ 54A
 DESCRIPTION:Teoria maszyn i mechanizmów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T075000Z
-DTEND:20261019T092500Z
-SUMMARY:GwIB (ć)
-LOCATION:29/ 54 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261019T094000Z
 DTEND:20261019T111500Z
 SUMMARY:Swb (w)
@@ -3305,7 +3298,7 @@ DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: -
+DESCRIPTION:Grafika w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T075000Z
@@ -3378,13 +3371,6 @@ LOCATION:2.09/ 54A
 DESCRIPTION:Teoria maszyn i mechanizmów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261026T085000Z
-DTEND:20261026T102500Z
-SUMMARY:GwIB (ć)
-LOCATION:29/ 54 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261026T104000Z
 DTEND:20261026T121500Z
 SUMMARY:Mt 2 (w)
@@ -3438,7 +3424,7 @@ DTSTART:20261027T123000Z
 DTEND:20261027T140500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: -
+DESCRIPTION:Grafika w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T150000Z
@@ -3467,6 +3453,20 @@ DTEND:20261028T121500Z
 SUMMARY:Tmf (w)
 LOCATION:6/ 23A
 DESCRIPTION:Technika mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
+SUMMARY:GwIB (ć)
+LOCATION:29/ 54 30/ 54
+DESCRIPTION:Grafika w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T150000Z
+DTEND:20261028T163500Z
+SUMMARY:GwIB (ć)
+LOCATION:29/ 54 30/ 54
+DESCRIPTION:Grafika w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T070000Z

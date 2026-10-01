@@ -382,13 +382,6 @@ LOCATION:4.23/135
 DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 15/24\nProwadzący: dr Szwarc Krzysztof 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T104000Z
-DTEND:20261117T121500Z
-SUMMARY:Teoria 
-LOCATION:187 S
-DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 7/17\nProwadzący: dr Kawalerski Paweł 2; dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel 26
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T104000Z
 DTEND:20261124T121500Z
 SUMMARY:Bezpieczeństwo 
@@ -428,6 +421,13 @@ DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
 SUMMARY:Teoria 
 LOCATION:A.1.3/135
+DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 7/17\nProwadzący: dr Kawalerski Paweł 2; dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T123000Z
+DTEND:20261027T140500Z
+SUMMARY:Teoria 
+LOCATION:1.27/135
 DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 8/17\nProwadzący: dr Kawalerski Paweł 2; dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel 26
 END:VEVENT
 BEGIN:VEVENT
@@ -443,13 +443,6 @@ DTEND:20261110T140500Z
 SUMMARY:Teoria 
 LOCATION:5.21/135
 DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 10/17\nProwadzący: dr Kawalerski Paweł 2; dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel 26
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:Teoria 
-LOCATION:187 S
-DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 11/17\nProwadzący: dr Kawalerski Paweł 2; dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T123000Z
@@ -477,13 +470,20 @@ DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:Teoria 
 LOCATION:4.23/135
-DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 12/17\nProwadzący: dr Kawalerski Paweł 2; dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel 26
+DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 11/17\nProwadzący: dr Kawalerski Paweł 2; dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T140000Z
 DTEND:20261020T153500Z
 SUMMARY:Teoria 
 LOCATION:A.1.3/135
+DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 12/17\nProwadzący: dr Kawalerski Paweł 2; dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T150000Z
+DTEND:20261027T163500Z
+SUMMARY:Teoria 
+LOCATION:1.27/135
 DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 13/17\nProwadzący: dr Kawalerski Paweł 2; dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel 26
 END:VEVENT
 BEGIN:VEVENT

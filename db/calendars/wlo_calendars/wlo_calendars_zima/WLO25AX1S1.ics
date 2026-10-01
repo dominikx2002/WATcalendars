@@ -483,15 +483,15 @@ BEGIN:VEVENT
 DTSTART:20260202T085000Z
 DTEND:20260202T102500Z
 SUMMARY:P.Adm. (E)
-LOCATION:0.19/135
-DESCRIPTION:Prawo administracyjne 20\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Śledzik Waldemar 21
+LOCATION:
+DESCRIPTION:Prawo administracyjne 20\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Śledzik Waldemar 21; dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T085000Z
 DTEND:20260216T102500Z
 SUMMARY:P.Adm. (Ep)
-LOCATION:0.28/135
-DESCRIPTION:Prawo administracyjne 20\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Śledzik Waldemar 21
+LOCATION:
+DESCRIPTION:Prawo administracyjne 20\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Śledzik Waldemar 21; dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T094000Z

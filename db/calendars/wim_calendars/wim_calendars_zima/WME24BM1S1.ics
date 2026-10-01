@@ -137,20 +137,6 @@ LOCATION:54/ 62
 DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T075000Z
-DTEND:20261019T092500Z
-SUMMARY:GwIB (ć)
-LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261026T085000Z
-DTEND:20261026T102500Z
-SUMMARY:GwIB (ć)
-LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261102T085000Z
 DTEND:20261102T102500Z
 SUMMARY:TMiM (w)
@@ -295,7 +281,7 @@ DTSTART:20261116T104000Z
 DTEND:20261116T121500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12
+DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T104000Z
@@ -414,7 +400,7 @@ DTSTART:20261123T123000Z
 DTEND:20261123T140500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12
+DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T123000Z
@@ -813,7 +799,7 @@ DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12
+DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T085000Z
@@ -1086,21 +1072,21 @@ DTSTART:20261027T123000Z
 DTEND:20261027T140500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12
+DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12
+DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T123000Z
 DTEND:20261110T140500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12
+DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T123000Z
@@ -1345,14 +1331,14 @@ DTSTART:20261208T184000Z
 DTEND:20261208T201500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12
+DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T184000Z
 DTEND:20261215T201500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12
+DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T184000Z
@@ -1775,6 +1761,13 @@ LOCATION:116/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
+SUMMARY:GwIB (ć)
+LOCATION:29/ 54; 30/ 54
+DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261111T123000Z
 DTEND:20261111T140500Z
 SUMMARY:I 
@@ -1807,7 +1800,7 @@ DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12
+DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z
@@ -1850,6 +1843,13 @@ DTEND:20260217T140500Z
 SUMMARY:ArCz (Zp.)
 LOCATION:54/ 62
 DESCRIPTION:Analiza ruchu człowieka\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Stankiewicz Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T150000Z
+DTEND:20261028T163500Z
+SUMMARY:GwIB (ć)
+LOCATION:29/ 54; 30/ 54
+DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T150000Z

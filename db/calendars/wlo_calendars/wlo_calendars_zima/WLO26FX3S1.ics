@@ -102,13 +102,6 @@ LOCATION:1.15/16
 DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: mgr inż. Rajewski Marek 36
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261116T104000Z
-DTEND:20261116T121500Z
-SUMMARY:WDM (ć)
-LOCATION:1.15/16
-DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: mgr inż. Rajewski Marek 36
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261123T104000Z
 DTEND:20261123T121500Z
 SUMMARY:M1 (ć)
@@ -123,6 +116,13 @@ LOCATION:0.8/16
 DESCRIPTION:Wprowadzenie do informatyki 30\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Waśniewski Tomasz 31
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261214T104000Z
+DTEND:20261214T121500Z
+SUMMARY:Ez (ć)
+LOCATION:0.19/135
+DESCRIPTION:Etyka zawodowa 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. Świniarski Janusz 2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261221T104000Z
 DTEND:20261221T121500Z
 SUMMARY:M1 (ć)
@@ -134,7 +134,7 @@ DTSTART:20260111T104000Z
 DTEND:20260111T121500Z
 SUMMARY:WDM (ć)
 LOCATION:0.6/16
-DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: mgr inż. Rajewski Marek 36
+DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: mgr inż. Rajewski Marek 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260208T104000Z
@@ -163,13 +163,6 @@ DTEND:20261109T140500Z
 SUMMARY:PGI (ć)
 LOCATION:5.17/135
 DESCRIPTION:Podstawy grafiki inżynierskiej 21\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 22
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T123000Z
-DTEND:20261116T140500Z
-SUMMARY:Ez (ć)
-LOCATION:5.21/135
-DESCRIPTION:Etyka zawodowa 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. Świniarski Janusz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T123000Z
@@ -456,7 +449,7 @@ DTSTART:20261222T104000Z
 DTEND:20261222T121500Z
 SUMMARY:WDM (ć)
 LOCATION:0.22/16
-DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: mgr inż. Rajewski Marek 36
+DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: mgr inż. Rajewski Marek 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T104000Z
@@ -778,7 +771,7 @@ DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:WDM (ć)
 LOCATION:0.6/16
-DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: mgr inż. Rajewski Marek 36
+DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: mgr inż. Rajewski Marek 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T070000Z
@@ -813,7 +806,7 @@ DTSTART:20261216T085000Z
 DTEND:20261216T102500Z
 SUMMARY:WDM (ć)
 LOCATION:5.21/135
-DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: mgr inż. Rajewski Marek 36
+DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: mgr inż. Rajewski Marek 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T094000Z
@@ -841,14 +834,14 @@ DTSTART:20261202T104000Z
 DTEND:20261202T121500Z
 SUMMARY:WDM (ć)
 LOCATION:0.6/16
-DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: mgr inż. Rajewski Marek 36
+DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: mgr inż. Rajewski Marek 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
 SUMMARY:WDM (ć)
 LOCATION:1.15/16
-DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: mgr inż. Rajewski Marek 36
+DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: mgr inż. Rajewski Marek 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T104000Z
@@ -1038,6 +1031,13 @@ DTEND:20261029T083500Z
 SUMMARY:M1 (ć)
 LOCATION:5.17/135
 DESCRIPTION:Matematyka 1 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19\nProwadzący: dr Prusińska Agnieszka 9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T070000Z
+DTEND:20261112T083500Z
+SUMMARY:WDM (ć)
+LOCATION:1.16/16
+DESCRIPTION:Wprowadzenie do metrologii 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: mgr inż. Rajewski Marek 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z

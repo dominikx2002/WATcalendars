@@ -214,6 +214,13 @@ LOCATION:313 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2/17\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261009T113000Z
+DTEND:20261009T130500Z
+SUMMARY:PGI (ć)
+LOCATION:120/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261009T140000Z
 DTEND:20261009T153500Z
 SUMMARY:PGI (w)
@@ -260,7 +267,7 @@ DTSTART:20261013T060000Z
 DTEND:20261013T073500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T075000Z
@@ -319,6 +326,13 @@ LOCATION:240 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261016T094000Z
+DTEND:20261016T111500Z
+SUMMARY:PGI (ć)
+LOCATION:120/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261016T113000Z
 DTEND:20261016T130500Z
 SUMMARY:M II (w)
@@ -373,13 +387,6 @@ DTEND:20261019T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 3/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T060000Z
-DTEND:20261020T073500Z
-SUMMARY:PGI (ć)
-LOCATION:201 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T075000Z
@@ -743,7 +750,7 @@ DTSTART:20261104T070000Z
 DTEND:20261104T083500Z
 SUMMARY:PGI (ć)
 LOCATION:108/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
@@ -778,7 +785,7 @@ DTSTART:20261105T070000Z
 DTEND:20261105T083500Z
 SUMMARY:PGI (ć)
 LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T085000Z
@@ -946,7 +953,7 @@ DTSTART:20261113T123000Z
 DTEND:20261113T140500Z
 SUMMARY:PGI (ć)
 LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T070000Z
@@ -1163,7 +1170,7 @@ DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:PGI (ć)
 LOCATION:204 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T085000Z
@@ -1359,7 +1366,7 @@ DTSTART:20261204T123000Z
 DTEND:20261204T140500Z
 SUMMARY:PGI (ć)
 LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T070000Z
@@ -1702,7 +1709,7 @@ DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:PGI (ć)
 LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T085000Z
@@ -1983,13 +1990,6 @@ DTEND:20270120T140500Z
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270121T070000Z
-DTEND:20270121T083500Z
-SUMMARY:PGI (ć)
-LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T085000Z

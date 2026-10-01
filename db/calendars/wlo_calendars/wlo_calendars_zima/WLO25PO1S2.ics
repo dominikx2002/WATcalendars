@@ -70,8 +70,8 @@ BEGIN:VEVENT
 DTSTART:20261005T094000Z
 DTEND:20261005T111500Z
 SUMMARY:Gd (w)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:5.21/135
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T094000Z
@@ -98,8 +98,8 @@ BEGIN:VEVENT
 DTSTART:20260111T104000Z
 DTEND:20260111T121500Z
 SUMMARY:Gd (ć)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:4.17a/135
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T104000Z
@@ -119,8 +119,8 @@ BEGIN:VEVENT
 DTSTART:20261005T113000Z
 DTEND:20261005T130500Z
 SUMMARY:Gd (w)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:5.21/135
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T113000Z
@@ -147,8 +147,8 @@ BEGIN:VEVENT
 DTSTART:20261116T123000Z
 DTEND:20261116T140500Z
 SUMMARY:Gd (w)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:5.21/135
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T123000Z
@@ -175,8 +175,8 @@ BEGIN:VEVENT
 DTSTART:20260111T123000Z
 DTEND:20260111T140500Z
 SUMMARY:Gd (ć)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:4.17a/135
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T123000Z
@@ -196,8 +196,8 @@ BEGIN:VEVENT
 DTSTART:20261005T140000Z
 DTEND:20261005T153500Z
 SUMMARY:Gd (w)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:5.21/135
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T140000Z
@@ -224,15 +224,15 @@ BEGIN:VEVENT
 DTSTART:20261109T150000Z
 DTEND:20261109T163500Z
 SUMMARY:Gd (w)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:1.15/16
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T150000Z
 DTEND:20261116T163500Z
 SUMMARY:Gd (w)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:5.21/135
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T150000Z
@@ -315,15 +315,15 @@ BEGIN:VEVENT
 DTSTART:20261109T165000Z
 DTEND:20261109T182500Z
 SUMMARY:Gd (w)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:1.15/16
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T165000Z
 DTEND:20261116T182500Z
 SUMMARY:Gd (w)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:5.21/135
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T165000Z
@@ -1281,8 +1281,8 @@ BEGIN:VEVENT
 DTSTART:20260121T104000Z
 DTEND:20260121T121500Z
 SUMMARY:Gd (ć)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:4.17b/135
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T104000Z
@@ -1351,15 +1351,15 @@ BEGIN:VEVENT
 DTSTART:20260107T123000Z
 DTEND:20260107T140500Z
 SUMMARY:Gd (ć)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:5.21/135
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T123000Z
 DTEND:20260121T140500Z
 SUMMARY:Gd (ć)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:4.17b/135
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T123000Z
@@ -1407,8 +1407,8 @@ BEGIN:VEVENT
 DTSTART:20260107T150000Z
 DTEND:20260107T163500Z
 SUMMARY:Gd (ć)
-LOCATION:1003 HIL
-DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11; IiDwO(w) WLO25PO1S2 płk. Kaczmarczyk 1002 HILTON
+LOCATION:5.21/135
+DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T150000Z
@@ -1610,7 +1610,7 @@ BEGIN:VEVENT
 DTSTART:20261023T094000Z
 DTEND:20261023T111500Z
 SUMMARY:Gd (w)
-LOCATION:1b/28
+LOCATION:1.15/16
 DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT
@@ -1715,7 +1715,7 @@ BEGIN:VEVENT
 DTSTART:20261023T113000Z
 DTEND:20261023T130500Z
 SUMMARY:Gd (w)
-LOCATION:1b/28
+LOCATION:1.15/16
 DESCRIPTION:Gra decyzyjna 10\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 11
 END:VEVENT
 BEGIN:VEVENT

@@ -210,14 +210,14 @@ BEGIN:VEVENT
 DTSTART:20261018T075000Z
 DTEND:20261018T092500Z
 SUMMARY:Dtu (w)
-LOCATION:313 S
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261018T094000Z
 DTEND:20261018T111500Z
 SUMMARY:Dtu (w)
-LOCATION:313 S
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -683,22 +683,15 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270110T085000Z
-DTEND:20270110T102500Z
-SUMMARY:mST (L)
-LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270110T104000Z
-DTEND:20270110T121500Z
+DTSTART:20270110T123000Z
+DTEND:20270110T140500Z
 SUMMARY:WIT (L)
 LOCATION:120 65
 DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270110T123000Z
-DTEND:20270110T140500Z
+DTSTART:20270110T150000Z
+DTEND:20270110T163500Z
 SUMMARY:WIT (L)
 LOCATION:120 65
 DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Łukasz Paciorek
@@ -711,8 +704,8 @@ LOCATION:134 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270117T085000Z
-DTEND:20270117T102500Z
+DTSTART:20270117T104000Z
+DTEND:20270117T121500Z
 SUMMARY:Soc (ć)
 LOCATION:308 S
 DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
@@ -722,7 +715,7 @@ DTSTART:20270117T123000Z
 DTEND:20270117T140500Z
 SUMMARY:mST (L)
 LOCATION:120 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270123T085000Z
@@ -737,6 +730,13 @@ DTEND:20270123T121500Z
 SUMMARY:WIT (L)
 LOCATION:120 65
 DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270123T123000Z
+DTEND:20270123T140500Z
+SUMMARY:mST (L)
+LOCATION:106 65
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270123T150000Z

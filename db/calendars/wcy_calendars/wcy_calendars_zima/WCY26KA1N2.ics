@@ -417,6 +417,13 @@ LOCATION:307 S
 DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261122T104000Z
+DTEND:20261122T121500Z
+SUMMARY:Soc (ć)
+LOCATION:307 S
+DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261205T123000Z
 DTEND:20261205T140500Z
 SUMMARY:Mnk (w)
@@ -526,7 +533,7 @@ DTSTART:20261213T123000Z
 DTEND:20261213T140500Z
 SUMMARY:Soc (ć)
 LOCATION:307 S
-DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T165000Z
@@ -683,27 +690,6 @@ LOCATION:120 65
 DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270117T123000Z
-DTEND:20270117T140500Z
-SUMMARY:Soc (ć)
-LOCATION:308 S
-DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270117T150000Z
-DTEND:20270117T163500Z
-SUMMARY:WIT (P)
-LOCATION:121 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 3/4\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270117T165000Z
-DTEND:20270117T182500Z
-SUMMARY:WIT (P)
-LOCATION:121 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270124T070000Z
 DTEND:20270124T083500Z
 SUMMARY:Ja (ć)
@@ -765,5 +751,19 @@ DTEND:20270131T163500Z
 SUMMARY:Swbo (L)
 LOCATION:228 S
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270131T165000Z
+DTEND:20270131T182500Z
+SUMMARY:WIT (P)
+LOCATION:121 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 3/4\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270131T184000Z
+DTEND:20270131T201500Z
+SUMMARY:WIT (P)
+LOCATION:121 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 END:VCALENDAR

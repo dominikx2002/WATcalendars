@@ -746,6 +746,13 @@ LOCATION:15/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261208T085000Z
+DTEND:20261208T102500Z
+SUMMARY:Kszm1 (ć)
+LOCATION:53/ 62
+DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261222T085000Z
 DTEND:20261222T102500Z
 SUMMARY:IEP. (w)
@@ -849,6 +856,13 @@ DTEND:20261124T121500Z
 SUMMARY:Par (L)
 LOCATION:14/ 23A; 4/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T104000Z
+DTEND:20261201T121500Z
+SUMMARY:Kszm1 (ć)
+LOCATION:53/ 62
+DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T104000Z
@@ -1033,13 +1047,6 @@ LOCATION:52/ 62
 DESCRIPTION:Fundamentals of finite element method\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T140000Z
-DTEND:20261020T153500Z
-SUMMARY:Kszm1 (ć)
-LOCATION:53/ 62
-DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T150000Z
 DTEND:20261027T163500Z
 SUMMARY:Ffem (w)
@@ -1121,14 +1128,14 @@ DTSTART:20261215T165000Z
 DTEND:20261215T182500Z
 SUMMARY:Kszm1 (ć)
 LOCATION:53/ 62
-DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T165000Z
 DTEND:20261222T182500Z
 SUMMARY:Kszm1 (ć)
 LOCATION:53/ 62
-DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T165000Z
@@ -1444,13 +1451,6 @@ DTEND:20261014T111500Z
 SUMMARY:IEP. (w)
 LOCATION:54/ 62
 DESCRIPTION:Introduction to Elasticity Theory\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr inż. Morka Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T094000Z
-DTEND:20261021T111500Z
-SUMMARY:Kszm1 (ć)
-LOCATION:53/ 62
-DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T104000Z

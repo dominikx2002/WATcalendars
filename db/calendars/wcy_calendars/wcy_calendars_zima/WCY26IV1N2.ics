@@ -81,13 +81,6 @@ LOCATION:307 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261010T140000Z
-DTEND:20261010T153500Z
-SUMMARY:Tdst (w)
-LOCATION:308 S
-DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261010T155000Z
 DTEND:20261010T172500Z
 SUMMARY:MumII (w)
@@ -186,20 +179,6 @@ LOCATION:309 S
 DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261018T094000Z
-DTEND:20261018T111500Z
-SUMMARY:Tdst (w)
-LOCATION:228 S
-DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T113000Z
-DTEND:20261018T130500Z
-SUMMARY:Tdst (w)
-LOCATION:228 S
-DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261024T060000Z
 DTEND:20261024T073500Z
 SUMMARY:Clc (w)
@@ -288,7 +267,14 @@ DTSTART:20261114T150000Z
 DTEND:20261114T163500Z
 SUMMARY:Tdst (w)
 LOCATION:309 S
-DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T165000Z
+DTEND:20261114T182500Z
+SUMMARY:Tdst (w)
+LOCATION:309 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T070000Z
@@ -317,6 +303,20 @@ DTEND:20261115T140500Z
 SUMMARY:Mn2 (L)
 LOCATION:224 S
 DESCRIPTION:Metody numeryczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T150000Z
+DTEND:20261115T163500Z
+SUMMARY:Tdst (w)
+LOCATION:228 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T165000Z
+DTEND:20261115T182500Z
+SUMMARY:Tdst (w)
+LOCATION:228 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T070000Z

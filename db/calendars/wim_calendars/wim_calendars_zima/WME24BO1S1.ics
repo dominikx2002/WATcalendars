@@ -480,6 +480,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 8/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260111T123000Z
+DTEND:20260111T140500Z
+SUMMARY:Dso (w)
+LOCATION:
+DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260118T123000Z
 DTEND:20260118T140500Z
 SUMMARY:Tmf (L)
@@ -1408,7 +1415,7 @@ DTSTART:20261021T060000Z
 DTEND:20261021T073500Z
 SUMMARY:Dso (w)
 LOCATION:
-DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
+DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T070000Z
@@ -1443,7 +1450,7 @@ DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:Dso (w)
 LOCATION:
-DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
+DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
@@ -1457,14 +1464,14 @@ DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:Dso (w)
 LOCATION:
-DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
+DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:Dso (w)
 LOCATION:
-DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
+DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T070000Z
@@ -1527,7 +1534,7 @@ DTSTART:20261014T075000Z
 DTEND:20261014T092500Z
 SUMMARY:Dso (w)
 LOCATION:
-DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
+DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
@@ -1878,13 +1885,6 @@ DTEND:20260217T140500Z
 SUMMARY:PeK (Ep)
 LOCATION:
 DESCRIPTION:Podstawy elektroniki kwantowej\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261104T150000Z
-DTEND:20261104T163500Z
-SUMMARY:Dso (w)
-LOCATION:
-DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T150000Z
