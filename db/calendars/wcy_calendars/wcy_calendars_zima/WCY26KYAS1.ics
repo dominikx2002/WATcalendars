@@ -259,21 +259,21 @@ BEGIN:VEVENT
 DTSTART:20261021T060000Z
 DTEND:20261021T073500Z
 SUMMARY:DM1 (w)
-LOCATION:309 S
+LOCATION:101 65
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
 SUMMARY:DM1 (w)
-LOCATION:309 S
+LOCATION:204 65
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T094000Z
 DTEND:20261021T111500Z
 SUMMARY:DM1 (ć)
-LOCATION:085 S
+LOCATION:219 65
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1166,13 +1166,6 @@ LOCATION:201 65
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270111T070000Z
-DTEND:20270111T083500Z
-SUMMARY:Intm (ć)
-LOCATION:S3 72
-DESCRIPTION:Introduction to Metrology - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270111T085000Z
 DTEND:20270111T102500Z
 SUMMARY:Math1 (w)
@@ -1192,6 +1185,13 @@ DTEND:20270111T140500Z
 SUMMARY:Math1 (ć)
 LOCATION:317 S
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: dr Justyna Ogorzały
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T165000Z
+DTEND:20270111T182500Z
+SUMMARY:Intm (ć)
+LOCATION:S3 72
+DESCRIPTION:Introduction to Metrology - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T070000Z

@@ -672,19 +672,19 @@ BEGIN:VEVENT
 DTSTART:20261006T060000Z
 DTEND:20261006T073500Z
 SUMMARY:ZaMe (ć)
-LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 M
-DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; kpt. mgr inż. Goździk Dawid 4
+LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 Szw
+DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; mjr dr inż. Walkowiak Marzena; kpt. mgr inż. Goździk Dawid 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T060000Z
 DTEND:20261013T073500Z
 SUMMARY:ZaMe (ć)
-LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 M
-DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; kpt. mgr inż. Goździk Dawid 4
+LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 Maj
+DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; mjr dr inż. Walkowiak Marzena; mjr mgr Zawadzki Filip 78; kpt. mgr inż. Goździk Dawid 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T070000Z
-DTEND:20261027T083500Z
+DTSTART:20261020T060000Z
+DTEND:20261020T073500Z
 SUMMARY:ZaMe (ć)
 LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 M
 DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; kpt. mgr inż. Goździk Dawid 4
@@ -749,29 +749,29 @@ BEGIN:VEVENT
 DTSTART:20261006T075000Z
 DTEND:20261006T092500Z
 SUMMARY:ZaMe (ć)
-LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 M
-DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; kpt. mgr inż. Goździk Dawid 4
+LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 Szw
+DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; mjr dr inż. Walkowiak Marzena; kpt. mgr inż. Goździk Dawid 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T075000Z
 DTEND:20261013T092500Z
 SUMMARY:ZaMe (ć)
-LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 M
-DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; kpt. mgr inż. Goździk Dawid 4
+LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 Maj
+DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; mjr dr inż. Walkowiak Marzena; mjr mgr Zawadzki Filip 78; kpt. mgr inż. Goździk Dawid 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
-SUMMARY:WF (ć)
-LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 MPi
-DESCRIPTION:Wychowanie fizyczne 71\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/40
+SUMMARY:ZaMe (ć)
+LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 M
+DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; kpt. mgr inż. Goździk Dawid 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
-SUMMARY:ZaMe (ć)
-LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 M
-DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; kpt. mgr inż. Goździk Dawid 4
+SUMMARY:WF (ć)
+LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 MPi
+DESCRIPTION:Wychowanie fizyczne 71\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T085000Z
@@ -882,29 +882,36 @@ BEGIN:VEVENT
 DTSTART:20261006T094000Z
 DTEND:20261006T111500Z
 SUMMARY:ZaMe (ć)
-LOCATION:2PL/12KP; 1PL/8KP; 22LL; 1S; 22FO; 1S; 22FO; 2S; 0 M
-DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/18\nProwadzący: kpt. dr inż. Morawski Mateusz 7; mjr dr inż. Walkowiak Marzena 64; ppor. mgr Szwed Katarzyna 78; kpt. mgr inż. Goździk Dawid 4
+LOCATION:2PL/12KP; 1PL/8KP; 22LL; 1S; 22FO; 1S; 22FO; 2S; 0 Szw
+DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/18\nProwadzący: kpt. dr inż. Morawski Mateusz 7; mjr dr inż. Walkowiak Marzena 64; mjr dr inż. Walkowiak Marzena; kpt. mgr inż. Goździk Dawid 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T094000Z
 DTEND:20261013T111500Z
 SUMMARY:ZaMe (ć)
-LOCATION:1PL/8KP; 3PL/8KP; 22FO; 1S; 22FO; 2S; 22IT; 1S; 22IW; 1S; 0 M
-DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; mjr dr inż. Walkowiak Marzena; prof. dr hab. Pawlisiak Mieczysław 16; kpt. mgr inż. Goździk Dawid 4
+LOCATION:1PL/8KP; 3PL/8KP; 22FO; 1S; 22FO; 2S; 22IT; 1S; 22IW; 1S; 0 Maj
+DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; mjr dr inż. Walkowiak Marzena; prof. dr hab. Pawlisiak Mieczysław 16; mjr mgr Zawadzki Filip 78; kpt. mgr inż. Goździk Dawid 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T094000Z
+DTEND:20261020T111500Z
+SUMMARY:ZaMe (ć)
+LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 M
+DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; kpt. mgr inż. Goździk Dawid 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
-SUMMARY:ZaMe (ć)
-LOCATION:1PL/8KP; 3PL/8KP; 22FO; 1S; 22FO; 2S; 22IT; 1S; 22IW; 1S; 0 M
-DESCRIPTION:Zabezpieczenie medyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/18\nProwadzący: mjr dr inż. Walkowiak Marzena 64; mjr dr inż. Walkowiak Marzena; prof. dr hab. Pawlisiak Mieczysław 16; kpt. mgr inż. Goździk Dawid 4
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T104000Z
@@ -1142,21 +1149,21 @@ DTSTART:20261006T155000Z
 DTEND:20261006T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T155000Z
 DTEND:20261013T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T165000Z
 DTEND:20261027T182500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T165000Z
@@ -1205,105 +1212,105 @@ DTSTART:20261006T174000Z
 DTEND:20261006T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T174000Z
 DTEND:20261013T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T174000Z
 DTEND:20261020T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T184000Z
 DTEND:20261027T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T184000Z
 DTEND:20261103T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 10/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T184000Z
 DTEND:20261110T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 10/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 11/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T184000Z
 DTEND:20261117T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 11/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 12/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T184000Z
 DTEND:20261124T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 12/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T184000Z
 DTEND:20261201T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 14/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T184000Z
 DTEND:20261208T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 14/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 15/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T184000Z
 DTEND:20261215T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 15/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 16/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T184000Z
 DTEND:20261222T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 16/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 17/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T184000Z
 DTEND:20260112T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 17/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 18/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T184000Z
 DTEND:20260119T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 18/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 19/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T184000Z
 DTEND:20260126T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 19/19
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 20/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T184000Z
@@ -1359,7 +1366,7 @@ DTSTART:20261028T070000Z
 DTEND:20261028T083500Z
 SUMMARY:ZŻWAT (i)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT 79\nRodzaj zajęć: (i)\nNumer zajęć: 1/4
+DESCRIPTION:Zbiórka żołnierzy WAT 81\nRodzaj zajęć: (i)\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
@@ -1373,7 +1380,7 @@ DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
 SUMMARY:ZŻWAT (i)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT 79\nRodzaj zajęć: (i)\nNumer zajęć: 2/4
+DESCRIPTION:Zbiórka żołnierzy WAT 81\nRodzaj zajęć: (i)\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T070000Z
@@ -1401,7 +1408,7 @@ DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:ZŻWAT (i)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT 79\nRodzaj zajęć: (i)\nNumer zajęć: 3/4
+DESCRIPTION:Zbiórka żołnierzy WAT 81\nRodzaj zajęć: (i)\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
@@ -1415,7 +1422,7 @@ DTSTART:20260113T070000Z
 DTEND:20260113T083500Z
 SUMMARY:ZŻWAT (i)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT 79\nRodzaj zajęć: (i)\nNumer zajęć: 4/4
+DESCRIPTION:Zbiórka żołnierzy WAT 81\nRodzaj zajęć: (i)\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T070000Z

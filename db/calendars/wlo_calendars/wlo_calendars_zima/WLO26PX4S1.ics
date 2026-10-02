@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO26PX4S1
 BEGIN:VEVENT
+DTSTART:20261026T070000Z
+DTEND:20261026T083500Z
+SUMMARY:Ez (w)
+LOCATION:1.9/16; 1.10/16
+DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261123T070000Z
 DTEND:20261123T083500Z
 SUMMARY:oiz (ć)
@@ -15,7 +22,7 @@ DTSTART:20260111T070000Z
 DTEND:20260111T083500Z
 SUMMARY:Ez (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
+DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T075000Z
@@ -78,7 +85,7 @@ DTSTART:20260118T085000Z
 DTEND:20260118T102500Z
 SUMMARY:Ez (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
+DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T094000Z
@@ -148,7 +155,7 @@ DTSTART:20260118T104000Z
 DTEND:20260118T121500Z
 SUMMARY:Ez (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
+DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260201T104000Z
@@ -190,7 +197,7 @@ DTSTART:20261214T123000Z
 DTEND:20261214T140500Z
 SUMMARY:Ez (w)
 LOCATION:
-DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
+DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T123000Z
@@ -232,7 +239,7 @@ DTSTART:20261214T150000Z
 DTEND:20261214T163500Z
 SUMMARY:Ez (w)
 LOCATION:
-DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
+DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T150000Z
@@ -1065,7 +1072,7 @@ DTSTART:20260128T123000Z
 DTEND:20260128T140500Z
 SUMMARY:Ez (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
+DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T140000Z
@@ -1241,13 +1248,6 @@ DTEND:20261204T083500Z
 SUMMARY:Psy (w)
 LOCATION:7a
 DESCRIPTION:Psychologia 37\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Karczewski Edward 38
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T070000Z
-DTEND:20261211T083500Z
-SUMMARY:Ez (w)
-LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Etyka zawodowa 6\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T070000Z

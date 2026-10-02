@@ -242,18 +242,11 @@ LOCATION:6/ 23A
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Murawski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T094000Z
-DTEND:20261012T111500Z
-SUMMARY:Swb (w)
-LOCATION:6/ 23A
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Murawski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261019T094000Z
 DTEND:20261019T111500Z
 SUMMARY:Swb (w)
 LOCATION:6/ 23A
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Murawski Krzysztof
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Murawski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T104000Z
@@ -267,7 +260,7 @@ DTSTART:20261102T104000Z
 DTEND:20261102T121500Z
 SUMMARY:Swb (w)
 LOCATION:6/ 23A
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Murawski Krzysztof
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Murawski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T104000Z
@@ -361,18 +354,11 @@ LOCATION:54/ 62
 DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 6/13\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T113000Z
-DTEND:20261012T130500Z
-SUMMARY:Swb (w)
-LOCATION:6/ 23A
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Murawski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261019T113000Z
 DTEND:20261019T130500Z
 SUMMARY:Swb (w)
 LOCATION:6/ 23A
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Murawski Krzysztof
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Murawski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T123000Z
@@ -386,7 +372,7 @@ DTSTART:20261102T123000Z
 DTEND:20261102T140500Z
 SUMMARY:Swb (w)
 LOCATION:6/ 23A
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Murawski Krzysztof
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Murawski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T123000Z
@@ -1425,6 +1411,13 @@ LOCATION:
 DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:Swb (w)
+LOCATION:3/ 23A
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Murawski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:ArCz (L)
@@ -1542,6 +1535,13 @@ DTEND:20261125T102500Z
 SUMMARY:App (S)
 LOCATION:6/ 23A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T085000Z
+DTEND:20261202T102500Z
+SUMMARY:Swb (w)
+LOCATION:3/ 23A
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Murawski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T085000Z

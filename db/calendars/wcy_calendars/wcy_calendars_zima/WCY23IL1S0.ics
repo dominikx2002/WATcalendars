@@ -2020,20 +2020,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261005T060000Z
-DTEND:20261005T073500Z
-SUMMARY:TAI (w)
-LOCATION:252 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261005T075000Z
-DTEND:20261005T092500Z
-SUMMARY:TAI (w)
-LOCATION:252 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261005T094000Z
 DTEND:20261005T111500Z
 SUMMARY:Ja (ć)
@@ -2179,6 +2165,20 @@ DTEND:20261012T130500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 34/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261013T060000Z
+DTEND:20261013T073500Z
+SUMMARY:TAI (w)
+LOCATION:252 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261013T075000Z
+DTEND:20261013T092500Z
+SUMMARY:TAI (w)
+LOCATION:252 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T140000Z

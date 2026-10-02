@@ -2568,16 +2568,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 12/1\nProwadzący: -
+SUMMARY:ZaMe (ć)
+LOCATION:AW 7
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T140000Z
+DTEND:20261020T153500Z
+SUMMARY:ZaMe (ć)
+LOCATION:AW 7
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T155000Z
+DTEND:20261020T172500Z
+SUMMARY:ZaMe (ć)
+LOCATION:AW 7
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T174000Z
 DTEND:20261020T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 13/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 12/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T060000Z
@@ -2706,32 +2720,11 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 38/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T121500Z
-SUMMARY:ZaMe (ć)
-LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T123000Z
-DTEND:20261027T140500Z
-SUMMARY:ZaMe (ć)
-LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T150000Z
-DTEND:20261027T163500Z
-SUMMARY:ZaMe (ć)
-LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T184000Z
 DTEND:20261027T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 14/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 13/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
@@ -2899,14 +2892,14 @@ DTSTART:20261103T165000Z
 DTEND:20261103T182500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 15/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 14/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T184000Z
 DTEND:20261103T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 16/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 15/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
@@ -3053,7 +3046,7 @@ DTSTART:20261110T184000Z
 DTEND:20261110T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 17/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 16/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -3158,7 +3151,7 @@ DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 18/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T123000Z
@@ -3179,14 +3172,14 @@ DTSTART:20261117T165000Z
 DTEND:20261117T182500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 19/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 18/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T184000Z
 DTEND:20261117T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 20/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 19/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T085000Z
@@ -3312,7 +3305,7 @@ DTSTART:20261124T184000Z
 DTEND:20261124T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 21/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 20/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T070000Z
@@ -3445,7 +3438,7 @@ DTSTART:20261201T184000Z
 DTEND:20261201T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 22/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 21/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T070000Z
@@ -3606,7 +3599,7 @@ DTSTART:20261208T184000Z
 DTEND:20261208T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 23/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 22/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
@@ -3725,7 +3718,7 @@ DTSTART:20261215T184000Z
 DTEND:20261215T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 24/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 23/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -3872,7 +3865,7 @@ DTSTART:20261222T184000Z
 DTEND:20261222T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 25/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 24/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
@@ -4026,7 +4019,7 @@ DTSTART:20270112T184000Z
 DTEND:20270112T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 26/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 25/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T085000Z
@@ -4138,7 +4131,7 @@ DTSTART:20270119T184000Z
 DTEND:20270119T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 27/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 26/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T070000Z
@@ -4236,7 +4229,7 @@ DTSTART:20270126T184000Z
 DTEND:20270126T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 28/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 27/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T070000Z

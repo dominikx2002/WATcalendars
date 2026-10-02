@@ -480,13 +480,6 @@ LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261205T165000Z
-DTEND:20261205T182500Z
-SUMMARY:Mnk (L)
-LOCATION:219 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr hab. Ewa Czuchry
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261206T070000Z
 DTEND:20261206T083500Z
 SUMMARY:Ja (ć)
@@ -624,14 +617,14 @@ DTSTART:20261219T150000Z
 DTEND:20261219T163500Z
 SUMMARY:Mnk (L)
 LOCATION:219 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T165000Z
 DTEND:20261219T182500Z
 SUMMARY:Mnk (L)
 LOCATION:219 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T070000Z
@@ -674,6 +667,13 @@ DTEND:20270109T121500Z
 SUMMARY:Nmtz (ć)
 LOCATION:317 S
 DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270109T123000Z
+DTEND:20270109T140500Z
+SUMMARY:Mnk (L)
+LOCATION:219 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270110T070000Z

@@ -2,6 +2,11 @@
   "employees": [
     {
       "degree": "dr",
+      "is_new": true,
+      "name": "Adam Komorowski [NEW]"
+    },
+    {
+      "degree": "dr",
       "is_new": false,
       "name": "Adam Kubica"
     },
@@ -69,6 +74,11 @@
       "degree": "dr",
       "is_new": false,
       "name": "Andrzej Strychalski"
+    },
+    {
+      "degree": "dr",
+      "is_new": true,
+      "name": "Aneta Augustynowicz [NEW]"
     },
     {
       "degree": "dr",
@@ -232,6 +242,11 @@
     },
     {
       "degree": "dr",
+      "is_new": true,
+      "name": "Izabela Wolańska [NEW]"
+    },
+    {
+      "degree": "dr",
       "is_new": false,
       "name": "Jacek Woźniak"
     },
@@ -339,6 +354,11 @@
       "degree": "dr",
       "is_new": false,
       "name": "Karol Sielezin"
+    },
+    {
+      "degree": "dr",
+      "is_new": true,
+      "name": "Katarzyna Kolasińska-Morawska [NEW]"
     },
     {
       "degree": "dr",
@@ -477,6 +497,11 @@
     },
     {
       "degree": "dr",
+      "is_new": true,
+      "name": "Michał Dziendzikowski [NEW]"
+    },
+    {
+      "degree": "dr",
       "is_new": false,
       "name": "Michał Klepczarek"
     },
@@ -539,6 +564,11 @@
       "degree": "dr",
       "is_new": false,
       "name": "Paweł Lubowiecki"
+    },
+    {
+      "degree": "dr",
+      "is_new": true,
+      "name": "Paweł Matraś [NEW]"
     },
     {
       "degree": "dr",
@@ -922,6 +952,11 @@
     },
     {
       "degree": "dr hab.",
+      "is_new": true,
+      "name": "Paweł Pęczkowski [NEW]"
+    },
+    {
+      "degree": "dr hab.",
       "is_new": false,
       "name": "Piotr Kosiuczenko"
     },
@@ -1154,6 +1189,11 @@
       "degree": "dr hab. inż.",
       "is_new": false,
       "name": "Krzysztof Murawski"
+    },
+    {
+      "degree": "dr hab. inż.",
+      "is_new": true,
+      "name": "Krzysztof Perlicki [NEW]"
     },
     {
       "degree": "dr hab. inż.",
@@ -2109,6 +2149,11 @@
       "degree": "dr inż.",
       "is_new": false,
       "name": "Jakub Kochan"
+    },
+    {
+      "degree": "dr inż.",
+      "is_new": true,
+      "name": "Jakub Kocjan [NEW]"
     },
     {
       "degree": "dr inż.",
@@ -3697,6 +3742,11 @@
     },
     {
       "degree": "mgr",
+      "is_new": true,
+      "name": "Aleksandra Szczerbińska [NEW]"
+    },
+    {
+      "degree": "mgr",
       "is_new": false,
       "name": "Andrzej Kozera"
     },
@@ -3749,6 +3799,11 @@
       "degree": "mgr",
       "is_new": false,
       "name": "Barbara Jaworska"
+    },
+    {
+      "degree": "mgr",
+      "is_new": true,
+      "name": "Barbara Król [NEW]"
     },
     {
       "degree": "mgr",
@@ -3899,6 +3954,11 @@
       "degree": "mgr",
       "is_new": false,
       "name": "Joanna Gołębiewska"
+    },
+    {
+      "degree": "mgr",
+      "is_new": true,
+      "name": "Joanna Pianka [NEW]"
     },
     {
       "degree": "mgr",
@@ -4152,6 +4212,11 @@
     },
     {
       "degree": "mgr",
+      "is_new": true,
+      "name": "Przemysław Bratkowski [NEW]"
+    },
+    {
+      "degree": "mgr",
       "is_new": false,
       "name": "Przemysław Kamela"
     },
@@ -4189,6 +4254,11 @@
       "degree": "mgr",
       "is_new": false,
       "name": "Róża Molenda"
+    },
+    {
+      "degree": "mgr",
+      "is_new": true,
+      "name": "Sebastian Rzeszowski [NEW]"
     },
     {
       "degree": "mgr",
@@ -4237,6 +4307,11 @@
     },
     {
       "degree": "mgr",
+      "is_new": true,
+      "name": "Zbigniew Zdunek [NEW]"
+    },
+    {
+      "degree": "mgr",
       "is_new": false,
       "name": "Zdzisław Czajko"
     },
@@ -4249,6 +4324,11 @@
       "degree": "mgr",
       "is_new": false,
       "name": "Łukasz Kocańda"
+    },
+    {
+      "degree": "mgr",
+      "is_new": true,
+      "name": "Łukasz Łuczak [NEW]"
     },
     {
       "degree": "mgr inż.",
@@ -4277,6 +4357,11 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Adrian Połaniecki [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Agnieszka Błaszczyk"
     },
@@ -4292,8 +4377,23 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Agnieszka Świderska [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Aleksandra Kucharczyk-Drab [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Aleksandra Skuza"
+    },
+    {
+      "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Aleksandra Szczybelska [NEW]"
     },
     {
       "degree": "mgr inż.",
@@ -4309,6 +4409,11 @@
       "degree": "mgr inż.",
       "is_new": false,
       "name": "Andrzej Ligienza"
+    },
+    {
+      "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Aneta Misiak-Zawadzka [NEW]"
     },
     {
       "degree": "mgr inż.",
@@ -4344,6 +4449,11 @@
       "degree": "mgr inż.",
       "is_new": false,
       "name": "Bartosz Bawiec"
+    },
+    {
+      "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Bartosz Błyskun [NEW]"
     },
     {
       "degree": "mgr inż.",
@@ -4562,6 +4672,11 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Iwona Wyrębska [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Jacek Stępień"
     },
@@ -4569,6 +4684,11 @@
       "degree": "mgr inż.",
       "is_new": false,
       "name": "Jakub Djabin"
+    },
+    {
+      "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Jakub Dąbrowski [NEW]"
     },
     {
       "degree": "mgr inż.",
@@ -4584,6 +4704,11 @@
       "degree": "mgr inż.",
       "is_new": false,
       "name": "Jakub Kołodziej"
+    },
+    {
+      "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Jakub Lorencki [NEW]"
     },
     {
       "degree": "mgr inż.",
@@ -4742,6 +4867,11 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Kinga Żurawska [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Klaudia Kozon"
     },
@@ -4752,13 +4882,18 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Konrad Siwek [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Krystian Wojdygowski"
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Krzysztof Kluska [NEW]"
+      "is_new": false,
+      "name": "Krzysztof Kluska"
     },
     {
       "degree": "mgr inż.",
@@ -5102,8 +5237,8 @@
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Paweł Soszyński [NEW]"
+      "is_new": false,
+      "name": "Paweł Soszyński"
     },
     {
       "degree": "mgr inż.",
@@ -5334,6 +5469,11 @@
       "degree": "mgr inż.",
       "is_new": false,
       "name": "Tomasz Kijko"
+    },
+    {
+      "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Tomasz Mantur [NEW]"
     },
     {
       "degree": "mgr inż.",
@@ -5912,10 +6052,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T04:51:29.636848",
-    "last_updated_readable": "2026-10-01 04:51:29",
-    "new_employees_count": 2,
+    "last_updated": "2026-10-02T04:43:19.844949",
+    "last_updated_readable": "2026-10-02 04:43:19",
+    "new_employees_count": 28,
     "scraper_version": "1.0",
-    "total_employees": 1182
+    "total_employees": 1210
   }
 }

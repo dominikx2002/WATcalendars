@@ -445,13 +445,6 @@ LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261205T184000Z
-DTEND:20261205T201500Z
-SUMMARY:Mnk (L)
-LOCATION:219 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr hab. Ewa Czuchry
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261206T070000Z
 DTEND:20261206T083500Z
 SUMMARY:Ja (ć)
@@ -478,13 +471,6 @@ DTEND:20261206T140500Z
 SUMMARY:BbD (L)
 LOCATION:239 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Józef Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261206T165000Z
-DTEND:20261206T182500Z
-SUMMARY:Mnk (L)
-LOCATION:219 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T070000Z
@@ -589,7 +575,7 @@ DTSTART:20261219T184000Z
 DTEND:20261219T201500Z
 SUMMARY:Mnk (L)
 LOCATION:219 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T070000Z
@@ -624,14 +610,14 @@ DTSTART:20261220T150000Z
 DTEND:20261220T163500Z
 SUMMARY:Mnk (L)
 LOCATION:219 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T165000Z
 DTEND:20261220T182500Z
 SUMMARY:Mnk (L)
 LOCATION:218 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270109T070000Z
@@ -660,6 +646,20 @@ DTEND:20270109T140500Z
 SUMMARY:Tal (L)
 LOCATION:223 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: mgr inż. Jarosław Napiórkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270109T150000Z
+DTEND:20270109T163500Z
+SUMMARY:Mnk (L)
+LOCATION:219 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr hab. Ewa Czuchry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270109T165000Z
+DTEND:20270109T182500Z
+SUMMARY:Mnk (L)
+LOCATION:219 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270110T070000Z

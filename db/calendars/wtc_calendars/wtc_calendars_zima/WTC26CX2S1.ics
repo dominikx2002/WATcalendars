@@ -578,6 +578,20 @@ LOCATION:aF S
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 11/17\nProwadzący: dr Nawrocki Jan
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261201T150000Z
+DTEND:20261201T163500Z
+SUMMARY:Wzp (w)
+LOCATION:aF S
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Kobielski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T150000Z
+DTEND:20261215T163500Z
+SUMMARY:Wzp (w)
+LOCATION:aF S
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kobielski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261222T150000Z
 DTEND:20261222T163500Z
 SUMMARY:PGI (ć)
@@ -877,104 +891,6 @@ DTEND:20260127T140500Z
 SUMMARY:PGI (ć)
 LOCATION:26/ 34
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/18\nProwadzący: dr inż. Łyszkowski Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261007T140000Z
-DTEND:20261007T153500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261014T140000Z
-DTEND:20261014T153500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T140000Z
-DTEND:20261021T153500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261028T150000Z
-DTEND:20261028T163500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261104T150000Z
-DTEND:20261104T163500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T150000Z
-DTEND:20261118T163500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261125T150000Z
-DTEND:20261125T163500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T150000Z
-DTEND:20261202T163500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261209T150000Z
-DTEND:20261209T163500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T150000Z
-DTEND:20261216T163500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261223T150000Z
-DTEND:20261223T163500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260113T150000Z
-DTEND:20260113T163500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260120T150000Z
-DTEND:20260120T163500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260127T150000Z
-DTEND:20260127T163500Z
-SUMMARY:JoM (ć)
-LOCATION:233 K;232 K;231 K;230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T155000Z
@@ -1345,21 +1261,14 @@ DTSTART:20261008T140000Z
 DTEND:20261008T153500Z
 SUMMARY:Wzp (w)
 LOCATION:aF S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Kobielski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T140000Z
-DTEND:20261015T153500Z
-SUMMARY:Wzp (w)
-LOCATION:aF S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T140000Z
 DTEND:20261022T153500Z
 SUMMARY:Wzp (w)
 LOCATION:aF S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T150000Z
@@ -1380,7 +1289,7 @@ DTSTART:20260107T150000Z
 DTEND:20260107T163500Z
 SUMMARY:Wzp (w)
 LOCATION:aF S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T150000Z
@@ -1392,13 +1301,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T155000Z
 DTEND:20261008T172500Z
-SUMMARY:Wzp (w)
-LOCATION:aF S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Kobielski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T155000Z
-DTEND:20261015T172500Z
 SUMMARY:Wzp (w)
 LOCATION:aF S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Kobielski Piotr
@@ -1569,7 +1471,7 @@ DTSTART:20261113T165000Z
 DTEND:20261113T182500Z
 SUMMARY:JoM (ć)
 LOCATION:233 K;230 K;231 K;232 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T165000Z

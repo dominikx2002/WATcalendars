@@ -11,20 +11,6 @@ LOCATION:228 S
 DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261005T113000Z
-DTEND:20261005T130500Z
-SUMMARY:Tim (w)
-LOCATION:223 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261005T140000Z
-DTEND:20261005T153500Z
-SUMMARY:Tim (w)
-LOCATION:223 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261007T113000Z
 DTEND:20261007T130500Z
 SUMMARY:No (w)
@@ -71,14 +57,14 @@ DTSTART:20261012T094000Z
 DTEND:20261012T111500Z
 SUMMARY:Tim (w)
 LOCATION:223 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T113000Z
 DTEND:20261012T130500Z
 SUMMARY:Tim (w)
 LOCATION:223 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
@@ -176,14 +162,14 @@ DTSTART:20261026T104000Z
 DTEND:20261026T121500Z
 SUMMARY:Tim (w)
 LOCATION:223 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T123000Z
 DTEND:20261026T140500Z
 SUMMARY:Tim (w)
 LOCATION:223 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
@@ -226,6 +212,20 @@ DTEND:20261029T102500Z
 SUMMARY:Mzw (w)
 LOCATION:224 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T070000Z
+DTEND:20261102T083500Z
+SUMMARY:Tim (w)
+LOCATION:228 S
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T085000Z
+DTEND:20261102T102500Z
+SUMMARY:Tim (w)
+LOCATION:228 S
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T104000Z

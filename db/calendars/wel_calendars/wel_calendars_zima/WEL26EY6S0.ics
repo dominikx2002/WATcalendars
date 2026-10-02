@@ -319,13 +319,6 @@ LOCATION:
 DESCRIPTION:Obrona powietrzna 22\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Świętochowski Mieczysław 23
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261026T150000Z
-DTEND:20261026T163500Z
-SUMMARY:OPW 
-LOCATION:
-DESCRIPTION:Obrona powietrzna 22\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Świętochowski Mieczysław 23
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261102T150000Z
 DTEND:20261102T163500Z
 SUMMARY:OPBMR 
@@ -499,6 +492,13 @@ DTEND:20261013T073500Z
 SUMMARY:OPBMR 
 LOCATION:
 DESCRIPTION:Obrona przed bronią masowego rażenia 25\nRodzaj zajęć: -\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T060000Z
+DTEND:20261020T073500Z
+SUMMARY:OPW 
+LOCATION:
+DESCRIPTION:Obrona powietrzna 22\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Świętochowski Mieczysław 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T070000Z

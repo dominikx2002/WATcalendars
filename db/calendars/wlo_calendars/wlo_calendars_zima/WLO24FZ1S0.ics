@@ -1082,6 +1082,13 @@ LOCATION:1.15/16
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce 57\nRodzaj zajęć: Projekt\nNumer zajęć: 2/8\nProwadzący: dr inż. Kosturek Robert 60
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260113T085000Z
+DTEND:20260113T102500Z
+SUMMARY:GSSŻ (w)
+LOCATION:1.10/16
+DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Spychała Dariusz 10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260120T085000Z
 DTEND:20260120T102500Z
 SUMMARY:Nsl* (ć)
@@ -1143,6 +1150,13 @@ DTEND:20261223T121500Z
 SUMMARY:PŚZŻ (w)
 LOCATION:1.16/16
 DESCRIPTION:Pozyskiwanie, dostarczanie, gromadzenie, magazynowanie środków zaopatrzenia żywniościowego 53\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: prof. WAT Kler Paweł 54
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T104000Z
+DTEND:20260113T121500Z
+SUMMARY:GSSŻ (w)
+LOCATION:1.9/16
+DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Spychała Dariusz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T104000Z
@@ -1562,7 +1576,7 @@ DTSTART:20261022T113000Z
 DTEND:20261022T130500Z
 SUMMARY:GSSŻ (w)
 LOCATION:2.22/135
-DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Spychała Dariusz 10
+DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Spychała Dariusz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T123000Z
@@ -1674,7 +1688,7 @@ DTSTART:20261218T070000Z
 DTEND:20261218T083500Z
 SUMMARY:GSSŻ (w)
 LOCATION:2.22/135
-DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Spychała Dariusz 10
+DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr Spychała Dariusz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T070000Z
@@ -1709,7 +1723,7 @@ DTSTART:20261218T085000Z
 DTEND:20261218T102500Z
 SUMMARY:GSSŻ (w)
 LOCATION:2.22/135
-DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Spychała Dariusz 10
+DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Spychała Dariusz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T085000Z
@@ -1744,7 +1758,7 @@ DTSTART:20261023T094000Z
 DTEND:20261023T111500Z
 SUMMARY:GSSŻ (w)
 LOCATION:2.22/135
-DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr Spychała Dariusz 10
+DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Spychała Dariusz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T104000Z
@@ -1807,14 +1821,7 @@ DTSTART:20261023T113000Z
 DTEND:20261023T130500Z
 SUMMARY:GSSŻ (w)
 LOCATION:2.22/135
-DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Spychała Dariusz 10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T123000Z
-DTEND:20261030T140500Z
-SUMMARY:GSSŻ (w)
-LOCATION:2.22/135
-DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Spychała Dariusz 10
+DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Spychała Dariusz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T123000Z
@@ -1854,13 +1861,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T140000Z
 DTEND:20261023T153500Z
-SUMMARY:GSSŻ (w)
-LOCATION:2.22/135
-DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Spychała Dariusz 10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T150000Z
-DTEND:20261030T163500Z
 SUMMARY:GSSŻ (w)
 LOCATION:2.22/135
 DESCRIPTION:Gospodarka sprzętem służby żywnościowej 9\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Spychała Dariusz 10

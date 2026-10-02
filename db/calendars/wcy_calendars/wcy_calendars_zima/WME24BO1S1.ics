@@ -2965,20 +2965,6 @@ LOCATION:-
 DESCRIPTION:Techniki spektroskopii i obrazowania medycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T094000Z
-DTEND:20261012T111500Z
-SUMMARY:Swb (w)
-LOCATION:6/ 23A
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T113000Z
-DTEND:20261012T130500Z
-SUMMARY:Swb (w)
-LOCATION:6/ 23A
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261013T060000Z
 DTEND:20261013T073500Z
 SUMMARY:App (w)
@@ -3123,14 +3109,14 @@ DTSTART:20261019T094000Z
 DTEND:20261019T111500Z
 SUMMARY:Swb (w)
 LOCATION:6/ 23A
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T113000Z
 DTEND:20261019T130500Z
 SUMMARY:Swb (w)
 LOCATION:6/ 23A
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T140000Z
@@ -3557,14 +3543,14 @@ DTSTART:20261102T104000Z
 DTEND:20261102T121500Z
 SUMMARY:Swb (w)
 LOCATION:6/ 23A
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T123000Z
 DTEND:20261102T140500Z
 SUMMARY:Swb (w)
 LOCATION:6/ 23A
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T070000Z
@@ -4258,6 +4244,20 @@ DTEND:20261201T140500Z
 SUMMARY:Par (w)
 LOCATION:301/ S
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:Swb (w)
+LOCATION:3/ 23A
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T085000Z
+DTEND:20261202T102500Z
+SUMMARY:Swb (w)
+LOCATION:3/ 23A
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T104000Z

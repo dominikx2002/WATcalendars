@@ -662,6 +662,20 @@ LOCATION:aF S
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 11/17\nProwadzący: dr Nawrocki Jan
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261201T150000Z
+DTEND:20261201T163500Z
+SUMMARY:Wzp (w)
+LOCATION:aF S
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Kobielski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T150000Z
+DTEND:20261215T163500Z
+SUMMARY:Wzp (w)
+LOCATION:aF S
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kobielski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260930T060000Z
 DTEND:20260930T073500Z
 SUMMARY:SIn i
@@ -1338,21 +1352,14 @@ DTSTART:20261008T140000Z
 DTEND:20261008T153500Z
 SUMMARY:Wzp (w)
 LOCATION:aF S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Kobielski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T140000Z
-DTEND:20261015T153500Z
-SUMMARY:Wzp (w)
-LOCATION:aF S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T140000Z
 DTEND:20261022T153500Z
 SUMMARY:Wzp (w)
 LOCATION:aF S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T150000Z
@@ -1373,18 +1380,11 @@ DTSTART:20260107T150000Z
 DTEND:20260107T163500Z
 SUMMARY:Wzp (w)
 LOCATION:aF S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T155000Z
 DTEND:20261008T172500Z
-SUMMARY:Wzp (w)
-LOCATION:aF S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Kobielski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T155000Z
-DTEND:20261015T172500Z
 SUMMARY:Wzp (w)
 LOCATION:aF S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Kobielski Piotr

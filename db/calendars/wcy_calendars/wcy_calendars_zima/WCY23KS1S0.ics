@@ -3588,6 +3588,13 @@ LOCATION:-
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:wzbnim (ć)
+LOCATION:28 69
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T104000Z
 DTEND:20261216T121500Z
 SUMMARY:MPH (w)
@@ -3641,7 +3648,7 @@ DTSTART:20261218T085000Z
 DTEND:20261218T102500Z
 SUMMARY:wzbnim (ć)
 LOCATION:201 65
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T104000Z
@@ -3740,13 +3747,6 @@ DTEND:20261223T083500Z
 SUMMARY:Ab (w)
 LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 20/20\nProwadzący: dr inż. Michał Misztal
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261223T085000Z
-DTEND:20261223T102500Z
-SUMMARY:wzbnim (ć)
-LOCATION:205 65
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T104000Z

@@ -2356,6 +2356,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 153/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261017T155000Z
+DTEND:20261017T172500Z
+SUMMARY:Ppu.(Rp) (w)
+LOCATION:6/ 23A
+DESCRIPTION:Podstawy projektowania uniwersalnego-(różnica programowa) - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T174000Z
+DTEND:20261017T191500Z
+SUMMARY:Ppu.(Rp) (L)
+LOCATION:6/ 23A
+DESCRIPTION:Podstawy projektowania uniwersalnego-(różnica programowa) - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261023T060000Z
 DTEND:20261023T073500Z
 SUMMARY:- (Inne)
@@ -2403,6 +2417,13 @@ DTEND:20261023T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 160/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T150000Z
+DTEND:20261025T163500Z
+SUMMARY:Ppu.(Rp) (L)
+LOCATION:6/ 23A
+DESCRIPTION:Podstawy projektowania uniwersalnego-(różnica programowa) - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T070000Z
@@ -2921,6 +2942,20 @@ DTEND:20261113T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 208/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T123000Z
+DTEND:20261115T140500Z
+SUMMARY:Ppu.(Rp) (Inne)
+LOCATION:6/ 23A
+DESCRIPTION:Podstawy projektowania uniwersalnego-(różnica programowa) - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T150000Z
+DTEND:20261115T163500Z
+SUMMARY:Ppu.(Rp) (Inne)
+LOCATION:6/ 23A
+DESCRIPTION:Podstawy projektowania uniwersalnego-(różnica programowa) - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T070000Z

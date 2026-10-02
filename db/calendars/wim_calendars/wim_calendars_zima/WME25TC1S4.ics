@@ -837,13 +837,6 @@ LOCATION:53/ 62
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T111500Z
-SUMMARY:PUwMAN (w)
-LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Świerczewski Marek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261222T104000Z
 DTEND:20261222T121500Z
 SUMMARY:PUwMAN (L)
@@ -904,14 +897,7 @@ DTSTART:20261006T113000Z
 DTEND:20261006T130500Z
 SUMMARY:PUwMAN (w)
 LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Świerczewski Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T113000Z
-DTEND:20261013T130500Z
-SUMMARY:PUwMAN (w)
-LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T113000Z
@@ -1299,6 +1285,13 @@ LOCATION:6/ 62
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261223T070000Z
+DTEND:20261223T083500Z
+SUMMARY:PUwMAN (w)
+LOCATION:56/ 62
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Świerczewski Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261230T070000Z
 DTEND:20261230T083500Z
 SUMMARY:I 
@@ -1402,6 +1395,13 @@ DTEND:20261216T102500Z
 SUMMARY:Lm* (w)
 LOCATION:116/ 54
 DESCRIPTION:Logistyka międzynarodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Nyszk Łukasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T085000Z
+DTEND:20261223T102500Z
+SUMMARY:PUwMAN (w)
+LOCATION:56/ 62
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T085000Z
@@ -2932,30 +2932,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T075000Z
 DTEND:20261016T092500Z
-SUMMARY:PUwMAN (w)
-LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Świerczewski Marek
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 80/243
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T075000Z
 DTEND:20261023T092500Z
 SUMMARY:REZ 
 LOCATION:
-DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 80/243
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 81/243
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T085000Z
 DTEND:20261030T102500Z
 SUMMARY:REZ 
 LOCATION:
-DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 81/243
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 82/243
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T085000Z
 DTEND:20261106T102500Z
-SUMMARY:REZ 
-LOCATION:
-DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 82/243
+SUMMARY:PUwMAN (w)
+LOCATION:8/ 62
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T085000Z
@@ -3198,30 +3198,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T094000Z
 DTEND:20261016T111500Z
-SUMMARY:PUwMAN (w)
-LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Świerczewski Marek
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 106/243
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T094000Z
 DTEND:20261023T111500Z
 SUMMARY:REZ 
 LOCATION:
-DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 106/243
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 107/243
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T104000Z
 DTEND:20261030T121500Z
 SUMMARY:PUwMAN (w)
 LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T104000Z
 DTEND:20261106T121500Z
-SUMMARY:REZ 
-LOCATION:
-DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 107/243
+SUMMARY:PUwMAN (w)
+LOCATION:8/ 62
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T104000Z

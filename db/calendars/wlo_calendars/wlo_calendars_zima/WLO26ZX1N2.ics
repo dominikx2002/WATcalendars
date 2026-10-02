@@ -175,7 +175,7 @@ BEGIN:VEVENT
 DTSTART:20261024T094000Z
 DTEND:20261024T111500Z
 SUMMARY:Nkz (ć)
-LOCATION:0.7/16
+LOCATION:
 DESCRIPTION:Nowoczesne koncepcje zarządzania 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 11
 END:VEVENT
 BEGIN:VEVENT
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 DTSTART:20261024T113000Z
 DTEND:20261024T130500Z
 SUMMARY:Nkz (ć)
-LOCATION:0.7/16
+LOCATION:
 DESCRIPTION:Nowoczesne koncepcje zarządzania 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr (prof. WAT) Gonciarski Wiesław 11
 END:VEVENT
 BEGIN:VEVENT
@@ -361,10 +361,10 @@ LOCATION:0.24/135
 DESCRIPTION:Statystyka matematyczna 23\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Mularczyk Piotr 24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T140000Z
-DTEND:20261003T153500Z
+DTSTART:20261010T140000Z
+DTEND:20261010T153500Z
 SUMMARY:mp (w)
-LOCATION:0.19/135
+LOCATION:0.8/16
 DESCRIPTION:Marketing personalny 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. (prof. WAT) Wereda Wioletta 2
 END:VEVENT
 BEGIN:VEVENT
@@ -431,10 +431,10 @@ LOCATION:0.8/16
 DESCRIPTION:Statystyka matematyczna 23\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Mularczyk Piotr 24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T155000Z
-DTEND:20261003T172500Z
+DTSTART:20261010T155000Z
+DTEND:20261010T172500Z
 SUMMARY:mp (w)
-LOCATION:0.19/135
+LOCATION:0.8/16
 DESCRIPTION:Marketing personalny 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. (prof. WAT) Wereda Wioletta 2
 END:VEVENT
 BEGIN:VEVENT

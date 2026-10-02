@@ -830,6 +830,13 @@ LOCATION:2/ 68
 DESCRIPTION:Silniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż Polak Filip
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261006T094000Z
+DTEND:20261006T111500Z
+SUMMARY:Ird (w)
+LOCATION:5/ 20
+DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Dębowski Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261013T094000Z
 DTEND:20261013T111500Z
 SUMMARY:Sp* (w)
@@ -840,7 +847,7 @@ BEGIN:VEVENT
 DTSTART:20261020T094000Z
 DTEND:20261020T111500Z
 SUMMARY:PeUT (w)
-LOCATION:15/ 23A
+LOCATION:3/ 54
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
@@ -848,7 +855,7 @@ DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Ird (w)
 LOCATION:1/ 21
-DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Dębowski Andrzej
+DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr inż. Dębowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T104000Z
@@ -898,6 +905,13 @@ DTEND:20260209T121500Z
 SUMMARY:Sp* (Zp/lab.)
 LOCATION:38/ 20; b/ 21
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: (Zp/lab.)\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261006T113000Z
+DTEND:20261006T130500Z
+SUMMARY:Ird (w)
+LOCATION:5/ 20
+DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr inż. Dębowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T113000Z
@@ -1212,7 +1226,7 @@ DTSTART:20260127T070000Z
 DTEND:20260127T083500Z
 SUMMARY:Ird (w)
 LOCATION:5/ 23A
-DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr inż. Dębowski Andrzej
+DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Dębowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T070000Z
@@ -1922,13 +1936,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 55/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T111500Z
-SUMMARY:Ird (w)
-LOCATION:3/ 23A
-DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr inż. Dębowski Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261008T094000Z
 DTEND:20261008T111500Z
 SUMMARY:Sp* (w)
@@ -2046,13 +2053,6 @@ DTEND:20260527T111500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 58/140
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
-SUMMARY:Ird (w)
-LOCATION:3/ 23A
-DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Dębowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z
