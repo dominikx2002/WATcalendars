@@ -1418,13 +1418,6 @@ LOCATION:313 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T150000Z
-DTEND:20261208T163500Z
-SUMMARY:M II (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: mgr inż. Stanisław Zoń
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261210T070000Z
 DTEND:20261210T083500Z
 SUMMARY:PGI (ć)
@@ -1471,7 +1464,7 @@ DTSTART:20261211T150000Z
 DTEND:20261211T163500Z
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T070000Z
@@ -1597,7 +1590,7 @@ DTSTART:20261218T150000Z
 DTEND:20261218T163500Z
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T070000Z
@@ -1675,6 +1668,13 @@ DTEND:20261223T102500Z
 SUMMARY:HP (ć)
 LOCATION:16 57
 DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T104000Z
+DTEND:20261223T121500Z
+SUMMARY:M II (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T123000Z

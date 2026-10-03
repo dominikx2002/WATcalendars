@@ -2769,6 +2769,20 @@ LOCATION:219 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261022T140000Z
+DTEND:20261022T153500Z
+SUMMARY:Aok (L)
+LOCATION:125 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/16\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T155000Z
+DTEND:20261022T172500Z
+SUMMARY:Aok (L)
+LOCATION:125 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/16\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261022T174000Z
 DTEND:20261022T191500Z
 SUMMARY:- (S.Sz.W.)
@@ -3243,20 +3257,6 @@ DTEND:20261112T140500Z
 SUMMARY:Sm (L)
 LOCATION:219 65
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T150000Z
-DTEND:20261112T163500Z
-SUMMARY:Aok (L)
-LOCATION:120 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/16\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T165000Z
-DTEND:20261112T182500Z
-SUMMARY:Aok (L)
-LOCATION:120 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/16\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T184000Z

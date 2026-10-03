@@ -557,10 +557,10 @@ LOCATION:0.19/135
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 28\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz 29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T123000Z
-DTEND:20261104T140500Z
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
 SUMMARY:Wsp.bezp.w 
-LOCATION:2.22/135
+LOCATION:5.16/135
 DESCRIPTION:Wsp.bezp.w\nRodzaj zajęć: -\nNumer zajęć: 3/22\nProwadzący: dr inż. Magierski Mieczysław 2
 END:VEVENT
 BEGIN:VEVENT
@@ -823,11 +823,18 @@ LOCATION:0.28/135
 DESCRIPTION:Wsp.bezp.w\nRodzaj zajęć: -\nNumer zajęć: 12/22\nProwadzący: dr inż. Magierski Mieczysław 2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261105T123000Z
+DTEND:20261105T140500Z
+SUMMARY:Wsp.bezp.w 
+LOCATION:1.9/16
+DESCRIPTION:Wsp.bezp.w\nRodzaj zajęć: -\nNumer zajęć: 13/22\nProwadzący: dr inż. Magierski Mieczysław 2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T123000Z
 DTEND:20261112T140500Z
 SUMMARY:Wsp.bezp.w 
 LOCATION:5.17/135
-DESCRIPTION:Wsp.bezp.w\nRodzaj zajęć: -\nNumer zajęć: 13/22\nProwadzący: dr inż. Magierski Mieczysław 2
+DESCRIPTION:Wsp.bezp.w\nRodzaj zajęć: -\nNumer zajęć: 14/22\nProwadzący: dr inż. Magierski Mieczysław 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T123000Z
@@ -841,13 +848,6 @@ DTSTART:20261203T123000Z
 DTEND:20261203T140500Z
 SUMMARY:Wsp.bezp.w 
 LOCATION:55A
-DESCRIPTION:Wsp.bezp.w\nRodzaj zajęć: -\nNumer zajęć: 14/22\nProwadzący: dr inż. Magierski Mieczysław 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T123000Z
-DTEND:20261210T140500Z
-SUMMARY:Wsp.bezp.w 
-LOCATION:0.28/135
 DESCRIPTION:Wsp.bezp.w\nRodzaj zajęć: -\nNumer zajęć: 15/22\nProwadzący: dr inż. Magierski Mieczysław 2
 END:VEVENT
 BEGIN:VEVENT

@@ -830,13 +830,6 @@ LOCATION:224 S
 DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T140000Z
-DTEND:20261003T153500Z
-SUMMARY:Miob (w)
-LOCATION:224 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261003T155000Z
 DTEND:20261003T172500Z
 SUMMARY:Assp (w)
@@ -888,16 +881,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T060000Z
 DTEND:20261011T073500Z
-SUMMARY:Miob (w)
+SUMMARY:Miob (L)
 LOCATION:223 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T075000Z
 DTEND:20261011T092500Z
-SUMMARY:Miob (w)
+SUMMARY:Miob (L)
 LOCATION:223 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T094000Z
@@ -928,18 +921,25 @@ LOCATION:307 S
 DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261017T075000Z
+DTEND:20261017T092500Z
+SUMMARY:Miob (w)
+LOCATION:223 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261017T094000Z
 DTEND:20261017T111500Z
-SUMMARY:Miob (L)
-LOCATION:226 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Przemysław Czuba
+SUMMARY:Miob (w)
+LOCATION:223 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T113000Z
 DTEND:20261017T130500Z
-SUMMARY:Miob (L)
-LOCATION:226 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Przemysław Czuba
+SUMMARY:Miob (w)
+LOCATION:223 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T140000Z

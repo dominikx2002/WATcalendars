@@ -323,7 +323,7 @@ DTSTART:20260119T085000Z
 DTEND:20260119T102500Z
 SUMMARY:Nmb (w)
 LOCATION:7a
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Sołek-Borowska Celina 17; dr Sołek-Borowska Celina
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Sołek-Borowska Celina 17; dr Sołek-Borowska Celina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T085000Z
@@ -396,6 +396,13 @@ LOCATION:54E
 DESCRIPTION:Etyka w zarządzaniu 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Kasperski Marian 7
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260119T104000Z
+DTEND:20260119T121500Z
+SUMMARY:Nmb (ć)
+LOCATION:1a/28
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Sołek-Borowska Celina 17
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260126T104000Z
 DTEND:20260126T121500Z
 SUMMARY:Fip (ć)
@@ -407,7 +414,7 @@ DTSTART:20261006T113000Z
 DTEND:20261006T130500Z
 SUMMARY:Nmb (w)
 LOCATION:0.19/135
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Sołek-Borowska Celina 17
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T113000Z
@@ -421,7 +428,7 @@ DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
 SUMMARY:Nmb (w)
 LOCATION:3.16/135
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Sołek-Borowska Celina 17
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T123000Z
@@ -449,7 +456,7 @@ DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
 SUMMARY:Nmb (ć)
 LOCATION:187 S
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Sołek-Borowska Celina 17
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T123000Z
@@ -568,7 +575,7 @@ DTSTART:20261124T165000Z
 DTEND:20261124T182500Z
 SUMMARY:Nmb (w)
 LOCATION:1.9/16
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Sołek-Borowska Celina 17
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T165000Z
@@ -590,6 +597,13 @@ DTEND:20260126T182500Z
 SUMMARY:ZPr (ć)
 LOCATION:0.7/16
 DESCRIPTION:Zarządzanie projektami 30\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261013T174000Z
+DTEND:20261013T191500Z
+SUMMARY:Nmb (ć)
+LOCATION:0.19/135
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T184000Z
@@ -790,9 +804,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T123000Z
 DTEND:20260120T140500Z
-SUMMARY:Nmb (ć)
-LOCATION:1a/28
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Sołek-Borowska Celina 17
+SUMMARY:Z.S-up (ć)
+LOCATION:255 S
+DESCRIPTION:Zarządzanie start-upami 36\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T123000Z
@@ -889,8 +903,8 @@ BEGIN:VEVENT
 DTSTART:20260120T150000Z
 DTEND:20260120T163500Z
 SUMMARY:Z.S-up (ć)
-LOCATION:1.27/135
-DESCRIPTION:Zarządzanie start-upami 36\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
+LOCATION:255 S
+DESCRIPTION:Zarządzanie start-upami 36\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T150000Z
@@ -939,7 +953,7 @@ DTSTART:20261209T165000Z
 DTEND:20261209T182500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:2/22
-DESCRIPTION:Zarządzanie start-upami 36\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
+DESCRIPTION:Zarządzanie start-upami 36\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T165000Z
@@ -947,13 +961,6 @@ DTEND:20261216T182500Z
 SUMMARY:Rf (ć)
 LOCATION:0.22/16
 DESCRIPTION:Rachunkowość finansowa 19\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr Szczerbak Monika 20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260120T165000Z
-DTEND:20260120T182500Z
-SUMMARY:Z.S-up (ć)
-LOCATION:1.27/135
-DESCRIPTION:Zarządzanie start-upami 36\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T184000Z
@@ -988,14 +995,14 @@ DTSTART:20261015T060000Z
 DTEND:20261015T073500Z
 SUMMARY:Nmb (ć)
 LOCATION:0.22/16
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Sołek-Borowska Celina 17
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z
 DTEND:20261029T083500Z
 SUMMARY:Nmb (ć)
 LOCATION:0.23/16
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Sołek-Borowska Celina 17
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T070000Z
@@ -1023,7 +1030,7 @@ DTSTART:20261126T070000Z
 DTEND:20261126T083500Z
 SUMMARY:Nmb (ć)
 LOCATION:1.27/135
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Sołek-Borowska Celina 17
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T070000Z
@@ -1224,9 +1231,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
 DTEND:20261203T121500Z
-SUMMARY:Nmb (w)
+SUMMARY:Fip (w)
 LOCATION:1.10/16
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Sołek-Borowska Celina 17
+DESCRIPTION:Finanse przedsiębiorstwa 9\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr hab. Kostecki Janusz 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T104000Z
@@ -1240,7 +1247,7 @@ DTSTART:20260114T104000Z
 DTEND:20260114T121500Z
 SUMMARY:Nmb (w)
 LOCATION:1.10/16
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Sołek-Borowska Celina 17
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T104000Z
@@ -1254,7 +1261,7 @@ DTSTART:20260128T104000Z
 DTEND:20260128T121500Z
 SUMMARY:Nmb (ć)
 LOCATION:2/22
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Sołek-Borowska Celina 17
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T113000Z
@@ -1299,13 +1306,6 @@ LOCATION:0.19/135
 DESCRIPTION:Rachunkowość finansowa 19\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr Szczerbak Monika 20
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T123000Z
-DTEND:20261203T140500Z
-SUMMARY:Fip (w)
-LOCATION:1.10/16
-DESCRIPTION:Finanse przedsiębiorstwa 9\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr hab. Kostecki Janusz 10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
 SUMMARY:Rf (w)
@@ -1317,14 +1317,14 @@ DTSTART:20261217T123000Z
 DTEND:20261217T140500Z
 SUMMARY:Nmb (w)
 LOCATION:7a
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Sołek-Borowska Celina 17; dr Sołek-Borowska Celina
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Sołek-Borowska Celina 17; dr Sołek-Borowska Celina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T123000Z
 DTEND:20260107T140500Z
 SUMMARY:Nmb (w)
 LOCATION:
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Sołek-Borowska Celina 17
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T123000Z
@@ -1345,7 +1345,7 @@ DTSTART:20260128T123000Z
 DTEND:20260128T140500Z
 SUMMARY:Nmb (ć)
 LOCATION:2/22
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Sołek-Borowska Celina 17
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Sołek-Borowska Celina 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T140000Z
@@ -1373,7 +1373,7 @@ DTSTART:20261210T150000Z
 DTEND:20261210T163500Z
 SUMMARY:Nmb (w)
 LOCATION:7a
-DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Sołek-Borowska Celina 17; dr Sołek-Borowska Celina
+DESCRIPTION:Nowe modele biznesowe 16\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Sołek-Borowska Celina 17; dr Sołek-Borowska Celina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T150000Z

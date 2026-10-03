@@ -301,7 +301,7 @@ BEGIN:VEVENT
 DTSTART:20261010T113000Z
 DTEND:20261010T130500Z
 SUMMARY:Europejski 
-LOCATION:A.1.3/135
+LOCATION:0.23/16
 DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 4/9\nProwadzący: dr inż. Piwowarczyk Ryszard 2; prof. dr hab. Kościelecki Lech 5; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
@@ -511,7 +511,7 @@ BEGIN:VEVENT
 DTSTART:20261025T085000Z
 DTEND:20261025T102500Z
 SUMMARY:Hbn (ć)
-LOCATION:5.21/135
+LOCATION:0.23/16
 DESCRIPTION:Historia bezpieczeństwa narodowego 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. Ostanek Adam 11
 END:VEVENT
 BEGIN:VEVENT
@@ -679,7 +679,7 @@ BEGIN:VEVENT
 DTSTART:20261025T123000Z
 DTEND:20261025T140500Z
 SUMMARY:Sgd (ć)
-LOCATION:0.22/16
+LOCATION:
 DESCRIPTION:Socjologia grup dyspozycyjnych 32\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Karczewski Edward 33
 END:VEVENT
 BEGIN:VEVENT
@@ -704,13 +704,6 @@ LOCATION:1.9/16
 DESCRIPTION:Przywództwo i zarządzanie strategiczne 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Kubaczyk Tadeusz 28
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261206T123000Z
-DTEND:20261206T140500Z
-SUMMARY:Pwff (w)
-LOCATION:166 S
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting 19\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Marciniak Mirosław 20
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261213T123000Z
 DTEND:20261213T140500Z
 SUMMARY:Sgd (ć)
@@ -730,6 +723,13 @@ DTEND:20260110T140500Z
 SUMMARY:Wpg (ć)
 LOCATION:1.17/16
 DESCRIPTION:Współczesne procesy globalizacyjne 42\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Adamkiewicz Jakub 43
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T123000Z
+DTEND:20260117T140500Z
+SUMMARY:Pwff (w)
+LOCATION:0.19/135
+DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting 19\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Marciniak Mirosław 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T150000Z

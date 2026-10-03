@@ -1208,20 +1208,6 @@ LOCATION:19 55
 DESCRIPTION:Środowiskowa analiza radiochemiczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: dr Wolańska Izabela; dr Oszczak-Nowińska Agata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T140000Z
-DTEND:20261008T153500Z
-SUMMARY:PSt (ć)
-LOCATION:110/ 14
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: mgr inż Gratzke Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T140000Z
-DTEND:20261015T153500Z
-SUMMARY:PSt (ć)
-LOCATION:110/ 14
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: mgr inż Gratzke Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261022T140000Z
 DTEND:20261022T153500Z
 SUMMARY:ZMP (w)
@@ -1268,7 +1254,7 @@ DTSTART:20261210T150000Z
 DTEND:20261210T163500Z
 SUMMARY:PSt (ć)
 LOCATION:110/ 14
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: mgr inż Gratzke Mateusz
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: mgr inż Gratzke Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T150000Z
@@ -1296,7 +1282,7 @@ DTSTART:20260121T150000Z
 DTEND:20260121T163500Z
 SUMMARY:PSt (ć)
 LOCATION:110/ 14
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: mgr inż Gratzke Mateusz
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: mgr inż Gratzke Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T060000Z
@@ -1628,22 +1614,36 @@ LOCATION:113 14;16 14
 DESCRIPTION:Organiczne materiały funkcjonalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: płk dr hab. inż. Kula Przemysław; mgr inż. Rychłowicz Natan
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261106T150000Z
+DTEND:20261106T163500Z
+SUMMARY:PSt (ć)
+LOCATION:110/ 14
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: mgr inż Gratzke Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261113T150000Z
 DTEND:20261113T163500Z
 SUMMARY:PSt (ć)
 LOCATION:110/ 14
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: mgr inż Gratzke Mateusz
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: mgr inż Gratzke Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T150000Z
 DTEND:20261120T163500Z
 SUMMARY:PSt (ć)
 LOCATION:110/ 14
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: mgr inż Gratzke Mateusz
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: mgr inż Gratzke Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T150000Z
 DTEND:20261204T163500Z
+SUMMARY:PSt (ć)
+LOCATION:110/ 14
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: mgr inż Gratzke Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T150000Z
+DTEND:20261211T163500Z
 SUMMARY:PSt (ć)
 LOCATION:110/ 14
 DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: mgr inż Gratzke Mateusz

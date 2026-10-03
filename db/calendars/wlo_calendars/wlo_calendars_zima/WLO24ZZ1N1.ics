@@ -368,6 +368,13 @@ LOCATION:0.19/135
 DESCRIPTION:Komunikacja w zarządzaniu 9\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Miszczak Marta 10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261010T140000Z
+DTEND:20261010T153500Z
+SUMMARY:Trans.Cyfr.Org. (w)
+LOCATION:3.16/135
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr Sołek-Borowska Celina 36
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261107T150000Z
 DTEND:20261107T163500Z
 SUMMARY:Sd. (S)
@@ -421,7 +428,7 @@ DTSTART:20261004T060000Z
 DTEND:20261004T073500Z
 SUMMARY:Trans.Cyfr.Org. (w)
 LOCATION:2.22/135
-DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr Sołek-Borowska Celina 36
+DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr Sołek-Borowska Celina 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261011T060000Z
@@ -436,13 +443,6 @@ DTEND:20261025T083500Z
 SUMMARY:Sd. (S)
 LOCATION:4.31 /135
 DESCRIPTION:Seminarium dyplomowe 20\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/13\nProwadzący: dr Sołek-Borowska Celina 21
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261108T070000Z
-DTEND:20261108T083500Z
-SUMMARY:Trans.Cyfr.Org. (w)
-LOCATION:2.21/135
-DESCRIPTION:Transformacja cyfrowa organizacji 35\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr Sołek-Borowska Celina 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T070000Z

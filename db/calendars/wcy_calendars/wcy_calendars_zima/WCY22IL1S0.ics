@@ -2251,13 +2251,6 @@ LOCATION:307 S
 DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261016T075000Z
-DTEND:20261016T092500Z
-SUMMARY:Mspw (w)
-LOCATION:309 S
-DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261016T094000Z
 DTEND:20261016T111500Z
 SUMMARY:Srrw (w)
@@ -2430,7 +2423,7 @@ DTSTART:20261022T140000Z
 DTEND:20261022T153500Z
 SUMMARY:Mspw (w)
 LOCATION:307 S
-DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T060000Z
@@ -2552,13 +2545,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 40/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T123000Z
-DTEND:20261028T140500Z
-SUMMARY:Mspw (w)
-LOCATION:316 S
-DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261028T150000Z
 DTEND:20261028T163500Z
 SUMMARY:ZPr (ć)
@@ -2615,11 +2601,11 @@ LOCATION:227 S
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261030T085000Z
-DTEND:20261030T102500Z
-SUMMARY:Mspw (w)
-LOCATION:309 S
-DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DTSTART:20261030T070000Z
+DTEND:20261030T083500Z
+SUMMARY:PZ (P)
+LOCATION:223 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 2/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261031T085000Z
@@ -2627,20 +2613,6 @@ DTEND:20261031T102500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/28\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261102T085000Z
-DTEND:20261102T102500Z
-SUMMARY:PZ (P)
-LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 2/22\nProwadzący: mgr inż. Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261102T104000Z
-DTEND:20261102T121500Z
-SUMMARY:PZ (P)
-LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 3/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T123000Z
@@ -2808,14 +2780,14 @@ DTSTART:20261109T070000Z
 DTEND:20261109T083500Z
 SUMMARY:PZ (P)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 4/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 3/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T085000Z
 DTEND:20261109T102500Z
 SUMMARY:PZ (P)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 5/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 4/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T104000Z
@@ -2844,6 +2816,13 @@ DTEND:20261110T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 44/70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T123000Z
+DTEND:20261110T140500Z
+SUMMARY:Mspw (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -2934,14 +2913,14 @@ DTSTART:20261116T070000Z
 DTEND:20261116T083500Z
 SUMMARY:PZ (P)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 6/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 5/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T085000Z
 DTEND:20261116T102500Z
 SUMMARY:PZ (P)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 7/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 6/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
@@ -3035,6 +3014,13 @@ LOCATION:317 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261119T070000Z
+DTEND:20261119T083500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 7/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261119T085000Z
 DTEND:20261119T102500Z
 SUMMARY:wzbnim (ć)
@@ -3088,7 +3074,7 @@ DTSTART:20261120T123000Z
 DTEND:20261120T140500Z
 SUMMARY:Mspw (w)
 LOCATION:314 S
-DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T085000Z
@@ -3229,6 +3215,13 @@ DTEND:20261126T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 51/70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T123000Z
+DTEND:20261126T140500Z
+SUMMARY:Mspw (w)
+LOCATION:223 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T150000Z
@@ -3502,6 +3495,13 @@ DTEND:20261208T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 55/70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T123000Z
+DTEND:20261208T140500Z
+SUMMARY:Mspw (w)
+LOCATION:308 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T150000Z

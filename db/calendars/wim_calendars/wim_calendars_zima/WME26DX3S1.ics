@@ -501,6 +501,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 8/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260111T123000Z
+DTEND:20260111T140500Z
+SUMMARY:PGI (ć)
+LOCATION:116/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260118T123000Z
 DTEND:20260118T140500Z
 SUMMARY:PZiP (w)
@@ -883,7 +890,7 @@ DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:PGI (ć)
 LOCATION:108/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -939,14 +946,14 @@ DTSTART:20260112T104000Z
 DTEND:20260112T121500Z
 SUMMARY:PGI (ć)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T104000Z
 DTEND:20260119T121500Z
 SUMMARY:PGI (ć)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T104000Z
@@ -995,7 +1002,7 @@ DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:PGI (ć)
 LOCATION:108/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T123000Z
@@ -1240,21 +1247,21 @@ DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
 SUMMARY:PGI (ć)
 LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
 SUMMARY:PGI (ć)
 LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
 DTEND:20261104T102500Z
 SUMMARY:PGI (ć)
 LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T085000Z
@@ -1345,14 +1352,14 @@ DTSTART:20261202T104000Z
 DTEND:20261202T121500Z
 SUMMARY:PGI (ć)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T104000Z
@@ -1423,13 +1430,6 @@ DTEND:20261209T140500Z
 SUMMARY:PZiP (ć)
 LOCATION:5/ 23A
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. Panek Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261223T123000Z
-DTEND:20261223T140500Z
-SUMMARY:PGI (ć)
-LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z

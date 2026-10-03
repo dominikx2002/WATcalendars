@@ -11,18 +11,11 @@ LOCATION:8/ 62
 DESCRIPTION:Inżynieria ortopedyczna i rehabilitacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Zawiski Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T060000Z
-DTEND:20261019T073500Z
-SUMMARY:Aud (w)
-LOCATION:55/ 62
-DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Sybilski Kamil
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261026T070000Z
 DTEND:20261026T083500Z
 SUMMARY:Aud (w)
 LOCATION:55/ 62
-DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T070000Z
@@ -36,14 +29,14 @@ DTSTART:20261109T070000Z
 DTEND:20261109T083500Z
 SUMMARY:Aud (w)
 LOCATION:52/ 62
-DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T070000Z
 DTEND:20261116T083500Z
 SUMMARY:Aud (w)
 LOCATION:52/ 62
-DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T070000Z
@@ -78,7 +71,7 @@ DTSTART:20261221T070000Z
 DTEND:20261221T083500Z
 SUMMARY:Aud (w)
 LOCATION:55/ 62
-DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T070000Z
@@ -123,18 +116,11 @@ LOCATION:8/ 62
 DESCRIPTION:Inżynieria ortopedyczna i rehabilitacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Zawiski Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T075000Z
-DTEND:20261019T092500Z
-SUMMARY:Aud (w)
-LOCATION:55/ 62
-DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Sybilski Kamil
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261026T085000Z
 DTEND:20261026T102500Z
 SUMMARY:Aud (w)
 LOCATION:55/ 62
-DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T085000Z
@@ -148,7 +134,7 @@ DTSTART:20261109T085000Z
 DTEND:20261109T102500Z
 SUMMARY:Aud (w)
 LOCATION:52/ 62
-DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T085000Z
@@ -370,9 +356,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T113000Z
 DTEND:20261012T130500Z
-SUMMARY:Sipp (w)
+SUMMARY:URiPSR 
 LOCATION:9/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 3/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T113000Z
@@ -400,7 +386,7 @@ DTSTART:20261109T123000Z
 DTEND:20261109T140500Z
 SUMMARY:Sipp (w)
 LOCATION:52/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T123000Z
@@ -410,18 +396,25 @@ LOCATION:52/ 62
 DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261123T123000Z
+DTEND:20261123T140500Z
+SUMMARY:Sipp (w)
+LOCATION:42/ 54A
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Stanisławek Sebastian
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261130T123000Z
 DTEND:20261130T140500Z
 SUMMARY:URiPSR 
 LOCATION:7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 3/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 4/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T123000Z
 DTEND:20261207T140500Z
 SUMMARY:URiPSR 
 LOCATION:7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 4/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 5/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T123000Z
@@ -456,7 +449,7 @@ DTSTART:20260111T123000Z
 DTEND:20260111T140500Z
 SUMMARY:URiPSR 
 LOCATION:6/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 5/36\nProwadzący: prof. dr hab. inż. Pawlikowski Marek
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 6/36\nProwadzący: prof. dr hab. inż. Pawlikowski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T123000Z
@@ -470,14 +463,14 @@ DTSTART:20260201T123000Z
 DTEND:20260201T140500Z
 SUMMARY:URiPSR 
 LOCATION:Zp/lab; 7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 6/36\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 7/36\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260208T123000Z
 DTEND:20260208T140500Z
 SUMMARY:URiPSR 
 LOCATION:7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 7/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 8/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260215T123000Z
@@ -492,13 +485,6 @@ DTEND:20260329T130500Z
 SUMMARY:Pms 
 LOCATION:
 DESCRIPTION:Pms\nRodzaj zajęć: -\nNumer zajęć: 4/70
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T140000Z
-DTEND:20261012T153500Z
-SUMMARY:URiPSR 
-LOCATION:8/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 8/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T140000Z
@@ -648,13 +634,6 @@ LOCATION:
 DESCRIPTION:Pms\nRodzaj zajęć: -\nNumer zajęć: 7/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T060000Z
-DTEND:20261006T073500Z
-SUMMARY:Sipp (w)
-LOCATION:54/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Stanisławek Sebastian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261013T060000Z
 DTEND:20261013T073500Z
 SUMMARY:In.ort (w)
@@ -687,14 +666,14 @@ DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:Sipp (w)
 LOCATION:54/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T070000Z
 DTEND:20261124T083500Z
 SUMMARY:Sipp (w)
 LOCATION:52/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
@@ -1010,6 +989,13 @@ DTEND:20260330T130500Z
 SUMMARY:Pms 
 LOCATION:
 DESCRIPTION:Pms\nRodzaj zajęć: -\nNumer zajęć: 11/70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261006T140000Z
+DTEND:20261006T153500Z
+SUMMARY:Sipp (w)
+LOCATION:9/ 62
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -1950,6 +1936,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 55/133
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261008T094000Z
+DTEND:20261008T111500Z
+SUMMARY:Aud (w)
+LOCATION:53/ 62
+DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Sybilski Kamil
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261015T094000Z
 DTEND:20261015T111500Z
 SUMMARY:In.ort (L)
@@ -2046,6 +2039,13 @@ DTEND:20260527T111500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 58/133
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261008T113000Z
+DTEND:20261008T130500Z
+SUMMARY:Aud (w)
+LOCATION:54/ 62
+DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T113000Z

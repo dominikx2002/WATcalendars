@@ -207,13 +207,6 @@ LOCATION:307 S
 DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T075000Z
-DTEND:20261021T092500Z
-SUMMARY:PSy (w)
-LOCATION:316 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261021T155000Z
 DTEND:20261021T172500Z
 SUMMARY:Mass (w)
@@ -421,14 +414,14 @@ DTSTART:20261109T070000Z
 DTEND:20261109T083500Z
 SUMMARY:PSy (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T085000Z
 DTEND:20261109T102500Z
 SUMMARY:PSy (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T104000Z
@@ -596,7 +589,7 @@ DTSTART:20261120T104000Z
 DTEND:20261120T121500Z
 SUMMARY:PSy (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T123000Z
@@ -632,6 +625,13 @@ DTEND:20261123T163500Z
 SUMMARY:Med (L)
 LOCATION:233 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T123000Z
+DTEND:20261124T140500Z
+SUMMARY:PSy (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T150000Z

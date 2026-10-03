@@ -70,8 +70,8 @@ BEGIN:VEVENT
 DTSTART:20260116T070000Z
 DTEND:20260116T083500Z
 SUMMARY:Zzl (S)
-LOCATION:0.21/16
-DESCRIPTION:Zarządzanie zasobami ludzkimi 41\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. Kościelecki Lech 42
+LOCATION:7a
+DESCRIPTION:Zarządzanie zasobami ludzkimi 41\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. Kościelecki Lech 42; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T075000Z
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 DTSTART:20261024T075000Z
 DTEND:20261024T092500Z
 SUMMARY:Zzl (w)
-LOCATION:0.22/16
+LOCATION:0.23/16
 DESCRIPTION:Zarządzanie zasobami ludzkimi 41\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: prof. dr hab. Kościelecki Lech 42
 END:VEVENT
 BEGIN:VEVENT
@@ -147,8 +147,8 @@ BEGIN:VEVENT
 DTSTART:20260116T085000Z
 DTEND:20260116T102500Z
 SUMMARY:Zzl (S)
-LOCATION:0.6/16
-DESCRIPTION:Zarządzanie zasobami ludzkimi 41\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. Kościelecki Lech 42
+LOCATION:7a
+DESCRIPTION:Zarządzanie zasobami ludzkimi 41\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. Kościelecki Lech 42; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T094000Z
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 DTSTART:20261024T094000Z
 DTEND:20261024T111500Z
 SUMMARY:Zzl (w)
-LOCATION:0.22/16
+LOCATION:187 S
 DESCRIPTION:Zarządzanie zasobami ludzkimi 41\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: prof. dr hab. Kościelecki Lech 42
 END:VEVENT
 BEGIN:VEVENT
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 DTSTART:20260116T104000Z
 DTEND:20260116T121500Z
 SUMMARY:TwL (S)
-LOCATION:1.17/16
+LOCATION:7a
 DESCRIPTION:Transport w logistyce 34\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Sieczka Jarosław 35
 END:VEVENT
 BEGIN:VEVENT
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 DTSTART:20260116T123000Z
 DTEND:20260116T140500Z
 SUMMARY:PS. (L)
-LOCATION:0.6/16
+LOCATION:7a
 DESCRIPTION:Podstawy spedycji 19\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3\nProwadzący: dr inż. Owczarek Paulina 21
 END:VEVENT
 BEGIN:VEVENT
@@ -385,14 +385,14 @@ BEGIN:VEVENT
 DTSTART:20260116T150000Z
 DTEND:20260116T163500Z
 SUMMARY:PS. (L)
-LOCATION:0.6/16
+LOCATION:7a
 DESCRIPTION:Podstawy spedycji 19\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: dr inż. Owczarek Paulina 21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T150000Z
 DTEND:20260123T163500Z
 SUMMARY:Pmiuwl (ć)
-LOCATION:0.6/16
+LOCATION:0.23/16
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce 26\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż. Kosturek Robert 28
 END:VEVENT
 BEGIN:VEVENT
@@ -721,7 +721,7 @@ BEGIN:VEVENT
 DTSTART:20260124T123000Z
 DTEND:20260124T140500Z
 SUMMARY:PS. (L)
-LOCATION:0.6/16
+LOCATION:1.16/16
 DESCRIPTION:Podstawy spedycji 19\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: dr inż. Owczarek Paulina 21
 END:VEVENT
 BEGIN:VEVENT
@@ -763,7 +763,7 @@ BEGIN:VEVENT
 DTSTART:20261115T165000Z
 DTEND:20261115T182500Z
 SUMMARY:ZwSL (ć)
-LOCATION:2.21/135
+LOCATION:0.23/16
 DESCRIPTION:Zapasy w systemach logistycznych 38\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Sobczak Iwona 39
 END:VEVENT
 END:VCALENDAR

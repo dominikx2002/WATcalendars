@@ -746,6 +746,13 @@ LOCATION:0.19/135
 DESCRIPTION:Analiza Systemowa w Bezpieczeństwie 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Kawalerski Paweł 2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261126T070000Z
+DTEND:20261126T083500Z
+SUMMARY:DiZ.I. (w)
+LOCATION:4.17a/135
+DESCRIPTION:Dezinformacja i zagrożenia informacyjne 10\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Marciniak Mirosław 11
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261203T070000Z
 DTEND:20261203T083500Z
 SUMMARY:ASwBezp (w)
@@ -799,7 +806,7 @@ DTSTART:20261126T085000Z
 DTEND:20261126T102500Z
 SUMMARY:DiZ.I. (w)
 LOCATION:2.21/135
-DESCRIPTION:Dezinformacja i zagrożenia informacyjne 10\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Marciniak Mirosław 11
+DESCRIPTION:Dezinformacja i zagrożenia informacyjne 10\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr Marciniak Mirosław 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T085000Z
@@ -807,13 +814,6 @@ DTEND:20261203T102500Z
 SUMMARY:Pge (w)
 LOCATION:1.10/16
 DESCRIPTION:Podstawy geopolityki 19\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Kostrzewa-Zorbas Grzegorz 20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T102500Z
-SUMMARY:Teoria 
-LOCATION:0.7/16
-DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 17/17\nProwadzący: dr Kawalerski Paweł 2; dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T085000Z
@@ -848,14 +848,14 @@ DTSTART:20261015T094000Z
 DTEND:20261015T111500Z
 SUMMARY:DiZ.I. (w)
 LOCATION:A.1.3/135
-DESCRIPTION:Dezinformacja i zagrożenia informacyjne 10\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr Marciniak Mirosław 11
+DESCRIPTION:Dezinformacja i zagrożenia informacyjne 10\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Marciniak Mirosław 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T094000Z
 DTEND:20261022T111500Z
 SUMMARY:DiZ.I. (w)
 LOCATION:4.17b/135
-DESCRIPTION:Dezinformacja i zagrożenia informacyjne 10\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Marciniak Mirosław 11
+DESCRIPTION:Dezinformacja i zagrożenia informacyjne 10\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Marciniak Mirosław 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -869,7 +869,7 @@ DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
 SUMMARY:DiZ.I. (w)
 LOCATION:0.23/16
-DESCRIPTION:Dezinformacja i zagrożenia informacyjne 10\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Marciniak Mirosław 11
+DESCRIPTION:Dezinformacja i zagrożenia informacyjne 10\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Marciniak Mirosław 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T104000Z
@@ -902,9 +902,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
-SUMMARY:DiZ.I. (w)
+SUMMARY:Teoria 
 LOCATION:0.7/16
-DESCRIPTION:Dezinformacja i zagrożenia informacyjne 10\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Marciniak Mirosław 11
+DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 17/17\nProwadzący: dr Kawalerski Paweł 2; dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z

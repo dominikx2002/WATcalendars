@@ -763,7 +763,7 @@ BEGIN:VEVENT
 DTSTART:20260119T070000Z
 DTEND:20260119T083500Z
 SUMMARY:BPiE (w)
-LOCATION:15/ 23A
+LOCATION:51/ 62
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
@@ -1138,13 +1138,6 @@ LOCATION:15/ 23A
 DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T140000Z
-DTEND:20261020T153500Z
-SUMMARY:UeiM (w)
-LOCATION:3/ 23A
-DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/18
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261103T150000Z
 DTEND:20261103T163500Z
 SUMMARY:Uwb (w)
@@ -1226,7 +1219,7 @@ DTSTART:20261215T165000Z
 DTEND:20261215T182500Z
 SUMMARY:UeiM (w)
 LOCATION:5/ 20
-DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/18\nProwadzący: dr inż. Trawiński Grzegorz
+DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/18\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T165000Z
@@ -1520,7 +1513,7 @@ DTSTART:20261007T094000Z
 DTEND:20261007T111500Z
 SUMMARY:UeiM (w)
 LOCATION:3/ 23A
-DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/18
+DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T094000Z
@@ -1688,7 +1681,7 @@ DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
 SUMMARY:UeiM (w)
 LOCATION:3/ 23A
-DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/18
+DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T123000Z
@@ -1800,7 +1793,7 @@ DTSTART:20261209T150000Z
 DTEND:20261209T163500Z
 SUMMARY:UeiM (w)
 LOCATION:5/ 20
-DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 9/18\nProwadzący: dr inż. Trawiński Grzegorz
+DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/18\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T150000Z
@@ -1982,7 +1975,7 @@ DTSTART:20261022T060000Z
 DTEND:20261022T073500Z
 SUMMARY:UeiM (w)
 LOCATION:3/ 23A
-DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 10/18
+DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 9/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T070000Z
@@ -2059,7 +2052,7 @@ DTSTART:20260114T070000Z
 DTEND:20260114T083500Z
 SUMMARY:UeiM (w)
 LOCATION:3/ 23A
-DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 11/18
+DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 10/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T070000Z
@@ -2346,7 +2339,7 @@ DTSTART:20260128T104000Z
 DTEND:20260128T121500Z
 SUMMARY:UeiM (w)
 LOCATION:15/ 23A
-DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 12/18
+DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 11/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T104000Z
@@ -2375,6 +2368,13 @@ DTEND:20261008T130500Z
 SUMMARY:Bpg 
 LOCATION:2/ 23A
 DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 15/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T113000Z
+DTEND:20261015T130500Z
+SUMMARY:UeiM (w)
+LOCATION:15/ 23A
+DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 12/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T123000Z
@@ -2692,6 +2692,13 @@ LOCATION:2/ 23A
 DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 20/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261023T075000Z
+DTEND:20261023T092500Z
+SUMMARY:UeiM (w)
+LOCATION:3/ 23A
+DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 16/18
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261106T085000Z
 DTEND:20261106T102500Z
 SUMMARY:REG (ć)
@@ -2956,13 +2963,6 @@ DTEND:20261002T130500Z
 SUMMARY:ZLDT-1 (ć)
 LOCATION:17/ 135
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261009T113000Z
-DTEND:20261009T130500Z
-SUMMARY:UeiM (w)
-LOCATION:3/ 23A
-DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 16/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T113000Z

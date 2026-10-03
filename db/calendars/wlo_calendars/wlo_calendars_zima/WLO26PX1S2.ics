@@ -147,7 +147,7 @@ BEGIN:VEVENT
 DTSTART:20261019T094000Z
 DTEND:20261019T111500Z
 SUMMARY:Gpio (ć)
-LOCATION:1a/28
+LOCATION:
 DESCRIPTION:Geopolityka i obronność 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: prof. dr hab. Trejnis Zenon 8
 END:VEVENT
 BEGIN:VEVENT
@@ -217,15 +217,15 @@ BEGIN:VEVENT
 DTSTART:20261019T113000Z
 DTEND:20261019T130500Z
 SUMMARY:Gpio (w)
-LOCATION:1a/28
+LOCATION:1.17/16
 DESCRIPTION:Geopolityka i obronność 7\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. Trejnis Zenon 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T123000Z
 DTEND:20261026T140500Z
 SUMMARY:Gpio (ć)
-LOCATION:1003 HIL
-DESCRIPTION:Geopolityka i obronność 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: prof. dr hab. Trejnis Zenon 8; prof. dr hab. Trejnis Zenon
+LOCATION:54E
+DESCRIPTION:Geopolityka i obronność 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: prof. dr hab. Trejnis Zenon 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T123000Z
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:Hbn (ć)
-LOCATION:0.6/16
+LOCATION:
 DESCRIPTION:Historia bezpieczeństwa narodowego 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr hab. Ostanek Adam 11
 END:VEVENT
 BEGIN:VEVENT
@@ -1337,7 +1337,7 @@ BEGIN:VEVENT
 DTSTART:20261022T113000Z
 DTEND:20261022T130500Z
 SUMMARY:Mbno (ć)
-LOCATION:1003 HIL
+LOCATION:55A
 DESCRIPTION:Metodologia badań nad obronnością 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: dr hab. Filipek Agnieszka 14
 END:VEVENT
 BEGIN:VEVENT
@@ -1603,8 +1603,8 @@ BEGIN:VEVENT
 DTSTART:20261023T094000Z
 DTEND:20261023T111500Z
 SUMMARY:Europejski 
-LOCATION:26PX; 1S; 2 Pr; 1003 HIL
-DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 16/20\nProwadzący: dr inż. Piwowarczyk Ryszard 2; prof. dr hab. Kościelecki Lech 5; prof. dr hab. Trejnis Zenon 8
+LOCATION:54E
+DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 16/20\nProwadzący: dr inż. Piwowarczyk Ryszard 2; prof. dr hab. Kościelecki Lech 5; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T104000Z

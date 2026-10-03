@@ -963,6 +963,13 @@ LOCATION:2.21/135
 DESCRIPTION:Rozpoznanie obrazowe w procesie pozyskiwania informacji 37\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Marciniak Mirosław 38
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261028T150000Z
+DTEND:20261028T163500Z
+SUMMARY:Lg (w)
+LOCATION:1003 HIL
+DESCRIPTION:Logika 18\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Marciniak Mirosław 19
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261104T150000Z
 DTEND:20261104T163500Z
 SUMMARY:P 
@@ -1093,14 +1100,14 @@ DTSTART:20261022T060000Z
 DTEND:20261022T073500Z
 SUMMARY:Lg (w)
 LOCATION:1003 HIL
-DESCRIPTION:Logika 18\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Marciniak Mirosław 19
+DESCRIPTION:Logika 18\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Marciniak Mirosław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T070000Z
 DTEND:20261105T083500Z
 SUMMARY:Lg (w)
 LOCATION:1003 HIL
-DESCRIPTION:Logika 18\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Marciniak Mirosław 19
+DESCRIPTION:Logika 18\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Marciniak Mirosław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T070000Z
@@ -1108,13 +1115,6 @@ DTEND:20261203T083500Z
 SUMMARY:PZIwO (w)
 LOCATION:2.22/135
 DESCRIPTION:Psychologia zachowań informacyjnych w obronności 34\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Karczewski Edward 35
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T070000Z
-DTEND:20261210T083500Z
-SUMMARY:Lg (w)
-LOCATION:1003 HIL
-DESCRIPTION:Logika 18\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Marciniak Mirosław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T070000Z
@@ -1178,13 +1178,6 @@ DTEND:20261203T102500Z
 SUMMARY:PZIwO (ć)
 LOCATION:5.17/135
 DESCRIPTION:Psychologia zachowań informacyjnych w obronności 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: mgr Moszczyński Maciej 36
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T102500Z
-SUMMARY:Lg (ć)
-LOCATION:1003 HIL
-DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr Marciniak Mirosław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T085000Z
@@ -1289,7 +1282,7 @@ DTSTART:20260128T104000Z
 DTEND:20260128T121500Z
 SUMMARY:Lg (ć)
 LOCATION:1b/28
-DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr Marciniak Mirosław 19
+DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr Marciniak Mirosław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T113000Z
@@ -1366,7 +1359,7 @@ DTSTART:20260128T123000Z
 DTEND:20260128T140500Z
 SUMMARY:Lg (ć)
 LOCATION:1b/28
-DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr Marciniak Mirosław 19
+DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr Marciniak Mirosław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T140000Z
@@ -1485,7 +1478,7 @@ DTSTART:20260108T070000Z
 DTEND:20260108T083500Z
 SUMMARY:Lg (ć)
 LOCATION:2.22/135
-DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr Marciniak Mirosław 19
+DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr Marciniak Mirosław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T070000Z
@@ -1534,7 +1527,7 @@ DTSTART:20261120T085000Z
 DTEND:20261120T102500Z
 SUMMARY:Lg (ć)
 LOCATION:1003 HIL
-DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr Marciniak Mirosław 19
+DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr Marciniak Mirosław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T085000Z
@@ -1562,7 +1555,7 @@ DTSTART:20260108T085000Z
 DTEND:20260108T102500Z
 SUMMARY:Lg (ć)
 LOCATION:2.22/135
-DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: dr Marciniak Mirosław 19
+DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr Marciniak Mirosław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T085000Z
@@ -1667,7 +1660,7 @@ DTSTART:20260108T104000Z
 DTEND:20260108T121500Z
 SUMMARY:Lg (ć)
 LOCATION:2.22/135
-DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr Marciniak Mirosław 19
+DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: dr Marciniak Mirosław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T104000Z
@@ -1681,7 +1674,7 @@ DTSTART:20260122T104000Z
 DTEND:20260122T121500Z
 SUMMARY:Lg (ć)
 LOCATION:1b/28
-DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: dr Marciniak Mirosław 19
+DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr Marciniak Mirosław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T104000Z
@@ -1836,6 +1829,13 @@ DTEND:20261106T163500Z
 SUMMARY:GiRśb (ć)
 LOCATION:0.22/16
 DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa 7\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T150000Z
+DTEND:20261113T163500Z
+SUMMARY:Lg (ć)
+LOCATION:0.21/16
+DESCRIPTION:Logika 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: dr Marciniak Mirosław 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T150000Z

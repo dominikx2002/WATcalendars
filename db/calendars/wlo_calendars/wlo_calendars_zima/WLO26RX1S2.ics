@@ -161,7 +161,7 @@ BEGIN:VEVENT
 DTSTART:20261019T094000Z
 DTEND:20261019T111500Z
 SUMMARY:Rib (ć)
-LOCATION:0.6/16
+LOCATION:54E
 DESCRIPTION:Regionalizacja i instytucjonalizacja bezpieczeństwa 21\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: prof. dr hab. Kaczmarek Waldemar 22
 END:VEVENT
 BEGIN:VEVENT
@@ -945,7 +945,7 @@ BEGIN:VEVENT
 DTSTART:20261028T150000Z
 DTEND:20261028T163500Z
 SUMMARY:Zle (ć)
-LOCATION:1/22
+LOCATION:255 S
 DESCRIPTION:Zachowania ludzi w sytuacjach ekstremalnych 35\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12
 END:VEVENT
 BEGIN:VEVENT
@@ -1033,6 +1033,13 @@ LOCATION:aula/135
 DESCRIPTION:Usługi logistyczne w bezpieczeństwie 32\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. inż.(prof. ucz.) Wysocki Józef 33
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261008T075000Z
+DTEND:20261008T092500Z
+SUMMARY:BSiS (w)
+LOCATION:1002 HIL
+DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261105T085000Z
 DTEND:20261105T102500Z
 SUMMARY:A (ć)
@@ -1096,11 +1103,18 @@ LOCATION:aula/135 studia
 DESCRIPTION:Spotkanie informacyjne 27\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: dr hab. Świniarski Janusz 7; dr Kostrzewa-Zorbas Grzegorz 12
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261008T094000Z
+DTEND:20261008T111500Z
+SUMMARY:BSiS (ć)
+LOCATION:
+DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T104000Z
 DTEND:20261029T121500Z
 SUMMARY:BSiS (ć)
 LOCATION:0.7/16
-DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
+DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
@@ -1121,14 +1135,14 @@ DTSTART:20260121T104000Z
 DTEND:20260121T121500Z
 SUMMARY:BSiS (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
+DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T123000Z
 DTEND:20261029T140500Z
 SUMMARY:BSiS (ć)
-LOCATION:0.7/16
-DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
+LOCATION:255 S
+DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T123000Z
@@ -1156,14 +1170,14 @@ DTSTART:20261203T123000Z
 DTEND:20261203T140500Z
 SUMMARY:BSiS (ć)
 LOCATION:1.17/16
-DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
+DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
 SUMMARY:BSiS (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
+DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T123000Z
@@ -1219,7 +1233,7 @@ DTSTART:20261210T150000Z
 DTEND:20261210T163500Z
 SUMMARY:BSiS (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
+DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T150000Z
@@ -1306,18 +1320,11 @@ LOCATION:0.22/16
 DESCRIPTION:Regionalizacja i instytucjonalizacja bezpieczeństwa 21\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: prof. dr hab. Kaczmarek Waldemar 22
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261009T075000Z
-DTEND:20261009T092500Z
-SUMMARY:BSiS (w)
-LOCATION:0.28/135
-DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261016T075000Z
 DTEND:20261016T092500Z
 SUMMARY:BSiS (ć)
 LOCATION:0.7/16
-DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
+DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T085000Z
@@ -1360,13 +1367,6 @@ DTEND:20260129T102500Z
 SUMMARY:Historia 
 LOCATION:5.17/135
 DESCRIPTION:Historia\nRodzaj zajęć: -\nNumer zajęć: 8/13\nProwadzący: dr hab. inż.(prof. ucz.) Wysocki Józef 33; dr Pulik Paweł 15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261009T094000Z
-DTEND:20261009T111500Z
-SUMMARY:BSiS (ć)
-LOCATION:55A
-DESCRIPTION:Bezpieczeństwo społeczne i socjalne 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: prof. dr hab. Skrabacz Aleksandra 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T094000Z

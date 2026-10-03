@@ -53,18 +53,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 3/175
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T075000Z
-DTEND:20261012T092500Z
-SUMMARY:Kszm 
-LOCATION:9/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 1/27\nProwadzący: dr inż. Stanisławek Sebastian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261019T075000Z
 DTEND:20261019T092500Z
 SUMMARY:Kszm 
 LOCATION:9/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 2/27\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 1/27\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T085000Z
@@ -155,28 +148,28 @@ DTSTART:20261116T104000Z
 DTEND:20261116T121500Z
 SUMMARY:Kszm 
 LOCATION:6/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 3/27\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 2/27\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T104000Z
 DTEND:20261123T121500Z
 SUMMARY:Kszm 
 LOCATION:6/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 4/27\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 3/27\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T104000Z
 DTEND:20261130T121500Z
 SUMMARY:Kszm 
 LOCATION:6/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 5/27\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 4/27\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T104000Z
 DTEND:20261214T121500Z
 SUMMARY:Kszm 
 LOCATION:Zp/lab; 6/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 6/27\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 5/27\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T104000Z
@@ -197,7 +190,7 @@ DTSTART:20260111T104000Z
 DTEND:20260111T121500Z
 SUMMARY:Kszm 
 LOCATION:52/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 7/27\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 6/27\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260215T104000Z
@@ -211,7 +204,14 @@ DTSTART:20261012T113000Z
 DTEND:20261012T130500Z
 SUMMARY:Kszm 
 LOCATION:6/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 8/27\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 7/27\nProwadzący: dr inż. Świerczewski Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T113000Z
+DTEND:20261019T130500Z
+SUMMARY:Kszm 
+LOCATION:53/ 62
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 8/27\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T123000Z
@@ -473,25 +473,18 @@ LOCATION:54/ 62
 DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 16/27\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T092500Z
-SUMMARY:Kszm 
-LOCATION:42/ 20
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 17/27\nProwadzący: dr inż. Stanisławek Sebastian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:Kszm 
 LOCATION:6/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 18/27\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 17/27\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T085000Z
 DTEND:20261117T102500Z
 SUMMARY:Kszm 
 LOCATION:6/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 19/27\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 18/27\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T085000Z
@@ -547,28 +540,21 @@ DTSTART:20261006T094000Z
 DTEND:20261006T111500Z
 SUMMARY:Kszm 
 LOCATION:54/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 20/27\nProwadzący: dr inż. Stanisławek Sebastian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T111500Z
-SUMMARY:Kszm 
-LOCATION:42/ 20
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 21/27\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 19/27\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Kszm 
 LOCATION:6/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 22/27\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 20/27\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
 SUMMARY:Kszm 
 LOCATION:6/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 23/27\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 21/27\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T104000Z
@@ -631,7 +617,7 @@ DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
 SUMMARY:Kszm 
 LOCATION:6/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 24/27\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 22/27\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T123000Z
@@ -883,7 +869,7 @@ DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:Kszm 
 LOCATION:54/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 25/27\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 23/27\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
@@ -960,7 +946,7 @@ DTSTART:20261202T104000Z
 DTEND:20261202T121500Z
 SUMMARY:Kszm 
 LOCATION:6/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 26/27\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 24/27\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T104000Z
@@ -1002,7 +988,7 @@ DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
 SUMMARY:Kszm 
 LOCATION:6/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 27/27\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 25/27\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T123000Z
@@ -1180,6 +1166,13 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 8/78
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261008T060000Z
+DTEND:20261008T073500Z
+SUMMARY:Kszm 
+LOCATION:53/ 62
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 26/27\nProwadzący: dr inż. Stanisławek Sebastian
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T070000Z
 DTEND:20261217T083500Z
 SUMMARY:SEzas. 
@@ -1213,6 +1206,13 @@ DTEND:20260527T073500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 66/175
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261008T075000Z
+DTEND:20261008T092500Z
+SUMMARY:Kszm 
+LOCATION:53/ 62
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 27/27\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T085000Z

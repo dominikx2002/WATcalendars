@@ -2510,13 +2510,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 39/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261030T104000Z
-DTEND:20261030T121500Z
-SUMMARY:Mnwd (w)
-LOCATION:307 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261030T123000Z
 DTEND:20261030T140500Z
 SUMMARY:Muma (L)
@@ -2585,6 +2578,13 @@ DTEND:20261103T102500Z
 SUMMARY:Med (w)
 LOCATION:313 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261103T104000Z
+DTEND:20261103T121500Z
+SUMMARY:Mnwd (w)
+LOCATION:316 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T150000Z

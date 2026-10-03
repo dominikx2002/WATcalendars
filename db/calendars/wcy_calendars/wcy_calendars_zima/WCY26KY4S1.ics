@@ -179,15 +179,15 @@ LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T113000Z
-DTEND:20261019T130500Z
+DTSTART:20261019T140000Z
+DTEND:20261019T153500Z
 SUMMARY:Wzp (w)
 LOCATION:314 S
 DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T140000Z
-DTEND:20261019T153500Z
+DTSTART:20261019T155000Z
+DTEND:20261019T172500Z
 SUMMARY:Wzp (w)
 LOCATION:314 S
 DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
@@ -872,25 +872,25 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261130T150000Z
+DTEND:20261130T163500Z
+SUMMARY:WdI (L)
+LOCATION:239 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: mgr inż. Marcin Paź
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T165000Z
+DTEND:20261130T182500Z
+SUMMARY:WdI (L)
+LOCATION:239 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: mgr inż. Marcin Paź
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261201T085000Z
 DTEND:20261201T102500Z
 SUMMARY:Owi (w)
 LOCATION:316 S
 DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T150000Z
-DTEND:20261202T163500Z
-SUMMARY:WdI (L)
-LOCATION:219 65
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: mgr inż. Marcin Paź
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T165000Z
-DTEND:20261202T182500Z
-SUMMARY:WdI (L)
-LOCATION:219 65
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: mgr inż. Marcin Paź
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T085000Z
