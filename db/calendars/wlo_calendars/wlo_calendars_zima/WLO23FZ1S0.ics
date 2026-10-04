@@ -179,18 +179,11 @@ LOCATION:1.9/16; 1.10/16
 DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/12\nProwadzący: dr inż. Sieczka Jarosław 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T094000Z
-DTEND:20261012T111500Z
-SUMMARY:ZOWO (w)
-LOCATION:1.15/16
-DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia 70\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: dr Spychała Dariusz 71
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261019T094000Z
 DTEND:20261019T111500Z
 SUMMARY:ZOWO (w)
 LOCATION:2.21/135
-DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia 70\nRodzaj zajęć: Wykład\nNumer zajęć: 2/13\nProwadzący: dr Spychała Dariusz 71
+DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia 70\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: dr Spychała Dariusz 71
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T104000Z
@@ -204,7 +197,7 @@ DTSTART:20261123T104000Z
 DTEND:20261123T121500Z
 SUMMARY:ZOWO (w)
 LOCATION:5.17/135
-DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia 70\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: dr Spychała Dariusz 71
+DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia 70\nRodzaj zajęć: Wykład\nNumer zajęć: 2/13\nProwadzący: dr Spychała Dariusz 71
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T104000Z
@@ -240,13 +233,6 @@ DTEND:20261005T130500Z
 SUMMARY:wzbnim (w)
 LOCATION:aula/135
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego 44\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: XMrBr(w) WLO23FZ1S0
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T113000Z
-DTEND:20261012T130500Z
-SUMMARY:ZOWO (w)
-LOCATION:1.15/16
-DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia 70\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: dr Spychała Dariusz 71
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T113000Z
@@ -424,6 +410,13 @@ LOCATION:0.22/16
 DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Sieczka Jarosław 2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261027T085000Z
+DTEND:20261027T102500Z
+SUMMARY:ZOWO (w)
+LOCATION:1.7/16
+DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia 70\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: dr Spychała Dariusz 71
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261110T085000Z
 DTEND:20261110T102500Z
 SUMMARY:SzS (ć)
@@ -506,6 +499,13 @@ DTEND:20261020T111500Z
 SUMMARY:BeSL (ć)
 LOCATION:0.22/16
 DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Sieczka Jarosław 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T104000Z
+DTEND:20261027T121500Z
+SUMMARY:ZOWO (w)
+LOCATION:1.7/16
+DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia 70\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: dr Spychała Dariusz 71
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z

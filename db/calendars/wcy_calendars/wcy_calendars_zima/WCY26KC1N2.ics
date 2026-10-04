@@ -403,13 +403,6 @@ LOCATION:317 S
 DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261121T165000Z
-DTEND:20261121T182500Z
-SUMMARY:Nmtz (w)
-LOCATION:317 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261122T070000Z
 DTEND:20261122T083500Z
 SUMMARY:Ja (ć)
@@ -576,6 +569,13 @@ DTEND:20261213T140500Z
 SUMMARY:WIT (L)
 LOCATION:121 65
 DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T150000Z
+DTEND:20261213T163500Z
+SUMMARY:Nmtz (w)
+LOCATION:317 S
+DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T165000Z

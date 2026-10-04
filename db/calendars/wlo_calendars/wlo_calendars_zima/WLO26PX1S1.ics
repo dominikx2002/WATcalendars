@@ -284,6 +284,13 @@ LOCATION:54E
 DESCRIPTION:Nauka o państwie i prawie 21\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: mgr Trzcińska Luiza 23
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261020T113000Z
+DTEND:20261020T130500Z
+SUMMARY:M (w)
+LOCATION:1.9/16; 1.10/16
+DESCRIPTION:Matematyka 18\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir 19
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261110T123000Z
 DTEND:20261110T140500Z
 SUMMARY:Wzp (ć)
@@ -1016,7 +1023,7 @@ DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:M (w)
 LOCATION:7a
-DESCRIPTION:Matematyka 18\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir 19; dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Matematyka 18\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir 19; dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
@@ -1042,13 +1049,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
-SUMMARY:M (w)
-LOCATION:7a
-DESCRIPTION:Matematyka 18\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir 19; dr hab. inż. Bartosiewicz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T113000Z
-DTEND:20261008T130500Z
 SUMMARY:M (w)
 LOCATION:7a
 DESCRIPTION:Matematyka 18\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir 19; dr hab. inż. Bartosiewicz Sławomir

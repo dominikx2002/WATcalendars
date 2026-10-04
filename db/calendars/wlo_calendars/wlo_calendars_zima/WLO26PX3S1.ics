@@ -333,6 +333,13 @@ LOCATION:4.23/135
 DESCRIPTION:Organizacja i zarządzanie 29\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: mgr Dąbrowska - Świder Małgorzata 31
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261020T113000Z
+DTEND:20261020T130500Z
+SUMMARY:M (w)
+LOCATION:1.9/16; 1.10/16
+DESCRIPTION:Matematyka 18\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir 19
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261027T123000Z
 DTEND:20261027T140500Z
 SUMMARY:NoPiP (ć)
@@ -1002,7 +1009,7 @@ DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:M (w)
 LOCATION:7a
-DESCRIPTION:Matematyka 18\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir 19; dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Matematyka 18\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir 19; dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
@@ -1021,13 +1028,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
-SUMMARY:M (w)
-LOCATION:7a
-DESCRIPTION:Matematyka 18\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir 19; dr hab. inż. Bartosiewicz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T113000Z
-DTEND:20261008T130500Z
 SUMMARY:M (w)
 LOCATION:7a
 DESCRIPTION:Matematyka 18\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir 19; dr hab. inż. Bartosiewicz Sławomir
