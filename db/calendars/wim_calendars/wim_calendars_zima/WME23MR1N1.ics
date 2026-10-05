@@ -4,81 +4,11 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WME23MR1N1
 BEGIN:VEVENT
-DTSTART:20261114T070000Z
-DTEND:20261114T083500Z
-SUMMARY:App (w)
-LOCATION:2/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261121T070000Z
-DTEND:20261121T083500Z
-SUMMARY:App (L)
-LOCATION:7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260109T070000Z
 DTEND:20260109T083500Z
 SUMMARY:SiNBM (Zp.)
 LOCATION:5/ 20
 DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260220T070000Z
-DTEND:20260220T083500Z
-SUMMARY:App (Zp.)
-LOCATION:2/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261107T085000Z
-DTEND:20261107T102500Z
-SUMMARY:App (L)
-LOCATION:3/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261114T085000Z
-DTEND:20261114T102500Z
-SUMMARY:App (L)
-LOCATION:5/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261121T085000Z
-DTEND:20261121T102500Z
-SUMMARY:App (L)
-LOCATION:7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261212T085000Z
-DTEND:20261212T102500Z
-SUMMARY:App (w)
-LOCATION:2/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261107T104000Z
-DTEND:20261107T121500Z
-SUMMARY:App (L)
-LOCATION:3/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261114T104000Z
-DTEND:20261114T121500Z
-SUMMARY:App (L)
-LOCATION:5/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261212T104000Z
-DTEND:20261212T121500Z
-SUMMARY:App (S)
-LOCATION:2/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T104000Z
@@ -88,25 +18,11 @@ LOCATION:1/ 21
 DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260213T104000Z
-DTEND:20260213T121500Z
-SUMMARY:App (Zp/lab.)
-LOCATION:5/ 23A; 7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: (Zp/lab.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261205T123000Z
 DTEND:20261205T140500Z
 SUMMARY:SiNBM (ć)
 LOCATION:1/ 21
 DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261212T123000Z
-DTEND:20261212T140500Z
-SUMMARY:App (S)
-LOCATION:2/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T150000Z
@@ -123,13 +39,6 @@ LOCATION:6/ 23A
 DESCRIPTION:Ppu.\nRodzaj zajęć: (Rp)\nNumer zajęć: 1/5\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260116T165000Z
-DTEND:20260116T182500Z
-SUMMARY:App (w)
-LOCATION:2/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261017T174000Z
 DTEND:20261017T191500Z
 SUMMARY:Ppu. (Rp)
@@ -137,25 +46,11 @@ LOCATION:6/ 23A
 DESCRIPTION:Ppu.\nRodzaj zajęć: (Rp)\nNumer zajęć: 2/5\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261025T070000Z
-DTEND:20261025T083500Z
-SUMMARY:App (L)
-LOCATION:7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261108T085000Z
 DTEND:20261108T102500Z
 SUMMARY:SiNBM (w)
 LOCATION:5/ 20
 DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T094000Z
-DTEND:20261018T111500Z
-SUMMARY:App (w)
-LOCATION:2/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T104000Z
@@ -170,13 +65,6 @@ DTEND:20261122T121500Z
 SUMMARY:SiNBM (w)
 LOCATION:5/ 20
 DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T113000Z
-DTEND:20261018T130500Z
-SUMMARY:App (w)
-LOCATION:2/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T123000Z
