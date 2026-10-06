@@ -2601,18 +2601,18 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261009T060000Z
-DTEND:20261009T073500Z
-SUMMARY:Bpg 
-LOCATION:2/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 18/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261016T060000Z
 DTEND:20261016T073500Z
 SUMMARY:REG (w)
 LOCATION:
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: ppłk rez. Jęcek Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T070000Z
+DTEND:20261030T083500Z
+SUMMARY:Bpg 
+LOCATION:5/ 23A
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 18/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T070000Z
@@ -2685,18 +2685,18 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261009T075000Z
-DTEND:20261009T092500Z
-SUMMARY:Bpg 
-LOCATION:2/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 20/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261023T075000Z
 DTEND:20261023T092500Z
 SUMMARY:UeiM (w)
 LOCATION:3/ 23A
 DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 16/18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T102500Z
+SUMMARY:Bpg 
+LOCATION:5/ 23A
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 20/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T085000Z
