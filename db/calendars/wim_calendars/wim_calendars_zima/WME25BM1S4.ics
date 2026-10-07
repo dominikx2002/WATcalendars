@@ -88,13 +88,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 2/133
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260111T070000Z
-DTEND:20260111T083500Z
-SUMMARY:Tasr (L)
-LOCATION:13/ 54
-DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Kluczyński Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260118T070000Z
 DTEND:20260118T083500Z
 SUMMARY:Mnisu2 (L)
@@ -197,7 +190,7 @@ DTSTART:20260111T085000Z
 DTEND:20260111T102500Z
 SUMMARY:Tasr (L)
 LOCATION:13/ 54
-DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Kluczyński Janusz
+DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T085000Z
@@ -321,9 +314,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T104000Z
 DTEND:20260111T121500Z
-SUMMARY:URiPSR 
-LOCATION:6/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 2/36\nProwadzący: prof. dr hab. inż. Pawlikowski Marek
+SUMMARY:Tasr (L)
+LOCATION:13/ 54
+DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T104000Z
@@ -358,7 +351,7 @@ DTSTART:20261012T113000Z
 DTEND:20261012T130500Z
 SUMMARY:URiPSR 
 LOCATION:9/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 3/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 2/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T113000Z
@@ -407,14 +400,14 @@ DTSTART:20261130T123000Z
 DTEND:20261130T140500Z
 SUMMARY:URiPSR 
 LOCATION:7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 4/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 3/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T123000Z
 DTEND:20261207T140500Z
 SUMMARY:URiPSR 
 LOCATION:7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 5/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 4/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T123000Z
@@ -449,7 +442,7 @@ DTSTART:20260111T123000Z
 DTEND:20260111T140500Z
 SUMMARY:URiPSR 
 LOCATION:6/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 6/36\nProwadzący: prof. dr hab. inż. Pawlikowski Marek
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 5/36\nProwadzący: prof. dr hab. inż. Pawlikowski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T123000Z
@@ -463,14 +456,14 @@ DTSTART:20260201T123000Z
 DTEND:20260201T140500Z
 SUMMARY:URiPSR 
 LOCATION:Zp/lab; 7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 7/36\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 6/36\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260208T123000Z
 DTEND:20260208T140500Z
 SUMMARY:URiPSR 
 LOCATION:7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 8/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 7/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260215T123000Z
@@ -491,7 +484,7 @@ DTSTART:20261019T140000Z
 DTEND:20261019T153500Z
 SUMMARY:URiPSR 
 LOCATION:55/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 9/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 8/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T150000Z
@@ -505,35 +498,35 @@ DTSTART:20261109T150000Z
 DTEND:20261109T163500Z
 SUMMARY:URiPSR 
 LOCATION:7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 10/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 9/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T150000Z
 DTEND:20261116T163500Z
 SUMMARY:URiPSR 
 LOCATION:7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 11/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 10/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T150000Z
 DTEND:20261130T163500Z
 SUMMARY:URiPSR 
 LOCATION:7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 12/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 11/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T150000Z
 DTEND:20261207T163500Z
 SUMMARY:URiPSR 
 LOCATION:7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 13/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 12/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T150000Z
 DTEND:20261214T163500Z
 SUMMARY:URiPSR 
 LOCATION:7/ 62
-DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 14/36\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 13/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T150000Z
@@ -555,6 +548,13 @@ DTEND:20260104T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 10/133
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T150000Z
+DTEND:20260111T163500Z
+SUMMARY:URiPSR 
+LOCATION:6/ 62
+DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 14/36\nProwadzący: prof. dr hab. inż. Pawlikowski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260215T150000Z

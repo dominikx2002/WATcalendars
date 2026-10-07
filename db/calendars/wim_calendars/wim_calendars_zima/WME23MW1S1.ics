@@ -4,6 +4,20 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WME23MW1S1
 BEGIN:VEVENT
+DTSTART:20261116T070000Z
+DTEND:20261116T083500Z
+SUMMARY:SiNBM (ć)
+LOCATION:5/ 23A
+DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T085000Z
+DTEND:20261116T102500Z
+SUMMARY:SiNBM (ć)
+LOCATION:5/ 23A
+DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261013T060000Z
 DTEND:20261013T073500Z
 SUMMARY:SiNBM (w)
@@ -21,7 +35,7 @@ BEGIN:VEVENT
 DTSTART:20261103T070000Z
 DTEND:20261103T083500Z
 SUMMARY:SiNBM (w)
-LOCATION:116/ 54
+LOCATION:1/ 21
 DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
@@ -30,13 +44,6 @@ DTEND:20261013T130500Z
 SUMMARY:SiNBM (w)
 LOCATION:15/ 23A
 DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T123000Z
-DTEND:20261110T140500Z
-SUMMARY:SiNBM (ć)
-LOCATION:42/ 20
-DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T123000Z
@@ -50,14 +57,7 @@ DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
 SUMMARY:SiNBM (ć)
 LOCATION:1/ 21
-DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T150000Z
-DTEND:20261110T163500Z
-SUMMARY:SiNBM (ć)
-LOCATION:5/ 20
-DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T150000Z

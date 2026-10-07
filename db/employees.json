@@ -4392,6 +4392,11 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Aleksandra Smentek [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Aleksandra Szczybelska"
     },
@@ -4404,6 +4409,11 @@
       "degree": "mgr inż.",
       "is_new": false,
       "name": "Alicja Ostrowska"
+    },
+    {
+      "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Andrzej Koźlik [NEW]"
     },
     {
       "degree": "mgr inż.",
@@ -4597,6 +4607,11 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Elżbieta Modrzecka [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Erik Mikulski"
     },
@@ -4722,6 +4737,11 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Jakub Rados [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Jakub Turek"
     },
@@ -4822,6 +4842,11 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Karol Korolczuk [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Karol Piwowarski"
     },
@@ -4862,8 +4887,8 @@
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Kinga Kłos [NEW]"
+      "is_new": false,
+      "name": "Kinga Kłos"
     },
     {
       "degree": "mgr inż.",
@@ -6057,10 +6082,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T05:31:48.840041",
-    "last_updated_readable": "2026-10-06 05:31:48",
-    "new_employees_count": 1,
+    "last_updated": "2026-10-07T05:00:31.631888",
+    "last_updated_readable": "2026-10-07 05:00:31",
+    "new_employees_count": 5,
     "scraper_version": "1.0",
-    "total_employees": 1211
+    "total_employees": 1216
   }
 }

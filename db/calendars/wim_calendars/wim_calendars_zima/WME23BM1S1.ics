@@ -69,9 +69,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T070000Z
 DTEND:20260111T083500Z
-SUMMARY:SEpop. 
-LOCATION:
-DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 1/25
+SUMMARY:Sd. (Zp.S)
+LOCATION:6/ 62
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: (Zp.S)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T085000Z
@@ -139,9 +139,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T085000Z
 DTEND:20260111T102500Z
-SUMMARY:Sd. (Zp.S)
-LOCATION:6/ 62
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: (Zp.S)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
+SUMMARY:SEpop. 
+LOCATION:
+DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 1/25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T104000Z

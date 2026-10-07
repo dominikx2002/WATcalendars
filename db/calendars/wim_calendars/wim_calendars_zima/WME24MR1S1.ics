@@ -410,13 +410,6 @@ LOCATION:6/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T140000Z
-DTEND:20261019T153500Z
-SUMMARY:Brd (ć)
-LOCATION:15/ 23A
-DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261026T150000Z
 DTEND:20261026T163500Z
 SUMMARY:Płe (w)
@@ -638,7 +631,7 @@ DTSTART:20261201T070000Z
 DTEND:20261201T083500Z
 SUMMARY:Brd (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T070000Z
@@ -729,7 +722,7 @@ DTSTART:20261117T085000Z
 DTEND:20261117T102500Z
 SUMMARY:Brd (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T085000Z
@@ -1451,6 +1444,13 @@ DTEND:20261014T111500Z
 SUMMARY:IEP. (w)
 LOCATION:54/ 62
 DESCRIPTION:Introduction to Elasticity Theory\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr inż. Morka Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T121500Z
+SUMMARY:Brd (ć)
+LOCATION:5/ 20
+DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T104000Z

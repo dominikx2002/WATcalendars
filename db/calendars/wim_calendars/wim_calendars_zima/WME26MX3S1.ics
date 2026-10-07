@@ -998,6 +998,13 @@ LOCATION:51/ 62
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261020T140000Z
+DTEND:20261020T153500Z
+SUMMARY:Wzp (w)
+LOCATION:301/ S
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Kobielski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261103T150000Z
 DTEND:20261103T163500Z
 SUMMARY:PGI (ć)
@@ -1075,32 +1082,25 @@ LOCATION:51/ 62
 DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T060000Z
-DTEND:20261014T073500Z
-SUMMARY:Wdi. (w)
-LOCATION:51/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Konarzewski Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261021T060000Z
 DTEND:20261021T073500Z
 SUMMARY:Wzp (w)
 LOCATION:51/ 62
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T070000Z
 DTEND:20261028T083500Z
 SUMMARY:Wdi. (w)
 LOCATION:51/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Konarzewski Marcin
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
 DTEND:20261104T083500Z
 SUMMARY:Wdi. (w)
 LOCATION:51/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Konarzewski Marcin
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T070000Z
@@ -1114,28 +1114,28 @@ DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
 SUMMARY:Wdi. (w)
 LOCATION:51/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Konarzewski Marcin
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:Wdi. (w)
 LOCATION:51/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Konarzewski Marcin
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T070000Z
 DTEND:20261202T083500Z
 SUMMARY:Wdi. (w)
 LOCATION:51/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Konarzewski Marcin
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:Wdi. (w)
 LOCATION:51/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Konarzewski Marcin
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
@@ -1184,14 +1184,14 @@ DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:Wzp (w)
 LOCATION:51/ 62
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
 DTEND:20261014T092500Z
-SUMMARY:Wzp (w)
+SUMMARY:Wdi. (w)
 LOCATION:51/ 62
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T075000Z

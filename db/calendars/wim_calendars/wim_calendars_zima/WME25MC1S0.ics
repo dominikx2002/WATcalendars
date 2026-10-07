@@ -179,18 +179,11 @@ LOCATION:3/ 23A; 7/ 23A
 DESCRIPTION:Statystyka inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261214T085000Z
-DTEND:20261214T102500Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102500Z
 SUMMARY:Sinż (ć)
 LOCATION:3/ 23A; 7/ 23A
 DESCRIPTION:Statystyka inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Sobczyk Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261221T085000Z
-DTEND:20261221T102500Z
-SUMMARY:Mp (ć)
-LOCATION:09/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T085000Z
@@ -494,8 +487,8 @@ LOCATION:01/ 54A
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T140000Z
-DTEND:20261019T153500Z
+DTSTART:20261012T140000Z
+DTEND:20261012T153500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A
 DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 2/35\nProwadzący: dr inż. Wieczorek Marcin
@@ -543,8 +536,8 @@ LOCATION:2/ 23A; PTW/ 28 HANGAR
 DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 8/35\nProwadzący: kpt. mgr inż. Żmuda Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261214T150000Z
-DTEND:20261214T163500Z
+DTSTART:20261221T150000Z
+DTEND:20261221T163500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A; PTW/ 28 HANGAR
 DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 9/35\nProwadzący: kpt. mgr inż. Żmuda Marcin
@@ -1023,7 +1016,7 @@ DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
 SUMMARY:Mp (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T123000Z
@@ -1268,7 +1261,7 @@ DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
 SUMMARY:Mp (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T070000Z
@@ -1387,7 +1380,7 @@ DTSTART:20261104T085000Z
 DTEND:20261104T102500Z
 SUMMARY:Mp (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T085000Z
@@ -2170,7 +2163,7 @@ BEGIN:VEVENT
 DTSTART:20261203T104000Z
 DTEND:20261203T121500Z
 SUMMARY:ZINŻ (ć)
-LOCATION:3/043
+LOCATION:01/ 54A
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: ppłk mgr Jurzysta Paweł
 END:VEVENT
 BEGIN:VEVENT
@@ -2179,6 +2172,13 @@ DTEND:20261210T121500Z
 SUMMARY:SzS (ć)
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T104000Z
+DTEND:20261217T121500Z
+SUMMARY:Mp (ć)
+LOCATION:09/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T104000Z

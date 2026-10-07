@@ -1047,6 +1047,13 @@ LOCATION:5/ 20
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260116T184000Z
+DTEND:20260116T201500Z
+SUMMARY:PGI (ć)
+LOCATION:116/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260123T184000Z
 DTEND:20260123T201500Z
 SUMMARY:Ja (ć)
@@ -1439,13 +1446,6 @@ LOCATION:55/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261213T104000Z
-DTEND:20261213T121500Z
-SUMMARY:PGI (ć)
-LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261220T104000Z
 DTEND:20261220T121500Z
 SUMMARY:Mat2 (ć)
@@ -1467,25 +1467,18 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 68/98
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260110T104000Z
-DTEND:20260110T121500Z
-SUMMARY:PGI (ć)
-LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260117T104000Z
 DTEND:20260117T121500Z
 SUMMARY:PGI (ć)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T104000Z
 DTEND:20260131T121500Z
 SUMMARY:PGI (ć)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T104000Z
@@ -1556,6 +1549,13 @@ DTEND:20261115T140500Z
 SUMMARY:M1 (ć)
 LOCATION:55/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T123000Z
+DTEND:20261122T140500Z
+SUMMARY:PGI (ć)
+LOCATION:116/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261129T123000Z

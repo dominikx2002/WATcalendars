@@ -2923,13 +2923,6 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261009T075000Z
-DTEND:20261009T092500Z
-SUMMARY:BiEmps (w)
-LOCATION:5/ 19
-DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: ppłk dr inż. Gocman Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261016T075000Z
 DTEND:20261016T092500Z
 SUMMARY:REG (w)
@@ -2948,7 +2941,7 @@ DTSTART:20261030T085000Z
 DTEND:20261030T102500Z
 SUMMARY:BiEmps (w)
 LOCATION:1/ 19
-DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: ppłk dr inż. Gocman Krzysztof
+DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: ppłk dr inż. Gocman Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T085000Z
@@ -3042,13 +3035,6 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261009T094000Z
-DTEND:20261009T111500Z
-SUMMARY:BiEmps (w)
-LOCATION:5/ 19
-DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: ppłk dr inż. Gocman Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261023T094000Z
 DTEND:20261023T111500Z
 SUMMARY:REZ 
@@ -3060,7 +3046,7 @@ DTSTART:20261030T104000Z
 DTEND:20261030T121500Z
 SUMMARY:BiEmps (w)
 LOCATION:1/ 19
-DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: ppłk dr inż. Gocman Krzysztof
+DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: ppłk dr inż. Gocman Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T104000Z
@@ -3152,6 +3138,20 @@ DTEND:20261023T130500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 29/33
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T123000Z
+DTEND:20261030T140500Z
+SUMMARY:BiEmps (w)
+LOCATION:1/ 19
+DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: ppłk dr inż. Gocman Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T123000Z
+DTEND:20261113T140500Z
+SUMMARY:BiEmps (w)
+LOCATION:5/ 19
+DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: ppłk dr inż. Gocman Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T123000Z
