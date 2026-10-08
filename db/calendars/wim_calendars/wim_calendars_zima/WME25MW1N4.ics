@@ -189,7 +189,7 @@ BEGIN:VEVENT
 DTSTART:20261114T070000Z
 DTEND:20261114T083500Z
 SUMMARY:Zszj (w)
-LOCATION:15/ 23A
+LOCATION:5/ 20
 DESCRIPTION:Zintegrowane systemy zarządzania jakością\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
@@ -802,13 +802,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 29/98
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261017T140000Z
-DTEND:20261017T153500Z
-SUMMARY:Ebm (L)
-LOCATION:53/ 62
-DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261024T140000Z
 DTEND:20261024T153500Z
 SUMMARY:PUwMAN (w)
@@ -963,13 +956,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 36/98
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261017T155000Z
-DTEND:20261017T172500Z
-SUMMARY:Ebm (L)
-LOCATION:53/ 62
-DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261024T155000Z
 DTEND:20261024T172500Z
 SUMMARY:Zmn (L)
@@ -1108,13 +1094,6 @@ DTEND:20261010T191500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 43/98
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261017T174000Z
-DTEND:20261017T191500Z
-SUMMARY:Ebm (L)
-LOCATION:53/ 62
-DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T174000Z
@@ -1345,7 +1324,7 @@ DTSTART:20260117T070000Z
 DTEND:20260117T083500Z
 SUMMARY:Ebm (L)
 LOCATION:53/ 62
-DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
+DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T070000Z
@@ -1359,7 +1338,7 @@ DTSTART:20260131T070000Z
 DTEND:20260131T083500Z
 SUMMARY:Ebm (L)
 LOCATION:53/ 62
-DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
+DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T070000Z
@@ -1499,7 +1478,7 @@ DTSTART:20260117T085000Z
 DTEND:20260117T102500Z
 SUMMARY:Ebm (L)
 LOCATION:53/ 62
-DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11
+DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T085000Z
@@ -1513,7 +1492,7 @@ DTSTART:20260131T085000Z
 DTEND:20260131T102500Z
 SUMMARY:Ebm (L)
 LOCATION:53/ 62
-DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11
+DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T085000Z
@@ -1597,7 +1576,7 @@ DTSTART:20261115T104000Z
 DTEND:20261115T121500Z
 SUMMARY:Ebm (L)
 LOCATION:53/ 62
-DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
+DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T104000Z
@@ -1674,7 +1653,7 @@ DTSTART:20260131T104000Z
 DTEND:20260131T121500Z
 SUMMARY:Ebm (L)
 LOCATION:53/ 62
-DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
+DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T104000Z
@@ -1758,7 +1737,7 @@ DTSTART:20261115T123000Z
 DTEND:20261115T140500Z
 SUMMARY:Ebm (L)
 LOCATION:53/ 62
-DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
+DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T123000Z
@@ -1905,7 +1884,7 @@ DTSTART:20261115T150000Z
 DTEND:20261115T163500Z
 SUMMARY:Ebm (L)
 LOCATION:53/ 62
-DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11
+DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261129T150000Z
@@ -1950,11 +1929,25 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 82/98
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260117T150000Z
+DTEND:20260117T163500Z
+SUMMARY:Ebm (L)
+LOCATION:53/ 62
+DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260124T150000Z
 DTEND:20260124T163500Z
 SUMMARY:ZMwBM (L)
 LOCATION:5/ 62
 DESCRIPTION:Zaawansowane materiały w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T150000Z
+DTEND:20260131T163500Z
+SUMMARY:Ebm (L)
+LOCATION:53/ 62
+DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T150000Z
@@ -2025,6 +2018,13 @@ DTEND:20260103T182500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 89/98
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T165000Z
+DTEND:20260131T182500Z
+SUMMARY:Ebm (L)
+LOCATION:53/ 62
+DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T165000Z

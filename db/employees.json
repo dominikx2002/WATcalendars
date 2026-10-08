@@ -2412,6 +2412,11 @@
     },
     {
       "degree": "dr inż.",
+      "is_new": true,
+      "name": "Klaudia Onyszko [NEW]"
+    },
+    {
+      "degree": "dr inż.",
       "is_new": false,
       "name": "Klaudia Pasternak"
     },
@@ -4392,8 +4397,8 @@
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Aleksandra Smentek [NEW]"
+      "is_new": false,
+      "name": "Aleksandra Smentek"
     },
     {
       "degree": "mgr inż.",
@@ -4412,8 +4417,8 @@
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Andrzej Koźlik [NEW]"
+      "is_new": false,
+      "name": "Andrzej Koźlik"
     },
     {
       "degree": "mgr inż.",
@@ -4607,8 +4612,8 @@
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Elżbieta Modrzecka [NEW]"
+      "is_new": false,
+      "name": "Elżbieta Modrzecka"
     },
     {
       "degree": "mgr inż.",
@@ -4737,8 +4742,8 @@
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Jakub Rados [NEW]"
+      "is_new": false,
+      "name": "Jakub Rados"
     },
     {
       "degree": "mgr inż.",
@@ -4842,8 +4847,8 @@
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Karol Korolczuk [NEW]"
+      "is_new": false,
+      "name": "Karol Korolczuk"
     },
     {
       "degree": "mgr inż.",
@@ -5014,6 +5019,11 @@
       "degree": "mgr inż.",
       "is_new": false,
       "name": "Marcin Krysiński"
+    },
+    {
+      "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Marcin Leszczuk [NEW]"
     },
     {
       "degree": "mgr inż.",
@@ -6082,10 +6092,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T05:00:31.631888",
-    "last_updated_readable": "2026-10-07 05:00:31",
-    "new_employees_count": 5,
+    "last_updated": "2026-10-08T05:11:08.533456",
+    "last_updated_readable": "2026-10-08 05:11:08",
+    "new_employees_count": 2,
     "scraper_version": "1.0",
-    "total_employees": 1216
+    "total_employees": 1218
   }
 }

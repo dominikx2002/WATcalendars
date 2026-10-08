@@ -158,11 +158,18 @@ LOCATION:2/ 23A
 DESCRIPTION:Zastosowanie informatyki w logistyce\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Waśniewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261012T094000Z
+DTEND:20261012T111500Z
+SUMMARY:Eut* (w)
+LOCATION:42/ 20
+DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Trawiński Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261019T094000Z
 DTEND:20261019T111500Z
 SUMMARY:Eut* (w)
 LOCATION:42/ 20
-DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Trawiński Grzegorz
+DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T104000Z
@@ -176,7 +183,7 @@ DTSTART:20261102T104000Z
 DTEND:20261102T121500Z
 SUMMARY:Eut* (w)
 LOCATION:42/ 20
-DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Trawiński Grzegorz
+DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T104000Z
@@ -842,13 +849,6 @@ DTEND:20260106T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 37/140
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261007T113000Z
-DTEND:20261007T130500Z
-SUMMARY:Eut* (w)
-LOCATION:42/ 20
-DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T113000Z
@@ -2104,6 +2104,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 99/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261121T070000Z
+DTEND:20261121T083500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261226T070000Z
 DTEND:20261226T083500Z
 SUMMARY:I 
@@ -2123,6 +2130,20 @@ DTEND:20261031T102500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 102/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T085000Z
+DTEND:20261121T102500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T085000Z
+DTEND:20261219T102500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261226T085000Z
@@ -2146,6 +2167,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 105/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261219T104000Z
+DTEND:20261219T121500Z
+SUMMARY:XPeUT (ć)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261226T104000Z
 DTEND:20261226T121500Z
 SUMMARY:I 
@@ -2158,6 +2186,13 @@ DTEND:20260102T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 107/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T113000Z
+DTEND:20261024T130500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261031T123000Z
@@ -2179,6 +2214,13 @@ DTEND:20260102T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 110/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T140000Z
+DTEND:20261024T153500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261031T150000Z
@@ -2244,6 +2286,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 119/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261025T070000Z
+DTEND:20261025T083500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261101T070000Z
 DTEND:20261101T083500Z
 SUMMARY:I 
@@ -2263,6 +2312,13 @@ DTEND:20260103T083500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 122/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T085000Z
+DTEND:20261025T102500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261101T085000Z

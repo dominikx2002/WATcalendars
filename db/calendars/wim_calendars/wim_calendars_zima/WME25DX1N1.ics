@@ -952,7 +952,7 @@ BEGIN:VEVENT
 DTSTART:20260130T165000Z
 DTEND:20260130T182500Z
 SUMMARY:MS.Office (S)
-LOCATION:5/ 23A
+LOCATION:6/ 23A
 DESCRIPTION:MS Office dla inżyniera\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1092,7 +1092,7 @@ BEGIN:VEVENT
 DTSTART:20260130T184000Z
 DTEND:20260130T201500Z
 SUMMARY:MS.Office (S)
-LOCATION:5/ 23A
+LOCATION:6/ 23A
 DESCRIPTION:MS Office dla inżyniera\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1183,7 +1183,7 @@ BEGIN:VEVENT
 DTSTART:20261213T070000Z
 DTEND:20261213T083500Z
 SUMMARY:WzEE (L)
-LOCATION:3/ 23A; 4/ 23A; 5/ 23A; 14/ 23A
+LOCATION:3/ 23A; 4/ 23A; 14/ 23A
 DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
@@ -1316,7 +1316,7 @@ BEGIN:VEVENT
 DTSTART:20261213T085000Z
 DTEND:20261213T102500Z
 SUMMARY:WzEE (L)
-LOCATION:3/ 23A; 4/ 23A; 5/ 23A; 14/ 23A
+LOCATION:3/ 23A; 4/ 23A; 14/ 23A
 DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT

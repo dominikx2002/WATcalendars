@@ -102,11 +102,25 @@ LOCATION:3/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261024T113000Z
+DTEND:20261024T130500Z
+SUMMARY:XUk* (L)
+LOCATION:4/ 68
+DESCRIPTION:XUrządzenia klimatyzacyjne i chłodnicze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Karczewski Mirosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261107T123000Z
 DTEND:20261107T140500Z
 SUMMARY:Par (w)
 LOCATION:3/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T123000Z
+DTEND:20261114T140500Z
+SUMMARY:XSsh (ć)
+LOCATION:20/ 68
+DESCRIPTION:XSilniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż Polak Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T123000Z
@@ -137,11 +151,46 @@ LOCATION:3/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261024T140000Z
+DTEND:20261024T153500Z
+SUMMARY:XUk* (L)
+LOCATION:4/ 68
+DESCRIPTION:XUrządzenia klimatyzacyjne i chłodnicze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Karczewski Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T150000Z
+DTEND:20261107T163500Z
+SUMMARY:XSsh (ć)
+LOCATION:20/ 68
+DESCRIPTION:XSilniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż Polak Filip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T150000Z
+DTEND:20261114T163500Z
+SUMMARY:XSsh (ć)
+LOCATION:20/ 68
+DESCRIPTION:XSilniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż Polak Filip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T150000Z
+DTEND:20261121T163500Z
+SUMMARY:XSsh (ć)
+LOCATION:20/ 68
+DESCRIPTION:XSilniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż Polak Filip
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261017T155000Z
 DTEND:20261017T172500Z
 SUMMARY:Ppu. (Rp)
 LOCATION:6/ 23A
 DESCRIPTION:Ppu.\nRodzaj zajęć: (Rp)\nNumer zajęć: 1/5\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T165000Z
+DTEND:20261107T182500Z
+SUMMARY:XSsh (ć)
+LOCATION:20/ 68
+DESCRIPTION:XSilniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż Polak Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T165000Z
@@ -179,6 +228,20 @@ LOCATION:2/ 23A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261122T104000Z
+DTEND:20261122T121500Z
+SUMMARY:XUk* (L)
+LOCATION:4/ 68
+DESCRIPTION:XUrządzenia klimatyzacyjne i chłodnicze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Karczewski Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T104000Z
+DTEND:20261206T121500Z
+SUMMARY:XUk* (L)
+LOCATION:4/ 68
+DESCRIPTION:XUrządzenia klimatyzacyjne i chłodnicze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Karczewski Mirosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261018T113000Z
 DTEND:20261018T130500Z
 SUMMARY:App (w)
@@ -198,6 +261,20 @@ DTEND:20261115T140500Z
 SUMMARY:Ppu. (Rp)
 LOCATION:6/ 23A
 DESCRIPTION:Ppu.\nRodzaj zajęć: (Rp)\nNumer zajęć: 3/5\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T123000Z
+DTEND:20261122T140500Z
+SUMMARY:XUk* (L)
+LOCATION:4/ 68
+DESCRIPTION:XUrządzenia klimatyzacyjne i chłodnicze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Karczewski Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T123000Z
+DTEND:20261206T140500Z
+SUMMARY:XUk* (L)
+LOCATION:4/ 68
+DESCRIPTION:XUrządzenia klimatyzacyjne i chłodnicze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Karczewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T150000Z

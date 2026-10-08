@@ -1271,13 +1271,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 32/143
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T085000Z
-DTEND:20261118T102500Z
-SUMMARY:RiAIP (w)
-LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261125T085000Z
 DTEND:20261125T102500Z
 SUMMARY:SzS (ć)
@@ -1303,7 +1296,7 @@ DTSTART:20261216T085000Z
 DTEND:20261216T102500Z
 SUMMARY:RiAIP (w)
 LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T085000Z
@@ -1626,6 +1619,13 @@ DTEND:20261202T163500Z
 SUMMARY:PD (w)
 LOCATION:3/038 DK
 DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T150000Z
+DTEND:20261209T163500Z
+SUMMARY:RiAIP (w)
+LOCATION:
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T150000Z

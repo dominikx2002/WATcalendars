@@ -2146,11 +2146,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 99/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261205T070000Z
-DTEND:20261205T083500Z
-SUMMARY:XSp* (w)
-LOCATION:5/ 20
-DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DTSTART:20261121T070000Z
+DTEND:20261121T083500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261226T070000Z
@@ -2174,18 +2174,18 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 102/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261114T085000Z
-DTEND:20261114T102500Z
-SUMMARY:XSp* (w)
-LOCATION:5/ 20
-DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DTSTART:20261121T085000Z
+DTEND:20261121T102500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261205T085000Z
-DTEND:20261205T102500Z
-SUMMARY:XSp* (w)
-LOCATION:5/ 20
-DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DTSTART:20261219T085000Z
+DTEND:20261219T102500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261226T085000Z
@@ -2209,18 +2209,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 105/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261114T104000Z
-DTEND:20261114T121500Z
-SUMMARY:XSp* (w)
-LOCATION:5/ 20
-DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261212T104000Z
-DTEND:20261212T121500Z
-SUMMARY:XSp* (w)
-LOCATION:5/ 20
-DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DTSTART:20261219T104000Z
+DTEND:20261219T121500Z
+SUMMARY:XPeUT (ć)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261226T104000Z
@@ -2237,18 +2230,18 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 107/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261024T113000Z
+DTEND:20261024T130500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261031T123000Z
 DTEND:20261031T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 108/140
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261212T123000Z
-DTEND:20261212T140500Z
-SUMMARY:XSp* (w)
-LOCATION:5/ 20
-DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261226T123000Z
@@ -2263,6 +2256,13 @@ DTEND:20260102T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 110/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T140000Z
+DTEND:20261024T153500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261031T150000Z
@@ -2328,6 +2328,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 119/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261025T070000Z
+DTEND:20261025T083500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261101T070000Z
 DTEND:20261101T083500Z
 SUMMARY:I 
@@ -2335,18 +2342,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 120/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261108T070000Z
-DTEND:20261108T083500Z
-SUMMARY:XSp* (w)
-LOCATION:5/ 20
-DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T070000Z
-DTEND:20261115T083500Z
-SUMMARY:XSp* (w)
+DTSTART:20261206T070000Z
+DTEND:20261206T083500Z
+SUMMARY:XPeUT (ć)
 LOCATION:42/ 20
-DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261227T070000Z
@@ -2363,6 +2363,20 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 122/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261018T075000Z
+DTEND:20261018T092500Z
+SUMMARY:XSp* (w)
+LOCATION:1/ 21
+DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Woźniak Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T085000Z
+DTEND:20261025T102500Z
+SUMMARY:XPeUT (w)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261101T085000Z
 DTEND:20261101T102500Z
 SUMMARY:I 
@@ -2374,7 +2388,21 @@ DTSTART:20261115T085000Z
 DTEND:20261115T102500Z
 SUMMARY:XSp* (w)
 LOCATION:42/ 20
-DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Woźniak Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T085000Z
+DTEND:20261122T102500Z
+SUMMARY:XPeUT (ć)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T085000Z
+DTEND:20261213T102500Z
+SUMMARY:XSp* (w)
+LOCATION:42/ 20
+DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261227T085000Z
@@ -2391,6 +2419,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 125/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261018T094000Z
+DTEND:20261018T111500Z
+SUMMARY:XSp* (w)
+LOCATION:1/ 21
+DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Woźniak Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261101T104000Z
 DTEND:20261101T121500Z
 SUMMARY:I 
@@ -2402,7 +2437,21 @@ DTSTART:20261115T104000Z
 DTEND:20261115T121500Z
 SUMMARY:XSp* (w)
 LOCATION:42/ 20
-DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Woźniak Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T104000Z
+DTEND:20261122T121500Z
+SUMMARY:XSp* (w)
+LOCATION:1/ 21
+DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Woźniak Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T104000Z
+DTEND:20261213T121500Z
+SUMMARY:XSp* (w)
+LOCATION:42/ 20
+DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261227T104000Z
@@ -2419,11 +2468,32 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 128/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261025T123000Z
+DTEND:20261025T140500Z
+SUMMARY:XSp* (w)
+LOCATION:1/ 21
+DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Woźniak Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261101T123000Z
 DTEND:20261101T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 129/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T123000Z
+DTEND:20261115T140500Z
+SUMMARY:XPeUT (ć)
+LOCATION:42/ 20
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T123000Z
+DTEND:20261122T140500Z
+SUMMARY:XSp* (w)
+LOCATION:1/ 21
+DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261227T123000Z
@@ -2438,6 +2508,13 @@ DTEND:20260103T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 131/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T150000Z
+DTEND:20261025T163500Z
+SUMMARY:XSp* (w)
+LOCATION:1/ 21
+DESCRIPTION:XSystemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261101T150000Z
