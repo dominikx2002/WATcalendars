@@ -1411,13 +1411,6 @@ LOCATION:116/ 54
 DESCRIPTION:Podstawy badań operacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: prof. dr hab. inż. Ameljańczyk Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261202T104000Z
-DTEND:20261202T121500Z
-SUMMARY:LZ (ć)
-LOCATION:301/ S
-DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: płk dr inż. Zelkowski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
 SUMMARY:Mwg. (ć)
@@ -1430,6 +1423,13 @@ DTEND:20261216T121500Z
 SUMMARY:PBO (ć)
 LOCATION:
 DESCRIPTION:Podstawy badań operacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T104000Z
+DTEND:20261223T121500Z
+SUMMARY:LZ (ć)
+LOCATION:3/ 23A
+DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T104000Z

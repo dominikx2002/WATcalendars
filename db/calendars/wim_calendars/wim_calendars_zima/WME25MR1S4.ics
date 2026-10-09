@@ -116,18 +116,11 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 4/223
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261026T085000Z
-DTEND:20261026T102500Z
-SUMMARY:MnK (w)
-LOCATION:5/ 20
-DESCRIPTION:Metody numeryczne w analizie konstrukcji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261102T085000Z
 DTEND:20261102T102500Z
 SUMMARY:MnK (w)
 LOCATION:42/ 20
-DESCRIPTION:Metody numeryczne w analizie konstrukcji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
+DESCRIPTION:Metody numeryczne w analizie konstrukcji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T085000Z
@@ -253,7 +246,7 @@ DTSTART:20261019T094000Z
 DTEND:20261019T111500Z
 SUMMARY:MnK (w)
 LOCATION:51/ 62
-DESCRIPTION:Metody numeryczne w analizie konstrukcji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
+DESCRIPTION:Metody numeryczne w analizie konstrukcji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T104000Z
@@ -414,7 +407,7 @@ DTSTART:20261116T123000Z
 DTEND:20261116T140500Z
 SUMMARY:MnK (w)
 LOCATION:09/ 54A
-DESCRIPTION:Metody numeryczne w analizie konstrukcji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
+DESCRIPTION:Metody numeryczne w analizie konstrukcji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T123000Z
@@ -526,7 +519,7 @@ DTSTART:20261109T150000Z
 DTEND:20261109T163500Z
 SUMMARY:MnK (w)
 LOCATION:42/ 20
-DESCRIPTION:Metody numeryczne w analizie konstrukcji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
+DESCRIPTION:Metody numeryczne w analizie konstrukcji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T150000Z
@@ -1521,6 +1514,13 @@ DTEND:20261111T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 35/126
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T104000Z
+DTEND:20261118T121500Z
+SUMMARY:MnK (w)
+LOCATION:51/ 62
+DESCRIPTION:Metody numeryczne w analizie konstrukcji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T104000Z

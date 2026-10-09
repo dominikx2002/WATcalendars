@@ -231,7 +231,7 @@ BEGIN:VEVENT
 DTSTART:20260522T060000Z
 DTEND:20260522T073500Z
 SUMMARY:DB (w)
-LOCATION:5/ 23A
+LOCATION:2/ 23A
 DESCRIPTION:Diagnostyka, badania i zużycie samochodów a brd\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 DTSTART:20260522T075000Z
 DTEND:20260522T092500Z
 SUMMARY:DB (ć)
-LOCATION:5/ 23A
+LOCATION:2/ 23A
 DESCRIPTION:Diagnostyka, badania i zużycie samochodów a brd\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
@@ -371,7 +371,7 @@ BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
 SUMMARY:DB (ć)
-LOCATION:5/ 23A
+LOCATION:2/ 23A
 DESCRIPTION:Diagnostyka, badania i zużycie samochodów a brd\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
@@ -741,16 +741,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T104000Z
 DTEND:20261025T121500Z
-SUMMARY:BiIS (w)
+SUMMARY:Mr. (ć)
 LOCATION:15/ 23A
-DESCRIPTION:Budowa i identyfikacja samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+DESCRIPTION:Mechanika ruchu samochodów w krytycznych sytuacjach I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T104000Z
 DTEND:20261122T121500Z
-SUMMARY:Mr. (ć)
+SUMMARY:BiIS (w)
 LOCATION:15/ 23A
-DESCRIPTION:Mechanika ruchu samochodów w krytycznych sytuacjach I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
+DESCRIPTION:Budowa i identyfikacja samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T104000Z

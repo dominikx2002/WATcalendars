@@ -130,6 +130,13 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do technik biomedycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/24
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260118T085000Z
+DTEND:20260118T102500Z
+SUMMARY:Bchm (ć)
+LOCATION:
+DESCRIPTION:Biochemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Węgłowska Dorota
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260125T085000Z
 DTEND:20260125T102500Z
 SUMMARY:F2 (ć)
@@ -1026,6 +1033,20 @@ LOCATION:
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: (Zp/lab.)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Łeska Sebastian
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261020T113000Z
+DTEND:20261020T130500Z
+SUMMARY:Bchm (ć)
+LOCATION:
+DESCRIPTION:Biochemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Węgłowska Dorota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T123000Z
+DTEND:20261027T140500Z
+SUMMARY:Bchm (ć)
+LOCATION:
+DESCRIPTION:Biochemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Węgłowska Dorota
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
 SUMMARY:F2 (L)
@@ -1044,7 +1065,7 @@ DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:Bchm (ć)
 LOCATION:
-DESCRIPTION:Biochemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Węgłowska Dorota
+DESCRIPTION:Biochemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T123000Z
@@ -1429,7 +1450,7 @@ DTSTART:20261209T085000Z
 DTEND:20261209T102500Z
 SUMMARY:Bchm (ć)
 LOCATION:
-DESCRIPTION:Biochemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Węgłowska Dorota
+DESCRIPTION:Biochemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -1747,32 +1768,11 @@ LOCATION:
 DESCRIPTION:Fizjologia człowieka\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T150000Z
-DTEND:20261104T163500Z
-SUMMARY:Bchm (ć)
-LOCATION:
-DESCRIPTION:Biochemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Węgłowska Dorota
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261111T150000Z
 DTEND:20261111T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 41/140
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T150000Z
-DTEND:20261118T163500Z
-SUMMARY:Bchm (ć)
-LOCATION:
-DESCRIPTION:Biochemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Węgłowska Dorota
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261125T150000Z
-DTEND:20261125T163500Z
-SUMMARY:Bchm (ć)
-LOCATION:
-DESCRIPTION:Biochemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T150000Z

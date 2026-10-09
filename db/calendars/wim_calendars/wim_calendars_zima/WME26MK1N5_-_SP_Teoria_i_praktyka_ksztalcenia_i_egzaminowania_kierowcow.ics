@@ -118,9 +118,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T085000Z
 DTEND:20260130T102500Z
-SUMMARY:Tssj. (ć)
+SUMMARY:Mrs. (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1
+DESCRIPTION:Mechanika ruchu samochodów w sytuacjach krytycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T085000Z
@@ -183,7 +183,7 @@ DTSTART:20260116T104000Z
 DTEND:20260116T121500Z
 SUMMARY:Mrs. (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Mechanika ruchu samochodów w sytuacjach krytycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
+DESCRIPTION:Mechanika ruchu samochodów w sytuacjach krytycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T104000Z
@@ -253,7 +253,7 @@ DTSTART:20260116T123000Z
 DTEND:20260116T140500Z
 SUMMARY:Mrs. (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Mechanika ruchu samochodów w sytuacjach krytycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
+DESCRIPTION:Mechanika ruchu samochodów w sytuacjach krytycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T123000Z
@@ -316,21 +316,21 @@ DTSTART:20261212T150000Z
 DTEND:20261212T163500Z
 SUMMARY:Mrs. (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Mechanika ruchu samochodów w sytuacjach krytycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
+DESCRIPTION:Mechanika ruchu samochodów w sytuacjach krytycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T150000Z
 DTEND:20260116T163500Z
-SUMMARY:Psy (w)
+SUMMARY:PrD (w)
 LOCATION:5/ 23A
-DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5
+DESCRIPTION:Prawo o ruchu drogowym\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T150000Z
 DTEND:20260130T163500Z
-SUMMARY:PrD (w)
+SUMMARY:Psy (w)
 LOCATION:5/ 23A
-DESCRIPTION:Prawo o ruchu drogowym\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8
+DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T150000Z
@@ -379,21 +379,21 @@ DTSTART:20261212T165000Z
 DTEND:20261212T182500Z
 SUMMARY:Mrs. (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Mechanika ruchu samochodów w sytuacjach krytycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
+DESCRIPTION:Mechanika ruchu samochodów w sytuacjach krytycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T165000Z
 DTEND:20260116T182500Z
-SUMMARY:Psy (ć)
+SUMMARY:PrD (w)
 LOCATION:5/ 23A
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
+DESCRIPTION:Prawo o ruchu drogowym\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T165000Z
 DTEND:20260130T182500Z
-SUMMARY:PrD (w)
+SUMMARY:Psy (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Prawo o ruchu drogowym\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8
+DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T165000Z
@@ -431,8 +431,8 @@ LOCATION:5/ 23A
 DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr Junak-Błędowska B.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260130T184000Z
-DTEND:20260130T201500Z
+DTSTART:20260116T184000Z
+DTEND:20260116T201500Z
 SUMMARY:PrD (w)
 LOCATION:5/ 23A
 DESCRIPTION:Prawo o ruchu drogowym\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8
@@ -466,18 +466,25 @@ LOCATION:5/ 23A
 DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Junak-Błędowska B.
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261122T070000Z
+DTEND:20261122T083500Z
+SUMMARY:Tssj. (w)
+LOCATION:5/ 23A
+DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261213T070000Z
 DTEND:20261213T083500Z
 SUMMARY:Tssj. (w)
 LOCATION:5/ 23A
-DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T070000Z
 DTEND:20260117T083500Z
 SUMMARY:Tssj. (w)
 LOCATION:5/ 23A
-DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T070000Z
@@ -526,21 +533,21 @@ DTSTART:20261122T085000Z
 DTEND:20261122T102500Z
 SUMMARY:Tssj. (w)
 LOCATION:5/ 23A
-DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T085000Z
 DTEND:20261213T102500Z
 SUMMARY:Tssj. (w)
 LOCATION:5/ 23A
-DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T085000Z
 DTEND:20260117T102500Z
 SUMMARY:Tssj. (w)
 LOCATION:5/ 23A
-DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T085000Z
@@ -587,9 +594,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T104000Z
 DTEND:20261122T121500Z
-SUMMARY:Tssj. (w)
+SUMMARY:PrD (w)
 LOCATION:5/ 23A
-DESCRIPTION:Technika samochodowa i symulator jazdy\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+DESCRIPTION:Prawo o ruchu drogowym\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Giszczak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T104000Z
@@ -639,13 +646,6 @@ DTEND:20260613T111500Z
 SUMMARY:Dmse (ć)
 LOCATION:5/ 23A
 DESCRIPTION:Dydaktyka i metodyka w szkoleniu i egzaminowaniu kierowców\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: mgr Matuszewski Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261025T123000Z
-DTEND:20261025T140500Z
-SUMMARY:PrD (w)
-LOCATION:5/ 23A
-DESCRIPTION:Prawo o ruchu drogowym\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Giszczak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T123000Z

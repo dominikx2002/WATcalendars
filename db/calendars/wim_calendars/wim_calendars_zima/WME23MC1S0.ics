@@ -18,32 +18,25 @@ LOCATION:3/ 23A
 DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 1/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T060000Z
-DTEND:20261019T073500Z
-SUMMARY:Mr 
-LOCATION:3/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 2/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261026T070000Z
 DTEND:20261026T083500Z
 SUMMARY:Mr 
 LOCATION:3/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 3/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 2/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T070000Z
 DTEND:20261102T083500Z
 SUMMARY:Mr 
 LOCATION:6/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 4/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 3/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T070000Z
 DTEND:20261109T083500Z
 SUMMARY:Mr 
 LOCATION:3/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 5/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 4/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T070000Z
@@ -71,7 +64,7 @@ DTSTART:20261214T070000Z
 DTEND:20261214T083500Z
 SUMMARY:Mr 
 LOCATION:3/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 6/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 5/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T070000Z
@@ -106,14 +99,14 @@ DTSTART:20260118T070000Z
 DTEND:20260118T083500Z
 SUMMARY:Mr 
 LOCATION:3/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 7/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 6/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T070000Z
 DTEND:20260125T083500Z
 SUMMARY:Mr 
 LOCATION:3/ 23A
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 8/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 7/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260201T070000Z
@@ -603,7 +596,7 @@ DTSTART:20261207T165000Z
 DTEND:20261207T182500Z
 SUMMARY:Mr 
 LOCATION:PTW/ 28 HANGAR
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 9/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 8/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T165000Z
@@ -645,7 +638,7 @@ DTSTART:20261207T184000Z
 DTEND:20261207T201500Z
 SUMMARY:Mr 
 LOCATION:PTW/ 28 HANGAR
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 10/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 9/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T184000Z
@@ -891,6 +884,13 @@ DTEND:20261006T111500Z
 SUMMARY:Pdm (w)
 LOCATION:3/ 54
 DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261013T094000Z
+DTEND:20261013T111500Z
+SUMMARY:Mr 
+LOCATION:5/ 20
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 10/35\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z

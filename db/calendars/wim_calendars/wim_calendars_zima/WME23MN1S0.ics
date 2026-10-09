@@ -2776,18 +2776,11 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261009T060000Z
-DTEND:20261009T073500Z
-SUMMARY:WF (ć)
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/30
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261016T060000Z
 DTEND:20261016T073500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T060000Z
@@ -2801,7 +2794,7 @@ DTSTART:20261030T070000Z
 DTEND:20261030T083500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T070000Z
@@ -2815,14 +2808,14 @@ DTSTART:20261113T070000Z
 DTEND:20261113T083500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T070000Z
 DTEND:20261120T083500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261127T070000Z
@@ -2836,21 +2829,21 @@ DTSTART:20261204T070000Z
 DTEND:20261204T083500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T070000Z
 DTEND:20261211T083500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T070000Z
 DTEND:20261218T083500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261225T070000Z
@@ -2871,28 +2864,28 @@ DTSTART:20260108T070000Z
 DTEND:20260108T083500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T070000Z
 DTEND:20260115T083500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T070000Z
 DTEND:20260122T083500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T070000Z
 DTEND:20260129T083500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260205T070000Z
@@ -3145,6 +3138,13 @@ DTEND:20261030T140500Z
 SUMMARY:BiEmps (w)
 LOCATION:1/ 19
 DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: ppłk dr inż. Gocman Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T123000Z
+DTEND:20261106T140500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T123000Z
