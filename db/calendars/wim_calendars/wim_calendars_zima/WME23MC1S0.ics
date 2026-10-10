@@ -690,6 +690,13 @@ LOCATION:15/ 23A
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261124T070000Z
+DTEND:20261124T083500Z
+SUMMARY:Pdm (L)
+LOCATION:14/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261201T070000Z
 DTEND:20261201T083500Z
 SUMMARY:Uwb (w)
@@ -953,7 +960,7 @@ DTSTART:20260119T104000Z
 DTEND:20260119T121500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T104000Z
@@ -1037,14 +1044,7 @@ DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T123000Z
-DTEND:20261215T140500Z
-SUMMARY:Pdm (L)
-LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T123000Z
@@ -1401,7 +1401,7 @@ DTSTART:20261118T085000Z
 DTEND:20261118T102500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T085000Z
@@ -1471,7 +1471,7 @@ DTSTART:20260127T085000Z
 DTEND:20260127T102500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T085000Z
@@ -2648,6 +2648,13 @@ DTEND:20260101T083500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 93/154
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T070000Z
+DTEND:20260108T083500Z
+SUMMARY:Pdm (L)
+LOCATION:14/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T070000Z

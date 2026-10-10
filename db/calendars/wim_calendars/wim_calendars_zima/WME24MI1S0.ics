@@ -753,6 +753,13 @@ LOCATION:1/ 19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261027T070000Z
+DTEND:20261027T083500Z
+SUMMARY:Płe (w)
+LOCATION:1/ 19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261110T070000Z
 DTEND:20261110T083500Z
 SUMMARY:DSiSM (ć)
@@ -771,7 +778,7 @@ DTSTART:20261208T070000Z
 DTEND:20261208T083500Z
 SUMMARY:Par (L)
 LOCATION:4/ 23A; 14/ 23A
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T070000Z
@@ -800,6 +807,13 @@ DTEND:20260112T083500Z
 SUMMARY:Uh (L)
 LOCATION:28/ 54
 DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T070000Z
+DTEND:20260119T083500Z
+SUMMARY:Par (L)
+LOCATION:14/ 23A
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T070000Z
@@ -1079,7 +1093,7 @@ DTSTART:20261215T104000Z
 DTEND:20261215T121500Z
 SUMMARY:Par (L)
 LOCATION:4/ 23A; 14/ 23A
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T104000Z
@@ -2393,13 +2407,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T075000Z
 DTEND:20261001T092500Z
-SUMMARY:Płe (w)
-LOCATION:1/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T075000Z
-DTEND:20261008T092500Z
 SUMMARY:Płe (w)
 LOCATION:1/ 19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr

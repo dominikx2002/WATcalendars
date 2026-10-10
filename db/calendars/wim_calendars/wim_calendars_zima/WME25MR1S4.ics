@@ -403,6 +403,13 @@ LOCATION:2/ 23A
 DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261109T123000Z
+DTEND:20261109T140500Z
+SUMMARY:Zms2 (L)
+LOCATION:6/ 62
+DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: dr inż. Morka Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261116T123000Z
 DTEND:20261116T140500Z
 SUMMARY:MnK (w)
@@ -494,13 +501,6 @@ LOCATION:
 DESCRIPTION:Pms\nRodzaj zajęć: -\nNumer zajęć: 4/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T140000Z
-DTEND:20261012T153500Z
-SUMMARY:Zms2 (w)
-LOCATION:52/ 62
-DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. Morka Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261019T140000Z
 DTEND:20261019T153500Z
 SUMMARY:Pm. (L)
@@ -533,14 +533,14 @@ DTSTART:20261130T150000Z
 DTEND:20261130T163500Z
 SUMMARY:Zms2 (w)
 LOCATION:52/ 62
-DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T150000Z
 DTEND:20261207T163500Z
 SUMMARY:Zms2 (w)
 LOCATION:52/ 62
-DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T150000Z
@@ -568,14 +568,7 @@ DTSTART:20260118T150000Z
 DTEND:20260118T163500Z
 SUMMARY:Zms2 (w)
 LOCATION:55/ 62
-DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr inż. Morka Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260125T150000Z
-DTEND:20260125T163500Z
-SUMMARY:IEPT. (w)
-LOCATION:55/ 62
-DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 4/16\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260208T150000Z
@@ -701,7 +694,7 @@ DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:IEPT. (w)
 LOCATION:8/ 62
-DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 5/16\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 4/16\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
@@ -841,7 +834,7 @@ DTSTART:20260126T085000Z
 DTEND:20260126T102500Z
 SUMMARY:Zms2 (w)
 LOCATION:54/ 62
-DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T075000Z
@@ -869,7 +862,7 @@ DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Zms2 (L)
 LOCATION:7/ 62
-DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
@@ -932,7 +925,7 @@ DTSTART:20260126T104000Z
 DTEND:20260126T121500Z
 SUMMARY:Zms2 (L)
 LOCATION:6/ 62
-DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T104000Z
@@ -974,7 +967,7 @@ DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
 SUMMARY:Zms2 (L)
 LOCATION:6/ 62
-DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T123000Z
@@ -988,7 +981,7 @@ DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
 SUMMARY:IEPT. (w)
 LOCATION:108/ 54
-DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 6/16\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 5/16\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T123000Z
@@ -1093,7 +1086,7 @@ DTSTART:20261006T140000Z
 DTEND:20261006T153500Z
 SUMMARY:IEPT. (w)
 LOCATION:51/ 62
-DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 7/16\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 6/16\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T140000Z
@@ -1107,7 +1100,7 @@ DTSTART:20261027T150000Z
 DTEND:20261027T163500Z
 SUMMARY:Zms2 (L)
 LOCATION:6/ 62
-DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -1119,13 +1112,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T150000Z
 DTEND:20261124T163500Z
-SUMMARY:Zms2 (L)
-LOCATION:6/ 62
-DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Morka Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T150000Z
-DTEND:20261201T163500Z
 SUMMARY:Zms2 (L)
 LOCATION:6/ 62
 DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Morka Andrzej
@@ -1247,7 +1233,7 @@ DTSTART:20261014T060000Z
 DTEND:20261014T073500Z
 SUMMARY:Zms2 (w)
 LOCATION:52/ 62
-DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T060000Z
@@ -1401,7 +1387,7 @@ DTSTART:20261125T085000Z
 DTEND:20261125T102500Z
 SUMMARY:IEPT. (w)
 LOCATION:56/ 62
-DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 8/16\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 7/16\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T085000Z
@@ -1481,18 +1467,11 @@ LOCATION:
 DESCRIPTION:SEzas.\nRodzaj zajęć: -\nNumer zajęć: 2/21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T094000Z
-DTEND:20261014T111500Z
-SUMMARY:PiWSI (L)
-LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/18\nProwadzący: dr inż. Łuszczek Jakub
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261021T094000Z
 DTEND:20261021T111500Z
 SUMMARY:PiWSI (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/18\nProwadzący: dr inż. Łuszczek Jakub
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T104000Z
@@ -1583,7 +1562,7 @@ DTSTART:20261021T113000Z
 DTEND:20261021T130500Z
 SUMMARY:IEPT. (w)
 LOCATION:9/ 62
-DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 9/16\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 8/16\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T123000Z
@@ -1604,7 +1583,7 @@ DTSTART:20261118T123000Z
 DTEND:20261118T140500Z
 SUMMARY:IEPT. (w)
 LOCATION:51/ 62
-DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 10/16\nProwadzący: dr inż. Morka Andrzej
+DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 9/16\nProwadzący: dr inż. Morka Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T123000Z
@@ -1849,7 +1828,7 @@ DTSTART:20261105T070000Z
 DTEND:20261105T083500Z
 SUMMARY:PiWSI (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/18\nProwadzący: dr inż. Łuszczek Jakub
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -1964,6 +1943,13 @@ LOCATION:6/ 62
 DESCRIPTION:Metody numeryczne w analizie konstrukcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261022T075000Z
+DTEND:20261022T092500Z
+SUMMARY:Zms2 (w)
+LOCATION:51/ 62
+DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Morka Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T085000Z
 DTEND:20261029T102500Z
 SUMMARY:Pm. (L)
@@ -1975,7 +1961,7 @@ DTSTART:20261105T085000Z
 DTEND:20261105T102500Z
 SUMMARY:PiWSI (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/18\nProwadzący: dr inż. Łuszczek Jakub
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T085000Z
@@ -2092,9 +2078,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T094000Z
 DTEND:20261015T111500Z
+SUMMARY:IEPT. (w)
+LOCATION:2/ 23A
+DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 10/16\nProwadzący: dr inż. Morka Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T094000Z
+DTEND:20261022T111500Z
 SUMMARY:PiWSI (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/18\nProwadzący: dr inż. Łuszczek Jakub
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -2136,14 +2129,14 @@ DTSTART:20261203T104000Z
 DTEND:20261203T121500Z
 SUMMARY:PiWSI (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/18\nProwadzący: dr inż. Łuszczek Jakub
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
 SUMMARY:PiWSI (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/18\nProwadzący: dr inż. Łuszczek Jakub
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T104000Z
@@ -2235,6 +2228,13 @@ DTEND:20261015T130500Z
 SUMMARY:Zms2 (w)
 LOCATION:8/ 62
 DESCRIPTION:Zaawansowane modelowanie i symulacja 2\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Morka Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T113000Z
+DTEND:20261022T130500Z
+SUMMARY:PiWSI (L)
+LOCATION:30/ 54
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/18\nProwadzący: dr inż. Łuszczek Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T123000Z

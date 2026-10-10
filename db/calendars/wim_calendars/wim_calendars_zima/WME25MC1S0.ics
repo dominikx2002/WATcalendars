@@ -487,60 +487,53 @@ LOCATION:01/ 54A
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T140000Z
-DTEND:20261012T153500Z
-SUMMARY:Bpk 
-LOCATION:2/ 23A
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 2/35\nProwadzący: dr inż. Wieczorek Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261026T150000Z
 DTEND:20261026T163500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 3/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 2/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T150000Z
 DTEND:20261102T163500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 4/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 3/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T150000Z
 DTEND:20261116T163500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 5/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 4/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T150000Z
 DTEND:20261123T163500Z
 SUMMARY:Bpk 
 LOCATION:31/ 54A; PTW/ 28 HANGAR
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 6/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 5/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T150000Z
 DTEND:20261130T163500Z
 SUMMARY:Bpk 
 LOCATION:31/ 54A; PTW/ 28 HANGAR
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 7/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 6/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T150000Z
 DTEND:20261207T163500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A; PTW/ 28 HANGAR
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 8/35\nProwadzący: kpt. mgr inż. Żmuda Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 7/35\nProwadzący: kpt. mgr inż. Żmuda Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T150000Z
 DTEND:20261221T163500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A; PTW/ 28 HANGAR
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 9/35\nProwadzący: kpt. mgr inż. Żmuda Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 8/35\nProwadzący: kpt. mgr inż. Żmuda Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T150000Z
@@ -645,7 +638,7 @@ DTSTART:20261215T070000Z
 DTEND:20261215T083500Z
 SUMMARY:Bpk 
 LOCATION:52/ 62
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 10/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 9/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T070000Z
@@ -694,7 +687,7 @@ DTSTART:20261006T075000Z
 DTEND:20261006T092500Z
 SUMMARY:Bpk 
 LOCATION:8/ 62
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 11/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 10/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T075000Z
@@ -708,7 +701,7 @@ DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:F2 (L)
 LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T085000Z
@@ -799,7 +792,7 @@ DTSTART:20260119T085000Z
 DTEND:20260119T102500Z
 SUMMARY:F2 (L)
 LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T085000Z
@@ -946,7 +939,7 @@ DTSTART:20260216T104000Z
 DTEND:20260216T121500Z
 SUMMARY:Bpk 
 LOCATION:54/ 62
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 12/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 11/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T113000Z
@@ -1086,21 +1079,21 @@ DTSTART:20261020T140000Z
 DTEND:20261020T153500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 13/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 12/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T150000Z
 DTEND:20261027T163500Z
 SUMMARY:Bpk 
 LOCATION:55/ 62
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 14/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 13/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T150000Z
 DTEND:20261103T163500Z
 SUMMARY:Bpk 
 LOCATION:55/ 62
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 15/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 14/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -1163,7 +1156,7 @@ DTSTART:20260112T150000Z
 DTEND:20260112T163500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A; PTW/ 28 HANGAR
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 16/35\nProwadzący: kpt. mgr inż. Żmuda Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 15/35\nProwadzący: kpt. mgr inż. Żmuda Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T150000Z
@@ -1226,7 +1219,7 @@ DTSTART:20261014T060000Z
 DTEND:20261014T073500Z
 SUMMARY:Bpk 
 LOCATION:55/ 62
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 17/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 16/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T060000Z
@@ -1352,28 +1345,28 @@ DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 18/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 17/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
 DTEND:20261014T092500Z
 SUMMARY:Bpk 
 LOCATION:55/ 62
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 19/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 18/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
 SUMMARY:Bpk 
 LOCATION:5/ 23A
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 20/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 19/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
 SUMMARY:F2 (L)
 LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
@@ -1394,7 +1387,7 @@ DTSTART:20261118T085000Z
 DTEND:20261118T102500Z
 SUMMARY:F2 (L)
 LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T085000Z
@@ -1485,21 +1478,21 @@ DTSTART:20261007T094000Z
 DTEND:20261007T111500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 21/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 20/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T094000Z
 DTEND:20261014T111500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 22/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 21/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T094000Z
 DTEND:20261021T111500Z
 SUMMARY:Bpk 
 LOCATION:5/ 23A
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 23/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 22/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T104000Z
@@ -1534,7 +1527,7 @@ DTSTART:20261125T104000Z
 DTEND:20261125T121500Z
 SUMMARY:Bpk 
 LOCATION:31/ 54A; PTW/ 28 HANGAR
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 24/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 23/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T104000Z
@@ -1555,7 +1548,7 @@ DTSTART:20261223T104000Z
 DTEND:20261223T121500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A; PTW/ 28 HANGAR
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 25/35\nProwadzący: kpt. mgr inż. Żmuda Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 24/35\nProwadzący: kpt. mgr inż. Żmuda Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T104000Z
@@ -1576,7 +1569,7 @@ DTSTART:20260113T104000Z
 DTEND:20260113T121500Z
 SUMMARY:F2 (L)
 LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T104000Z
@@ -1702,7 +1695,7 @@ DTSTART:20261028T150000Z
 DTEND:20261028T163500Z
 SUMMARY:Bpk 
 LOCATION:8/ 62
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 26/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 25/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T150000Z
@@ -1730,7 +1723,7 @@ DTSTART:20261125T150000Z
 DTEND:20261125T163500Z
 SUMMARY:Bpk 
 LOCATION:9/ 62
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 27/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 26/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T150000Z
@@ -1919,7 +1912,7 @@ DTSTART:20261119T070000Z
 DTEND:20261119T083500Z
 SUMMARY:Bpk 
 LOCATION:8/ 62
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 28/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 27/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -2087,14 +2080,14 @@ DTSTART:20260128T085000Z
 DTEND:20260128T102500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A; PTW/ 28 HANGAR
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 29/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 28/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T085000Z
 DTEND:20260204T102500Z
 SUMMARY:Bpk 
 LOCATION:2/ 23A; PTW/ 28 HANGAR
-DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 30/35\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 29/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T085000Z
@@ -2123,6 +2116,13 @@ DTEND:20261008T111500Z
 SUMMARY:SzS (ć)
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T094000Z
+DTEND:20261015T111500Z
+SUMMARY:Bpk 
+LOCATION:5/ 20
+DESCRIPTION:Bpk\nRodzaj zajęć: -\nNumer zajęć: 30/35\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z

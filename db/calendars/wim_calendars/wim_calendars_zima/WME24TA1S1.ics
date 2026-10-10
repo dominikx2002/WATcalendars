@@ -95,6 +95,13 @@ LOCATION:1/ 19
 DESCRIPTION:Podstawy technologii przeróbki ropy naftowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr inż. Kałdoński Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260118T070000Z
+DTEND:20260118T083500Z
+SUMMARY:Par (L)
+LOCATION:14/ 23A
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260208T070000Z
 DTEND:20260208T083500Z
 SUMMARY:OwL (Zp.)
@@ -792,7 +799,7 @@ DTSTART:20261215T085000Z
 DTEND:20261215T102500Z
 SUMMARY:Par (L)
 LOCATION:4/ 23A; 14/ 23A
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T085000Z
@@ -820,7 +827,7 @@ DTSTART:20260112T085000Z
 DTEND:20260112T102500Z
 SUMMARY:Par (L)
 LOCATION:4/ 23A; 14/ 23A
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T085000Z

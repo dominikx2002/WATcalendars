@@ -46,6 +46,13 @@ LOCATION:2/ 23A
 DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261123T070000Z
+DTEND:20261123T083500Z
+SUMMARY:BiEmps (L)
+LOCATION:21/ 21; PTW/ 28
+DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261130T070000Z
 DTEND:20261130T083500Z
 SUMMARY:SUiN (w)
@@ -561,7 +568,7 @@ DTSTART:20261116T150000Z
 DTEND:20261116T163500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T150000Z
@@ -582,7 +589,7 @@ DTSTART:20261207T150000Z
 DTEND:20261207T163500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T150000Z
@@ -809,13 +816,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 25/154
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T092500Z
-SUMMARY:BiEmps (L)
-LOCATION:21/ 21; PTW/ 28
-DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:BiEsmps (L)
@@ -947,6 +947,13 @@ DTEND:20261103T121500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
 DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T104000Z
+DTEND:20261117T121500Z
+SUMMARY:BiEmps (L)
+LOCATION:21/ 21; PTW/ 28
+DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T104000Z
@@ -1348,6 +1355,13 @@ LOCATION:15/ 23A
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:BiEmps (L)
+LOCATION:21/ 21; PTW/ 28
+DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:DGB (ć)
@@ -1381,6 +1395,13 @@ DTEND:20260113T083500Z
 SUMMARY:ZŻWAT (i)
 LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: (i)\nNumer zajęć: 4/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T070000Z
+DTEND:20260127T083500Z
+SUMMARY:Pdm (L)
+LOCATION:14/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T070000Z
@@ -1513,7 +1534,7 @@ DTSTART:20260120T085000Z
 DTEND:20260120T102500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T085000Z
@@ -1752,6 +1773,13 @@ DTEND:20260106T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 58/154
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T123000Z
+DTEND:20260113T140500Z
+SUMMARY:Pdm (L)
+LOCATION:14/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T123000Z
@@ -2038,7 +2066,7 @@ DTSTART:20261022T060000Z
 DTEND:20261022T073500Z
 SUMMARY:BiEmps (L)
 LOCATION:
-DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9
+DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z
@@ -2111,6 +2139,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 72/154
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260107T070000Z
+DTEND:20260107T083500Z
+SUMMARY:Pdm (L)
+LOCATION:14/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260121T070000Z
 DTEND:20260121T083500Z
 SUMMARY:WF (ć)
@@ -2178,7 +2213,7 @@ DTSTART:20261022T075000Z
 DTEND:20261022T092500Z
 SUMMARY:BiEmps (L)
 LOCATION:
-DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9
+DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T085000Z
@@ -2339,14 +2374,14 @@ DTSTART:20261022T094000Z
 DTEND:20261022T111500Z
 SUMMARY:BiEmps (L)
 LOCATION:
-DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9
+DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
 DTEND:20261029T121500Z
-SUMMARY:BiEmps (L)
-LOCATION:21/ 21; PTW/ 28
-DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
+SUMMARY:SUiN (w)
+LOCATION:1/ 19
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 9/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
@@ -2472,13 +2507,6 @@ DTSTART:20261022T113000Z
 DTEND:20261022T130500Z
 SUMMARY:BiEmps (L)
 LOCATION:
-DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T123000Z
-DTEND:20261029T140500Z
-SUMMARY:BiEmps (L)
-LOCATION:21/ 21; PTW/ 28
 DESCRIPTION:Budowa i eksploatacja sprzętu służby mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
@@ -2500,7 +2528,7 @@ DTSTART:20261119T123000Z
 DTEND:20261119T140500Z
 SUMMARY:SUiN (w)
 LOCATION:42/ 20
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 9/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 10/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T123000Z
@@ -2556,7 +2584,7 @@ DTSTART:20260114T123000Z
 DTEND:20260114T140500Z
 SUMMARY:SUiN (w)
 LOCATION:2/ 23A
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 10/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 11/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T123000Z
@@ -2591,14 +2619,14 @@ DTSTART:20261001T140000Z
 DTEND:20261001T153500Z
 SUMMARY:SUiN (w)
 LOCATION:5/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 11/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 12/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T140000Z
 DTEND:20261008T153500Z
 SUMMARY:SUiN (w)
 LOCATION:5/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 12/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 13/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T140000Z
@@ -2613,13 +2641,6 @@ DTEND:20261022T153500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 24/33
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T150000Z
-DTEND:20261029T163500Z
-SUMMARY:SUiN (w)
-LOCATION:1/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 13/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T150000Z
@@ -2997,7 +3018,7 @@ DTSTART:20260115T085000Z
 DTEND:20260115T102500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T085000Z

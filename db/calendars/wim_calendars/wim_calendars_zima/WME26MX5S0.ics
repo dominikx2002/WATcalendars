@@ -1047,13 +1047,6 @@ LOCATION:5/ 20
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T150000Z
-DTEND:20261201T163500Z
-SUMMARY:PZiP (ć)
-LOCATION:51/ 62
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Kożuch Artur Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261229T150000Z
 DTEND:20261229T163500Z
 SUMMARY:I 
@@ -2269,7 +2262,7 @@ DTSTART:20260114T104000Z
 DTEND:20260114T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:52/ 62
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T104000Z
@@ -2447,6 +2440,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 66/143
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260114T150000Z
+DTEND:20260114T163500Z
+SUMMARY:PZiP (ć)
+LOCATION:52/ 62
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. Kożuch Artur Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260121T150000Z
 DTEND:20260121T163500Z
 SUMMARY:REG (w)
@@ -2608,6 +2608,13 @@ LOCATION:29/ 54; 30/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260115T070000Z
+DTEND:20260115T083500Z
+SUMMARY:PZiP (ć)
+LOCATION:52/ 62
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. Kożuch Artur Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260122T070000Z
 DTEND:20260122T083500Z
 SUMMARY:TW (ć)
@@ -2746,6 +2753,13 @@ DTEND:20260108T102500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54; 30/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T085000Z
+DTEND:20260115T102500Z
+SUMMARY:PZiP (ć)
+LOCATION:52/ 62
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T085000Z
@@ -2895,6 +2909,13 @@ LOCATION:
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 16/17\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260129T104000Z
+DTEND:20260129T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:54/ 62
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. Kożuch Artur Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260212T104000Z
 DTEND:20260212T121500Z
 SUMMARY:Pms 
@@ -2983,7 +3004,7 @@ DTSTART:20261211T123000Z
 DTEND:20261211T140500Z
 SUMMARY:PZiP (ć)
 LOCATION:54/ 62
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T123000Z
@@ -3018,14 +3039,14 @@ DTSTART:20260115T123000Z
 DTEND:20260115T140500Z
 SUMMARY:PZiP (ć)
 LOCATION:54/ 62
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T123000Z
 DTEND:20260129T140500Z
 SUMMARY:PZiP (ć)
 LOCATION:54/ 62
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260212T123000Z
@@ -3077,13 +3098,6 @@ LOCATION:
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Klimek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261030T150000Z
-DTEND:20261030T163500Z
-SUMMARY:PZiP (ć)
-LOCATION:54/ 62
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. Kożuch Artur Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261106T150000Z
 DTEND:20261106T163500Z
 SUMMARY:DSiSM (w)
@@ -3112,25 +3126,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 90/143
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261204T150000Z
-DTEND:20261204T163500Z
-SUMMARY:PZiP (ć)
-LOCATION:54/ 62
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. Kożuch Artur Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261211T150000Z
 DTEND:20261211T163500Z
 SUMMARY:WDM (ć)
 LOCATION:5/ 20
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. Boruta Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261218T150000Z
-DTEND:20261218T163500Z
-SUMMARY:PZiP (ć)
-LOCATION:54/ 62
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261225T150000Z

@@ -1233,14 +1233,14 @@ DTSTART:20260112T150000Z
 DTEND:20260112T163500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T150000Z
 DTEND:20260119T163500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T150000Z
@@ -1766,6 +1766,13 @@ DTEND:20260120T140500Z
 SUMMARY:Mr 
 LOCATION:
 DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 22/30\nProwadzący: dr inż. Wieczorek Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T123000Z
+DTEND:20260127T140500Z
+SUMMARY:Pdm (L)
+LOCATION:14/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T123000Z
@@ -2409,21 +2416,21 @@ DTSTART:20261112T150000Z
 DTEND:20261112T163500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T150000Z
 DTEND:20261119T163500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T150000Z
 DTEND:20261126T163500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T150000Z
