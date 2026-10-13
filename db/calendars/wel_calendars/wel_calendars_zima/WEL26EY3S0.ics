@@ -942,13 +942,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne 78\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam 79
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
-SUMMARY:PGI 
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261001T094000Z
 DTEND:20261001T111500Z
 SUMMARY:INAU 
@@ -1014,6 +1007,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T150000Z
 DTEND:20261029T163500Z
+SUMMARY:PGI 
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T150000Z
+DTEND:20261126T163500Z
 SUMMARY:PGI 
 LOCATION:
 DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39

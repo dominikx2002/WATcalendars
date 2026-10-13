@@ -690,6 +690,13 @@ LOCATION:01/ 54A
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260126T104000Z
+DTEND:20260126T121500Z
+SUMMARY:Mat2 (ć)
+LOCATION:54/ 62
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: dr Prusińska Agnieszka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260202T104000Z
 DTEND:20260202T121500Z
 SUMMARY:Ez (Zp.)
@@ -1079,14 +1086,14 @@ DTSTART:20261216T085000Z
 DTEND:20261216T102500Z
 SUMMARY:Mat2 (ć)
 LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T085000Z
 DTEND:20261223T102500Z
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T085000Z
@@ -1164,13 +1171,6 @@ DTEND:20261118T121500Z
 SUMMARY:WDM (ć)
 LOCATION:09/ 54A
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr inż. Boruta Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T104000Z
-DTEND:20261202T121500Z
-SUMMARY:Mat2 (ć)
-LOCATION:54/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T104000Z

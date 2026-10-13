@@ -557,6 +557,13 @@ LOCATION:aula/ 135
 DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261020T060000Z
+DTEND:20261020T073500Z
+SUMMARY:Mimz (w)
+LOCATION:
+DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: mgr inż. Rekucki Ryszard
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261027T070000Z
 DTEND:20261027T083500Z
 SUMMARY:Pr.A (w)
@@ -1159,18 +1166,18 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/30\nProwadzący: mgr Gąsiński Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261014T060000Z
+DTEND:20261014T073500Z
+SUMMARY:DGMiB (P)
+LOCATION:
+DESCRIPTION:Dzień Gotowości Mobilizacyjnej i Bojowej\nRodzaj zajęć: Projekt\nNumer zajęć: 1/4\nProwadzący: dr inż. Moneta Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261021T060000Z
 DTEND:20261021T073500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/30\nProwadzący: mgr Gąsiński Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261028T070000Z
-DTEND:20261028T083500Z
-SUMMARY:Mp (L)
-LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
@@ -1264,11 +1271,18 @@ LOCATION:
 DESCRIPTION:Pms\nRodzaj zajęć: -\nNumer zajęć: 1/35
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261014T075000Z
+DTEND:20261014T092500Z
+SUMMARY:DGMiB (P)
+LOCATION:
+DESCRIPTION:Dzień Gotowości Mobilizacyjnej i Bojowej\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: dr inż. Moneta Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
 SUMMARY:Mimz (w)
 LOCATION:42/ 54A
-DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: mgr inż. Rekucki Ryszard
+DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: mgr inż. Rekucki Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
@@ -1282,7 +1296,7 @@ DTSTART:20261104T085000Z
 DTEND:20261104T102500Z
 SUMMARY:Mimz (w)
 LOCATION:42/ 54A
-DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: mgr inż. Rekucki Ryszard
+DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: mgr inż. Rekucki Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T085000Z
@@ -1324,14 +1338,14 @@ DTSTART:20261216T085000Z
 DTEND:20261216T102500Z
 SUMMARY:Mimz (w)
 LOCATION:3/ 54
-DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: mgr inż. Rekucki Ryszard
+DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: mgr inż. Rekucki Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T085000Z
 DTEND:20261223T102500Z
 SUMMARY:Mimz (w)
 LOCATION:3/ 54
-DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: mgr inż. Rekucki Ryszard
+DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: mgr inż. Rekucki Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T085000Z
@@ -1380,21 +1394,21 @@ DTSTART:20261007T094000Z
 DTEND:20261007T111500Z
 SUMMARY:Mimz (w)
 LOCATION:120/ 54
-DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: mgr inż. Rekucki Ryszard
+DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: mgr inż. Rekucki Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T094000Z
 DTEND:20261014T111500Z
-SUMMARY:Mimz (w)
+SUMMARY:DGMiB (P)
 LOCATION:
-DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: mgr inż. Rekucki Ryszard
+DESCRIPTION:Dzień Gotowości Mobilizacyjnej i Bojowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3/4\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T094000Z
 DTEND:20261021T111500Z
 SUMMARY:Mt 
 LOCATION:2/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 13/24\nProwadzący: dr inż. Suligowski Mariusz
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 13/24\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T104000Z
@@ -1490,9 +1504,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T113000Z
 DTEND:20261014T130500Z
-SUMMARY:Mimz (L)
+SUMMARY:DGMiB (P)
 LOCATION:
-DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: mgr inż. Rekucki Ryszard
+DESCRIPTION:Dzień Gotowości Mobilizacyjnej i Bojowej\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T113000Z
@@ -1555,7 +1569,7 @@ DTSTART:20261223T123000Z
 DTEND:20261223T140500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z
@@ -1576,7 +1590,7 @@ DTSTART:20260113T123000Z
 DTEND:20260113T140500Z
 SUMMARY:Mimz (L)
 LOCATION:
-DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: mgr inż. Rekucki Ryszard
+DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: mgr inż. Rekucki Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T123000Z
@@ -2048,6 +2062,13 @@ LOCATION:3/038
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Jurzysta Paweł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261022T094000Z
+DTEND:20261022T111500Z
+SUMMARY:Mimz (L)
+LOCATION:
+DESCRIPTION:Minerstwo i materiały zaporowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: mgr inż. Rekucki Ryszard
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T104000Z
 DTEND:20261029T121500Z
 SUMMARY:OIN (w)
@@ -2174,6 +2195,13 @@ LOCATION:3/038
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Jurzysta Paweł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261022T113000Z
+DTEND:20261022T130500Z
+SUMMARY:Mp (L)
+LOCATION:05/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Muszyński Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T123000Z
 DTEND:20261029T140500Z
 SUMMARY:Mp (L)
@@ -2241,7 +2269,7 @@ DTSTART:20260107T123000Z
 DTEND:20260107T140500Z
 SUMMARY:Mt 
 LOCATION:2/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 14/24\nProwadzący: dr inż. Suligowski Mariusz
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 14/24\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T123000Z
@@ -2997,21 +3025,21 @@ DTSTART:20261106T123000Z
 DTEND:20261106T140500Z
 SUMMARY:Mt 
 LOCATION:2/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 15/24\nProwadzący: dr inż. Suligowski Mariusz
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 15/24\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T123000Z
 DTEND:20261113T140500Z
 SUMMARY:Mt 
 LOCATION:2/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 16/24\nProwadzący: dr inż. Suligowski Mariusz
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 16/24\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T123000Z
 DTEND:20261120T140500Z
 SUMMARY:Mt 
 LOCATION:2/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 17/24\nProwadzący: dr inż. Suligowski Mariusz
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 17/24\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261127T123000Z
@@ -3025,21 +3053,21 @@ DTSTART:20261204T123000Z
 DTEND:20261204T140500Z
 SUMMARY:Mt 
 LOCATION:2/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 18/24\nProwadzący: dr inż. Suligowski Mariusz
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 18/24\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T123000Z
 DTEND:20261211T140500Z
 SUMMARY:Mt 
 LOCATION:2/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 19/24\nProwadzący: dr inż. Suligowski Mariusz
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 19/24\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T123000Z
 DTEND:20261218T140500Z
 SUMMARY:Mt 
 LOCATION:5/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 20/24\nProwadzący: dr inż. Suligowski Mariusz
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 20/24\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261225T123000Z
@@ -3067,28 +3095,28 @@ DTSTART:20260115T123000Z
 DTEND:20260115T140500Z
 SUMMARY:Mt 
 LOCATION:2/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 21/24\nProwadzący: dr inż. Suligowski Mariusz
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 21/24\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T123000Z
 DTEND:20260122T140500Z
 SUMMARY:Mt 
 LOCATION:2/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 22/24\nProwadzący: dr inż. Suligowski Mariusz
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 22/24\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T123000Z
 DTEND:20260129T140500Z
 SUMMARY:Mt 
 LOCATION:2/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 23/24\nProwadzący: dr inż. Suligowski Mariusz
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 23/24\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260205T123000Z
 DTEND:20260205T140500Z
 SUMMARY:Mt 
 LOCATION:2/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 24/24\nProwadzący: dr inż. Suligowski Mariusz
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 24/24\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260212T123000Z

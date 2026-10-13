@@ -704,13 +704,6 @@ LOCATION:301/ S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261103T085000Z
-DTEND:20261103T102500Z
-SUMMARY:PZiP (ć)
-LOCATION:52/ 62
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Kożuch Artur Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T085000Z
 DTEND:20261110T102500Z
 SUMMARY:WDM (ć)
@@ -1381,6 +1374,13 @@ DTEND:20261111T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 35/143
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T104000Z
+DTEND:20261118T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:3/ 54
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T104000Z

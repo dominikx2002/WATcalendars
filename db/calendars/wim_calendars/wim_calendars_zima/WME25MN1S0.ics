@@ -1173,13 +1173,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/30\nProwadzący: mgr Gąsiński Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T070000Z
-DTEND:20261028T083500Z
-SUMMARY:Mp (L)
-LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: dr inż. Muszyński Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261104T070000Z
 DTEND:20261104T083500Z
 SUMMARY:WF (ć)
@@ -1194,13 +1187,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 29/147
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T070000Z
-DTEND:20261118T083500Z
-SUMMARY:Wog (w)
-LOCATION:2/ 23A
-DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Kalwasiński Marek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:WF (ć)
@@ -1212,7 +1198,7 @@ DTSTART:20261202T070000Z
 DTEND:20261202T083500Z
 SUMMARY:Wog (w)
 LOCATION:2/ 23A
-DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
@@ -1317,7 +1303,7 @@ DTSTART:20261104T085000Z
 DTEND:20261104T102500Z
 SUMMARY:Wog (w)
 LOCATION:2/ 23A
-DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T085000Z
@@ -1338,14 +1324,14 @@ DTSTART:20261125T085000Z
 DTEND:20261125T102500Z
 SUMMARY:Wog (w)
 LOCATION:2/ 23A
-DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T085000Z
 DTEND:20261202T102500Z
 SUMMARY:Wog (w)
 LOCATION:2/ 23A
-DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T085000Z
@@ -1443,7 +1429,7 @@ DTSTART:20261104T104000Z
 DTEND:20261104T121500Z
 SUMMARY:Wog (w)
 LOCATION:2/ 23A
-DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T104000Z
@@ -1464,7 +1450,7 @@ DTSTART:20261125T104000Z
 DTEND:20261125T121500Z
 SUMMARY:Wog (w)
 LOCATION:2/ 23A
-DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T104000Z
@@ -1604,7 +1590,7 @@ DTSTART:20261223T123000Z
 DTEND:20261223T140500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z
@@ -2202,6 +2188,13 @@ LOCATION:3/038
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Jurzysta Paweł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261022T113000Z
+DTEND:20261022T130500Z
+SUMMARY:Mp (L)
+LOCATION:05/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Muszyński Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T123000Z
 DTEND:20261029T140500Z
 SUMMARY:Mp (L)
@@ -2312,6 +2305,13 @@ DTEND:20261105T163500Z
 SUMMARY:TA (w)
 LOCATION:3/038
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: płk rez. dr inż. Krawczyk Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T150000Z
+DTEND:20261112T163500Z
+SUMMARY:Wog (w)
+LOCATION:6/ 23A
+DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T150000Z

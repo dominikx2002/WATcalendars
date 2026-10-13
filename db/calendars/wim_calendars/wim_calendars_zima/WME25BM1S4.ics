@@ -851,13 +851,6 @@ LOCATION:54/ 62
 DESCRIPTION:Inżynieria ortopedyczna i rehabilitacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Zawiski Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T121500Z
-SUMMARY:Tasr (w)
-LOCATION:120/ 54
-DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Kluczyński Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
 SUMMARY:PUwMAN (w)
@@ -932,7 +925,7 @@ DTSTART:20261006T113000Z
 DTEND:20261006T130500Z
 SUMMARY:Tasr (w)
 LOCATION:120/ 54
-DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Kluczyński Janusz
+DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T123000Z
@@ -1457,7 +1450,7 @@ DTSTART:20261216T123000Z
 DTEND:20261216T140500Z
 SUMMARY:Tasr (w)
 LOCATION:120/ 54
-DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6
+DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z
@@ -1955,6 +1948,13 @@ DTEND:20261029T121500Z
 SUMMARY:Sipp (w)
 LOCATION:09/ 54A
 DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Stanisławek Sebastian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T104000Z
+DTEND:20261105T121500Z
+SUMMARY:Tasr (w)
+LOCATION:18/ 54
+DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T104000Z

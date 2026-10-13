@@ -725,6 +725,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 24/154
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260112T070000Z
+DTEND:20260112T083500Z
+SUMMARY:Wow. (w)
+LOCATION:3/ 54
+DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260119T070000Z
 DTEND:20260119T083500Z
 SUMMARY:BPiE (w)
@@ -757,7 +764,7 @@ DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:Wow. (w)
 LOCATION:120/ 54
-DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T085000Z
@@ -1009,7 +1016,7 @@ DTSTART:20261013T113000Z
 DTEND:20261013T130500Z
 SUMMARY:Wow. (w)
 LOCATION:120/ 54
-DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T113000Z
@@ -1023,14 +1030,14 @@ DTSTART:20261027T123000Z
 DTEND:20261027T140500Z
 SUMMARY:Wow. (w)
 LOCATION:109/ 54
-DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
 SUMMARY:Wow. (w)
 LOCATION:109/ 54
-DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T123000Z
@@ -1136,13 +1143,6 @@ DTEND:20261208T163500Z
 SUMMARY:MOMI (L)
 LOCATION:14/ 54A
 DESCRIPTION:Modelowanie osprzętów maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Krogul Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261222T150000Z
-DTEND:20261222T163500Z
-SUMMARY:Wow. (w)
-LOCATION:09/ 54A
-DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T150000Z
@@ -1374,6 +1374,13 @@ DTEND:20261014T092500Z
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T075000Z
+DTEND:20261021T092500Z
+SUMMARY:Wow. (ć)
+LOCATION:28/ 54
+DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
@@ -1747,13 +1754,6 @@ LOCATION:15/ 23A
 DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T140000Z
-DTEND:20261021T153500Z
-SUMMARY:Wow. (ć)
-LOCATION:120/ 54
-DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Ślęzak Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261028T150000Z
 DTEND:20261028T163500Z
 SUMMARY:MOMI (L)
@@ -1775,13 +1775,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 60/154
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T150000Z
-DTEND:20261118T163500Z
-SUMMARY:Wow. (ć)
-LOCATION:120/ 54
-DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: ppłk dr inż. Ślęzak Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261125T150000Z
 DTEND:20261125T163500Z
 SUMMARY:Ri (w)
@@ -1801,13 +1794,6 @@ DTEND:20261209T163500Z
 SUMMARY:Ri (L)
 LOCATION:37/ 54A
 DESCRIPTION:Roboty inżynieryjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T150000Z
-DTEND:20261216T163500Z
-SUMMARY:Wow. (ć)
-LOCATION:120/ 54
-DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T150000Z
@@ -2342,6 +2328,13 @@ LOCATION:01/ 54A
 DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260114T104000Z
+DTEND:20260114T121500Z
+SUMMARY:Wow. (ć)
+LOCATION:28/ 54
+DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260121T104000Z
 DTEND:20260121T121500Z
 SUMMARY:Ri (L)
@@ -2676,6 +2669,13 @@ DTEND:20261113T083500Z
 SUMMARY:REG (ć)
 LOCATION:
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: ppłk rez. Jęcek Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T070000Z
+DTEND:20261120T083500Z
+SUMMARY:Wow. (ć)
+LOCATION:116/ 54
+DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261127T070000Z

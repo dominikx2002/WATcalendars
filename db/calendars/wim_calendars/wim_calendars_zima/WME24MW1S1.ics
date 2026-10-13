@@ -18,6 +18,13 @@ LOCATION:108/ 54
 DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 1/30\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261102T070000Z
+DTEND:20261102T083500Z
+SUMMARY:Zts (w)
+LOCATION:3/ 54
+DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Grzelak Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T070000Z
 DTEND:20261109T083500Z
 SUMMARY:Adv (w)
@@ -988,7 +995,7 @@ DTSTART:20260126T123000Z
 DTEND:20260126T140500Z
 SUMMARY:Zts (w)
 LOCATION:120/ 54
-DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Grzelak Krzysztof
+DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T123000Z
@@ -1009,14 +1016,14 @@ DTSTART:20261020T140000Z
 DTEND:20261020T153500Z
 SUMMARY:Zts (w)
 LOCATION:120/ 54
-DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Grzelak Krzysztof
+DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T150000Z
 DTEND:20261027T163500Z
 SUMMARY:Zts (w)
 LOCATION:09/ 54A
-DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Grzelak Krzysztof
+DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -1247,7 +1254,7 @@ DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
 SUMMARY:Zts (w)
 LOCATION:42/ 54A
-DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Grzelak Krzysztof
+DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
@@ -1332,13 +1339,6 @@ DTEND:20260210T102500Z
 SUMMARY:Pms 
 LOCATION:
 DESCRIPTION:Pms\nRodzaj zajęć: -\nNumer zajęć: 2/35
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261014T094000Z
-DTEND:20261014T111500Z
-SUMMARY:Zts (w)
-LOCATION:108/ 54
-DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T094000Z

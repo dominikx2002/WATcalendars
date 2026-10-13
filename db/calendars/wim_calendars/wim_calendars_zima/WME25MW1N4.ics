@@ -490,7 +490,7 @@ BEGIN:VEVENT
 DTSTART:20261024T094000Z
 DTEND:20261024T111500Z
 SUMMARY:Pm. (P)
-LOCATION:54/ 62
+LOCATION:54/ 62; 116/ 54
 DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Projekt\nNumer zajęć: 1/5\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
@@ -539,14 +539,14 @@ BEGIN:VEVENT
 DTSTART:20261212T104000Z
 DTEND:20261212T121500Z
 SUMMARY:Pm. (P)
-LOCATION:9/ 62
+LOCATION:9/ 62; 116/ 54
 DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Projekt\nNumer zajęć: 2/5\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T104000Z
 DTEND:20261219T121500Z
 SUMMARY:Pm. (P)
-LOCATION:52/ 62
+LOCATION:52/ 62; 116/ 54
 DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Projekt\nNumer zajęć: 3/5\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
@@ -644,7 +644,7 @@ BEGIN:VEVENT
 DTSTART:20261017T113000Z
 DTEND:20261017T130500Z
 SUMMARY:Pm. (P)
-LOCATION:9/ 62
+LOCATION:9/ 62; 116/ 54
 DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Projekt\nNumer zajęć: 4/5\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
@@ -826,7 +826,7 @@ BEGIN:VEVENT
 DTSTART:20261114T150000Z
 DTEND:20261114T163500Z
 SUMMARY:Pm. (P)
-LOCATION:52/ 62
+LOCATION:52/ 62; 116/ 54
 DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Projekt\nNumer zajęć: 5/5\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
@@ -1281,7 +1281,7 @@ BEGIN:VEVENT
 DTSTART:20261206T070000Z
 DTEND:20261206T083500Z
 SUMMARY:Zmn (w)
-LOCATION:116/ 54
+LOCATION:8/ 62
 DESCRIPTION:Zastosowanie metod numerycznych w procesachm technologicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
@@ -1554,7 +1554,7 @@ BEGIN:VEVENT
 DTSTART:20261025T104000Z
 DTEND:20261025T121500Z
 SUMMARY:Zmn (w)
-LOCATION:116/ 54
+LOCATION:8/ 62
 DESCRIPTION:Zastosowanie metod numerycznych w procesachm technologicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Moneta Grzegorz
 END:VEVENT
 BEGIN:VEVENT

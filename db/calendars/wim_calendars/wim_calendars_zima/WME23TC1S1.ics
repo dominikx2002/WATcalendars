@@ -298,6 +298,13 @@ LOCATION:
 DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 3/18
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261027T070000Z
+DTEND:20261027T083500Z
+SUMMARY:Sd. (S)
+LOCATION:6/ 23A
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/10\nProwadzący: dr Woźniak Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261215T070000Z
 DTEND:20261215T083500Z
 SUMMARY:SEzas. 
@@ -338,13 +345,6 @@ DTEND:20261013T092500Z
 SUMMARY:Zil. (w)
 LOCATION:2/ 23A
 DESCRIPTION:Zastosowanie informatyki w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Waśniewski Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T075000Z
-DTEND:20261020T092500Z
-SUMMARY:Sd. (S)
-LOCATION:1/ 21
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/10\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T085000Z

@@ -1089,13 +1089,6 @@ LOCATION:52/ 62
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr Mielnik Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T123000Z
-DTEND:20261201T140500Z
-SUMMARY:PZiP (ć)
-LOCATION:54/ 62
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Kożuch Artur Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
 SUMMARY:WF (ć)
@@ -1479,6 +1472,13 @@ DTEND:20261125T121500Z
 SUMMARY:TA (ć)
 LOCATION:
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: ppłk mgr Stępień Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T104000Z
+DTEND:20261202T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:301/ S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T104000Z

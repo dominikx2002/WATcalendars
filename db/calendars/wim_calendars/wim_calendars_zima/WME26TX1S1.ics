@@ -760,13 +760,6 @@ LOCATION:01/ 54A
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260126T104000Z
-DTEND:20260126T121500Z
-SUMMARY:Mat2 (ć)
-LOCATION:54/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: dr Prusińska Agnieszka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260202T104000Z
 DTEND:20260202T121500Z
 SUMMARY:Ez (Zp.)
@@ -918,7 +911,7 @@ DTSTART:20261117T150000Z
 DTEND:20261117T163500Z
 SUMMARY:Mat2 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T150000Z
@@ -932,28 +925,28 @@ DTSTART:20261201T150000Z
 DTEND:20261201T163500Z
 SUMMARY:Mat2 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T150000Z
 DTEND:20261208T163500Z
 SUMMARY:Mat2 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T150000Z
 DTEND:20261215T163500Z
 SUMMARY:Mat2 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T150000Z
 DTEND:20261222T163500Z
 SUMMARY:Mat2 (ć)
 LOCATION:55/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T150000Z
@@ -981,6 +974,13 @@ DTSTART:20260119T150000Z
 DTEND:20260119T163500Z
 SUMMARY:Mat2 (ć)
 LOCATION:9/ 62
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr Prusińska Agnieszka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T150000Z
+DTEND:20260126T163500Z
+SUMMARY:Mat2 (ć)
+LOCATION:8/ 62
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
