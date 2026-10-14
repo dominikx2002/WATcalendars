@@ -1061,6 +1061,13 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 1/12
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261117T150000Z
+DTEND:20261117T163500Z
+SUMMARY:IpKN (w)
+LOCATION:1/ 19
+DESCRIPTION:Infrastruktura paliwowa kraju i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: mgr inż. Szpak Roman
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261124T150000Z
 DTEND:20261124T163500Z
 SUMMARY:F2 (ć)
@@ -1161,9 +1168,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T060000Z
 DTEND:20261014T073500Z
-SUMMARY:IpKN (w)
-LOCATION:1/ 19
-DESCRIPTION:Infrastruktura paliwowa kraju i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: mgr inż. Szpak Roman
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T060000Z
@@ -1280,16 +1287,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
 DTEND:20261014T092500Z
-SUMMARY:IpKN (w)
-LOCATION:1/ 19
-DESCRIPTION:Infrastruktura paliwowa kraju i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: mgr inż. Szpak Roman
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
 SUMMARY:IpKN (w)
 LOCATION:5/ 19
-DESCRIPTION:Infrastruktura paliwowa kraju i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: mgr inż. Szpak Roman
+DESCRIPTION:Infrastruktura paliwowa kraju i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
@@ -1387,7 +1394,7 @@ DTSTART:20260127T085000Z
 DTEND:20260127T102500Z
 SUMMARY:IpKN (w)
 LOCATION:5/ 19
-DESCRIPTION:Infrastruktura paliwowa kraju i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: mgr inż. Szpak Roman
+DESCRIPTION:Infrastruktura paliwowa kraju i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T085000Z
@@ -1409,6 +1416,13 @@ DTEND:20260217T102500Z
 SUMMARY:Mkm2 (Ep)
 LOCATION:01/ 54A
 DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Karczewski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T094000Z
+DTEND:20261014T111500Z
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T094000Z
@@ -1530,6 +1544,13 @@ LOCATION:01/ 54A
 DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261014T113000Z
+DTEND:20261014T130500Z
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261021T113000Z
 DTEND:20261021T130500Z
 SUMMARY:Mkm2 (w)
@@ -1625,7 +1646,7 @@ DTSTART:20261028T150000Z
 DTEND:20261028T163500Z
 SUMMARY:IpKN (w)
 LOCATION:1/ 19
-DESCRIPTION:Infrastruktura paliwowa kraju i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: mgr inż. Szpak Roman
+DESCRIPTION:Infrastruktura paliwowa kraju i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T150000Z
@@ -2087,7 +2108,7 @@ DTSTART:20261112T104000Z
 DTEND:20261112T121500Z
 SUMMARY:IpKN (w)
 LOCATION:1/ 19
-DESCRIPTION:Infrastruktura paliwowa kraju i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: mgr inż. Szpak Roman
+DESCRIPTION:Infrastruktura paliwowa kraju i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z
@@ -2298,6 +2319,13 @@ DTEND:20261008T153500Z
 SUMMARY:SzS (ć)
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T140000Z
+DTEND:20261022T153500Z
+SUMMARY:IpKN (w)
+LOCATION:5/ 19
+DESCRIPTION:Infrastruktura paliwowa kraju i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T150000Z

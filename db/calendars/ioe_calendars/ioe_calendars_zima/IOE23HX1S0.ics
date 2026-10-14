@@ -179,13 +179,6 @@ LOCATION:47 63
 DESCRIPTION:Automatyka i robotyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: mgr inż. Rudzik Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T092500Z
-SUMMARY:TSB (L)
-LOCATION:2.10/ 54A
-DESCRIPTION:Technologie systemów bezzałogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr inż. Strzeżysz Olga
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:AiR (w)
@@ -211,14 +204,14 @@ DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:TSB (L)
 LOCATION:2.10/ 54A
-DESCRIPTION:Technologie systemów bezzałogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Strzeżysz Olga
+DESCRIPTION:Technologie systemów bezzałogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
 DTEND:20261201T102500Z
 SUMMARY:TSB (L)
 LOCATION:2.38/ 54A
-DESCRIPTION:Technologie systemów bezzałogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Technologie systemów bezzałogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T094000Z
@@ -268,6 +261,13 @@ DTEND:20261013T130500Z
 SUMMARY:AiR (w)
 LOCATION:106 36
 DESCRIPTION:Automatyka i robotyka\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: dr inż. Panasiuk Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T113000Z
+DTEND:20261020T130500Z
+SUMMARY:TSB (L)
+LOCATION:2.10/ 54A
+DESCRIPTION:Technologie systemów bezzałogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T123000Z

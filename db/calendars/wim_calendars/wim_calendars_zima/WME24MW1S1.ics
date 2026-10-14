@@ -1341,6 +1341,13 @@ LOCATION:
 DESCRIPTION:Pms\nRodzaj zajęć: -\nNumer zajęć: 2/35
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261014T094000Z
+DTEND:20261014T111500Z
+SUMMARY:App (L)
+LOCATION:7/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261021T094000Z
 DTEND:20261021T111500Z
 SUMMARY:Tpt (w)
@@ -1444,13 +1451,6 @@ DTEND:20260210T121500Z
 SUMMARY:Pms 
 LOCATION:
 DESCRIPTION:Pms\nRodzaj zajęć: -\nNumer zajęć: 3/35
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261014T113000Z
-DTEND:20261014T130500Z
-SUMMARY:App (L)
-LOCATION:7/ 23A; 5/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T123000Z

@@ -1110,6 +1110,13 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 11/223
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261117T150000Z
+DTEND:20261117T163500Z
+SUMMARY:BeS (L)
+LOCATION:7/ 23A
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261222T150000Z
 DTEND:20261222T163500Z
 SUMMARY:Zms1 (w)
@@ -1563,6 +1570,13 @@ DTEND:20261021T130500Z
 SUMMARY:IEPT. (w)
 LOCATION:9/ 62
 DESCRIPTION:Introduction to elasticity and plasticity theory\nRodzaj zajęć: Wykład\nNumer zajęć: 8/16\nProwadzący: dr inż. Morka Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
+SUMMARY:BeS (L)
+LOCATION:7/ 23A
+DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T123000Z
@@ -2846,13 +2860,6 @@ LOCATION:8/ 62
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261113T085000Z
-DTEND:20261113T102500Z
-SUMMARY:BeS (L)
-LOCATION:7/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261120T085000Z
 DTEND:20261120T102500Z
 SUMMARY:REZ 
@@ -3117,13 +3124,6 @@ DTEND:20261106T121500Z
 SUMMARY:PUwMAN (w)
 LOCATION:8/ 62
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Świerczewski Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261113T104000Z
-DTEND:20261113T121500Z
-SUMMARY:BeS (L)
-LOCATION:7/ 23A
-DESCRIPTION:Badania eksperymentalne samochodów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T104000Z

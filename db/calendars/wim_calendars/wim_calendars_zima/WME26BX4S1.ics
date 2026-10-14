@@ -991,20 +991,6 @@ LOCATION:301/ S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T150000Z
-DTEND:20261027T163500Z
-SUMMARY:PZiP (ć)
-LOCATION:3/ 54
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261103T150000Z
-DTEND:20261103T163500Z
-SUMMARY:PZiP (ć)
-LOCATION:3/ 54
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T150000Z
 DTEND:20261110T163500Z
 SUMMARY:REZ 
@@ -1422,7 +1408,7 @@ DTSTART:20260113T104000Z
 DTEND:20260113T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T104000Z
@@ -1499,7 +1485,7 @@ DTSTART:20261216T123000Z
 DTEND:20261216T140500Z
 SUMMARY:PZiP (ć)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T123000Z
@@ -1590,7 +1576,7 @@ DTSTART:20261118T150000Z
 DTEND:20261118T163500Z
 SUMMARY:PZiP (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T150000Z
@@ -1618,7 +1604,7 @@ DTSTART:20260120T150000Z
 DTEND:20260120T163500Z
 SUMMARY:PZiP (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T150000Z
@@ -1733,6 +1719,13 @@ LOCATION:120/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261126T070000Z
+DTEND:20261126T083500Z
+SUMMARY:PZiP (ć)
+LOCATION:51/ 62
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261224T070000Z
 DTEND:20261224T083500Z
 SUMMARY:I 
@@ -1801,6 +1794,13 @@ DTEND:20261126T102500Z
 SUMMARY:WDM (ć)
 LOCATION:2/ 68
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T085000Z
+DTEND:20261217T102500Z
+SUMMARY:PZiP (ć)
+LOCATION:3/ 54
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T085000Z

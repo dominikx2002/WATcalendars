@@ -991,18 +991,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 28/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T060000Z
-DTEND:20261021T073500Z
-SUMMARY:PGI (w)
-LOCATION:01/ 54A
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261104T070000Z
 DTEND:20261104T083500Z
 SUMMARY:PGI (w)
 LOCATION:01/ 54A
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T070000Z
@@ -1087,6 +1080,13 @@ DTEND:20261021T092500Z
 SUMMARY:WDM (w)
 LOCATION:01/ 54A
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr inż. Boruta Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:PGI (w)
+LOCATION:01/ 54A
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
