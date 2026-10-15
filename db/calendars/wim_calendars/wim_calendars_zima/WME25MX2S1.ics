@@ -186,25 +186,11 @@ LOCATION:aula/ 135
 DESCRIPTION:Statystyka inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260201T085000Z
-DTEND:20260201T102500Z
-SUMMARY:Mt 
-LOCATION:52/ 62
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 1/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260208T085000Z
 DTEND:20260208T102500Z
 SUMMARY:Tw1 (Zp/lab.)
 LOCATION:6/ 21; 9/ 21; 10/ 21; 17a/ 21; 17b/ 21
 DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: (Zp/lab.)\nNumer zajęć: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T085000Z
-DTEND:20260215T102500Z
-SUMMARY:Mt 
-LOCATION:52/ 62
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 2/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T094000Z
@@ -309,7 +295,7 @@ DTSTART:20260125T104000Z
 DTEND:20260125T121500Z
 SUMMARY:Mt 
 LOCATION:6/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 3/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 1/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260201T104000Z
@@ -806,7 +792,7 @@ DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:Mt 
 LOCATION:5/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 4/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 2/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
@@ -1023,7 +1009,7 @@ DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
 SUMMARY:Mt 
 LOCATION:5/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 5/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 3/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T123000Z
@@ -1373,7 +1359,7 @@ DTSTART:20261223T085000Z
 DTEND:20261223T102500Z
 SUMMARY:Mt 
 LOCATION:6/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 6/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 4/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T085000Z
@@ -1401,7 +1387,7 @@ DTSTART:20260120T085000Z
 DTEND:20260120T102500Z
 SUMMARY:Mt 
 LOCATION:6/ 23A
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 7/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 5/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T085000Z
@@ -1411,11 +1397,25 @@ LOCATION:01/ 54A
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260203T085000Z
+DTEND:20260203T102500Z
+SUMMARY:Mt 
+LOCATION:52/ 62
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 6/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260210T085000Z
 DTEND:20260210T102500Z
 SUMMARY:Pms 
 LOCATION:
 DESCRIPTION:Pms\nRodzaj zajęć: -\nNumer zajęć: 2/35
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T085000Z
+DTEND:20260217T102500Z
+SUMMARY:Mt 
+LOCATION:9/ 62
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 7/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T094000Z

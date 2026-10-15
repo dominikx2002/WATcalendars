@@ -158,6 +158,13 @@ LOCATION:5/ 19
 DESCRIPTION:Bazy i stacje paliw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261116T085000Z
+DTEND:20261116T102500Z
+SUMMARY:OwL (ć)
+LOCATION:6/ 23A
+DESCRIPTION:Opakowania w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Oziębło Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261123T085000Z
 DTEND:20261123T102500Z
 SUMMARY:PeUT (ć)
@@ -953,7 +960,7 @@ DTSTART:20261013T113000Z
 DTEND:20261013T130500Z
 SUMMARY:OwL (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Opakowania w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Oziębło Małgorzata
+DESCRIPTION:Opakowania w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T113000Z
@@ -967,7 +974,7 @@ DTSTART:20261027T123000Z
 DTEND:20261027T140500Z
 SUMMARY:OwL (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Opakowania w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Oziębło Małgorzata
+DESCRIPTION:Opakowania w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T123000Z
@@ -989,6 +996,13 @@ DTEND:20261124T140500Z
 SUMMARY:GmP. (w)
 LOCATION:5/ 19
 DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Wykład\nNumer zajęć: 12/18\nProwadzący: mgr inż. Wójcik Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T123000Z
+DTEND:20261201T140500Z
+SUMMARY:SpS (i)
+LOCATION:
+DESCRIPTION:Spotkanie z opiekunem specjalności\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Dziobek Ilona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T123000Z
@@ -1465,13 +1479,6 @@ DTEND:20261014T130500Z
 SUMMARY:Ptpr (ć)
 LOCATION:5/ 19
 DESCRIPTION:Podstawy technologii przeróbki ropy naftowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż. Kałdoński Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261104T123000Z
-DTEND:20261104T140500Z
-SUMMARY:OwL (ć)
-LOCATION:3/ 54
-DESCRIPTION:Opakowania w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T123000Z
