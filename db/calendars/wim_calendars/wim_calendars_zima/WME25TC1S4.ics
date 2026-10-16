@@ -291,18 +291,18 @@ LOCATION:3/ 23A
 DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261116T104000Z
-DTEND:20261116T121500Z
-SUMMARY:UL. (ć)
-LOCATION:8/ 16
-DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Sobczak Iwona
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261123T104000Z
 DTEND:20261123T121500Z
 SUMMARY:UL. (w)
 LOCATION:3/ 23A
 DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr Sobczak Iwona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T104000Z
+DTEND:20261130T121500Z
+SUMMARY:UL. (ć)
+LOCATION:6/ 16
+DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T104000Z
@@ -396,6 +396,13 @@ LOCATION:7/ 16
 DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261102T123000Z
+DTEND:20261102T140500Z
+SUMMARY:UL. (ć)
+LOCATION:7/ 23A
+DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr Sobczak Iwona
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261123T123000Z
 DTEND:20261123T140500Z
 SUMMARY:Eurm (w)
@@ -407,14 +414,14 @@ DTSTART:20261130T123000Z
 DTEND:20261130T140500Z
 SUMMARY:UL. (ć)
 LOCATION:6/ 16
-DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr Sobczak Iwona
+DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T123000Z
 DTEND:20261214T140500Z
 SUMMARY:UL. (ć)
 LOCATION:7/ 16
-DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr Sobczak Iwona
+DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T123000Z
@@ -666,7 +673,7 @@ DTSTART:20261208T070000Z
 DTEND:20261208T083500Z
 SUMMARY:UL. (ć)
 LOCATION:8/ 16
-DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr Sobczak Iwona
+DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T070000Z
@@ -925,7 +932,7 @@ DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
 SUMMARY:UL. (ć)
 LOCATION:8/ 16
-DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr Sobczak Iwona
+DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T123000Z
@@ -933,13 +940,6 @@ DTEND:20261027T140500Z
 SUMMARY:PUwMAN (L)
 LOCATION:7/ 62
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/15\nProwadzący: dr inż. Świerczewski Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261103T123000Z
-DTEND:20261103T140500Z
-SUMMARY:UL. (ć)
-LOCATION:8/ 16
-DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T123000Z

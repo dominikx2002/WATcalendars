@@ -1047,6 +1047,13 @@ LOCATION:9/ 54; 18/ 54
 DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261208T123000Z
+DTEND:20261208T140500Z
+SUMMARY:SpO (i)
+LOCATION:01/ 54A
+DESCRIPTION:Spotkanie z opiekunem rocznika\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:Mt 
