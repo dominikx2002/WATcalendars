@@ -1201,6 +1201,13 @@ LOCATION:8/ 62
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:PZiP (ć)
+LOCATION:2/ 68
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Panek Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261223T085000Z
 DTEND:20261223T102500Z
 SUMMARY:Mat2 (ć)
@@ -1807,14 +1814,14 @@ DTSTART:20261112T104000Z
 DTEND:20261112T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:5/ 19
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Panek Joanna
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:5/ 19
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. Panek Joanna
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z
@@ -1896,13 +1903,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T123000Z
 DTEND:20261029T140500Z
-SUMMARY:PZiP (ć)
-LOCATION:5/ 19
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. Panek Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T123000Z
-DTEND:20261105T140500Z
 SUMMARY:PZiP (ć)
 LOCATION:5/ 19
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. Panek Joanna

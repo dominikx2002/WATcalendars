@@ -144,13 +144,6 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: prof. dr hab. inż. Parka Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261114T070000Z
-DTEND:20261114T083500Z
-SUMMARY:MiTwBM (w)
-LOCATION:1/ 21
-DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Napadłek Wojciech
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261121T070000Z
 DTEND:20261121T083500Z
 SUMMARY:Pe,f (ć)
@@ -170,6 +163,13 @@ DTEND:20261205T083500Z
 SUMMARY:MiTwBM (ć)
 LOCATION:1/ 21
 DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr inż. Napadłek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T070000Z
+DTEND:20261212T083500Z
+SUMMARY:MiTwBM (w)
+LOCATION:1/ 21
+DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T070000Z
@@ -282,13 +282,6 @@ DTEND:20261107T102500Z
 SUMMARY:F2 (w)
 LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: prof. dr hab. inż. Parka Janusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261114T085000Z
-DTEND:20261114T102500Z
-SUMMARY:MiTwBM (w)
-LOCATION:1/ 21
-DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T085000Z
@@ -554,7 +547,7 @@ DTSTART:20261003T113000Z
 DTEND:20261003T130500Z
 SUMMARY:MiTwBM (w)
 LOCATION:1/ 21
-DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Napadłek Wojciech
+DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T113000Z
@@ -646,6 +639,13 @@ DTEND:20260102T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 26/98
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T123000Z
+DTEND:20260109T140500Z
+SUMMARY:MiTwBM (w)
+LOCATION:1/ 21
+DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T123000Z
@@ -909,9 +909,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T165000Z
 DTEND:20261212T182500Z
-SUMMARY:WzEE (ć)
-LOCATION:3/ 23A; 4/ 23A
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Sobczyk Zbigniew
+SUMMARY:MiTwBM (w)
+LOCATION:5/ 20
+DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T165000Z
@@ -1016,7 +1016,7 @@ DTSTART:20261107T184000Z
 DTEND:20261107T201500Z
 SUMMARY:MiTwBM (w)
 LOCATION:1/ 21
-DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Napadłek Wojciech
+DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T184000Z
@@ -1049,9 +1049,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T184000Z
 DTEND:20261212T201500Z
-SUMMARY:WzEE (ć)
-LOCATION:3/ 23A; 4/ 23A
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Sobczyk Zbigniew
+SUMMARY:MiTwBM (w)
+LOCATION:5/ 20
+DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T184000Z
@@ -1154,9 +1154,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T070000Z
 DTEND:20261115T083500Z
-SUMMARY:MiTwBM (w)
-LOCATION:1/ 21
-DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Napadłek Wojciech
+SUMMARY:WzEE (ć)
+LOCATION:3/ 23A; 4/ 23A
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T070000Z
@@ -1287,9 +1287,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T085000Z
 DTEND:20261115T102500Z
-SUMMARY:MiTwBM (w)
-LOCATION:1/ 21
-DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Napadłek Wojciech
+SUMMARY:WzEE (ć)
+LOCATION:3/ 23A; 4/ 23A
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T085000Z

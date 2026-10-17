@@ -298,6 +298,13 @@ LOCATION:
 DESCRIPTION:TAKTYKA 57\nRodzaj zajęć: -\nProwadzący: ppłk mgr Stępień Jacek 58
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260111T123000Z
+DTEND:20260111T140500Z
+SUMMARY:PGI 
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej 37\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 38
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260125T123000Z
 DTEND:20260125T140500Z
 SUMMARY:REG 
@@ -893,13 +900,6 @@ LOCATION:
 DESCRIPTION:Podstawy grafiki inżynierskiej 37\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 38
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:WDM 
-LOCATION:
-DESCRIPTION:Wprowadzenie do metrologii 73\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kuchta Marek 74
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261203T070000Z
 DTEND:20261203T083500Z
 SUMMARY:WF 
@@ -963,13 +963,6 @@ LOCATION:
 DESCRIPTION:Podstawy grafiki inżynierskiej 37\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 38
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T104000Z
-DTEND:20261119T121500Z
-SUMMARY:PGI 
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej 37\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 38
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
 SUMMARY:INAU 
@@ -1026,6 +1019,13 @@ LOCATION:
 DESCRIPTION:Inauguracja R.A. 10\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261105T165000Z
+DTEND:20261105T182500Z
+SUMMARY:PGI 
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej 37\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 38
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261001T174000Z
 DTEND:20261001T191500Z
 SUMMARY:INAU 
@@ -1038,6 +1038,13 @@ DTEND:20261002T073500Z
 SUMMARY:GD 
 LOCATION:
 DESCRIPTION:Godziny dyspozycyjne 4\nRodzaj zajęć: -\nProwadzący: dr inż. Bugaj Jarosław 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T070000Z
+DTEND:20261106T083500Z
+SUMMARY:WDM 
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii 73\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kuchta Marek 74
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T094000Z
@@ -1126,13 +1133,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T123000Z
 DTEND:20261113T140500Z
-SUMMARY:PGI 
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej 37\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 38
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261204T123000Z
-DTEND:20261204T140500Z
 SUMMARY:PGI 
 LOCATION:
 DESCRIPTION:Podstawy grafiki inżynierskiej 37\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 38

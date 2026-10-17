@@ -403,6 +403,13 @@ LOCATION:1557
 DESCRIPTION:Topografia wojskowa 56\nRodzaj zajęć: -\nProwadzący: mgr inż. Gołoś Kazimierz 57
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261201T085000Z
+DTEND:20261201T102500Z
+SUMMARY:PGI 
+LOCATION:11645
+DESCRIPTION:Podstawy grafiki inżynierskiej 36\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 37
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261006T094000Z
 DTEND:20261006T111500Z
 SUMMARY:WEL 
@@ -821,13 +828,6 @@ DTEND:20260121T121500Z
 SUMMARY:HP 
 LOCATION:11945
 DESCRIPTION:Historia Polski 7\nRodzaj zajęć: -\nProwadzący: dr Pulik Paweł 8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T113000Z
-DTEND:20261022T130500Z
-SUMMARY:PGI 
-LOCATION:10880
-DESCRIPTION:Podstawy grafiki inżynierskiej 36\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T150000Z

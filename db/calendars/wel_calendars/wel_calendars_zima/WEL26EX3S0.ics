@@ -830,13 +830,6 @@ LOCATION:11945
 DESCRIPTION:Wprowadzenie do metrologii 73\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kuchta Marek 74
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:PGI 
-LOCATION:11747
-DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261126T070000Z
 DTEND:20261126T083500Z
 SUMMARY:PGI 
@@ -886,13 +879,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne 78\nRodzaj zajęć: -\nProwadzący: mgr Włodek Janusz 79
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T085000Z
-DTEND:20261119T102500Z
-SUMMARY:WF 
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne 78\nRodzaj zajęć: -\nProwadzący: mgr Włodek Janusz 79
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260128T085000Z
 DTEND:20260128T102500Z
 SUMMARY:WDM 
@@ -923,13 +909,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T104000Z
 DTEND:20261112T121500Z
-SUMMARY:PGI 
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T104000Z
-DTEND:20261119T121500Z
 SUMMARY:PGI 
 LOCATION:
 DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39
@@ -998,11 +977,32 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne 78\nRodzaj zajęć: -\nProwadzący: mgr Włodek Janusz 79
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261210T150000Z
+DTEND:20261210T163500Z
+SUMMARY:PGI 
+LOCATION:11747
+DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T150000Z
+DTEND:20260107T163500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne 78\nRodzaj zajęć: -\nProwadzący: mgr Włodek Janusz 79
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261001T155000Z
 DTEND:20261001T172500Z
 SUMMARY:INAU 
 LOCATION:
 DESCRIPTION:Inauguracja R.A. 10\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T165000Z
+DTEND:20261105T182500Z
+SUMMARY:PGI 
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T174000Z
