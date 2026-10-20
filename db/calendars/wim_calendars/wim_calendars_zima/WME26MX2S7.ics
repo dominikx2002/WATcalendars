@@ -648,39 +648,32 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 20/129
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
-SUMMARY:FVNM (w)
-LOCATION:56/ 62
-DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Sławiński Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T123000Z
 DTEND:20261027T140500Z
 SUMMARY:FVNM (w)
 LOCATION:56/ 62
-DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
 SUMMARY:FVNM (w)
 LOCATION:56/ 62
-DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T123000Z
 DTEND:20261110T140500Z
 SUMMARY:FVNM (w)
 LOCATION:56/ 62
-DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T123000Z
 DTEND:20261117T140500Z
 SUMMARY:FVNM (w)
 LOCATION:56/ 62
-DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T123000Z
@@ -1052,6 +1045,13 @@ DTEND:20261209T140500Z
 SUMMARY:FMD 
 LOCATION:43/ 54A
 DESCRIPTION:FMD\nRodzaj zajęć: -\nNumer zajęć: 18/18\nProwadzący: dr inż. Torzewski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T123000Z
+DTEND:20261216T140500Z
+SUMMARY:FVNM (w)
+LOCATION:56/ 62
+DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z

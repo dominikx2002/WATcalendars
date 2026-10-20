@@ -1474,6 +1474,13 @@ LOCATION:21/ 54; 3/ 54
 DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:Tou1 (ć)
+LOCATION:116/ 54
+DESCRIPTION:Technologia obróbki ubytkowej 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261223T123000Z
 DTEND:20261223T140500Z
 SUMMARY:Opcc (ć)
@@ -1793,7 +1800,7 @@ DTSTART:20261217T085000Z
 DTEND:20261217T102500Z
 SUMMARY:Tou1 (ć)
 LOCATION:109/ 54
-DESCRIPTION:Technologia obróbki ubytkowej 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
+DESCRIPTION:Technologia obróbki ubytkowej 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T085000Z
@@ -2045,7 +2052,7 @@ DTSTART:20260114T123000Z
 DTEND:20260114T140500Z
 SUMMARY:Tou1 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Technologia obróbki ubytkowej 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
+DESCRIPTION:Technologia obróbki ubytkowej 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T123000Z
@@ -2079,7 +2086,7 @@ BEGIN:VEVENT
 DTSTART:20261022T140000Z
 DTEND:20261022T153500Z
 SUMMARY:App (L)
-LOCATION:7/ 23A; 5/ 23A
+LOCATION:5/ 23A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
@@ -2088,13 +2095,6 @@ DTEND:20261029T163500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 14/237
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T150000Z
-DTEND:20261105T163500Z
-SUMMARY:Tou1 (ć)
-LOCATION:120/ 54
-DESCRIPTION:Technologia obróbki ubytkowej 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T150000Z

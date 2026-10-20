@@ -1166,13 +1166,6 @@ LOCATION:01/ 54A
 DESCRIPTION:Opakowania w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T060000Z
-DTEND:20261021T073500Z
-SUMMARY:Bisp (w)
-LOCATION:5/ 19
-DESCRIPTION:Bazy i stacje paliw\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: mgr inż. Szpak Roman
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261028T070000Z
 DTEND:20261028T083500Z
 SUMMARY:Sp* (w)
@@ -1282,7 +1275,7 @@ DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
 SUMMARY:Bisp (w)
 LOCATION:1/ 19
-DESCRIPTION:Bazy i stacje paliw\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: mgr inż. Szpak Roman
+DESCRIPTION:Bazy i stacje paliw\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
@@ -1479,6 +1472,13 @@ DTEND:20261014T130500Z
 SUMMARY:Ptpr (ć)
 LOCATION:5/ 19
 DESCRIPTION:Podstawy technologii przeróbki ropy naftowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż. Kałdoński Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T123000Z
+DTEND:20261104T140500Z
+SUMMARY:Bisp (w)
+LOCATION:14/ 19
+DESCRIPTION:Bazy i stacje paliw\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T123000Z

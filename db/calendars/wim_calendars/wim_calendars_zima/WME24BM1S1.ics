@@ -1649,25 +1649,18 @@ LOCATION:6/ 23A
 DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T094000Z
-DTEND:20261021T111500Z
-SUMMARY:Tmf (w)
-LOCATION:6/ 23A
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261028T104000Z
 DTEND:20261028T121500Z
 SUMMARY:Tmf (w)
 LOCATION:6/ 23A
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T104000Z
 DTEND:20261104T121500Z
 SUMMARY:Tmf (w)
 LOCATION:6/ 23A
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T104000Z
@@ -1702,7 +1695,7 @@ DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
 SUMMARY:Tmf (w)
 LOCATION:6/ 23A
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T104000Z
@@ -1737,7 +1730,7 @@ DTSTART:20260127T104000Z
 DTEND:20260127T121500Z
 SUMMARY:Tmf (w)
 LOCATION:6/ 23A
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T104000Z
@@ -1793,21 +1786,21 @@ DTSTART:20261118T123000Z
 DTEND:20261118T140500Z
 SUMMARY:Tmf (w)
 LOCATION:6/ 23A
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T123000Z
 DTEND:20261125T140500Z
 SUMMARY:Tmf (w)
 LOCATION:6/ 23A
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
 SUMMARY:Tmf (w)
 LOCATION:6/ 23A
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T123000Z
@@ -1843,6 +1836,13 @@ DTEND:20260106T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 40/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T123000Z
+DTEND:20260113T140500Z
+SUMMARY:Tmf (w)
+LOCATION:6/ 23A
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T123000Z

@@ -501,6 +501,13 @@ LOCATION:01/ 54A
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261026T150000Z
+DTEND:20261026T163500Z
+SUMMARY:ITr (w)
+LOCATION:8/ 62
+DESCRIPTION:Infrastruktura transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/12\nProwadzący: dr inż. Wieczorek Marcin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T150000Z
 DTEND:20261109T163500Z
 SUMMARY:Mt 
@@ -512,7 +519,14 @@ DTSTART:20261116T150000Z
 DTEND:20261116T163500Z
 SUMMARY:ITr (w)
 LOCATION:52/ 62
-DESCRIPTION:Infrastruktura transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/12\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Infrastruktura transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/12\nProwadzący: dr inż. Wieczorek Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T150000Z
+DTEND:20261123T163500Z
+SUMMARY:Wog (ć)
+LOCATION:2/ 23A
+DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T150000Z
@@ -596,7 +610,7 @@ DTSTART:20261020T060000Z
 DTEND:20261020T073500Z
 SUMMARY:ITr (w)
 LOCATION:54/ 62
-DESCRIPTION:Infrastruktura transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/12\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Infrastruktura transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T070000Z
@@ -659,7 +673,7 @@ DTSTART:20261222T070000Z
 DTEND:20261222T083500Z
 SUMMARY:Wog (ć)
 LOCATION:2/ 23A
-DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T070000Z
@@ -771,7 +785,7 @@ DTSTART:20261222T085000Z
 DTEND:20261222T102500Z
 SUMMARY:Wog (ć)
 LOCATION:2/ 23A
-DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T085000Z
@@ -1086,7 +1100,7 @@ DTSTART:20261013T140000Z
 DTEND:20261013T153500Z
 SUMMARY:ITr (w)
 LOCATION:54/ 62
-DESCRIPTION:Infrastruktura transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Infrastruktura transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T140000Z
@@ -1115,6 +1129,13 @@ DTEND:20261110T163500Z
 SUMMARY:SpS (i)
 LOCATION:15/ 23A
 DESCRIPTION:Spotkanie z opiekunem specjalności\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: kpt. mgr inż. Żmuda Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T150000Z
+DTEND:20261117T163500Z
+SUMMARY:Tw1 (ć)
+LOCATION:5/ 23A
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T150000Z
@@ -1177,7 +1198,7 @@ DTSTART:20260119T150000Z
 DTEND:20260119T163500Z
 SUMMARY:ITr (w)
 LOCATION:55/ 62
-DESCRIPTION:Infrastruktura transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Infrastruktura transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T165000Z
@@ -1233,21 +1254,21 @@ DTSTART:20261014T060000Z
 DTEND:20261014T073500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T060000Z
 DTEND:20261021T073500Z
 SUMMARY:ITr (w)
-LOCATION:54/ 62
-DESCRIPTION:Infrastruktura transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr inż. Wieczorek Marcin
+LOCATION:2/ 23A
+DESCRIPTION:Infrastruktura transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T070000Z
 DTEND:20261028T083500Z
-SUMMARY:ITr (w)
-LOCATION:54/ 62
-DESCRIPTION:Infrastruktura transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr inż. Wieczorek Marcin
+SUMMARY:ZŻWAT (ć)
+LOCATION:
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
@@ -1266,9 +1287,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
-SUMMARY:Tw1 (ć)
-LOCATION:1/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
+SUMMARY:ZŻWAT (ć)
+LOCATION:
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T070000Z
@@ -1285,11 +1306,18 @@ LOCATION:2/ 23A
 DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T070000Z
+DTEND:20261209T083500Z
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/16
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
-SUMMARY:Wog (ć)
-LOCATION:2/ 23A
-DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Kalwasiński Marek
+SUMMARY:ZŻWAT (ć)
+LOCATION:
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
@@ -1311,6 +1339,13 @@ DTEND:20260106T083500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 31/147
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T070000Z
+DTEND:20260113T083500Z
+SUMMARY:ZŻWAT (ć)
+LOCATION:
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T070000Z
@@ -1338,35 +1373,35 @@ DTSTART:20260310T070000Z
 DTEND:20260310T083500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T070000Z
 DTEND:20260324T083500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T060000Z
 DTEND:20260602T073500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T060000Z
 DTEND:20260616T073500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
 DTEND:20261014T092500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
@@ -1409,6 +1444,13 @@ DTEND:20261202T102500Z
 SUMMARY:Wog (w)
 LOCATION:2/ 23A
 DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T085000Z
+DTEND:20261209T102500Z
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -1478,21 +1520,21 @@ DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T075000Z
 DTEND:20260602T092500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T094000Z
 DTEND:20261014T111500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T094000Z
@@ -1544,6 +1586,13 @@ LOCATION:1/ 21
 DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T104000Z
+DTEND:20261209T121500Z
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/16
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T104000Z
 DTEND:20261216T121500Z
 SUMMARY:SoM1 (ć)
@@ -1590,14 +1639,14 @@ DTSTART:20260310T104000Z
 DTEND:20260310T121500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T113000Z
@@ -1611,7 +1660,7 @@ DTSTART:20261014T113000Z
 DTEND:20261014T130500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T113000Z
@@ -1661,6 +1710,13 @@ DTEND:20261202T140500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T123000Z
@@ -1716,14 +1772,14 @@ DTSTART:20260310T123000Z
 DTEND:20260310T140500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T113000Z
 DTEND:20260602T130500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T150000Z
@@ -3536,7 +3592,7 @@ DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T060000Z

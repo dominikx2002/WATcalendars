@@ -25,13 +25,6 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261102T070000Z
-DTEND:20261102T083500Z
-SUMMARY:DSiSM (w)
-LOCATION:3/043
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261109T070000Z
 DTEND:20261109T083500Z
 SUMMARY:GMiB (w)
@@ -470,7 +463,7 @@ DTSTART:20261005T140000Z
 DTEND:20261005T153500Z
 SUMMARY:DSiSM (w)
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T150000Z
@@ -1394,7 +1387,14 @@ DTSTART:20261014T060000Z
 DTEND:20261014T073500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:DSiSM (w)
+LOCATION:3/043
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T070000Z
@@ -1429,7 +1429,7 @@ DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T070000Z
@@ -1534,7 +1534,7 @@ DTSTART:20261014T075000Z
 DTEND:20261014T092500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T075000Z
@@ -1577,6 +1577,13 @@ DTEND:20261125T102500Z
 SUMMARY:Epw (ć)
 LOCATION:5/ 20
 DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Koliński Kazimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T085000Z
+DTEND:20261209T102500Z
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -1653,7 +1660,7 @@ DTSTART:20261014T094000Z
 DTEND:20261014T111500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T094000Z
@@ -1689,6 +1696,13 @@ DTEND:20261125T121500Z
 SUMMARY:Brd (ć)
 LOCATION:5/ 23A
 DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T104000Z
+DTEND:20261209T121500Z
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T104000Z
@@ -1772,7 +1786,7 @@ DTSTART:20261014T113000Z
 DTEND:20261014T130500Z
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T113000Z
@@ -1822,6 +1836,13 @@ DTEND:20261202T140500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T123000Z
