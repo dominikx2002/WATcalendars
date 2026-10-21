@@ -132,8 +132,8 @@
     },
     {
       "degree": "dr",
-      "is_new": true,
-      "name": "Barbora Korekáčová [NEW]"
+      "is_new": false,
+      "name": "Barbora Korekáčová"
     },
     {
       "degree": "dr",
@@ -652,8 +652,8 @@
     },
     {
       "degree": "dr",
-      "is_new": true,
-      "name": "Sayani Das [NEW]"
+      "is_new": false,
+      "name": "Sayani Das"
     },
     {
       "degree": "dr",
@@ -854,6 +854,11 @@
       "degree": "dr hab.",
       "is_new": false,
       "name": "Ewa Czuchry"
+    },
+    {
+      "degree": "dr hab.",
+      "is_new": true,
+      "name": "Ewa Wierzbicka [NEW]"
     },
     {
       "degree": "dr hab.",
@@ -1274,6 +1279,11 @@
       "degree": "dr hab. inż.",
       "is_new": false,
       "name": "Mariusz Zieja"
+    },
+    {
+      "degree": "dr hab. inż.",
+      "is_new": true,
+      "name": "Mateusz Mrukiewicz [NEW]"
     },
     {
       "degree": "dr hab. inż.",
@@ -6102,10 +6112,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T04:01:46.277438",
-    "last_updated_readable": "2026-10-20 04:01:46",
+    "last_updated": "2026-10-21T03:50:58.452204",
+    "last_updated_readable": "2026-10-21 03:50:58",
     "new_employees_count": 2,
     "scraper_version": "1.0",
-    "total_employees": 1220
+    "total_employees": 1222
   }
 }

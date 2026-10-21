@@ -1397,13 +1397,6 @@ LOCATION:
 DESCRIPTION:Zastosowania biomateriałów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Lewandowski Rafał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T060000Z
-DTEND:20261021T073500Z
-SUMMARY:Dso (w)
-LOCATION:
-DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261028T070000Z
 DTEND:20261028T083500Z
 SUMMARY:OPT (w)
@@ -1436,7 +1429,7 @@ DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:Dso (w)
 LOCATION:
-DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
+DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T070000Z
@@ -1457,14 +1450,14 @@ DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:Dso (w)
 LOCATION:
-DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
+DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:Dso (w)
 LOCATION:
-DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
+DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T070000Z
@@ -1527,7 +1520,7 @@ DTSTART:20261014T075000Z
 DTEND:20261014T092500Z
 SUMMARY:Dso (w)
 LOCATION:
-DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
+DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
@@ -1647,6 +1640,13 @@ DTEND:20261014T111500Z
 SUMMARY:Tmf (w)
 LOCATION:6/ 23A
 DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
+SUMMARY:Dso (w)
+LOCATION:
+DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T104000Z

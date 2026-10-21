@@ -781,13 +781,6 @@ LOCATION:6/ 23A
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T111500Z
-SUMMARY:Dp (w)
-LOCATION:42/ 20
-DESCRIPTION:Diagnostyka pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. Trawiński Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Par (w)
@@ -834,7 +827,7 @@ DTSTART:20261208T104000Z
 DTEND:20261208T121500Z
 SUMMARY:Dp (w)
 LOCATION:42/ 20
-DESCRIPTION:Diagnostyka pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Trawiński Grzegorz
+DESCRIPTION:Diagnostyka pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T104000Z
@@ -919,6 +912,13 @@ DTEND:20261103T140500Z
 SUMMARY:Ptr (w)
 LOCATION:6/ 23A
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T123000Z
+DTEND:20261110T140500Z
+SUMMARY:Dp (w)
+LOCATION:42/ 20
+DESCRIPTION:Diagnostyka pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T123000Z
