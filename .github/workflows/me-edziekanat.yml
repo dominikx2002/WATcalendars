@@ -1,0 +1,73 @@
+name: My e-Dziekanat calendar
+
+# Builds ONE study group's calendar from the e-Dziekanat, logged in as
+# the repo owner. Opt-in: does nothing unless EDZIEKANAT_USER /
+# EDZIEKANAT_PASS secrets and the ME_GROUP variable are set.
+#
+# Credentials live only as GitHub Actions secrets (masked in logs) and
+# are passed to watcal-me via the environment - never written to disk.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '35 4 * * *'   # 06:35 Europe/Warsaw (summer) / 05:35 (winter)
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Guard - required secrets/vars present
+        env:
+          HAVE_USER: ${{ secrets.EDZIEKANAT_USER != '' }}
+          HAVE_PASS: ${{ secrets.EDZIEKANAT_PASS != '' }}
+          GROUP: ${{ vars.ME_GROUP }}
+        run: |
+          if [ "$HAVE_USER" != "true" ] || [ "$HAVE_PASS" != "true" ] || [ -z "$GROUP" ]; then
+            echo "::notice::EDZIEKANAT_USER/PASS secrets or ME_GROUP var not set - skipping."
+            echo "skip=yes" >> "$GITHUB_OUTPUT"
+          fi
+        id: guard
+
+      - uses: actions/setup-python@v5
+        if: steps.guard.outputs.skip != 'yes'
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install project
+        if: steps.guard.outputs.skip != 'yes'
+        run: pip install -e .
+
+      - name: Build my group's calendar
+        if: steps.guard.outputs.skip != 'yes'
+        env:
+          WATCAL_ME_USER: ${{ secrets.EDZIEKANAT_USER }}
+          WATCAL_ME_PASS: ${{ secrets.EDZIEKANAT_PASS }}
+          GROUP: ${{ vars.ME_GROUP }}
+        run: watcal-me --verbose --group "$GROUP"
+
+      - name: Rebuild index
+        if: steps.guard.outputs.skip != 'yes'
+        run: watcal index || echo "::warning::index rebuild failed"
+
+      - name: Commit
+        if: steps.guard.outputs.skip != 'yes'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898699+github-actions[bot]@users.noreply.github.com'
+          git add db/calendars
+          if git diff --cached --quiet; then
+            echo "No change"; exit 0
+          fi
+          git commit -m "My e-Dziekanat calendar: ${{ vars.ME_GROUP }}"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep 8
+          done
+          echo "::error::push failed"; exit 1

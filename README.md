@@ -296,3 +296,51 @@ Kontakt: [serafin652002@gmail.com](mailto:serafin652002@gmail.com)
 
 MIT — [LICENSE](LICENSE). Dane rozkładów należą do Wojskowej Akademii
 Technicznej; ten projekt jedynie je przetwarza do formatu iCalendar.
+
+<br>
+
+## watcal-me — własny kalendarz z e-Dziekanatu (WCY)
+
+Odkąd `planzajec.wcy` jest za Impervą, planu WCY nie da się pobierać
+anonimowo. `watcal-me` loguje się Twoimi danymi do **e-Dziekanatu**
+(`s1.wcy.wat.edu.pl`) i czyta plan **Twojej grupy**. Plan grupy jest ten
+sam dla wszystkich w grupie, więc powstały `.ics` jest ważny dla całej
+grupy i można go wrzucić do wspólnego repo.
+
+**Dane logowania nigdy nie są zapisywane ani logowane** — idą tylko do
+e-Dziekanatu po HTTPS. Narzędzie bierze je z `WATCAL_ME_USER` /
+`WATCAL_ME_PASS` albo pyta w terminalu (`getpass`).
+
+```bash
+# interaktywnie (pyta o identyfikator i hasło)
+watcal-me --group WCY22KC2S0 --out moj_plan.ics
+
+# nieinteraktywnie (np. cron / Actions)
+export WATCAL_ME_USER="Imie Nazwisko"
+export WATCAL_ME_PASS="haslo"
+watcal-me --group WCY22KC2S0        # zapis do db/calendars/wcy_calendars/...
+```
+
+Jak przy scraperach wydziałów: jeśli logowanie się nie uda albo plan
+wyjdzie pusty, istniejący `.ics` **nie jest nadpisywany**.
+
+**Sale:** w domyślnym („uproszczonym”) widoku e-Dziekanatu numery sal są
+zakodowane niejednoznacznie, więc `LOCATION` zostaje pusty (lepiej pusto
+niż błędnie). Pełne sale wymagają widoku „dane pełne” — do dołożenia.
+
+### Automatyczna aktualizacja przez GitHub Actions
+
+e-Dziekanat jest osiągalny z serwerów GitHuba, więc kalendarz grupy może
+się odświeżać bez żadnego sprzętu. W **Twoim** repo:
+
+1. **Settings → Secrets and variables → Actions → Secrets:** dodaj
+   `EDZIEKANAT_USER` i `EDZIEKANAT_PASS` (Twoje dane do e-Dziekanatu).
+   Sekrety są zamaskowane w logach; to Twoje konto i Twoje repo.
+2. **Variables:** dodaj `ME_GROUP` = `WCY22KC2S0` (Twoja grupa).
+3. Workflow `.github/workflows/me-edziekanat.yml` odpala się codziennie
+   i commituje `WCY22KC2S0.ics`. Subskrybenci (Google/Apple Calendar)
+   dociągają nowy plik sami.
+
+Dla innych grup: każdy robi to **u siebie** (swój fork, swoje sekrety).
+Nikt nie oddaje nikomu hasła — zbieranie cudzych haseł do e-Dziekanatu na
+jednej stronie odpada (phishing + RODO).

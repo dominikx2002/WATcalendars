@@ -59,6 +59,7 @@ dev = ["pytest>=7.0"]
 #   watcal run all              groups + calendars
 #   watcal employees            refresh the USOSweb staff list
 watcal = "watcalendars.cli:main"
+watcal-me = "watcalendars.me.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
