@@ -11,6 +11,7 @@ import asyncio
 from typing import Dict, Optional, Sequence, Tuple
 
 from watcalendars.core.logging import DEBUG, ERROR, INFO, OK, WARNING, get_logger
+from watcalendars.fetch.guard import WafGuard, is_waf_block
 from watcalendars.fetch.http import decode
 
 log = get_logger()
@@ -39,10 +40,11 @@ async def _request(context, url, timeout=90000):
 
 
 async def _fetch_via_request(context, page, identifier, url):
+    """Returns (status, text or None)."""
     status, body = await _request(context, url)
     if status == 200:
         log.debug(f"{DEBUG} {identifier}: raw body {len(body)} bytes")
-        return decode(body)
+        return status, decode(body)
     if status == 404:
         # Worth shouting about: a seasonal faculty that has not published
         # this semester yet looks exactly like this.
@@ -50,9 +52,11 @@ async def _fetch_via_request(context, page, identifier, url):
             f"{WARNING} {identifier}: HTTP 404 - {url} does not exist "
             f"(semester not published, or the address changed?)"
         )
+    elif status == 403 and is_waf_block(status, body):
+        log.debug(f"{WARNING} {identifier}: HTTP 403, WAF block (Incapsula)")
     else:
         log.debug(f"{WARNING} {identifier}: HTTP {status} on direct request")
-    return None
+    return status, None
 
 
 async def _fetch_via_challenge(context, page, identifier, url):
@@ -85,6 +89,7 @@ async def _scrape_async(
     label: str,
     strategy: str,
     retries: int = 3,
+    guard: Optional[WafGuard] = None,
 ) -> Dict[str, Optional[str]]:
     from playwright.async_api import async_playwright
 
@@ -106,25 +111,43 @@ async def _scrape_async(
             nonlocal done
             identifier, url = item
             async with semaphore:
+                if guard is not None and guard.skip():
+                    async with lock:
+                        done += 1
+                        position = done
+                    results[identifier] = None
+                    log.debug(f"{DEBUG} [{position}/{total}] {identifier} skipped (WAF block)")
+                    return
+
                 page = await context.new_page()
                 html = None
                 try:
                     for attempt in range(1, retries + 1):
+                        if attempt > 1 and guard is not None and guard.tripped:
+                            break
                         try:
-                            html = await fetcher(context, page, identifier, url)
-                            if not html and attempt == 1:
+                            status, html = await fetcher(context, page, identifier, url)
+                            if guard is not None:
+                                guard.record(status)
+                            if not html and status == 403 and not (guard and guard.tripped):
                                 # Direct request refused - try clearing the
-                                # JS challenge once before giving up.
+                                # JS challenge once. That can turn a 403
+                                # around; a plain retry cannot.
                                 html = await _fetch_via_challenge(
                                     context, page, identifier, url
                                 )
-                            if html:
+                                if html and guard is not None:
+                                    guard.record(200)
+                            if html or status < 500:
+                                # Success, or 403/404/other client error:
+                                # final either way, retrying will not help.
                                 break
                             log.debug(
-                                f"{WARNING} {identifier}: empty result "
+                                f"{WARNING} {identifier}: HTTP {status} "
                                 f"(attempt {attempt}/{retries})"
                             )
                         except Exception as exc:
+                            # Timeouts, connection resets, browser hiccups.
                             log.debug(
                                 f"{WARNING} {identifier}: {exc} "
                                 f"(attempt {attempt}/{retries})"
@@ -151,7 +174,7 @@ async def _scrape_async(
     return results
 
 
-async def _download_async(pairs, concurrency, label, warmup_url=None):
+async def _download_async(pairs, concurrency, label, warmup_url=None, guard=None):
     from playwright.async_api import async_playwright
 
     results = {}
@@ -174,9 +197,15 @@ async def _download_async(pairs, concurrency, label, warmup_url=None):
 
         try:
             for index, (identifier, url) in enumerate(pairs, 1):
+                if guard is not None and guard.skip():
+                    results[identifier] = None
+                    log.debug(f"{DEBUG} [{index}/{total}] {identifier} skipped (WAF block)")
+                    continue
                 try:
                     response = await context.request.get(url, timeout=60000)
                     body = await response.body()
+                    if guard is not None:
+                        guard.record(response.status)
                     if response.status == 200 and body[:2] == b"PK":
                         results[identifier] = body
                         log.info(f"{OK} [{index}/{total}] {identifier} ({len(body)} bytes)")
@@ -194,9 +223,9 @@ async def _download_async(pairs, concurrency, label, warmup_url=None):
     return results
 
 
-def download_many(pairs, concurrency=1, label="Downloading", warmup_url=None):
+def download_many(pairs, concurrency=1, label="Downloading", warmup_url=None, guard=None):
     """Fetch binary documents (WIG's .docx) through the browser session."""
-    return asyncio.run(_download_async(pairs, concurrency, label, warmup_url))
+    return asyncio.run(_download_async(pairs, concurrency, label, warmup_url, guard))
 
 
 def fetch_many(
@@ -204,6 +233,7 @@ def fetch_many(
     concurrency: int = 10,
     label: str = "Fetching",
     strategy: str = "browser",
+    guard: Optional[WafGuard] = None,
 ) -> Dict[str, Optional[str]]:
     """Blocking wrapper so the pipeline does not care about asyncio."""
-    return asyncio.run(_scrape_async(pairs, concurrency, label, strategy))
+    return asyncio.run(_scrape_async(pairs, concurrency, label, strategy, guard=guard))

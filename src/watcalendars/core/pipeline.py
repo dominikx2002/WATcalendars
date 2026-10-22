@@ -28,6 +28,7 @@ from watcalendars.core.models import FacultySpec, Lesson
 from watcalendars.core.paths import cache_dir, ensure_dir
 from watcalendars.core.semester import current_semester
 from watcalendars.fetch import strategies
+from watcalendars.fetch.guard import FacultyBlocked, WafGuard
 from watcalendars.store import groups as groups_store
 from watcalendars.store import ics
 
@@ -87,7 +88,7 @@ def run_groups(spec: FacultySpec) -> Dict[str, str]:
         )
 
 
-def _fetch_documents(spec, pairs, label):
+def _fetch_documents(spec, pairs, label, guard=None):
     """Download .docx schedules; returns {group: local path}.
 
     Goes through the browser's session (the WIG site sits behind
@@ -98,7 +99,7 @@ def _fetch_documents(spec, pairs, label):
 
     target = ensure_dir(cache_dir(spec.code))
     warmup = spec.url_for("groups", None) if isinstance(spec.groups_url, str) else None
-    blobs = download_many(pairs, spec.concurrency, label, warmup_url=warmup)
+    blobs = download_many(pairs, spec.concurrency, label, warmup_url=warmup, guard=guard)
 
     results = {}
     for group, body in blobs.items():
@@ -116,7 +117,13 @@ def _fetch_documents(spec, pairs, label):
 
 
 def run_calendars(spec: FacultySpec) -> Dict[str, List[str]]:
-    """Fetch, parse and write .ics for every group of a faculty."""
+    """Fetch, parse and write .ics for every group of a faculty.
+
+    Whatever was fetched is written before giving up, then FacultyBlocked
+    is raised if the WAF guard tripped or nothing came back at all - a
+    partial scrape still updates the groups that got through, but the
+    faculty is reported as failed.
+    """
     with timed(f"{spec.code.upper()} calendars", tag=spec.code):
         semester = semester_for(spec)
         _log_spec(spec, semester)
@@ -131,17 +138,29 @@ def run_calendars(spec: FacultySpec) -> Dict[str, List[str]]:
         log.info(f"{INFO} Groups to process: {len(pairs)}")
         log.debug(f"{DEBUG} First URL: {pairs[0][1]}")
         label = f"Scraping {spec.code.upper()}"
+        guard = WafGuard(spec.code.upper())
 
         if spec.fetch_strategy == "docx":
-            sources = _fetch_documents(spec, pairs, label)
+            sources = _fetch_documents(spec, pairs, label, guard=guard)
         else:
             sources = strategies.fetch(
-                spec.fetch_strategy, pairs, spec.concurrency, label
+                spec.fetch_strategy, pairs, spec.concurrency, label, guard=guard
             )
 
         schedules = _parse_all(spec, sources)
         summary = ics.write_all(schedules, spec.code, semester or current_semester())
         _log_summary(spec, summary)
+
+        fetched = len([source for source in sources.values() if source])
+        if guard.tripped:
+            raise FacultyBlocked(
+                f"{spec.code.upper()}: blocked by WAF (HTTP 403) - fetched "
+                f"{fetched}/{len(pairs)}, skipped {guard.skipped}"
+            )
+        if not fetched:
+            raise FacultyBlocked(
+                f"{spec.code.upper()}: nothing fetched (0/{len(pairs)} groups)"
+            )
         return summary
 
 

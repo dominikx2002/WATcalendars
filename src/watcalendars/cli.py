@@ -26,6 +26,7 @@ from watcalendars.core.logging import (
 )
 from watcalendars.core.pipeline import run_calendars, run_groups
 from watcalendars.core.semester import current_semester
+from watcalendars.fetch.guard import FacultyBlocked
 
 log = get_logger()
 
@@ -99,6 +100,10 @@ def _run_stage(stage: str, specs):
                 run_groups(spec)
             if stage in ("calendars", "run"):
                 run_calendars(spec)
+        except FacultyBlocked as exc:
+            # Expected failure mode, not a bug: no traceback.
+            failures.append(spec.code)
+            log.error(f"{ERROR} {exc}")
         except Exception as exc:
             failures.append(spec.code)
             log.error(f"{ERROR} {spec.code.upper()} failed: {type(exc).__name__}: {exc}")

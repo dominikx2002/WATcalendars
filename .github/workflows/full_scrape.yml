@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       faculties:
-        description: 'Faculty codes (space separated) or "all"'
+        description: 'Faculty codes (space separated) or "all" (= all minus vars.REMOTE_FACULTIES)'
         default: 'all'
       semester:
         description: 'Override semester (zima/lato), blank = auto'
@@ -15,10 +15,21 @@ on:
 permissions:
   contents: write
 
+env:
+  # Faculties scraped from somewhere Imperva does not block (the Raspberry
+  # Pi, see README). Repo variable, e.g. "wcy". A run for "all" skips them,
+  # so Actions does not report them as failed every night; naming one
+  # explicitly in the dispatch input still scrapes it here.
+  REMOTE_FACULTIES: ${{ vars.REMOTE_FACULTIES }}
+  REQUESTED_FACULTIES: ${{ github.event.inputs.faculties || 'all' }}
+  SEMESTER_ARG: ${{ github.event.inputs.semester && format('--semester {0}', github.event.inputs.semester) || '' }}
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    # Calendars get 75 minutes; the rest is for index, status and commit,
+    # which must still run when the scrape itself times out.
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -40,44 +51,107 @@ jobs:
           mkdir -p logs
           find logs -name "*.txt" -type f -mtime +14 -delete
           echo "LOG_PATH=logs/scrape_$(date +'%Y-%m-%d_%H-%M').txt" >> $GITHUB_ENV
+          # Anything newer than this marker was written by this run.
+          touch "$RUNNER_TEMP/run_started"
+
+      - name: Resolve faculties
+        id: faculties
+        run: |
+          remote=" $(echo "$REMOTE_FACULTIES" | tr 'A-Z,' 'a-z ') "
+          if [ "$REQUESTED_FACULTIES" = "all" ] && [ -n "$(echo "$remote" | tr -d ' ')" ]; then
+            list=""
+            for code in $(python -c "from watcalendars.core.registry import CODES; print(' '.join(CODES))"); do
+              case "$remote" in
+                *" $code "*) echo "Skipping $code (scraped remotely)" ;;
+                *) list="$list $code" ;;
+              esac
+            done
+            list="${list# }"
+            echo "remote=$(echo $remote)" >> "$GITHUB_OUTPUT"
+          else
+            list="$REQUESTED_FACULTIES"
+          fi
+          if [ -z "$list" ]; then
+            echo "::error::No faculties left to scrape"
+            exit 1
+          fi
+          echo "Faculties: $list"
+          echo "list=$list" >> "$GITHUB_OUTPUT"
 
       # One command per stage instead of 17 hand-listed steps. A faculty
       # that fails is reported and the others still run, because the CLI
-      # isolates each one; the exit code still turns the run red.
+      # isolates each one.
       - name: Scrape employees
         continue-on-error: true
         run: watcal --verbose --log-file "$LOG_PATH" employees
 
       - name: Discover groups
         continue-on-error: true
-        run: >
-          watcal --verbose --log-file "$LOG_PATH"
-          ${{ github.event.inputs.semester && format('--semester {0}', github.event.inputs.semester) || '' }}
-          groups ${{ github.event.inputs.faculties || 'all' }}
+        env:
+          FACULTIES: ${{ steps.faculties.outputs.list }}
+        run: watcal --verbose --log-file "$LOG_PATH" $SEMESTER_ARG groups $FACULTIES
 
+      # continue-on-error so a blocked faculty (or the timeout) cannot stop
+      # what already got scraped from being committed; the last step turns
+      # the run red afterwards.
       - name: Build calendars
         id: calendars
-        run: >
-          watcal --verbose --log-file "$LOG_PATH"
-          ${{ github.event.inputs.semester && format('--semester {0}', github.event.inputs.semester) || '' }}
-          calendars ${{ github.event.inputs.faculties || 'all' }}
+        continue-on-error: true
+        timeout-minutes: 75
+        env:
+          FACULTIES: ${{ steps.faculties.outputs.list }}
+        run: watcal --verbose --log-file "$LOG_PATH" $SEMESTER_ARG calendars $FACULTIES
 
-      # Authoritative status: the CLI already wrote one, but only CI knows
-      # whether the earlier stages (employees, groups) failed too, and
-      # only CI has the run URL to link to.
+      # The CLI rebuilds the index itself, but not if the step was killed
+      # by its timeout.
+      - name: Rebuild index
+        if: always()
+        continue-on-error: true
+        run: watcal --log-file "$LOG_PATH" index
+
+      # Authoritative status. The CLI already wrote one with the useful
+      # detail ("nie powiodło się: WLO, WML") - keep that if this run wrote
+      # it; only CI knows about timeouts and has the run URL to link to.
       - name: Record run status
         if: always()
+        env:
+          OUTCOME: ${{ steps.calendars.outcome }}
+          REMOTE: ${{ steps.faculties.outputs.remote }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           python - <<'PY'
-          import json, os, datetime
-          ok = "${{ job.status }}" == "success"
-          json.dump({
-              "conclusion": "success" if ok else "failure",
-              "finished": datetime.datetime.now(datetime.timezone.utc)
-                          .strftime("%Y-%m-%dT%H:%M:%SZ"),
-              "detail": "${{ job.status }}",
-              "run_url": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}",
-          }, open("db/calendars/status.json", "w"), separators=(",", ":"))
+          import datetime, json, os
+
+          path = "db/calendars/status.json"
+          marker = os.path.join(os.environ["RUNNER_TEMP"], "run_started")
+          outcome = os.environ.get("OUTCOME") or "skipped"
+
+          detail = ""
+          try:
+              if os.path.getmtime(path) >= os.path.getmtime(marker):
+                  with open(path, encoding="utf-8") as handle:
+                      detail = json.load(handle).get("detail", "")
+          except (OSError, ValueError):
+              pass
+          if not detail:
+              detail = {
+                  "failure": "przerwano (timeout albo błąd)",
+                  "cancelled": "anulowano",
+                  "skipped": "nie uruchomiono",
+              }.get(outcome, outcome)
+          remote = os.environ.get("REMOTE", "").strip()
+          if remote:
+              detail += f"; {remote.upper()} z Raspberry Pi"
+
+          with open(path, "w", encoding="utf-8") as handle:
+              json.dump({
+                  "conclusion": "success" if outcome == "success" else "failure",
+                  "finished": datetime.datetime.now(datetime.timezone.utc)
+                              .strftime("%Y-%m-%dT%H:%M:%SZ"),
+                  "detail": detail,
+                  "run_url": os.environ["RUN_URL"],
+              }, handle, ensure_ascii=False, separators=(",", ":"))
+          print(f"status: {outcome} - {detail}")
           PY
 
       - name: Commit results
@@ -88,8 +162,34 @@ jobs:
           # index.json is what the website reads; it is rebuilt by the
           # calendars stage, so it must ship with the .ics files.
           git add db/employees.json db/groups_url db/calendars logs
-          git commit -m "Automated daily scrape" || echo "Nothing to commit"
-          git push || echo "Nothing to push"
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          git commit -m "Automated daily scrape"
+
+          # The Raspberry Pi pushes WCY on its own schedule, so main may
+          # have moved. -X theirs keeps our side of any conflict (in a
+          # rebase "theirs" is the commit being replayed). index.json is
+          # derived from the calendars on disk, so after the rebase it is
+          # rebuilt from the merged tree instead of trusting either copy.
+          for attempt in 1 2 3; do
+            if git pull --rebase -X theirs; then
+              if watcal --log-file "$LOG_PATH" index; then
+                git add db/calendars/index.json
+                git diff --cached --quiet || git commit --amend --no-edit
+              fi
+              if git push; then
+                exit 0
+              fi
+            else
+              git rebase --abort || true
+            fi
+            echo "Push attempt $attempt failed, retrying"
+            sleep $((attempt * 15))
+          done
+          echo "::error::Could not push results after 3 attempts"
+          exit 1
 
       - name: Upload log artifact
         if: always()
@@ -98,3 +198,12 @@ jobs:
           name: scrape-log
           path: ${{ env.LOG_PATH }}
           retention-days: 14
+
+      # Only now, with everything that did work committed, turn the run red.
+      - name: Fail if calendars failed
+        if: always() && steps.calendars.outcome != 'success'
+        env:
+          OUTCOME: ${{ steps.calendars.outcome }}
+        run: |
+          echo "::error::Build calendars finished with: $OUTCOME (see status.json / log artifact)"
+          exit 1

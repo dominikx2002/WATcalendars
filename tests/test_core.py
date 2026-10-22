@@ -1,4 +1,5 @@
 """Semester detection and the lesson data contract."""
+import os
 from datetime import datetime
 
 import pytest
@@ -52,7 +53,10 @@ def test_lesson_without_times_is_invalid():
 def test_paths_include_semester():
     assert groups_file("wel", "zima").endswith("wel_groups_zima_url.json")
     assert groups_file("wcy", None).endswith("wcy_groups_url.json")
-    assert calendars_dir("wcy", "lato").endswith("wcy_calendars/wcy_calendars_lato")
+    # os.path.join, not "/": the separator is "\\" on Windows.
+    assert calendars_dir("wcy", "lato").endswith(
+        os.path.join("wcy_calendars", "wcy_calendars_lato")
+    )
 
 
 @pytest.mark.parametrize(

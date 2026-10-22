@@ -173,6 +173,107 @@ gh workflow run full_scrape.yml -f faculties="wcy wim" -f semester=zima
 Awaria jednego wydziału nie zatrzymuje pozostałych. Log każdego przebiegu
 trafia do artefaktu `scrape-log` (14 dni).
 
+Imperva/Incapsula blokuje adresy GitHub Actions: zablokowany wydział dostaje
+403 (~800 B, „Incapsula incident ID”). Po 8 takich odpowiedziach z rzędu
+scraper pomija resztę grup wydziału zamiast ponawiać próby, zapisuje to,
+co zdążył pobrać, i zgłasza wydział jako nieudany. Wydziały wpisane w
+zmiennej repozytorium `REMOTE_FACULTIES` są przy runie `all` pomijane,
+bo aktualizuje je Raspberry Pi (niżej).
+
+<br>
+
+## Scraping z Raspberry Pi (WCY)
+
+WCY to zwykły HTTP (bez przeglądarki), więc wystarczy dowolna maszyna, której
+Imperva nie blokuje, np. Raspberry Pi na domowym łączu.
+[`scripts/remote_scrape.sh`](scripts/remote_scrape.sh) synchronizuje klon z
+`origin/main`, scrapuje WCY, commituje tylko `db/calendars/wcy_calendars` i
+`index.json` (`status.json` należy do workflow) i pushuje. Playwright nie
+jest tam potrzebny.
+
+Poniżej zakładam Raspberry Pi OS 64-bit i użytkownika `serafin`.
+
+**1. Sprawdź, czy Pi w ogóle przechodzi przez WAF**
+
+```bash
+curl -s -L -c /tmp/wcy.jar -b /tmp/wcy.jar -o /dev/null \
+  -w "%{http_code} %{size_download}\n" -A "Mozilla/5.0" \
+  "https://planzajec.wcy.wat.edu.pl/pl/rozklad?grupa_id=WCY22KC2S0"
+```
+
+Musi być `200` i dziesiątki kB. `403` i ~800–900 B oznacza, że ten adres też
+jest zablokowany i dalsze kroki nic nie dadzą. `-L` i słoik na ciasteczka
+są potrzebne, bo Incapsula odpowiada najpierw `302` na ten sam adres i
+ustawia ciasteczko. Bez nich zablokowany adres pokazuje mylące `302 122`.
+
+**2. Pakiety**
+
+```bash
+sudo apt install -y git python3-venv
+```
+
+**3. Deploy key (klucz tylko do tego repo)**
+
+```bash
+ssh-keygen -t ed25519 -f ~/.ssh/watcal_deploy -N "" -C "watcal pi-cloud"
+cat ~/.ssh/watcal_deploy.pub
+```
+
+Na GitHubie: repo → **Settings → Deploy keys → Add deploy key**, wklej klucz
+publiczny i zaznacz **Allow write access**. Jeśli `main` ma branch
+protection, deploy key musi mieć prawo ją omijać.
+
+**4. Płytki klon, dedykowany skryptowi**
+
+Pełna historia ma ponad 10 GB, więc klonuj z `--depth 1`. To ma być osobny
+klon tylko dla skryptu: każdy przebieg robi `git reset --hard origin/main`
+i kasuje lokalne zmiany.
+
+```bash
+GIT_SSH_COMMAND="ssh -i ~/.ssh/watcal_deploy -o IdentitiesOnly=yes" \
+  git clone --depth 1 git@github.com:dominikx2002/WATcalendars.git ~/watcal-remote
+```
+
+**5. Pierwsze uruchomienie ręcznie**
+
+```bash
+WATCAL_DEPLOY_KEY=~/.ssh/watcal_deploy bash ~/watcal-remote/scripts/remote_scrape.sh
+```
+
+Za pierwszym razem skrypt sam tworzy `.venv` i robi `pip install -e .`
+(kilka minut). Później instaluje ponownie tylko wtedy, gdy zmieni się
+`pyproject.toml`. Kod wyjścia jest taki sam jak kod `watcal calendars`.
+
+**6. Cron** (`crontab -e`)
+
+```cron
+CRON_TZ=Europe/Warsaw
+WATCAL_REPO=/home/serafin/watcal-remote
+WATCAL_DEPLOY_KEY=/home/serafin/.ssh/watcal_deploy
+30 5 * * * /bin/bash /home/serafin/watcal-remote/scripts/remote_scrape.sh >> /home/serafin/watcal-remote.log 2>&1
+```
+
+`cron` w Raspberry Pi OS (Debian) ignoruje `CRON_TZ` i używa strefy
+systemowej, więc upewnij się, że to `Europe/Warsaw` (`timedatectl`; ewentualnie
+`sudo timedatectl set-timezone Europe/Warsaw`). Dwa nakładające się
+przebiegi blokuje `flock`.
+
+**7. Wyłącz WCY w GitHub Actions**
+
+Repo → **Settings → Secrets and variables → Actions → Variables → New
+repository variable**: `REMOTE_FACULTIES` = `wcy` (kilka wydziałów oddziel
+spacjami). Od tej pory nocny run `all` pomija WCY i nie zgłasza go jako
+błędu. Ręczny run z `faculties=wcy` nadal go scrapuje.
+
+**8. Jak sprawdzić, że działa**
+
+- `tail -n 30 ~/watcal-remote.log` kończy się linią `Pushed … to main`
+  albo `Calendars unchanged - nothing to commit`;
+- w historii repo są commity `Remote scrape: WCY (pi-cloud)`;
+- szczegółowy log scrapera: `~/watcal-remote/logs/remote_<data>.txt`;
+- w logu runu Actions, w kroku „Resolve faculties”, jest `Skipping wcy`,
+  a `status.json` kończy się dopiskiem `WCY z Raspberry Pi`.
+
 <br>
 
 ## Współpraca
