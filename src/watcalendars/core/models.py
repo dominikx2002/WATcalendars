@@ -78,6 +78,12 @@ class FacultySpec:
     parse_schedule: Callable
     seasonal: bool = False
     concurrency: int = 10
+    # Seconds between requests (plus up to 50% jitter). Only honoured by
+    # the "http" strategy with concurrency=1: one polite visitor instead
+    # of a burst, for WAFs that ban addresses that look like crawlers.
+    delay: float = 0
+    # Consecutive HTTP 403s before the rest of the faculty is skipped.
+    waf_threshold: int = 8
     fetch_strategy: str = "browser"
     groups_fetch_strategy: Optional[str] = None
     custom_groups_job: Optional[Callable] = None

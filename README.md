@@ -244,6 +244,12 @@ Za pierwszym razem skrypt sam tworzy `.venv` i robi `pip install -e .`
 (kilka minut). Później instaluje ponownie tylko wtedy, gdy zmieni się
 `pyproject.toml`. Kod wyjścia jest taki sam jak kod `watcal calendars`.
 
+Przed scrapowaniem skrypt wysyła jedno próbne zapytanie o jedną grupę. Jeśli
+dostanie 403, loguje `IP still blocked by WAF, skipping` i kończy z kodem 0,
+bez scrapowania i commita, żeby nie przedłużać bana. WCY idzie sekwencyjnie,
+jedno zapytanie co 4–6 s (`delay=4`, `concurrency=1`), więc ~185 grup to
+około 15–20 minut. Po 3 odpowiedziach 403 z rzędu scraper przestaje pytać.
+
 **6. Cron** (`crontab -e`)
 
 ```cron

@@ -6,7 +6,9 @@ is the default and `browser` is the exception.
 """
 from __future__ import annotations
 
+import random
 import re
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 from typing import Dict, Optional, Sequence, Tuple
@@ -29,15 +31,33 @@ from watcalendars.fetch.guard import WafGuard, is_waf_block
 
 log = get_logger()
 
-USER_AGENT = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-)
+# One coherent browser identity: Firefox ESR on Linux, with the Accept
+# headers Firefox really sends. A Chrome UA on a client that sends neither
+# Chrome's client hints nor its header order is exactly what a WAF flags.
+# Accept-Encoding stays requests' default - claiming br/zstd we cannot
+# decode would be worse than not claiming them.
+USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
 HEADERS = {
     "User-Agent": USER_AGENT,
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "pl-PL,pl;q=0.9,en;q=0.8",
+    "Accept-Language": "pl-PL,pl;q=0.8,en-US;q=0.5,en;q=0.3",
 }
+
+
+def new_session() -> requests.Session:
+    """A session keeps cookies between requests, like a browser does -
+    Incapsula sets its visitor cookies on the first response and expects
+    to see them again."""
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    return session
+
+
+def polite_pause(delay: float) -> float:
+    """Sleep `delay` plus up to 50% jitter; returns the time slept."""
+    pause = delay + random.uniform(0, delay / 2)
+    time.sleep(pause)
+    return pause
 
 _META_CHARSET = re.compile(
     rb"""<meta[^>]+charset\s*=\s*["']?\s*([a-zA-Z0-9_\-]+)""", re.IGNORECASE
@@ -83,19 +103,27 @@ def fetch_one(
     timeout: int = 30,
     retries: int = 3,
     guard: Optional[WafGuard] = None,
+    session: Optional[requests.Session] = None,
 ) -> Optional[str]:
     """GET a single URL, returning decoded text or None.
+
+    Pass a `session` to share cookies across calls; without one a
+    throwaway session is used.
 
     Every attempt is logged at DEBUG with status, size and elapsed time,
     which is what you need when one faculty starts failing at 00:00.
     """
+    if session is None:
+        with new_session() as own:
+            return fetch_one(url, timeout, retries, guard, own)
+
     for attempt in range(1, retries + 1):
         if attempt > 1 and guard is not None and guard.tripped:
             return None
         started = time.monotonic()
         log.debug(f"{GET} attempt {attempt}/{retries} {url}")
         try:
-            response = requests.get(url, headers=HEADERS, timeout=timeout)
+            response = session.get(url, timeout=timeout)
         except requests.RequestException as exc:
             # Timeouts and connection errors: transient, retry.
             elapsed_ms = (time.monotonic() - started) * 1000
@@ -155,36 +183,77 @@ def fetch_many(
     concurrency: int = 10,
     label: str = "Fetching",
     guard: Optional[WafGuard] = None,
+    delay: float = 0,
 ) -> Dict[str, Optional[str]]:
-    """GET many (identifier, url) pairs in parallel."""
+    """GET many (identifier, url) pairs.
+
+    In parallel by default. With concurrency=1 and delay > 0 the requests
+    go one after another through a single session, `delay` seconds plus
+    jitter apart - for sites whose WAF bans an address that looks like a
+    crawler (WCY got a home IP banned at concurrency=8).
+    """
     results: Dict[str, Optional[str]] = {}
     total = len(pairs)
     started = time.monotonic()
-    log.info(f"{INFO} {label}: {total} items over plain HTTP, concurrency={concurrency}")
+    sequential = concurrency <= 1 and delay > 0
+    if sequential:
+        log.info(
+            f"{INFO} {label}: {total} items over plain HTTP, sequential, "
+            f"{delay:g}-{delay * 1.5:g}s apart (~{format_duration(total * delay * 1.25)})"
+        )
+    else:
+        log.info(f"{INFO} {label}: {total} items over plain HTTP, concurrency={concurrency}")
+        if delay > 0:
+            log.warning(f"{WARNING} delay={delay:g} ignored: it needs concurrency=1")
 
-    def work(item):
+    def work(item, session):
         identifier, url = item
         if guard is not None and guard.skip():
             return identifier, url, None, True
-        return identifier, url, fetch_one(url, guard=guard), False
+        return identifier, url, fetch_one(url, guard=guard, session=session), False
+
+    def run_sequential():
+        with new_session() as session:
+            for index, item in enumerate(pairs):
+                if index and not (guard is not None and guard.tripped):
+                    polite_pause(delay)
+                yield work(item, session)
+
+    def run_parallel():
+        # requests.Session is not guaranteed thread-safe: one per thread.
+        local = threading.local()
+        sessions = []
+
+        def threaded(item):
+            if not hasattr(local, "session"):
+                local.session = new_session()
+                sessions.append(local.session)
+            return work(item, local.session)
+
+        try:
+            with ThreadPoolExecutor(max_workers=max(1, concurrency)) as pool:
+                yield from pool.map(threaded, pairs)
+        finally:
+            for session in sessions:
+                session.close()
 
     failures = []
     skipped = []
     total_bytes = 0
-    with ThreadPoolExecutor(max_workers=max(1, concurrency)) as pool:
-        for done, (identifier, url, html, was_skipped) in enumerate(pool.map(work, pairs), 1):
-            results[identifier] = html
-            if html:
-                total_bytes += len(html)
-                log.info(
-                    f"{OK} [{done}/{total}] {identifier} ({format_size(len(html))})"
-                )
-            elif was_skipped:
-                skipped.append(identifier)
-                log.debug(f"{DEBUG} [{done}/{total}] {identifier} skipped (WAF block)")
-            else:
-                failures.append(identifier)
-                log.warning(f"{ERROR} [{done}/{total}] {identifier} FAILED - {url}")
+    outcomes = run_sequential() if sequential else run_parallel()
+    for done, (identifier, url, html, was_skipped) in enumerate(outcomes, 1):
+        results[identifier] = html
+        if html:
+            total_bytes += len(html)
+            log.info(
+                f"{OK} [{done}/{total}] {identifier} ({format_size(len(html))})"
+            )
+        elif was_skipped:
+            skipped.append(identifier)
+            log.debug(f"{DEBUG} [{done}/{total}] {identifier} skipped (WAF block)")
+        else:
+            failures.append(identifier)
+            log.warning(f"{ERROR} [{done}/{total}] {identifier} FAILED - {url}")
 
     elapsed = time.monotonic() - started
     rate = total_bytes / elapsed if elapsed else 0

@@ -138,13 +138,14 @@ def run_calendars(spec: FacultySpec) -> Dict[str, List[str]]:
         log.info(f"{INFO} Groups to process: {len(pairs)}")
         log.debug(f"{DEBUG} First URL: {pairs[0][1]}")
         label = f"Scraping {spec.code.upper()}"
-        guard = WafGuard(spec.code.upper())
+        guard = WafGuard(spec.code.upper(), threshold=spec.waf_threshold)
 
         if spec.fetch_strategy == "docx":
             sources = _fetch_documents(spec, pairs, label, guard=guard)
         else:
             sources = strategies.fetch(
-                spec.fetch_strategy, pairs, spec.concurrency, label, guard=guard
+                spec.fetch_strategy, pairs, spec.concurrency, label,
+                guard=guard, delay=spec.delay,
             )
 
         schedules = _parse_all(spec, sources)
@@ -171,6 +172,7 @@ def _log_spec(spec: FacultySpec, semester: Optional[str]) -> None:
     log.debug(f"{DEBUG} Faculty : {spec.name}")
     log.debug(f"{DEBUG} Fetch   : {spec.fetch_strategy} (groups: {spec.groups_fetcher})")
     log.debug(f"{DEBUG} Conc.   : {spec.concurrency}")
+    log.debug(f"{DEBUG} Delay   : {spec.delay:g}s (WAF threshold: {spec.waf_threshold})")
     log.debug(f"{DEBUG} Seasonal: {spec.seasonal}")
     if spec.notes:
         log.debug(f"{DEBUG} Notes   : {spec.notes}")

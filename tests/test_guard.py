@@ -33,17 +33,33 @@ def no_sleep(monkeypatch):
     monkeypatch.setattr(http.time, "sleep", lambda seconds: None)
 
 
+class FakeSession:
+    """Stands in for requests.Session; every instance shares `calls`."""
+
+    def __init__(self, calls, responder, lock):
+        self.calls, self.responder, self.lock = calls, responder, lock
+        self.headers = dict(http.HEADERS)
+
+    def get(self, url, timeout=None):
+        with self.lock:
+            self.calls.append(url)
+        return self.responder(url)
+
+    def close(self):
+        pass
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *exc):
+        self.close()
+
+
 def fake_get(monkeypatch, responder):
-    """Patch requests.get; returns the list of URLs requested."""
+    """Patch the HTTP session; returns the list of URLs requested."""
     calls = []
     lock = threading.Lock()
-
-    def get(url, headers=None, timeout=None):
-        with lock:
-            calls.append(url)
-        return responder(url)
-
-    monkeypatch.setattr(http.requests, "get", get)
+    monkeypatch.setattr(http, "new_session", lambda: FakeSession(calls, responder, lock))
     return calls
 
 
@@ -198,7 +214,7 @@ def fake_faculty(monkeypatch):
 def test_run_calendars_writes_partial_results_then_raises(monkeypatch, fake_faculty):
     spec, written = fake_faculty
 
-    def fetch(strategy, pairs, concurrency, label, guard=None):
+    def fetch(strategy, pairs, concurrency, label, guard=None, delay=0):
         results = {}
         for index, (group, url) in enumerate(pairs):
             if guard.skip():
@@ -222,7 +238,7 @@ def test_run_calendars_raises_when_nothing_was_fetched(monkeypatch, fake_faculty
     spec, written = fake_faculty
     monkeypatch.setattr(
         pipeline.strategies, "fetch",
-        lambda strategy, pairs, concurrency, label, guard=None: {g: None for g, _ in pairs},
+        lambda strategy, pairs, concurrency, label, guard=None, delay=0: {g: None for g, _ in pairs},
     )
     with pytest.raises(FacultyBlocked, match="nothing fetched"):
         pipeline.run_calendars(spec)
@@ -233,7 +249,7 @@ def test_run_calendars_succeeds_when_everything_loads(monkeypatch, fake_faculty)
     spec, written = fake_faculty
     monkeypatch.setattr(
         pipeline.strategies, "fetch",
-        lambda strategy, pairs, concurrency, label, guard=None: {g: g for g, _ in pairs},
+        lambda strategy, pairs, concurrency, label, guard=None, delay=0: {g: g for g, _ in pairs},
     )
     pipeline.run_calendars(spec)
     assert len(written) == 20

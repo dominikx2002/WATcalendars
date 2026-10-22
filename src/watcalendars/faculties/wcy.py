@@ -27,7 +27,12 @@ SPEC = FacultySpec(
     parse_groups=parse_wcy_groups,
     parse_schedule=parse_schedule,
     seasonal=False,
-    concurrency=8,
+    # One request every 4-6 s: concurrency=8 got the Pi's home IP banned.
+    concurrency=1,
+    delay=4,
+    # Sequential, so 3 refusals in a row already mean the address is
+    # banned - stop knocking instead of deepening the ban.
+    waf_threshold=3,
     fetch_strategy="http",
-    notes="Drupal, server-side rendered; plain HTTP verified working.",
+    notes="Behind Incapsula since Oct 2026; scraped slowly from a residential IP (Raspberry Pi)",
 )

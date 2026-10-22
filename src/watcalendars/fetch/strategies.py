@@ -21,9 +21,12 @@ def fetch(
     concurrency: int = 10,
     label: str = "Fetching",
     guard: Optional[WafGuard] = None,
+    delay: float = 0,
 ) -> Dict[str, Optional[str]]:
     if strategy == HTTP:
-        return http.fetch_many(pairs, concurrency=concurrency, label=label, guard=guard)
+        return http.fetch_many(
+            pairs, concurrency=concurrency, label=label, guard=guard, delay=delay
+        )
     if strategy in (BROWSER, BROWSER_SLOW):
         return browser.fetch_many(
             pairs, concurrency=concurrency, label=label, strategy=strategy, guard=guard

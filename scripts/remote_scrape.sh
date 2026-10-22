@@ -89,7 +89,76 @@ if [ ! -f "$stamp" ] || [ "$(cat "$stamp")" != "$pyproject_hash" ]; then
 fi
 WATCAL=.venv/bin/watcal
 
-# --- 3. Scrape ----------------------------------------------------------
+# --- 3. Probe -----------------------------------------------------------
+# One request for one group before the ~185 real ones. If Incapsula still
+# bans this address, every further request only prolongs the ban, so a
+# 403 here means: do nothing today. The probe uses the scraper's own
+# headers (Firefox UA, pl-PL) and follows Incapsula's cookie redirect.
+probe_url() {
+    .venv/bin/python - "$1" <<'PY'
+import sys
+from watcalendars.core import registry
+from watcalendars.core.pipeline import build_pairs, semester_for
+from watcalendars.store import groups
+
+spec = registry.get(sys.argv[1])
+try:
+    pairs = build_pairs(spec, groups.load_groups(spec.code, semester_for(spec)))
+except Exception:
+    pairs = []
+print(pairs[0][1] if pairs else "")
+PY
+}
+
+curl_headers=()
+while IFS= read -r header; do
+    curl_headers+=(-H "$header")
+done < <(.venv/bin/python -c \
+    "from watcalendars.fetch.http import HEADERS; print('\n'.join(f'{k}: {v}' for k, v in HEADERS.items()))" \
+    | tr -d '\r')
+
+jar="$(mktemp)"
+trap 'rm -f "$jar"' EXIT
+reachable=()
+broken=0
+for code in "${FACULTIES[@]}"; do
+    url="$(probe_url "$code")"
+    if [ -z "$url" ]; then
+        log "No group map for $code - cannot probe, scraping anyway"
+        reachable+=("$code")
+        continue
+    fi
+    http_code="$(curl -s -L --max-time 30 -c "$jar" -b "$jar" "${curl_headers[@]}" \
+        -o /dev/null -w '%{http_code}' "$url" || true)"
+    case "$http_code" in
+        200)
+            log "Probe $code: HTTP 200"
+            reachable+=("$code")
+            ;;
+        403)
+            log "IP still blocked by WAF, skipping $code (probe: HTTP 403 on $url)"
+            ;;
+        *)
+            # 400/5xx/000 (no network): not a ban, but no reason to fire
+            # the real requests either. Non-zero exit so cron reports it.
+            log "Probe $code: HTTP $http_code on $url - not scraping $code today"
+            broken=1
+            ;;
+    esac
+done
+
+if [ "${#reachable[@]}" -eq 0 ]; then
+    if [ "$broken" -eq 1 ]; then
+        exit 1
+    fi
+    log "IP still blocked by WAF, skipping"
+    exit 0
+fi
+FACULTIES=("${reachable[@]}")
+# Do not follow the probe with the first real request back to back.
+sleep 5
+
+# --- 4. Scrape ----------------------------------------------------------
 mkdir -p logs
 find logs -name "remote_*.txt" -type f -mtime +14 -delete 2>/dev/null || true
 LOG_PATH="logs/remote_$(date +'%Y-%m-%d_%H-%M').txt"
@@ -104,7 +173,7 @@ log "watcal calendars exited with $status"
 # status.json belongs to the GitHub workflow; the CLI rewrote it locally.
 git checkout -- db/calendars/status.json 2>/dev/null || true
 
-# --- 4. Commit ----------------------------------------------------------
+# --- 5. Commit ----------------------------------------------------------
 paths=()
 for code in "${FACULTIES[@]}"; do
     if [ -d "db/calendars/${code}_calendars" ]; then
@@ -138,7 +207,7 @@ log "Committed: $(git log -1 --format='%h %s')"
 # below starts from a clean tree.
 git reset --quiet --hard HEAD
 
-# --- 5. Push ------------------------------------------------------------
+# --- 6. Push ------------------------------------------------------------
 # Plain fetch, not --depth 1: in a shallow clone it fetches just the new
 # commits down to our base, so the rebase still finds the merge base.
 # (A --depth 1 fetch would cut that link and the rebase would try to
