@@ -104,12 +104,18 @@ class FakeResp:
 
 
 class FakeSession:
-    def __init__(self, get_body, post_body):
+    def __init__(self, get_body, post_body, nav_body=None):
         self.get_body, self.post_body = get_body, post_body
+        self.nav_body = nav_body
         self.posted = None
+        self.gets = []
         self.headers = {}
 
-    def get(self, url, timeout=None):
+    def get(self, url, params=None, timeout=None):
+        self.gets.append((url, params))
+        # first GET is the login page; a later GET with params is the nav
+        if params is not None and self.nav_body is not None:
+            return FakeResp(self.nav_body)
         return FakeResp(self.get_body)
 
     def post(self, url, data=None, timeout=None, allow_redirects=True):
@@ -119,6 +125,24 @@ class FakeSession:
 
 LOGIN_PAGE = ('<form action="index.php?sid=abcdef0123456789abcdef0123456789" '
               'method="post"><input name="userid"><input name="password"></form>')
+
+
+MENU = ("prefix '2026/2027 zimowy', 'javascript:executeCmm(328, 20264, 1, \\'\\');' "
+        "and '2025/2026 letni', 'javascript:executeCmm(328, 20255, 1, \\'\\');' "
+        "and '2025/2026 zimowy', 'javascript:executeCmm(328, 20254, 1, \\'\\');' "
+        "and group menu '2026/2027 zimowy', 'javascript:executeCmm(327, 20261, 1, \\'\\');'")
+
+
+def test_discover_picks_my_schedule_newest_winter_term():
+    assert S.discover_plan_command(MENU, "zima") == (328, 20264)
+
+
+def test_discover_picks_summer_term():
+    assert S.discover_plan_command(MENU, "lato") == (328, 20255)
+
+
+def test_discover_returns_none_when_absent():
+    assert S.discover_plan_command("no menu here", "zima") is None
 
 
 def test_fresh_sid_extracted_from_form_action():
@@ -132,10 +156,20 @@ def test_login_failure_when_response_is_login_form():
         S.login_and_fetch_plan("u", "p", session=fs)
 
 
-def test_login_success_returns_plan_html_and_posts_default_fun_2():
+def test_login_landing_is_plan_returned_directly():
+    # if login lands straight on the schedule, no navigation GET is made
     fs = FakeSession(LOGIN_PAGE, FIXTURE)
     html = S.login_and_fetch_plan("u", "p", session=fs)
     assert "CZWARTEK" in html
     assert fs.posted[1]["default_fun"] == "2"
-    assert fs.posted[1]["userid"] == "u"
     assert S.looks_like_plan(html)
+
+
+def test_login_then_navigates_to_plan_via_menu():
+    landing = "<html>news " + MENU + "</html>"   # not a plan, has the menu
+    fs = FakeSession(LOGIN_PAGE, landing, nav_body=FIXTURE)
+    html = S.login_and_fetch_plan("u", "p", semester="zima", session=fs)
+    assert S.looks_like_plan(html)
+    # navigation GET carried the discovered mid/iid
+    nav = [g for g in fs.gets if g[1] is not None][0]
+    assert nav[1]["mid"] == 328 and nav[1]["iid"] == 20264

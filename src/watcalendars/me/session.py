@@ -37,6 +37,17 @@ _HEADERS = {
 _SID = re.compile(r'index\.php\?sid=([0-9a-f]{16,})', re.I)
 _LOGIN_FORM = re.compile(r'name=["\']userid["\']', re.I)
 
+# The left menu is a JS data structure; the schedule entries look like
+#   '2026/2027 zimowy', 'javascript:executeCmm(328, 20264, 1, \'\');'
+# mid is the "my schedule" menu (328), iid is the term - which changes
+# every semester, so it is discovered, not hard-coded.
+_MENU_CMD = re.compile(
+    r"'([^']*?(\d{4})/\d{4}[^']*?(zimowy|letni)[^']*)'\s*,\s*"
+    r"'javascript:executeCmm\((\d+),\s*(\d+)", re.I)
+
+# "My schedule" vs "group schedule" etc.; the student's own plan is 328.
+_MY_SCHEDULE_MID = 328
+
 
 class LoginError(RuntimeError):
     """Login did not land on a logged-in page (bad credentials, lockout)."""
@@ -63,25 +74,52 @@ def _fresh_sid(session: requests.Session, base: str, timeout: int) -> str:
     return m.group(1)
 
 
+def discover_plan_command(html: str, semester: str,
+                          mid_pref: int = _MY_SCHEDULE_MID):
+    """Find (mid, iid) for the newest term of the wanted semester.
+
+    semester is "zima" or "lato"; the menu labels say "zimowy"/"letni".
+    Returns (mid, iid) or None if the menu has no matching entry.
+    """
+    want = "zimowy" if semester == "zima" else "letni"
+    candidates = []
+    for m in _MENU_CMD.finditer(html):
+        label, year, sem, mid, iid = m.groups()
+        if sem.lower() != want:
+            continue
+        candidates.append((int(year), int(mid), int(iid)))
+    if not candidates:
+        return None
+    # Prefer the "my schedule" menu; newest academic year within it.
+    preferred = [c for c in candidates if c[1] == mid_pref] or candidates
+    year, mid, iid = max(preferred, key=lambda c: c[0])
+    return mid, iid
+
+
 def login_and_fetch_plan(
     userid: str,
     password: str,
     base: str = BASE,
     timeout: int = 30,
+    semester: str = "zima",
+    mid: Optional[int] = None,
+    iid: Optional[int] = None,
+    exv: Optional[str] = None,
     session: Optional[requests.Session] = None,
 ) -> str:
-    """Log in and return the "Rozkład zajęć" page HTML (iso-8859-2 decoded).
+    """Log in and return the schedule page HTML (iso-8859-2 decoded).
 
-    default_fun=2 asks the login to land straight on the schedule, so no
-    extra navigation is needed. Raises LoginError if the result is still
-    the login form (wrong credentials, or the 3-strikes 30-min lockout).
+    Logs in, then opens "Mój rozkład zajęć" for the given semester. The
+    menu ids (mid/iid) are discovered from the logged-in page unless
+    passed explicitly; exv (group) defaults server-side to the student's
+    own group. Raises LoginError on bad credentials or a lockout.
     """
     session = session or new_session()
     sid = _fresh_sid(session, base, timeout)
 
     form = {
         "formname": "login",
-        "default_fun": "2",           # 2 = Rozkład zajęć, 1 = Aktualności
+        "default_fun": "2",
         "userid": userid,
         "password": password,
         "view_width": "1280",
@@ -90,13 +128,32 @@ def login_and_fetch_plan(
     r = session.post(f"{base}/index.php?sid={sid}", data=form,
                      timeout=timeout, allow_redirects=True)
     r.raise_for_status()
-    html = _decode(r)
+    landing = _decode(r)
 
-    if _LOGIN_FORM.search(html):
+    if _LOGIN_FORM.search(landing):
         raise LoginError("login failed - the response is still the login "
                          "form (wrong identifier/password, or the account "
                          "is locked for 30 min after 3 bad tries)")
-    return html
+
+    if looks_like_plan(landing):
+        return landing  # already there
+
+    if mid is None or iid is None:
+        found = discover_plan_command(landing, semester)
+        if not found:
+            raise LoginError("logged in, but could not find the 'Mój "
+                             "rozkład zajęć' entry in the menu for semester "
+                             f"'{semester}'. Pass --mid/--iid explicitly.")
+        d_mid, d_iid = found
+        mid = mid if mid is not None else d_mid
+        iid = iid if iid is not None else d_iid
+
+    params = {"sid": sid, "mid": mid, "iid": iid, "pos": 0, "rdo": 1}
+    if exv:
+        params["exv"] = exv
+    r = session.get(f"{base}/logged_inc.php", params=params, timeout=timeout)
+    r.raise_for_status()
+    return _decode(r)
 
 
 def looks_like_plan(html: str) -> bool:

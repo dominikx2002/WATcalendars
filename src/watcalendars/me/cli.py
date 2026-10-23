@@ -60,6 +60,10 @@ def build_parser() -> argparse.ArgumentParser:
                    help="which semester folder to write into (default zima)")
     p.add_argument("--year", type=int, help="academic start year "
                                             "(default: inferred from today)")
+    p.add_argument("--exv", help="group selector for a group other than "
+                                 "your own (copy from the e-Dziekanat URL)")
+    p.add_argument("--mid", type=int, help="menu id override (auto-detected)")
+    p.add_argument("--iid", type=int, help="term id override (auto-detected)")
     p.add_argument("--with-rooms", action="store_true",
                    help="try to read room numbers (unreliable in the "
                         "simplified view; off by default)")
@@ -80,7 +84,8 @@ def main(argv=None) -> int:
 
     log.info(f"{INFO} Logging in to the e-Dziekanat as '{user}'...")
     try:
-        html = login_and_fetch_plan(user, password)
+        html = login_and_fetch_plan(user, password, semester=args.semester,
+                                    mid=args.mid, iid=args.iid, exv=args.exv)
     except LoginError as exc:
         log.error(f"{ERROR} {exc}")
         return 1
