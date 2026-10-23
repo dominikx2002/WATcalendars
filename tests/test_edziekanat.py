@@ -93,7 +93,58 @@ def test_parse_extracts_lessons_with_dates_and_times():
     assert len(steg) == 1
     assert steg[0].start == datetime(2026, 10, 1, 8, 0)
     assert steg[0].end == datetime(2026, 10, 1, 11, 25)
-    assert steg[0].type == "Laboratorium"
+    assert steg[0].type_full == "Laboratorium"
+    assert steg[0].type == "(L)"
+
+
+def _cell(title, code, typ, room):
+    """A filled cell as the real page renders it: a nested table whose
+    inner <td>s repeat the title."""
+    return (f'<td title="{title}"><center><table title="{title}">'
+            f'<tr><td title="{title}">{code}<br>({typ})<br>{room}</td></tr>'
+            f'<tr><td title="{title}">X</td></tr>'
+            f'<tr><td title="{title}">[1]</td></tr></center></table></td>')
+
+
+_E = "<td>&nbsp;</td>"
+_PSBI_C = _cell("Projektowanie - mgr Czer (Wykład)", "PsbI", "w", "307 S")
+_PSBI_G = _cell("Projektowanie - mgr Giro (Wykład)", "PsbI", "w", "307 S")
+_WF = _cell("Wychowanie - mgr Ol (Ćwiczenia)", "WF", "ć", "-")
+
+# Regression: the inner <tr>s of those nested tables were counted as
+# schedule rows, so cells slid onto the wrong block (a lecture twice).
+NESTED_FIXTURE = (
+    '<html><body><table>'
+    '<tr><th rowspan="6">PIĄTEK</th><td>nr</td><td>czas</td>'
+    '<td>02X</td><td>09X</td><td>16X</td><td>23X</td><td>30X</td></tr>'
+    '<tr><td>2</td><td>09:50 11:25</td>' + _E + _PSBI_C + _E * 3 + '</tr>'
+    '<tr><td>3</td><td>11:40 13:15</td>' + _WF + _E * 2 + _WF + _E + '</tr>'
+    '<tr><td>4</td><td>13:30 15:05</td>' + _E * 5 + '</tr>'
+    '<tr><td>5</td><td>16:00 17:35</td>' + _PSBI_G + _E * 2 + _PSBI_G + _E + '</tr>'
+    '<tr><td>6</td><td>17:50 19:25</td>' + _E * 5 + '</tr>'
+    '</table></body></html>'
+)
+
+
+def test_nested_cell_tables_keep_cells_on_their_row():
+    lessons = P.parse(NESTED_FIXTURE, academic_start_year=2026)
+    got = sorted((x.start, x.end, x.subject, x.type) for x in lessons)
+    assert got == [
+        (datetime(2026, 10, 2, 11, 40), datetime(2026, 10, 2, 13, 15), "WF", "(ć)"),
+        (datetime(2026, 10, 2, 16, 0), datetime(2026, 10, 2, 17, 35), "PsbI", "(w)"),
+        (datetime(2026, 10, 9, 9, 50), datetime(2026, 10, 9, 11, 25), "PsbI", "(w)"),
+        (datetime(2026, 10, 23, 11, 40), datetime(2026, 10, 23, 13, 15), "WF", "(ć)"),
+        (datetime(2026, 10, 23, 16, 0), datetime(2026, 10, 23, 17, 35), "PsbI", "(w)"),
+    ]
+    psbi = [x for x in lessons if x.subject == "PsbI"][0]
+    assert psbi.full_subject == "Projektowanie" and psbi.type_full == "Wykład"
+
+
+def test_type_abbr():
+    assert P._type_abbr("Wykład") == "w"
+    assert P._type_abbr("Ćwiczenia") == "ć"
+    assert P._type_abbr("Egzamin poprawkowy") == "Ep"
+    assert P._type_abbr("Laboratorium") == "L"
 
 
 def test_rowspan_class_spans_two_blocks():

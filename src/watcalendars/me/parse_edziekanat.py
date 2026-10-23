@@ -8,6 +8,11 @@ and a filled cell carries the class in its `title` attribute:
 two weeks is one cell with rowspan/colspan, so the table is expanded
 into a matrix (rowspan/colspan honoured) before anything is read off it.
 
+Every filled cell holds a nested 3-4 row <table> whose <td>s repeat the
+lesson title. Those inner <tr>s must not count as schedule rows: they
+shifted the grid (the weekday label's rowspan=8 no longer covered the
+day) and lessons landed on the wrong block, e.g. a duplicated lecture.
+
 Encoding: the server sends iso-8859-2; decode the raw bytes with that,
 not utf-8, or every Polish diacritic turns to mojibake.
 """
@@ -109,6 +114,32 @@ def _split_title(title: str):
     return subject.strip(), people, type_
 
 
+def _short_code(cell) -> str:
+    """Abbreviation shown in the cell, e.g. 'BsIP' from 'BsIP (w) 307 S'."""
+    m = re.match(r"^(\S+)\s*\(", _text(cell))
+    return m.group(1).strip() if m else ""
+
+
+_TYPE_ABBR = [("wyklad", "w"), ("cwicz", "ć"), ("laborat", "L"),
+              ("projekt", "P"), ("seminar", "S"), ("lektorat", "Lk"),
+              ("egzamin poprawkowy", "Ep"), ("egzamin", "E"),
+              ("zaliczenie", "Zal")]
+_FOLD = str.maketrans("łśżźąęóćń", "lszzaeocn")
+
+
+def _type_abbr(full_type: str) -> str:
+    folded = re.sub(r"[^a-z ]", "", full_type.lower().translate(_FOLD))
+    for needle, abbr in _TYPE_ABBR:
+        if needle in folded:
+            return abbr
+    return full_type[:1].lower() if full_type else ""
+
+
+def _inside_lesson_cell(tr) -> bool:
+    """True for the little <tr>s nested inside a filled lesson cell."""
+    return any(td.get("title") for td in tr.find_parents("td"))
+
+
 def _room_from_cell(cell, type_: str) -> str:
     """Best-effort room, read conservatively.
 
@@ -129,7 +160,8 @@ def _room_from_cell(cell, type_: str) -> str:
 def parse(html: str, academic_start_year: int = 2026,
           with_rooms: bool = False) -> List[Lesson]:
     soup = BeautifulSoup(html, "html.parser")
-    rows = soup.find_all("tr")
+    rows = [tr for tr in soup.find_all("tr")
+            if not _inside_lesson_cell(tr)]
     sections = [(i, _weekday_of(tr)) for i, tr in enumerate(rows)]
     sections = [(i, wd) for i, wd in sections if wd is not None]
 
@@ -206,6 +238,7 @@ def parse(html: str, academic_start_year: int = 2026,
                 start=datetime.combine(day, b0[1]),
                 end=datetime.combine(day, (b1 or b0)[2]),
                 subject=subject, lecturers=people, type=type_,
+                short=_short_code(cell),
                 room=_room_from_cell(cell, type_) if with_rooms else "",
             ))
 
@@ -238,8 +271,10 @@ def _to_lessons(raw: List[dict]) -> List[Lesson]:
     lessons = []
     for x in raw:
         lessons.append(Lesson.from_dict(dict(
-            start=x["start"], end=x["end"], subject=x["subject"],
-            type=x["type"], type_full=x["type"], room=x["room"],
+            start=x["start"], end=x["end"],
+            subject=x.get("short") or x["subject"],
+            type=f"({_type_abbr(x['type'])})" if x["type"] else "",
+            type_full=x["type"], room=x["room"],
             lesson_number=str(x["block"] or ""), full_subject=x["subject"],
             lecturers=x["lecturers"],
         )))

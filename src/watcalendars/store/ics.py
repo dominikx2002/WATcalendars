@@ -70,8 +70,15 @@ def to_utc_string(value: datetime) -> str:
     return (value - _manual_warsaw_offset(value)).strftime("%Y%m%dT%H%M%SZ")
 
 
-def build_calendar(group_id: str, lessons: Iterable[Lesson]) -> str:
+def _floating(value: datetime) -> str:
+    """Local "floating" ICS time (no Z, no TZID): shown as-is, no (GMT ...)."""
+    return value.strftime("%Y%m%dT%H%M%S") if value else ""
+
+
+def build_calendar(group_id: str, lessons: Iterable[Lesson],
+                   floating: bool = False) -> str:
     """Render one group's lessons as an iCalendar document."""
+    stamp = _floating if floating else to_utc_string
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -96,8 +103,8 @@ def build_calendar(group_id: str, lessons: Iterable[Lesson]) -> str:
 
         lines += [
             "BEGIN:VEVENT",
-            f"DTSTART:{to_utc_string(lesson.start)}",
-            f"DTEND:{to_utc_string(lesson.end)}",
+            f"DTSTART:{stamp(lesson.start)}",
+            f"DTEND:{stamp(lesson.end)}",
             f"SUMMARY:{lesson.subject} {lesson.type}",
             f"LOCATION:{lesson.room}",
             "DESCRIPTION:" + "\\n".join(description),
@@ -108,11 +115,12 @@ def build_calendar(group_id: str, lessons: Iterable[Lesson]) -> str:
     return "\n".join(lines)
 
 
-def write_calendar(group_id: str, lessons: Sequence[Lesson], target_dir: str) -> str:
+def write_calendar(group_id: str, lessons: Sequence[Lesson], target_dir: str,
+                   floating: bool = False) -> str:
     """Write one .ics file; returns 'added', 'changed' or 'unchanged'."""
     ensure_dir(target_dir)
     path = os.path.join(target_dir, f"{sanitize_filename(group_id)}.ics")
-    content = build_calendar(group_id, lessons)
+    content = build_calendar(group_id, lessons, floating=floating)
 
     status = "added"
     if os.path.exists(path):
