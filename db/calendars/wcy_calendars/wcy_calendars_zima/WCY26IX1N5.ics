@@ -4,226 +4,226 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY26IX1N5
 BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T111500Z
-SUMMARY:Usługi przetwarzania w chmurze Wykład
-LOCATION:
-DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
-SUMMARY:Wprowadzenie do metod eksploracji danych Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T060000Z
-DTEND:20261008T073500Z
-SUMMARY:Portfolio nauczyciela akademickiego Ćwiczenia
+DTSTART:20261008T080000
+DTEND:20261008T093500
+SUMMARY:Pna (ć)
 LOCATION:
 DESCRIPTION:Portfolio nauczyciela akademickiego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T075000Z
-DTEND:20261008T111500Z
-SUMMARY:Usługi przetwarzania w chmurze Wykład
+DTSTART:20261008T095000
+DTEND:20261008T131500
+SUMMARY:UPCH (w)
 LOCATION:
 DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T113000Z
-DTEND:20261008T130500Z
-SUMMARY:Wprowadzenie do metod eksploracji danych Wykład
+DTSTART:20261008T133000
+DTEND:20261008T150500
+SUMMARY:WED (w)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T092500Z
-SUMMARY:Usługi przetwarzania w chmurze Laboratorium
+DTSTART:20261015T095000
+DTEND:20261015T131500
+SUMMARY:UPCH (w)
+LOCATION:
+DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T133000
+DTEND:20261015T150500
+SUMMARY:WED (w)
+LOCATION:
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T095000
+DTEND:20261022T112500
+SUMMARY:UPCH (L)
 LOCATION:
 DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T111500Z
-SUMMARY:Usługi przetwarzania w chmurze Wykład
+DTSTART:20261022T114000
+DTEND:20261022T131500
+SUMMARY:UPCH (w)
 LOCATION:
 DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T113000Z
-DTEND:20261015T130500Z
-SUMMARY:Wprowadzenie do metod eksploracji danych Wykład
+DTSTART:20261022T133000
+DTEND:20261022T150500
+SUMMARY:WED (w)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T075000Z
-DTEND:20261022T092500Z
-SUMMARY:Wprowadzenie do metod eksploracji danych Laboratorium
+DTSTART:20261029T095000
+DTEND:20261029T112500
+SUMMARY:WED (L)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T094000Z
-DTEND:20261022T111500Z
-SUMMARY:Usługi przetwarzania w chmurze Wykład
+DTSTART:20261029T114000
+DTEND:20261029T131500
+SUMMARY:UPCH (w)
 LOCATION:
 DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T121500Z
-SUMMARY:Podstawowe zagadnienia cyberbezpieczeństwa Wykład
+DTSTART:20261105T095000
+DTEND:20261105T131500
+SUMMARY:PZCB (w)
 LOCATION:
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T123000Z
-DTEND:20261029T140500Z
-SUMMARY:Wprowadzenie do metod eksploracji danych Wykład
+DTSTART:20261105T133000
+DTEND:20261105T150500
+SUMMARY:WED (w)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T123000Z
-DTEND:20261105T140500Z
-SUMMARY:Wprowadzenie do metod eksploracji danych Wykład
+DTSTART:20261112T133000
+DTEND:20261112T150500
+SUMMARY:WED (w)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T085000Z
-DTEND:20261112T102500Z
-SUMMARY:Wprowadzenie do metod eksploracji danych Laboratorium
+DTSTART:20261119T095000
+DTEND:20261119T112500
+SUMMARY:WED (L)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T121500Z
-SUMMARY:Usługi przetwarzania w chmurze Wykład
+DTSTART:20261119T114000
+DTEND:20261119T131500
+SUMMARY:UPCH (w)
 LOCATION:
 DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T123000Z
-DTEND:20261112T140500Z
-SUMMARY:Wprowadzenie do metod eksploracji danych Wykład
+DTSTART:20261119T133000
+DTEND:20261119T150500
+SUMMARY:WED (w)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T085000Z
-DTEND:20261119T102500Z
-SUMMARY:Usługi przetwarzania w chmurze Laboratorium
+DTSTART:20261126T095000
+DTEND:20261126T112500
+SUMMARY:UPCH (L)
 LOCATION:
 DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T104000Z
-DTEND:20261119T140500Z
-SUMMARY:Podstawowe zagadnienia cyberbezpieczeństwa Ćwiczenia
+DTSTART:20261126T114000
+DTEND:20261126T150500
+SUMMARY:PZCB (ć)
 LOCATION:
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T085000Z
-DTEND:20261126T102500Z
-SUMMARY:Wprowadzenie do metod eksploracji danych Laboratorium
+DTSTART:20261203T095000
+DTEND:20261203T112500
+SUMMARY:WED (L)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T104000Z
-DTEND:20261126T140500Z
-SUMMARY:Podstawowe zagadnienia cyberbezpieczeństwa Wykład
+DTSTART:20261203T114000
+DTEND:20261203T150500
+SUMMARY:PZCB (w)
 LOCATION:
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T085000Z
-DTEND:20261203T102500Z
-SUMMARY:Podstawowe zagadnienia cyberbezpieczeństwa Ćwiczenia
+DTSTART:20261210T095000
+DTEND:20261210T112500
+SUMMARY:PZCB (ć)
 LOCATION:
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T104000Z
-DTEND:20261203T140500Z
-SUMMARY:Usługi przetwarzania w chmurze Laboratorium
+DTSTART:20261210T114000
+DTEND:20261210T150500
+SUMMARY:UPCH (L)
 LOCATION:
 DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T102500Z
-SUMMARY:Wprowadzenie do metod eksploracji danych Laboratorium
+DTSTART:20261217T095000
+DTEND:20261217T112500
+SUMMARY:WED (L)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T104000Z
-DTEND:20261210T140500Z
-SUMMARY:Usługi przetwarzania w chmurze Laboratorium
+DTSTART:20261217T114000
+DTEND:20261217T150500
+SUMMARY:UPCH (L)
 LOCATION:
 DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261231T085000Z
-DTEND:20261231T102500Z
-SUMMARY:Podstawowe zagadnienia cyberbezpieczeństwa Laboratorium
+DTSTART:20270107T095000
+DTEND:20270107T112500
+SUMMARY:PZCB (L)
 LOCATION:
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261231T123000Z
-DTEND:20261231T140500Z
-SUMMARY:Wprowadzenie do metod eksploracji danych Wykład
+DTSTART:20270107T133000
+DTEND:20270107T150500
+SUMMARY:WED (w)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T085000Z
-DTEND:20270107T102500Z
-SUMMARY:Podstawowe zagadnienia cyberbezpieczeństwa Laboratorium
+DTSTART:20270114T095000
+DTEND:20270114T112500
+SUMMARY:PZCB (L)
 LOCATION:
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T085000Z
-DTEND:20270114T121500Z
-SUMMARY:Portfolio nauczyciela akademickiego Ćwiczenia
+DTSTART:20270121T095000
+DTEND:20270121T131500
+SUMMARY:Pna (ć)
 LOCATION:
 DESCRIPTION:Portfolio nauczyciela akademickiego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T123000Z
-DTEND:20270114T140500Z
-SUMMARY:Podstawowe zagadnienia cyberbezpieczeństwa Wykład
+DTSTART:20270121T133000
+DTEND:20270121T150500
+SUMMARY:PZCB (w)
 LOCATION:
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T085000Z
-DTEND:20270121T102500Z
-SUMMARY:Podstawowe zagadnienia cyberbezpieczeństwa Ćwiczenia
+DTSTART:20270128T095000
+DTEND:20270128T112500
+SUMMARY:PZCB (ć)
 LOCATION:
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270128T123000Z
-DTEND:20270128T140500Z
-SUMMARY:Wprowadzenie do metod eksploracji danych Egzamin
+DTSTART:20270204T133000
+DTEND:20270204T150500
+SUMMARY:WED (E)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Egzamin\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270204T085000Z
-DTEND:20270204T121500Z
-SUMMARY:Egzamin końcowy Egzamin
+DTSTART:20270211T095000
+DTEND:20270211T131500
+SUMMARY:Eko (E)
 LOCATION:
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć: Egzamin\nNumer zajęć: 2\nProwadzący: dr Ewa Łakoma
 END:VEVENT

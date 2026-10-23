@@ -4,170 +4,177 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY23IJ2N1
 BEGIN:VEVENT
-DTSTART:20261003T094000Z
-DTEND:20261003T111500Z
-SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Wykład
+DTSTART:20261003T095000
+DTEND:20261003T131500
+SUMMARY:Srrw (w)
 LOCATION:
-DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Roman Wantoch-Rekowski
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T113000Z
-DTEND:20261003T145500Z
-SUMMARY:Big data Laboratorium
-LOCATION:
-DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261004T060000Z
-DTEND:20261004T092500Z
-SUMMARY:Big data Wykład
+DTSTART:20261004T080000
+DTEND:20261004T112500
+SUMMARY:Bda (w)
 LOCATION:
 DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261004T094000Z
-DTEND:20261004T130500Z
-SUMMARY:Obliczenia równoległe i rozproszone Wykład
+DTSTART:20261004T114000
+DTEND:20261004T150500
+SUMMARY:Orr (w)
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261004T132000Z
-DTEND:20261004T164500Z
-SUMMARY:Systemy webowe Wykład
+DTSTART:20261010T114000
+DTEND:20261010T131500
+SUMMARY:Srrw (w)
 LOCATION:
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261010T094000Z
-DTEND:20261010T111500Z
-SUMMARY:Obliczenia równoległe i rozproszone Wykład
-LOCATION:
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261010T113000Z
-DTEND:20261010T145500Z
-SUMMARY:Big data Laboratorium
+DTSTART:20261010T133000
+DTEND:20261010T165500
+SUMMARY:Bda (L)
 LOCATION:
 DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261011T060000Z
-DTEND:20261011T073500Z
-SUMMARY:Big data Wykład
+DTSTART:20261011T080000
+DTEND:20261011T112500
+SUMMARY:Bda (w)
 LOCATION:
 DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261011T094000Z
-DTEND:20261011T130500Z
-SUMMARY:Obliczenia równoległe i rozproszone Ćwiczenia
+DTSTART:20261011T114000
+DTEND:20261011T150500
+SUMMARY:Orr (w)
 LOCATION:
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261011T132000Z
-DTEND:20261011T145500Z
-SUMMARY:Systemy webowe Wykład
+DTSTART:20261011T152000
+DTEND:20261011T184500
+SUMMARY:Swbo (w)
 LOCATION:
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261011T170000Z
-DTEND:20261011T183500Z
-SUMMARY:Systemy webowe Wykład
+DTSTART:20261017T114000
+DTEND:20261017T131500
+SUMMARY:Orr (w)
+LOCATION:
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T133000
+DTEND:20261017T165500
+SUMMARY:Bda (L)
+LOCATION:
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T114000
+DTEND:20261018T150500
+SUMMARY:Orr (ć)
+LOCATION:
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T152000
+DTEND:20261018T165500
+SUMMARY:Swbo (w)
+LOCATION:
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T190000
+DTEND:20261018T203500
+SUMMARY:Swbo (w)
 LOCATION:
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261017T094000Z
-DTEND:20261017T130500Z
-SUMMARY:Obliczenia równoległe i rozproszone Laboratorium
-LOCATION:
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T075000Z
-DTEND:20261018T092500Z
-SUMMARY:Obliczenia równoległe i rozproszone Laboratorium
-LOCATION:
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Patryk Serafin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T094000Z
-DTEND:20261018T130500Z
-SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Laboratorium
-LOCATION:
-DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Roman Wantoch-Rekowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T132000Z
-DTEND:20261018T183500Z
-SUMMARY:Systemy webowe Laboratorium
-LOCATION:
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261023T155000Z
-DTEND:20261023T172500Z
-SUMMARY:Wszystkie przedmioty prowadzącego zal popr
+DTSTART:20261023T175000
+DTEND:20261023T192500
+SUMMARY:Wpp (z)
 LOCATION:
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: zal popr\nNumer zajęć: 6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261024T060000Z
-DTEND:20261024T073500Z
-SUMMARY:Big data Laboratorium
+DTSTART:20261024T080000
+DTEND:20261024T093500
+SUMMARY:Bda (L)
 LOCATION:
 DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261025T070000Z
-DTEND:20261025T083500Z
-SUMMARY:Obliczenia równoległe i rozproszone Laboratorium
+DTSTART:20261024T114000
+DTEND:20261024T150500
+SUMMARY:Orr (L)
+LOCATION:
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T080000
+DTEND:20261025T112500
+SUMMARY:Orr (L)
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261107T104000Z
-DTEND:20261107T140500Z
-SUMMARY:Obliczenia równoległe i rozproszone Laboratorium
+DTSTART:20261025T114000
+DTEND:20261025T150500
+SUMMARY:Srrw (L)
+LOCATION:
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Roman Wantoch-Rekowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T152000
+DTEND:20261025T203500
+SUMMARY:Swbo (L)
+LOCATION:
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T114000
+DTEND:20261114T150500
+SUMMARY:Orr (L)
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261107T142000Z
-DTEND:20261107T174500Z
-SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Laboratorium
+DTSTART:20261114T152000
+DTEND:20261114T184500
+SUMMARY:Srrw (L)
 LOCATION:
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261108T104000Z
-DTEND:20261108T121500Z
-SUMMARY:Obliczenia równoległe i rozproszone Laboratorium
+DTSTART:20261115T114000
+DTEND:20261115T131500
+SUMMARY:Orr (L)
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261108T123000Z
-DTEND:20261108T174500Z
-SUMMARY:Systemy webowe Laboratorium
+DTSTART:20261115T133000
+DTEND:20261115T184500
+SUMMARY:Swbo (L)
 LOCATION:
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261121T104000Z
-DTEND:20261121T121500Z
-SUMMARY:Obliczenia równoległe i rozproszone Egzamin
+DTSTART:20261128T114000
+DTEND:20261128T131500
+SUMMARY:Orr (E)
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Egzamin\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261205T104000Z
-DTEND:20261205T121500Z
-SUMMARY:Obliczenia równoległe i rozproszone Egzamin poprawkowy
+DTSTART:20261212T114000
+DTEND:20261212T131500
+SUMMARY:Orr (Ep)
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT

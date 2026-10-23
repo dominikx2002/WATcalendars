@@ -4,1606 +4,1571 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY24IX2S0
 BEGIN:VEVENT
-DTSTART:20260928T060000Z
-DTEND:20260928T073500Z
-SUMMARY:Systemy Operacyjne zal popr
+DTSTART:20260928T080000
+DTEND:20260928T093500
+SUMMARY:SO (z)
 LOCATION:
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260928T075000Z
-DTEND:20260928T092500Z
-SUMMARY:Ochrona środowiska Wykład
+DTSTART:20260928T095000
+DTEND:20260928T112500
+SUMMARY:Gk (Ep)
 LOCATION:
-DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: por. mgr inż. Erik Mikulski
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260928T113000Z
-DTEND:20260928T130500Z
-SUMMARY:Szkolenie strzeleckie - Wykład
+DTSTART:20260928T114000
+DTEND:20260928T131500
+SUMMARY:MM (z)
 LOCATION:
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Wykład\nNumer zajęć: 4
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T075000Z
-DTEND:20260929T111500Z
-SUMMARY:Systemy wbudowane Wykład
+DTSTART:20260930T095000
+DTEND:20260930T112500
+SUMMARY:SO (Ep)
 LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T113000Z
-DTEND:20260929T130500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260930T075000Z
-DTEND:20260930T092500Z
-SUMMARY:Programowanie wspolbieżne Wykład
-LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260930T140000Z
-DTEND:20260930T153500Z
-SUMMARY:Zabezpieczenie medyczne Wykład
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T060000Z
-DTEND:20261001T073500Z
-SUMMARY:Programowanie wspolbieżne Wykład
+DTSTART:20261001T080000
+DTEND:20261001T093500
+SUMMARY:Pw (w)
 LOCATION:
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T092500Z
-SUMMARY:Sieci komputerowe Wykład
+DTSTART:20261001T095000
+DTEND:20261001T112500
+SUMMARY:BD (Ep)
 LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: dr inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T111500Z
-SUMMARY:Język angielski - Ćwiczenia
+DTSTART:20261001T114000
+DTEND:20261001T131500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
-SUMMARY:Interfejsy komputerów Wykład
+DTSTART:20261001T133000
+DTEND:20261001T150500
+SUMMARY:IK (w)
 LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T140000Z
-DTEND:20261001T153500Z
-SUMMARY:Modelowanie matematyczne zal popr
-LOCATION:
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 5\nProwadzący: dr hab. inż. Andrzej Chojnacki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261002T060000Z
-DTEND:20261002T073500Z
-SUMMARY:Bazy danych zal popr
+DTSTART:20261002T080000
+DTEND:20261002T150500
+SUMMARY:BD (z)
 LOCATION:
 DESCRIPTION:Bazy danych\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Roman Wantoch-Rekowski; mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261002T094000Z
-DTEND:20261002T111500Z
-SUMMARY:Inżynieria oprogramowania Wykład
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261002T113000Z
-DTEND:20261002T130500Z
-SUMMARY:Zabezpieczenie medyczne Wykład
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppor. mgr Katarzyna Szwed
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261003T075000Z
-DTEND:20261003T092500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
+DTSTART:20261003T095000
+DTEND:20261003T112500
+SUMMARY:XWF (ć)
 LOCATION:
 DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261005T075000Z
-DTEND:20261005T092500Z
-SUMMARY:Ochrona środowiska Wykład
+DTSTART:20261003T133000
+DTEND:20261003T150500
+SUMMARY:WdA (z)
+LOCATION:
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: zal popr\nNumer zajęć: 4\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261005T095000
+DTEND:20261005T112500
+SUMMARY:Oś (w)
 LOCATION:
 DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: por. mgr inż. Erik Mikulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T060000Z
-DTEND:20261006T073500Z
-SUMMARY:Niezawodność systemów komputerowych Wykład
+DTSTART:20261005T133000
+DTEND:20261005T150500
+SUMMARY:SzS (w)
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Wykład\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261006T080000
+DTEND:20261006T093500
+SUMMARY:Nsk (w)
 LOCATION:
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T075000Z
-DTEND:20261006T092500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261006T094000Z
-DTEND:20261006T111500Z
-SUMMARY:Programowanie wspolbieżne Wykład
-LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261006T113000Z
-DTEND:20261006T130500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261007T060000Z
-DTEND:20261007T073500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261007T075000Z
-DTEND:20261007T130500Z
-SUMMARY:Szkolenie wojskowe Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: DGB -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T060000Z
-DTEND:20261008T092500Z
-SUMMARY:Sieci komputerowe Wykład
-LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T094000Z
-DTEND:20261008T111500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T113000Z
-DTEND:20261008T130500Z
-SUMMARY:Interfejsy komputerów Wykład
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261009T060000Z
-DTEND:20261009T073500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261009T075000Z
-DTEND:20261009T092500Z
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna Wykład
-LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261009T094000Z
-DTEND:20261009T111500Z
-SUMMARY:Inżynieria oprogramowania Wykład
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261009T113000Z
-DTEND:20261009T130500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261009T140000Z
-DTEND:20261009T153500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261010T075000Z
-DTEND:20261010T092500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T075000Z
-DTEND:20261012T092500Z
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna Wykład
-LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T094000Z
-DTEND:20261012T111500Z
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna Ćwiczenia
-LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr mgr Filip Zawadzki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T113000Z
-DTEND:20261012T130500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T111500Z
-SUMMARY:Systemy wbudowane Wykład
+DTSTART:20261006T095000
+DTEND:20261006T131500
+SUMMARY:Swb (w)
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T113000Z
-DTEND:20261013T130500Z
-SUMMARY:Język angielski - Ćwiczenia
+DTSTART:20261006T133000
+DTEND:20261006T150500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T060000Z
-DTEND:20261014T073500Z
-SUMMARY:Szkolenie wojskowe Ćwiczenia
+DTSTART:20261007T080000
+DTEND:20261007T093500
+SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: DGB -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T075000Z
-DTEND:20261014T092500Z
-SUMMARY:Programowanie wspolbieżne Wykład
+DTSTART:20261007T095000
+DTEND:20261007T112500
+SUMMARY:Pw (w)
 LOCATION:
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T060000Z
-DTEND:20261015T092500Z
-SUMMARY:Sieci komputerowe Wykład
+DTSTART:20261007T160000
+DTEND:20261007T173500
+SUMMARY:ZaMe (w)
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261008T080000
+DTEND:20261008T112500
+SUMMARY:Sck (w)
 LOCATION:
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T111500Z
-SUMMARY:Język angielski - Ćwiczenia
+DTSTART:20261008T114000
+DTEND:20261008T131500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T113000Z
-DTEND:20261015T130500Z
-SUMMARY:Interfejsy komputerów Wykład
+DTSTART:20261008T133000
+DTEND:20261008T150500
+SUMMARY:IK (w)
 LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261016T094000Z
-DTEND:20261016T111500Z
-SUMMARY:Inżynieria oprogramowania Wykład
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261016T113000Z
-DTEND:20261016T130500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261016T140000Z
-DTEND:20261016T153500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261017T075000Z
-DTEND:20261017T092500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T075000Z
-DTEND:20261019T092500Z
-SUMMARY:Sieci komputerowe Laboratorium
-LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T094000Z
-DTEND:20261019T111500Z
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna Ćwiczenia
-LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr mgr Filip Zawadzki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T113000Z
-DTEND:20261019T130500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T140000Z
-DTEND:20261019T153500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T060000Z
-DTEND:20261020T092500Z
-SUMMARY:Niezawodność systemów komputerowych Wykład
-LOCATION:
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T111500Z
-SUMMARY:Programowanie wspolbieżne Wykład
-LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T060000Z
-DTEND:20261021T073500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T075000Z
-DTEND:20261021T111500Z
-SUMMARY:Niezawodność systemów komputerowych Wykład
-LOCATION:
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T113000Z
-DTEND:20261021T130500Z
-SUMMARY:Programowanie wspolbieżne Laboratorium
-LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T140000Z
-DTEND:20261021T153500Z
-SUMMARY:Programowanie wspolbieżne Laboratorium
-LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T060000Z
-DTEND:20261022T092500Z
-SUMMARY:Sieci komputerowe Wykład
-LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T094000Z
-DTEND:20261022T111500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T113000Z
-DTEND:20261022T130500Z
-SUMMARY:Interfejsy komputerów Wykład
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T140000Z
-DTEND:20261022T153500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261023T075000Z
-DTEND:20261023T092500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kiryk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261023T094000Z
-DTEND:20261023T111500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261023T113000Z
-DTEND:20261023T130500Z
-SUMMARY:Inżynieria oprogramowania Wykład
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261023T140000Z
-DTEND:20261023T153500Z
-SUMMARY:Gotowość mobilizacyjna i bojowa Wykład
-LOCATION:
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: ppłk mgr Michał Lasak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261024T075000Z
-DTEND:20261024T092500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261026T085000Z
-DTEND:20261026T102500Z
-SUMMARY:Ochrona środowiska Wykład
-LOCATION:
-DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: por. mgr inż. Erik Mikulski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261026T104000Z
-DTEND:20261026T121500Z
-SUMMARY:Gotowość mobilizacyjna i bojowa Wykład
-LOCATION:
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: ppłk mgr Michał Lasak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261026T123000Z
-DTEND:20261026T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T070000Z
-DTEND:20261027T083500Z
-SUMMARY:Niezawodność systemów komputerowych Wykład
-LOCATION:
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T121500Z
-SUMMARY:Systemy wbudowane Wykład
-LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T123000Z
-DTEND:20261027T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261028T104000Z
-DTEND:20261028T140500Z
-SUMMARY:Systemy wbudowane Laboratorium
-LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
-SUMMARY:Sieci komputerowe Wykład
-LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kiryk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T121500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T123000Z
-DTEND:20261029T140500Z
-SUMMARY:Interfejsy komputerów Wykład
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T150000Z
-DTEND:20261029T163500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T070000Z
-DTEND:20261030T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T085000Z
-DTEND:20261030T102500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T104000Z
-DTEND:20261030T121500Z
-SUMMARY:Inżynieria oprogramowania Wykład
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T123000Z
-DTEND:20261030T140500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T150000Z
-DTEND:20261030T163500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261031T085000Z
-DTEND:20261031T102500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261102T085000Z
-DTEND:20261102T102500Z
-SUMMARY:Szkolenie strzeleckie - Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261102T123000Z
-DTEND:20261102T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261102T150000Z
-DTEND:20261102T163500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppor. mgr Katarzyna Szwed
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261103T070000Z
-DTEND:20261103T083500Z
-SUMMARY:Niezawodność systemów komputerowych Wykład
-LOCATION:
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261103T085000Z
-DTEND:20261103T121500Z
-SUMMARY:Interfejsy komputerów Laboratorium
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krzysztof Szajewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261103T123000Z
-DTEND:20261103T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261104T070000Z
-DTEND:20261104T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Grzegorz Kiryk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T085000Z
-DTEND:20261105T102500Z
-SUMMARY:Sieci komputerowe Wykład
-LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T104000Z
-DTEND:20261105T121500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T150000Z
-DTEND:20261105T163500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261106T070000Z
-DTEND:20261106T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261106T104000Z
-DTEND:20261106T121500Z
-SUMMARY:Inżynieria oprogramowania Wykład
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261106T123000Z
-DTEND:20261106T140500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261106T150000Z
-DTEND:20261106T163500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261107T085000Z
-DTEND:20261107T102500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261109T085000Z
-DTEND:20261109T102500Z
-SUMMARY:Sieci komputerowe Laboratorium
-LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261109T104000Z
-DTEND:20261109T121500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppor. mgr Katarzyna Szwed; st. kpr. Anna Polankiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261109T123000Z
-DTEND:20261109T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261109T150000Z
-DTEND:20261109T163500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T085000Z
-DTEND:20261110T121500Z
-SUMMARY:Systemy wbudowane Wykład
-LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T123000Z
-DTEND:20261110T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T150000Z
-DTEND:20261110T163500Z
-SUMMARY:Modelowanie matematyczne zal popr
+DTSTART:20261008T160000
+DTEND:20261008T173500
+SUMMARY:MM (z)
 LOCATION:
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 5\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261111T085000Z
-DTEND:20261111T102500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
+DTSTART:20261009T080000
+DTEND:20261009T093500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T114000
+DTEND:20261009T131500
+SUMMARY:IO (w)
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T133000
+DTEND:20261009T150500
+SUMMARY:ZaMe (w)
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppor. mgr Katarzyna Szwed
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T095000
+DTEND:20261010T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261012T095000
+DTEND:20261012T112500
+SUMMARY:Oś (w)
+LOCATION:
+DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: por. mgr inż. Erik Mikulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261013T095000
+DTEND:20261013T112500
+SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261111T104000Z
-DTEND:20261111T140500Z
-SUMMARY:Systemy wbudowane Laboratorium
+DTSTART:20261013T114000
+DTEND:20261013T131500
+SUMMARY:Pw (w)
 LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261111T150000Z
-DTEND:20261111T182500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
+DTSTART:20261013T133000
+DTEND:20261013T150500
+SUMMARY:Ja (ć)
 LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Grzegorz Kiryk
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T070000Z
-DTEND:20261112T102500Z
-SUMMARY:Sieci komputerowe Wykład
+DTSTART:20261014T080000
+DTEND:20261014T150500
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: DGB -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T080000
+DTEND:20261015T112500
+SUMMARY:Sck (w)
 LOCATION:
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T121500Z
-SUMMARY:Język angielski - Ćwiczenia
+DTSTART:20261015T114000
+DTEND:20261015T131500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T123000Z
-DTEND:20261112T140500Z
-SUMMARY:Interfejsy komputerów Wykład
+DTSTART:20261015T133000
+DTEND:20261015T150500
+SUMMARY:IK (w)
 LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T150000Z
-DTEND:20261112T163500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+DTSTART:20261016T095000
+DTEND:20261016T112500
+SUMMARY:DSiSM (w)
+LOCATION:
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T114000
+DTEND:20261016T131500
+SUMMARY:IO (w)
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T133000
+DTEND:20261016T150500
+SUMMARY:PBI (w)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T160000
+DTEND:20261016T173500
+SUMMARY:PBI (w)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T095000
+DTEND:20261017T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T095000
+DTEND:20261019T112500
+SUMMARY:DSiSM (w)
+LOCATION:
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T114000
+DTEND:20261019T131500
+SUMMARY:DSiSM (ć)
+LOCATION:
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr mgr Filip Zawadzki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T133000
+DTEND:20261019T150500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T080000
+DTEND:20261020T093500
+SUMMARY:Nsk (w)
+LOCATION:
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T095000
+DTEND:20261020T131500
+SUMMARY:Swb (w)
+LOCATION:
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T133000
+DTEND:20261020T150500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T080000
+DTEND:20261021T093500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T095000
+DTEND:20261021T112500
+SUMMARY:Pw (w)
+LOCATION:
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T080000
+DTEND:20261022T112500
+SUMMARY:Sck (w)
+LOCATION:
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T114000
+DTEND:20261022T131500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T133000
+DTEND:20261022T150500
+SUMMARY:IK (w)
+LOCATION:
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T114000
+DTEND:20261023T131500
+SUMMARY:IO (w)
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T133000
+DTEND:20261023T150500
+SUMMARY:PBI (w)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T160000
+DTEND:20261023T173500
+SUMMARY:PBI (w)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T095000
+DTEND:20261024T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T095000
+DTEND:20261026T112500
+SUMMARY:Sck (L)
+LOCATION:
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T114000
+DTEND:20261026T131500
+SUMMARY:DSiSM (ć)
+LOCATION:
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr mgr Filip Zawadzki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T133000
+DTEND:20261026T150500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T160000
+DTEND:20261026T173500
+SUMMARY:PBI (L)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T080000
+DTEND:20261027T112500
+SUMMARY:Nsk (w)
+LOCATION:
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T114000
+DTEND:20261027T131500
+SUMMARY:Pw (w)
+LOCATION:
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T133000
+DTEND:20261027T150500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T095000
+DTEND:20261028T131500
+SUMMARY:Nsk (w)
+LOCATION:
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T133000
+DTEND:20261028T150500
+SUMMARY:Pw (L)
+LOCATION:
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T160000
+DTEND:20261028T173500
+SUMMARY:Pw (L)
+LOCATION:
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T080000
+DTEND:20261029T112500
+SUMMARY:Sck (w)
+LOCATION:
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T114000
+DTEND:20261029T131500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T133000
+DTEND:20261029T150500
+SUMMARY:IK (w)
+LOCATION:
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T160000
+DTEND:20261029T173500
+SUMMARY:PZiP (w)
 LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261113T070000Z
-DTEND:20261113T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
+DTSTART:20261030T080000
+DTEND:20261030T093500
+SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261113T104000Z
-DTEND:20261113T140500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261114T085000Z
-DTEND:20261114T102500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T123000Z
-DTEND:20261116T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T085000Z
-DTEND:20261117T102500Z
-SUMMARY:Interfejsy komputerów Laboratorium
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krzysztof Szajewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T085000Z
-DTEND:20261118T140500Z
-SUMMARY:Szkolenie strzeleckie - Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T150000Z
-DTEND:20261118T201500Z
-SUMMARY:Szkolenie strzeleckie - Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:Sieci komputerowe Wykład
-LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T085000Z
-DTEND:20261119T102500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
+DTSTART:20261030T095000
+DTEND:20261030T112500
+SUMMARY:IO (L)
 LOCATION:
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T104000Z
-DTEND:20261119T140500Z
-SUMMARY:Programowanie wspolbieżne Laboratorium
+DTSTART:20261030T114000
+DTEND:20261030T131500
+SUMMARY:PZiP (ć)
 LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T150000Z
-DTEND:20261119T163500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
+DTSTART:20261030T133000
+DTEND:20261030T150500
+SUMMARY:IO (w)
 LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261120T070000Z
-DTEND:20261120T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
+DTSTART:20261030T160000
+DTEND:20261030T173500
+SUMMARY:GMiB (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: ppłk mgr Michał Lasak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261121T085000Z
-DTEND:20261121T102500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
+DTSTART:20261031T095000
+DTEND:20261031T112500
+SUMMARY:XWF (ć)
 LOCATION:
 DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261123T085000Z
-DTEND:20261123T102500Z
-SUMMARY:Sieci komputerowe Laboratorium
+DTSTART:20261102T095000
+DTEND:20261102T112500
+SUMMARY:Oś (w)
 LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: por. mgr inż. Erik Mikulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261123T104000Z
-DTEND:20261123T121500Z
-SUMMARY:Ochrona środowiska Ćwiczenia
+DTSTART:20261102T114000
+DTEND:20261102T131500
+SUMMARY:GMiB (w)
 LOCATION:
-DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: por. mgr inż. Erik Mikulski
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: ppłk mgr Michał Lasak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261123T123000Z
-DTEND:20261123T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
+DTSTART:20261102T133000
+DTEND:20261102T150500
+SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T070000Z
-DTEND:20261124T102500Z
-SUMMARY:Interfejsy komputerów Laboratorium
+DTSTART:20261103T080000
+DTEND:20261103T093500
+SUMMARY:Nsk (w)
 LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T104000Z
-DTEND:20261124T121500Z
-SUMMARY:Systemy wbudowane Wykład
+DTSTART:20261103T095000
+DTEND:20261103T131500
+SUMMARY:Swb (w)
 LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T123000Z
-DTEND:20261124T140500Z
-SUMMARY:Język angielski - Ćwiczenia
+DTSTART:20261103T133000
+DTEND:20261103T150500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T070000Z
-DTEND:20261125T083500Z
-SUMMARY:Szkolenie strzeleckie - Ćwiczenia
+DTSTART:20261104T080000
+DTEND:20261104T093500
+SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T104000Z
-DTEND:20261125T140500Z
-SUMMARY:Systemy wbudowane Laboratorium
+DTSTART:20261104T114000
+DTEND:20261104T150500
+SUMMARY:Swb (L)
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T070000Z
-DTEND:20261126T083500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
+DTSTART:20261105T080000
+DTEND:20261105T112500
+SUMMARY:IO (L)
 LOCATION:
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T085000Z
-DTEND:20261126T102500Z
-SUMMARY:Sieci komputerowe Wykład
-LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T104000Z
-DTEND:20261126T121500Z
-SUMMARY:Język angielski - Ćwiczenia
+DTSTART:20261105T114000
+DTEND:20261105T131500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T123000Z
-DTEND:20261126T140500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+DTSTART:20261105T133000
+DTEND:20261105T150500
+SUMMARY:IK (w)
 LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261127T104000Z
-DTEND:20261127T121500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
+DTSTART:20261105T160000
+DTEND:20261105T173500
+SUMMARY:PZiP (w)
 LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261127T150000Z
-DTEND:20261127T163500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261128T085000Z
-DTEND:20261128T102500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261130T085000Z
-DTEND:20261130T121500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppor. mgr Katarzyna Szwed; mł.chor. Maciej Koczański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261130T123000Z
-DTEND:20261130T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T070000Z
-DTEND:20261201T083500Z
-SUMMARY:Interfejsy komputerów Laboratorium
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krzysztof Szajewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T123000Z
-DTEND:20261201T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T070000Z
-DTEND:20261202T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
+DTSTART:20261106T080000
+DTEND:20261106T093500
+SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261202T150000Z
-DTEND:20261202T163500Z
-SUMMARY:Wychowanie fizyczne - Wykład
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T070000Z
-DTEND:20261203T083500Z
-SUMMARY:Sieci komputerowe Wykład
-LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T085000Z
-DTEND:20261203T102500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T104000Z
-DTEND:20261203T121500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T123000Z
-DTEND:20261203T140500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Grzegorz Kiryk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T150000Z
-DTEND:20261203T182500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Grzegorz Kiryk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261204T070000Z
-DTEND:20261204T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261204T085000Z
-DTEND:20261204T102500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
+DTSTART:20261106T095000
+DTEND:20261106T112500
+SUMMARY:PZiP (ć)
 LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261204T104000Z
-DTEND:20261204T140500Z
-SUMMARY:Programowanie wspolbieżne Laboratorium
+DTSTART:20261106T114000
+DTEND:20261106T131500
+SUMMARY:IO (w)
 LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261205T085000Z
-DTEND:20261205T102500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
+DTSTART:20261106T133000
+DTEND:20261106T150500
+SUMMARY:PBI (w)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T160000
+DTEND:20261106T173500
+SUMMARY:PBI (w)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T095000
+DTEND:20261107T112500
+SUMMARY:XWF (ć)
 LOCATION:
 DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261207T085000Z
-DTEND:20261207T102500Z
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna Ćwiczenia
+DTSTART:20261109T095000
+DTEND:20261109T112500
+SUMMARY:SzS (ć)
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Filip Zawadzki
+DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261207T123000Z
-DTEND:20261207T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
+DTSTART:20261109T133000
+DTEND:20261109T150500
+SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T070000Z
-DTEND:20261208T083500Z
-SUMMARY:Interfejsy komputerów Wykład
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T085000Z
-DTEND:20261208T102500Z
-SUMMARY:Interfejsy komputerów Laboratorium
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krzysztof Szajewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T123000Z
-DTEND:20261208T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261209T104000Z
-DTEND:20261209T140500Z
-SUMMARY:Programowanie wspolbieżne Laboratorium
-LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261209T150000Z
-DTEND:20261209T163500Z
-SUMMARY:Wychowanie fizyczne - Wykład
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T102500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T104000Z
-DTEND:20261210T121500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T070000Z
-DTEND:20261211T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T104000Z
-DTEND:20261211T140500Z
-SUMMARY:Programowanie wspolbieżne Projekt
-LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T150000Z
-DTEND:20261211T163500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261212T085000Z
-DTEND:20261212T102500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261214T085000Z
-DTEND:20261214T102500Z
-SUMMARY:Sieci komputerowe Laboratorium
-LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261214T123000Z
-DTEND:20261214T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261214T150000Z
-DTEND:20261214T163500Z
-SUMMARY:Gotowość mobilizacyjna i bojowa Seminarium
-LOCATION:
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 5\nProwadzący: ppłk mgr Michał Lasak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T070000Z
-DTEND:20261215T083500Z
-SUMMARY:Interfejsy komputerów Laboratorium
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krzysztof Szajewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T085000Z
-DTEND:20261215T102500Z
-SUMMARY:Programowanie wspolbieżne Laboratorium
-LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T123000Z
-DTEND:20261215T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T150000Z
-DTEND:20261215T182500Z
-SUMMARY:Niezawodność systemów komputerowych Ćwiczenia
-LOCATION:
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T085000Z
-DTEND:20261216T102500Z
-SUMMARY:Interfejsy komputerów Ćwiczenia
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Jozef Turczyn
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T104000Z
-DTEND:20261216T140500Z
-SUMMARY:Systemy wbudowane Laboratorium
-LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna Wykład
-LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261218T070000Z
-DTEND:20261218T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261219T085000Z
-DTEND:20261219T102500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261222T070000Z
-DTEND:20261222T083500Z
-SUMMARY:Programowanie wspolbieżne Laboratorium
-LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261231T104000Z
-DTEND:20261231T121500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261231T123000Z
-DTEND:20261231T140500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: ppor. mgr Katarzyna Szwed; mł.chor. Maciej Koczański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261231T150000Z
-DTEND:20261231T163500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppor. mgr Katarzyna Szwed; mł.chor. Maciej Koczański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270101T085000Z
-DTEND:20270101T121500Z
-SUMMARY:Systemy wbudowane Laboratorium
-LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270101T123000Z
-DTEND:20270101T140500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270104T085000Z
-DTEND:20270104T102500Z
-SUMMARY:Sieci komputerowe Laboratorium
-LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270104T123000Z
-DTEND:20270104T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270105T085000Z
-DTEND:20270105T121500Z
-SUMMARY:Niezawodność systemów komputerowych Ćwiczenia
-LOCATION:
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270105T123000Z
-DTEND:20270105T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270106T104000Z
-DTEND:20270106T140500Z
-SUMMARY:Programowanie wspolbieżne Projekt
-LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270106T150000Z
-DTEND:20270106T163500Z
-SUMMARY:Wychowanie fizyczne - Wykład
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270107T104000Z
-DTEND:20270107T121500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270107T123000Z
-DTEND:20270107T140500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Grzegorz Kiryk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270107T150000Z
-DTEND:20270107T163500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Grzegorz Kiryk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270108T070000Z
-DTEND:20270108T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270108T085000Z
-DTEND:20270108T102500Z
-SUMMARY:Interfejsy komputerów Ćwiczenia
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Jozef Turczyn
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270109T085000Z
-DTEND:20270109T102500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270111T085000Z
-DTEND:20270111T102500Z
-SUMMARY:Sieci komputerowe Laboratorium
-LOCATION:
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270111T104000Z
-DTEND:20270111T121500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270111T123000Z
-DTEND:20270111T140500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: ppor. mgr Katarzyna Szwed
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270111T150000Z
-DTEND:20270111T182500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
+DTSTART:20261109T160000
+DTEND:20261109T173500
+SUMMARY:ZaMe (ć)
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppor. mgr Katarzyna Szwed
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T085000Z
-DTEND:20270112T102500Z
-SUMMARY:Interfejsy komputerów Laboratorium
+DTSTART:20261110T095000
+DTEND:20261110T131500
+SUMMARY:IK (L)
 LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T123000Z
-DTEND:20270112T140500Z
-SUMMARY:Język angielski - Ćwiczenia
+DTSTART:20261110T133000
+DTEND:20261110T150500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270113T150000Z
-DTEND:20270113T163500Z
-SUMMARY:Wychowanie fizyczne - Wykład
+DTSTART:20261112T080000
+DTEND:20261112T112500
+SUMMARY:Sck (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T104000Z
-DTEND:20270114T121500Z
-SUMMARY:Język angielski - Ćwiczenia
+DTSTART:20261112T114000
+DTEND:20261112T131500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270115T070000Z
-DTEND:20270115T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
+DTSTART:20261112T160000
+DTEND:20261112T173500
+SUMMARY:PZiP (w)
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T080000
+DTEND:20261113T093500
+SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270115T085000Z
-DTEND:20270115T121500Z
-SUMMARY:Niezawodność systemów komputerowych Ćwiczenia
+DTSTART:20261113T114000
+DTEND:20261113T131500
+SUMMARY:IO (w)
 LOCATION:
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270116T085000Z
-DTEND:20270116T102500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
+DTSTART:20261113T133000
+DTEND:20261113T150500
+SUMMARY:PBI (w)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T160000
+DTEND:20261113T173500
+SUMMARY:PBI (w)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T095000
+DTEND:20261114T112500
+SUMMARY:XWF (ć)
 LOCATION:
 DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270118T085000Z
-DTEND:20270118T102500Z
-SUMMARY:Gotowość mobilizacyjna i bojowa Repetytorium
+DTSTART:20261116T095000
+DTEND:20261116T112500
+SUMMARY:Sck (L)
 LOCATION:
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Repetytorium\nNumer zajęć: 2\nProwadzący: ppłk mgr Michał Lasak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270118T104000Z
-DTEND:20270118T121500Z
-SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna repetytorium
+DTSTART:20261116T114000
+DTEND:20261116T131500
+SUMMARY:ZaMe (ć)
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: repetytorium\nNumer zajęć: 3\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppor. mgr Katarzyna Szwed; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270118T123000Z
-DTEND:20270118T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
+DTSTART:20261116T133000
+DTEND:20261116T150500
+SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T070000Z
-DTEND:20270119T083500Z
-SUMMARY:Interfejsy komputerów Laboratorium
+DTSTART:20261116T160000
+DTEND:20261116T173500
+SUMMARY:PBI (L)
 LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T085000Z
-DTEND:20270119T121500Z
-SUMMARY:Niezawodność systemów komputerowych Ćwiczenia
+DTSTART:20261117T095000
+DTEND:20261117T131500
+SUMMARY:Swb (w)
 LOCATION:
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T123000Z
-DTEND:20270119T140500Z
-SUMMARY:Język angielski - Ćwiczenia
+DTSTART:20261117T133000
+DTEND:20261117T150500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270120T070000Z
-DTEND:20270120T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
+DTSTART:20261117T160000
+DTEND:20261117T173500
+SUMMARY:MM (z)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 5\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270120T085000Z
-DTEND:20270120T102500Z
-SUMMARY:Systemy wbudowane Laboratorium
+DTSTART:20261118T095000
+DTEND:20261118T112500
+SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270120T104000Z
-DTEND:20270120T121500Z
-SUMMARY:Programowanie wspolbieżne Projekt
+DTSTART:20261118T114000
+DTEND:20261118T150500
+SUMMARY:Swb (L)
 LOCATION:
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270120T123000Z
-DTEND:20270120T140500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
+DTSTART:20261118T160000
+DTEND:20261118T192500
+SUMMARY:IO (L)
 LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270120T150000Z
-DTEND:20270120T163500Z
-SUMMARY:Wychowanie fizyczne - Wykład
+DTSTART:20261119T080000
+DTEND:20261119T112500
+SUMMARY:Sck (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T085000Z
-DTEND:20270121T102500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kiryk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270121T104000Z
-DTEND:20270121T121500Z
-SUMMARY:Język angielski - Ćwiczenia
+DTSTART:20261119T114000
+DTEND:20261119T131500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270122T123000Z
-DTEND:20270122T140500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+DTSTART:20261119T133000
+DTEND:20261119T150500
+SUMMARY:IK (w)
 LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270123T085000Z
-DTEND:20270123T102500Z
-SUMMARY:XWychowanie fizyczne - Ćwiczenia
+DTSTART:20261119T160000
+DTEND:20261119T173500
+SUMMARY:PZiP (w)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270127T070000Z
-DTEND:20270127T083500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
+DTSTART:20261120T080000
+DTEND:20261120T093500
+SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270128T070000Z
-DTEND:20270128T083500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
+DTSTART:20261120T114000
+DTEND:20261120T150500
+SUMMARY:PBI (w)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T095000
+DTEND:20261121T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T133000
+DTEND:20261123T150500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T080000
+DTEND:20261124T112500
+SUMMARY:IK (L)
+LOCATION:
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T133000
+DTEND:20261124T150500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T080000
+DTEND:20261125T150500
+SUMMARY:SzS (ć)
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T160000
+DTEND:20261125T211500
+SUMMARY:SzS (ć)
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T080000
+DTEND:20261126T112500
+SUMMARY:IO (L)
 LOCATION:
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T114000
+DTEND:20261126T150500
+SUMMARY:Pw (L)
+LOCATION:
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T160000
+DTEND:20261126T173500
+SUMMARY:PZiP (ć)
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261128T095000
+DTEND:20261128T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T095000
+DTEND:20261130T112500
+SUMMARY:Sck (L)
+LOCATION:
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T114000
+DTEND:20261130T131500
+SUMMARY:Oś (ć)
+LOCATION:
+DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: por. mgr inż. Erik Mikulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T133000
+DTEND:20261130T150500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T080000
+DTEND:20261201T112500
+SUMMARY:IK (L)
+LOCATION:
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T114000
+DTEND:20261201T131500
+SUMMARY:Swb (w)
+LOCATION:
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T133000
+DTEND:20261201T150500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T080000
+DTEND:20261202T093500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T114000
+DTEND:20261202T150500
+SUMMARY:Swb (L)
+LOCATION:
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T080000
+DTEND:20261203T112500
+SUMMARY:Sck (w)
+LOCATION:
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T114000
+DTEND:20261203T131500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T133000
+DTEND:20261203T150500
+SUMMARY:PZiP (w)
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T080000
+DTEND:20261204T093500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T114000
+DTEND:20261204T131500
+SUMMARY:PBI (L)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T160000
+DTEND:20261204T173500
+SUMMARY:PZiP (ć)
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T095000
+DTEND:20261205T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T095000
+DTEND:20261207T131500
+SUMMARY:ZaMe (ć)
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppor. mgr Katarzyna Szwed; mł.chor. Maciej Koczański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T133000
+DTEND:20261207T150500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T080000
+DTEND:20261208T093500
+SUMMARY:IK (w)
+LOCATION:
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T133000
+DTEND:20261208T150500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T160000
+DTEND:20261209T173500
+SUMMARY:WF (w)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T095000
+DTEND:20261210T112500
+SUMMARY:PZiP (w)
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T114000
+DTEND:20261210T131500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T133000
+DTEND:20261210T150500
+SUMMARY:IO (L)
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T160000
+DTEND:20261210T192500
+SUMMARY:IO (L)
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T080000
+DTEND:20261211T093500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T095000
+DTEND:20261211T112500
+SUMMARY:PZiP (ć)
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T114000
+DTEND:20261211T150500
+SUMMARY:Pw (L)
+LOCATION:
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T095000
+DTEND:20261212T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T095000
+DTEND:20261214T112500
+SUMMARY:DSiSM (ć)
+LOCATION:
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Filip Zawadzki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T133000
+DTEND:20261214T150500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T080000
+DTEND:20261215T112500
+SUMMARY:IK (L)
+LOCATION:
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T133000
+DTEND:20261215T150500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T114000
+DTEND:20261216T150500
+SUMMARY:Pw (L)
+LOCATION:
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T160000
+DTEND:20261216T173500
+SUMMARY:WF (w)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T080000
+DTEND:20261217T093500
+SUMMARY:DSiSM (w)
+LOCATION:
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T095000
+DTEND:20261217T112500
+SUMMARY:PZiP (w)
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T114000
+DTEND:20261217T131500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T080000
+DTEND:20261218T093500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T114000
+DTEND:20261218T150500
+SUMMARY:Pw (P)
+LOCATION:
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T160000
+DTEND:20261218T173500
+SUMMARY:PZiP (ć)
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T095000
+DTEND:20261219T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T095000
+DTEND:20261221T112500
+SUMMARY:Sck (L)
+LOCATION:
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T133000
+DTEND:20261221T150500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T160000
+DTEND:20261221T173500
+SUMMARY:GMiB (S)
+LOCATION:
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 5\nProwadzący: ppłk mgr Michał Lasak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T080000
+DTEND:20261222T112500
+SUMMARY:Pw (L)
+LOCATION:
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T133000
+DTEND:20261222T150500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T160000
+DTEND:20261222T192500
+SUMMARY:Nsk (ć)
+LOCATION:
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T095000
+DTEND:20261223T112500
+SUMMARY:IK (ć)
+LOCATION:
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T114000
+DTEND:20261223T150500
+SUMMARY:Swb (L)
+LOCATION:
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T114000
+DTEND:20270107T131500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T133000
+DTEND:20270107T150500
+SUMMARY:ZaMe (ć)
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: ppor. mgr Katarzyna Szwed; mł.chor. Maciej Koczański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T160000
+DTEND:20270107T173500
+SUMMARY:ZaMe (ć)
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppor. mgr Katarzyna Szwed; mł.chor. Maciej Koczański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T080000
+DTEND:20270108T093500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T095000
+DTEND:20270108T131500
+SUMMARY:Swb (L)
+LOCATION:
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T133000
+DTEND:20270108T150500
+SUMMARY:PZiP (ć)
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270109T095000
+DTEND:20270109T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T095000
+DTEND:20270111T112500
+SUMMARY:Sck (L)
+LOCATION:
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T133000
+DTEND:20270111T150500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T095000
+DTEND:20270112T131500
+SUMMARY:Nsk (ć)
+LOCATION:
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270112T133000
+DTEND:20270112T150500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T114000
+DTEND:20270113T150500
+SUMMARY:Pw (P)
+LOCATION:
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T160000
+DTEND:20270113T173500
+SUMMARY:WF (w)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T114000
+DTEND:20270114T131500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T133000
+DTEND:20270114T150500
+SUMMARY:IO (L)
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270114T160000
+DTEND:20270114T173500
+SUMMARY:IO (L)
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T080000
+DTEND:20270115T093500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T095000
+DTEND:20270115T112500
+SUMMARY:IK (ć)
+LOCATION:
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270116T095000
+DTEND:20270116T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T095000
+DTEND:20270118T112500
+SUMMARY:Sck (L)
+LOCATION:
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T114000
+DTEND:20270118T131500
+SUMMARY:PBI (L)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T133000
+DTEND:20270118T150500
+SUMMARY:ZaMe (ć)
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: ppor. mgr Katarzyna Szwed
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270118T160000
+DTEND:20270118T192500
+SUMMARY:ZaMe (ć)
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppor. mgr Katarzyna Szwed
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T080000
+DTEND:20270119T112500
+SUMMARY:IK (L)
+LOCATION:
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270119T133000
+DTEND:20270119T150500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T080000
+DTEND:20270120T093500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T160000
+DTEND:20270120T173500
+SUMMARY:WF (w)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T114000
+DTEND:20270121T131500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T095000
+DTEND:20270122T131500
+SUMMARY:Nsk (ć)
+LOCATION:
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270123T095000
+DTEND:20270123T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270125T095000
+DTEND:20270125T112500
+SUMMARY:GMiB (r)
+LOCATION:
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Repetytorium\nNumer zajęć: 2\nProwadzący: ppłk mgr Michał Lasak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270125T114000
+DTEND:20270125T131500
+SUMMARY:DSiSM (r)
+LOCATION:
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: repetytorium\nNumer zajęć: 3\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270125T133000
+DTEND:20270125T150500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T095000
+DTEND:20270126T131500
+SUMMARY:Nsk (ć)
+LOCATION:
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270126T133000
+DTEND:20270126T150500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T080000
+DTEND:20270127T093500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Rafał Krauz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T095000
+DTEND:20270127T112500
+SUMMARY:Swb (L)
+LOCATION:
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T114000
+DTEND:20270127T131500
+SUMMARY:Pw (P)
+LOCATION:
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T133000
+DTEND:20270127T150500
+SUMMARY:PBI (L)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T160000
+DTEND:20270127T173500
+SUMMARY:WF (w)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T080000
+DTEND:20270128T112500
+SUMMARY:IO (L)
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T114000
+DTEND:20270128T131500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T133000
+DTEND:20270129T150500
+SUMMARY:PZiP (w)
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 END:VCALENDAR

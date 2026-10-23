@@ -4,563 +4,598 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY26KX1N1
 BEGIN:VEVENT
-DTSTART:20261003T060000Z
-DTEND:20261003T073500Z
-SUMMARY:Inauguracja - Spotkanie organizacy
+DTSTART:20261003T080000
+DTEND:20261003T112500
+SUMMARY:Ing (s)
 LOCATION:
 DESCRIPTION:Inauguracja -\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T075000Z
-DTEND:20261003T092500Z
-SUMMARY:Wprowadzenie do informatyki Wykład
+DTSTART:20261003T114000
+DTEND:20261003T150500
+SUMMARY:WdI (w)
 LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T094000Z
-DTEND:20261003T111500Z
-SUMMARY:Ochrona własności intelektualnych Wykład
-LOCATION:
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Rybiński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261003T113000Z
-DTEND:20261003T130500Z
-SUMMARY:Wprowadzenie do metrologii Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Dariusz Siemiaszko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261003T132000Z
-DTEND:20261003T145500Z
-SUMMARY:Matematyka dyskretna I Wykład
-LOCATION:
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261004T060000Z
-DTEND:20261004T073500Z
-SUMMARY:Język angielski Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261004T075000Z
-DTEND:20261004T092500Z
-SUMMARY:Podstawy grafiki inżynierskiej Wykład
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Janusz Torzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261004T094000Z
-DTEND:20261004T130500Z
-SUMMARY:Matematyka 1 Wykład
-LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261010T075000Z
-DTEND:20261010T092500Z
-SUMMARY:Wybrane zagadnienia prawa Wykład
-LOCATION:
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Piotr Kobielski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261010T094000Z
-DTEND:20261010T130500Z
-SUMMARY:Wprowadzenie do studiowania Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Ewa Łakoma
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261010T132000Z
-DTEND:20261010T145500Z
-SUMMARY:Wprowadzenie do metrologii Wykład
+DTSTART:20261003T152000
+DTEND:20261003T184500
+SUMMARY:WDM (w)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Dariusz Siemiaszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261010T151000Z
-DTEND:20261010T183500Z
-SUMMARY:Matematyka 1 Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261011T060000Z
-DTEND:20261011T073500Z
-SUMMARY:Język angielski Ćwiczenia
+DTSTART:20261004T080000
+DTEND:20261004T093500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261011T075000Z
-DTEND:20261011T092500Z
-SUMMARY:Podstawy grafiki inżynierskiej Wykład
+DTSTART:20261004T095000
+DTEND:20261004T112500
+SUMMARY:PGI (w)
 LOCATION:
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261011T113000Z
-DTEND:20261011T130500Z
-SUMMARY:Podstawy grafiki inżynierskiej Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. (prof. ucz.) Marcin Wachowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261011T151000Z
-DTEND:20261011T183500Z
-SUMMARY:Matematyka 1 Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261017T075000Z
-DTEND:20261017T092500Z
-SUMMARY:Wybrane zagadnienia prawa Wykład
-LOCATION:
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Piotr Kobielski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261017T094000Z
-DTEND:20261017T130500Z
-SUMMARY:Ochrona własności intelektualnych Wykład
-LOCATION:
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Rybiński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261017T132000Z
-DTEND:20261017T145500Z
-SUMMARY:Spotkanie organizacyjne Spotkanie organizacy
-LOCATION:
-DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 5\nProwadzący: mgr inż. Adam Kutyła; dr Joanna Piasecka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T060000Z
-DTEND:20261018T073500Z
-SUMMARY:Język angielski Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T075000Z
-DTEND:20261018T092500Z
-SUMMARY:Podstawy grafiki inżynierskiej Wykład
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Janusz Torzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T094000Z
-DTEND:20261018T130500Z
-SUMMARY:Matematyka 1 Wykład
+DTSTART:20261004T114000
+DTEND:20261004T150500
+SUMMARY:M1 (w)
 LOCATION:
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261018T132000Z
-DTEND:20261018T164500Z
-SUMMARY:Matematyka 1 Ćwiczenia
+DTSTART:20261004T152000
+DTEND:20261004T165500
+SUMMARY:MD1 (w)
 LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Piotr Kozarzewski
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261025T070000Z
-DTEND:20261025T083500Z
-SUMMARY:Język angielski Ćwiczenia
+DTSTART:20261010T095000
+DTEND:20261010T112500
+SUMMARY:WdI (w)
 LOCATION:
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261107T085000Z
-DTEND:20261107T102500Z
-SUMMARY:Wprowadzenie do informatyki Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261107T104000Z
-DTEND:20261107T121500Z
-SUMMARY:Ochrona własności intelektualnych Wykład
+DTSTART:20261010T114000
+DTEND:20261010T131500
+SUMMARY:Owi (w)
 LOCATION:
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261107T123000Z
-DTEND:20261107T140500Z
-SUMMARY:Wprowadzenie do metrologii Wykład
+DTSTART:20261010T133000
+DTEND:20261010T150500
+SUMMARY:WDM (w)
 LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Dariusz Siemiaszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261107T142000Z
-DTEND:20261107T155500Z
-SUMMARY:Etyka zawodowa Wykład
+DTSTART:20261010T152000
+DTEND:20261010T165500
+SUMMARY:MD1 (w)
 LOCATION:
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Krzysztof Sołoducha
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261107T161000Z
-DTEND:20261107T193500Z
-SUMMARY:Matematyka 1 Ćwiczenia
+DTSTART:20261011T080000
+DTEND:20261011T093500
+SUMMARY:Ja (ć)
 LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261108T085000Z
-DTEND:20261108T102500Z
-SUMMARY:Podstawy grafiki inżynierskiej Wykład
+DTSTART:20261011T095000
+DTEND:20261011T112500
+SUMMARY:PGI (w)
 LOCATION:
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261108T104000Z
-DTEND:20261108T121500Z
-SUMMARY:Matematyka dyskretna I Ćwiczenia
+DTSTART:20261011T114000
+DTEND:20261011T150500
+SUMMARY:M1 (w)
 LOCATION:
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Agnieszka Gdula
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261114T085000Z
-DTEND:20261114T102500Z
-SUMMARY:Wprowadzenie do informatyki Laboratorium
+DTSTART:20261017T095000
+DTEND:20261017T112500
+SUMMARY:Wzp (w)
 LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261114T104000Z
-DTEND:20261114T121500Z
-SUMMARY:Podstawy grafiki inżynierskiej Ćwiczenia
+DTSTART:20261017T114000
+DTEND:20261017T150500
+SUMMARY:WdS (w)
 LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. (prof. ucz.) Marcin Wachowski
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261114T123000Z
-DTEND:20261114T140500Z
-SUMMARY:Etyka zawodowa Ćwiczenia
+DTSTART:20261017T152000
+DTEND:20261017T165500
+SUMMARY:WDM (w)
 LOCATION:
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. Krzysztof Sołoducha
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Dariusz Siemiaszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261115T070000Z
-DTEND:20261115T083500Z
-SUMMARY:Język angielski Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T085000Z
-DTEND:20261115T102500Z
-SUMMARY:Wprowadzenie do metrologii Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Siemiaszko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T104000Z
-DTEND:20261115T121500Z
-SUMMARY:Etyka zawodowa Wykład
-LOCATION:
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Krzysztof Sołoducha
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T123000Z
-DTEND:20261115T155500Z
-SUMMARY:Matematyka 1 Wykład
-LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T161000Z
-DTEND:20261115T193500Z
-SUMMARY:Matematyka 1 Ćwiczenia
+DTSTART:20261017T171000
+DTEND:20261017T203500
+SUMMARY:M1 (ć)
 LOCATION:
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261122T070000Z
-DTEND:20261122T083500Z
-SUMMARY:Język angielski Ćwiczenia
+DTSTART:20261018T080000
+DTEND:20261018T093500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261128T104000Z
-DTEND:20261128T121500Z
-SUMMARY:Wybrane zagadnienia prawa Ćwiczenia
+DTSTART:20261018T095000
+DTEND:20261018T112500
+SUMMARY:PGI (w)
 LOCATION:
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Piotr Kobielski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261128T123000Z
-DTEND:20261128T140500Z
-SUMMARY:Wprowadzenie do informatyki Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Tadeusz Kowiorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261128T142000Z
-DTEND:20261128T155500Z
-SUMMARY:Podstawy grafiki inżynierskiej Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. (prof. ucz.) Marcin Wachowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261129T085000Z
-DTEND:20261129T102500Z
-SUMMARY:Matematyka 1 Wykład
-LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261129T104000Z
-DTEND:20261129T140500Z
-SUMMARY:Wprowadzenie do metrologii Ćwiczenia
-LOCATION:
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Zachman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261129T142000Z
-DTEND:20261129T155500Z
-SUMMARY:Ochrona własności intelektualnych Ćwiczenia
-LOCATION:
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. Janusz Rybiński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261129T161000Z
-DTEND:20261129T193500Z
-SUMMARY:Matematyka 1 Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261205T085000Z
-DTEND:20261205T102500Z
-SUMMARY:Etyka zawodowa Wykład
-LOCATION:
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Krzysztof Sołoducha
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261205T104000Z
-DTEND:20261205T140500Z
-SUMMARY:Matematyka 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261205T142000Z
-DTEND:20261205T155500Z
-SUMMARY:Matematyka dyskretna I Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Agnieszka Gdula
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261206T070000Z
-DTEND:20261206T083500Z
-SUMMARY:Język angielski Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261206T085000Z
-DTEND:20261206T121500Z
-SUMMARY:Matematyka 2 Wykład
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261206T123000Z
-DTEND:20261206T140500Z
-SUMMARY:Wprowadzenie do informatyki Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Tadeusz Kowiorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261206T142000Z
-DTEND:20261206T155500Z
-SUMMARY:Matematyka dyskretna I Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Agnieszka Gdula
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261206T161000Z
-DTEND:20261206T174500Z
-SUMMARY:Podstawy grafiki inżynierskiej Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr hab. inż. (prof. ucz.) Marcin Wachowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261212T085000Z
-DTEND:20261212T102500Z
-SUMMARY:Wprowadzenie do informatyki Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261213T070000Z
-DTEND:20261213T083500Z
-SUMMARY:Język angielski Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261213T085000Z
-DTEND:20261213T121500Z
-SUMMARY:Matematyka 2 Wykład
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261213T123000Z
-DTEND:20261213T155500Z
-SUMMARY:Wprowadzenie do metrologii Ćwiczenia
-LOCATION:
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Marcin Zachman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261213T161000Z
-DTEND:20261213T174500Z
-SUMMARY:Matematyka 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261220T070000Z
-DTEND:20261220T083500Z
-SUMMARY:Język angielski Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270102T085000Z
-DTEND:20270102T102500Z
-SUMMARY:Matematyka 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270103T085000Z
-DTEND:20270103T121500Z
-SUMMARY:Matematyka 2 Wykład
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270109T085000Z
-DTEND:20270109T121500Z
-SUMMARY:Matematyka 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270110T070000Z
-DTEND:20270110T083500Z
-SUMMARY:Język angielski Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270110T085000Z
-DTEND:20270110T121500Z
-SUMMARY:Matematyka 2 Wykład
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270110T123000Z
-DTEND:20270110T155500Z
-SUMMARY:Matematyka 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270116T085000Z
-DTEND:20270116T102500Z
-SUMMARY:Wprowadzenie do informatyki Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270116T104000Z
-DTEND:20270116T140500Z
-SUMMARY:Wprowadzenie do metrologii Ćwiczenia
-LOCATION:
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Zachman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270116T161000Z
-DTEND:20270116T174500Z
-SUMMARY:Język angielski Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Andi Zeneli
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270117T070000Z
-DTEND:20270117T083500Z
-SUMMARY:Język angielski Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270117T085000Z
-DTEND:20270117T121500Z
-SUMMARY:Matematyka 2 Wykład
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270117T123000Z
-DTEND:20270117T155500Z
-SUMMARY:Matematyka 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270123T085000Z
-DTEND:20270123T102500Z
-SUMMARY:Wprowadzenie do informatyki Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270123T123000Z
-DTEND:20270123T140500Z
-SUMMARY:Podstawy grafiki inżynierskiej Ćwiczenia
+DTSTART:20261018T133000
+DTEND:20261018T150500
+SUMMARY:PGI (ć)
 LOCATION:
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. (prof. ucz.) Marcin Wachowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270123T161000Z
-DTEND:20270123T174500Z
-SUMMARY:Język angielski Ćwiczenia
+DTSTART:20261018T171000
+DTEND:20261018T203500
+SUMMARY:M1 (ć)
 LOCATION:
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Andi Zeneli
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270124T070000Z
-DTEND:20270124T083500Z
-SUMMARY:Język angielski Ćwiczenia
+DTSTART:20261024T095000
+DTEND:20261024T112500
+SUMMARY:Wzp (w)
+LOCATION:
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Piotr Kobielski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T114000
+DTEND:20261024T150500
+SUMMARY:Owi (w)
+LOCATION:
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Rybiński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T152000
+DTEND:20261024T165500
+SUMMARY:Sws (s)
+LOCATION:
+DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 5\nProwadzący: mgr inż. Adam Kutyła; dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T080000
+DTEND:20261025T093500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270124T123000Z
-DTEND:20270124T140500Z
-SUMMARY:Matematyka dyskretna I Wykład
+DTSTART:20261025T095000
+DTEND:20261025T112500
+SUMMARY:PGI (w)
 LOCATION:
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270124T142000Z
-DTEND:20270124T155500Z
-SUMMARY:Etyka zawodowa Wykład
+DTSTART:20261025T114000
+DTEND:20261025T150500
+SUMMARY:M1 (w)
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T152000
+DTEND:20261025T184500
+SUMMARY:M1 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T095000
+DTEND:20261114T112500
+SUMMARY:WdI (L)
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T114000
+DTEND:20261114T131500
+SUMMARY:Owi (w)
+LOCATION:
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Rybiński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T133000
+DTEND:20261114T150500
+SUMMARY:WDM (w)
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Dariusz Siemiaszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T152000
+DTEND:20261114T165500
+SUMMARY:Ez (w)
 LOCATION:
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270131T070000Z
-DTEND:20270131T083500Z
-SUMMARY:Język angielski Ćwiczenia
+DTSTART:20261114T171000
+DTEND:20261114T203500
+SUMMARY:M1 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T080000
+DTEND:20261115T093500
+SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T095000
+DTEND:20261115T112500
+SUMMARY:PGI (w)
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Janusz Torzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T114000
+DTEND:20261115T131500
+SUMMARY:MD1 (ć)
+LOCATION:
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T095000
+DTEND:20261121T112500
+SUMMARY:WdI (L)
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T114000
+DTEND:20261121T131500
+SUMMARY:PGI (ć)
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. (prof. ucz.) Marcin Wachowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T133000
+DTEND:20261121T150500
+SUMMARY:Ez (ć)
+LOCATION:
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. Krzysztof Sołoducha
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T080000
+DTEND:20261122T093500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T095000
+DTEND:20261122T112500
+SUMMARY:WDM (w)
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Siemiaszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T114000
+DTEND:20261122T131500
+SUMMARY:Ez (w)
+LOCATION:
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Krzysztof Sołoducha
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T133000
+DTEND:20261122T165500
+SUMMARY:M1 (w)
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T171000
+DTEND:20261122T203500
+SUMMARY:M1 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T114000
+DTEND:20261205T131500
+SUMMARY:Wzp (ć)
+LOCATION:
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Piotr Kobielski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T133000
+DTEND:20261205T150500
+SUMMARY:WdI (L)
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T152000
+DTEND:20261205T165500
+SUMMARY:PGI (ć)
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. (prof. ucz.) Marcin Wachowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T080000
+DTEND:20261206T093500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T095000
+DTEND:20261206T112500
+SUMMARY:M1 (w)
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T114000
+DTEND:20261206T150500
+SUMMARY:WDM (ć)
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Zachman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T152000
+DTEND:20261206T165500
+SUMMARY:Owi (ć)
+LOCATION:
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. Janusz Rybiński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T171000
+DTEND:20261206T203500
+SUMMARY:M1 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T095000
+DTEND:20261212T112500
+SUMMARY:Ez (w)
+LOCATION:
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Krzysztof Sołoducha
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T114000
+DTEND:20261212T150500
+SUMMARY:Mat2 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T152000
+DTEND:20261212T165500
+SUMMARY:MD1 (ć)
+LOCATION:
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T080000
+DTEND:20261213T093500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T095000
+DTEND:20261213T131500
+SUMMARY:Mat2 (w)
+LOCATION:
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T133000
+DTEND:20261213T150500
+SUMMARY:WdI (L)
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T152000
+DTEND:20261213T165500
+SUMMARY:MD1 (ć)
+LOCATION:
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T171000
+DTEND:20261213T184500
+SUMMARY:PGI (ć)
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr hab. inż. (prof. ucz.) Marcin Wachowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T095000
+DTEND:20261219T112500
+SUMMARY:WdI (L)
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261220T080000
+DTEND:20261220T093500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261220T095000
+DTEND:20261220T131500
+SUMMARY:Mat2 (w)
+LOCATION:
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261220T133000
+DTEND:20261220T165500
+SUMMARY:WDM (ć)
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Marcin Zachman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261220T171000
+DTEND:20261220T184500
+SUMMARY:Mat2 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270109T095000
+DTEND:20270109T112500
+SUMMARY:Mat2 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270110T080000
+DTEND:20270110T093500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270110T095000
+DTEND:20270110T131500
+SUMMARY:Mat2 (w)
+LOCATION:
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270116T095000
+DTEND:20270116T131500
+SUMMARY:Mat2 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270117T080000
+DTEND:20270117T093500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270117T095000
+DTEND:20270117T131500
+SUMMARY:Mat2 (w)
+LOCATION:
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270117T133000
+DTEND:20270117T165500
+SUMMARY:Mat2 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270123T095000
+DTEND:20270123T112500
+SUMMARY:WdI (L)
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270123T114000
+DTEND:20270123T150500
+SUMMARY:WDM (ć)
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Zachman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270123T171000
+DTEND:20270123T184500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Andi Zeneli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270124T080000
+DTEND:20270124T093500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270124T095000
+DTEND:20270124T131500
+SUMMARY:Mat2 (w)
+LOCATION:
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270124T133000
+DTEND:20270124T165500
+SUMMARY:Mat2 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270130T095000
+DTEND:20270130T112500
+SUMMARY:WdI (L)
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270130T133000
+DTEND:20270130T150500
+SUMMARY:PGI (ć)
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. (prof. ucz.) Marcin Wachowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270130T171000
+DTEND:20270130T184500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Andi Zeneli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270131T080000
+DTEND:20270131T093500
+SUMMARY:Ja (ć)
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Andi Zeneli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270131T133000
+DTEND:20270131T150500
+SUMMARY:MD1 (w)
+LOCATION:
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270131T152000
+DTEND:20270131T165500
+SUMMARY:Ez (w)
+LOCATION:
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 END:VCALENDAR

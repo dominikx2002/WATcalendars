@@ -4,135 +4,149 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY25IV1N2
 BEGIN:VEVENT
-DTSTART:20261003T060000Z
-DTEND:20261003T073500Z
-SUMMARY:Socjologia Wykład
+DTSTART:20261003T080000
+DTEND:20261003T093500
+SUMMARY:Soc (w)
 LOCATION:
 DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T075000Z
-DTEND:20261003T111500Z
-SUMMARY:Zarządzanie projektami Wykład
+DTSTART:20261003T095000
+DTEND:20261003T131500
+SUMMARY:ZPr (w)
 LOCATION:
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T132000Z
-DTEND:20261003T164500Z
-SUMMARY:Analiza sieci społecznościowych Wykład
+DTSTART:20261003T133000
+DTEND:20261003T150500
+SUMMARY:Miob (w)
+LOCATION:
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T171000
+DTEND:20261003T184500
+SUMMARY:Assp (w)
+LOCATION:
+DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T095000
+DTEND:20261010T131500
+SUMMARY:ZPr (w)
+LOCATION:
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T152000
+DTEND:20261010T184500
+SUMMARY:Assp (w)
 LOCATION:
 DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261004T113000Z
-DTEND:20261004T145500Z
-SUMMARY:Analiza sieci społecznościowych Laboratorium
+DTSTART:20261011T133000
+DTEND:20261011T165500
+SUMMARY:Assp (L)
 LOCATION:
 DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261010T075000Z
-DTEND:20261010T130500Z
-SUMMARY:Metody inteligencji obliczeniowej Wykład
+DTSTART:20261017T095000
+DTEND:20261017T150500
+SUMMARY:Miob (w)
 LOCATION:
 DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261010T132000Z
-DTEND:20261010T164500Z
-SUMMARY:Analiza sieci społecznościowych Laboratorium
+DTSTART:20261017T152000
+DTEND:20261017T184500
+SUMMARY:Assp (L)
 LOCATION:
 DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261011T094000Z
-DTEND:20261011T111500Z
-SUMMARY:Zarządzanie projektami Laboratorium
+DTSTART:20261018T095000
+DTEND:20261018T131500
+SUMMARY:ZPr (L)
 LOCATION:
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261017T075000Z
-DTEND:20261017T092500Z
-SUMMARY:Socjologia Ćwiczenia
+DTSTART:20261024T095000
+DTEND:20261024T112500
+SUMMARY:Soc (ć)
 LOCATION:
 DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261017T094000Z
-DTEND:20261017T111500Z
-SUMMARY:Zarządzanie projektami Wykład
+DTSTART:20261024T114000
+DTEND:20261024T131500
+SUMMARY:ZPr (w)
 LOCATION:
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261017T113000Z
-DTEND:20261017T145500Z
-SUMMARY:Metody inteligencji obliczeniowej Laboratorium
+DTSTART:20261024T133000
+DTEND:20261024T165500
+SUMMARY:Miob (L)
 LOCATION:
 DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261017T151000Z
-DTEND:20261017T183500Z
-SUMMARY:Analiza sieci społecznościowych Laboratorium
+DTSTART:20261024T171000
+DTEND:20261024T203500
+SUMMARY:Assp (L)
 LOCATION:
 DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261018T075000Z
-DTEND:20261018T111500Z
-SUMMARY:Zarządzanie projektami Laboratorium
+DTSTART:20261025T095000
+DTEND:20261025T131500
+SUMMARY:ZPr (L)
 LOCATION:
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261018T113000Z
-DTEND:20261018T145500Z
-SUMMARY:Metody inteligencji obliczeniowej Laboratorium
+DTSTART:20261025T133000
+DTEND:20261025T165500
+SUMMARY:Miob (L)
 LOCATION:
 DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261025T085000Z
-DTEND:20261025T102500Z
-SUMMARY:Zarządzanie projektami Laboratorium
-LOCATION:
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261107T085000Z
-DTEND:20261107T102500Z
-SUMMARY:Metody inteligencji obliczeniowej Laboratorium
+DTSTART:20261114T095000
+DTEND:20261114T112500
+SUMMARY:Miob (L)
 LOCATION:
 DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261107T104000Z
-DTEND:20261107T121500Z
-SUMMARY:Socjologia Ćwiczenia
+DTSTART:20261114T114000
+DTEND:20261114T131500
+SUMMARY:Soc (ć)
 LOCATION:
 DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261107T123000Z
-DTEND:20261107T155500Z
-SUMMARY:Zarządzanie projektami Laboratorium
+DTSTART:20261114T133000
+DTEND:20261114T165500
+SUMMARY:ZPr (L)
 LOCATION:
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261115T070000Z
-DTEND:20261115T083500Z
-SUMMARY:Analiza sieci społecznościowych Wykład
+DTSTART:20261115T080000
+DTEND:20261115T093500
+SUMMARY:Assp (w)
 LOCATION:
 DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261115T085000Z
-DTEND:20261115T102500Z
-SUMMARY:Metody inteligencji obliczeniowej Laboratorium
+DTSTART:20261115T095000
+DTEND:20261115T112500
+SUMMARY:Miob (L)
 LOCATION:
 DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT

@@ -4,143 +4,143 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY25IB1N2
 BEGIN:VEVENT
-DTSTART:20261003T060000Z
-DTEND:20261003T073500Z
-SUMMARY:Socjologia Wykład
+DTSTART:20261003T080000
+DTEND:20261003T093500
+SUMMARY:Soc (w)
 LOCATION:
 DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T075000Z
-DTEND:20261003T111500Z
-SUMMARY:Zarządzanie projektami Wykład
+DTSTART:20261003T095000
+DTEND:20261003T131500
+SUMMARY:ZPr (w)
 LOCATION:
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T113000Z
-DTEND:20261003T130500Z
-SUMMARY:Teoria wojny informacyjnej Wykład
+DTSTART:20261003T133000
+DTEND:20261003T165500
+SUMMARY:Twinf (w)
 LOCATION:
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T132000Z
-DTEND:20261003T164500Z
-SUMMARY:Metodyki obiektowe Projekt
+DTSTART:20261010T095000
+DTEND:20261010T131500
+SUMMARY:ZPr (w)
+LOCATION:
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T133000
+DTEND:20261010T150500
+SUMMARY:Twinf (w)
+LOCATION:
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T152000
+DTEND:20261010T184500
+SUMMARY:mo (P)
 LOCATION:
 DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261004T094000Z
-DTEND:20261004T111500Z
-SUMMARY:Teoria wojny informacyjnej Laboratorium
-LOCATION:
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marcin Perka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261010T075000Z
-DTEND:20261010T092500Z
-SUMMARY:Socjologia Ćwiczenia
-LOCATION:
-DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261010T094000Z
-DTEND:20261010T130500Z
-SUMMARY:Teoria wojny informacyjnej Laboratorium
-LOCATION:
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marcin Perka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261010T132000Z
-DTEND:20261010T164500Z
-SUMMARY:Metodyki obiektowe Projekt
-LOCATION:
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261011T075000Z
-DTEND:20261011T092500Z
-SUMMARY:Teoria wojny informacyjnej Laboratorium
+DTSTART:20261011T095000
+DTEND:20261011T131500
+SUMMARY:Twinf (L)
 LOCATION:
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261011T094000Z
-DTEND:20261011T111500Z
-SUMMARY:Metodyki obiektowe Projekt
-LOCATION:
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261011T113000Z
-DTEND:20261011T130500Z
-SUMMARY:Zarządzanie projektami Laboratorium
-LOCATION:
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261017T094000Z
-DTEND:20261017T111500Z
-SUMMARY:Zarządzanie projektami Wykład
-LOCATION:
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T075000Z
-DTEND:20261018T111500Z
-SUMMARY:Metodyki obiektowe Projekt
-LOCATION:
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T113000Z
-DTEND:20261018T130500Z
-SUMMARY:Zarządzanie projektami Laboratorium
-LOCATION:
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T132000Z
-DTEND:20261018T164500Z
-SUMMARY:Teoria wojny informacyjnej Laboratorium
-LOCATION:
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Perka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261025T085000Z
-DTEND:20261025T102500Z
-SUMMARY:Metodyki obiektowe Projekt
-LOCATION:
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261107T085000Z
-DTEND:20261107T102500Z
-SUMMARY:Socjologia Ćwiczenia
+DTSTART:20261017T095000
+DTEND:20261017T112500
+SUMMARY:Soc (ć)
 LOCATION:
 DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261107T104000Z
-DTEND:20261107T140500Z
-SUMMARY:Metodyki obiektowe Projekt
+DTSTART:20261017T114000
+DTEND:20261017T150500
+SUMMARY:Twinf (L)
+LOCATION:
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T152000
+DTEND:20261017T184500
+SUMMARY:mo (P)
+LOCATION:
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T095000
+DTEND:20261018T131500
+SUMMARY:mo (P)
+LOCATION:
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T133000
+DTEND:20261018T150500
+SUMMARY:ZPr (L)
+LOCATION:
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T114000
+DTEND:20261024T131500
+SUMMARY:ZPr (w)
+LOCATION:
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T095000
+DTEND:20261025T131500
+SUMMARY:mo (P)
+LOCATION:
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T133000
+DTEND:20261025T150500
+SUMMARY:ZPr (L)
+LOCATION:
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T152000
+DTEND:20261025T184500
+SUMMARY:Twinf (L)
+LOCATION:
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T095000
+DTEND:20261114T112500
+SUMMARY:Soc (ć)
+LOCATION:
+DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T114000
+DTEND:20261114T150500
+SUMMARY:mo (P)
 LOCATION:
 DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261108T104000Z
-DTEND:20261108T140500Z
-SUMMARY:Zarządzanie projektami Laboratorium
-LOCATION:
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T085000Z
-DTEND:20261115T102500Z
-SUMMARY:Teoria wojny informacyjnej Wykład
+DTSTART:20261115T095000
+DTEND:20261115T112500
+SUMMARY:Twinf (w)
 LOCATION:
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T114000
+DTEND:20261115T150500
+SUMMARY:ZPr (L)
+LOCATION:
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 END:VCALENDAR

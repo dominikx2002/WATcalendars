@@ -4,324 +4,275 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY23IJ2S1
 BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T130500Z
-SUMMARY:Obliczenia równoległe i rozproszone Wykład
-LOCATION:
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T140000Z
-DTEND:20261001T172500Z
-SUMMARY:Rozproszone przetwarzanie danych w bazach danych Wykład
-LOCATION:
-DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261005T075000Z
-DTEND:20261005T092500Z
-SUMMARY:Obliczenia równoległe i rozproszone Wykład
-LOCATION:
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261006T060000Z
-DTEND:20261006T092500Z
-SUMMARY:Big data Wykład
-LOCATION:
-DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T060000Z
-DTEND:20261008T073500Z
-SUMMARY:Przetwarzanie języka naturalnego Wykład
-LOCATION:
-DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T075000Z
-DTEND:20261008T111500Z
-SUMMARY:Rozproszone przetwarzanie danych w bazach danych Wykład
-LOCATION:
-DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T113000Z
-DTEND:20261008T130500Z
-SUMMARY:Przetwarzanie języka naturalnego Wykład
+DTSTART:20261001T133000
+DTEND:20261001T150500
+SUMMARY:Pjn (w)
 LOCATION:
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261009T075000Z
-DTEND:20261009T092500Z
-SUMMARY:Rozproszone przetwarzanie danych w bazach danych Laboratorium
+DTSTART:20261001T160000
+DTEND:20261001T192500
+SUMMARY:RpdBd (w)
 LOCATION:
-DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261012T060000Z
-DTEND:20261012T073500Z
-SUMMARY:Obliczenia równoległe i rozproszone Wykład
+DTSTART:20261006T080000
+DTEND:20261006T112500
+SUMMARY:Bda (w)
+LOCATION:
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261008T080000
+DTEND:20261008T093500
+SUMMARY:Pjn (w)
+LOCATION:
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261008T114000
+DTEND:20261008T150500
+SUMMARY:Orr (w)
+LOCATION:
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261008T160000
+DTEND:20261008T192500
+SUMMARY:RpdBd (w)
+LOCATION:
+DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261012T080000
+DTEND:20261012T112500
+SUMMARY:Orr (w)
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T075000Z
-DTEND:20261014T092500Z
-SUMMARY:Big data Laboratorium
-LOCATION:
-DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T060000Z
-DTEND:20261015T073500Z
-SUMMARY:Big data Laboratorium
+DTSTART:20261015T080000
+DTEND:20261015T093500
+SUMMARY:Bda (L)
 LOCATION:
 DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T092500Z
-SUMMARY:Big data Wykład
+DTSTART:20261015T095000
+DTEND:20261015T131500
+SUMMARY:RpdBd (w)
 LOCATION:
-DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T130500Z
-SUMMARY:Obliczenia równoległe i rozproszone Wykład
+DTSTART:20261015T133000
+DTEND:20261015T150500
+SUMMARY:Pjn (w)
 LOCATION:
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261016T060000Z
-DTEND:20261016T092500Z
-SUMMARY:Rozproszone przetwarzanie danych w bazach danych Laboratorium
+DTSTART:20261016T080000
+DTEND:20261016T112500
+SUMMARY:RpdBd (L)
 LOCATION:
 DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261016T094000Z
-DTEND:20261016T130500Z
-SUMMARY:Obliczenia równoległe i rozproszone Laboratorium
+DTSTART:20261021T080000
+DTEND:20261021T112500
+SUMMARY:Bda (L)
+LOCATION:
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T080000
+DTEND:20261022T112500
+SUMMARY:Bda (w)
+LOCATION:
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T114000
+DTEND:20261022T150500
+SUMMARY:Orr (w)
+LOCATION:
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T080000
+DTEND:20261023T112500
+SUMMARY:RpdBd (L)
+LOCATION:
+DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T114000
+DTEND:20261023T150500
+SUMMARY:Orr (L)
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Zimoń
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261016T155000Z
-DTEND:20261016T172500Z
-SUMMARY:Wszystkie przedmioty prowadzącego zal popr
+DTSTART:20261023T175000
+DTEND:20261023T192500
+SUMMARY:Wpp (z)
 LOCATION:
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: zal popr\nNumer zajęć: 6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261019T094000Z
-DTEND:20261019T130500Z
-SUMMARY:Obliczenia równoległe i rozproszone Laboratorium
+DTSTART:20261026T114000
+DTEND:20261026T150500
+SUMMARY:Orr (L)
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Zimoń
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T060000Z
-DTEND:20261021T092500Z
-SUMMARY:Big data Laboratorium
+DTSTART:20261028T080000
+DTEND:20261028T112500
+SUMMARY:Bda (L)
 LOCATION:
 DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T060000Z
-DTEND:20261022T073500Z
-SUMMARY:Big data Wykład
+DTSTART:20261029T080000
+DTEND:20261029T112500
+SUMMARY:RpdBd (L)
 LOCATION:
-DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T075000Z
-DTEND:20261022T092500Z
-SUMMARY:Rozproszone przetwarzanie danych w bazach danych Laboratorium
-LOCATION:
-DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T140000Z
-DTEND:20261022T153500Z
-SUMMARY:Przetwarzanie języka naturalnego Wykład
+DTSTART:20261029T160000
+DTEND:20261029T173500
+SUMMARY:Pjn (w)
 LOCATION:
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T155000Z
-DTEND:20261022T191500Z
-SUMMARY:Przetwarzanie języka naturalnego Laboratorium
+DTSTART:20261029T175000
+DTEND:20261029T211500
+SUMMARY:Pjn (L)
 LOCATION:
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261023T060000Z
-DTEND:20261023T073500Z
-SUMMARY:Rozproszone przetwarzanie danych w bazach danych Laboratorium
-LOCATION:
-DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261023T094000Z
-DTEND:20261023T130500Z
-SUMMARY:Obliczenia równoległe i rozproszone Ćwiczenia
+DTSTART:20261030T114000
+DTEND:20261030T150500
+SUMMARY:Orr (ć)
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T070000Z
-DTEND:20261028T083500Z
-SUMMARY:Big data Laboratorium
-LOCATION:
-DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
-SUMMARY:Rozproszone przetwarzanie danych w bazach danych Laboratorium
-LOCATION:
-DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
-SUMMARY:Big data Wykład
-LOCATION:
-DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Bolesław Szafrański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T140500Z
-SUMMARY:Obliczenia równoległe i rozproszone Wykład
-LOCATION:
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T150000Z
-DTEND:20261029T182500Z
-SUMMARY:Przetwarzanie języka naturalnego Laboratorium
-LOCATION:
-DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T085000Z
-DTEND:20261030T102500Z
-SUMMARY:Rozproszone przetwarzanie danych w bazach danych Laboratorium
-LOCATION:
-DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T104000Z
-DTEND:20261030T140500Z
-SUMMARY:Obliczenia równoległe i rozproszone Ćwiczenia
-LOCATION:
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
-SUMMARY:Big data Wykład
+DTSTART:20261105T080000
+DTEND:20261105T112500
+SUMMARY:Bda (w)
 LOCATION:
 DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T085000Z
-DTEND:20261105T102500Z
-SUMMARY:Obliczenia równoległe i rozproszone Laboratorium
+DTSTART:20261105T114000
+DTEND:20261105T150500
+SUMMARY:Orr (w)
 LOCATION:
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Zimoń
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T104000Z
-DTEND:20261105T140500Z
-SUMMARY:Przetwarzanie języka naturalnego Laboratorium
+DTSTART:20261105T160000
+DTEND:20261105T192500
+SUMMARY:Pjn (L)
 LOCATION:
-DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261106T070000Z
-DTEND:20261106T083500Z
-SUMMARY:Rozproszone przetwarzanie danych w bazach danych Laboratorium
+DTSTART:20261106T080000
+DTEND:20261106T112500
+SUMMARY:RpdBd (L)
 LOCATION:
 DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261111T085000Z
-DTEND:20261111T102500Z
-SUMMARY:Big data Laboratorium
+DTSTART:20261106T114000
+DTEND:20261106T150500
+SUMMARY:Orr (ć)
 LOCATION:
-DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T070000Z
-DTEND:20261112T083500Z
-SUMMARY:Przetwarzanie języka naturalnego Wykład
-LOCATION:
-DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T085000Z
-DTEND:20261112T102500Z
-SUMMARY:Obliczenia równoległe i rozproszone Laboratorium
-LOCATION:
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Zimoń
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T140500Z
-SUMMARY:Przetwarzanie języka naturalnego Laboratorium
-LOCATION:
-DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T070000Z
-DTEND:20261118T102500Z
-SUMMARY:Big data Laboratorium
-LOCATION:
-DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:Przetwarzanie języka naturalnego Wykład
+DTSTART:20261112T080000
+DTEND:20261112T093500
+SUMMARY:Pjn (w)
 LOCATION:
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T085000Z
-DTEND:20261119T102500Z
-SUMMARY:Obliczenia równoległe i rozproszone Laboratorium
+DTSTART:20261112T095000
+DTEND:20261112T112500
+SUMMARY:Orr (L)
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Zimoń
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T104000Z
-DTEND:20261119T121500Z
-SUMMARY:Przetwarzanie języka naturalnego Laboratorium
+DTSTART:20261112T114000
+DTEND:20261112T150500
+SUMMARY:Pjn (L)
 LOCATION:
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T070000Z
-DTEND:20261125T083500Z
-SUMMARY:Big data Laboratorium
+DTSTART:20261118T080000
+DTEND:20261118T112500
+SUMMARY:Bda (L)
 LOCATION:
 DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T070000Z
-DTEND:20261126T083500Z
-SUMMARY:Obliczenia równoległe i rozproszone Laboratorium
+DTSTART:20261119T080000
+DTEND:20261119T093500
+SUMMARY:Pjn (w)
+LOCATION:
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T095000
+DTEND:20261119T112500
+SUMMARY:Orr (L)
+LOCATION:
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Zimoń
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T114000
+DTEND:20261119T150500
+SUMMARY:Pjn (L)
+LOCATION:
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T080000
+DTEND:20261125T112500
+SUMMARY:Bda (L)
+LOCATION:
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T080000
+DTEND:20261126T112500
+SUMMARY:Orr (L)
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Zimoń
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T085000Z
-DTEND:20270121T102500Z
-SUMMARY:Rozproszone przetwarzanie danych w bazach danych Laboratorium
+DTSTART:20261126T114000
+DTEND:20261126T131500
+SUMMARY:Pjn (L)
+LOCATION:
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270128T095000
+DTEND:20270128T112500
+SUMMARY:RpdBd (L)
 LOCATION:
 DESCRIPTION:Rozproszone przetwarzanie danych w bazach danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
