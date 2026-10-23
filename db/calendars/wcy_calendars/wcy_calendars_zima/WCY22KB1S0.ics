@@ -7,14 +7,14 @@ BEGIN:VEVENT
 DTSTART:20260928T114000
 DTEND:20260928T131500
 SUMMARY:MeSK (Ep)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260930T080000
 DTEND:20260930T093500
 SUMMARY:Masz (Ep)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
@@ -28,14 +28,14 @@ BEGIN:VEVENT
 DTSTART:20261001T095000
 DTEND:20261001T131500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(KSP)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T160000
 DTEND:20261001T173500
 SUMMARY:Pjn (w)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
@@ -49,14 +49,14 @@ BEGIN:VEVENT
 DTSTART:20261005T160000
 DTEND:20261005T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T095000
 DTEND:20261006T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 DTSTART:20261007T080000
 DTEND:20261007T131500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: kpr.  Natalia Majewska; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
@@ -91,21 +91,21 @@ BEGIN:VEVENT
 DTSTART:20261008T114000
 DTEND:20261008T131500
 SUMMARY:Zawi (w)
-LOCATION:
+LOCATION:252 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T133000
 DTEND:20261008T150500
 SUMMARY:Pjn (w)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T080000
 DTEND:20261009T112500
 SUMMARY:Twinf (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
@@ -126,21 +126,21 @@ BEGIN:VEVENT
 DTSTART:20261012T114000
 DTEND:20261012T150500
 SUMMARY:Dtu (P)
-LOCATION:
+LOCATION:011 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T160000
 DTEND:20261012T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T095000
 DTEND:20261013T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 DTSTART:20261013T133000
 DTEND:20261013T150500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
@@ -168,35 +168,35 @@ BEGIN:VEVENT
 DTSTART:20261015T095000
 DTEND:20261015T112500
 SUMMARY:Dtu (L)
-LOCATION:
+LOCATION:239 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T114000
 DTEND:20261015T131500
 SUMMARY:Zawi (w)
-LOCATION:
+LOCATION:252 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T133000
 DTEND:20261015T150500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpr.  Natalia Majewska; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T160000
 DTEND:20261015T192500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: kpr.  Natalia Majewska; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T080000
 DTEND:20261016T112500
 SUMMARY:IRz (w)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
@@ -217,14 +217,14 @@ BEGIN:VEVENT
 DTSTART:20261019T160000
 DTEND:20261019T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T095000
 DTEND:20261020T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -238,21 +238,21 @@ BEGIN:VEVENT
 DTSTART:20261021T080000
 DTEND:20261021T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T114000
 DTEND:20261021T131500
 SUMMARY:Zawi (w)
-LOCATION:
+LOCATION:252 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T133000
 DTEND:20261021T150500
 SUMMARY:Zmwm (w)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
@@ -266,28 +266,28 @@ BEGIN:VEVENT
 DTSTART:20261022T095000
 DTEND:20261022T131500
 SUMMARY:TW (w)
-LOCATION:
+LOCATION:17 57
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Marek Oleksiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T133000
 DTEND:20261022T150500
 SUMMARY:REG (w)
-LOCATION:
+LOCATION:103 K
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppłk rez. Paweł Jęcek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T160000
 DTEND:20261022T173500
 SUMMARY:Pjn (w)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T080000
 DTEND:20261023T112500
 SUMMARY:Twinf (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 DTSTART:20261023T133000
 DTEND:20261023T150500
 SUMMARY:Zawi (L)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
@@ -315,14 +315,14 @@ BEGIN:VEVENT
 DTSTART:20261026T160000
 DTEND:20261026T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T095000
 DTEND:20261027T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -336,14 +336,14 @@ BEGIN:VEVENT
 DTSTART:20261027T133000
 DTEND:20261027T150500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T160000
 DTEND:20261027T192500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
@@ -357,14 +357,14 @@ BEGIN:VEVENT
 DTSTART:20261028T114000
 DTEND:20261028T131500
 SUMMARY:Zawi (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T160000
 DTEND:20261028T192500
 SUMMARY:IRz (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
@@ -378,28 +378,28 @@ BEGIN:VEVENT
 DTSTART:20261029T095000
 DTEND:20261029T112500
 SUMMARY:Zawi (P)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T114000
 DTEND:20261029T131500
 SUMMARY:Zawi (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T133000
 DTEND:20261029T150500
 SUMMARY:Pjn (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T080000
 DTEND:20261030T112500
 SUMMARY:IRz (w)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
@@ -420,35 +420,35 @@ BEGIN:VEVENT
 DTSTART:20261102T095000
 DTEND:20261102T112500
 SUMMARY:Zawi (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T114000
 DTEND:20261102T131500
 SUMMARY:wzbnim (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T133000
 DTEND:20261102T150500
 SUMMARY:Dtu (L)
-LOCATION:
+LOCATION:121 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T160000
 DTEND:20261102T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T095000
 DTEND:20261103T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -462,42 +462,42 @@ BEGIN:VEVENT
 DTSTART:20261103T133000
 DTEND:20261103T150500
 SUMMARY:Zawi (P)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T080000
 DTEND:20261104T093500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T095000
 DTEND:20261104T112500
 SUMMARY:wzbnim (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T114000
 DTEND:20261104T131500
 SUMMARY:Zawi (w)
-LOCATION:
+LOCATION:252 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T133000
 DTEND:20261104T150500
 SUMMARY:Zmwm (w)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T160000
 DTEND:20261104T173500
 SUMMARY:Twinf (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
@@ -511,21 +511,21 @@ BEGIN:VEVENT
 DTSTART:20261105T133000
 DTEND:20261105T150500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T160000
 DTEND:20261105T173500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T080000
 DTEND:20261106T112500
 SUMMARY:Twinf (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
@@ -539,14 +539,14 @@ BEGIN:VEVENT
 DTSTART:20261106T133000
 DTEND:20261106T150500
 SUMMARY:Zmwm (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T160000
 DTEND:20261106T173500
 SUMMARY:Zmwm (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
@@ -560,35 +560,35 @@ BEGIN:VEVENT
 DTSTART:20261109T080000
 DTEND:20261109T093500
 SUMMARY:IRz (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T114000
 DTEND:20261109T131500
 SUMMARY:wzbnim (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T133000
 DTEND:20261109T150500
 SUMMARY:Zawi (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T160000
 DTEND:20261109T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T095000
 DTEND:20261110T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -602,14 +602,14 @@ BEGIN:VEVENT
 DTSTART:20261110T133000
 DTEND:20261110T150500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T160000
 DTEND:20261110T192500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
@@ -623,28 +623,28 @@ BEGIN:VEVENT
 DTSTART:20261112T095000
 DTEND:20261112T112500
 SUMMARY:REG (ć)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk rez. Paweł Jęcek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T114000
 DTEND:20261112T150500
 SUMMARY:TW (ć)
-LOCATION:
+LOCATION:17 57
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Marek Oleksiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T160000
 DTEND:20261112T173500
 SUMMARY:Pjn (w)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T080000
 DTEND:20261113T112500
 SUMMARY:IRz (w)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
@@ -658,7 +658,7 @@ BEGIN:VEVENT
 DTSTART:20261113T133000
 DTEND:20261113T150500
 SUMMARY:Zawi (P)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
@@ -672,21 +672,21 @@ BEGIN:VEVENT
 DTSTART:20261116T114000
 DTEND:20261116T131500
 SUMMARY:wzbnim (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T160000
 DTEND:20261116T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T095000
 DTEND:20261117T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -707,14 +707,14 @@ BEGIN:VEVENT
 DTSTART:20261118T114000
 DTEND:20261118T131500
 SUMMARY:Zmwm (w)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T133000
 DTEND:20261118T150500
 SUMMARY:Zawi (P)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
@@ -728,28 +728,28 @@ BEGIN:VEVENT
 DTSTART:20261119T095000
 DTEND:20261119T112500
 SUMMARY:Pjn (w)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T114000
 DTEND:20261119T150500
 SUMMARY:Dtu (P)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T160000
 DTEND:20261119T192500
 SUMMARY:Pjn (L)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T095000
 DTEND:20261120T112500
 SUMMARY:Twinf (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
@@ -763,14 +763,14 @@ BEGIN:VEVENT
 DTSTART:20261120T133000
 DTEND:20261120T150500
 SUMMARY:Zmwm (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T160000
 DTEND:20261120T173500
 SUMMARY:Zmwm (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
@@ -784,21 +784,21 @@ BEGIN:VEVENT
 DTSTART:20261123T114000
 DTEND:20261123T150500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T160000
 DTEND:20261123T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T095000
 DTEND:20261124T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -812,49 +812,49 @@ BEGIN:VEVENT
 DTSTART:20261124T133000
 DTEND:20261124T150500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T160000
 DTEND:20261124T192500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T080000
 DTEND:20261125T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T114000
 DTEND:20261125T150500
 SUMMARY:IRz (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T160000
 DTEND:20261125T192500
 SUMMARY:Twinf (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T080000
 DTEND:20261126T112500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T160000
 DTEND:20261126T192500
 SUMMARY:Pjn (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
@@ -868,28 +868,28 @@ BEGIN:VEVENT
 DTSTART:20261130T114000
 DTEND:20261130T131500
 SUMMARY:Stg (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T133000
 DTEND:20261130T150500
 SUMMARY:Stg (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T160000
 DTEND:20261130T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T080000
 DTEND:20261201T112500
 SUMMARY:IRz (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
@@ -903,14 +903,14 @@ BEGIN:VEVENT
 DTSTART:20261202T080000
 DTEND:20261202T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T114000
 DTEND:20261202T150500
 SUMMARY:Zmwm (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
@@ -924,14 +924,14 @@ BEGIN:VEVENT
 DTSTART:20261203T160000
 DTEND:20261203T192500
 SUMMARY:Pjn (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T095000
 DTEND:20261204T112500
 SUMMARY:Dtu (L)
-LOCATION:
+LOCATION:239 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
@@ -945,7 +945,7 @@ BEGIN:VEVENT
 DTSTART:20261204T133000
 DTEND:20261204T150500
 SUMMARY:Zawi (P)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
@@ -959,28 +959,28 @@ BEGIN:VEVENT
 DTSTART:20261207T114000
 DTEND:20261207T131500
 SUMMARY:Stg (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T133000
 DTEND:20261207T150500
 SUMMARY:Dtu (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T160000
 DTEND:20261207T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T080000
 DTEND:20261208T112500
 SUMMARY:IRz (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
@@ -994,14 +994,14 @@ BEGIN:VEVENT
 DTSTART:20261208T133000
 DTEND:20261208T150500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T160000
 DTEND:20261208T192500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
@@ -1015,28 +1015,28 @@ BEGIN:VEVENT
 DTSTART:20261210T095000
 DTEND:20261210T131500
 SUMMARY:TW (ć)
-LOCATION:
+LOCATION:17 57
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Marek Oleksiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T133000
 DTEND:20261210T150500
 SUMMARY:Pjn (L)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T160000
 DTEND:20261210T173500
 SUMMARY:Pjn (L)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T095000
 DTEND:20261211T112500
 SUMMARY:Zawi (P)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
@@ -1057,28 +1057,28 @@ BEGIN:VEVENT
 DTSTART:20261214T114000
 DTEND:20261214T131500
 SUMMARY:Stg (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T133000
 DTEND:20261214T150500
 SUMMARY:Stg (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T160000
 DTEND:20261214T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T080000
 DTEND:20261215T112500
 SUMMARY:Twinf (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
@@ -1092,28 +1092,28 @@ BEGIN:VEVENT
 DTSTART:20261215T133000
 DTEND:20261215T150500
 SUMMARY:Zawi (P)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T095000
 DTEND:20261216T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T133000
 DTEND:20261216T150500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T160000
 DTEND:20261216T192500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
@@ -1127,14 +1127,14 @@ BEGIN:VEVENT
 DTSTART:20261217T095000
 DTEND:20261217T131500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T160000
 DTEND:20261217T173500
 SUMMARY:Pjn (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
@@ -1148,14 +1148,14 @@ BEGIN:VEVENT
 DTSTART:20261218T133000
 DTEND:20261218T150500
 SUMMARY:Zmwm (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T160000
 DTEND:20261218T173500
 SUMMARY:Zmwm (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
@@ -1169,28 +1169,28 @@ BEGIN:VEVENT
 DTSTART:20261221T114000
 DTEND:20261221T131500
 SUMMARY:Stg (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T133000
 DTEND:20261221T150500
 SUMMARY:Zawi (P)
-LOCATION:
+LOCATION:252 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T160000
 DTEND:20261221T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T080000
 DTEND:20261222T112500
 SUMMARY:IRz (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1204,35 +1204,35 @@ BEGIN:VEVENT
 DTSTART:20261222T133000
 DTEND:20261222T150500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T160000
 DTEND:20261222T192500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T080000
 DTEND:20261223T093500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T095000
 DTEND:20261223T112500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T114000
 DTEND:20261223T150500
 SUMMARY:Dtu (P)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
@@ -1246,14 +1246,14 @@ BEGIN:VEVENT
 DTSTART:20270107T114000
 DTEND:20270107T150500
 SUMMARY:Zmwm (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T080000
 DTEND:20270108T112500
 SUMMARY:IRz (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1267,7 +1267,7 @@ BEGIN:VEVENT
 DTSTART:20270108T133000
 DTEND:20270108T150500
 SUMMARY:Zawi (P)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
@@ -1281,21 +1281,21 @@ BEGIN:VEVENT
 DTSTART:20270111T133000
 DTEND:20270111T150500
 SUMMARY:Stg (L)
-LOCATION:
+LOCATION:218 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270111T160000
 DTEND:20270111T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T080000
 DTEND:20270112T112500
 SUMMARY:Stg (L)
-LOCATION:
+LOCATION:218 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -1309,35 +1309,35 @@ BEGIN:VEVENT
 DTSTART:20270112T133000
 DTEND:20270112T150500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T160000
 DTEND:20270112T192500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T095000
 DTEND:20270113T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T114000
 DTEND:20270113T131500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T133000
 DTEND:20270113T150500
 SUMMARY:Zawi (P)
-LOCATION:
+LOCATION:239 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
@@ -1351,35 +1351,35 @@ BEGIN:VEVENT
 DTSTART:20270114T095000
 DTEND:20270114T112500
 SUMMARY:TW (ć)
-LOCATION:
+LOCATION:17 57
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Marek Oleksiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T114000
 DTEND:20270114T131500
 SUMMARY:REG (ć)
-LOCATION:
+LOCATION:AW 3/043
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk rez. Paweł Jęcek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T114000
 DTEND:20270115T131500
 SUMMARY:Dtu (L)
-LOCATION:
+LOCATION:239 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T133000
 DTEND:20270115T150500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T160000
 DTEND:20270115T192500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
@@ -1393,14 +1393,14 @@ BEGIN:VEVENT
 DTSTART:20270118T133000
 DTEND:20270118T150500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 1
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T160000
 DTEND:20270118T192500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 1
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
@@ -1414,35 +1414,35 @@ BEGIN:VEVENT
 DTSTART:20270120T080000
 DTEND:20270120T093500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T095000
 DTEND:20270120T112500
 SUMMARY:Zawi (P)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T114000
 DTEND:20270120T150500
 SUMMARY:Twinf (L)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T080000
 DTEND:20270121T131500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270122T080000
 DTEND:20270122T112500
 SUMMARY:Zmwm (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
@@ -1463,21 +1463,21 @@ BEGIN:VEVENT
 DTSTART:20270125T114000
 DTEND:20270125T150500
 SUMMARY:Stg (L)
-LOCATION:
+LOCATION:218 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270125T160000
 DTEND:20270125T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T095000
 DTEND:20270126T112500
 SUMMARY:Dtu (L)
-LOCATION:
+LOCATION:239 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
@@ -1491,42 +1491,42 @@ BEGIN:VEVENT
 DTSTART:20270126T133000
 DTEND:20270126T150500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T160000
 DTEND:20270126T192500
 SUMMARY:Pzbi (P)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Projekt z zakresu bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T080000
 DTEND:20270127T093500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T095000
 DTEND:20270127T112500
 SUMMARY:Zawi (P)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T114000
 DTEND:20270127T150500
 SUMMARY:Dtu (P)
-LOCATION:
+LOCATION:101 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T080000
 DTEND:20270129T093500
 SUMMARY:Twinf (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT

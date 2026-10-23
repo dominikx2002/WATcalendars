@@ -7,7 +7,7 @@ BEGIN:VEVENT
 DTSTART:20261001T095000
 DTEND:20261001T112500
 SUMMARY:OIN (w)
-LOCATION:
+LOCATION:AW 4
 DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
 END:VEVENT
 BEGIN:VEVENT
@@ -21,21 +21,21 @@ BEGIN:VEVENT
 DTSTART:20261001T133000
 DTEND:20261001T150500
 SUMMARY:ZINŻ (w)
-LOCATION:
+LOCATION:AW 3/038
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppłk mgr Paweł Jurzysta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T160000
 DTEND:20261001T173500
 SUMMARY:ZINŻ (w)
-LOCATION:
+LOCATION:AW 3/038
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: ppłk mgr Paweł Jurzysta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T080000
 DTEND:20261002T093500
 SUMMARY:SzS (w)
-LOCATION:
+LOCATION:AW 4
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: . STRZEL. 1
 END:VEVENT
 BEGIN:VEVENT
@@ -49,14 +49,14 @@ BEGIN:VEVENT
 DTSTART:20261002T114000
 DTEND:20261002T131500
 SUMMARY:PO (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T133000
 DTEND:20261002T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
@@ -70,91 +70,91 @@ BEGIN:VEVENT
 DTSTART:20261005T080000
 DTEND:20261005T112500
 SUMMARY:Tgs (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T114000
 DTEND:20261005T150500
 SUMMARY:ppk (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T160000
 DTEND:20261005T173500
 SUMMARY:Sm (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T080000
 DTEND:20261006T093500
 SUMMARY:Aok (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T095000
 DTEND:20261006T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T114000
 DTEND:20261006T150500
 SUMMARY:PO (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T160000
 DTEND:20261006T192500
 SUMMARY:Tik (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T095000
 DTEND:20261007T112500
 SUMMARY:F1 (z)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Zp. Ćw\nNumer zajęć: 2\nProwadzący: dr inż. Michał Dudek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T114000
 DTEND:20261007T150500
 SUMMARY:Pnak (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T160000
 DTEND:20261007T173500
 SUMMARY:Als (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T095000
 DTEND:20261008T131500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(KSP)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T133000
 DTEND:20261008T150500
 SUMMARY:ZINŻ (ć)
-LOCATION:
+LOCATION:PĆT1
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: ppłk mgr Paweł Jurzysta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T080000
 DTEND:20261009T093500
 SUMMARY:PO (ć)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -168,14 +168,14 @@ BEGIN:VEVENT
 DTSTART:20261009T114000
 DTEND:20261009T131500
 SUMMARY:Pr.A (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T133000
 DTEND:20261009T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
@@ -189,56 +189,56 @@ BEGIN:VEVENT
 DTSTART:20261012T095000
 DTEND:20261012T112500
 SUMMARY:PO (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T114000
 DTEND:20261012T150500
 SUMMARY:ppk (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T160000
 DTEND:20261012T173500
 SUMMARY:Sm (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T080000
 DTEND:20261013T093500
 SUMMARY:Aok (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T095000
 DTEND:20261013T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T114000
 DTEND:20261013T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T133000
 DTEND:20261013T150500
 SUMMARY:Tik (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T160000
 DTEND:20261013T192500
 SUMMARY:Tik (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
@@ -252,14 +252,14 @@ BEGIN:VEVENT
 DTSTART:20261014T160000
 DTEND:20261014T173500
 SUMMARY:Als (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T080000
 DTEND:20261015T112500
 SUMMARY:ppk (L)
-LOCATION:
+LOCATION:09 65
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
@@ -273,14 +273,14 @@ BEGIN:VEVENT
 DTSTART:20261015T160000
 DTEND:20261015T173500
 SUMMARY:F1 (Ep)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T080000
 DTEND:20261016T093500
 SUMMARY:PO (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
@@ -294,14 +294,14 @@ BEGIN:VEVENT
 DTSTART:20261016T133000
 DTEND:20261016T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T160000
 DTEND:20261016T192500
 SUMMARY:Tik (L)
-LOCATION:
+LOCATION:09 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
@@ -315,84 +315,84 @@ BEGIN:VEVENT
 DTSTART:20261019T095000
 DTEND:20261019T112500
 SUMMARY:Tgs (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T114000
 DTEND:20261019T150500
 SUMMARY:ppk (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T160000
 DTEND:20261019T173500
 SUMMARY:Sm (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T080000
 DTEND:20261020T093500
 SUMMARY:Aok (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T095000
 DTEND:20261020T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T114000
 DTEND:20261020T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T133000
 DTEND:20261020T150500
 SUMMARY:PO (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T160000
 DTEND:20261020T192500
 SUMMARY:Aok (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T114000
 DTEND:20261021T150500
 SUMMARY:Pnak (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T160000
 DTEND:20261021T173500
 SUMMARY:Als (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T080000
 DTEND:20261022T093500
 SUMMARY:OIN (w)
-LOCATION:
+LOCATION:103 K
 DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T095000
 DTEND:20261022T112500
 SUMMARY:Tik (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
@@ -413,21 +413,21 @@ BEGIN:VEVENT
 DTSTART:20261023T114000
 DTEND:20261023T131500
 SUMMARY:Sm (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T133000
 DTEND:20261023T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T160000
 DTEND:20261023T173500
 SUMMARY:PO (ć)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -441,98 +441,98 @@ BEGIN:VEVENT
 DTSTART:20261026T095000
 DTEND:20261026T112500
 SUMMARY:F2 (L)
-LOCATION:
+LOCATION:139 S 141 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T114000
 DTEND:20261026T131500
 SUMMARY:F2 (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T133000
 DTEND:20261026T150500
 SUMMARY:Sm (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T160000
 DTEND:20261026T173500
 SUMMARY:Sm (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T080000
 DTEND:20261027T093500
 SUMMARY:Aok (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T095000
 DTEND:20261027T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T114000
 DTEND:20261027T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T133000
 DTEND:20261027T150500
 SUMMARY:Pnak (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T160000
 DTEND:20261027T173500
 SUMMARY:Pnak (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T095000
 DTEND:20261028T112500
 SUMMARY:Tik (ć)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T114000
 DTEND:20261028T131500
 SUMMARY:Pwd (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Kazimierz Piotrkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T133000
 DTEND:20261028T150500
 SUMMARY:Pr.A (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T160000
 DTEND:20261028T173500
 SUMMARY:Als (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T080000
 DTEND:20261029T112500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
@@ -553,14 +553,14 @@ BEGIN:VEVENT
 DTSTART:20261030T133000
 DTEND:20261030T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 120 K 121 K 122 K 124 K 125 K 126 K 127 K 128 K 131 K 133 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T160000
 DTEND:20261030T192500
 SUMMARY:Tik (L)
-LOCATION:
+LOCATION:125 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
@@ -574,56 +574,56 @@ BEGIN:VEVENT
 DTSTART:20261102T095000
 DTEND:20261102T112500
 SUMMARY:Tgs (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T114000
 DTEND:20261102T131500
 SUMMARY:ppk (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T160000
 DTEND:20261102T173500
 SUMMARY:Sm (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T080000
 DTEND:20261103T093500
 SUMMARY:F2 (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T095000
 DTEND:20261103T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T114000
 DTEND:20261103T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T160000
 DTEND:20261103T192500
 SUMMARY:Tik (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T080000
 DTEND:20261104T093500
 SUMMARY:PO (ć)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -637,28 +637,28 @@ BEGIN:VEVENT
 DTSTART:20261104T114000
 DTEND:20261104T131500
 SUMMARY:F2 (L)
-LOCATION:
+LOCATION:139 S 141 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T133000
 DTEND:20261104T150500
 SUMMARY:Pnak (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T160000
 DTEND:20261104T173500
 SUMMARY:Als (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T080000
 DTEND:20261105T112500
 SUMMARY:Pnak (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
@@ -672,7 +672,7 @@ BEGIN:VEVENT
 DTSTART:20261105T133000
 DTEND:20261105T150500
 SUMMARY:TA (w)
-LOCATION:
+LOCATION:AW 3/038
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: płk rez. dr inż. Grzegorz Krawczyk
 END:VEVENT
 BEGIN:VEVENT
@@ -686,21 +686,21 @@ BEGIN:VEVENT
 DTSTART:20261106T114000
 DTEND:20261106T131500
 SUMMARY:Tik (ć)
-LOCATION:
+LOCATION:101 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T133000
 DTEND:20261106T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 120 K 121 K 122 K 124 K 125 K 126 K 127 K 128 K 131 K 133 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T160000
 DTEND:20261106T192500
 SUMMARY:Aok (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
@@ -714,42 +714,42 @@ BEGIN:VEVENT
 DTSTART:20261109T095000
 DTEND:20261109T112500
 SUMMARY:Tgs (ć)
-LOCATION:
+LOCATION:252 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T114000
 DTEND:20261109T150500
 SUMMARY:Pnak (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T160000
 DTEND:20261109T173500
 SUMMARY:Sm (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T095000
 DTEND:20261110T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T114000
 DTEND:20261110T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T080000
 DTEND:20261112T093500
 SUMMARY:ZINŻ (ć)
-LOCATION:
+LOCATION:ST.nr 1(ZI)
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk mgr Paweł Jurzysta
 END:VEVENT
 BEGIN:VEVENT
@@ -763,14 +763,14 @@ BEGIN:VEVENT
 DTSTART:20261112T133000
 DTEND:20261112T150500
 SUMMARY:Als (L)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T160000
 DTEND:20261112T173500
 SUMMARY:Als (L)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
@@ -784,21 +784,21 @@ BEGIN:VEVENT
 DTSTART:20261113T114000
 DTEND:20261113T131500
 SUMMARY:Sm (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T133000
 DTEND:20261113T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 120 K 121 K 122 K 124 K 125 K 126 K 127 K 128 K 131 K 133 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T160000
 DTEND:20261113T192500
 SUMMARY:Tik (L)
-LOCATION:
+LOCATION:011 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
@@ -812,56 +812,56 @@ BEGIN:VEVENT
 DTSTART:20261116T095000
 DTEND:20261116T112500
 SUMMARY:F2 (L)
-LOCATION:
+LOCATION:139 S 141 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T114000
 DTEND:20261116T150500
 SUMMARY:ppk (L)
-LOCATION:
+LOCATION:09 65
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T160000
 DTEND:20261116T173500
 SUMMARY:Sm (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T175000
 DTEND:20261116T192500
 SUMMARY:Amt (Ep)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 6\nProwadzący: dr Jan Nawrocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T080000
 DTEND:20261117T093500
 SUMMARY:F2 (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T095000
 DTEND:20261117T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T114000
 DTEND:20261117T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T160000
 DTEND:20261117T173500
 SUMMARY:Als (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
@@ -875,49 +875,49 @@ BEGIN:VEVENT
 DTSTART:20261118T114000
 DTEND:20261118T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T133000
 DTEND:20261118T150500
 SUMMARY:F2 (ć)
-LOCATION:
+LOCATION:3.3 75
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T080000
 DTEND:20261119T150500
 SUMMARY:PODS.SUR. (ć)
-LOCATION:
+LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T160000
 DTEND:20261119T192500
 SUMMARY:PODS.SUR. (ć)
-LOCATION:
+LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T080000
 DTEND:20261120T131500
 SUMMARY:PODS.SUR. (ć)
-LOCATION:
+LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T133000
 DTEND:20261120T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T160000
 DTEND:20261120T173500
 SUMMARY:PODS.SUR. (ć)
-LOCATION:
+LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
 END:VEVENT
 BEGIN:VEVENT
@@ -931,63 +931,63 @@ BEGIN:VEVENT
 DTSTART:20261123T095000
 DTEND:20261123T112500
 SUMMARY:Pwd (ć)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T114000
 DTEND:20261123T131500
 SUMMARY:Pr.A (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T133000
 DTEND:20261123T150500
 SUMMARY:Sm (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T160000
 DTEND:20261123T173500
 SUMMARY:PO (ć)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T080000
 DTEND:20261124T093500
 SUMMARY:F2 (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T095000
 DTEND:20261124T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T114000
 DTEND:20261124T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T160000
 DTEND:20261124T173500
 SUMMARY:Als (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T080000
 DTEND:20261125T093500
 SUMMARY:Pwd (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Kazimierz Piotrkowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1001,21 +1001,21 @@ BEGIN:VEVENT
 DTSTART:20261125T114000
 DTEND:20261125T150500
 SUMMARY:Als (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T160000
 DTEND:20261125T192500
 SUMMARY:Aok (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T080000
 DTEND:20261126T112500
 SUMMARY:Pnak (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
@@ -1036,56 +1036,56 @@ BEGIN:VEVENT
 DTSTART:20261130T114000
 DTEND:20261130T131500
 SUMMARY:Pr.A (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T133000
 DTEND:20261130T150500
 SUMMARY:Tik (ć)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T160000
 DTEND:20261130T173500
 SUMMARY:Tgs (ć)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T080000
 DTEND:20261201T093500
 SUMMARY:F2 (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T095000
 DTEND:20261201T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T114000
 DTEND:20261201T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T160000
 DTEND:20261201T173500
 SUMMARY:Als (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T080000
 DTEND:20261202T093500
 SUMMARY:Pwd (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Kazimierz Piotrkowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1099,42 +1099,42 @@ BEGIN:VEVENT
 DTSTART:20261202T114000
 DTEND:20261202T131500
 SUMMARY:Tik (ć)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T133000
 DTEND:20261202T150500
 SUMMARY:Tik (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T160000
 DTEND:20261202T173500
 SUMMARY:Pwd (ć)
-LOCATION:
+LOCATION:203 65
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T080000
 DTEND:20261203T093500
 SUMMARY:OIN (ć)
-LOCATION:
+LOCATION:22 /BIBL
 DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T095000
 DTEND:20261203T131500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T160000
 DTEND:20261203T173500
 SUMMARY:PO (ć)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -1148,7 +1148,7 @@ BEGIN:VEVENT
 DTSTART:20261204T133000
 DTEND:20261204T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
@@ -1162,63 +1162,63 @@ BEGIN:VEVENT
 DTSTART:20261207T095000
 DTEND:20261207T131500
 SUMMARY:Tgs (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T133000
 DTEND:20261207T150500
 SUMMARY:Aok (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T160000
 DTEND:20261207T192500
 SUMMARY:Aok (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T080000
 DTEND:20261208T093500
 SUMMARY:F2 (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T095000
 DTEND:20261208T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T114000
 DTEND:20261208T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T133000
 DTEND:20261208T150500
 SUMMARY:Als (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T160000
 DTEND:20261208T173500
 SUMMARY:Als (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T080000
 DTEND:20261210T112500
 SUMMARY:ppk (L)
-LOCATION:
+LOCATION:09 65
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
@@ -1232,7 +1232,7 @@ BEGIN:VEVENT
 DTSTART:20261210T133000
 DTEND:20261210T150500
 SUMMARY:ZINŻ (r)
-LOCATION:
+LOCATION:AW 3/038
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: repetytorium\nNumer zajęć: 4\nProwadzący: ppłk mgr Paweł Jurzysta
 END:VEVENT
 BEGIN:VEVENT
@@ -1246,7 +1246,7 @@ BEGIN:VEVENT
 DTSTART:20261211T133000
 DTEND:20261211T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
@@ -1260,42 +1260,42 @@ BEGIN:VEVENT
 DTSTART:20261214T095000
 DTEND:20261214T112500
 SUMMARY:F2 (L)
-LOCATION:
+LOCATION:139 S 141 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T114000
 DTEND:20261214T131500
 SUMMARY:F2 (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T133000
 DTEND:20261214T150500
 SUMMARY:Aok (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T160000
 DTEND:20261214T173500
 SUMMARY:Pwd (ć)
-LOCATION:
+LOCATION:203 65
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T095000
 DTEND:20261215T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T114000
 DTEND:20261215T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
@@ -1309,28 +1309,28 @@ BEGIN:VEVENT
 DTSTART:20261216T133000
 DTEND:20261216T150500
 SUMMARY:Tgs (ć)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T160000
 DTEND:20261216T192500
 SUMMARY:Aok (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T080000
 DTEND:20261217T093500
 SUMMARY:ZINŻ (ć)
-LOCATION:
+LOCATION:2.42/ 54A
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Wiesław Kuchta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T095000
 DTEND:20261217T112500
 SUMMARY:Pwd (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
@@ -1344,14 +1344,14 @@ BEGIN:VEVENT
 DTSTART:20261217T133000
 DTEND:20261217T150500
 SUMMARY:SŁiŚD (w)
-LOCATION:
+LOCATION:116 45
 DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Kudła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T160000
 DTEND:20261217T173500
 SUMMARY:PO (ć)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -1365,14 +1365,14 @@ BEGIN:VEVENT
 DTSTART:20261218T133000
 DTEND:20261218T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T160000
 DTEND:20261218T173500
 SUMMARY:Pwd (ć)
-LOCATION:
+LOCATION:203 65
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
@@ -1386,56 +1386,56 @@ BEGIN:VEVENT
 DTSTART:20261221T133000
 DTEND:20261221T150500
 SUMMARY:Tgs (ć)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T095000
 DTEND:20261222T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T114000
 DTEND:20261222T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T133000
 DTEND:20261222T150500
 SUMMARY:Als (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T160000
 DTEND:20261222T173500
 SUMMARY:Als (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T095000
 DTEND:20261223T112500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T114000
 DTEND:20261223T150500
 SUMMARY:Pnak (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T095000
 DTEND:20270107T112500
 SUMMARY:SŁiŚD (w)
-LOCATION:
+LOCATION:3.3 75
 DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Robert Krawczak
 END:VEVENT
 BEGIN:VEVENT
@@ -1449,21 +1449,21 @@ BEGIN:VEVENT
 DTSTART:20270107T133000
 DTEND:20270107T150500
 SUMMARY:Aok (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T160000
 DTEND:20270107T173500
 SUMMARY:Aok (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T080000
 DTEND:20270108T093500
 SUMMARY:PO (ć)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -1477,14 +1477,14 @@ BEGIN:VEVENT
 DTSTART:20270108T114000
 DTEND:20270108T131500
 SUMMARY:Pwd (ć)
-LOCATION:
+LOCATION:55/ 62
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T133000
 DTEND:20270108T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
@@ -1498,63 +1498,63 @@ BEGIN:VEVENT
 DTSTART:20270111T114000
 DTEND:20270111T150500
 SUMMARY:ppk (L)
-LOCATION:
+LOCATION:09 65
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270111T160000
 DTEND:20270111T173500
 SUMMARY:Pwd (ć)
-LOCATION:
+LOCATION:203 65
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T080000
 DTEND:20270112T093500
 SUMMARY:F2 (L)
-LOCATION:
+LOCATION:139 S 141 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T095000
 DTEND:20270112T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T114000
 DTEND:20270112T131500
 SUMMARY:F2 (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T133000
 DTEND:20270112T150500
 SUMMARY:Tik (ć)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T095000
 DTEND:20270113T112500
 SUMMARY:Sm (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T114000
 DTEND:20270113T131500
 SUMMARY:Tgs (ć)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T080000
 DTEND:20270114T093500
 SUMMARY:TA (ć)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: por. mgr inż. Artur Kłosiński
 END:VEVENT
 BEGIN:VEVENT
@@ -1568,14 +1568,14 @@ BEGIN:VEVENT
 DTSTART:20270114T133000
 DTEND:20270114T150500
 SUMMARY:Aok (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T160000
 DTEND:20270114T173500
 SUMMARY:Aok (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
@@ -1589,7 +1589,7 @@ BEGIN:VEVENT
 DTSTART:20270115T133000
 DTEND:20270115T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
@@ -1603,56 +1603,56 @@ BEGIN:VEVENT
 DTSTART:20270118T133000
 DTEND:20270118T150500
 SUMMARY:Tgs (ć)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T080000
 DTEND:20270119T093500
 SUMMARY:F2 (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T095000
 DTEND:20270119T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T114000
 DTEND:20270119T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T080000
 DTEND:20270120T112500
 SUMMARY:Als (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T114000
 DTEND:20270120T150500
 SUMMARY:Aok (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T080000
 DTEND:20270121T112500
 SUMMARY:TA (ć)
-LOCATION:
+LOCATION:PĆT1
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: kpt. mgr Stanisław Ślusakowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270122T080000
 DTEND:20270122T093500
 SUMMARY:PO (ć)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -1666,7 +1666,7 @@ BEGIN:VEVENT
 DTSTART:20270122T133000
 DTEND:20270122T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
@@ -1680,56 +1680,56 @@ BEGIN:VEVENT
 DTSTART:20270126T095000
 DTEND:20270126T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T114000
 DTEND:20270126T131500
 SUMMARY:F2 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T133000
 DTEND:20270126T150500
 SUMMARY:Als (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T160000
 DTEND:20270126T173500
 SUMMARY:Pwd (ć)
-LOCATION:
+LOCATION:203 65
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T080000
 DTEND:20270127T093500
 SUMMARY:Als (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T095000
 DTEND:20270127T112500
 SUMMARY:Sm (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T080000
 DTEND:20270128T131500
 SUMMARY:SŁiŚD (ć)
-LOCATION:
+LOCATION:6 47 5 47 24 47 23 47
 DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Waldemar Grabiec; dr inż. Tomasz Orżanowski; dr inż. Tadeusz Drozd; dr inż. Zbigniew Kudła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T133000
 DTEND:20270128T150500
 SUMMARY:Tgs (ć)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1743,14 +1743,14 @@ BEGIN:VEVENT
 DTSTART:20270129T133000
 DTEND:20270129T150500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270215T095000
 DTEND:20270215T112500
-SUMMARY:FII (z)
-LOCATION:
+SUMMARY:FII (Zp)
+LOCATION:46 63
 DESCRIPTION:Fizyka II\nRodzaj zajęć: zal popr\nNumer zajęć: 2\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 END:VCALENDAR

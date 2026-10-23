@@ -7,42 +7,42 @@ BEGIN:VEVENT
 DTSTART:20260928T114000
 DTEND:20260928T131500
 SUMMARY:MeSK (Ep)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260930T095000
 DTEND:20260930T112500
 SUMMARY:Akst (Ep)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T080000
 DTEND:20261001T131500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppor. mgr Katarzyna Szwed; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T133000
 DTEND:20261001T150500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(KSP)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T160000
 DTEND:20261001T173500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(KSP)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T095000
 DTEND:20261002T112500
 SUMMARY:Khk (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
@@ -56,14 +56,14 @@ BEGIN:VEVENT
 DTSTART:20261002T133000
 DTEND:20261002T150500
 SUMMARY:Dtu (P)
-LOCATION:
+LOCATION:011 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T160000
 DTEND:20261002T173500
 SUMMARY:Dtu (P)
-LOCATION:
+LOCATION:011 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
@@ -77,42 +77,42 @@ BEGIN:VEVENT
 DTSTART:20261005T080000
 DTEND:20261005T093500
 SUMMARY:aa (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T095000
 DTEND:20261005T112500
 SUMMARY:KAB (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T114000
 DTEND:20261005T150500
 SUMMARY:Kas (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T160000
 DTEND:20261005T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T080000
 DTEND:20261006T093500
 SUMMARY:Khk (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T095000
 DTEND:20261006T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 DTSTART:20261006T133000
 DTEND:20261006T150500
 SUMMARY:aa (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 DTSTART:20261008T080000
 DTEND:20261008T093500
 SUMMARY:aa (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
@@ -161,14 +161,14 @@ BEGIN:VEVENT
 DTSTART:20261008T114000
 DTEND:20261008T150500
 SUMMARY:TW (w)
-LOCATION:
+LOCATION:16 57
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T095000
 DTEND:20261009T112500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
@@ -182,14 +182,14 @@ BEGIN:VEVENT
 DTSTART:20261009T133000
 DTEND:20261009T150500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 1
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpr.  Natalia Majewska; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T160000
 DTEND:20261009T192500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 1
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: kpr.  Natalia Majewska; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
@@ -203,42 +203,42 @@ BEGIN:VEVENT
 DTSTART:20261012T095000
 DTEND:20261012T112500
 SUMMARY:KAB (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T114000
 DTEND:20261012T131500
 SUMMARY:Khk (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T133000
 DTEND:20261012T150500
 SUMMARY:Kas (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T160000
 DTEND:20261012T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T080000
 DTEND:20261013T093500
 SUMMARY:QPQe (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T095000
 DTEND:20261013T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -252,14 +252,14 @@ BEGIN:VEVENT
 DTSTART:20261013T133000
 DTEND:20261013T150500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:205 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T080000
 DTEND:20261015T093500
 SUMMARY:QPQe (ć)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
@@ -273,21 +273,21 @@ BEGIN:VEVENT
 DTSTART:20261015T114000
 DTEND:20261015T150500
 SUMMARY:TW (ć)
-LOCATION:
+LOCATION:16 57
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T080000
 DTEND:20261016T093500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:205 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T095000
 DTEND:20261016T112500
 SUMMARY:Khk (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
@@ -308,28 +308,28 @@ BEGIN:VEVENT
 DTSTART:20261019T095000
 DTEND:20261019T150500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpr.  Natalia Majewska; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T160000
 DTEND:20261019T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T080000
 DTEND:20261020T093500
 SUMMARY:QPQe (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T095000
 DTEND:20261020T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -343,21 +343,21 @@ BEGIN:VEVENT
 DTSTART:20261020T133000
 DTEND:20261020T150500
 SUMMARY:KAB (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T080000
 DTEND:20261021T093500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T095000
 DTEND:20261021T150500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
 END:VEVENT
 BEGIN:VEVENT
@@ -371,7 +371,7 @@ BEGIN:VEVENT
 DTSTART:20261022T080000
 DTEND:20261022T093500
 SUMMARY:aa (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
@@ -385,28 +385,28 @@ BEGIN:VEVENT
 DTSTART:20261022T114000
 DTEND:20261022T131500
 SUMMARY:Dtu (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T133000
 DTEND:20261022T150500
 SUMMARY:REG (w)
-LOCATION:
+LOCATION:103 K
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppłk rez. Paweł Jęcek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T080000
 DTEND:20261023T093500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:205 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T095000
 DTEND:20261023T112500
 SUMMARY:Khk (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 DTSTART:20261023T133000
 DTEND:20261023T150500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:218 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
@@ -434,35 +434,35 @@ BEGIN:VEVENT
 DTSTART:20261026T095000
 DTEND:20261026T112500
 SUMMARY:KAB (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T114000
 DTEND:20261026T150500
 SUMMARY:Kas (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T160000
 DTEND:20261026T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T080000
 DTEND:20261027T093500
 SUMMARY:QPQe (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T095000
 DTEND:20261027T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -476,28 +476,28 @@ BEGIN:VEVENT
 DTSTART:20261027T133000
 DTEND:20261027T150500
 SUMMARY:aa (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T095000
 DTEND:20261028T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T133000
 DTEND:20261028T150500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:218 65 219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T080000
 DTEND:20261029T093500
 SUMMARY:Kas (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
@@ -511,21 +511,21 @@ BEGIN:VEVENT
 DTSTART:20261029T114000
 DTEND:20261029T150500
 SUMMARY:TW (ć)
-LOCATION:
+LOCATION:16 57
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T080000
 DTEND:20261030T093500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:205 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T095000
 DTEND:20261030T112500
 SUMMARY:Khk (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
@@ -539,7 +539,7 @@ BEGIN:VEVENT
 DTSTART:20261030T133000
 DTEND:20261030T150500
 SUMMARY:KAB (L)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
@@ -553,42 +553,42 @@ BEGIN:VEVENT
 DTSTART:20261102T095000
 DTEND:20261102T112500
 SUMMARY:KAB (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T114000
 DTEND:20261102T131500
 SUMMARY:wzbnim (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T133000
 DTEND:20261102T150500
 SUMMARY:Kas (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T160000
 DTEND:20261102T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T080000
 DTEND:20261103T093500
 SUMMARY:Khk (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T095000
 DTEND:20261103T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -602,28 +602,28 @@ BEGIN:VEVENT
 DTSTART:20261103T133000
 DTEND:20261103T150500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T080000
 DTEND:20261104T093500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T095000
 DTEND:20261104T112500
 SUMMARY:wzbnim (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T133000
 DTEND:20261104T150500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:218 65 219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
@@ -637,21 +637,21 @@ BEGIN:VEVENT
 DTSTART:20261105T114000
 DTEND:20261105T150500
 SUMMARY:Khk (P)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T160000
 DTEND:20261105T173500
 SUMMARY:Khk (L)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T080000
 DTEND:20261106T112500
 SUMMARY:QPQe (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
@@ -665,7 +665,7 @@ BEGIN:VEVENT
 DTSTART:20261106T133000
 DTEND:20261106T150500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
@@ -679,35 +679,35 @@ BEGIN:VEVENT
 DTSTART:20261109T095000
 DTEND:20261109T112500
 SUMMARY:Kas (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T114000
 DTEND:20261109T131500
 SUMMARY:wzbnim (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T133000
 DTEND:20261109T150500
 SUMMARY:Dtu (L)
-LOCATION:
+LOCATION:125 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T160000
 DTEND:20261109T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T095000
 DTEND:20261110T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -721,49 +721,49 @@ BEGIN:VEVENT
 DTSTART:20261110T133000
 DTEND:20261110T150500
 SUMMARY:KAB (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T160000
 DTEND:20261110T173500
 SUMMARY:KAB (ć)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T080000
 DTEND:20261112T112500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T114000
 DTEND:20261112T131500
 SUMMARY:REG (ć)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk rez. Paweł Jęcek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T133000
 DTEND:20261112T150500
 SUMMARY:QPQe (ć)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T160000
 DTEND:20261112T173500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:218 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T080000
 DTEND:20261113T112500
 SUMMARY:QPQe (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
@@ -777,14 +777,14 @@ BEGIN:VEVENT
 DTSTART:20261113T133000
 DTEND:20261113T150500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T160000
 DTEND:20261113T173500
 SUMMARY:Khk (L)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
@@ -798,42 +798,42 @@ BEGIN:VEVENT
 DTSTART:20261116T095000
 DTEND:20261116T112500
 SUMMARY:KAB (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T114000
 DTEND:20261116T131500
 SUMMARY:wzbnim (w)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T133000
 DTEND:20261116T150500
 SUMMARY:Kas (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T160000
 DTEND:20261116T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T080000
 DTEND:20261117T093500
 SUMMARY:QPQe (ć)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T095000
 DTEND:20261117T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -847,42 +847,42 @@ BEGIN:VEVENT
 DTSTART:20261117T133000
 DTEND:20261117T150500
 SUMMARY:Dtu (L)
-LOCATION:
+LOCATION:125 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T080000
 DTEND:20261118T093500
 SUMMARY:aa (w)
-LOCATION:
+LOCATION:087 S
 DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T095000
 DTEND:20261118T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T114000
 DTEND:20261118T131500
 SUMMARY:aa (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T133000
 DTEND:20261118T150500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T080000
 DTEND:20261119T093500
 SUMMARY:Kas (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
@@ -896,14 +896,14 @@ BEGIN:VEVENT
 DTSTART:20261119T114000
 DTEND:20261119T131500
 SUMMARY:Khk (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T080000
 DTEND:20261120T112500
 SUMMARY:QPQe (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
@@ -917,7 +917,7 @@ BEGIN:VEVENT
 DTSTART:20261120T133000
 DTEND:20261120T150500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
@@ -931,35 +931,35 @@ BEGIN:VEVENT
 DTSTART:20261123T095000
 DTEND:20261123T131500
 SUMMARY:Kas (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T133000
 DTEND:20261123T150500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mateusz Krawczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T160000
 DTEND:20261123T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T080000
 DTEND:20261124T093500
 SUMMARY:KAB (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T095000
 DTEND:20261124T112500
 SUMMARY:Dtu (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -973,28 +973,28 @@ BEGIN:VEVENT
 DTSTART:20261124T133000
 DTEND:20261124T150500
 SUMMARY:Khk (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T080000
 DTEND:20261125T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T114000
 DTEND:20261125T131500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T080000
 DTEND:20261126T093500
 SUMMARY:Kas (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
@@ -1008,7 +1008,7 @@ BEGIN:VEVENT
 DTSTART:20261126T114000
 DTEND:20261126T150500
 SUMMARY:Dtu (P)
-LOCATION:
+LOCATION:239 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
@@ -1022,28 +1022,28 @@ BEGIN:VEVENT
 DTSTART:20261130T095000
 DTEND:20261130T131500
 SUMMARY:Stg (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T133000
 DTEND:20261130T150500
 SUMMARY:Kas (w)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T160000
 DTEND:20261130T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T095000
 DTEND:20261201T112500
 SUMMARY:Stg (L)
-LOCATION:
+LOCATION:218 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -1057,35 +1057,35 @@ BEGIN:VEVENT
 DTSTART:20261201T133000
 DTEND:20261201T150500
 SUMMARY:KAB (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T080000
 DTEND:20261202T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T114000
 DTEND:20261202T131500
 SUMMARY:aa (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T133000
 DTEND:20261202T150500
 SUMMARY:Dtu (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T080000
 DTEND:20261203T093500
 SUMMARY:Khk (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
@@ -1099,14 +1099,14 @@ BEGIN:VEVENT
 DTSTART:20261203T114000
 DTEND:20261203T150500
 SUMMARY:Khk (P)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T080000
 DTEND:20261204T112500
 SUMMARY:QPQe (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
@@ -1120,7 +1120,7 @@ BEGIN:VEVENT
 DTSTART:20261204T133000
 DTEND:20261204T150500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
@@ -1134,35 +1134,35 @@ BEGIN:VEVENT
 DTSTART:20261207T095000
 DTEND:20261207T131500
 SUMMARY:Stg (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T133000
 DTEND:20261207T150500
 SUMMARY:QPQe (ć)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T160000
 DTEND:20261207T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T080000
 DTEND:20261208T093500
 SUMMARY:KAB (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T095000
 DTEND:20261208T112500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Mateusz Krawczyk
 END:VEVENT
 BEGIN:VEVENT
@@ -1176,7 +1176,7 @@ BEGIN:VEVENT
 DTSTART:20261210T080000
 DTEND:20261210T093500
 SUMMARY:Kas (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
@@ -1190,28 +1190,28 @@ BEGIN:VEVENT
 DTSTART:20261210T114000
 DTEND:20261210T131500
 SUMMARY:TW (ć)
-LOCATION:
+LOCATION:16 57
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T133000
 DTEND:20261210T150500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:218 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T080000
 DTEND:20261211T093500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T095000
 DTEND:20261211T112500
 SUMMARY:QPQe (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
@@ -1225,14 +1225,14 @@ BEGIN:VEVENT
 DTSTART:20261211T133000
 DTEND:20261211T150500
 SUMMARY:KAB (L)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T160000
 DTEND:20261211T173500
 SUMMARY:Khk (L)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
@@ -1246,35 +1246,35 @@ BEGIN:VEVENT
 DTSTART:20261214T095000
 DTEND:20261214T131500
 SUMMARY:Stg (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T133000
 DTEND:20261214T150500
 SUMMARY:QPQe (ć)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T160000
 DTEND:20261214T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T080000
 DTEND:20261215T093500
 SUMMARY:Stg (L)
-LOCATION:
+LOCATION:218 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T095000
 DTEND:20261215T112500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Mateusz Krawczyk
 END:VEVENT
 BEGIN:VEVENT
@@ -1288,56 +1288,56 @@ BEGIN:VEVENT
 DTSTART:20261215T133000
 DTEND:20261215T150500
 SUMMARY:Khk (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T095000
 DTEND:20261216T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T114000
 DTEND:20261216T131500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T080000
 DTEND:20261217T112500
 SUMMARY:Kas (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T133000
 DTEND:20261217T150500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T160000
 DTEND:20261217T173500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T080000
 DTEND:20261218T093500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:205 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T095000
 DTEND:20261218T112500
 SUMMARY:QPQe (w)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
@@ -1351,14 +1351,14 @@ BEGIN:VEVENT
 DTSTART:20261218T133000
 DTEND:20261218T150500
 SUMMARY:Dtu (P)
-LOCATION:
+LOCATION:106 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T160000
 DTEND:20261218T173500
 SUMMARY:Dtu (P)
-LOCATION:
+LOCATION:106 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
@@ -1372,35 +1372,35 @@ BEGIN:VEVENT
 DTSTART:20261221T095000
 DTEND:20261221T131500
 SUMMARY:Stg (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T133000
 DTEND:20261221T150500
 SUMMARY:Stg (L)
-LOCATION:
+LOCATION:218 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T160000
 DTEND:20261221T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T080000
 DTEND:20261222T093500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T095000
 DTEND:20261222T112500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Mateusz Krawczyk
 END:VEVENT
 BEGIN:VEVENT
@@ -1414,14 +1414,14 @@ BEGIN:VEVENT
 DTSTART:20261223T080000
 DTEND:20261223T093500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T080000
 DTEND:20270107T093500
 SUMMARY:aa (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
@@ -1435,21 +1435,21 @@ BEGIN:VEVENT
 DTSTART:20270107T114000
 DTEND:20270107T150500
 SUMMARY:Khk (P)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T080000
 DTEND:20270108T093500
 SUMMARY:Kas (L)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T095000
 DTEND:20270108T112500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:205 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
@@ -1463,7 +1463,7 @@ BEGIN:VEVENT
 DTSTART:20270108T133000
 DTEND:20270108T150500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:218 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
@@ -1477,7 +1477,7 @@ BEGIN:VEVENT
 DTSTART:20270111T160000
 DTEND:20270111T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
@@ -1491,42 +1491,42 @@ BEGIN:VEVENT
 DTSTART:20270113T095000
 DTEND:20270113T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T114000
 DTEND:20270113T131500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T080000
 DTEND:20270114T112500
 SUMMARY:Kas (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T114000
 DTEND:20270114T131500
 SUMMARY:KAB (ć)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T080000
 DTEND:20270115T093500
 SUMMARY:QPQe (ć)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T095000
 DTEND:20270115T112500
 SUMMARY:Mnk (w)
-LOCATION:
+LOCATION:205 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
@@ -1540,7 +1540,7 @@ BEGIN:VEVENT
 DTSTART:20270115T133000
 DTEND:20270115T150500
 SUMMARY:Dtu (L)
-LOCATION:
+LOCATION:106 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
@@ -1554,14 +1554,14 @@ BEGIN:VEVENT
 DTSTART:20270118T114000
 DTEND:20270118T150500
 SUMMARY:Dtu (P)
-LOCATION:
+LOCATION:101 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T080000
 DTEND:20270119T112500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
@@ -1575,28 +1575,28 @@ BEGIN:VEVENT
 DTSTART:20270120T080000
 DTEND:20270120T093500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T095000
 DTEND:20270120T112500
 SUMMARY:aa (L)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T133000
 DTEND:20270120T150500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T160000
 DTEND:20270120T192500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
@@ -1610,21 +1610,21 @@ BEGIN:VEVENT
 DTSTART:20270121T133000
 DTEND:20270121T150500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T160000
 DTEND:20270121T173500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270122T095000
 DTEND:20270122T112500
 SUMMARY:KAB (L)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
@@ -1645,35 +1645,35 @@ BEGIN:VEVENT
 DTSTART:20270125T095000
 DTEND:20270125T112500
 SUMMARY:Mnk (L)
-LOCATION:
+LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270125T114000
 DTEND:20270125T131500
 SUMMARY:Kas (L)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów strumieniowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270125T133000
 DTEND:20270125T150500
 SUMMARY:QPQe (ć)
-LOCATION:
+LOCATION:078 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270125T160000
 DTEND:20270125T173500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T080000
 DTEND:20270126T112500
 SUMMARY:Stg (L)
-LOCATION:
+LOCATION:218 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -1687,42 +1687,42 @@ BEGIN:VEVENT
 DTSTART:20270127T080000
 DTEND:20270127T093500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:124 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T114000
 DTEND:20270127T150500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 1
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T160000
 DTEND:20270127T173500
 SUMMARY:ZaMe (ć)
-LOCATION:
+LOCATION:AW 1
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T114000
 DTEND:20270128T131500
 SUMMARY:REG (ć)
-LOCATION:
+LOCATION:AW 3/038
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk rez. Paweł Jęcek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T133000
 DTEND:20270128T150500
 SUMMARY:Dtu (L)
-LOCATION:
+LOCATION:125 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T080000
 DTEND:20270129T112500
 SUMMARY:Khk (P)
-LOCATION:
+LOCATION:085 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT

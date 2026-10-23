@@ -7,35 +7,35 @@ BEGIN:VEVENT
 DTSTART:20260928T095000
 DTEND:20260928T112500
 SUMMARY:Tal (Ep)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260929T095000
 DTEND:20260929T112500
-SUMMARY:Nsk (z)
-LOCATION:
+SUMMARY:Nsk (Zp)
+LOCATION:313 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: zal popr\nNumer zajęć: 2\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260930T095000
 DTEND:20260930T112500
 SUMMARY:Ajf (Ep)
-LOCATION:
+LOCATION:19 36
 DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T095000
 DTEND:20261001T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T114000
 DTEND:20261001T150500
 SUMMARY:SQL (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
@@ -49,14 +49,14 @@ BEGIN:VEVENT
 DTSTART:20261002T114000
 DTEND:20261002T131500
 SUMMARY:REG (w)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T133000
 DTEND:20261002T150500
 SUMMARY:Miar (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
@@ -70,14 +70,14 @@ BEGIN:VEVENT
 DTSTART:20261005T095000
 DTEND:20261005T112500
 SUMMARY:Miar (w)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T114000
 DTEND:20261005T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -91,14 +91,14 @@ BEGIN:VEVENT
 DTSTART:20261005T160000
 DTEND:20261005T192500
 SUMMARY:Mpwsi (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T080000
 DTEND:20261006T093500
 SUMMARY:Msz (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
@@ -112,42 +112,42 @@ BEGIN:VEVENT
 DTSTART:20261007T095000
 DTEND:20261007T112500
 SUMMARY:Ps (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T133000
 DTEND:20261007T150500
 SUMMARY:Tuim (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T080000
 DTEND:20261008T093500
 SUMMARY:SQL (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T095000
 DTEND:20261008T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T114000
 DTEND:20261008T131500
 SUMMARY:DWiPD (ć)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Krzysztof Klimek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T133000
 DTEND:20261008T150500
 SUMMARY:Tuim (P)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
@@ -168,14 +168,14 @@ BEGIN:VEVENT
 DTSTART:20261012T095000
 DTEND:20261012T112500
 SUMMARY:wzbnim (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T114000
 DTEND:20261012T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -189,49 +189,49 @@ BEGIN:VEVENT
 DTSTART:20261012T160000
 DTEND:20261012T192500
 SUMMARY:Mpwsi (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T080000
 DTEND:20261013T112500
 SUMMARY:BbD (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T114000
 DTEND:20261013T131500
 SUMMARY:Tuim (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T160000
 DTEND:20261014T173500
 SUMMARY:Muma (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T095000
 DTEND:20261015T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T114000
 DTEND:20261015T131500
 SUMMARY:Ps (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T133000
 DTEND:20261015T150500
 SUMMARY:Mspb (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
@@ -245,14 +245,14 @@ BEGIN:VEVENT
 DTSTART:20261016T133000
 DTEND:20261016T150500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(KSP)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T160000
 DTEND:20261016T173500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(KSP)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
@@ -266,14 +266,14 @@ BEGIN:VEVENT
 DTSTART:20261019T095000
 DTEND:20261019T112500
 SUMMARY:Miar (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T114000
 DTEND:20261019T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -287,70 +287,70 @@ BEGIN:VEVENT
 DTSTART:20261019T160000
 DTEND:20261019T192500
 SUMMARY:Mpwsi (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T114000
 DTEND:20261020T131500
 SUMMARY:Med (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T133000
 DTEND:20261020T150500
 SUMMARY:Tuim (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T080000
 DTEND:20261021T093500
 SUMMARY:Miar (ć)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T095000
 DTEND:20261021T112500
 SUMMARY:Ps (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T114000
 DTEND:20261021T131500
 SUMMARY:Muma (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T133000
 DTEND:20261021T150500
 SUMMARY:Tuim (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T095000
 DTEND:20261022T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T133000
 DTEND:20261022T150500
 SUMMARY:Muma (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T160000
 DTEND:20261022T173500
 SUMMARY:Muma (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
@@ -363,8 +363,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T175000
 DTEND:20261023T192500
-SUMMARY:Wpp (z)
-LOCATION:
+SUMMARY:Wpp (Zp)
+LOCATION:19 36
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: zal popr\nNumer zajęć: 6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
@@ -378,14 +378,14 @@ BEGIN:VEVENT
 DTSTART:20261026T080000
 DTEND:20261026T112500
 SUMMARY:Mspb (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T114000
 DTEND:20261026T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -399,84 +399,84 @@ BEGIN:VEVENT
 DTSTART:20261026T160000
 DTEND:20261026T192500
 SUMMARY:Mpwsi (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T080000
 DTEND:20261027T112500
 SUMMARY:BbD (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T114000
 DTEND:20261027T131500
 SUMMARY:Med (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T133000
 DTEND:20261027T150500
 SUMMARY:Tuim (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T095000
 DTEND:20261028T112500
 SUMMARY:Ps (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T114000
 DTEND:20261028T131500
 SUMMARY:Muma (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T160000
 DTEND:20261028T173500
 SUMMARY:Tuim (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T080000
 DTEND:20261029T093500
 SUMMARY:Miar (ć)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T095000
 DTEND:20261029T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T114000
 DTEND:20261029T150500
 SUMMARY:SQL (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T160000
 DTEND:20261029T173500
 SUMMARY:Ps (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T080000
 DTEND:20261030T093500
 SUMMARY:REG (ć)
-LOCATION:
+LOCATION:PL.MUSZ1
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
@@ -490,14 +490,14 @@ BEGIN:VEVENT
 DTSTART:20261030T114000
 DTEND:20261030T150500
 SUMMARY:Tuim (P)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T160000
 DTEND:20261030T173500
 SUMMARY:Miar (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
@@ -511,14 +511,14 @@ BEGIN:VEVENT
 DTSTART:20261102T095000
 DTEND:20261102T112500
 SUMMARY:wzbnim (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T114000
 DTEND:20261102T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -532,91 +532,91 @@ BEGIN:VEVENT
 DTSTART:20261102T160000
 DTEND:20261102T192500
 SUMMARY:Mpwsi (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T080000
 DTEND:20261103T093500
 SUMMARY:Med (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T095000
 DTEND:20261103T112500
 SUMMARY:Msz (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T114000
 DTEND:20261103T150500
 SUMMARY:Mspb (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T160000
 DTEND:20261103T173500
 SUMMARY:Med (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T080000
 DTEND:20261104T093500
 SUMMARY:Miar (ć)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T095000
 DTEND:20261104T112500
 SUMMARY:Ps (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T114000
 DTEND:20261104T131500
 SUMMARY:Muma (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T133000
 DTEND:20261104T150500
 SUMMARY:Tuim (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T160000
 DTEND:20261104T173500
 SUMMARY:Miar (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T114000
 DTEND:20261105T131500
 SUMMARY:Ps (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T133000
 DTEND:20261105T150500
 SUMMARY:Msz (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T160000
 DTEND:20261105T192500
 SUMMARY:Muma (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 DTSTART:20261106T114000
 DTEND:20261106T150500
 SUMMARY:BbD (L)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
@@ -644,14 +644,14 @@ BEGIN:VEVENT
 DTSTART:20261109T095000
 DTEND:20261109T112500
 SUMMARY:wzbnim (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T114000
 DTEND:20261109T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -665,56 +665,56 @@ BEGIN:VEVENT
 DTSTART:20261109T160000
 DTEND:20261109T192500
 SUMMARY:Mpwsi (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T114000
 DTEND:20261110T131500
 SUMMARY:Med (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T133000
 DTEND:20261110T150500
 SUMMARY:Tuim (L)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T080000
 DTEND:20261112T093500
 SUMMARY:Med (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T095000
 DTEND:20261112T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T114000
 DTEND:20261112T131500
 SUMMARY:Tuim (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T160000
 DTEND:20261112T173500
 SUMMARY:Ps (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T080000
 DTEND:20261113T093500
 SUMMARY:REG (ć)
-LOCATION:
+LOCATION:AW 7
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 DTSTART:20261113T114000
 DTEND:20261113T150500
 SUMMARY:SQL (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
@@ -742,14 +742,14 @@ BEGIN:VEVENT
 DTSTART:20261116T095000
 DTEND:20261116T112500
 SUMMARY:wzbnim (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T114000
 DTEND:20261116T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -763,70 +763,70 @@ BEGIN:VEVENT
 DTSTART:20261116T160000
 DTEND:20261116T192500
 SUMMARY:Mpwsi (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T080000
 DTEND:20261117T112500
 SUMMARY:Msz (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T114000
 DTEND:20261117T150500
 SUMMARY:Mspb (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T080000
 DTEND:20261118T112500
 SUMMARY:BbD (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T114000
 DTEND:20261118T131500
 SUMMARY:MPH (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T133000
 DTEND:20261118T150500
 SUMMARY:Msz (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T095000
 DTEND:20261119T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T114000
 DTEND:20261119T150500
 SUMMARY:Mspb (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T080000
 DTEND:20261120T093500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T095000
 DTEND:20261120T131500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
@@ -840,14 +840,14 @@ BEGIN:VEVENT
 DTSTART:20261123T095000
 DTEND:20261123T112500
 SUMMARY:Miar (L)
-LOCATION:
+LOCATION:252 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T114000
 DTEND:20261123T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -861,84 +861,84 @@ BEGIN:VEVENT
 DTSTART:20261123T160000
 DTEND:20261123T173500
 SUMMARY:Mpwsi (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T175000
 DTEND:20261123T192500
 SUMMARY:Mpwsi (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T080000
 DTEND:20261124T093500
 SUMMARY:BbD (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T095000
 DTEND:20261124T112500
 SUMMARY:Med (w)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T114000
 DTEND:20261124T150500
 SUMMARY:BbD (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T080000
 DTEND:20261125T093500
 SUMMARY:Med (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T095000
 DTEND:20261125T112500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T114000
 DTEND:20261125T131500
 SUMMARY:MPH (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T133000
 DTEND:20261125T150500
 SUMMARY:Msz (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T080000
 DTEND:20261126T093500
 SUMMARY:Mspb (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T095000
 DTEND:20261126T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T114000
 DTEND:20261126T150500
 SUMMARY:Muma (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
@@ -952,14 +952,14 @@ BEGIN:VEVENT
 DTSTART:20261130T095000
 DTEND:20261130T112500
 SUMMARY:Miar (L)
-LOCATION:
+LOCATION:237 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T114000
 DTEND:20261130T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -973,84 +973,84 @@ BEGIN:VEVENT
 DTSTART:20261130T160000
 DTEND:20261130T192500
 SUMMARY:Mpwsi (L)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T080000
 DTEND:20261201T093500
 SUMMARY:Med (w)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T095000
 DTEND:20261201T112500
 SUMMARY:Med (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T114000
 DTEND:20261201T131500
 SUMMARY:Tuim (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T080000
 DTEND:20261202T093500
 SUMMARY:Muma (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T095000
 DTEND:20261202T112500
 SUMMARY:Msz (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T114000
 DTEND:20261202T131500
 SUMMARY:MPH (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T133000
 DTEND:20261202T150500
 SUMMARY:Msz (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T080000
 DTEND:20261203T093500
 SUMMARY:DWiPD (ć)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Krzysztof Klimek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T095000
 DTEND:20261203T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T114000
 DTEND:20261203T150500
 SUMMARY:SQL (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T080000
 DTEND:20261204T093500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
@@ -1064,7 +1064,7 @@ BEGIN:VEVENT
 DTSTART:20261204T114000
 DTEND:20261204T150500
 SUMMARY:ZLDT-1 (ć)
-LOCATION:
+LOCATION:0.28/ 135
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: 1 - mgr inż.   Krzysztof Juniec
 END:VEVENT
 BEGIN:VEVENT
@@ -1078,7 +1078,7 @@ BEGIN:VEVENT
 DTSTART:20261207T114000
 DTEND:20261207T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -1092,28 +1092,28 @@ BEGIN:VEVENT
 DTSTART:20261207T160000
 DTEND:20261207T192500
 SUMMARY:Mpwsi (L)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T080000
 DTEND:20261208T112500
 SUMMARY:BbD (L)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T114000
 DTEND:20261208T131500
 SUMMARY:Med (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T160000
 DTEND:20261208T173500
 SUMMARY:Ps (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
@@ -1127,28 +1127,28 @@ BEGIN:VEVENT
 DTSTART:20261210T080000
 DTEND:20261210T093500
 SUMMARY:DWiPD (ć)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Krzysztof Klimek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T095000
 DTEND:20261210T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T114000
 DTEND:20261210T150500
 SUMMARY:Muma (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T160000
 DTEND:20261210T173500
 SUMMARY:Mspb (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
@@ -1162,7 +1162,7 @@ BEGIN:VEVENT
 DTSTART:20261211T114000
 DTEND:20261211T150500
 SUMMARY:Tuim (P)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
@@ -1176,14 +1176,14 @@ BEGIN:VEVENT
 DTSTART:20261214T095000
 DTEND:20261214T112500
 SUMMARY:Ps (ć)
-LOCATION:
+LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T114000
 DTEND:20261214T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -1197,7 +1197,7 @@ BEGIN:VEVENT
 DTSTART:20261214T160000
 DTEND:20261214T192500
 SUMMARY:Mpwsi (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
@@ -1211,49 +1211,49 @@ BEGIN:VEVENT
 DTSTART:20261216T095000
 DTEND:20261216T112500
 SUMMARY:MPH (ć)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T114000
 DTEND:20261216T131500
 SUMMARY:MPH (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T133000
 DTEND:20261216T150500
 SUMMARY:Msz (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T080000
 DTEND:20261217T093500
 SUMMARY:DWiPD (ć)
-LOCATION:
+LOCATION:205 65
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Krzysztof Klimek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T095000
 DTEND:20261217T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T114000
 DTEND:20261217T131500
 SUMMARY:Mspb (L)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T080000
 DTEND:20261218T093500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
@@ -1267,7 +1267,7 @@ BEGIN:VEVENT
 DTSTART:20261218T114000
 DTEND:20261218T150500
 SUMMARY:SQL (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
@@ -1281,14 +1281,14 @@ BEGIN:VEVENT
 DTSTART:20261221T095000
 DTEND:20261221T112500
 SUMMARY:Ps (ć)
-LOCATION:
+LOCATION:101 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T114000
 DTEND:20261221T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -1302,70 +1302,70 @@ BEGIN:VEVENT
 DTSTART:20261222T080000
 DTEND:20261222T112500
 SUMMARY:Msz (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T114000
 DTEND:20261222T131500
 SUMMARY:Med (L)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T160000
 DTEND:20261222T192500
 SUMMARY:Mpwsi (L)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T080000
 DTEND:20261223T112500
 SUMMARY:BbD (L)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T114000
 DTEND:20261223T131500
 SUMMARY:MPH (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T133000
 DTEND:20261223T150500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T080000
 DTEND:20270107T093500
 SUMMARY:Mspb (L)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T095000
 DTEND:20270107T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T114000
 DTEND:20270107T131500
 SUMMARY:DWiPD (ć)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Krzysztof Klimek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T133000
 DTEND:20270107T150500
 SUMMARY:MPH (ć)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
@@ -1379,14 +1379,14 @@ BEGIN:VEVENT
 DTSTART:20270108T133000
 DTEND:20270108T150500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270108T160000
 DTEND:20270108T173500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC3)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
@@ -1400,7 +1400,7 @@ BEGIN:VEVENT
 DTSTART:20270111T114000
 DTEND:20270111T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -1421,7 +1421,7 @@ BEGIN:VEVENT
 DTSTART:20270112T160000
 DTEND:20270112T192500
 SUMMARY:Mpwsi (P)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
@@ -1435,56 +1435,56 @@ BEGIN:VEVENT
 DTSTART:20270113T095000
 DTEND:20270113T112500
 SUMMARY:Msz (w)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T114000
 DTEND:20270113T131500
 SUMMARY:Ps (ć)
-LOCATION:
+LOCATION:203 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T133000
 DTEND:20270113T150500
 SUMMARY:Med (L)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270113T160000
 DTEND:20270113T173500
 SUMMARY:Miar (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T080000
 DTEND:20270114T093500
 SUMMARY:wzbnim (ć)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T095000
 DTEND:20270114T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T114000
 DTEND:20270114T150500
 SUMMARY:SQL (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T080000
 DTEND:20270115T093500
 SUMMARY:MPH (ć)
-LOCATION:
+LOCATION:203 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
@@ -1498,14 +1498,14 @@ BEGIN:VEVENT
 DTSTART:20270115T133000
 DTEND:20270115T150500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T160000
 DTEND:20270115T173500
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:ST.nr 1(PWC2)
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
@@ -1519,7 +1519,7 @@ BEGIN:VEVENT
 DTSTART:20270118T114000
 DTEND:20270118T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -1533,42 +1533,42 @@ BEGIN:VEVENT
 DTSTART:20270119T160000
 DTEND:20270119T192500
 SUMMARY:Mpwsi (P)
-LOCATION:
+LOCATION:223 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T080000
 DTEND:20270120T093500
 SUMMARY:Ps (ć)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T080000
 DTEND:20270121T093500
 SUMMARY:Med (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T095000
 DTEND:20270121T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T114000
 DTEND:20270121T150500
 SUMMARY:Mspb (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270122T080000
 DTEND:20270122T093500
 SUMMARY:MPH (ć)
-LOCATION:
+LOCATION:203 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
@@ -1582,7 +1582,7 @@ BEGIN:VEVENT
 DTSTART:20270122T114000
 DTEND:20270122T150500
 SUMMARY:Msz (L)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
@@ -1596,7 +1596,7 @@ BEGIN:VEVENT
 DTSTART:20270125T114000
 DTEND:20270125T131500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
@@ -1610,49 +1610,49 @@ BEGIN:VEVENT
 DTSTART:20270126T160000
 DTEND:20270126T192500
 SUMMARY:Mpwsi (P)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T080000
 DTEND:20270127T112500
 SUMMARY:Muma (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T114000
 DTEND:20270127T131500
 SUMMARY:Miar (L)
-LOCATION:
+LOCATION:228 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T133000
 DTEND:20270127T150500
 SUMMARY:Ps (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T095000
 DTEND:20270128T112500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T114000
 DTEND:20270128T150500
 SUMMARY:SQL (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T080000
 DTEND:20270129T093500
 SUMMARY:MPH (ć)
-LOCATION:
+LOCATION:203 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
@@ -1666,7 +1666,7 @@ BEGIN:VEVENT
 DTSTART:20270129T114000
 DTEND:20270129T150500
 SUMMARY:ZLDT-1 (ć)
-LOCATION:
+LOCATION:0.28/ 135
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: 1 - dr inż. Dariusz Nagrabski
 END:VEVENT
 END:VCALENDAR

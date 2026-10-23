@@ -7,14 +7,14 @@ BEGIN:VEVENT
 DTSTART:20261002T080000
 DTEND:20261002T093500
 SUMMARY:PGI (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T095000
 DTEND:20261002T112500
 SUMMARY:MD1 (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 DTSTART:20261006T095000
 DTEND:20261006T112500
 SUMMARY:MD1 (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 DTSTART:20261008T114000
 DTEND:20261008T131500
 SUMMARY:WdS (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
@@ -70,21 +70,21 @@ BEGIN:VEVENT
 DTSTART:20261008T160000
 DTEND:20261008T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T175000
 DTEND:20261008T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T080000
 DTEND:20261009T112500
 SUMMARY:WdI (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
@@ -105,21 +105,21 @@ BEGIN:VEVENT
 DTSTART:20261013T095000
 DTEND:20261013T112500
 SUMMARY:WDM (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T095000
 DTEND:20261014T112500
 SUMMARY:PGI (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T114000
 DTEND:20261014T131500
 SUMMARY:MD1 (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
@@ -147,21 +147,21 @@ BEGIN:VEVENT
 DTSTART:20261015T160000
 DTEND:20261015T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T175000
 DTEND:20261015T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T114000
 DTEND:20261016T131500
 SUMMARY:WdI (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
@@ -175,49 +175,49 @@ BEGIN:VEVENT
 DTSTART:20261019T114000
 DTEND:20261019T131500
 SUMMARY:MD1 (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T160000
 DTEND:20261019T192500
 SUMMARY:Wzp (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T095000
 DTEND:20261020T112500
 SUMMARY:WDM (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T114000
 DTEND:20261020T131500
 SUMMARY:Owi (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T133000
 DTEND:20261020T150500
 SUMMARY:PGI (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T160000
 DTEND:20261020T173500
 SUMMARY:PGI (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T080000
 DTEND:20261021T093500
 SUMMARY:MD1 (ć)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
@@ -252,21 +252,21 @@ BEGIN:VEVENT
 DTSTART:20261022T160000
 DTEND:20261022T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T175000
 DTEND:20261022T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T080000
 DTEND:20261023T112500
 SUMMARY:WdI (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
@@ -280,21 +280,21 @@ BEGIN:VEVENT
 DTSTART:20261026T114000
 DTEND:20261026T131500
 SUMMARY:MD1 (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T133000
 DTEND:20261026T150500
 SUMMARY:WdS (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T160000
 DTEND:20261026T173500
 SUMMARY:SoKW (s)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Spotkanie organizacyjne z kierownictwem Wydziału\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 5\nProwadzący: mgr inż. Adam Kutyła; dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
@@ -308,14 +308,14 @@ BEGIN:VEVENT
 DTSTART:20261027T114000
 DTEND:20261027T131500
 SUMMARY:Owi (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T133000
 DTEND:20261027T150500
 SUMMARY:WDM (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
@@ -343,49 +343,49 @@ BEGIN:VEVENT
 DTSTART:20261029T160000
 DTEND:20261029T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T175000
 DTEND:20261029T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T080000
 DTEND:20261030T093500
 SUMMARY:PGI (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T095000
 DTEND:20261030T112500
 SUMMARY:WdI (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T114000
 DTEND:20261030T131500
 SUMMARY:PGI (ć)
-LOCATION:
+LOCATION:101 65
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Katarzyna Jasik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T133000
 DTEND:20261030T150500
 SUMMARY:WdI (L)
-LOCATION:
+LOCATION:252 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261030T160000
 DTEND:20261030T173500
 SUMMARY:WdI (L)
-LOCATION:
+LOCATION:252 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
@@ -399,28 +399,28 @@ BEGIN:VEVENT
 DTSTART:20261102T114000
 DTEND:20261102T131500
 SUMMARY:MD1 (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T133000
 DTEND:20261102T150500
 SUMMARY:MD1 (ć)
-LOCATION:
+LOCATION:252 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T160000
 DTEND:20261102T192500
 SUMMARY:PGI (ć)
-LOCATION:
+LOCATION:29/ 54 30/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: por. mgr inż. Bartłomiej Sarzyński; mgr inż. Katarzyna Jasik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T095000
 DTEND:20261103T112500
 SUMMARY:WDM (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
@@ -448,7 +448,7 @@ BEGIN:VEVENT
 DTSTART:20261105T114000
 DTEND:20261105T131500
 SUMMARY:PGI (ć)
-LOCATION:
+LOCATION:101 65
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Katarzyna Jasik
 END:VEVENT
 BEGIN:VEVENT
@@ -462,28 +462,28 @@ BEGIN:VEVENT
 DTSTART:20261105T160000
 DTEND:20261105T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T175000
 DTEND:20261105T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T095000
 DTEND:20261106T112500
 SUMMARY:WdI (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T114000
 DTEND:20261106T131500
 SUMMARY:PGI (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
@@ -497,35 +497,35 @@ BEGIN:VEVENT
 DTSTART:20261109T114000
 DTEND:20261109T131500
 SUMMARY:MD1 (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T133000
 DTEND:20261109T150500
 SUMMARY:Wzp (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T160000
 DTEND:20261109T173500
 SUMMARY:Wzp (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T080000
 DTEND:20261110T093500
 SUMMARY:Owi (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T095000
 DTEND:20261110T112500
 SUMMARY:WDM (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
@@ -553,28 +553,28 @@ BEGIN:VEVENT
 DTSTART:20261112T160000
 DTEND:20261112T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T175000
 DTEND:20261112T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T194000
 DTEND:20261112T211500
 SUMMARY:PGI (ć)
-LOCATION:
+LOCATION:29/ 54 30/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: por. mgr inż. Bartłomiej Sarzyński; mgr inż. Katarzyna Jasik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T080000
 DTEND:20261116T093500
 SUMMARY:PGI (ć)
-LOCATION:
+LOCATION:204 65
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Katarzyna Jasik
 END:VEVENT
 BEGIN:VEVENT
@@ -588,42 +588,42 @@ BEGIN:VEVENT
 DTSTART:20261116T114000
 DTEND:20261116T131500
 SUMMARY:MD1 (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T133000
 DTEND:20261116T150500
 SUMMARY:Wzp (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T160000
 DTEND:20261116T173500
 SUMMARY:Wzp (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T175000
 DTEND:20261116T211500
 SUMMARY:Wzp (ć)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T080000
 DTEND:20261117T093500
 SUMMARY:Owi (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T095000
 DTEND:20261117T112500
 SUMMARY:WDM (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
@@ -637,14 +637,14 @@ BEGIN:VEVENT
 DTSTART:20261117T133000
 DTEND:20261117T150500
 SUMMARY:MD1 (ć)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T095000
 DTEND:20261118T112500
 SUMMARY:WDM (ć)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
@@ -665,7 +665,7 @@ BEGIN:VEVENT
 DTSTART:20261119T114000
 DTEND:20261119T131500
 SUMMARY:PGI (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
@@ -679,14 +679,14 @@ BEGIN:VEVENT
 DTSTART:20261119T160000
 DTEND:20261119T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T175000
 DTEND:20261119T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
@@ -700,28 +700,28 @@ BEGIN:VEVENT
 DTSTART:20261124T095000
 DTEND:20261124T112500
 SUMMARY:Owi (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T114000
 DTEND:20261124T131500
 SUMMARY:WDM (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T080000
 DTEND:20261125T093500
 SUMMARY:MD1 (ć)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T095000
 DTEND:20261125T112500
 SUMMARY:WDM (ć)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
@@ -742,7 +742,7 @@ BEGIN:VEVENT
 DTSTART:20261125T160000
 DTEND:20261125T192500
 SUMMARY:WdI (L)
-LOCATION:
+LOCATION:239 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
@@ -756,7 +756,7 @@ BEGIN:VEVENT
 DTSTART:20261126T114000
 DTEND:20261126T131500
 SUMMARY:WdS (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
@@ -770,14 +770,14 @@ BEGIN:VEVENT
 DTSTART:20261126T160000
 DTEND:20261126T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T175000
 DTEND:20261126T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
@@ -798,7 +798,7 @@ BEGIN:VEVENT
 DTSTART:20261201T095000
 DTEND:20261201T112500
 SUMMARY:Owi (w)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
@@ -812,14 +812,14 @@ BEGIN:VEVENT
 DTSTART:20261201T133000
 DTEND:20261201T150500
 SUMMARY:WDM (ć)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T114000
 DTEND:20261202T131500
 SUMMARY:Owi (ć)
-LOCATION:
+LOCATION:309 S
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
@@ -833,7 +833,7 @@ BEGIN:VEVENT
 DTSTART:20261203T114000
 DTEND:20261203T131500
 SUMMARY:PGI (ć)
-LOCATION:
+LOCATION:201 65
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Katarzyna Jasik
 END:VEVENT
 BEGIN:VEVENT
@@ -847,14 +847,14 @@ BEGIN:VEVENT
 DTSTART:20261203T160000
 DTEND:20261203T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T175000
 DTEND:20261203T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
@@ -875,21 +875,21 @@ BEGIN:VEVENT
 DTSTART:20261207T133000
 DTEND:20261207T150500
 SUMMARY:WdI (L)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T160000
 DTEND:20261207T173500
 SUMMARY:WdI (L)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T080000
 DTEND:20261208T112500
 SUMMARY:Ez (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
@@ -903,7 +903,7 @@ BEGIN:VEVENT
 DTSTART:20261208T133000
 DTEND:20261208T150500
 SUMMARY:WDM (ć)
-LOCATION:
+LOCATION:239 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
@@ -917,7 +917,7 @@ BEGIN:VEVENT
 DTSTART:20261209T114000
 DTEND:20261209T131500
 SUMMARY:WDM (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
@@ -931,7 +931,7 @@ BEGIN:VEVENT
 DTSTART:20261210T114000
 DTEND:20261210T131500
 SUMMARY:PGI (ć)
-LOCATION:
+LOCATION:101 65
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Katarzyna Jasik
 END:VEVENT
 BEGIN:VEVENT
@@ -945,14 +945,14 @@ BEGIN:VEVENT
 DTSTART:20261210T160000
 DTEND:20261210T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T175000
 DTEND:20261210T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
@@ -973,14 +973,14 @@ BEGIN:VEVENT
 DTSTART:20261214T133000
 DTEND:20261214T150500
 SUMMARY:WDM (ć)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T080000
 DTEND:20261215T112500
 SUMMARY:Ez (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
@@ -994,7 +994,7 @@ BEGIN:VEVENT
 DTSTART:20261215T133000
 DTEND:20261215T150500
 SUMMARY:Ez (ć)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
@@ -1008,7 +1008,7 @@ BEGIN:VEVENT
 DTSTART:20261216T114000
 DTEND:20261216T131500
 SUMMARY:WDM (w)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
@@ -1022,7 +1022,7 @@ BEGIN:VEVENT
 DTSTART:20261217T114000
 DTEND:20261217T131500
 SUMMARY:PGI (ć)
-LOCATION:
+LOCATION:101 65
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Katarzyna Jasik
 END:VEVENT
 BEGIN:VEVENT
@@ -1036,21 +1036,21 @@ BEGIN:VEVENT
 DTSTART:20261217T160000
 DTEND:20261217T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T175000
 DTEND:20261217T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T080000
 DTEND:20261218T093500
 SUMMARY:MD1 (ć)
-LOCATION:
+LOCATION:239 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
@@ -1071,28 +1071,28 @@ BEGIN:VEVENT
 DTSTART:20261221T114000
 DTEND:20261221T131500
 SUMMARY:WDM (ć)
-LOCATION:
+LOCATION:313 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T133000
 DTEND:20261221T150500
 SUMMARY:Wzp (w)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T160000
 DTEND:20261221T192500
 SUMMARY:WdI (L)
-LOCATION:
+LOCATION:236 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T080000
 DTEND:20261222T112500
 SUMMARY:Ez (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
@@ -1106,7 +1106,7 @@ BEGIN:VEVENT
 DTSTART:20261222T160000
 DTEND:20261222T173500
 SUMMARY:Ez (ć)
-LOCATION:
+LOCATION:252 S
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
@@ -1120,7 +1120,7 @@ BEGIN:VEVENT
 DTSTART:20270107T114000
 DTEND:20270107T131500
 SUMMARY:Ez (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
@@ -1134,14 +1134,14 @@ BEGIN:VEVENT
 DTSTART:20270107T160000
 DTEND:20270107T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T175000
 DTEND:20270107T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
@@ -1155,7 +1155,7 @@ BEGIN:VEVENT
 DTSTART:20270108T114000
 DTEND:20270108T131500
 SUMMARY:WDM (ć)
-LOCATION:
+LOCATION:233 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1176,21 +1176,21 @@ BEGIN:VEVENT
 DTSTART:20270111T133000
 DTEND:20270111T150500
 SUMMARY:WdI (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270111T160000
 DTEND:20270111T173500
 SUMMARY:WdI (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T080000
 DTEND:20270112T093500
 SUMMARY:WDM (ć)
-LOCATION:
+LOCATION:308 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1225,21 +1225,21 @@ BEGIN:VEVENT
 DTSTART:20270114T160000
 DTEND:20270114T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T175000
 DTEND:20270114T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270115T080000
 DTEND:20270115T093500
 SUMMARY:MD1 (ć)
-LOCATION:
+LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
@@ -1266,8 +1266,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T133000
 DTEND:20270118T150500
-SUMMARY:MD1 (z)
-LOCATION:
+SUMMARY:MD1 (Zp)
+LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: zal popr\nNumer zajęć: 4\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
@@ -1281,7 +1281,7 @@ BEGIN:VEVENT
 DTSTART:20270119T114000
 DTEND:20270119T131500
 SUMMARY:WDM (ć)
-LOCATION:
+LOCATION:227 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1295,7 +1295,7 @@ BEGIN:VEVENT
 DTSTART:20270121T080000
 DTEND:20270121T093500
 SUMMARY:MD1 (Zal)
-LOCATION:
+LOCATION:316 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Zaliczenie\nNumer zajęć: 1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
@@ -1316,14 +1316,14 @@ BEGIN:VEVENT
 DTSTART:20270121T160000
 DTEND:20270121T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T175000
 DTEND:20270121T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
@@ -1351,7 +1351,7 @@ BEGIN:VEVENT
 DTSTART:20270125T133000
 DTEND:20270125T150500
 SUMMARY:WdI (L)
-LOCATION:
+LOCATION:224 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
@@ -1372,7 +1372,7 @@ BEGIN:VEVENT
 DTSTART:20270127T114000
 DTEND:20270127T131500
 SUMMARY:WDM (ć)
-LOCATION:
+LOCATION:307 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1400,21 +1400,21 @@ BEGIN:VEVENT
 DTSTART:20270128T160000
 DTEND:20270128T173500
 SUMMARY:JoM (ć)
-LOCATION:
+LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T175000
 DTEND:20270128T192500
 SUMMARY:Ja (ć)
-LOCATION:
+LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270129T095000
 DTEND:20270129T112500
 SUMMARY:WdI (w)
-LOCATION:
+LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 END:VCALENDAR
