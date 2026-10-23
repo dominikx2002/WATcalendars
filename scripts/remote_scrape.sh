@@ -165,7 +165,8 @@ LOG_PATH="logs/remote_$(date +'%Y-%m-%d_%H-%M').txt"
 
 log "Scraping: ${FACULTIES[*]} (log: $LOG_PATH)"
 status=0
-"$WATCAL" --verbose --log-file "$LOG_PATH" calendars "${FACULTIES[@]}" || status=$?
+# Shown on the website next to each faculty's status dot.
+WATCAL_SOURCE="$MACHINE" "$WATCAL" --verbose --log-file "$LOG_PATH" calendars "${FACULTIES[@]}" || status=$?
 log "watcal calendars exited with $status"
 
 "$WATCAL" --log-file "$LOG_PATH" index || log "watcal index failed - committing the calendars anyway"
@@ -187,8 +188,9 @@ if [ "${#paths[@]}" -eq 0 ]; then
 fi
 
 git add -A -- "${paths[@]}"
-# index.json carries a timestamp, so it differs on every run; commit only
-# when a calendar actually changed.
+# Each faculty directory holds its status.json (last scrape time), so a
+# successful run always has something to commit - that is what keeps the
+# faculty's dot green on the website even when no plan changed.
 if git diff --cached --quiet; then
     log "Calendars unchanged - nothing to commit."
     git reset --quiet --hard HEAD

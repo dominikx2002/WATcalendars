@@ -30,6 +30,7 @@ from watcalendars.me.session import (LoginError, derive_exv, fetch_logged,
                                      group_codes, login, login_and_fetch_plan,
                                      looks_like_plan)
 from watcalendars.store.ics import build_calendar, write_calendar
+from watcalendars.store.index import write_faculty_status
 
 log = get_logger()
 
@@ -93,6 +94,16 @@ def session_base():
     return _BASE
 
 
+def _wcy_failed(args, detail: str) -> int:
+    """Mark WCY red on the website (unless this is a --limit test run)."""
+    if not args.limit:
+        try:
+            write_faculty_status("wcy", False, detail, source="e-Dziekanat")
+        except Exception as exc:
+            log.error(f"{ERROR} could not write the WCY status: {exc}")
+    return 1
+
+
 def _run_all_groups(args, user, password, year) -> int:
     """Log in once, then fetch every group's plan from the chooser."""
     mid = args.mid or 328
@@ -101,11 +112,11 @@ def _run_all_groups(args, user, password, year) -> int:
         session, sid = login(user, password)
     except LoginError as exc:
         log.error(f"{ERROR} {exc}")
-        return 1
+        return _wcy_failed(args, "logowanie nieudane")
     except Exception as exc:
         log.error(f"{ERROR} could not reach the e-Dziekanat: "
                   f"{type(exc).__name__}: {exc}")
-        return 1
+        return _wcy_failed(args, "e-Dziekanat niedostępny")
 
     log.info(f"{INFO} Loading the group chooser (mid={mid}, "
              f"iid={args.groups_iid})...")
@@ -115,7 +126,7 @@ def _run_all_groups(args, user, password, year) -> int:
         log.error(f"{ERROR} no groups found on the chooser page - the "
                   f"--groups-iid ({args.groups_iid}) may be wrong for this "
                   f"semester.")
-        return 1
+        return _wcy_failed(args, "brak listy grup")
     if args.limit:
         codes = codes[:args.limit]
     log.info(f"{INFO} {len(codes)} groups to fetch, {args.delay}s apart "
@@ -150,7 +161,16 @@ def _run_all_groups(args, user, password, year) -> int:
     log.info(f"{SUCCESS} All groups done: "
              + ", ".join(f"{k}={v}" for k, v in done.items()))
     # fail the run only if nothing at all came through
-    return 0 if (done["added"] + done["changed"] + done["unchanged"]) else 1
+    written = done["added"] + done["changed"] + done["unchanged"]
+    if not args.limit:  # a --limit test run says nothing about the rest
+        try:
+            write_faculty_status(
+                "wcy", bool(written),
+                f"{written}/{len(codes)} grup" if written else "brak planów",
+                source="e-Dziekanat")
+        except Exception as exc:
+            log.error(f"{ERROR} could not write the WCY status: {exc}")
+    return 0 if written else 1
 
 
 def main(argv=None) -> int:

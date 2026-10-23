@@ -85,6 +85,15 @@ def cmd_list() -> int:
 PAUSE_BETWEEN_FACULTIES = 20
 
 
+def _record_faculty(code: str, ok: bool, detail: str) -> None:
+    from watcalendars.store.index import write_faculty_status
+
+    try:
+        write_faculty_status(code, ok, detail)
+    except Exception as exc:
+        log.error(f"{ERROR} Could not write {code} status: {exc}")
+
+
 def _run_stage(stage: str, specs):
     """Returns (exit code, list of faculty codes that failed)."""
     failures = []
@@ -95,6 +104,7 @@ def _run_stage(stage: str, specs):
                 f"{spec.code.upper()} to stay under the WAF's rate limits"
             )
             time.sleep(PAUSE_BETWEEN_FACULTIES)
+        error = ""
         try:
             if stage in ("groups", "run"):
                 run_groups(spec)
@@ -103,11 +113,15 @@ def _run_stage(stage: str, specs):
         except FacultyBlocked as exc:
             # Expected failure mode, not a bug: no traceback.
             failures.append(spec.code)
+            error = "zablokowane przez WAF"
             log.error(f"{ERROR} {exc}")
         except Exception as exc:
             failures.append(spec.code)
+            error = type(exc).__name__
             log.error(f"{ERROR} {spec.code.upper()} failed: {type(exc).__name__}: {exc}")
             log.debug("traceback", exc_info=True)
+        if stage in ("calendars", "run"):
+            _record_faculty(spec.code, not error, error)
 
     if failures:
         log.warning(

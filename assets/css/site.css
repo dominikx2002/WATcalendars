@@ -509,6 +509,27 @@ h1 {
 .dot.ok      { --dot: #2ea043; }
 .dot.failed  { --dot: #e5534b; }
 
+/* Per-faculty dot in the chip's corner; no halo - eight pulsing rings
+   would just be noise. */
+.chip { position: relative; }
+.chip-dot { position: absolute; top: 7px; right: 7px; width: 7px; height: 7px; }
+.chip-dot::after { display: none; }
+
+.sheet-health { margin: 6px 0 0; font-size: 0.8rem; color: var(--text-dim); }
+.sheet-health[hidden] { display: none; }
+.sheet-health::before {
+    content: "";
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    margin-right: 6px;
+    border-radius: 50%;
+    background: var(--dot, var(--text-dim));
+    vertical-align: 1px;
+}
+.sheet-health.ok     { --dot: #2ea043; }
+.sheet-health.failed { --dot: #e5534b; }
+
 @media (prefers-reduced-motion: no-preference) {
     .dot::after { animation: ping 2.4s cubic-bezier(0, 0, 0.2, 1) infinite; }
     @keyframes ping {

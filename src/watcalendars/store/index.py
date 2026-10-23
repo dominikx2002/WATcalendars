@@ -128,6 +128,10 @@ def build_index() -> Dict:
             entry["semesters"][semester] = groups
             total_groups += len(groups)
 
+        status = read_faculty_status(code)
+        if status:
+            entry["status"] = status
+
         if entry["semesters"]:
             document["faculties"][code] = entry
 
@@ -165,4 +169,46 @@ def write_status(ok: bool, detail: str = "", run_url: str = "") -> Dict:
 
     log.info(f"{INFO} Scrape status: {document['conclusion']}"
              + (f" ({detail})" if detail else ""))
+    return document
+
+
+def faculty_status_path(code: str) -> str:
+    return os.path.join(CALENDARS_DIR, f"{code}_calendars", "status.json")
+
+
+def read_faculty_status(code: str) -> Dict:
+    try:
+        with open(faculty_status_path(code), encoding="utf-8") as handle:
+            return json.load(handle)
+    except (OSError, ValueError):
+        return {}
+
+
+def write_faculty_status(code: str, ok: bool, detail: str = "",
+                         source: str = "") -> Dict:
+    """Record one faculty's last scrape, for its dot on the website.
+
+    One file per faculty, inside that faculty's own directory: GitHub
+    Actions and the Raspberry Pi scrape different faculties and each
+    commits only its own directories, so they never touch the same file.
+    "updated" is the last *successful* scrape and survives a failure, so
+    the page can say how old the calendars really are.
+    """
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    previous = read_faculty_status(code)
+    document = {
+        "ok": bool(ok),
+        "checked": now,
+        "updated": now if ok else previous.get("updated", ""),
+        "source": source or os.environ.get("WATCAL_SOURCE")
+                  or ("GitHub Actions" if os.environ.get("GITHUB_ACTIONS")
+                      else "lokalnie"),
+    }
+    if detail:
+        document["detail"] = detail
+
+    path = faculty_status_path(code)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as handle:
+        json.dump(document, handle, ensure_ascii=False, separators=(",", ":"))
     return document

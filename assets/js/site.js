@@ -11,6 +11,8 @@
     var STATUS_URL = "db/calendars/status.json";
     var REPO_TREE = "https://github.com/dominikx2002/WATcalendars/tree/main/db/calendars";
     var MAX_RESULTS = 40;
+    // Scrapes run nightly; one late or skipped night is still "current".
+    var FRESH_HOURS = 36;
 
     // Polish counts take three forms: 1 grupa, 2-4 grupy, 5+ grup -
     // and the teens (12-14) fall back to the "many" form.
@@ -50,6 +52,7 @@
         primaryLabel: document.getElementById("primary-label"),
         sheetFaculty: document.getElementById("sheet-faculty"),
         sheetMeta: document.getElementById("sheet-meta"),
+        sheetHealth: document.getElementById("sheet-health"),
         sheetClose: document.getElementById("sheet-close"),
         sheetSource: document.getElementById("sheet-source"),
         primary: document.getElementById("primary-action"),
@@ -271,6 +274,34 @@
         el.pagers[0].scrollIntoView({ block: "start", behavior: "smooth" });
     }
 
+    /* ---------- freshness ---------- */
+
+    // Each faculty's last scrape, from <code>_calendars/status.json via
+    // index.json. Green = the last attempt worked and is recent; red =
+    // it failed or nothing has run for too long. null = never recorded.
+    function health(code) {
+        var s = (index.faculties[code] || {}).status;
+        if (!s) return null;
+        var updated = Date.parse(s.updated || "");
+        var fresh = !isNaN(updated) && (Date.now() - updated) / 36e5 <= FRESH_HOURS;
+        return { ok: !!s.ok && fresh, status: s, updated: isNaN(updated) ? null : new Date(updated) };
+    }
+
+    function fmtDate(d) {
+        function two(n) { return (n < 10 ? "0" : "") + n; }
+        return two(d.getDate()) + "." + two(d.getMonth() + 1) + "." + d.getFullYear() +
+            " " + two(d.getHours()) + ":" + two(d.getMinutes());
+    }
+
+    function healthText(h) {
+        var s = h.status;
+        var when = h.updated ? fmtDate(h.updated) : "nigdy";
+        if (h.ok) return "Aktualne — pobrano " + when + (s.source ? " (" + s.source + ")" : "");
+        return (s.ok ? "Nieaktualne" : "Ostatnie pobieranie nie powiodło się" +
+                (s.detail ? " (" + s.detail + ")" : "")) +
+            " — ostatnia udana aktualizacja: " + when;
+    }
+
     function renderFaculties() {
         var fragment = document.createDocumentFragment();
         Object.keys(index.faculties).forEach(function (code) {
@@ -282,9 +313,12 @@
             tile.type = "button";
             tile.className = "chip";
             tile.dataset.code = code;
-            tile.title = faculty.name + " \u2014 " + groupWord(count);
+            var h = health(code);
+            tile.title = faculty.name + " \u2014 " + groupWord(count) +
+                (h ? "\n" + healthText(h) : "");
             tile.setAttribute("aria-pressed", "false");
             tile.innerHTML =
+                (h ? '<span class="dot chip-dot ' + (h.ok ? "ok" : "failed") + '" aria-hidden="true"></span>' : "") +
                 '<img class="chip-logo" src="' + logoUrl(code) + '" alt="" width="34" height="34" loading="lazy">' +
                 '<span class="chip-code">' + code.toUpperCase() + "</span>" +
                 '<span class="chip-count">' + count + "</span>";
@@ -317,6 +351,12 @@
         el.sheetTitle.textContent = entry.id;
         el.sheetMeta.textContent = entry.events + " zajęć · semestr " +
             (entry.semester === "zima" ? "zimowy" : "letni");
+        var h = health(entry.code);
+        el.sheetHealth.hidden = !h;
+        if (h) {
+            el.sheetHealth.className = "sheet-health " + (h.ok ? "ok" : "failed");
+            el.sheetHealth.textContent = healthText(h);
+        }
 
         var webcal = webcalUrl(entry);
         var https = httpsUrl(entry);
@@ -502,10 +542,42 @@
         }
     }
 
-    fetch(STATUS_URL, { cache: "no-cache" })
+    // Footer dot once index.json is in: green only when every faculty is
+    // current, and the tooltip lists each one. status.json (the GitHub
+    // run) then only supplies the link to the run log - or, until any
+    // faculty has a status recorded, the old whole-run verdict.
+    function showOverall(run) {
+        var codes = Object.keys(index.faculties).filter(function (c) { return health(c); });
+        if (!codes.length) {
+            if (run) showStatus(run);
+            return;
+        }
+        var dot = el.statusDot;
+        var stale = codes.filter(function (c) { return !health(c).ok; });
+
+        dot.className = "dot " + (stale.length ? "failed" : "ok");
+        dot.hidden = false;
+        dot.title = codes.map(function (c) {
+            return c.toUpperCase() + ": " + healthText(health(c));
+        }).join("\n");
+        if (run && run.run_url) {
+            dot.href = run.run_url;
+        } else {
+            dot.removeAttribute("href");
+            dot.removeAttribute("target");
+        }
+
+        el.footerUpdated.textContent = stale.length
+            ? "Aktualne plany: " + (codes.length - stale.length) + "/" + codes.length +
+              " wydziałów (nieaktualne: " +
+              stale.map(function (c) { return c.toUpperCase(); }).join(", ") + ")."
+            : "Wszystkie plany aktualne (" + codes.length + "/" + codes.length +
+              " wydziałów).";
+    }
+
+    var runStatus = fetch(STATUS_URL, { cache: "no-cache" })
         .then(function (response) { return response.ok ? response.json() : null; })
-        .then(function (data) { if (data) showStatus(data); })
-        .catch(function () { /* no run recorded - leave the dot hidden */ });
+        .catch(function () { return null; /* no run recorded */ });
 
     el.status.textContent = "Wczytywanie listy grup…";
 
@@ -523,6 +595,7 @@
                 el.footerUpdated.textContent =
                     "Ostatnia aktualizacja planów: " + data.generated.slice(0, 10) + ".";
             }
+            runStatus.then(showOverall);
 
             var params = new URLSearchParams(location.search);
             var entry = params.get("g") && params.get("f")

@@ -264,6 +264,12 @@ def test_cli_reports_blocked_faculty_as_failure(monkeypatch):
     specs = [registry.FACULTIES["wcy"], registry.FACULTIES["wim"]]
     assert cli._run_stage("calendars", specs) == (1, ["wcy"])
 
+    # each faculty's dot on the website gets its own verdict
+    from watcalendars.store.index import read_faculty_status
+    assert read_faculty_status("wcy")["ok"] is False
+    assert read_faculty_status("wcy")["detail"] == "zablokowane przez WAF"
+    assert read_faculty_status("wim")["ok"] is True
+
 
 # --- the Raspberry Pi path must not need Playwright -----------------------
 

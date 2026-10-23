@@ -65,3 +65,25 @@ def test_lessons_without_times_are_dropped():
 def test_sanitize_filename_strips_illegal_characters():
     assert sanitize_filename('WCY<>:"|?*X') == "WCY_______X"
     assert sanitize_filename("SDRMXCSS24Z_-_Ceg") == "SDRMXCSS24Z_-_Ceg"
+
+
+def test_faculty_status_keeps_last_success_on_failure():
+    from watcalendars.store import index as I  # paths redirected by conftest
+    ok = I.write_faculty_status("wcy", True, source="test")
+    assert ok["ok"] and ok["updated"] == ok["checked"] and ok["source"] == "test"
+    bad = I.write_faculty_status("wcy", False, "zablokowane", source="test")
+    assert not bad["ok"] and bad["updated"] == ok["updated"]
+    assert bad["detail"] == "zablokowane"
+    assert I.read_faculty_status("wcy") == bad
+    assert I.read_faculty_status("wel") == {}
+
+
+def test_floating_times_have_no_utc_suffix():
+    from datetime import datetime
+    from watcalendars.core.models import Lesson
+    from watcalendars.store.ics import build_calendar
+    lesson = Lesson.from_dict(dict(start=datetime(2026, 10, 23, 16, 0),
+                                   end=datetime(2026, 10, 23, 17, 35),
+                                   subject="PsbI", type="(w)"))
+    out = build_calendar("G", [lesson], floating=True)
+    assert "DTSTART:20261023T160000\n" in out and "DTEND:20261023T173500\n" in out
