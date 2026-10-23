@@ -145,6 +145,28 @@ def test_discover_returns_none_when_absent():
     assert S.discover_plan_command("no menu here", "zima") is None
 
 
+def test_derive_exv():
+    assert S.derive_exv("WCY22KC2S0") == "K2C2S0"
+    assert S.derive_exv("WCY22KB1S0") == "K2B1S0"
+    assert S.derive_exv("WME23BE1S1") == "B3E1S1"
+
+
+def test_group_codes_from_chooser():
+    chooser = ("x <a href=\"javascript:showGroupPlan('WCY22KC2S0');\">g</a> "
+               "<a href=\"javascript:showGroupPlan('WME26BX4S1');\">g</a> "
+               "<a href=\"javascript:showGroupPlan('WCY22KC2S0');\">dup</a>")
+    assert S.group_codes(chooser) == ["WCY22KC2S0", "WME26BX4S1"]
+
+
+def test_decode_prefers_utf8_then_iso88592():
+    class R:
+        def __init__(self, raw): self.content = raw
+    # 'ą' in UTF-8
+    assert S._decode(R("Zarz\u0105dzanie".encode("utf-8"))) == "Zarz\u0105dzanie"
+    # 'ł' (0xB3) in iso-8859-2 is invalid UTF-8 -> falls back
+    assert S._decode(R("rozk\u0142ad".encode("iso-8859-2"))) == "rozk\u0142ad"
+
+
 def test_fresh_sid_extracted_from_form_action():
     fs = FakeSession(LOGIN_PAGE, "")
     assert S._fresh_sid(fs, S.BASE, 10) == "abcdef0123456789abcdef0123456789"
