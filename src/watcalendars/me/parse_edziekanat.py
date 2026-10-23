@@ -35,7 +35,11 @@ _DATECOL = re.compile(r"(\d{1,2})([IVX]+)$")
 
 
 def _norm(cell) -> str:
-    return re.sub(r"[\s\xa0]", "", cell.get_text("", strip=True)).replace("�", "").upper()
+    """Uppercase, ASCII-only key: strips whitespace AND diacritics (Ś, Ą,
+    Ł...) and any mojibake, so weekday names like 'ŚRODA'/'PIĄTEK' match on
+    their ASCII skeleton ('RODA'/'PITEK'). Without this, Wed and Fri were
+    missed and their classes piled onto Tue/Thu."""
+    return re.sub(r"[^A-Z0-9]", "", cell.get_text("", strip=True).upper())
 
 
 def _text(cell) -> str:

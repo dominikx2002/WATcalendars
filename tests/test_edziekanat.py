@@ -40,6 +40,38 @@ def _by(lessons):
     return sorted(lessons, key=lambda x: (x.start, x.subject))
 
 
+SRODA_FIXTURE = """
+<html><body><table>
+<tr><td>ŚRODA</td><td>nr</td><td>01X</td><td>08X</td><td>15X</td><td>22X</td><td>29X</td></tr>
+<tr><td>1</td><td>08:00 09:35</td>
+<td title="Kryptologia - dr Lis (Wyklad)">K</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table>
+<table>
+<tr><td>PIĄTEK</td><td>nr</td><td>03X</td><td>10X</td><td>17X</td><td>24X</td><td>31X</td></tr>
+<tr><td>1</td><td>08:00 09:35</td>
+<td title="Sieci - dr Mak (Lab)">S</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table></body></html>
+"""
+
+
+def test_polish_weekday_names_sroda_piatek_are_parsed():
+    # regression: 'ŚRODA' and 'PIĄTEK' headers were missed because of their
+    # diacritics, so those whole sections were dropped (and in real data
+    # their classes piled onto the previous day). Both must now be read.
+    lessons = P.parse(SRODA_FIXTURE, academic_start_year=2026)
+    subs = {x.subject for x in lessons}
+    assert "Kryptologia" in subs   # from the ŚRODA section
+    assert "Sieci" in subs         # from the PIĄTEK section
+
+
+def test_norm_strips_diacritics():
+    from bs4 import BeautifulSoup
+    cell = BeautifulSoup("<td>ŚRODA</td>", "html.parser").td
+    assert P._norm(cell) == "RODA"
+    cell = BeautifulSoup("<td>PIĄTEK</td>", "html.parser").td
+    assert P._norm(cell) == "PITEK"
+
+
 def test_dates_use_roman_months_and_year_rollover():
     # IX-XII -> start year; I-II -> next year
     assert P._col_date("28IX", 2026).isoformat() == "2026-09-28"
@@ -143,6 +175,24 @@ def test_discover_picks_summer_term():
 
 def test_discover_returns_none_when_absent():
     assert S.discover_plan_command("no menu here", "zima") is None
+
+
+def test_fetch_logged_retries_on_connection_error(monkeypatch):
+    import requests as _rq
+    calls = {"n": 0}
+    class Resp:
+        content = "<html>CZWARTEK</html>".encode("utf-8")
+        def raise_for_status(self): pass
+    class Sess:
+        def get(self, url, params=None, timeout=None):
+            calls["n"] += 1
+            if calls["n"] < 3:
+                raise _rq.ConnectionError("Remote end closed connection")
+            return Resp()
+    monkeypatch.setattr(S.time if hasattr(S, "time") else __import__("time"),
+                        "sleep", lambda s: None)
+    html = S.fetch_logged(Sess(), S.BASE, "sid", 328, 20264, retries=3)
+    assert "CZWARTEK" in html and calls["n"] == 3
 
 
 def test_derive_exv():
