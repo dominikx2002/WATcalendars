@@ -145,6 +145,7 @@ def test_type_abbr():
     assert P._type_abbr("Ćwiczenia") == "ć"
     assert P._type_abbr("Egzamin poprawkowy") == "Ep"
     assert P._type_abbr("Laboratorium") == "L"
+    assert P._type_abbr("zal popr") == "Zp"
 
 
 def test_rowspan_class_spans_two_blocks():
@@ -169,9 +170,16 @@ def test_multiple_teachers_become_a_list():
     assert sieci.start == datetime(2026, 10, 8, 11, 40)  # second date column
 
 
-def test_rooms_off_by_default():
-    lessons = P.parse(FIXTURE, academic_start_year=2026)
+def test_rooms_off_on_request():
+    lessons = P.parse(NESTED_FIXTURE, academic_start_year=2026, with_rooms=False)
     assert all(x.room == "" for x in lessons)
+
+
+def test_room_and_building_from_nested_cell():
+    lessons = P.parse(NESTED_FIXTURE, academic_start_year=2026)
+    rooms = {(x.subject, x.room) for x in lessons}
+    assert ("PsbI", "307 S") in rooms
+    assert ("WF", "") in rooms  # "-" in the plan means no room
 
 
 # --- login flow (mocked, no network) ---------------------------------------

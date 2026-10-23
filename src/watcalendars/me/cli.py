@@ -82,9 +82,11 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--iid", type=int, help="term id override (auto-detected)")
     p.add_argument("--dump", help="also save the raw fetched page here, for "
                                   "debugging when the plan is not recognised")
-    p.add_argument("--with-rooms", action="store_true",
-                   help="try to read room numbers (unreliable in the "
-                        "simplified view; off by default)")
+    p.add_argument("--no-rooms", dest="with_rooms", action="store_false",
+                   help="leave LOCATION empty instead of reading the room "
+                        "and building from the plan")
+    p.add_argument("--with-rooms", dest="with_rooms", action="store_true",
+                   help=argparse.SUPPRESS)  # old flag; rooms are now the default
     p.add_argument("-v", "--verbose", action="store_true")
     p.add_argument("--log-file")
     return p

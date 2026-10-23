@@ -123,7 +123,7 @@ def _short_code(cell) -> str:
 _TYPE_ABBR = [("wyklad", "w"), ("cwicz", "ć"), ("laborat", "L"),
               ("projekt", "P"), ("seminar", "S"), ("lektorat", "Lk"),
               ("egzamin poprawkowy", "Ep"), ("egzamin", "E"),
-              ("zaliczenie", "Zal")]
+              ("zal popr", "Zp"), ("zaliczenie", "Zal")]
 _FOLD = str.maketrans("łśżźąęóćń", "lszzaeocn")
 
 
@@ -141,24 +141,29 @@ def _inside_lesson_cell(tr) -> bool:
 
 
 def _room_from_cell(cell, type_: str) -> str:
-    """Best-effort room, read conservatively.
+    """Room and building, e.g. "307 S", "203 65", "AW 7", "ST.nr 1(PWC3)".
 
-    The simplified ("Miniatura") view packs room, building and a teacher
-    abbreviation into a cryptic code, so a clean room cannot always be
-    told apart from the rest. Only a clear "<number>[ <LETTER>]" is
-    accepted (e.g. "307 S"); anything else is left blank, because a wrong
-    LOCATION is worse than none. The full-data view exposes rooms
-    cleanly - see README.
+    In the full view a filled cell holds a nested table whose first
+    inner cell reads "<code><br>(<type>)<br><room building>"; the room
+    is whatever follows the type. "-" means no room. Without the nested
+    table (the "Miniatura" view packs room, building and a teacher
+    abbreviation together) only a clear "<number>[ <LETTER>]" is taken,
+    because a wrong LOCATION is worse than none.
     """
+    inner = cell.find("td")
+    if inner is not None:
+        m = re.match(r"^\S+\s*\(\s*[^()]*?\s*\)\s*(.*)$", _text(inner))
+        room = m.group(1).strip() if m else ""
+        return "" if room in ("", "-") else room
     txt = _text(cell)
     m = re.search(r"\([^()]*\)\s*(.+)$", txt)
     tail = m.group(1).strip() if m else ""
-    mroom = re.search(r"\b(\d{1,3}(?:\s?[A-Z])?)\b", tail)
+    mroom = re.search(r"(\d{1,3}(?:\s?[A-Z])?)", tail)
     return mroom.group(1).strip() if mroom else ""
 
 
 def parse(html: str, academic_start_year: int = 2026,
-          with_rooms: bool = False) -> List[Lesson]:
+          with_rooms: bool = True) -> List[Lesson]:
     soup = BeautifulSoup(html, "html.parser")
     rows = [tr for tr in soup.find_all("tr")
             if not _inside_lesson_cell(tr)]
