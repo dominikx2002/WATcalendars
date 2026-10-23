@@ -732,13 +732,6 @@ LOCATION:1/ 19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T070000Z
-DTEND:20261110T083500Z
-SUMMARY:DSiSM (ć)
-LOCATION:3/043
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T070000Z
 DTEND:20261124T083500Z
 SUMMARY:Par (ć)
@@ -848,7 +841,7 @@ DTSTART:20261110T085000Z
 DTEND:20261110T102500Z
 SUMMARY:DSiSM (ć)
 LOCATION:3/043
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T085000Z
@@ -1415,7 +1408,7 @@ DTSTART:20261028T070000Z
 DTEND:20261028T083500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
@@ -1434,9 +1427,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
-SUMMARY:ZŻWAT (ć)
-LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
+SUMMARY:DSiSM (ć)
+LOCATION:3/043
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T070000Z
@@ -1457,7 +1450,7 @@ DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
@@ -1485,7 +1478,7 @@ DTSTART:20260113T070000Z
 DTEND:20260113T083500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T070000Z
@@ -1534,7 +1527,7 @@ DTSTART:20260324T070000Z
 DTEND:20260324T083500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T060000Z
@@ -1548,7 +1541,7 @@ DTSTART:20260616T060000Z
 DTEND:20260616T073500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260930T075000Z
@@ -3165,7 +3158,7 @@ DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T060000Z

@@ -743,7 +743,7 @@ DTSTART:20261013T075000Z
 DTEND:20261013T092500Z
 SUMMARY:CAD (L)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: dr inż. Grzelak Krzysztof
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T075000Z
@@ -764,7 +764,7 @@ DTSTART:20261103T085000Z
 DTEND:20261103T102500Z
 SUMMARY:CAD (L)
 LOCATION:29/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T085000Z
@@ -774,11 +774,18 @@ LOCATION:11/ 34
 DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261117T085000Z
+DTEND:20261117T102500Z
+SUMMARY:CAD (L)
+LOCATION:9/ 54; 18/ 54
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:CAD (L)
 LOCATION:9/ 54; 18/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
@@ -799,7 +806,7 @@ DTSTART:20261215T085000Z
 DTEND:20261215T102500Z
 SUMMARY:CAD (L)
 LOCATION:9/ 54; 18/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr inż. Grzelak Krzysztof
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T085000Z
@@ -883,7 +890,7 @@ DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
 SUMMARY:CAD (L)
 LOCATION:29/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T104000Z
@@ -911,7 +918,7 @@ DTSTART:20261201T104000Z
 DTEND:20261201T121500Z
 SUMMARY:CAD (L)
 LOCATION:9/ 54; 18/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T104000Z
@@ -995,14 +1002,14 @@ DTSTART:20261013T113000Z
 DTEND:20261013T130500Z
 SUMMARY:CAD (L)
 LOCATION:29/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Grzelak Krzysztof
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
 SUMMARY:CAD (L)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr inż. Grzelak Krzysztof
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T123000Z
@@ -1044,7 +1051,7 @@ DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
 SUMMARY:CAD (L)
 LOCATION:9/ 54; 18/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T123000Z
@@ -1114,7 +1121,7 @@ DTSTART:20261020T140000Z
 DTEND:20261020T153500Z
 SUMMARY:CAD (L)
 LOCATION:29/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: dr inż. Grzelak Krzysztof
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -1317,7 +1324,7 @@ DTSTART:20260127T070000Z
 DTEND:20260127T083500Z
 SUMMARY:CAD (L)
 LOCATION:116/ 54; 13/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T070000Z

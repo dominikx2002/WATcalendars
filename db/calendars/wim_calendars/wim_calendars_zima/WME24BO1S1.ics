@@ -900,6 +900,13 @@ LOCATION:3/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261201T085000Z
+DTEND:20261201T102500Z
+SUMMARY:TeSM (w)
+LOCATION:
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Bombalska Aneta
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261208T085000Z
 DTEND:20261208T102500Z
 SUMMARY:Tmf (L)
@@ -1170,7 +1177,7 @@ DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
 SUMMARY:TeSM (w)
 LOCATION:
-DESCRIPTION:Techniki spektroskopii i obrazowania medycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Bombalska Aneta
+DESCRIPTION:Techniki spektroskopii i obrazowania medycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Bombalska Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T123000Z
@@ -1521,13 +1528,6 @@ DTEND:20261014T092500Z
 SUMMARY:Dso (w)
 LOCATION:
 DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261028T085000Z
-DTEND:20261028T102500Z
-SUMMARY:TeSM (w)
-LOCATION:
-DESCRIPTION:Techniki spektroskopii i obrazowania medycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Bombalska Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z

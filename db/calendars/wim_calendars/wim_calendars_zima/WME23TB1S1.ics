@@ -181,9 +181,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T104000Z
 DTEND:20261102T121500Z
-SUMMARY:Eut* (w)
+SUMMARY:Eut* (ć)
 LOCATION:42/ 20
-DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Trawiński Grzegorz
+DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T104000Z
@@ -211,7 +211,7 @@ DTSTART:20261130T104000Z
 DTEND:20261130T121500Z
 SUMMARY:Eut* (ć)
 LOCATION:42/ 20
-DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Trawiński Grzegorz
+DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T104000Z
@@ -1124,18 +1124,11 @@ LOCATION:3/ 23A
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T075000Z
-DTEND:20261022T092500Z
-SUMMARY:Eut* (ć)
-LOCATION:42/ 20
-DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Trawiński Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261029T085000Z
 DTEND:20261029T102500Z
-SUMMARY:Eut* (ć)
+SUMMARY:Eut* (w)
 LOCATION:42/ 20
-DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Trawiński Grzegorz
+DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z
@@ -1185,6 +1178,13 @@ DTEND:20261008T111500Z
 SUMMARY:Ek (w)
 LOCATION:3/ 23A
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Owczarczyk Anna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T104000Z
+DTEND:20261029T121500Z
+SUMMARY:Eut* (ć)
+LOCATION:1/ 21
+DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
