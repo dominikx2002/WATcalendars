@@ -19,28 +19,28 @@ DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\n
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260929T140000Z
-DTEND:20260929T172500Z
-SUMMARY:Projektowanie systemów bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260929T140000Z
 DTEND:20260929T153500Z
 SUMMARY:Studium ataków i incydentów Wykład
 LOCATION:
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T092500Z
+DTSTART:20260930T140000Z
+DTEND:20260930T172500Z
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji Wykład
+LOCATION:
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T075000Z
+DTEND:20261002T092500Z
 SUMMARY:Modelowanie systemów teleinformatycznych Wykład
 LOCATION:
 DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T111500Z
+DTSTART:20261002T094000Z
+DTEND:20261002T111500Z
 SUMMARY:Techniki dochodzeniowe i śledcze Wykład
 LOCATION:
 DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
@@ -123,27 +123,6 @@ LOCATION:
 DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T075000Z
-DTEND:20261020T092500Z
-SUMMARY:Techniki dochodzeniowe i śledcze Wykład
-LOCATION:
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T111500Z
-SUMMARY:Analiza i projektowanie systemów teleinformatycznych Wykład
-LOCATION:
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T155000Z
 DTEND:20261020T191500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Laboratorium
@@ -151,8 +130,29 @@ LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T075000Z
-DTEND:20261022T092500Z
+DTSTART:20261021T075000Z
+DTEND:20261021T092500Z
+SUMMARY:Techniki dochodzeniowe i śledcze Wykład
+LOCATION:
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
+SUMMARY:Analiza i projektowanie systemów teleinformatycznych Wykład
+LOCATION:
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T113000Z
+DTEND:20261021T130500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Laboratorium
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T075000Z
+DTEND:20261023T092500Z
 SUMMARY:Zarządzanie sieciami teleinformatycznymi Wykład
 LOCATION:
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
@@ -172,27 +172,6 @@ LOCATION:
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T070000Z
-DTEND:20261027T083500Z
-SUMMARY:Zarządzanie sieciami teleinformatycznymi Wykład
-LOCATION:
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T102500Z
-SUMMARY:Techniki dochodzeniowe i śledcze Wykład
-LOCATION:
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T121500Z
-SUMMARY:Analiza i projektowanie systemów teleinformatycznych Wykład
-LOCATION:
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T165000Z
 DTEND:20261027T201500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Laboratorium
@@ -200,18 +179,25 @@ LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
+DTSTART:20261028T070000Z
+DTEND:20261028T083500Z
 SUMMARY:Zarządzanie sieciami teleinformatycznymi Wykład
 LOCATION:
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T121500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Wykład
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:Techniki dochodzeniowe i śledcze Wykład
 LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T121500Z
+SUMMARY:Analiza i projektowanie systemów teleinformatycznych Wykład
+LOCATION:
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T085000Z
@@ -228,8 +214,22 @@ LOCATION:
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T123000Z
-DTEND:20261029T140500Z
+DTSTART:20261030T070000Z
+DTEND:20261030T083500Z
+SUMMARY:Zarządzanie sieciami teleinformatycznymi Wykład
+LOCATION:
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T121500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Wykład
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T123000Z
+DTEND:20261030T140500Z
 SUMMARY:Modelowanie systemów teleinformatycznych Laboratorium
 LOCATION:
 DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
@@ -249,13 +249,6 @@ LOCATION:
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261103T070000Z
-DTEND:20261103T083500Z
-SUMMARY:Techniki dochodzeniowe i śledcze Wykład
-LOCATION:
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261103T085000Z
 DTEND:20261103T102500Z
 SUMMARY:Zarządzanie sieciami teleinformatycznymi Laboratorium
@@ -270,11 +263,11 @@ LOCATION:
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
-SUMMARY:Projektowanie systemów bezpieczeństwa informacji Wykład
+DTSTART:20261104T070000Z
+DTEND:20261104T083500Z
+SUMMARY:Techniki dochodzeniowe i śledcze Wykład
 LOCATION:
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T070000Z
@@ -305,6 +298,20 @@ LOCATION:
 DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261106T070000Z
+DTEND:20261106T083500Z
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji Wykład
+LOCATION:
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T085000Z
+DTEND:20261106T102500Z
+SUMMARY:Zarządzanie bezpieczeństwem informacji Wykład
+LOCATION:
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T085000Z
 DTEND:20261109T121500Z
 SUMMARY:Techniki dochodzeniowe i śledcze Laboratorium
@@ -319,13 +326,6 @@ LOCATION:
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T104000Z
-DTEND:20261110T140500Z
-SUMMARY:Technologie mobilne Laboratorium
-LOCATION:
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T150000Z
 DTEND:20261110T163500Z
 SUMMARY:Analiza i projektowanie systemów teleinformatycznych Projekt
@@ -333,18 +333,25 @@ LOCATION:
 DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T150000Z
-DTEND:20261110T182500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Projekt
-LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T165000Z
 DTEND:20261110T201500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Laboratorium
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T104000Z
+DTEND:20261111T140500Z
+SUMMARY:Technologie mobilne Laboratorium
+LOCATION:
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T150000Z
+DTEND:20261111T182500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Projekt
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -368,6 +375,13 @@ LOCATION:
 DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:Zarządzanie bezpieczeństwem informacji Wykład
+LOCATION:
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261116T085000Z
 DTEND:20261116T121500Z
 SUMMARY:Techniki dochodzeniowe i śledcze Laboratorium
@@ -382,25 +396,25 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T150000Z
-DTEND:20261117T163500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Projekt
-LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T150000Z
 DTEND:20261117T182500Z
 SUMMARY:Studium ataków i incydentów Laboratorium
 LOCATION:
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Laboratorium
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T150000Z
+DTEND:20261118T163500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Projekt
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -424,20 +438,6 @@ LOCATION:
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T085000Z
-DTEND:20261124T121500Z
-SUMMARY:Techniki dochodzeniowe i śledcze Laboratorium
-LOCATION:
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T123000Z
-DTEND:20261124T140500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T150000Z
 DTEND:20261124T163500Z
 SUMMARY:Analiza i projektowanie systemów teleinformatycznych Projekt
@@ -450,6 +450,20 @@ DTEND:20261124T201500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Laboratorium
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T085000Z
+DTEND:20261125T121500Z
+SUMMARY:Techniki dochodzeniowe i śledcze Laboratorium
+LOCATION:
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Laboratorium
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -522,20 +536,6 @@ LOCATION:
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T085000Z
-DTEND:20261208T121500Z
-SUMMARY:Technologie mobilne Laboratorium
-LOCATION:
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T123000Z
-DTEND:20261208T140500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261208T150000Z
 DTEND:20261208T163500Z
 SUMMARY:Analiza i projektowanie systemów teleinformatycznych Projekt
@@ -543,18 +543,32 @@ LOCATION:
 DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T150000Z
-DTEND:20261208T163500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Projekt
-LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261208T165000Z
 DTEND:20261208T201500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Projekt
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T085000Z
+DTEND:20261209T121500Z
+SUMMARY:Technologie mobilne Laboratorium
+LOCATION:
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Laboratorium
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T150000Z
+DTEND:20261209T163500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Projekt
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T104000Z
@@ -571,25 +585,11 @@ LOCATION:
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T085000Z
-DTEND:20261215T121500Z
-SUMMARY:Techniki dochodzeniowe i śledcze Laboratorium
-LOCATION:
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:Analiza i projektowanie systemów teleinformatycznych Laboratorium
 LOCATION:
 DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T123000Z
-DTEND:20261215T140500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T150000Z
@@ -599,18 +599,32 @@ LOCATION:
 DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T150000Z
-DTEND:20261215T163500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Projekt
-LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T165000Z
 DTEND:20261215T201500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Projekt
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T121500Z
+SUMMARY:Techniki dochodzeniowe i śledcze Laboratorium
+LOCATION:
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T123000Z
+DTEND:20261216T140500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Laboratorium
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T150000Z
+DTEND:20261216T163500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Projekt
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261231T085000Z
@@ -627,13 +641,6 @@ LOCATION:
 DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T085000Z
-DTEND:20270105T121500Z
-SUMMARY:Zarządzanie sieciami teleinformatycznymi Laboratorium
-LOCATION:
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270105T104000Z
 DTEND:20270105T140500Z
 SUMMARY:Bezpieczeństwo sieci IPv6 Laboratorium
@@ -641,25 +648,32 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T123000Z
-DTEND:20270105T140500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Projekt
-LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270105T150000Z
-DTEND:20270105T163500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Projekt
-LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270105T150000Z
 DTEND:20270105T182500Z
 SUMMARY:Studium ataków i incydentów Laboratorium
 LOCATION:
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270106T085000Z
+DTEND:20270106T121500Z
+SUMMARY:Zarządzanie sieciami teleinformatycznymi Laboratorium
+LOCATION:
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270106T123000Z
+DTEND:20270106T140500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Projekt
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270106T150000Z
+DTEND:20270106T163500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Projekt
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T070000Z
@@ -697,13 +711,6 @@ LOCATION:
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T123000Z
-DTEND:20270112T140500Z
-SUMMARY:Analiza i projektowanie systemów teleinformatycznych Wykład
-LOCATION:
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270112T150000Z
 DTEND:20270112T182500Z
 SUMMARY:Studium ataków i incydentów Laboratorium
@@ -711,8 +718,15 @@ LOCATION:
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T150000Z
-DTEND:20270112T182500Z
+DTSTART:20270113T123000Z
+DTEND:20270113T140500Z
+SUMMARY:Analiza i projektowanie systemów teleinformatycznych Wykład
+LOCATION:
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T150000Z
+DTEND:20270113T182500Z
 SUMMARY:Zarządzanie bezpieczeństwem informacji Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Mieczysław Kania
@@ -733,13 +747,6 @@ DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratori
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T085000Z
-DTEND:20270119T121500Z
-SUMMARY:Techniki dochodzeniowe i śledcze Laboratorium
-LOCATION:
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270119T085000Z
 DTEND:20270119T102500Z
 SUMMARY:Zarządzanie sieciami teleinformatycznymi Projekt
 LOCATION:
@@ -751,13 +758,6 @@ DTEND:20270119T140500Z
 SUMMARY:Technologie mobilne Laboratorium
 LOCATION:
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270119T123000Z
-DTEND:20270119T140500Z
-SUMMARY:Modelowanie systemów teleinformatycznych Projekt
-LOCATION:
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T150000Z
@@ -772,6 +772,20 @@ DTEND:20270119T182500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Projekt
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T085000Z
+DTEND:20270120T121500Z
+SUMMARY:Techniki dochodzeniowe i śledcze Laboratorium
+LOCATION:
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T123000Z
+DTEND:20270120T140500Z
+SUMMARY:Modelowanie systemów teleinformatycznych Projekt
+LOCATION:
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T070000Z

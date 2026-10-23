@@ -53,8 +53,8 @@ LOCATION:
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T060000Z
-DTEND:20261008T092500Z
+DTSTART:20261009T060000Z
+DTEND:20261009T092500Z
 SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Wykład
 LOCATION:
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
@@ -95,8 +95,8 @@ LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T155000Z
-DTEND:20261015T172500Z
+DTSTART:20261016T155000Z
+DTEND:20261016T172500Z
 SUMMARY:Wszystkie przedmioty prowadzącego zal popr
 LOCATION:
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: zal popr\nNumer zajęć: 6\nProwadzący: dr hab. Piotr Kosiuczenko
@@ -152,7 +152,7 @@ DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T070000Z
-DTEND:20261027T102500Z
+DTEND:20261027T083500Z
 SUMMARY:Systemy webowe Laboratorium
 LOCATION:
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
@@ -165,8 +165,15 @@ LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T140500Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:Systemy webowe Laboratorium
+LOCATION:
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T140500Z
 SUMMARY:Technologie Internetu Rzeczy Laboratorium
 LOCATION:
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
@@ -200,8 +207,8 @@ LOCATION:
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261103T070000Z
-DTEND:20261103T083500Z
+DTSTART:20261104T070000Z
+DTEND:20261104T083500Z
 SUMMARY:Systemy webowe Laboratorium
 LOCATION:
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
@@ -221,15 +228,15 @@ LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T085000Z
-DTEND:20261110T102500Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102500Z
 SUMMARY:Systemy webowe Laboratorium
 LOCATION:
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T104000Z
-DTEND:20261110T140500Z
+DTSTART:20261111T104000Z
+DTEND:20261111T140500Z
 SUMMARY:Technologie Internetu Rzeczy Laboratorium
 LOCATION:
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
@@ -249,11 +256,11 @@ LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T070000Z
+DTSTART:20261117T085000Z
 DTEND:20261117T102500Z
 SUMMARY:Systemy webowe Laboratorium
 LOCATION:
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -261,6 +268,13 @@ DTEND:20261117T140500Z
 SUMMARY:Obliczenia równoległe i rozproszone Laboratorium
 LOCATION:
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T070000Z
+DTEND:20261118T083500Z
+SUMMARY:Systemy webowe Laboratorium
+LOCATION:
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z

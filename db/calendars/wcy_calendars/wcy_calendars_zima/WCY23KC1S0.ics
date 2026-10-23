@@ -27,13 +27,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260929T060000Z
 DTEND:20260929T073500Z
-SUMMARY:Eksploracja sieci teleinformatycznych Egzamin poprawkowy
-LOCATION:
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr inż. Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260929T060000Z
-DTEND:20260929T073500Z
 SUMMARY:Systemy operacyjne UNIX Egzamin poprawkowy
 LOCATION:
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
@@ -44,13 +37,6 @@ DTEND:20260929T092500Z
 SUMMARY:Bezpieczeństwo sieci bezprzewodowych Wykład
 LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Świerczynski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260929T075000Z
-DTEND:20260929T092500Z
-SUMMARY:Procesy stochastyczne Wykład
-LOCATION:
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260929T094000Z
@@ -67,11 +53,18 @@ LOCATION:
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T060000Z
-DTEND:20261001T073500Z
-SUMMARY:Regulaminy SZ RP Wykład
+DTSTART:20260930T060000Z
+DTEND:20260930T073500Z
+SUMMARY:Eksploracja sieci teleinformatycznych Egzamin poprawkowy
 LOCATION:
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T075000Z
+DTEND:20260930T092500Z
+SUMMARY:Procesy stochastyczne Wykład
+LOCATION:
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T075000Z
@@ -88,15 +81,22 @@ LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T111500Z
+DTSTART:20261002T060000Z
+DTEND:20261002T073500Z
+SUMMARY:Regulaminy SZ RP Wykład
+LOCATION:
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T094000Z
+DTEND:20261002T111500Z
 SUMMARY:Regulaminy SZ RP Ćwiczenia
 LOCATION:
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
+DTSTART:20261002T113000Z
+DTEND:20261002T130500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
@@ -146,13 +146,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T060000Z
 DTEND:20261006T073500Z
-SUMMARY:Administrowanie środowiskiem Windows Wykład
-LOCATION:
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261006T060000Z
-DTEND:20261006T073500Z
 SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Wykład
 LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
@@ -179,18 +172,18 @@ LOCATION:
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261007T060000Z
+DTEND:20261007T073500Z
+SUMMARY:Administrowanie środowiskiem Windows Wykład
+LOCATION:
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261008T075000Z
 DTEND:20261008T092500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T075000Z
-DTEND:20261008T092500Z
-SUMMARY:Szkolenie strzeleckie - Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T094000Z
@@ -207,18 +200,25 @@ LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T113000Z
-DTEND:20261008T130500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261008T140000Z
 DTEND:20261008T153500Z
 SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Laboratorium
 LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T075000Z
+DTEND:20261009T092500Z
+SUMMARY:Szkolenie strzeleckie - Ćwiczenia
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T113000Z
+DTEND:20261009T130500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T060000Z
@@ -263,20 +263,6 @@ LOCATION:
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T092500Z
-SUMMARY:Procesy stochastyczne Wykład
-LOCATION:
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T130500Z
-SUMMARY:Bezpieczeństwo sieci IPv6 Laboratorium
-LOCATION:
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261013T094000Z
 DTEND:20261013T111500Z
 SUMMARY:Systemy bezpieczeństwa sieciowego Wykład
@@ -291,25 +277,25 @@ LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261014T075000Z
+DTEND:20261014T092500Z
+SUMMARY:Procesy stochastyczne Wykład
+LOCATION:
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T094000Z
+DTEND:20261014T130500Z
+SUMMARY:Bezpieczeństwo sieci IPv6 Laboratorium
+LOCATION:
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261015T060000Z
 DTEND:20261015T073500Z
 SUMMARY:Administrowanie środowiskiem Windows Wykład
 LOCATION:
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T060000Z
-DTEND:20261015T073500Z
-SUMMARY:Szkolenie strzeleckie - Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T111500Z
-SUMMARY:Administrowanie środowiskiem Windows Laboratorium
-LOCATION:
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T075000Z
@@ -326,15 +312,29 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T113000Z
-DTEND:20261015T130500Z
+DTSTART:20261016T060000Z
+DTEND:20261016T073500Z
+SUMMARY:Szkolenie strzeleckie - Ćwiczenia
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T075000Z
+DTEND:20261016T111500Z
+SUMMARY:Administrowanie środowiskiem Windows Laboratorium
+LOCATION:
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T113000Z
+DTEND:20261016T130500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T140000Z
-DTEND:20261015T172500Z
+DTSTART:20261016T140000Z
+DTEND:20261016T172500Z
 SUMMARY:Modelowanie i analiza systemów teleinformatycznych Projekt
 LOCATION:
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
@@ -370,13 +370,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T060000Z
 DTEND:20261020T073500Z
-SUMMARY:Administrowanie środowiskiem Windows Wykład
-LOCATION:
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T060000Z
-DTEND:20261020T073500Z
 SUMMARY:Bezpieczeństwo sieci bezprzewodowych Wykład
 LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zbigniew Świerczynski
@@ -387,20 +380,6 @@ DTEND:20261020T092500Z
 SUMMARY:Bezpieczeństwo baz danych Wykład
 LOCATION:
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Bolesław Szafrański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T075000Z
-DTEND:20261020T092500Z
-SUMMARY:Procesy stochastyczne Wykład
-LOCATION:
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T111500Z
-SUMMARY:Administrowanie środowiskiem Windows Wykład
-LOCATION:
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T094000Z
@@ -417,13 +396,6 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
-SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Wykład
-LOCATION:
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T140000Z
 DTEND:20261020T153500Z
 SUMMARY:Bezpieczeństwo baz danych Laboratorium
@@ -431,8 +403,36 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T140000Z
-DTEND:20261020T153500Z
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:Administrowanie środowiskiem Windows Wykład
+LOCATION:
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T075000Z
+DTEND:20261021T092500Z
+SUMMARY:Procesy stochastyczne Wykład
+LOCATION:
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
+SUMMARY:Administrowanie środowiskiem Windows Wykład
+LOCATION:
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T113000Z
+DTEND:20261021T130500Z
+SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Wykład
+LOCATION:
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T140000Z
+DTEND:20261021T153500Z
 SUMMARY:Procesy stochastyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
@@ -445,13 +445,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T075000Z
-DTEND:20261022T111500Z
-SUMMARY:Zabezpieczenie Logistyczne Działań Taktycznych Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: 1 - dr inż. Dariusz Nagrabski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261022T094000Z
 DTEND:20261022T111500Z
 SUMMARY:Administrowanie środowiskiem Windows Wykład
@@ -459,8 +452,15 @@ LOCATION:
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T113000Z
-DTEND:20261022T130500Z
+DTSTART:20261023T075000Z
+DTEND:20261023T111500Z
+SUMMARY:Zabezpieczenie Logistyczne Działań Taktycznych Ćwiczenia
+LOCATION:
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: 1 - dr inż. Dariusz Nagrabski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T113000Z
+DTEND:20261023T130500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
@@ -515,13 +515,6 @@ LOCATION:
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T102500Z
-SUMMARY:Procesy stochastyczne Wykład
-LOCATION:
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Systemy bezpieczeństwa sieciowego Wykład
@@ -536,15 +529,22 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T123000Z
-DTEND:20261027T140500Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:Procesy stochastyczne Wykład
+LOCATION:
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
 SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Wykład
 LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T150000Z
-DTEND:20261027T163500Z
+DTSTART:20261028T150000Z
+DTEND:20261028T163500Z
 SUMMARY:Procesy stochastyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
@@ -557,25 +557,11 @@ LOCATION:
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
-SUMMARY:Administrowanie środowiskiem Windows Laboratorium
-LOCATION:
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261029T104000Z
 DTEND:20261029T121500Z
 SUMMARY:Procesy stochastyczne Wykład
 LOCATION:
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T121500Z
-SUMMARY:Regulaminy SZ RP Ćwiczenia
-LOCATION:
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T123000Z
@@ -585,25 +571,39 @@ LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T123000Z
-DTEND:20261029T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T150000Z
-DTEND:20261029T182500Z
-SUMMARY:Modelowanie i analiza systemów teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261029T150000Z
 DTEND:20261029T163500Z
 SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Laboratorium
 LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T102500Z
+SUMMARY:Administrowanie środowiskiem Windows Laboratorium
+LOCATION:
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T104000Z
+DTEND:20261030T121500Z
+SUMMARY:Regulaminy SZ RP Ćwiczenia
+LOCATION:
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk rez. mgr Marcin Bomba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T123000Z
+DTEND:20261030T140500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T150000Z
+DTEND:20261030T182500Z
+SUMMARY:Modelowanie i analiza systemów teleinformatycznych Laboratorium
+LOCATION:
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261031T070000Z
@@ -655,20 +655,6 @@ LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
-SUMMARY:Administrowanie środowiskiem Windows Laboratorium
-LOCATION:
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T085000Z
-DTEND:20261105T102500Z
-SUMMARY:Bezpieczeństwo baz danych Laboratorium
-LOCATION:
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Józef Woźniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261105T085000Z
 DTEND:20261105T102500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -683,15 +669,29 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T123000Z
-DTEND:20261105T140500Z
+DTSTART:20261106T070000Z
+DTEND:20261106T083500Z
+SUMMARY:Administrowanie środowiskiem Windows Laboratorium
+LOCATION:
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T085000Z
+DTEND:20261106T102500Z
+SUMMARY:Bezpieczeństwo baz danych Laboratorium
+LOCATION:
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T123000Z
+DTEND:20261106T140500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T150000Z
-DTEND:20261105T163500Z
+DTSTART:20261106T150000Z
+DTEND:20261106T163500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
@@ -732,25 +732,11 @@ LOCATION:
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T085000Z
-DTEND:20261110T102500Z
-SUMMARY:Bezpieczeństwo baz danych Wykład
-LOCATION:
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Bolesław Szafrański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:Administrowanie środowiskiem Windows Wykład
 LOCATION:
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T104000Z
-DTEND:20261110T121500Z
-SUMMARY:Międzynarodowe prawo humanitarne konfliktów zbrojnych Wykład
-LOCATION:
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T123000Z
@@ -767,11 +753,18 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T070000Z
-DTEND:20261112T083500Z
-SUMMARY:Bezpieczeństwo baz danych Laboratorium
+DTSTART:20261111T085000Z
+DTEND:20261111T102500Z
+SUMMARY:Bezpieczeństwo baz danych Wykład
 LOCATION:
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T104000Z
+DTEND:20261111T121500Z
+SUMMARY:Międzynarodowe prawo humanitarne konfliktów zbrojnych Wykład
+LOCATION:
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -788,13 +781,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T085000Z
-DTEND:20261112T121500Z
-SUMMARY:Podstawy przetwarzania rozproszonego Laboratorium
-LOCATION:
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261112T104000Z
 DTEND:20261112T121500Z
 SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Wykład
@@ -802,15 +788,29 @@ LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T123000Z
-DTEND:20261112T140500Z
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:Bezpieczeństwo baz danych Laboratorium
+LOCATION:
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T085000Z
+DTEND:20261113T121500Z
+SUMMARY:Podstawy przetwarzania rozproszonego Laboratorium
+LOCATION:
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T123000Z
+DTEND:20261113T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T150000Z
-DTEND:20261112T182500Z
+DTSTART:20261113T150000Z
+DTEND:20261113T182500Z
 SUMMARY:Modelowanie i analiza systemów teleinformatycznych Laboratorium
 LOCATION:
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
@@ -851,20 +851,6 @@ LOCATION:
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T070000Z
-DTEND:20261117T083500Z
-SUMMARY:Bezpieczeństwo baz danych Wykład
-LOCATION:
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T085000Z
-DTEND:20261117T102500Z
-SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T085000Z
 DTEND:20261117T102500Z
 SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Projekt
@@ -879,20 +865,6 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T104000Z
-DTEND:20261117T121500Z
-SUMMARY:Międzynarodowe prawo humanitarne konfliktów zbrojnych Wykład
-LOCATION:
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:Bezpieczeństwo baz danych Laboratorium
-LOCATION:
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Józef Woźniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T123000Z
 DTEND:20261117T140500Z
 SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Wykład
@@ -900,8 +872,36 @@ LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T150000Z
-DTEND:20261117T163500Z
+DTSTART:20261118T070000Z
+DTEND:20261118T083500Z
+SUMMARY:Bezpieczeństwo baz danych Wykład
+LOCATION:
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T085000Z
+DTEND:20261118T102500Z
+SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Laboratorium
+LOCATION:
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T104000Z
+DTEND:20261118T121500Z
+SUMMARY:Międzynarodowe prawo humanitarne konfliktów zbrojnych Wykład
+LOCATION:
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
+SUMMARY:Bezpieczeństwo baz danych Laboratorium
+LOCATION:
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T150000Z
+DTEND:20261118T163500Z
 SUMMARY:Bezpieczeństwo baz danych Laboratorium
 LOCATION:
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Józef Woźniak
@@ -970,32 +970,11 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T070000Z
-DTEND:20261124T083500Z
-SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:Bezpieczeństwo sieci bezprzewodowych Wykład
 LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Świerczynski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T085000Z
-DTEND:20261124T102500Z
-SUMMARY:Działalność wychowawcza i profilaktyka dyscyplinarna Ćwiczenia
-LOCATION:
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Krzysztof Klimek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T104000Z
-DTEND:20261124T121500Z
-SUMMARY:Międzynarodowe prawo humanitarne konfliktów zbrojnych Wykład
-LOCATION:
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T104000Z
@@ -1012,11 +991,25 @@ LOCATION:
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T085000Z
-DTEND:20261126T121500Z
-SUMMARY:Administrowanie środowiskiem Windows Laboratorium
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Laboratorium
 LOCATION:
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T085000Z
+DTEND:20261125T102500Z
+SUMMARY:Działalność wychowawcza i profilaktyka dyscyplinarna Ćwiczenia
+LOCATION:
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Krzysztof Klimek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:Międzynarodowe prawo humanitarne konfliktów zbrojnych Wykład
+LOCATION:
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z
@@ -1033,8 +1026,15 @@ LOCATION:
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T123000Z
-DTEND:20261126T140500Z
+DTSTART:20261127T085000Z
+DTEND:20261127T121500Z
+SUMMARY:Administrowanie środowiskiem Windows Laboratorium
+LOCATION:
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T123000Z
+DTEND:20261127T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
@@ -1075,25 +1075,11 @@ LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T070000Z
-DTEND:20261201T083500Z
-SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Ćwiczenia
-LOCATION:
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Włodzimierz Gocalski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T085000Z
 DTEND:20261201T102500Z
 SUMMARY:Administrowanie środowiskiem Windows Laboratorium
 LOCATION:
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T085000Z
-DTEND:20261201T140500Z
-SUMMARY:Szkolenie wojskowe Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: DGB -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T104000Z
@@ -1110,18 +1096,25 @@ LOCATION:
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T070000Z
-DTEND:20261203T083500Z
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
 SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T085000Z
-DTEND:20261203T102500Z
-SUMMARY:Działalność wychowawcza i profilaktyka dyscyplinarna Ćwiczenia
+DTSTART:20261202T085000Z
+DTEND:20261202T140500Z
+SUMMARY:Szkolenie wojskowe Ćwiczenia
 LOCATION:
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Krzysztof Klimek
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: DGB -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T070000Z
+DTEND:20261203T083500Z
+SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Ćwiczenia
+LOCATION:
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T085000Z
@@ -1138,15 +1131,22 @@ LOCATION:
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T123000Z
-DTEND:20261203T140500Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102500Z
+SUMMARY:Działalność wychowawcza i profilaktyka dyscyplinarna Ćwiczenia
+LOCATION:
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Krzysztof Klimek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T123000Z
+DTEND:20261204T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T150000Z
-DTEND:20261203T182500Z
+DTSTART:20261204T150000Z
+DTEND:20261204T182500Z
 SUMMARY:Modelowanie i analiza systemów teleinformatycznych Laboratorium
 LOCATION:
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
@@ -1187,22 +1187,22 @@ LOCATION:
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T070000Z
-DTEND:20261208T083500Z
+DTSTART:20261209T070000Z
+DTEND:20261209T083500Z
 SUMMARY:Szkolenie wojskowe Ćwiczenia
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: DGB -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T085000Z
-DTEND:20261208T102500Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102500Z
 SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Projekt
 LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T104000Z
-DTEND:20261208T121500Z
+DTSTART:20261209T104000Z
+DTEND:20261209T121500Z
 SUMMARY:Międzynarodowe prawo humanitarne konfliktów zbrojnych Wykład
 LOCATION:
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
@@ -1222,25 +1222,11 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T121500Z
-SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
 SUMMARY:Bezpieczeństwo baz danych Laboratorium
 LOCATION:
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Józef Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T123000Z
-DTEND:20261210T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T150000Z
@@ -1250,8 +1236,22 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T150000Z
-DTEND:20261210T182500Z
+DTSTART:20261211T085000Z
+DTEND:20261211T121500Z
+SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Laboratorium
+LOCATION:
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T123000Z
+DTEND:20261211T140500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T150000Z
+DTEND:20261211T182500Z
 SUMMARY:Modelowanie i analiza systemów teleinformatycznych Laboratorium
 LOCATION:
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
@@ -1292,13 +1292,6 @@ LOCATION:
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T070000Z
-DTEND:20261215T083500Z
-SUMMARY:Zbiórka żołnierzy WAT - Inne
-LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT -\nRodzaj zajęć: Inne\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T085000Z
 DTEND:20261215T102500Z
 SUMMARY:Bezpieczeństwo sieci IPv6 Laboratorium
@@ -1306,25 +1299,32 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T085000Z
-DTEND:20261215T102500Z
-SUMMARY:Międzynarodowe prawo humanitarne konfliktów zbrojnych Ćwiczenia
-LOCATION:
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Andrzej Strychalski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T104000Z
-DTEND:20261215T121500Z
-SUMMARY:Międzynarodowe prawo humanitarne konfliktów zbrojnych Wykład
-LOCATION:
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T104000Z
 DTEND:20261215T140500Z
 SUMMARY:Podstawy przetwarzania rozproszonego Laboratorium
 LOCATION:
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T070000Z
+DTEND:20261216T083500Z
+SUMMARY:Zbiórka żołnierzy WAT - Inne
+LOCATION:
+DESCRIPTION:Zbiórka żołnierzy WAT -\nRodzaj zajęć: Inne\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:Międzynarodowe prawo humanitarne konfliktów zbrojnych Ćwiczenia
+LOCATION:
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Andrzej Strychalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T121500Z
+SUMMARY:Międzynarodowe prawo humanitarne konfliktów zbrojnych Wykład
+LOCATION:
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T070000Z
@@ -1355,13 +1355,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261231T085000Z
-DTEND:20261231T102500Z
-SUMMARY:Szkolenie strzeleckie - Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261231T104000Z
 DTEND:20261231T121500Z
 SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Ćwiczenia
@@ -1376,18 +1369,25 @@ LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261231T123000Z
-DTEND:20261231T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261231T150000Z
 DTEND:20261231T163500Z
 SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Laboratorium
 LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T085000Z
+DTEND:20270101T102500Z
+SUMMARY:Szkolenie strzeleckie - Ćwiczenia
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T123000Z
+DTEND:20270101T140500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270104T104000Z
@@ -1418,13 +1418,6 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T085000Z
-DTEND:20270105T140500Z
-SUMMARY:Systemy bezpieczeństwa sieciowego Laboratorium
-LOCATION:
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270105T104000Z
 DTEND:20270105T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -1432,8 +1425,15 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Artur Buczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T150000Z
-DTEND:20270105T163500Z
+DTSTART:20270106T085000Z
+DTEND:20270106T140500Z
+SUMMARY:Systemy bezpieczeństwa sieciowego Laboratorium
+LOCATION:
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270106T150000Z
+DTEND:20270106T163500Z
 SUMMARY:Systemy bezpieczeństwa sieciowego Laboratorium
 LOCATION:
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krystian Wojdygowski
@@ -1444,13 +1444,6 @@ DTEND:20270107T083500Z
 SUMMARY:Działalność wychowawcza i profilaktyka dyscyplinarna Ćwiczenia
 LOCATION:
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Krzysztof Klimek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270107T070000Z
-DTEND:20270107T102500Z
-SUMMARY:Szkolenie strzeleckie - Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T085000Z
@@ -1467,8 +1460,15 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T123000Z
-DTEND:20270107T140500Z
+DTSTART:20270108T070000Z
+DTEND:20270108T102500Z
+SUMMARY:Szkolenie strzeleckie - Ćwiczenia
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T123000Z
+DTEND:20270108T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
@@ -1509,25 +1509,11 @@ LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T070000Z
-DTEND:20270112T083500Z
-SUMMARY:Zbiórka żołnierzy WAT - Inne
-LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT -\nRodzaj zajęć: Inne\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270112T085000Z
 DTEND:20270112T102500Z
 SUMMARY:Podstawy przetwarzania rozproszonego Laboratorium
 LOCATION:
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270112T085000Z
-DTEND:20270112T102500Z
-SUMMARY:Systemy bezpieczeństwa sieciowego Laboratorium
-LOCATION:
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T104000Z
@@ -1537,8 +1523,22 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T104000Z
-DTEND:20270112T121500Z
+DTSTART:20270113T070000Z
+DTEND:20270113T083500Z
+SUMMARY:Zbiórka żołnierzy WAT - Inne
+LOCATION:
+DESCRIPTION:Zbiórka żołnierzy WAT -\nRodzaj zajęć: Inne\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T085000Z
+DTEND:20270113T102500Z
+SUMMARY:Systemy bezpieczeństwa sieciowego Laboratorium
+LOCATION:
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T104000Z
+DTEND:20270113T121500Z
 SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych Wykład
 LOCATION:
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
@@ -1549,13 +1549,6 @@ DTEND:20270114T083500Z
 SUMMARY:Międzynarodowe prawo humanitarne konfliktów zbrojnych Ćwiczenia
 LOCATION:
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Andrzej Strychalski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270114T070000Z
-DTEND:20270114T083500Z
-SUMMARY:Szkolenie strzeleckie - Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T085000Z
@@ -1572,15 +1565,22 @@ LOCATION:
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T123000Z
-DTEND:20270114T140500Z
+DTSTART:20270115T070000Z
+DTEND:20270115T083500Z
+SUMMARY:Szkolenie strzeleckie - Ćwiczenia
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T123000Z
+DTEND:20270115T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T150000Z
-DTEND:20270114T182500Z
+DTSTART:20270115T150000Z
+DTEND:20270115T182500Z
 SUMMARY:Modelowanie i analiza systemów teleinformatycznych Laboratorium
 LOCATION:
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
@@ -1614,22 +1614,22 @@ LOCATION:
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T070000Z
-DTEND:20270119T102500Z
+DTSTART:20270120T070000Z
+DTEND:20270120T102500Z
 SUMMARY:Systemy bezpieczeństwa sieciowego Laboratorium
 LOCATION:
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T123000Z
-DTEND:20270119T140500Z
+DTSTART:20270120T123000Z
+DTEND:20270120T140500Z
 SUMMARY:Procesy stochastyczne Wykład
 LOCATION:
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T150000Z
-DTEND:20270119T163500Z
+DTSTART:20270120T150000Z
+DTEND:20270120T163500Z
 SUMMARY:Modelowanie i analiza systemów teleinformatycznych Wykład
 LOCATION:
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
@@ -1642,22 +1642,22 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T104000Z
-DTEND:20270121T121500Z
+DTSTART:20270122T104000Z
+DTEND:20270122T121500Z
 SUMMARY:Administrowanie środowiskiem Windows Laboratorium
 LOCATION:
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T123000Z
-DTEND:20270121T140500Z
+DTSTART:20270122T123000Z
+DTEND:20270122T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Stasiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T150000Z
-DTEND:20270121T182500Z
+DTSTART:20270122T150000Z
+DTEND:20270122T182500Z
 SUMMARY:Modelowanie i analiza systemów teleinformatycznych Projekt
 LOCATION:
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
@@ -1670,8 +1670,8 @@ LOCATION:
 DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270126T070000Z
-DTEND:20270126T083500Z
+DTSTART:20270127T070000Z
+DTEND:20270127T083500Z
 SUMMARY:Systemy bezpieczeństwa sieciowego Laboratorium
 LOCATION:
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krystian Wojdygowski

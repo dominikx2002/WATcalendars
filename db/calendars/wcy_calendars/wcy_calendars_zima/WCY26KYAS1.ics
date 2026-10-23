@@ -32,39 +32,25 @@ LOCATION:
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T075000Z
-DTEND:20260929T092500Z
+DTSTART:20260930T075000Z
+DTEND:20260930T092500Z
 SUMMARY:Discrete mathematics 1 Wykład
 LOCATION:
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T094000Z
-DTEND:20260929T130500Z
+DTSTART:20260930T094000Z
+DTEND:20260930T130500Z
 SUMMARY:Inauguracja WCY Spotkanie organizacy
 LOCATION:
 DESCRIPTION:Inauguracja WCY\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 3\nProwadzący: ... ... ...
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T140000Z
-DTEND:20260929T153500Z
+DTSTART:20260930T140000Z
+DTEND:20260930T153500Z
 SUMMARY:Introduction to Computer Science Wykład
 LOCATION:
 DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Paź
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T060000Z
-DTEND:20261001T073500Z
-SUMMARY:Selected issues of law Wykład
-LOCATION:
-DESCRIPTION:Selected issues of law\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Kobielski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T111500Z
-SUMMARY:Introduction to Metrology Wykład
-LOCATION:
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T075000Z
@@ -79,6 +65,20 @@ DTEND:20261001T172500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T060000Z
+DTEND:20261002T073500Z
+SUMMARY:Selected issues of law Wykład
+LOCATION:
+DESCRIPTION:Selected issues of law\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Kobielski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T075000Z
+DTEND:20261002T111500Z
+SUMMARY:Introduction to Metrology Wykład
+LOCATION:
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T060000Z
@@ -102,22 +102,22 @@ LOCATION:
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T060000Z
-DTEND:20261006T073500Z
+DTSTART:20261007T060000Z
+DTEND:20261007T073500Z
 SUMMARY:Discrete mathematics 1 Wykład
 LOCATION:
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T075000Z
-DTEND:20261006T092500Z
+DTSTART:20261007T075000Z
+DTEND:20261007T092500Z
 SUMMARY:Mathematics 2 Ćwiczenia
 LOCATION:
 DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T094000Z
-DTEND:20261006T111500Z
+DTSTART:20261007T094000Z
+DTEND:20261007T111500Z
 SUMMARY:Discrete mathematics 1 Ćwiczenia
 LOCATION:
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Arkadiusz Orłowski
@@ -132,13 +132,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T075000Z
 DTEND:20261008T092500Z
-SUMMARY:Introduction to Metrology Wykład
-LOCATION:
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T075000Z
-DTEND:20261008T092500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
@@ -149,6 +142,13 @@ DTEND:20261008T172500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T075000Z
+DTEND:20261009T092500Z
+SUMMARY:Introduction to Metrology Wykład
+LOCATION:
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T075000Z
@@ -179,29 +179,29 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Paź
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T060000Z
-DTEND:20261013T073500Z
+DTSTART:20261014T060000Z
+DTEND:20261014T073500Z
 SUMMARY:Mathematics 2 Wykład
 LOCATION:
 DESCRIPTION:Mathematics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T092500Z
+DTSTART:20261014T075000Z
+DTEND:20261014T092500Z
 SUMMARY:Discrete mathematics 1 Wykład
 LOCATION:
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T111500Z
+DTSTART:20261014T094000Z
+DTEND:20261014T111500Z
 SUMMARY:Discrete mathematics 1 Ćwiczenia
 LOCATION:
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T113000Z
-DTEND:20261013T130500Z
+DTSTART:20261014T113000Z
+DTEND:20261014T130500Z
 SUMMARY:Mathematics 1 Ćwiczenia
 LOCATION:
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Justyna Ogorzały
@@ -256,18 +256,11 @@ LOCATION:
 DESCRIPTION:Spotkanie organizacyjne z kierownictwem Wydziału\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 5\nProwadzący: mgr inż. Adam Kutyła; dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T060000Z
+DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:Discrete mathematics 1 Wykład
 LOCATION:
-DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Arkadiusz Orłowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T075000Z
-DTEND:20261020T092500Z
-SUMMARY:Mathematics 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T094000Z
@@ -277,18 +270,32 @@ LOCATION:
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T111500Z
-SUMMARY:Selected issues of law Ćwiczenia
-LOCATION:
-DESCRIPTION:Selected issues of law\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Piotr Kobielski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
 SUMMARY:Basics of Engineering Graphics Wykład
 LOCATION:
 DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:Discrete mathematics 1 Wykład
+LOCATION:
+DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T075000Z
+DTEND:20261021T092500Z
+SUMMARY:Mathematics 2 Ćwiczenia
+LOCATION:
+DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
+SUMMARY:Selected issues of law Ćwiczenia
+LOCATION:
+DESCRIPTION:Selected issues of law\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T060000Z
@@ -313,17 +320,17 @@ DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Ćwiczenia\nNumer za
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T155000Z
-DTEND:20261022T191500Z
-SUMMARY:Basics of Engineering Graphics Ćwiczenia
-LOCATION:
-DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T155000Z
 DTEND:20261022T172500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T155000Z
+DTEND:20261023T191500Z
+SUMMARY:Basics of Engineering Graphics Ćwiczenia
+LOCATION:
+DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T085000Z
@@ -355,24 +362,10 @@ DESCRIPTION:Selected issues of law\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nP
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T070000Z
-DTEND:20261027T121500Z
+DTEND:20261027T083500Z
 SUMMARY:Discrete mathematics 1 Wykład
 LOCATION:
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Arkadiusz Orłowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T070000Z
-DTEND:20261027T083500Z
-SUMMARY:Mathematics 2 Wykład
-LOCATION:
-DESCRIPTION:Mathematics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T123000Z
-DTEND:20261027T140500Z
-SUMMARY:Mathematics 1 Ćwiczenia
-LOCATION:
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T150000Z
@@ -389,25 +382,32 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Marcin Paź
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261028T070000Z
+DTEND:20261028T083500Z
+SUMMARY:Mathematics 2 Wykład
+LOCATION:
+DESCRIPTION:Mathematics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T085000Z
+DTEND:20261028T121500Z
+SUMMARY:Discrete mathematics 1 Wykład
+LOCATION:
+DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
+SUMMARY:Mathematics 1 Ćwiczenia
+LOCATION:
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Justyna Ogorzały
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261029T070000Z
 DTEND:20261029T083500Z
 SUMMARY:Basics of Engineering Graphics Wykład
 LOCATION:
 DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
-SUMMARY:Selected issues of law Wykład
-LOCATION:
-DESCRIPTION:Selected issues of law\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Kobielski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
-SUMMARY:Introduction to Metrology Wykład
-LOCATION:
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T085000Z
@@ -422,6 +422,20 @@ DTEND:20261029T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T070000Z
+DTEND:20261030T083500Z
+SUMMARY:Selected issues of law Wykład
+LOCATION:
+DESCRIPTION:Selected issues of law\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Kobielski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T102500Z
+SUMMARY:Introduction to Metrology Wykład
+LOCATION:
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T085000Z
@@ -475,13 +489,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T085000Z
 DTEND:20261105T102500Z
-SUMMARY:Introduction to Metrology Wykład
-LOCATION:
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T085000Z
-DTEND:20261105T102500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
@@ -494,6 +501,13 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261106T085000Z
+DTEND:20261106T102500Z
+SUMMARY:Introduction to Metrology Wykład
+LOCATION:
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T085000Z
 DTEND:20261109T102500Z
 SUMMARY:Mathematics 1 Wykład
@@ -502,7 +516,7 @@ DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadząc
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T070000Z
-DTEND:20261110T121500Z
+DTEND:20261110T083500Z
 SUMMARY:Mathematics 1 Ćwiczenia
 LOCATION:
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Justyna Ogorzały
@@ -513,6 +527,13 @@ DTEND:20261110T102500Z
 SUMMARY:Basics of Engineering Graphics Ćwiczenia
 LOCATION:
 DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T104000Z
+DTEND:20261110T121500Z
+SUMMARY:Mathematics 1 Ćwiczenia
+LOCATION:
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T123000Z
@@ -529,18 +550,18 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Paź
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261111T085000Z
+DTEND:20261111T102500Z
+SUMMARY:Mathematics 1 Ćwiczenia
+LOCATION:
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Justyna Ogorzały
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T070000Z
 DTEND:20261112T083500Z
 SUMMARY:Basics of Engineering Graphics Wykład
 LOCATION:
 DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T085000Z
-DTEND:20261112T102500Z
-SUMMARY:Introduction to Metrology Wykład
-LOCATION:
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T085000Z
@@ -557,11 +578,11 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T070000Z
-DTEND:20261117T083500Z
-SUMMARY:Mathematics 2 Ćwiczenia
+DTSTART:20261113T085000Z
+DTEND:20261113T102500Z
+SUMMARY:Introduction to Metrology Wykład
 LOCATION:
-DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Piotr Kozarzewski
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T085000Z
@@ -571,29 +592,36 @@ LOCATION:
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T085000Z
-DTEND:20261117T102500Z
+DTSTART:20261118T070000Z
+DTEND:20261118T083500Z
+SUMMARY:Mathematics 2 Ćwiczenia
+LOCATION:
+DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T085000Z
+DTEND:20261118T102500Z
 SUMMARY:Mathematics 1 Wykład
 LOCATION:
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T104000Z
-DTEND:20261117T121500Z
+DTSTART:20261118T104000Z
+DTEND:20261118T121500Z
 SUMMARY:Mathematics 2 Wykład
 LOCATION:
 DESCRIPTION:Mathematics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
 SUMMARY:Mathematics 2 Ćwiczenia
 LOCATION:
 DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T150000Z
-DTEND:20261117T163500Z
+DTSTART:20261118T150000Z
+DTEND:20261118T163500Z
 SUMMARY:Introduction to Computer Science Wykład
 LOCATION:
 DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Paź
@@ -604,13 +632,6 @@ DTEND:20261119T083500Z
 SUMMARY:Basics of Engineering Graphics Wykład
 LOCATION:
 DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:Mathematics 2 Wykład
-LOCATION:
-DESCRIPTION:Mathematics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T085000Z
@@ -625,6 +646,13 @@ DTEND:20261119T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T070000Z
+DTEND:20261120T083500Z
+SUMMARY:Mathematics 2 Wykład
+LOCATION:
+DESCRIPTION:Mathematics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T085000Z
@@ -655,32 +683,25 @@ LOCATION:
 DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T070000Z
-DTEND:20261124T083500Z
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
 SUMMARY:Selected issues of law Wykład
 LOCATION:
 DESCRIPTION:Selected issues of law\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T085000Z
-DTEND:20261124T102500Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102500Z
 SUMMARY:Mathematics 1 Wykład
 LOCATION:
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T104000Z
-DTEND:20261124T121500Z
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
 SUMMARY:Mathematics 1 Ćwiczenia
 LOCATION:
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Justyna Ogorzały
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T085000Z
-DTEND:20261126T102500Z
-SUMMARY:Introduction to Metrology Wykład
-LOCATION:
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z
@@ -690,18 +711,25 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T104000Z
-DTEND:20261126T121500Z
-SUMMARY:Introduction to Metrology Ćwiczenia
-LOCATION:
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: por. mgr inż. Włodzimierz Zalewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261126T165000Z
 DTEND:20261126T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T085000Z
+DTEND:20261127T102500Z
+SUMMARY:Introduction to Metrology Wykład
+LOCATION:
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T104000Z
+DTEND:20261127T121500Z
+SUMMARY:Introduction to Metrology Ćwiczenia
+LOCATION:
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: por. mgr inż. Włodzimierz Zalewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T085000Z
@@ -732,34 +760,6 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Paź
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T070000Z
-DTEND:20261201T083500Z
-SUMMARY:Basics of Engineering Graphics Ćwiczenia
-LOCATION:
-DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T085000Z
-DTEND:20261201T102500Z
-SUMMARY:Mathematics 1 Wykład
-LOCATION:
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Multarzyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T104000Z
-DTEND:20261201T121500Z
-SUMMARY:Mathematics 1 Ćwiczenia
-LOCATION:
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Justyna Ogorzały
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T123000Z
-DTEND:20261201T140500Z
-SUMMARY:Introduction to Metrology Ćwiczenia
-LOCATION:
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: por. mgr inż. Włodzimierz Zalewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
 SUMMARY:Selected issues of law Wykład
@@ -772,6 +772,34 @@ DTEND:20261201T182500Z
 SUMMARY:Introduction to Computer Science Laboratorium
 LOCATION:
 DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Paź
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:Basics of Engineering Graphics Ćwiczenia
+LOCATION:
+DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T085000Z
+DTEND:20261202T102500Z
+SUMMARY:Mathematics 1 Wykład
+LOCATION:
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Multarzyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T104000Z
+DTEND:20261202T121500Z
+SUMMARY:Mathematics 1 Ćwiczenia
+LOCATION:
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Justyna Ogorzały
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T123000Z
+DTEND:20261202T140500Z
+SUMMARY:Introduction to Metrology Ćwiczenia
+LOCATION:
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: por. mgr inż. Włodzimierz Zalewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T070000Z
@@ -789,13 +817,6 @@ DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nP
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
-DTEND:20261203T121500Z
-SUMMARY:Introduction to Metrology Ćwiczenia
-LOCATION:
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: por. mgr inż. Włodzimierz Zalewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T104000Z
 DTEND:20261203T140500Z
 SUMMARY:Professional ethics Wykład
 LOCATION:
@@ -807,6 +828,13 @@ DTEND:20261203T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T104000Z
+DTEND:20261204T121500Z
+SUMMARY:Introduction to Metrology Ćwiczenia
+LOCATION:
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: por. mgr inż. Włodzimierz Zalewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T085000Z
@@ -830,15 +858,15 @@ LOCATION:
 DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T070000Z
-DTEND:20261208T083500Z
+DTSTART:20261209T070000Z
+DTEND:20261209T083500Z
 SUMMARY:Basics of Engineering Graphics Ćwiczenia
 LOCATION:
 DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T085000Z
-DTEND:20261208T102500Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102500Z
 SUMMARY:Mathematics 1 Ćwiczenia
 LOCATION:
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Justyna Ogorzały
@@ -860,13 +888,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T104000Z
 DTEND:20261210T140500Z
-SUMMARY:Introduction to Metrology Ćwiczenia
-LOCATION:
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: por. mgr inż. Włodzimierz Zalewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T104000Z
-DTEND:20261210T140500Z
 SUMMARY:Professional ethics Wykład
 LOCATION:
 DESCRIPTION:Professional ethics\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Krzysztof Sołoducha
@@ -884,6 +905,13 @@ DTEND:20261210T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T104000Z
+DTEND:20261211T140500Z
+SUMMARY:Introduction to Metrology Ćwiczenia
+LOCATION:
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: por. mgr inż. Włodzimierz Zalewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T085000Z
@@ -914,13 +942,6 @@ LOCATION:
 DESCRIPTION:Discrete mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T104000Z
-DTEND:20261215T121500Z
-SUMMARY:Professional ethics Wykład
-LOCATION:
-DESCRIPTION:Professional ethics\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Krzysztof Sołoducha
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:Basics of Engineering Graphics Ćwiczenia
@@ -935,18 +956,18 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Paź
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T121500Z
+SUMMARY:Professional ethics Wykład
+LOCATION:
+DESCRIPTION:Professional ethics\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Krzysztof Sołoducha
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T070000Z
 DTEND:20261217T083500Z
 SUMMARY:Protection of Intellectual Property Wykład
 LOCATION:
 DESCRIPTION:Protection of Intellectual Property\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Marcin Mielnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261231T085000Z
-DTEND:20261231T102500Z
-SUMMARY:Mathematics 1 Wykład
-LOCATION:
-DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261231T085000Z
@@ -968,6 +989,13 @@ DTEND:20261231T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T085000Z
+DTEND:20270101T102500Z
+SUMMARY:Mathematics 1 Wykład
+LOCATION:
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Multarzyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270104T085000Z
@@ -998,15 +1026,15 @@ LOCATION:
 DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: por. mgr inż. Włodzimierz Zalewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T085000Z
-DTEND:20270105T102500Z
+DTSTART:20270106T085000Z
+DTEND:20270106T102500Z
 SUMMARY:Introduction to Metrology Ćwiczenia
 LOCATION:
 DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: por. mgr inż. Włodzimierz Zalewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T123000Z
-DTEND:20270105T140500Z
+DTSTART:20270106T123000Z
+DTEND:20270106T140500Z
 SUMMARY:Introduction to Metrology Wykład
 LOCATION:
 DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Mariusz Zieja
@@ -1017,13 +1045,6 @@ DTEND:20270107T102500Z
 SUMMARY:Professional ethics Wykład
 LOCATION:
 DESCRIPTION:Professional ethics\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Krzysztof Sołoducha
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270107T085000Z
-DTEND:20270107T102500Z
-SUMMARY:Mathematics 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T104000Z
@@ -1047,6 +1068,13 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270108T085000Z
+DTEND:20270108T102500Z
+SUMMARY:Mathematics 2 Ćwiczenia
+LOCATION:
+DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270111T085000Z
 DTEND:20270111T102500Z
 SUMMARY:Mathematics 1 Wykład
@@ -1068,22 +1096,22 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Paź
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T070000Z
-DTEND:20270112T083500Z
+DTSTART:20270113T070000Z
+DTEND:20270113T083500Z
 SUMMARY:Mathematics 2 Wykład
 LOCATION:
 DESCRIPTION:Mathematics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T085000Z
-DTEND:20270112T102500Z
+DTSTART:20270113T085000Z
+DTEND:20270113T102500Z
 SUMMARY:Introduction to Metrology Ćwiczenia
 LOCATION:
 DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: por. mgr inż. Włodzimierz Zalewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T123000Z
-DTEND:20270112T140500Z
+DTSTART:20270113T123000Z
+DTEND:20270113T140500Z
 SUMMARY:Introduction to Metrology Wykład
 LOCATION:
 DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Mariusz Zieja
@@ -1094,13 +1122,6 @@ DTEND:20270114T083500Z
 SUMMARY:Protection of Intellectual Property Wykład
 LOCATION:
 DESCRIPTION:Protection of Intellectual Property\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Marcin Mielnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270114T085000Z
-DTEND:20270114T102500Z
-SUMMARY:Mathematics 2 Wykład
-LOCATION:
-DESCRIPTION:Mathematics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T085000Z
@@ -1117,13 +1138,6 @@ LOCATION:
 DESCRIPTION:Professional ethics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T104000Z
-DTEND:20270114T121500Z
-SUMMARY:Protection of Intellectual Property Ćwiczenia
-LOCATION:
-DESCRIPTION:Protection of Intellectual Property\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Marcin Mielnik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270114T123000Z
 DTEND:20270114T140500Z
 SUMMARY:Mathematics 1 Ćwiczenia
@@ -1138,6 +1152,20 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270115T085000Z
+DTEND:20270115T102500Z
+SUMMARY:Mathematics 2 Wykład
+LOCATION:
+DESCRIPTION:Mathematics 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T104000Z
+DTEND:20270115T121500Z
+SUMMARY:Protection of Intellectual Property Ćwiczenia
+LOCATION:
+DESCRIPTION:Protection of Intellectual Property\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Marcin Mielnik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270118T085000Z
 DTEND:20270118T102500Z
 SUMMARY:Basics of Engineering Graphics Ćwiczenia
@@ -1145,8 +1173,8 @@ LOCATION:
 DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T070000Z
-DTEND:20270119T083500Z
+DTSTART:20270120T070000Z
+DTEND:20270120T083500Z
 SUMMARY:Mathematics 1 Ćwiczenia
 LOCATION:
 DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Justyna Ogorzały
@@ -1157,13 +1185,6 @@ DTEND:20270121T083500Z
 SUMMARY:Protection of Intellectual Property Wykład
 LOCATION:
 DESCRIPTION:Protection of Intellectual Property\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Marcin Mielnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270121T085000Z
-DTEND:20270121T102500Z
-SUMMARY:Mathematics 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T085000Z
@@ -1192,6 +1213,13 @@ DTEND:20270121T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T085000Z
+DTEND:20270122T102500Z
+SUMMARY:Mathematics 2 Ćwiczenia
+LOCATION:
+DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T070000Z

@@ -4,15 +4,15 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY26IE1S7
 BEGIN:VEVENT
-DTSTART:20261013T113000Z
-DTEND:20261013T130500Z
+DTSTART:20261014T113000Z
+DTEND:20261014T130500Z
 SUMMARY:Introduction to the Cryptography Wykład
 LOCATION:
 DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T140000Z
-DTEND:20261013T172500Z
+DTSTART:20261014T140000Z
+DTEND:20261014T172500Z
 SUMMARY:JavaEE Technologies Wykład
 LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
@@ -32,25 +32,32 @@ LOCATION:
 DESCRIPTION:Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T130500Z
-SUMMARY:Introduction to Computer Networking Wykład
-LOCATION:
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T140000Z
-DTEND:20261015T172500Z
-SUMMARY:Basics of Computer Engineering Ćwiczenia
-LOCATION:
-DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261015T140000Z
 DTEND:20261015T172500Z
 SUMMARY:Introduction to Computer Networking Wykład
 LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T075000Z
+DTEND:20261016T092500Z
+SUMMARY:Basics of Computer Engineering Wykład
+LOCATION:
+DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T094000Z
+DTEND:20261016T130500Z
+SUMMARY:Introduction to Computer Networking Wykład
+LOCATION:
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T140000Z
+DTEND:20261016T172500Z
+SUMMARY:Basics of Computer Engineering Ćwiczenia
+LOCATION:
+DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T075000Z
@@ -67,22 +74,22 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T075000Z
-DTEND:20261020T092500Z
+DTSTART:20261021T075000Z
+DTEND:20261021T092500Z
 SUMMARY:Basics of Computer Engineering Wykład
 LOCATION:
 DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T111500Z
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
 SUMMARY:Essential of quantum cryptography Wykład
 LOCATION:
 DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
+DTSTART:20261021T113000Z
+DTEND:20261021T130500Z
 SUMMARY:Introduction to the Cryptography Wykład
 LOCATION:
 DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
@@ -95,18 +102,25 @@ LOCATION:
 DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T075000Z
-DTEND:20261022T092500Z
-SUMMARY:Large Language Models Wykład
-LOCATION:
-DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261022T094000Z
 DTEND:20261022T130500Z
 SUMMARY:Basics of Numerical Analysis and Technical Computations Laboratorium
 LOCATION:
 DESCRIPTION:Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T060000Z
+DTEND:20261023T073500Z
+SUMMARY:Basics of Computer Engineering Wykład
+LOCATION:
+DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T075000Z
+DTEND:20261023T092500Z
+SUMMARY:Large Language Models Wykład
+LOCATION:
+DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T070000Z
@@ -116,36 +130,36 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T070000Z
-DTEND:20261027T083500Z
+DTSTART:20261028T070000Z
+DTEND:20261028T083500Z
 SUMMARY:Basics of Computer Engineering Wykład
 LOCATION:
 DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T102500Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
 SUMMARY:Computer Architecture and Operating Systems Wykład
 LOCATION:
 DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T121500Z
+DTSTART:20261028T104000Z
+DTEND:20261028T121500Z
 SUMMARY:Essential of quantum cryptography Wykład
 LOCATION:
 DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T123000Z
-DTEND:20261027T140500Z
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
 SUMMARY:Introduction to the Cryptography Wykład
 LOCATION:
 DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T150000Z
-DTEND:20261027T182500Z
+DTSTART:20261028T150000Z
+DTEND:20261028T182500Z
 SUMMARY:Basics of Computer Engineering Ćwiczenia
 LOCATION:
 DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
@@ -156,20 +170,6 @@ DTEND:20261029T102500Z
 SUMMARY:Basics of Computer Engineering Wykład
 LOCATION:
 DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
-SUMMARY:Large Language Models Wykład
-LOCATION:
-DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T140500Z
-SUMMARY:Basics of Computer Engineering Laboratorium
-LOCATION:
-DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -186,11 +186,25 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261103T070000Z
-DTEND:20261103T083500Z
-SUMMARY:Computer Architecture and Operating Systems Wykład
+DTSTART:20261030T070000Z
+DTEND:20261030T083500Z
+SUMMARY:Large Language Models Wykład
 LOCATION:
-DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T102500Z
+SUMMARY:Basics of Computer Engineering Wykład
+LOCATION:
+DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T104000Z
+DTEND:20261030T140500Z
+SUMMARY:Basics of Computer Engineering Laboratorium
+LOCATION:
+DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T085000Z
@@ -198,6 +212,13 @@ DTEND:20261103T102500Z
 SUMMARY:JavaEE Technologies Wykład
 LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T070000Z
+DTEND:20261104T083500Z
+SUMMARY:Computer Architecture and Operating Systems Wykład
+LOCATION:
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T070000Z
@@ -228,6 +249,20 @@ LOCATION:
 DESCRIPTION:Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261106T070000Z
+DTEND:20261106T083500Z
+SUMMARY:Basics of Computer Engineering Wykład
+LOCATION:
+DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T085000Z
+DTEND:20261106T102500Z
+SUMMARY:Large Language Models Wykład
+LOCATION:
+DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T104000Z
 DTEND:20261109T140500Z
 SUMMARY:Basics of Computer Engineering Laboratorium
@@ -256,25 +291,11 @@ LOCATION:
 DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T085000Z
-DTEND:20261110T102500Z
-SUMMARY:Essential of quantum cryptography Laboratorium
-LOCATION:
-DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T140500Z
 SUMMARY:Basics of Computer Engineering Laboratorium
 LOCATION:
 DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T104000Z
-DTEND:20261110T140500Z
-SUMMARY:Introduction to the Cryptography Wykład
-LOCATION:
-DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -284,18 +305,25 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T165000Z
-DTEND:20261110T201500Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102500Z
+SUMMARY:Essential of quantum cryptography Laboratorium
+LOCATION:
+DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T104000Z
+DTEND:20261111T140500Z
+SUMMARY:Introduction to the Cryptography Wykład
+LOCATION:
+DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T165000Z
+DTEND:20261111T201500Z
 SUMMARY:Introduction to Computer Networking Projekt
 LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T070000Z
-DTEND:20261112T083500Z
-SUMMARY:Large Language Models Wykład
-LOCATION:
-DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T085000Z
@@ -303,20 +331,6 @@ DTEND:20261112T102500Z
 SUMMARY:Basics of Computer Engineering Wykład
 LOCATION:
 DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T085000Z
-DTEND:20261112T102500Z
-SUMMARY:Computer Architecture and Operating Systems Wykład
-LOCATION:
-DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T140500Z
-SUMMARY:Basics of Computer Engineering Laboratorium
-LOCATION:
-DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T104000Z
@@ -340,6 +354,27 @@ LOCATION:
 DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:Large Language Models Wykład
+LOCATION:
+DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T085000Z
+DTEND:20261113T102500Z
+SUMMARY:Computer Architecture and Operating Systems Wykład
+LOCATION:
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T104000Z
+DTEND:20261113T140500Z
+SUMMARY:Basics of Computer Engineering Laboratorium
+LOCATION:
+DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:Computer Architecture and Operating Systems Wykład
@@ -354,15 +389,15 @@ LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T104000Z
-DTEND:20261117T121500Z
+DTSTART:20261118T104000Z
+DTEND:20261118T121500Z
 SUMMARY:Essential of quantum cryptography Wykład
 LOCATION:
 DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
 SUMMARY:Introduction to the Cryptography Wykład
 LOCATION:
 DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
@@ -373,13 +408,6 @@ DTEND:20261119T083500Z
 SUMMARY:Basics of Computer Engineering Wykład
 LOCATION:
 DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:Computer Architecture and Operating Systems Wykład
-LOCATION:
-DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T085000Z
@@ -401,6 +429,13 @@ DTEND:20261119T182500Z
 SUMMARY:Introduction to Computer Networking Laboratorium
 LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T070000Z
+DTEND:20261120T083500Z
+SUMMARY:Computer Architecture and Operating Systems Wykład
+LOCATION:
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T104000Z
@@ -431,25 +466,11 @@ LOCATION:
 DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T104000Z
-DTEND:20261124T121500Z
-SUMMARY:Essential of quantum cryptography Wykład
-LOCATION:
-DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:Computer Architecture and Operating Systems Laboratorium
 LOCATION:
 DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T123000Z
-DTEND:20261124T140500Z
-SUMMARY:Introduction to the Cryptography Wykład
-LOCATION:
-DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T150000Z
@@ -459,18 +480,25 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:Essential of quantum cryptography Wykład
+LOCATION:
+DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:Introduction to the Cryptography Wykład
+LOCATION:
+DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261126T085000Z
 DTEND:20261126T102500Z
 SUMMARY:Essential of quantum cryptography Laboratorium
 LOCATION:
 DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T085000Z
-DTEND:20261126T102500Z
-SUMMARY:Large Language Models Wykład
-LOCATION:
-DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z
@@ -480,18 +508,25 @@ LOCATION:
 DESCRIPTION:Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T104000Z
-DTEND:20261126T140500Z
-SUMMARY:Large Language Models Laboratorium
-LOCATION:
-DESCRIPTION:Large Language Models\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261126T165000Z
 DTEND:20261126T201500Z
 SUMMARY:Computer Architecture and Operating Systems Laboratorium
 LOCATION:
 DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T085000Z
+DTEND:20261127T102500Z
+SUMMARY:Large Language Models Wykład
+LOCATION:
+DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T104000Z
+DTEND:20261127T140500Z
+SUMMARY:Large Language Models Laboratorium
+LOCATION:
+DESCRIPTION:Large Language Models\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
@@ -502,28 +537,28 @@ DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Ćwicze
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T104000Z
-DTEND:20261201T121500Z
-SUMMARY:Essential of quantum cryptography Wykład
-LOCATION:
-DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T104000Z
 DTEND:20261201T140500Z
 SUMMARY:JavaEE Technologies Laboratorium
 LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T123000Z
-DTEND:20261201T140500Z
+DTSTART:20261202T104000Z
+DTEND:20261202T121500Z
+SUMMARY:Essential of quantum cryptography Wykład
+LOCATION:
+DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T123000Z
+DTEND:20261202T140500Z
 SUMMARY:Introduction to the Cryptography Wykład
 LOCATION:
 DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T070000Z
-DTEND:20261203T102500Z
+DTEND:20261203T083500Z
 SUMMARY:Large Language Models Wykład
 LOCATION:
 DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
@@ -543,18 +578,11 @@ LOCATION:
 DESCRIPTION:Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T085000Z
-DTEND:20261208T102500Z
-SUMMARY:Essential of quantum cryptography Laboratorium
+DTSTART:20261204T070000Z
+DTEND:20261204T102500Z
+SUMMARY:Large Language Models Wykład
 LOCATION:
-DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T104000Z
-DTEND:20261208T140500Z
-SUMMARY:Introduction to the Cryptography Laboratorium
-LOCATION:
-DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T104000Z
@@ -565,24 +593,31 @@ DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T150000Z
-DTEND:20261208T201500Z
-SUMMARY:Computer Architecture and Operating Systems Laboratorium
-LOCATION:
-DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T150000Z
 DTEND:20261208T182500Z
 SUMMARY:Introduction to Computer Networking Projekt
 LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T070000Z
-DTEND:20261210T102500Z
-SUMMARY:Large Language Models Wykład
+DTSTART:20261209T085000Z
+DTEND:20261209T102500Z
+SUMMARY:Essential of quantum cryptography Laboratorium
 LOCATION:
-DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T104000Z
+DTEND:20261209T140500Z
+SUMMARY:Introduction to the Cryptography Laboratorium
+LOCATION:
+DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T150000Z
+DTEND:20261209T201500Z
+SUMMARY:Computer Architecture and Operating Systems Laboratorium
+LOCATION:
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T085000Z
@@ -592,25 +627,18 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T104000Z
-DTEND:20261210T140500Z
+DTSTART:20261211T070000Z
+DTEND:20261211T102500Z
+SUMMARY:Large Language Models Wykład
+LOCATION:
+DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T104000Z
+DTEND:20261211T140500Z
 SUMMARY:Large Language Models Laboratorium
 LOCATION:
 DESCRIPTION:Large Language Models\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T085000Z
-DTEND:20261215T102500Z
-SUMMARY:Essential of quantum cryptography Wykład
-LOCATION:
-DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T104000Z
-DTEND:20261215T140500Z
-SUMMARY:Introduction to the Cryptography Laboratorium
-LOCATION:
-DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T104000Z
@@ -627,6 +655,20 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:Essential of quantum cryptography Wykład
+LOCATION:
+DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T140500Z
+SUMMARY:Introduction to the Cryptography Laboratorium
+LOCATION:
+DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T070000Z
 DTEND:20261217T083500Z
 SUMMARY:Introduction to Computer Networking Laboratorium
@@ -634,8 +676,8 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
+DTSTART:20261218T070000Z
+DTEND:20261218T083500Z
 SUMMARY:Large Language Models Wykład
 LOCATION:
 DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
@@ -655,20 +697,6 @@ LOCATION:
 DESCRIPTION:Large Language Models\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T085000Z
-DTEND:20270105T102500Z
-SUMMARY:Essential of quantum cryptography Laboratorium
-LOCATION:
-DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270105T104000Z
-DTEND:20270105T140500Z
-SUMMARY:Introduction to the Cryptography Laboratorium
-LOCATION:
-DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270105T104000Z
 DTEND:20270105T140500Z
 SUMMARY:JavaEE Technologies Laboratorium
@@ -683,32 +711,25 @@ LOCATION:
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T150000Z
-DTEND:20270107T182500Z
-SUMMARY:Large Language Models Laboratorium
-LOCATION:
-DESCRIPTION:Large Language Models\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270112T070000Z
-DTEND:20270112T083500Z
-SUMMARY:Essential of quantum cryptography Wykład
-LOCATION:
-DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270112T085000Z
-DTEND:20270112T102500Z
+DTSTART:20270106T085000Z
+DTEND:20270106T102500Z
 SUMMARY:Essential of quantum cryptography Laboratorium
 LOCATION:
 DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T104000Z
-DTEND:20270112T121500Z
+DTSTART:20270106T104000Z
+DTEND:20270106T140500Z
 SUMMARY:Introduction to the Cryptography Laboratorium
 LOCATION:
 DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T150000Z
+DTEND:20270107T182500Z
+SUMMARY:Large Language Models Laboratorium
+LOCATION:
+DESCRIPTION:Large Language Models\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T104000Z
@@ -718,6 +739,27 @@ LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270113T070000Z
+DTEND:20270113T083500Z
+SUMMARY:Essential of quantum cryptography Wykład
+LOCATION:
+DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T085000Z
+DTEND:20270113T102500Z
+SUMMARY:Essential of quantum cryptography Laboratorium
+LOCATION:
+DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T104000Z
+DTEND:20270113T121500Z
+SUMMARY:Introduction to the Cryptography Laboratorium
+LOCATION:
+DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270114T085000Z
 DTEND:20270114T102500Z
 SUMMARY:Large Language Models Laboratorium
@@ -725,8 +767,8 @@ LOCATION:
 DESCRIPTION:Large Language Models\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T085000Z
-DTEND:20270119T102500Z
+DTSTART:20270120T085000Z
+DTEND:20270120T102500Z
 SUMMARY:Essential of quantum cryptography Laboratorium
 LOCATION:
 DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz

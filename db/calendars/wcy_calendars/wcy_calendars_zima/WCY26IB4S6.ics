@@ -32,25 +32,18 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T094000Z
-DTEND:20261006T111500Z
+DTSTART:20261007T094000Z
+DTEND:20261007T111500Z
 SUMMARY:Zarządzanie bezpieczeństwem informacji Wykład
 LOCATION:
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T113000Z
-DTEND:20261006T130500Z
+DTSTART:20261007T113000Z
+DTEND:20261007T130500Z
 SUMMARY:Bezpieczeństwo sieciowe w środowisku Windows Wykład
 LOCATION:
 DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T075000Z
-DTEND:20261008T092500Z
-SUMMARY:Bezpieczeństwo sieciowe w środowisku Windows Wykład
-LOCATION:
-DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T075000Z
@@ -60,15 +53,22 @@ LOCATION:
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T094000Z
-DTEND:20261008T111500Z
+DTSTART:20261009T075000Z
+DTEND:20261009T092500Z
+SUMMARY:Bezpieczeństwo sieciowe w środowisku Windows Wykład
+LOCATION:
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T094000Z
+DTEND:20261009T111500Z
 SUMMARY:Podstawy sieci komputerowych Wykład
 LOCATION:
 DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T113000Z
-DTEND:20261008T130500Z
+DTSTART:20261009T113000Z
+DTEND:20261009T130500Z
 SUMMARY:Bezpieczeństwo infrastruktury sieciowej Wykład
 LOCATION:
 DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Świerczynski
@@ -102,25 +102,18 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T092500Z
+DTSTART:20261014T075000Z
+DTEND:20261014T092500Z
 SUMMARY:Zarządzanie bezpieczeństwem informacji Wykład
 LOCATION:
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T113000Z
-DTEND:20261013T130500Z
+DTSTART:20261014T113000Z
+DTEND:20261014T130500Z
 SUMMARY:Bezpieczeństwo sieciowe w środowisku Windows Wykład
 LOCATION:
 DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T060000Z
-DTEND:20261015T073500Z
-SUMMARY:Bezpieczeństwo sieciowe w środowisku Windows Wykład
-LOCATION:
-DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T060000Z
@@ -137,25 +130,32 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T092500Z
-SUMMARY:Bezpieczeństwo sieciowe w środowisku Windows Laboratorium
-LOCATION:
-DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T130500Z
-SUMMARY:Bezpieczeństwo infrastruktury sieciowej Wykład
-LOCATION:
-DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Świerczynski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261015T094000Z
 DTEND:20261015T130500Z
 SUMMARY:Zarządzanie bezpieczeństwem informacji Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T060000Z
+DTEND:20261016T073500Z
+SUMMARY:Bezpieczeństwo sieciowe w środowisku Windows Wykład
+LOCATION:
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T075000Z
+DTEND:20261016T092500Z
+SUMMARY:Bezpieczeństwo sieciowe w środowisku Windows Laboratorium
+LOCATION:
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T094000Z
+DTEND:20261016T130500Z
+SUMMARY:Bezpieczeństwo infrastruktury sieciowej Wykład
+LOCATION:
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T094000Z
@@ -186,8 +186,8 @@ LOCATION:
 DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T130500Z
+DTSTART:20261021T094000Z
+DTEND:20261021T130500Z
 SUMMARY:Zarządzanie bezpieczeństwem informacji Wykład
 LOCATION:
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Maciej Marczyk
@@ -198,13 +198,6 @@ DTEND:20261022T073500Z
 SUMMARY:Bezpieczeństwo infrastruktury sieciowej Laboratorium
 LOCATION:
 DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T060000Z
-DTEND:20261022T092500Z
-SUMMARY:Bezpieczeństwo sieciowe w środowisku Windows Laboratorium
-LOCATION:
-DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T075000Z
@@ -221,6 +214,13 @@ LOCATION:
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261023T060000Z
+DTEND:20261023T092500Z
+SUMMARY:Bezpieczeństwo sieciowe w środowisku Windows Laboratorium
+LOCATION:
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261026T104000Z
 DTEND:20261026T140500Z
 SUMMARY:Bezpieczeństwo infrastruktury sieciowej Laboratorium
@@ -235,18 +235,11 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T140500Z
+DTSTART:20261028T104000Z
+DTEND:20261028T140500Z
 SUMMARY:Zarządzanie bezpieczeństwem informacji Wykład
 LOCATION:
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Maciej Marczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
-SUMMARY:Bezpieczeństwo sieciowe w środowisku Windows Laboratorium
-LOCATION:
-DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z
@@ -263,18 +256,25 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
-SUMMARY:Egzamin sprawdzający Egzamin
-LOCATION:
-DESCRIPTION:Egzamin sprawdzający\nRodzaj zajęć: Egzamin\nNumer zajęć: 2\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261029T123000Z
 DTEND:20261029T140500Z
 SUMMARY:Zarządzanie bezpieczeństwem informacji Wykład
 LOCATION:
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T070000Z
+DTEND:20261030T083500Z
+SUMMARY:Bezpieczeństwo sieciowe w środowisku Windows Laboratorium
+LOCATION:
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T102500Z
+SUMMARY:Egzamin sprawdzający Egzamin
+LOCATION:
+DESCRIPTION:Egzamin sprawdzający\nRodzaj zajęć: Egzamin\nNumer zajęć: 2\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T070000Z
@@ -284,8 +284,8 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261103T070000Z
-DTEND:20261103T102500Z
+DTSTART:20261104T070000Z
+DTEND:20261104T102500Z
 SUMMARY:Podstawy sieci komputerowych Laboratorium
 LOCATION:
 DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
@@ -298,8 +298,8 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
+DTSTART:20261106T070000Z
+DTEND:20261106T083500Z
 SUMMARY:Zarządzanie bezpieczeństwem informacji Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Leszek Kalman

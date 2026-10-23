@@ -4,8 +4,8 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY25IQ1S4
 BEGIN:VEVENT
-DTSTART:20260929T094000Z
-DTEND:20260929T130500Z
+DTSTART:20260930T094000Z
+DTEND:20260930T130500Z
 SUMMARY:Wprowadzenie do optyki klasycznej Wykład
 LOCATION:
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. Sławomir Sujecki
@@ -25,15 +25,15 @@ LOCATION:
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T075000Z
-DTEND:20261006T092500Z
+DTSTART:20261007T075000Z
+DTEND:20261007T092500Z
 SUMMARY:Wprowadzenie do optyki klasycznej Wykład
 LOCATION:
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T113000Z
-DTEND:20261006T130500Z
+DTSTART:20261007T113000Z
+DTEND:20261007T130500Z
 SUMMARY:Algorytmy kwantowe Wykład
 LOCATION:
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
@@ -53,15 +53,15 @@ LOCATION:
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T060000Z
-DTEND:20261013T092500Z
+DTSTART:20261014T060000Z
+DTEND:20261014T092500Z
 SUMMARY:Wprowadzenie do optyki klasycznej Wykład
 LOCATION:
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T113000Z
-DTEND:20261013T130500Z
+DTSTART:20261014T113000Z
+DTEND:20261014T130500Z
 SUMMARY:Algorytmy kwantowe Wykład
 LOCATION:
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
@@ -81,13 +81,6 @@ LOCATION:
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T060000Z
-DTEND:20261020T073500Z
-SUMMARY:Wprowadzenie do optyki klasycznej Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. Sławomir Sujecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T094000Z
 DTEND:20261020T130500Z
 SUMMARY:Wprowadzenie do optyki klasycznej Ćwiczenia
@@ -95,8 +88,15 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:Wprowadzenie do optyki klasycznej Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. Sławomir Sujecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T113000Z
+DTEND:20261021T130500Z
 SUMMARY:Algorytmy kwantowe Wykład
 LOCATION:
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
@@ -123,15 +123,15 @@ LOCATION:
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T123000Z
-DTEND:20261027T140500Z
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
 SUMMARY:Algorytmy kwantowe Wykład
 LOCATION:
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T150000Z
-DTEND:20261027T182500Z
+DTSTART:20261028T150000Z
+DTEND:20261028T182500Z
 SUMMARY:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe Wykład
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Kanciak
@@ -228,15 +228,15 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T150000Z
-DTEND:20261110T163500Z
+DTSTART:20261111T150000Z
+DTEND:20261111T163500Z
 SUMMARY:Wybrane elementy kryptografii kwantowej Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T165000Z
-DTEND:20261110T201500Z
+DTSTART:20261111T165000Z
+DTEND:20261111T201500Z
 SUMMARY:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe Wykład
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
@@ -247,13 +247,6 @@ DTEND:20261112T083500Z
 SUMMARY:Wybrane elementy kryptografii kwantowej Wykład
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T085000Z
-DTEND:20261112T102500Z
-SUMMARY:Elementy rachunku prawdopodobieństwa Ćwiczenia
-LOCATION:
-DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T085000Z
@@ -270,18 +263,25 @@ LOCATION:
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T140500Z
-SUMMARY:Wprowadzenie do telekomunikacj optycznej Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. Sławomir Sujecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261112T123000Z
 DTEND:20261112T140500Z
 SUMMARY:Elementy rachunku prawdopodobieństwa Wykład
 LOCATION:
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Ryszard Kopiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T085000Z
+DTEND:20261113T102500Z
+SUMMARY:Elementy rachunku prawdopodobieństwa Ćwiczenia
+LOCATION:
+DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Ryszard Kopiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T104000Z
+DTEND:20261113T140500Z
+SUMMARY:Wprowadzenie do telekomunikacj optycznej Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
@@ -307,13 +307,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T123000Z
 DTEND:20261117T140500Z
-SUMMARY:Elementy algebry abstrakcyjnej Ćwiczenia
-LOCATION:
-DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
 SUMMARY:Wprowadzenie do optyki klasycznej Laboratorium
 LOCATION:
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Waldemar Grabiec
@@ -326,15 +319,22 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Grabiec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T150000Z
-DTEND:20261117T163500Z
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
+SUMMARY:Elementy algebry abstrakcyjnej Ćwiczenia
+LOCATION:
+DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T150000Z
+DTEND:20261118T163500Z
 SUMMARY:Wybrane elementy kryptografii kwantowej Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T165000Z
-DTEND:20261117T201500Z
+DTSTART:20261118T165000Z
+DTEND:20261118T201500Z
 SUMMARY:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
@@ -382,13 +382,6 @@ LOCATION:
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T085000Z
-DTEND:20261124T102500Z
-SUMMARY:Elementy rachunku prawdopodobieństwa Wykład
-LOCATION:
-DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Ryszard Kopiecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T104000Z
 DTEND:20261124T121500Z
 SUMMARY:Wybrane elementy obliczeń kwantowych Laboratorium
@@ -396,15 +389,22 @@ LOCATION:
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T123000Z
-DTEND:20261124T140500Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102500Z
+SUMMARY:Elementy rachunku prawdopodobieństwa Wykład
+LOCATION:
+DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Ryszard Kopiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
 SUMMARY:Elementy algebry abstrakcyjnej Ćwiczenia
 LOCATION:
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T150000Z
-DTEND:20261124T182500Z
+DTSTART:20261125T150000Z
+DTEND:20261125T182500Z
 SUMMARY:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe Projekt
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Kanciak
@@ -424,25 +424,25 @@ LOCATION:
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T085000Z
-DTEND:20261126T102500Z
-SUMMARY:Wprowadzenie do telekomunikacj optycznej Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. Sławomir Sujecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T104000Z
-DTEND:20261126T140500Z
-SUMMARY:Wprowadzenie do optyki klasycznej Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Waldemar Grabiec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261126T104000Z
 DTEND:20261126T121500Z
 SUMMARY:Wybrane elementy obliczeń kwantowych Wykład
 LOCATION:
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T085000Z
+DTEND:20261127T102500Z
+SUMMARY:Wprowadzenie do telekomunikacj optycznej Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. Sławomir Sujecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T104000Z
+DTEND:20261127T140500Z
+SUMMARY:Wprowadzenie do optyki klasycznej Laboratorium
+LOCATION:
+DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Waldemar Grabiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
@@ -466,22 +466,22 @@ LOCATION:
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T123000Z
-DTEND:20261201T140500Z
+DTSTART:20261202T123000Z
+DTEND:20261202T140500Z
 SUMMARY:Elementy algebry abstrakcyjnej Ćwiczenia
 LOCATION:
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T150000Z
-DTEND:20261201T163500Z
+DTSTART:20261202T150000Z
+DTEND:20261202T163500Z
 SUMMARY:Wybrane elementy kryptografii kwantowej Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T165000Z
-DTEND:20261201T201500Z
+DTSTART:20261202T165000Z
+DTEND:20261202T201500Z
 SUMMARY:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
@@ -492,13 +492,6 @@ DTEND:20261203T083500Z
 SUMMARY:Elementy algebry abstrakcyjnej Wykład
 LOCATION:
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T070000Z
-DTEND:20261203T083500Z
-SUMMARY:Wprowadzenie do telekomunikacj optycznej Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T085000Z
@@ -515,8 +508,15 @@ LOCATION:
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T104000Z
-DTEND:20261203T140500Z
+DTSTART:20261204T070000Z
+DTEND:20261204T083500Z
+SUMMARY:Wprowadzenie do telekomunikacj optycznej Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. Sławomir Sujecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T104000Z
+DTEND:20261204T140500Z
 SUMMARY:Wprowadzenie do telekomunikacj optycznej Wykład
 LOCATION:
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. Sławomir Sujecki
@@ -538,27 +538,27 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
-SUMMARY:Elementy algebry abstrakcyjnej Ćwiczenia
-LOCATION:
-DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T123000Z
-DTEND:20261208T140500Z
 SUMMARY:Elementy rachunku prawdopodobieństwa Wykład
 LOCATION:
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T150000Z
-DTEND:20261208T163500Z
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:Elementy algebry abstrakcyjnej Ćwiczenia
+LOCATION:
+DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T150000Z
+DTEND:20261209T163500Z
 SUMMARY:Wybrane elementy kryptografii kwantowej Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T165000Z
-DTEND:20261208T201500Z
+DTSTART:20261209T165000Z
+DTEND:20261209T201500Z
 SUMMARY:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe Wykład
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
@@ -578,20 +578,6 @@ LOCATION:
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T102500Z
-SUMMARY:Wprowadzenie do telekomunikacj optycznej Ćwiczenia
-LOCATION:
-DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: prof. Sławomir Sujecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T104000Z
-DTEND:20261210T140500Z
-SUMMARY:Wprowadzenie do optyki klasycznej Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Waldemar Grabiec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
 SUMMARY:Wybrane elementy obliczeń kwantowych Wykład
@@ -604,6 +590,20 @@ DTEND:20261210T140500Z
 SUMMARY:Wybrane elementy obliczeń kwantowych Laboratorium
 LOCATION:
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T085000Z
+DTEND:20261211T102500Z
+SUMMARY:Wprowadzenie do telekomunikacj optycznej Ćwiczenia
+LOCATION:
+DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: prof. Sławomir Sujecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T104000Z
+DTEND:20261211T140500Z
+SUMMARY:Wprowadzenie do optyki klasycznej Laboratorium
+LOCATION:
+DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Waldemar Grabiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T070000Z
@@ -620,20 +620,6 @@ LOCATION:
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T104000Z
-DTEND:20261215T121500Z
-SUMMARY:Elementy rachunku prawdopodobieństwa Wykład
-LOCATION:
-DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Ryszard Kopiecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T123000Z
-DTEND:20261215T140500Z
-SUMMARY:Elementy algebry abstrakcyjnej Ćwiczenia
-LOCATION:
-DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:Wprowadzenie do telekomunikacj optycznej Ćwiczenia
@@ -641,15 +627,29 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T150000Z
-DTEND:20261215T163500Z
+DTSTART:20261216T104000Z
+DTEND:20261216T121500Z
+SUMMARY:Elementy rachunku prawdopodobieństwa Wykład
+LOCATION:
+DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Ryszard Kopiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T123000Z
+DTEND:20261216T140500Z
+SUMMARY:Elementy algebry abstrakcyjnej Ćwiczenia
+LOCATION:
+DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T150000Z
+DTEND:20261216T163500Z
 SUMMARY:Wybrane elementy kryptografii kwantowej Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T165000Z
-DTEND:20261215T201500Z
+DTSTART:20261216T165000Z
+DTEND:20261216T201500Z
 SUMMARY:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
@@ -662,8 +662,8 @@ LOCATION:
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
+DTSTART:20261218T070000Z
+DTEND:20261218T083500Z
 SUMMARY:Wprowadzenie do telekomunikacj optycznej Ćwiczenia
 LOCATION:
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: prof. Sławomir Sujecki
@@ -683,13 +683,6 @@ LOCATION:
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261231T085000Z
-DTEND:20261231T102500Z
-SUMMARY:Wprowadzenie do telekomunikacj optycznej Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Krzysztof Grzelak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261231T104000Z
 DTEND:20261231T121500Z
 SUMMARY:Wybrane elementy obliczeń kwantowych Wykład
@@ -702,6 +695,13 @@ DTEND:20261231T140500Z
 SUMMARY:Wybrane elementy obliczeń kwantowych Laboratorium
 LOCATION:
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T085000Z
+DTEND:20270101T102500Z
+SUMMARY:Wprowadzenie do telekomunikacj optycznej Laboratorium
+LOCATION:
+DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Krzysztof Grzelak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270105T085000Z
@@ -718,22 +718,22 @@ LOCATION:
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T123000Z
-DTEND:20270105T140500Z
+DTSTART:20270106T123000Z
+DTEND:20270106T140500Z
 SUMMARY:Elementy algebry abstrakcyjnej Ćwiczenia
 LOCATION:
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T150000Z
-DTEND:20270105T163500Z
+DTSTART:20270106T150000Z
+DTEND:20270106T163500Z
 SUMMARY:Wybrane elementy kryptografii kwantowej Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T165000Z
-DTEND:20270105T201500Z
+DTSTART:20270106T165000Z
+DTEND:20270106T201500Z
 SUMMARY:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe Wykład
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
@@ -744,13 +744,6 @@ DTEND:20270107T083500Z
 SUMMARY:Elementy algebry abstrakcyjnej Wykład
 LOCATION:
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270107T070000Z
-DTEND:20270107T102500Z
-SUMMARY:Wprowadzenie do telekomunikacj optycznej Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Grzelak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T085000Z
@@ -774,6 +767,13 @@ LOCATION:
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270108T070000Z
+DTEND:20270108T102500Z
+SUMMARY:Wprowadzenie do telekomunikacj optycznej Laboratorium
+LOCATION:
+DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Grzelak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270112T070000Z
 DTEND:20270112T083500Z
 SUMMARY:Wybrane elementy kryptografii kwantowej Wykład
@@ -790,13 +790,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T123000Z
 DTEND:20270112T140500Z
-SUMMARY:Elementy rachunku prawdopodobieństwa Ćwiczenia
-LOCATION:
-DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Ryszard Kopiecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270112T123000Z
-DTEND:20270112T140500Z
 SUMMARY:Wprowadzenie do telekomunikacj optycznej Laboratorium
 LOCATION:
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Grzelak
@@ -809,15 +802,22 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Krzysztof Grzelak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T150000Z
-DTEND:20270112T163500Z
+DTSTART:20270113T123000Z
+DTEND:20270113T140500Z
+SUMMARY:Elementy rachunku prawdopodobieństwa Ćwiczenia
+LOCATION:
+DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Ryszard Kopiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T150000Z
+DTEND:20270113T163500Z
 SUMMARY:Wybrane elementy kryptografii kwantowej Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T165000Z
-DTEND:20270112T201500Z
+DTSTART:20270113T165000Z
+DTEND:20270113T201500Z
 SUMMARY:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
@@ -828,13 +828,6 @@ DTEND:20270114T083500Z
 SUMMARY:Elementy algebry abstrakcyjnej Wykład
 LOCATION:
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270114T070000Z
-DTEND:20270114T083500Z
-SUMMARY:Wprowadzenie do telekomunikacj optycznej Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Grzelak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T085000Z
@@ -851,6 +844,13 @@ LOCATION:
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270115T070000Z
+DTEND:20270115T083500Z
+SUMMARY:Wprowadzenie do telekomunikacj optycznej Laboratorium
+LOCATION:
+DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Grzelak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270119T070000Z
 DTEND:20270119T083500Z
 SUMMARY:Wybrane elementy obliczeń kwantowych Laboratorium
@@ -865,22 +865,22 @@ LOCATION:
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T123000Z
-DTEND:20270119T140500Z
+DTSTART:20270120T123000Z
+DTEND:20270120T140500Z
 SUMMARY:Elementy rachunku prawdopodobieństwa Ćwiczenia
 LOCATION:
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T150000Z
-DTEND:20270119T163500Z
+DTSTART:20270120T150000Z
+DTEND:20270120T163500Z
 SUMMARY:Wybrane elementy kryptografii kwantowej Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T165000Z
-DTEND:20270119T201500Z
+DTSTART:20270120T165000Z
+DTEND:20270120T201500Z
 SUMMARY:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe Projekt
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak

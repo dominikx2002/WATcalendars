@@ -34,13 +34,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260929T094000Z
 DTEND:20260929T111500Z
-SUMMARY:Diagnostyka i tolerowanie uszkodzeń Laboratorium
-LOCATION:
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260929T094000Z
-DTEND:20260929T111500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
@@ -53,13 +46,6 @@ LOCATION:
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T113000Z
-DTEND:20260929T130500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260929T140000Z
 DTEND:20260929T153500Z
 SUMMARY:Diagnostyka i tolerowanie uszkodzeń Projekt
@@ -67,8 +53,22 @@ LOCATION:
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T140000Z
-DTEND:20260929T172500Z
+DTSTART:20260930T094000Z
+DTEND:20260930T111500Z
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń Laboratorium
+LOCATION:
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T113000Z
+DTEND:20260930T130500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T140000Z
+DTEND:20260930T172500Z
 SUMMARY:Trends in Computer Technology Wykład
 LOCATION:
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
@@ -95,22 +95,22 @@ LOCATION:
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T111500Z
+DTSTART:20261002T094000Z
+DTEND:20261002T111500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
+DTSTART:20261002T113000Z
+DTEND:20261002T130500Z
 SUMMARY:Zabezpieczenie medyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpr.  Natalia Majewska; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T140000Z
-DTEND:20261001T172500Z
+DTSTART:20261002T140000Z
+DTEND:20261002T172500Z
 SUMMARY:Zabezpieczenie medyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: kpr.  Natalia Majewska; st. kpr. Anna Polankiewicz
@@ -159,7 +159,14 @@ DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zaję�
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T140000Z
-DTEND:20261006T172500Z
+DTEND:20261006T153500Z
+SUMMARY:Projekt z zakresu cyberobrony Projekt
+LOCATION:
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T140000Z
+DTEND:20261007T172500Z
 SUMMARY:Projekt z zakresu cyberobrony Projekt
 LOCATION:
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr Sławomir Machowski
@@ -167,13 +174,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T075000Z
 DTEND:20261008T092500Z
-SUMMARY:Projektowanie systemów bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T075000Z
-DTEND:20261008T111500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Radosław Olszewski
@@ -186,13 +186,6 @@ LOCATION:
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T113000Z
-DTEND:20261008T130500Z
-SUMMARY:Bezpieczeństwo sieci IPv6 Projekt
-LOCATION:
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261008T140000Z
 DTEND:20261008T153500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Projekt
@@ -200,8 +193,29 @@ LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T140000Z
-DTEND:20261008T153500Z
+DTSTART:20261009T075000Z
+DTEND:20261009T092500Z
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji Wykład
+LOCATION:
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T094000Z
+DTEND:20261009T111500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T113000Z
+DTEND:20261009T130500Z
+SUMMARY:Bezpieczeństwo sieci IPv6 Projekt
+LOCATION:
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T140000Z
+DTEND:20261009T153500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
@@ -235,13 +249,6 @@ LOCATION:
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T130500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261013T094000Z
 DTEND:20261013T111500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -256,18 +263,18 @@ LOCATION:
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T140000Z
-DTEND:20261013T153500Z
+DTSTART:20261014T075000Z
+DTEND:20261014T130500Z
+SUMMARY:Zabezpieczenie medyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T140000Z
+DTEND:20261014T153500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T092500Z
-SUMMARY:Systemy rozproszone Wykład
-LOCATION:
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T075000Z
@@ -277,13 +284,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Rafał Goławski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T111500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261015T113000Z
 DTEND:20261015T130500Z
 SUMMARY:Regulaminy SZ RP Wykład
@@ -291,8 +291,22 @@ LOCATION:
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppłk rez. Paweł Jęcek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T140000Z
-DTEND:20261015T153500Z
+DTSTART:20261016T075000Z
+DTEND:20261016T092500Z
+SUMMARY:Systemy rozproszone Wykład
+LOCATION:
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T094000Z
+DTEND:20261016T111500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T140000Z
+DTEND:20261016T153500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
@@ -319,13 +333,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T060000Z
-DTEND:20261020T092500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:Diagnostyka i tolerowanie uszkodzeń Wykład
@@ -349,27 +356,34 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T140000Z
 DTEND:20261020T153500Z
-SUMMARY:Bezpieczeństwo sieci IPv6 Projekt
-LOCATION:
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T140000Z
-DTEND:20261020T153500Z
 SUMMARY:Trends in Computer Technology Laboratorium
 LOCATION:
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T155000Z
-DTEND:20261020T172500Z
+DTSTART:20261021T060000Z
+DTEND:20261021T092500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T140000Z
+DTEND:20261021T153500Z
+SUMMARY:Bezpieczeństwo sieci IPv6 Projekt
+LOCATION:
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T155000Z
+DTEND:20261021T172500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Projekt
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T075000Z
-DTEND:20261022T111500Z
+DTEND:20261022T092500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Radosław Olszewski
@@ -382,15 +396,22 @@ LOCATION:
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T113000Z
-DTEND:20261022T130500Z
+DTSTART:20261023T094000Z
+DTEND:20261023T111500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T113000Z
+DTEND:20261023T130500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T140000Z
-DTEND:20261022T153500Z
+DTSTART:20261023T140000Z
+DTEND:20261023T153500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
@@ -431,20 +452,6 @@ LOCATION:
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T102500Z
-SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Wykład
-LOCATION:
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mjr dr inż. Marzena Walkowiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T140500Z
-SUMMARY:Technologie mobilne Laboratorium
-LOCATION:
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -466,18 +473,25 @@ LOCATION:
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T165000Z
-DTEND:20261027T182500Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Wykład
+LOCATION:
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mjr dr inż. Marzena Walkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T140500Z
+SUMMARY:Technologie mobilne Laboratorium
+LOCATION:
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T165000Z
+DTEND:20261028T182500Z
 SUMMARY:Wf_E - Egzamin
 LOCATION:
 DESCRIPTION:Wf_E -\nRodzaj zajęć: Egzamin\nNumer zajęć: 6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
-SUMMARY:Diagnostyka i tolerowanie uszkodzeń Laboratorium
-LOCATION:
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -487,32 +501,39 @@ LOCATION:
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T121500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T123000Z
-DTEND:20261029T140500Z
-SUMMARY:Bezpieczeństwo sieci IPv6 Laboratorium
-LOCATION:
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T150000Z
-DTEND:20261029T163500Z
-SUMMARY:Bezpieczeństwo sieci IPv6 Laboratorium
-LOCATION:
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261029T150000Z
 DTEND:20261029T182500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Laboratorium
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T102500Z
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń Laboratorium
+LOCATION:
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T104000Z
+DTEND:20261030T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T123000Z
+DTEND:20261030T140500Z
+SUMMARY:Bezpieczeństwo sieci IPv6 Laboratorium
+LOCATION:
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T150000Z
+DTEND:20261030T163500Z
+SUMMARY:Bezpieczeństwo sieci IPv6 Laboratorium
+LOCATION:
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261031T085000Z
@@ -541,13 +562,6 @@ DTEND:20261102T163500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261103T070000Z
-DTEND:20261103T083500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T070000Z
@@ -592,11 +606,11 @@ LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T085000Z
-DTEND:20261105T102500Z
-SUMMARY:Systemy rozproszone Wykład
+DTSTART:20261104T070000Z
+DTEND:20261104T083500Z
+SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T085000Z
@@ -613,15 +627,22 @@ LOCATION:
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk rez. Paweł Jęcek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T104000Z
-DTEND:20261105T121500Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102500Z
+SUMMARY:Systemy rozproszone Wykład
+LOCATION:
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T104000Z
+DTEND:20261106T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T123000Z
-DTEND:20261105T140500Z
+DTSTART:20261106T123000Z
+DTEND:20261106T140500Z
 SUMMARY:Systemy rozproszone Projekt
 LOCATION:
 DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Łukasz Strzelecki
@@ -662,20 +683,6 @@ LOCATION:
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T085000Z
-DTEND:20261110T102500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T104000Z
-DTEND:20261110T121500Z
-SUMMARY:Diagnostyka i tolerowanie uszkodzeń Laboratorium
-LOCATION:
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -690,13 +697,6 @@ LOCATION:
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T123000Z
-DTEND:20261110T140500Z
-SUMMARY:Trends in Computer Technology Wykład
-LOCATION:
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T150000Z
 DTEND:20261110T163500Z
 SUMMARY:Projekt z zakresu cyberobrony Projekt
@@ -704,18 +704,32 @@ LOCATION:
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T150000Z
-DTEND:20261110T163500Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T104000Z
+DTEND:20261111T121500Z
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń Laboratorium
+LOCATION:
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T123000Z
+DTEND:20261111T140500Z
+SUMMARY:Trends in Computer Technology Wykład
+LOCATION:
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T150000Z
+DTEND:20261111T163500Z
 SUMMARY:Trends in Computer Technology Wykład
 LOCATION:
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T070000Z
-DTEND:20261112T102500Z
-SUMMARY:Systemy rozproszone Wykład
-LOCATION:
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -726,7 +740,7 @@ DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T085000Z
-DTEND:20261112T121500Z
+DTEND:20261112T102500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Radosław Olszewski
@@ -739,15 +753,29 @@ LOCATION:
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T123000Z
-DTEND:20261112T140500Z
+DTSTART:20261113T070000Z
+DTEND:20261113T102500Z
+SUMMARY:Systemy rozproszone Wykład
+LOCATION:
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T104000Z
+DTEND:20261113T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T123000Z
+DTEND:20261113T140500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T150000Z
-DTEND:20261112T182500Z
+DTSTART:20261113T150000Z
+DTEND:20261113T182500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Laboratorium
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
@@ -795,13 +823,6 @@ LOCATION:
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T085000Z
-DTEND:20261117T102500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -830,11 +851,11 @@ LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T085000Z
-DTEND:20261119T102500Z
-SUMMARY:Systemy rozproszone Wykład
+DTSTART:20261118T085000Z
+DTEND:20261118T102500Z
+SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T085000Z
@@ -849,6 +870,13 @@ DTEND:20261119T121500Z
 SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Mateusz Krawczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T085000Z
+DTEND:20261120T102500Z
+SUMMARY:Systemy rozproszone Wykład
+LOCATION:
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T085000Z
@@ -879,13 +907,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T070000Z
-DTEND:20261124T102500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:Diagnostyka i tolerowanie uszkodzeń Laboratorium
@@ -907,15 +928,22 @@ LOCATION:
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T150000Z
-DTEND:20261124T182500Z
+DTSTART:20261125T070000Z
+DTEND:20261125T102500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T150000Z
+DTEND:20261125T182500Z
 SUMMARY:Trends in Computer Technology Wykład
 LOCATION:
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z
-DTEND:20261126T121500Z
+DTEND:20261126T102500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Radosław Olszewski
@@ -926,6 +954,13 @@ DTEND:20261126T121500Z
 SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Mateusz Krawczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T104000Z
+DTEND:20261127T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261128T085000Z
@@ -954,13 +989,6 @@ DTEND:20261130T163500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T070000Z
-DTEND:20261201T083500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
@@ -998,13 +1026,6 @@ LOCATION:
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T150000Z
-DTEND:20261201T182500Z
-SUMMARY:Projekt z zakresu cyberobrony Projekt
-LOCATION:
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T165000Z
 DTEND:20261201T182500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Projekt
@@ -1012,15 +1033,22 @@ LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T085000Z
-DTEND:20261203T102500Z
-SUMMARY:Systemy rozproszone Wykład
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T150000Z
+DTEND:20261202T182500Z
+SUMMARY:Projekt z zakresu cyberobrony Projekt
+LOCATION:
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T085000Z
-DTEND:20261203T121500Z
+DTEND:20261203T102500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Radosław Olszewski
@@ -1033,15 +1061,29 @@ LOCATION:
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T123000Z
-DTEND:20261203T140500Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102500Z
+SUMMARY:Systemy rozproszone Wykład
+LOCATION:
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T104000Z
+DTEND:20261204T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T123000Z
+DTEND:20261204T140500Z
 SUMMARY:Bezpieczeństwo sieci IPv6 Laboratorium
 LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T150000Z
-DTEND:20261203T163500Z
+DTSTART:20261204T150000Z
+DTEND:20261204T163500Z
 SUMMARY:Bezpieczeństwo sieci IPv6 Laboratorium
 LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
@@ -1070,23 +1112,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T085000Z
 DTEND:20261208T102500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T085000Z
-DTEND:20261208T102500Z
 SUMMARY:Technologie mobilne Laboratorium
 LOCATION:
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T104000Z
-DTEND:20261208T140500Z
-SUMMARY:Bezpieczeństwo sieci IPv6 Projekt
-LOCATION:
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T104000Z
@@ -1104,31 +1132,31 @@ DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zaję�
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T150000Z
-DTEND:20261208T182500Z
-SUMMARY:Bezpieczeństwo sieci IPv6 Projekt
-LOCATION:
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T150000Z
 DTEND:20261208T163500Z
 SUMMARY:Projekt z zakresu cyberobrony Projekt
 LOCATION:
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T102500Z
-SUMMARY:Systemy rozproszone Wykład
+DTSTART:20261209T085000Z
+DTEND:20261209T102500Z
+SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T104000Z
-DTEND:20261210T121500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
+DTSTART:20261209T104000Z
+DTEND:20261209T140500Z
+SUMMARY:Bezpieczeństwo sieci IPv6 Projekt
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T150000Z
+DTEND:20261209T182500Z
+SUMMARY:Bezpieczeństwo sieci IPv6 Projekt
+LOCATION:
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T123000Z
@@ -1143,6 +1171,20 @@ DTEND:20261210T163500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T085000Z
+DTEND:20261211T102500Z
+SUMMARY:Systemy rozproszone Wykład
+LOCATION:
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T104000Z
+DTEND:20261211T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T085000Z
@@ -1180,20 +1222,6 @@ LOCATION:
 DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T085000Z
-DTEND:20261215T102500Z
-SUMMARY:Systemy rozproszone Wykład
-LOCATION:
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T104000Z
-DTEND:20261215T140500Z
-SUMMARY:Projekt z zakresu cyberobrony Projekt
-LOCATION:
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T104000Z
 DTEND:20261215T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -1215,18 +1243,32 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T150000Z
-DTEND:20261215T182500Z
-SUMMARY:Projekt z zakresu cyberobrony Projekt
-LOCATION:
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T165000Z
 DTEND:20261215T182500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Projekt
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:Systemy rozproszone Wykład
+LOCATION:
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T140500Z
+SUMMARY:Projekt z zakresu cyberobrony Projekt
+LOCATION:
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T150000Z
+DTEND:20261216T182500Z
+SUMMARY:Projekt z zakresu cyberobrony Projekt
+LOCATION:
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T085000Z
@@ -1238,20 +1280,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T070000Z
 DTEND:20261222T083500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261222T070000Z
-DTEND:20261222T083500Z
 SUMMARY:Steganografia Laboratorium
 LOCATION:
 DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261223T070000Z
+DTEND:20261223T083500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261231T085000Z
-DTEND:20261231T121500Z
+DTEND:20261231T102500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Radosław Olszewski
@@ -1262,6 +1304,13 @@ DTEND:20261231T121500Z
 SUMMARY:Trends in Computer Technology Laboratorium
 LOCATION:
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Jakub Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T104000Z
+DTEND:20270101T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270104T104000Z
@@ -1276,13 +1325,6 @@ DTEND:20270104T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270105T085000Z
-DTEND:20270105T102500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270105T085000Z
@@ -1306,22 +1348,29 @@ LOCATION:
 DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T085000Z
-DTEND:20270107T102500Z
+DTSTART:20270106T085000Z
+DTEND:20270106T102500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T085000Z
+DTEND:20270108T102500Z
 SUMMARY:Systemy rozproszone Projekt
 LOCATION:
 DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T104000Z
-DTEND:20270107T121500Z
+DTSTART:20270108T104000Z
+DTEND:20270108T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T150000Z
-DTEND:20270107T182500Z
+DTSTART:20270108T150000Z
+DTEND:20270108T182500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Laboratorium
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
@@ -1355,13 +1404,6 @@ LOCATION:
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T085000Z
-DTEND:20270112T102500Z
-SUMMARY:Systemy rozproszone Projekt
-LOCATION:
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270112T104000Z
 DTEND:20270112T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -1369,15 +1411,22 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T123000Z
-DTEND:20270112T140500Z
+DTSTART:20270113T085000Z
+DTEND:20270113T102500Z
+SUMMARY:Systemy rozproszone Projekt
+LOCATION:
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T123000Z
+DTEND:20270113T140500Z
 SUMMARY:Zabezpieczenie medyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T150000Z
-DTEND:20270112T182500Z
+DTSTART:20270113T150000Z
+DTEND:20270113T182500Z
 SUMMARY:Zabezpieczenie medyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
@@ -1385,13 +1434,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T085000Z
 DTEND:20270114T102500Z
-SUMMARY:Diagnostyka i tolerowanie uszkodzeń Laboratorium
-LOCATION:
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270114T085000Z
-DTEND:20270114T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Radosław Olszewski
@@ -1406,16 +1448,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T150000Z
 DTEND:20270114T163500Z
-SUMMARY:Projektowanie systemów bezpieczeństwa informacji Projekt
-LOCATION:
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270114T150000Z
-DTEND:20270114T163500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T085000Z
+DTEND:20270115T102500Z
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń Laboratorium
+LOCATION:
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T104000Z
+DTEND:20270115T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T150000Z
+DTEND:20270115T163500Z
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji Projekt
+LOCATION:
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270116T085000Z
@@ -1439,13 +1495,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T070000Z
-DTEND:20270119T083500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270119T085000Z
 DTEND:20270119T102500Z
 SUMMARY:Technologie mobilne Laboratorium
@@ -1460,13 +1509,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T104000Z
-DTEND:20270119T140500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mł.chor. Maciej Koczański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270119T123000Z
 DTEND:20270119T140500Z
 SUMMARY:Trends in Computer Technology Laboratorium
@@ -1474,8 +1516,22 @@ LOCATION:
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T150000Z
-DTEND:20270119T163500Z
+DTSTART:20270120T070000Z
+DTEND:20270120T083500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T104000Z
+DTEND:20270120T140500Z
+SUMMARY:Zabezpieczenie medyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mł.chor. Maciej Koczański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T150000Z
+DTEND:20270120T163500Z
 SUMMARY:Zabezpieczenie medyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
@@ -1495,15 +1551,15 @@ LOCATION:
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk rez. Paweł Jęcek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T104000Z
-DTEND:20270121T121500Z
+DTSTART:20270122T104000Z
+DTEND:20270122T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T150000Z
-DTEND:20270121T182500Z
+DTSTART:20270122T150000Z
+DTEND:20270122T182500Z
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji Laboratorium
 LOCATION:
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
@@ -1518,15 +1574,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T070000Z
 DTEND:20270126T083500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270126T070000Z
-DTEND:20270126T083500Z
 SUMMARY:Technologie mobilne Laboratorium
 LOCATION:
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T070000Z
+DTEND:20270127T083500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 END:VCALENDAR

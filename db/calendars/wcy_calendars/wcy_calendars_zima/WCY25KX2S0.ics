@@ -32,32 +32,11 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T075000Z
-DTEND:20260929T092500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260929T094000Z
 DTEND:20260929T130500Z
 SUMMARY:Podstawy optymalizacji Wykład
 LOCATION:
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260929T094000Z
-DTEND:20260929T130500Z
-SUMMARY:Programowanie niskopoziomowe i analiza kodu Wykład
-LOCATION:
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260929T140000Z
-DTEND:20260929T153500Z
-SUMMARY:Algorytmy i struktury danych Wykład
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260929T140000Z
@@ -67,25 +46,32 @@ LOCATION:
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T092500Z
-SUMMARY:Szkolenie strzeleckie - Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T092500Z
+DTSTART:20260930T075000Z
+DTEND:20260930T092500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T111500Z
-SUMMARY:Profilaktyka antykorupcyjna Wykład
+DTSTART:20260930T094000Z
+DTEND:20260930T130500Z
+SUMMARY:Programowanie niskopoziomowe i analiza kodu Wykład
 LOCATION:
-DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T140000Z
+DTEND:20260930T153500Z
+SUMMARY:Algorytmy i struktury danych Wykład
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261001T075000Z
+DTEND:20261001T092500Z
+SUMMARY:Szkolenie strzeleckie - Ćwiczenia
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T094000Z
@@ -97,16 +83,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
 SUMMARY:Ochrona informacji niejawnych Wykład
 LOCATION:
 DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T075000Z
+DTEND:20261002T092500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T094000Z
+DTEND:20261002T111500Z
+SUMMARY:Profilaktyka antykorupcyjna Wykład
+LOCATION:
+DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T113000Z
+DTEND:20261002T130500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T060000Z
@@ -158,13 +158,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T075000Z
-DTEND:20261006T130500Z
-SUMMARY:Szkolenie wojskowe Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: DGB -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261006T094000Z
 DTEND:20261006T111500Z
 SUMMARY:Fizyka 2 Wykład
@@ -180,17 +173,24 @@ DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zaję�
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T140000Z
-DTEND:20261006T153500Z
-SUMMARY:Algorytmy i struktury danych Wykład
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261006T140000Z
 DTEND:20261006T172500Z
 SUMMARY:Teoria informacji i kodowania Wykład
 LOCATION:
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T075000Z
+DTEND:20261007T130500Z
+SUMMARY:Szkolenie wojskowe Ćwiczenia
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: DGB -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T140000Z
+DTEND:20261007T153500Z
+SUMMARY:Algorytmy i struktury danych Wykład
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T060000Z
@@ -201,24 +201,17 @@ DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T075000Z
-DTEND:20261008T111500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T075000Z
 DTEND:20261008T092500Z
 SUMMARY:Zabezpieczenie inżynieryjne Wykład
 LOCATION:
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk mgr Paweł Jurzysta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T113000Z
-DTEND:20261008T130500Z
-SUMMARY:Język angielski - Ćwiczenia
+DTSTART:20261008T094000Z
+DTEND:20261008T111500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Natalia Stawicka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z
@@ -226,6 +219,20 @@ DTEND:20261008T130500Z
 SUMMARY:Ochrona informacji niejawnych Wykład
 LOCATION:
 DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T075000Z
+DTEND:20261009T092500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T113000Z
+DTEND:20261009T130500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T060000Z
@@ -263,13 +270,6 @@ LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T060000Z
-DTEND:20261013T073500Z
-SUMMARY:Szkolenie wojskowe Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: DGB -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261013T075000Z
 DTEND:20261013T092500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -277,25 +277,11 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T092500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261013T094000Z
 DTEND:20261013T111500Z
 SUMMARY:Fizyka 2 Wykład
 LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T130500Z
-SUMMARY:Programowanie niskopoziomowe i analiza kodu Wykład
-LOCATION:
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T113000Z
@@ -307,23 +293,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T140000Z
 DTEND:20261013T153500Z
-SUMMARY:Algorytmy i struktury danych Wykład
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T140000Z
-DTEND:20261013T153500Z
 SUMMARY:Podstawy optymalizacji Ćwiczenia
 LOCATION:
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T060000Z
-DTEND:20261015T073500Z
-SUMMARY:Podstawy optymalizacji Wykład
+DTSTART:20261014T060000Z
+DTEND:20261014T073500Z
+SUMMARY:Szkolenie wojskowe Ćwiczenia
 LOCATION:
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: DGB -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T075000Z
+DTEND:20261014T092500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T094000Z
+DTEND:20261014T130500Z
+SUMMARY:Programowanie niskopoziomowe i analiza kodu Wykład
+LOCATION:
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T140000Z
+DTEND:20261014T153500Z
+SUMMARY:Algorytmy i struktury danych Wykład
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T060000Z
@@ -340,20 +340,6 @@ LOCATION:
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T092500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T111500Z
-SUMMARY:Teoria grafów i sieci Ćwiczenia
-LOCATION:
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261015T094000Z
 DTEND:20261015T111500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -361,8 +347,29 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Dominik Łodej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T113000Z
-DTEND:20261015T130500Z
+DTSTART:20261016T060000Z
+DTEND:20261016T073500Z
+SUMMARY:Podstawy optymalizacji Wykład
+LOCATION:
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T075000Z
+DTEND:20261016T092500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T094000Z
+DTEND:20261016T111500Z
+SUMMARY:Teoria grafów i sieci Ćwiczenia
+LOCATION:
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T113000Z
+DTEND:20261016T130500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
@@ -410,25 +417,11 @@ LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T060000Z
-DTEND:20261020T073500Z
-SUMMARY:Statystyka matematyczna Laboratorium
-LOCATION:
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T075000Z
-DTEND:20261020T092500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T094000Z
@@ -438,32 +431,11 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T111500Z
-SUMMARY:Przywództwo w dowodzeniu Wykład
-LOCATION:
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Kazimierz Piotrkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
-SUMMARY:Profilaktyka antykorupcyjna Wykład
-LOCATION:
-DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Andrzej Strychalski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
 SUMMARY:Programowanie niskopoziomowe i analiza kodu Wykład
 LOCATION:
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Adam Patkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T140000Z
-DTEND:20261020T153500Z
-SUMMARY:Algorytmy i struktury danych Wykład
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T140000Z
@@ -480,25 +452,46 @@ LOCATION:
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T075000Z
-DTEND:20261022T092500Z
-SUMMARY:Teoria informacji i kodowania Ćwiczenia
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:Statystyka matematyczna Laboratorium
 LOCATION:
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T075000Z
-DTEND:20261022T092500Z
+DTSTART:20261021T075000Z
+DTEND:20261021T092500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T113000Z
-DTEND:20261022T130500Z
-SUMMARY:Język angielski - Ćwiczenia
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
+SUMMARY:Przywództwo w dowodzeniu Wykład
 LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Kazimierz Piotrkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T113000Z
+DTEND:20261021T130500Z
+SUMMARY:Profilaktyka antykorupcyjna Wykład
+LOCATION:
+DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Andrzej Strychalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T140000Z
+DTEND:20261021T153500Z
+SUMMARY:Algorytmy i struktury danych Wykład
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T075000Z
+DTEND:20261022T092500Z
+SUMMARY:Teoria informacji i kodowania Ćwiczenia
+LOCATION:
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T113000Z
@@ -513,6 +506,20 @@ DTEND:20261022T153500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T075000Z
+DTEND:20261023T092500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T113000Z
+DTEND:20261023T130500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T060000Z
@@ -564,25 +571,11 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T102500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Fizyka 2 Wykład
 LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T121500Z
-SUMMARY:Fizyka 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T123000Z
@@ -592,25 +585,39 @@ LOCATION:
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T123000Z
-DTEND:20261027T140500Z
-SUMMARY:Programowanie niskopoziomowe i analiza kodu Wykład
-LOCATION:
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Adam Patkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T150000Z
-DTEND:20261027T163500Z
-SUMMARY:Algorytmy i struktury danych Wykład
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T150000Z
 DTEND:20261027T182500Z
 SUMMARY:Teoria informacji i kodowania Wykład
 LOCATION:
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T121500Z
+SUMMARY:Fizyka 2 Ćwiczenia
+LOCATION:
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marek Olifierczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
+SUMMARY:Programowanie niskopoziomowe i analiza kodu Wykład
+LOCATION:
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T150000Z
+DTEND:20261028T163500Z
+SUMMARY:Algorytmy i struktury danych Wykład
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z
@@ -622,30 +629,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T085000Z
 DTEND:20261029T102500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
 SUMMARY:Zabezpieczenie inżynieryjne Ćwiczenia
 LOCATION:
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk mgr Paweł Jurzysta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T121500Z
-SUMMARY:Statystyka matematyczna Laboratorium
-LOCATION:
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T123000Z
-DTEND:20261029T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T123000Z
@@ -660,6 +646,27 @@ DTEND:20261029T163500Z
 SUMMARY:Podstawy podzespołów komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T104000Z
+DTEND:20261030T121500Z
+SUMMARY:Statystyka matematyczna Laboratorium
+LOCATION:
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T123000Z
+DTEND:20261030T140500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261031T070000Z
@@ -718,20 +725,6 @@ LOCATION:
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T085000Z
-DTEND:20261105T121500Z
-SUMMARY:Podstawy survivalu Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T123000Z
-DTEND:20261105T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261105T150000Z
 DTEND:20261105T201500Z
 SUMMARY:Podstawy survivalu Ćwiczenia
@@ -739,8 +732,22 @@ LOCATION:
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T150000Z
-DTEND:20261105T163500Z
+DTSTART:20261106T085000Z
+DTEND:20261106T121500Z
+SUMMARY:Podstawy survivalu Ćwiczenia
+LOCATION:
+DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T123000Z
+DTEND:20261106T140500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T150000Z
+DTEND:20261106T163500Z
 SUMMARY:Podstawy survivalu Ćwiczenia
 LOCATION:
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
@@ -776,13 +783,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T085000Z
 DTEND:20261110T102500Z
-SUMMARY:Fizyka 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Marek Olifierczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T085000Z
-DTEND:20261110T102500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
@@ -802,25 +802,11 @@ LOCATION:
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: zal popr\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T123000Z
-DTEND:20261110T140500Z
-SUMMARY:Programowanie niskopoziomowe i analiza kodu Laboratorium
-LOCATION:
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Waldemar Szylberg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T150000Z
 DTEND:20261110T163500Z
 SUMMARY:Algorytmy i struktury danych Wykład
 LOCATION:
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T150000Z
-DTEND:20261110T163500Z
-SUMMARY:Programowanie niskopoziomowe i analiza kodu Laboratorium
-LOCATION:
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T165000Z
@@ -830,6 +816,34 @@ LOCATION:
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261111T085000Z
+DTEND:20261111T102500Z
+SUMMARY:Fizyka 2 Ćwiczenia
+LOCATION:
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Marek Olifierczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T104000Z
+DTEND:20261111T121500Z
+SUMMARY:Fizyka 2 Wykład
+LOCATION:
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T123000Z
+DTEND:20261111T140500Z
+SUMMARY:Programowanie niskopoziomowe i analiza kodu Laboratorium
+LOCATION:
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T150000Z
+DTEND:20261111T163500Z
+SUMMARY:Programowanie niskopoziomowe i analiza kodu Laboratorium
+LOCATION:
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T070000Z
 DTEND:20261112T083500Z
 SUMMARY:Podstawy survivalu Ćwiczenia
@@ -837,39 +851,11 @@ LOCATION:
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T070000Z
-DTEND:20261112T083500Z
-SUMMARY:Podstawy survivalu Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T085000Z
-DTEND:20261112T102500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T121500Z
-SUMMARY:Algorytmy i struktury danych Laboratorium
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tadeusz Kowiorski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261112T104000Z
 DTEND:20261112T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Dominik Łodej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T123000Z
-DTEND:20261112T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T123000Z
@@ -884,6 +870,34 @@ DTEND:20261112T182500Z
 SUMMARY:Architektura i organizacja komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:Podstawy survivalu Ćwiczenia
+LOCATION:
+DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T085000Z
+DTEND:20261113T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T104000Z
+DTEND:20261113T121500Z
+SUMMARY:Algorytmy i struktury danych Laboratorium
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T123000Z
+DTEND:20261113T140500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T070000Z
@@ -921,13 +935,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T085000Z
-DTEND:20261117T102500Z
-SUMMARY:Teoria grafów i sieci Ćwiczenia
-LOCATION:
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Stąpor
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:Fizyka 2 Wykład
@@ -947,6 +954,13 @@ DTEND:20261117T163500Z
 SUMMARY:Algorytmy i struktury danych Wykład
 LOCATION:
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T085000Z
+DTEND:20261118T102500Z
+SUMMARY:Teoria grafów i sieci Ćwiczenia
+LOCATION:
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -1005,20 +1019,6 @@ LOCATION:
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T070000Z
-DTEND:20261124T083500Z
-SUMMARY:Przywództwo w dowodzeniu Wykład
-LOCATION:
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Kazimierz Piotrkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T085000Z
-DTEND:20261124T102500Z
-SUMMARY:Algorytmy i struktury danych Laboratorium
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -1040,13 +1040,6 @@ LOCATION:
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T123000Z
-DTEND:20261124T140500Z
-SUMMARY:Teoria informacji i kodowania Wykład
-LOCATION:
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T150000Z
 DTEND:20261124T163500Z
 SUMMARY:Algorytmy i struktury danych Wykład
@@ -1059,6 +1052,27 @@ DTEND:20261124T182500Z
 SUMMARY:Podstawy optymalizacji Ćwiczenia
 LOCATION:
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:Przywództwo w dowodzeniu Wykład
+LOCATION:
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Kazimierz Piotrkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T085000Z
+DTEND:20261125T102500Z
+SUMMARY:Algorytmy i struktury danych Laboratorium
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:Teoria informacji i kodowania Wykład
+LOCATION:
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -1075,13 +1089,6 @@ LOCATION:
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T085000Z
-DTEND:20261126T102500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261126T104000Z
 DTEND:20261126T121500Z
 SUMMARY:Teoria informacji i kodowania Ćwiczenia
@@ -1089,18 +1096,25 @@ LOCATION:
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T123000Z
-DTEND:20261126T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261126T150000Z
 DTEND:20261126T182500Z
 SUMMARY:Architektura i organizacja komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T085000Z
+DTEND:20261127T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T123000Z
+DTEND:20261127T140500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261128T070000Z
@@ -1122,13 +1136,6 @@ DTEND:20261130T140500Z
 SUMMARY:Architektura i organizacja komputerów Wykład
 LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T070000Z
-DTEND:20261201T083500Z
-SUMMARY:Przywództwo w dowodzeniu Wykład
-LOCATION:
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Kazimierz Piotrkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
@@ -1159,6 +1166,13 @@ LOCATION:
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:Przywództwo w dowodzeniu Wykład
+LOCATION:
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Kazimierz Piotrkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261203T070000Z
 DTEND:20261203T083500Z
 SUMMARY:Zabezpieczenie inżynieryjne Ćwiczenia
@@ -1173,25 +1187,11 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T085000Z
+DTSTART:20261203T104000Z
 DTEND:20261203T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T104000Z
-DTEND:20261203T121500Z
-SUMMARY:Przywództwo w dowodzeniu Ćwiczenia
-LOCATION:
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Katarzyna Gurmińska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T123000Z
-DTEND:20261203T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Natalia Stawicka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T123000Z
@@ -1213,6 +1213,27 @@ DTEND:20261203T182500Z
 SUMMARY:Teoria informacji i kodowania Laboratorium
 LOCATION:
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Jakub Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T085000Z
+DTEND:20261204T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T104000Z
+DTEND:20261204T121500Z
+SUMMARY:Przywództwo w dowodzeniu Ćwiczenia
+LOCATION:
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Katarzyna Gurmińska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T123000Z
+DTEND:20261204T140500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T070000Z
@@ -1257,25 +1278,11 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T085000Z
-DTEND:20261208T102500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261208T104000Z
 DTEND:20261208T121500Z
 SUMMARY:Fizyka 2 Wykład
 LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T104000Z
-DTEND:20261208T121500Z
-SUMMARY:Fizyka 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T123000Z
@@ -1292,18 +1299,25 @@ LOCATION:
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T085000Z
+DTEND:20261209T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T104000Z
+DTEND:20261209T121500Z
+SUMMARY:Fizyka 2 Ćwiczenia
+LOCATION:
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marek Olifierczuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261210T070000Z
 DTEND:20261210T083500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T070000Z
-DTEND:20261210T083500Z
-SUMMARY:Teoria grafów i sieci Ćwiczenia
-LOCATION:
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T085000Z
@@ -1313,25 +1327,32 @@ LOCATION:
 DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Waldemar Grabiec; dr inż. Tomasz Orżanowski; dr inż. Tadeusz Drozd; dr inż. Zbigniew Kudła
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T102500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T123000Z
-DTEND:20261210T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
 SUMMARY:Zabezpieczenie inżynieryjne repetytorium
 LOCATION:
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: repetytorium\nNumer zajęć: 4\nProwadzący: ppłk mgr Paweł Jurzysta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T070000Z
+DTEND:20261211T083500Z
+SUMMARY:Teoria grafów i sieci Ćwiczenia
+LOCATION:
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T085000Z
+DTEND:20261211T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T123000Z
+DTEND:20261211T140500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T070000Z
@@ -1370,13 +1391,6 @@ DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T085000Z
-DTEND:20261215T121500Z
-SUMMARY:Fizyka 2 Wykład
-LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Robert Ciupa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T085000Z
 DTEND:20261215T102500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
@@ -1385,9 +1399,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T104000Z
 DTEND:20261215T121500Z
-SUMMARY:Fizyka 2 Ćwiczenia
+SUMMARY:Fizyka 2 Wykład
 LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marek Olifierczuk
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T150000Z
@@ -1404,11 +1418,18 @@ LOCATION:
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
-SUMMARY:Algorytmy i struktury danych Laboratorium
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:Fizyka 2 Wykład
 LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tadeusz Kowiorski
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Robert Ciupa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T121500Z
+SUMMARY:Fizyka 2 Ćwiczenia
+LOCATION:
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T070000Z
@@ -1418,6 +1439,13 @@ LOCATION:
 DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Waldemar Grabiec; dr inż. Tomasz Orżanowski; dr inż. Tadeusz Drozd; dr inż. Zbigniew Kudła
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261218T070000Z
+DTEND:20261218T083500Z
+SUMMARY:Algorytmy i struktury danych Laboratorium
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261219T070000Z
 DTEND:20261219T083500Z
 SUMMARY:XWychowanie fizyczne - Ćwiczenia
@@ -1425,8 +1453,8 @@ LOCATION:
 DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261222T070000Z
-DTEND:20261222T083500Z
+DTSTART:20261223T070000Z
+DTEND:20261223T083500Z
 SUMMARY:Teoria grafów i sieci Ćwiczenia
 LOCATION:
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Stąpor
@@ -1439,25 +1467,11 @@ LOCATION:
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261231T085000Z
+DTSTART:20261231T104000Z
 DTEND:20261231T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261231T104000Z
-DTEND:20261231T121500Z
-SUMMARY:Teoria grafów i sieci Ćwiczenia
-LOCATION:
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261231T123000Z
-DTEND:20261231T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Natalia Stawicka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261231T150000Z
@@ -1465,6 +1479,27 @@ DTEND:20261231T182500Z
 SUMMARY:Architektura i organizacja komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T085000Z
+DTEND:20270101T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T104000Z
+DTEND:20270101T121500Z
+SUMMARY:Teoria grafów i sieci Ćwiczenia
+LOCATION:
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T123000Z
+DTEND:20270101T140500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270104T085000Z
@@ -1497,13 +1532,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270105T085000Z
 DTEND:20270105T102500Z
-SUMMARY:Fizyka 2 Ćwiczenia
-LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Marek Olifierczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270105T085000Z
-DTEND:20270105T102500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
@@ -1516,8 +1544,15 @@ LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T104000Z
-DTEND:20270105T140500Z
+DTSTART:20270106T085000Z
+DTEND:20270106T102500Z
+SUMMARY:Fizyka 2 Ćwiczenia
+LOCATION:
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Marek Olifierczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270106T104000Z
+DTEND:20270106T140500Z
 SUMMARY:Podstawy podzespołów komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
@@ -1537,29 +1572,36 @@ LOCATION:
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T085000Z
+DTSTART:20270107T104000Z
 DTEND:20270107T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T085000Z
+DTEND:20270108T102500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T104000Z
-DTEND:20270107T121500Z
+DTSTART:20270108T104000Z
+DTEND:20270108T121500Z
 SUMMARY:Algorytmy i struktury danych Laboratorium
 LOCATION:
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T123000Z
-DTEND:20270107T140500Z
+DTSTART:20270108T123000Z
+DTEND:20270108T140500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T150000Z
-DTEND:20270107T182500Z
+DTSTART:20270108T150000Z
+DTEND:20270108T182500Z
 SUMMARY:Programowanie niskopoziomowe i analiza kodu Laboratorium
 LOCATION:
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
@@ -1586,13 +1628,6 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T104000Z
-DTEND:20270112T121500Z
-SUMMARY:Teoria grafów i sieci Ćwiczenia
-LOCATION:
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270112T123000Z
 DTEND:20270112T140500Z
 SUMMARY:Przywództwo w dowodzeniu Ćwiczenia
@@ -1605,6 +1640,13 @@ DTEND:20270112T163500Z
 SUMMARY:Teoria informacji i kodowania Laboratorium
 LOCATION:
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Jakub Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T104000Z
+DTEND:20270113T121500Z
+SUMMARY:Teoria grafów i sieci Ćwiczenia
+LOCATION:
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T070000Z
@@ -1621,13 +1663,6 @@ LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T085000Z
-DTEND:20270114T102500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Rafał Goławski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270114T104000Z
 DTEND:20270114T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -1637,16 +1672,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T123000Z
 DTEND:20270114T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270114T123000Z
-DTEND:20270114T140500Z
 SUMMARY:TAKTYKA Ćwiczenia
 LOCATION:
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: por. mgr inż. Artur Kłosiński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T085000Z
+DTEND:20270115T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Rafał Goławski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T123000Z
+DTEND:20270115T140500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270116T070000Z
@@ -1677,13 +1719,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T085000Z
-DTEND:20270119T102500Z
-SUMMARY:Statystyka matematyczna Wykład
-LOCATION:
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270119T104000Z
 DTEND:20270119T121500Z
 SUMMARY:Fizyka 2 Wykład
@@ -1698,11 +1733,11 @@ LOCATION:
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T070000Z
-DTEND:20270121T083500Z
-SUMMARY:Algorytmy i struktury danych Laboratorium
+DTSTART:20270120T085000Z
+DTEND:20270120T102500Z
+SUMMARY:Statystyka matematyczna Wykład
 LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tadeusz Kowiorski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T070000Z
@@ -1712,18 +1747,11 @@ LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T085000Z
+DTSTART:20270121T104000Z
 DTEND:20270121T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270121T123000Z
-DTEND:20270121T140500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Natalia Stawicka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T123000Z
@@ -1740,6 +1768,27 @@ LOCATION:
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270122T070000Z
+DTEND:20270122T083500Z
+SUMMARY:Algorytmy i struktury danych Laboratorium
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T085000Z
+DTEND:20270122T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Natalia Stawicka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T123000Z
+DTEND:20270122T140500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270123T070000Z
 DTEND:20270123T083500Z
 SUMMARY:XWychowanie fizyczne - Ćwiczenia
@@ -1749,23 +1798,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270126T070000Z
 DTEND:20270126T083500Z
-SUMMARY:Algorytmy i struktury danych Wykład
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270126T070000Z
-DTEND:20270126T083500Z
 SUMMARY:Fizyka 2 Ćwiczenia
 LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Marek Olifierczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270128T070000Z
-DTEND:20270128T083500Z
-SUMMARY:Algorytmy i struktury danych Laboratorium
+DTSTART:20270127T070000Z
+DTEND:20270127T083500Z
+SUMMARY:Algorytmy i struktury danych Wykład
 LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tadeusz Kowiorski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T070000Z
@@ -1773,6 +1815,13 @@ DTEND:20270128T083500Z
 SUMMARY:Architektura i organizacja komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T070000Z
+DTEND:20270129T083500Z
+SUMMARY:Algorytmy i struktury danych Laboratorium
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270208T085000Z

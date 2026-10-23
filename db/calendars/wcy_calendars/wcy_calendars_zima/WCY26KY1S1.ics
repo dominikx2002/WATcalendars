@@ -25,25 +25,11 @@ LOCATION:
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T094000Z
-DTEND:20260929T130500Z
+DTSTART:20260930T094000Z
+DTEND:20260930T130500Z
 SUMMARY:Inauguracja WCY Spotkanie organizacy
 LOCATION:
 DESCRIPTION:Inauguracja WCY\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 3\nProwadzący: ... ... ...
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T060000Z
-DTEND:20261001T073500Z
-SUMMARY:Podstawy grafiki inżynierskiej Wykład
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Janusz Torzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T092500Z
-SUMMARY:Wprowadzenie do informatyki Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T094000Z
@@ -74,6 +60,20 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261002T060000Z
+DTEND:20261002T073500Z
+SUMMARY:Podstawy grafiki inżynierskiej Wykład
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Janusz Torzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T075000Z
+DTEND:20261002T092500Z
+SUMMARY:Wprowadzenie do informatyki Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261005T075000Z
 DTEND:20261005T092500Z
 SUMMARY:Matematyka I Wykład
@@ -90,30 +90,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T075000Z
 DTEND:20261006T092500Z
-SUMMARY:Podstawy grafiki inżynierskiej Wykład
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Janusz Torzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261006T075000Z
-DTEND:20261006T092500Z
 SUMMARY:Wprowadzenie do metrologii Wykład
 LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T094000Z
-DTEND:20261006T111500Z
+DTSTART:20261007T075000Z
+DTEND:20261007T092500Z
+SUMMARY:Podstawy grafiki inżynierskiej Wykład
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Janusz Torzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T094000Z
+DTEND:20261007T111500Z
 SUMMARY:Matematyka dyskretna I Wykład
 LOCATION:
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T060000Z
-DTEND:20261008T073500Z
-SUMMARY:Wprowadzenie do informatyki Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T075000Z
@@ -128,13 +121,6 @@ DTEND:20261008T111500Z
 SUMMARY:Matematyka II Ćwiczenia
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T094000Z
-DTEND:20261008T111500Z
-SUMMARY:Wprowadzenie do informatyki Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z
@@ -158,6 +144,20 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261009T060000Z
+DTEND:20261009T073500Z
+SUMMARY:Wprowadzenie do informatyki Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T094000Z
+DTEND:20261009T111500Z
+SUMMARY:Wprowadzenie do informatyki Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261012T075000Z
 DTEND:20261012T092500Z
 SUMMARY:Matematyka I Wykład
@@ -177,13 +177,6 @@ DTEND:20261012T172500Z
 SUMMARY:Wybrane zagadnienia prawa Wykład
 LOCATION:
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Piotr Kobielski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T092500Z
-SUMMARY:Matematyka I Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T075000Z
@@ -214,18 +207,18 @@ LOCATION:
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261014T075000Z
+DTEND:20261014T092500Z
+SUMMARY:Matematyka I Ćwiczenia
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261015T075000Z
 DTEND:20261015T092500Z
 SUMMARY:Matematyka II Wykład
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T092500Z
-SUMMARY:Wprowadzenie do informatyki Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T094000Z
@@ -256,6 +249,13 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261016T075000Z
+DTEND:20261016T092500Z
+SUMMARY:Wprowadzenie do informatyki Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261019T075000Z
 DTEND:20261019T092500Z
 SUMMARY:Matematyka I Wykład
@@ -284,13 +284,6 @@ LOCATION:
 DESCRIPTION:Spotkanie organizacyjne z kierownictwem Wydziału\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 5\nProwadzący: mgr inż. Adam Kutyła; dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T060000Z
-DTEND:20261020T073500Z
-SUMMARY:Matematyka dyskretna I Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:Matematyka I Ćwiczenia
@@ -312,11 +305,11 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T060000Z
-DTEND:20261022T092500Z
-SUMMARY:Wprowadzenie do informatyki Wykład
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:Matematyka dyskretna I Ćwiczenia
 LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T075000Z
@@ -333,20 +326,6 @@ LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T094000Z
-DTEND:20261022T111500Z
-SUMMARY:Podstawy grafiki inżynierskiej Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Katarzyna Jasik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T113000Z
-DTEND:20261022T130500Z
-SUMMARY:Wprowadzenie do informatyki Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261022T113000Z
 DTEND:20261022T130500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -361,18 +340,39 @@ LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T140000Z
-DTEND:20261022T153500Z
-SUMMARY:Wprowadzenie do informatyki Laboratorium
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261022T155000Z
 DTEND:20261022T172500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T060000Z
+DTEND:20261023T092500Z
+SUMMARY:Wprowadzenie do informatyki Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T094000Z
+DTEND:20261023T111500Z
+SUMMARY:Podstawy grafiki inżynierskiej Ćwiczenia
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Katarzyna Jasik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T113000Z
+DTEND:20261023T130500Z
+SUMMARY:Wprowadzenie do informatyki Laboratorium
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T140000Z
+DTEND:20261023T153500Z
+SUMMARY:Wprowadzenie do informatyki Laboratorium
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T085000Z
@@ -424,32 +424,11 @@ LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
-SUMMARY:Podstawy grafiki inżynierskiej Wykład
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Janusz Torzewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261029T085000Z
 DTEND:20261029T102500Z
 SUMMARY:Matematyka II Wykład
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
-SUMMARY:Wprowadzenie do informatyki Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T121500Z
-SUMMARY:Podstawy grafiki inżynierskiej Wykład
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -478,6 +457,27 @@ DTEND:20261029T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T070000Z
+DTEND:20261030T083500Z
+SUMMARY:Podstawy grafiki inżynierskiej Wykład
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Janusz Torzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T102500Z
+SUMMARY:Wprowadzenie do informatyki Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T104000Z
+DTEND:20261030T121500Z
+SUMMARY:Podstawy grafiki inżynierskiej Wykład
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T085000Z
@@ -606,13 +606,6 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T085000Z
-DTEND:20261110T102500Z
-SUMMARY:Wprowadzenie do metrologii Ćwiczenia
-LOCATION:
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Radosław Łyszkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:Matematyka I Ćwiczenia
@@ -620,18 +613,25 @@ LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T104000Z
-DTEND:20261110T121500Z
-SUMMARY:Matematyka II Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T123000Z
 DTEND:20261110T140500Z
 SUMMARY:Matematyka dyskretna I Ćwiczenia
 LOCATION:
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Anna  Cichocka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T085000Z
+DTEND:20261111T102500Z
+SUMMARY:Wprowadzenie do metrologii Ćwiczenia
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Radosław Łyszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T104000Z
+DTEND:20261111T121500Z
+SUMMARY:Matematyka II Ćwiczenia
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T085000Z
@@ -690,20 +690,6 @@ LOCATION:
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T085000Z
-DTEND:20261117T102500Z
-SUMMARY:Wprowadzenie do metrologii Ćwiczenia
-LOCATION:
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Radosław Łyszkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T104000Z
-DTEND:20261117T121500Z
-SUMMARY:Matematyka I Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:Wprowadzenie do metrologii Wykład
@@ -711,15 +697,29 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102500Z
+SUMMARY:Wprowadzenie do metrologii Ćwiczenia
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Radosław Łyszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T104000Z
+DTEND:20261118T121500Z
+SUMMARY:Matematyka I Ćwiczenia
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
 SUMMARY:Matematyka II Ćwiczenia
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T150000Z
-DTEND:20261117T182500Z
+DTSTART:20261118T150000Z
+DTEND:20261118T182500Z
 SUMMARY:Wprowadzenie do informatyki Laboratorium
 LOCATION:
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Adamczyk
@@ -774,13 +774,6 @@ LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T070000Z
-DTEND:20261124T083500Z
-SUMMARY:Matematyka dyskretna I Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:Ochrona własności intelektualnych Wykład
@@ -795,18 +788,25 @@ LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T104000Z
-DTEND:20261124T121500Z
-SUMMARY:Ochrona własności intelektualnych Ćwiczenia
-LOCATION:
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Rybiński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:Wprowadzenie do metrologii Ćwiczenia
 LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Radosław Łyszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:Matematyka dyskretna I Ćwiczenia
+LOCATION:
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:Ochrona własności intelektualnych Ćwiczenia
+LOCATION:
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z
@@ -879,13 +879,6 @@ LOCATION:
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T085000Z
-DTEND:20261201T102500Z
-SUMMARY:Matematyka II Wykład
-LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T104000Z
 DTEND:20261201T121500Z
 SUMMARY:Matematyka II Ćwiczenia
@@ -893,18 +886,25 @@ LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T104000Z
-DTEND:20261201T121500Z
-SUMMARY:Wprowadzenie do metrologii Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Zarański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
 SUMMARY:Wprowadzenie do metrologii Ćwiczenia
 LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Radosław Łyszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T085000Z
+DTEND:20261202T102500Z
+SUMMARY:Matematyka II Wykład
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T104000Z
+DTEND:20261202T121500Z
+SUMMARY:Wprowadzenie do metrologii Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T085000Z
@@ -970,25 +970,11 @@ LOCATION:
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T085000Z
-DTEND:20261208T102500Z
-SUMMARY:Matematyka II Wykład
-LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261208T104000Z
 DTEND:20261208T121500Z
 SUMMARY:Matematyka II Ćwiczenia
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T104000Z
-DTEND:20261208T121500Z
-SUMMARY:Wprowadzenie do metrologii Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T123000Z
@@ -998,11 +984,18 @@ LOCATION:
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T102500Z
-SUMMARY:Matematyka I Ćwiczenia
+DTSTART:20261209T085000Z
+DTEND:20261209T102500Z
+SUMMARY:Matematyka II Wykład
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T104000Z
+DTEND:20261209T121500Z
+SUMMARY:Wprowadzenie do metrologii Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T085000Z
@@ -1038,6 +1031,13 @@ DTEND:20261210T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T085000Z
+DTEND:20261211T102500Z
+SUMMARY:Matematyka I Ćwiczenia
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T085000Z
@@ -1089,18 +1089,18 @@ LOCATION:
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
-SUMMARY:Matematyka dyskretna I Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261217T085000Z
 DTEND:20261217T102500Z
 SUMMARY:Matematyka II Wykład
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T070000Z
+DTEND:20261218T083500Z
+SUMMARY:Matematyka dyskretna I Ćwiczenia
+LOCATION:
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T070000Z
@@ -1110,25 +1110,11 @@ LOCATION:
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261231T085000Z
-DTEND:20261231T102500Z
-SUMMARY:Matematyka II Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261231T104000Z
 DTEND:20261231T121500Z
 SUMMARY:Etyka zawodowa Wykład
 LOCATION:
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Krzysztof Sołoducha
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261231T104000Z
-DTEND:20261231T121500Z
-SUMMARY:Wprowadzenie do metrologii Ćwiczenia
-LOCATION:
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261231T123000Z
@@ -1150,6 +1136,20 @@ DTEND:20261231T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T085000Z
+DTEND:20270101T102500Z
+SUMMARY:Matematyka II Ćwiczenia
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T104000Z
+DTEND:20270101T121500Z
+SUMMARY:Wprowadzenie do metrologii Ćwiczenia
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270104T085000Z
@@ -1194,13 +1194,6 @@ LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T085000Z
-DTEND:20270107T102500Z
-SUMMARY:Matematyka II Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270107T104000Z
 DTEND:20270107T121500Z
 SUMMARY:Matematyka I Ćwiczenia
@@ -1227,6 +1220,13 @@ DTEND:20270107T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T085000Z
+DTEND:20270108T102500Z
+SUMMARY:Matematyka II Ćwiczenia
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270111T085000Z
@@ -1259,13 +1259,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T085000Z
 DTEND:20270112T102500Z
-SUMMARY:Matematyka I Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270112T085000Z
-DTEND:20270112T102500Z
 SUMMARY:Matematyka II Ćwiczenia
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
@@ -1278,11 +1271,11 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Radosław Łyszkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T070000Z
-DTEND:20270114T083500Z
-SUMMARY:Matematyka dyskretna I Ćwiczenia
+DTSTART:20270113T085000Z
+DTEND:20270113T102500Z
+SUMMARY:Matematyka I Ćwiczenia
 LOCATION:
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T085000Z
@@ -1290,13 +1283,6 @@ DTEND:20270114T102500Z
 SUMMARY:Matematyka II Wykład
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270114T085000Z
-DTEND:20270114T102500Z
-SUMMARY:Matematyka II Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T123000Z
@@ -1318,6 +1304,20 @@ DTEND:20270114T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T070000Z
+DTEND:20270115T083500Z
+SUMMARY:Matematyka dyskretna I Ćwiczenia
+LOCATION:
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T085000Z
+DTEND:20270115T102500Z
+SUMMARY:Matematyka II Ćwiczenia
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T085000Z
@@ -1343,20 +1343,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T085000Z
 DTEND:20270119T102500Z
-SUMMARY:Matematyka I Ćwiczenia
-LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270119T085000Z
-DTEND:20270119T102500Z
 SUMMARY:Matematyka II Ćwiczenia
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T104000Z
-DTEND:20270119T121500Z
+DTSTART:20270120T085000Z
+DTEND:20270120T102500Z
+SUMMARY:Matematyka I Ćwiczenia
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T104000Z
+DTEND:20270120T121500Z
 SUMMARY:Wprowadzenie do metrologii Ćwiczenia
 LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Radosław Łyszkowski
@@ -1374,13 +1374,6 @@ DTEND:20270121T102500Z
 SUMMARY:Matematyka II Wykład
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270121T085000Z
-DTEND:20270121T102500Z
-SUMMARY:Wprowadzenie do informatyki Wykład
-LOCATION:
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T104000Z
@@ -1409,6 +1402,13 @@ DTEND:20270121T182500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T085000Z
+DTEND:20270122T102500Z
+SUMMARY:Wprowadzenie do informatyki Wykład
+LOCATION:
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270128T085000Z

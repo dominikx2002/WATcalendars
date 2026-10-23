@@ -25,25 +25,11 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T094000Z
-DTEND:20260929T111500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260929T113000Z
 DTEND:20260929T130500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260929T113000Z
-DTEND:20260929T130500Z
-SUMMARY:Zarządzanie projektami Ćwiczenia
-LOCATION:
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260929T140000Z
@@ -53,8 +39,22 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T140000Z
-DTEND:20260929T172500Z
+DTSTART:20260930T094000Z
+DTEND:20260930T111500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T113000Z
+DTEND:20260930T130500Z
+SUMMARY:Zarządzanie projektami Ćwiczenia
+LOCATION:
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T140000Z
+DTEND:20260930T172500Z
 SUMMARY:Trends in Computer Technology Wykład
 LOCATION:
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
@@ -67,25 +67,11 @@ LOCATION:
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T060000Z
-DTEND:20261001T073500Z
-SUMMARY:Zarządzanie bazami danych Wykład
-LOCATION:
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261001T075000Z
 DTEND:20261001T092500Z
 SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Wykład
 LOCATION:
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Roman Wantoch-Rekowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T111500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpr.  Natalia Majewska; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T094000Z
@@ -102,18 +88,32 @@ LOCATION:
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
-SUMMARY:Zarządzanie bazami danych Wykład
-LOCATION:
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261001T140000Z
 DTEND:20261001T153500Z
 SUMMARY:Modelowanie i symulacja pola walki Wykład
 LOCATION:
 DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T060000Z
+DTEND:20261002T073500Z
+SUMMARY:Zarządzanie bazami danych Wykład
+LOCATION:
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T075000Z
+DTEND:20261002T111500Z
+SUMMARY:Zabezpieczenie medyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpr.  Natalia Majewska; st. kpr. Anna Polankiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T113000Z
+DTEND:20261002T130500Z
+SUMMARY:Zarządzanie bazami danych Wykład
+LOCATION:
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T075000Z
@@ -151,13 +151,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T060000Z
-DTEND:20261006T073500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261006T094000Z
 DTEND:20261006T111500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -179,6 +172,13 @@ LOCATION:
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261007T060000Z
+DTEND:20261007T073500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261008T060000Z
 DTEND:20261008T073500Z
 SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Wykład
@@ -186,25 +186,11 @@ LOCATION:
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T060000Z
-DTEND:20261008T073500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: kpr.  Natalia Majewska; st. kpr. Anna Polankiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261008T075000Z
 DTEND:20261008T092500Z
 SUMMARY:Stochastyczne modele eksploatacji systemów komputerowych Wykład
 LOCATION:
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T094000Z
-DTEND:20261008T130500Z
-SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Wykład
-LOCATION:
-DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T094000Z
@@ -228,8 +214,22 @@ LOCATION:
 DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T140000Z
-DTEND:20261008T153500Z
+DTSTART:20261009T060000Z
+DTEND:20261009T073500Z
+SUMMARY:Zabezpieczenie medyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: kpr.  Natalia Majewska; st. kpr. Anna Polankiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T094000Z
+DTEND:20261009T130500Z
+SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Wykład
+LOCATION:
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Roman Wantoch-Rekowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T140000Z
+DTEND:20261009T153500Z
 SUMMARY:Technologie mobilne Wykład
 LOCATION:
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
@@ -264,24 +264,10 @@ DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T075000Z
-DTEND:20261013T092500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T075000Z
 DTEND:20261013T111500Z
 SUMMARY:Zabezpieczenie medyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T111500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T113000Z
@@ -291,13 +277,6 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T113000Z
-DTEND:20261013T130500Z
-SUMMARY:Zarządzanie projektami Wykład
-LOCATION:
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261013T140000Z
 DTEND:20261013T153500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
@@ -305,8 +284,29 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T140000Z
-DTEND:20261013T153500Z
+DTSTART:20261014T075000Z
+DTEND:20261014T092500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T094000Z
+DTEND:20261014T111500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T113000Z
+DTEND:20261014T130500Z
+SUMMARY:Zarządzanie projektami Wykład
+LOCATION:
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T140000Z
+DTEND:20261014T153500Z
 SUMMARY:Zarządzanie projektami Wykład
 LOCATION:
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
@@ -324,20 +324,6 @@ DTEND:20261015T092500Z
 SUMMARY:Diagnostyka i wiarygodność SK zal popr
 LOCATION:
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: zal popr\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T092500Z
-SUMMARY:Technologie Internetu Rzeczy Wykład
-LOCATION:
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T130500Z
-SUMMARY:Technologie mobilne Laboratorium
-LOCATION:
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T094000Z
@@ -361,8 +347,22 @@ LOCATION:
 DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T155000Z
-DTEND:20261015T172500Z
+DTSTART:20261016T075000Z
+DTEND:20261016T092500Z
+SUMMARY:Technologie Internetu Rzeczy Wykład
+LOCATION:
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T094000Z
+DTEND:20261016T130500Z
+SUMMARY:Technologie mobilne Laboratorium
+LOCATION:
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T155000Z
+DTEND:20261016T172500Z
 SUMMARY:Wszystkie przedmioty prowadzącego zal popr
 LOCATION:
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: zal popr\nNumer zajęć: 6\nProwadzący: dr hab. Piotr Kosiuczenko
@@ -394,13 +394,6 @@ DTEND:20261019T153500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T060000Z
-DTEND:20261020T092500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T060000Z
@@ -438,8 +431,22 @@ LOCATION:
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T140000Z
-DTEND:20261020T172500Z
+DTSTART:20261021T060000Z
+DTEND:20261021T092500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T140000Z
+DTEND:20261021T172500Z
 SUMMARY:Zarządzanie projektami Ćwiczenia
 LOCATION:
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
@@ -450,13 +457,6 @@ DTEND:20261022T073500Z
 SUMMARY:Projekt zespołowy Projekt
 LOCATION:
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T060000Z
-DTEND:20261022T073500Z
-SUMMARY:Technologie Internetu Rzeczy Wykład
-LOCATION:
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T075000Z
@@ -485,6 +485,13 @@ DTEND:20261022T172500Z
 SUMMARY:Zarządzanie projektami Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T060000Z
+DTEND:20261023T073500Z
+SUMMARY:Technologie Internetu Rzeczy Wykład
+LOCATION:
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T075000Z
@@ -517,23 +524,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
-SUMMARY:Standardy w projektowaniu systemów dialogowych Wykład
-LOCATION:
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T102500Z
 SUMMARY:Technologie Internetu Rzeczy Laboratorium
 LOCATION:
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T121500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T104000Z
@@ -543,20 +536,6 @@ LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T123000Z
-DTEND:20261027T140500Z
-SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Wykład
-LOCATION:
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mjr dr inż. Marzena Walkowiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T150000Z
-DTEND:20261027T163500Z
-SUMMARY:Stochastyczne modele eksploatacji systemów komputerowych Ćwiczenia
-LOCATION:
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T150000Z
 DTEND:20261027T163500Z
 SUMMARY:Zabezpieczenie medyczne Ćwiczenia
@@ -564,8 +543,36 @@ LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T165000Z
-DTEND:20261027T182500Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:Standardy w projektowaniu systemów dialogowych Wykład
+LOCATION:
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
+SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Wykład
+LOCATION:
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mjr dr inż. Marzena Walkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T150000Z
+DTEND:20261028T163500Z
+SUMMARY:Stochastyczne modele eksploatacji systemów komputerowych Ćwiczenia
+LOCATION:
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T165000Z
+DTEND:20261028T182500Z
 SUMMARY:Wf_E - Egzamin
 LOCATION:
 DESCRIPTION:Wf_E -\nRodzaj zajęć: Egzamin\nNumer zajęć: 6
@@ -573,30 +580,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z
 DTEND:20261029T083500Z
-SUMMARY:Projekt zespołowy Projekt
-LOCATION:
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
 SUMMARY:Stochastyczne modele eksploatacji systemów komputerowych Wykład
 LOCATION:
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
-SUMMARY:Technologie Internetu Rzeczy Wykład
-LOCATION:
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T140500Z
-SUMMARY:Technologie mobilne Laboratorium
-LOCATION:
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -618,6 +604,27 @@ DTEND:20261029T182500Z
 SUMMARY:Zarządzanie projektami Ćwiczenia
 LOCATION:
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T070000Z
+DTEND:20261030T083500Z
+SUMMARY:Projekt zespołowy Projekt
+LOCATION:
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T102500Z
+SUMMARY:Technologie Internetu Rzeczy Wykład
+LOCATION:
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T104000Z
+DTEND:20261030T140500Z
+SUMMARY:Technologie mobilne Laboratorium
+LOCATION:
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261031T085000Z
@@ -657,13 +664,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T070000Z
 DTEND:20261103T083500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261103T070000Z
-DTEND:20261103T083500Z
 SUMMARY:Technologie Internetu Rzeczy Laboratorium
 LOCATION:
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
@@ -690,25 +690,11 @@ LOCATION:
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
-SUMMARY:Technologie Internetu Rzeczy Wykład
+DTSTART:20261104T070000Z
+DTEND:20261104T083500Z
+SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T085000Z
-DTEND:20261105T102500Z
-SUMMARY:Zarządzanie bazami danych Laboratorium
-LOCATION:
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T104000Z
-DTEND:20261105T140500Z
-SUMMARY:Technologie Internetu Rzeczy Laboratorium
-LOCATION:
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
@@ -730,6 +716,27 @@ DTEND:20261105T182500Z
 SUMMARY:Zarządzanie projektami Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T070000Z
+DTEND:20261106T083500Z
+SUMMARY:Technologie Internetu Rzeczy Wykład
+LOCATION:
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T085000Z
+DTEND:20261106T102500Z
+SUMMARY:Zarządzanie bazami danych Laboratorium
+LOCATION:
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T104000Z
+DTEND:20261106T140500Z
+SUMMARY:Technologie Internetu Rzeczy Laboratorium
+LOCATION:
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261107T085000Z
@@ -762,13 +769,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T085000Z
 DTEND:20261110T102500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T085000Z
-DTEND:20261110T102500Z
 SUMMARY:Regulaminy SZ RP Wykład
 LOCATION:
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk rez. mgr Marcin Bomba
@@ -783,23 +783,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T123000Z
 DTEND:20261110T140500Z
-SUMMARY:Trends in Computer Technology Wykład
-LOCATION:
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T123000Z
-DTEND:20261110T140500Z
 SUMMARY:Zabezpieczenie medyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T150000Z
-DTEND:20261110T163500Z
-SUMMARY:Trends in Computer Technology Wykład
-LOCATION:
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -809,25 +795,39 @@ LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261111T085000Z
+DTEND:20261111T102500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T104000Z
+DTEND:20261111T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T123000Z
+DTEND:20261111T140500Z
+SUMMARY:Trends in Computer Technology Wykład
+LOCATION:
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T150000Z
+DTEND:20261111T163500Z
+SUMMARY:Trends in Computer Technology Wykład
+LOCATION:
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T070000Z
 DTEND:20261112T083500Z
 SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Wykład
 LOCATION:
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mjr dr inż. Marzena Walkowiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T070000Z
-DTEND:20261112T083500Z
-SUMMARY:Zarządzanie bazami danych Laboratorium
-LOCATION:
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T085000Z
-DTEND:20261112T102500Z
-SUMMARY:Technologie Internetu Rzeczy Wykład
-LOCATION:
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T085000Z
@@ -839,23 +839,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T104000Z
 DTEND:20261112T121500Z
-SUMMARY:Standardy w projektowaniu systemów dialogowych Wykład
-LOCATION:
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T123000Z
-DTEND:20261112T140500Z
-SUMMARY:Modelowanie i symulacja pola walki Wykład
-LOCATION:
-DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T123000Z
@@ -870,6 +856,34 @@ DTEND:20261112T163500Z
 SUMMARY:Technologie mobilne Laboratorium
 LOCATION:
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:Zarządzanie bazami danych Laboratorium
+LOCATION:
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T085000Z
+DTEND:20261113T102500Z
+SUMMARY:Technologie Internetu Rzeczy Wykład
+LOCATION:
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T104000Z
+DTEND:20261113T121500Z
+SUMMARY:Standardy w projektowaniu systemów dialogowych Wykład
+LOCATION:
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T123000Z
+DTEND:20261113T140500Z
+SUMMARY:Modelowanie i symulacja pola walki Wykład
+LOCATION:
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T085000Z
@@ -902,13 +916,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T085000Z
 DTEND:20261117T102500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T085000Z
-DTEND:20261117T102500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
@@ -921,20 +928,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T104000Z
-DTEND:20261117T121500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Paweł Mosór
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T150000Z
 DTEND:20261117T163500Z
 SUMMARY:Stochastyczne modele eksploatacji systemów komputerowych Ćwiczenia
@@ -942,8 +935,29 @@ LOCATION:
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T150000Z
-DTEND:20261117T182500Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T104000Z
+DTEND:20261118T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Paweł Mosór
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
+SUMMARY:Zabezpieczenie medyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T150000Z
+DTEND:20261118T182500Z
 SUMMARY:Zabezpieczenie medyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
@@ -954,13 +968,6 @@ DTEND:20261119T102500Z
 SUMMARY:Projekt zespołowy Projekt
 LOCATION:
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:Technologie Internetu Rzeczy Wykład
-LOCATION:
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z
@@ -982,6 +989,13 @@ DTEND:20261119T182500Z
 SUMMARY:Zarządzanie projektami Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T070000Z
+DTEND:20261120T083500Z
+SUMMARY:Technologie Internetu Rzeczy Wykład
+LOCATION:
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T085000Z
@@ -1013,13 +1027,6 @@ DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T070000Z
-DTEND:20261124T102500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T070000Z
 DTEND:20261124T083500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
 LOCATION:
@@ -1047,13 +1054,6 @@ LOCATION:
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T123000Z
-DTEND:20261124T140500Z
-SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Ćwiczenia
-LOCATION:
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr dr inż. Marzena Walkowiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T150000Z
 DTEND:20261124T163500Z
 SUMMARY:Stochastyczne modele eksploatacji systemów komputerowych Ćwiczenia
@@ -1061,8 +1061,29 @@ LOCATION:
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T150000Z
-DTEND:20261124T182500Z
+DTSTART:20261125T070000Z
+DTEND:20261125T102500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Ćwiczenia
+LOCATION:
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr dr inż. Marzena Walkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T150000Z
+DTEND:20261125T182500Z
 SUMMARY:Trends in Computer Technology Wykład
 LOCATION:
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
@@ -1073,20 +1094,6 @@ DTEND:20261126T102500Z
 SUMMARY:Projekt zespołowy Projekt
 LOCATION:
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T085000Z
-DTEND:20261126T102500Z
-SUMMARY:Technologie Internetu Rzeczy Laboratorium
-LOCATION:
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T104000Z
-DTEND:20261126T140500Z
-SUMMARY:Modelowanie i symulacja pola walki Laboratorium
-LOCATION:
-DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z
@@ -1108,6 +1115,20 @@ DTEND:20261126T182500Z
 SUMMARY:Zarządzanie bazami danych Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T085000Z
+DTEND:20261127T102500Z
+SUMMARY:Technologie Internetu Rzeczy Laboratorium
+LOCATION:
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T104000Z
+DTEND:20261127T140500Z
+SUMMARY:Modelowanie i symulacja pola walki Laboratorium
+LOCATION:
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261128T085000Z
@@ -1136,13 +1157,6 @@ DTEND:20261130T163500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T070000Z
-DTEND:20261201T083500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
@@ -1180,8 +1194,15 @@ LOCATION:
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T150000Z
-DTEND:20261201T163500Z
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T150000Z
+DTEND:20261202T163500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Anna Rybak
@@ -1194,20 +1215,6 @@ LOCATION:
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T070000Z
-DTEND:20261203T083500Z
-SUMMARY:Technologie Internetu Rzeczy Laboratorium
-LOCATION:
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T085000Z
-DTEND:20261203T102500Z
-SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Laboratorium
-LOCATION:
-DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Roman Wantoch-Rekowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261203T104000Z
 DTEND:20261203T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -1215,18 +1222,32 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T104000Z
-DTEND:20261203T140500Z
-SUMMARY:Zarządzanie projektami Ćwiczenia
-LOCATION:
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261203T123000Z
 DTEND:20261203T140500Z
 SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego Ćwiczenia
 LOCATION:
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr dr inż. Marzena Walkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T070000Z
+DTEND:20261204T083500Z
+SUMMARY:Technologie Internetu Rzeczy Laboratorium
+LOCATION:
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T085000Z
+DTEND:20261204T102500Z
+SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Laboratorium
+LOCATION:
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Roman Wantoch-Rekowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T104000Z
+DTEND:20261204T140500Z
+SUMMARY:Zarządzanie projektami Ćwiczenia
+LOCATION:
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T085000Z
@@ -1266,23 +1287,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T085000Z
 DTEND:20261208T102500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T085000Z
-DTEND:20261208T102500Z
 SUMMARY:Topografia wojskowa Ćwiczenia
 LOCATION:
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Kazimierz Gołoś
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T104000Z
-DTEND:20261208T121500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Paweł Mosór
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T123000Z
@@ -1294,16 +1301,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T150000Z
 DTEND:20261208T163500Z
-SUMMARY:Stochastyczne modele eksploatacji systemów komputerowych Ćwiczenia
-LOCATION:
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T150000Z
-DTEND:20261208T163500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T085000Z
+DTEND:20261209T102500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T104000Z
+DTEND:20261209T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Paweł Mosór
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T150000Z
+DTEND:20261209T163500Z
+SUMMARY:Stochastyczne modele eksploatacji systemów komputerowych Ćwiczenia
+LOCATION:
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
@@ -1311,13 +1332,6 @@ DTEND:20261210T102500Z
 SUMMARY:Projekt zespołowy Projekt
 LOCATION:
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T070000Z
-DTEND:20261210T121500Z
-SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Laboratorium
-LOCATION:
-DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T104000Z
@@ -1334,8 +1348,15 @@ LOCATION:
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T123000Z
-DTEND:20261210T140500Z
+DTSTART:20261211T070000Z
+DTEND:20261211T121500Z
+SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Laboratorium
+LOCATION:
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Roman Wantoch-Rekowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T123000Z
+DTEND:20261211T140500Z
 SUMMARY:Zarządzanie projektami Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
@@ -1383,20 +1404,6 @@ LOCATION:
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T085000Z
-DTEND:20261215T102500Z
-SUMMARY:Standardy w projektowaniu systemów dialogowych Projekt
-LOCATION:
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Jerzy Dorobisz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T104000Z
-DTEND:20261215T140500Z
-SUMMARY:Technologie Internetu Rzeczy Laboratorium
-LOCATION:
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T104000Z
 DTEND:20261215T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -1411,6 +1418,20 @@ LOCATION:
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:Standardy w projektowaniu systemów dialogowych Projekt
+LOCATION:
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T140500Z
+SUMMARY:Technologie Internetu Rzeczy Laboratorium
+LOCATION:
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T070000Z
 DTEND:20261217T083500Z
 SUMMARY:Projekt zespołowy Projekt
@@ -1418,8 +1439,8 @@ LOCATION:
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
+DTSTART:20261218T070000Z
+DTEND:20261218T083500Z
 SUMMARY:Systemy rzeczywistości rozszerzonej i wirtualnej Laboratorium
 LOCATION:
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Roman Wantoch-Rekowski
@@ -1432,18 +1453,11 @@ LOCATION:
 DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261222T070000Z
-DTEND:20261222T083500Z
+DTSTART:20261223T070000Z
+DTEND:20261223T083500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261231T085000Z
-DTEND:20261231T102500Z
-SUMMARY:Projekt zespołowy Projekt
-LOCATION:
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261231T085000Z
@@ -1460,8 +1474,15 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261231T123000Z
-DTEND:20261231T140500Z
+DTSTART:20270101T085000Z
+DTEND:20270101T102500Z
+SUMMARY:Projekt zespołowy Projekt
+LOCATION:
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T123000Z
+DTEND:20270101T140500Z
 SUMMARY:Zarządzanie bazami danych Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Koszela
@@ -1481,13 +1502,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T085000Z
-DTEND:20270105T102500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270105T104000Z
 DTEND:20270105T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -1502,13 +1516,6 @@ LOCATION:
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T123000Z
-DTEND:20270105T140500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mł.chor. Maciej Koczański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270105T150000Z
 DTEND:20270105T163500Z
 SUMMARY:Standardy w projektowaniu systemów dialogowych Laboratorium
@@ -1516,18 +1523,32 @@ LOCATION:
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T150000Z
-DTEND:20270105T182500Z
+DTSTART:20270106T085000Z
+DTEND:20270106T102500Z
+SUMMARY:Język angielski - Ćwiczenia
+LOCATION:
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270106T104000Z
+DTEND:20270106T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270106T123000Z
+DTEND:20270106T140500Z
+SUMMARY:Zabezpieczenie medyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mł.chor. Maciej Koczański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270106T150000Z
+DTEND:20270106T182500Z
 SUMMARY:Zabezpieczenie medyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270107T070000Z
-DTEND:20270107T102500Z
-SUMMARY:Projekt zespołowy Projekt
-LOCATION:
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T070000Z
@@ -1537,11 +1558,25 @@ LOCATION:
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270107T085000Z
+DTEND:20270107T102500Z
+SUMMARY:Projekt zespołowy Projekt
+LOCATION:
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270107T104000Z
 DTEND:20270107T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T070000Z
+DTEND:20270108T083500Z
+SUMMARY:Projekt zespołowy Projekt
+LOCATION:
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270109T085000Z
@@ -1579,8 +1614,8 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T104000Z
-DTEND:20270112T121500Z
+DTSTART:20270113T104000Z
+DTEND:20270113T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Paweł Mosór
@@ -1621,20 +1656,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T070000Z
-DTEND:20270119T083500Z
-SUMMARY:Język angielski - Ćwiczenia
-LOCATION:
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270119T085000Z
-DTEND:20270119T102500Z
-SUMMARY:Technologie Internetu Rzeczy Laboratorium
-LOCATION:
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270119T104000Z
 DTEND:20270119T121500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
@@ -1656,11 +1677,25 @@ LOCATION:
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T085000Z
-DTEND:20270121T121500Z
-SUMMARY:Standardy w projektowaniu systemów dialogowych Projekt
+DTSTART:20270120T070000Z
+DTEND:20270120T083500Z
+SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Jerzy Dorobisz
+DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T085000Z
+DTEND:20270120T102500Z
+SUMMARY:Technologie Internetu Rzeczy Laboratorium
+LOCATION:
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T104000Z
+DTEND:20270120T121500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T104000Z
@@ -1670,6 +1705,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270122T085000Z
+DTEND:20270122T121500Z
+SUMMARY:Standardy w projektowaniu systemów dialogowych Projekt
+LOCATION:
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270123T085000Z
 DTEND:20270123T102500Z
 SUMMARY:XWychowanie fizyczne - Ćwiczenia
@@ -1677,15 +1719,15 @@ LOCATION:
 DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270126T070000Z
-DTEND:20270126T083500Z
+DTSTART:20270127T070000Z
+DTEND:20270127T083500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270128T070000Z
-DTEND:20270128T083500Z
+DTSTART:20270129T070000Z
+DTEND:20270129T083500Z
 SUMMARY:Projekt zespołowy Projekt
 LOCATION:
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Gumowski

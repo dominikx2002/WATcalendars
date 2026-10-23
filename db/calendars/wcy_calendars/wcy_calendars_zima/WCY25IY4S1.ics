@@ -25,13 +25,6 @@ LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T075000Z
-DTEND:20260929T111500Z
-SUMMARY:Systemy wbudowane Wykład
-LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260929T094000Z
 DTEND:20260929T111500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -46,18 +39,25 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Konrad Zubko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T113000Z
-DTEND:20260929T130500Z
-SUMMARY:Systemy Operacyjne Wykład
-LOCATION:
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260929T155000Z
 DTEND:20260929T172500Z
 SUMMARY:Język obcy (II) międzywydziałowy - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T075000Z
+DTEND:20260930T111500Z
+SUMMARY:Systemy wbudowane Wykład
+LOCATION:
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T113000Z
+DTEND:20260930T130500Z
+SUMMARY:Systemy Operacyjne Wykład
+LOCATION:
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T060000Z
@@ -67,25 +67,25 @@ LOCATION:
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T092500Z
-SUMMARY:Bazy danych Wykład
-LOCATION:
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Józef Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T130500Z
-SUMMARY:Algorytmy i struktury danych Laboratorium
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261001T094000Z
 DTEND:20261001T130500Z
 SUMMARY:Programowanie obiektowe Wykład
 LOCATION:
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T075000Z
+DTEND:20261002T092500Z
+SUMMARY:Bazy danych Wykład
+LOCATION:
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T094000Z
+DTEND:20261002T130500Z
+SUMMARY:Algorytmy i struktury danych Laboratorium
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T075000Z
@@ -116,20 +116,6 @@ LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T075000Z
-DTEND:20261006T092500Z
-SUMMARY:Statystyka matematyczna Wykład
-LOCATION:
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Arkadiusz Orłowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261006T094000Z
-DTEND:20261006T130500Z
-SUMMARY:Bazy danych Ćwiczenia
-LOCATION:
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Maciej Kiedrowicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261006T094000Z
 DTEND:20261006T111500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -151,11 +137,18 @@ LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T060000Z
-DTEND:20261008T073500Z
-SUMMARY:Bazy danych Wykład
+DTSTART:20261007T075000Z
+DTEND:20261007T092500Z
+SUMMARY:Statystyka matematyczna Wykład
 LOCATION:
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T094000Z
+DTEND:20261007T130500Z
+SUMMARY:Bazy danych Ćwiczenia
+LOCATION:
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T060000Z
@@ -172,25 +165,11 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Iwona Jakubowska; dr inż Kinga Majkowycz; dr inż. Aleksandra Walewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T075000Z
-DTEND:20261008T092500Z
-SUMMARY:Systemy Operacyjne Wykład
-LOCATION:
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261008T094000Z
 DTEND:20261008T111500Z
 SUMMARY:Fizyka 2 Ćwiczenia
 LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Urszula Chodorow
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T094000Z
-DTEND:20261008T130500Z
-SUMMARY:Programowanie obiektowe Wykład
-LOCATION:
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z
@@ -207,8 +186,29 @@ LOCATION:
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T140000Z
-DTEND:20261008T172500Z
+DTSTART:20261009T060000Z
+DTEND:20261009T073500Z
+SUMMARY:Bazy danych Wykład
+LOCATION:
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T075000Z
+DTEND:20261009T092500Z
+SUMMARY:Systemy Operacyjne Wykład
+LOCATION:
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T094000Z
+DTEND:20261009T130500Z
+SUMMARY:Programowanie obiektowe Wykład
+LOCATION:
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T140000Z
+DTEND:20261009T172500Z
 SUMMARY:Systemy wbudowane Laboratorium
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Goluch
@@ -230,13 +230,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T060000Z
 DTEND:20261013T073500Z
-SUMMARY:Statystyka matematyczna Wykład
-LOCATION:
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Arkadiusz Orłowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T060000Z
-DTEND:20261013T073500Z
 SUMMARY:Wszystkie przedmioty prowadzącego zal popr
 LOCATION:
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Jakubowski
@@ -247,13 +240,6 @@ DTEND:20261013T092500Z
 SUMMARY:Architektura i organizacja komputerów Wykład
 LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T111500Z
-SUMMARY:Systemy wbudowane Wykład
-LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T094000Z
@@ -277,25 +263,25 @@ LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261014T060000Z
+DTEND:20261014T073500Z
+SUMMARY:Statystyka matematyczna Wykład
+LOCATION:
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T075000Z
+DTEND:20261014T111500Z
+SUMMARY:Systemy wbudowane Wykład
+LOCATION:
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261015T075000Z
 DTEND:20261015T111500Z
 SUMMARY:Bazy danych Ćwiczenia
 LOCATION:
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Maciej Kiedrowicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T092500Z
-SUMMARY:Programowanie obiektowe Wykład
-LOCATION:
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Adrian Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T113000Z
-DTEND:20261015T130500Z
-SUMMARY:Architektura i organizacja komputerów Laboratorium
-LOCATION:
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T113000Z
@@ -305,8 +291,22 @@ LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 4\nProwadzący: prof.dr hab.inż. Zbigniew Raszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T140000Z
-DTEND:20261015T153500Z
+DTSTART:20261016T075000Z
+DTEND:20261016T092500Z
+SUMMARY:Programowanie obiektowe Wykład
+LOCATION:
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T113000Z
+DTEND:20261016T130500Z
+SUMMARY:Architektura i organizacja komputerów Laboratorium
+LOCATION:
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T140000Z
+DTEND:20261016T153500Z
 SUMMARY:Architektura i organizacja komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Artur Miktus
@@ -331,13 +331,6 @@ DTEND:20261019T172500Z
 SUMMARY:Programowanie obiektowe Laboratorium
 LOCATION:
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T075000Z
-DTEND:20261020T092500Z
-SUMMARY:Statystyka matematyczna Wykład
-LOCATION:
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T075000Z
@@ -368,11 +361,11 @@ LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T060000Z
-DTEND:20261022T092500Z
-SUMMARY:Programowanie obiektowe Wykład
+DTSTART:20261021T075000Z
+DTEND:20261021T092500Z
+SUMMARY:Statystyka matematyczna Wykład
 LOCATION:
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T060000Z
@@ -389,13 +382,6 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Iwona Jakubowska; dr inż Kinga Majkowycz; dr inż. Aleksandra Walewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T094000Z
-DTEND:20261022T111500Z
-SUMMARY:Systemy Operacyjne Wykład
-LOCATION:
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261022T113000Z
 DTEND:20261022T130500Z
 SUMMARY:Fizyka 2 Ćwiczenia
@@ -408,6 +394,20 @@ DTEND:20261022T172500Z
 SUMMARY:Systemy wbudowane Laboratorium
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Goluch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T060000Z
+DTEND:20261023T092500Z
+SUMMARY:Programowanie obiektowe Wykład
+LOCATION:
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T094000Z
+DTEND:20261023T111500Z
+SUMMARY:Systemy Operacyjne Wykład
+LOCATION:
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T104000Z
@@ -431,25 +431,11 @@ LOCATION:
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T070000Z
-DTEND:20261027T083500Z
-SUMMARY:Statystyka matematyczna Wykład
-LOCATION:
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Arkadiusz Orłowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:Systemy Operacyjne Laboratorium
 LOCATION:
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sławomir Matusiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T121500Z
-SUMMARY:Systemy wbudowane Wykład
-LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T104000Z
@@ -466,13 +452,6 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Konrad Zubko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T150000Z
-DTEND:20261027T182500Z
-SUMMARY:Algorytmy i struktury danych Laboratorium
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T165000Z
 DTEND:20261027T182500Z
 SUMMARY:Język obcy (II) międzywydziałowy - Ćwiczenia
@@ -480,25 +459,25 @@ LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T102500Z
-SUMMARY:Programowanie obiektowe Wykład
+DTSTART:20261028T070000Z
+DTEND:20261028T083500Z
+SUMMARY:Statystyka matematyczna Wykład
 LOCATION:
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T121500Z
-SUMMARY:Systemy Operacyjne Wykład
+DTSTART:20261028T085000Z
+DTEND:20261028T121500Z
+SUMMARY:Systemy wbudowane Wykład
 LOCATION:
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T123000Z
-DTEND:20261029T140500Z
-SUMMARY:Bazy danych Laboratorium
+DTSTART:20261028T150000Z
+DTEND:20261028T182500Z
+SUMMARY:Algorytmy i struktury danych Laboratorium
 LOCATION:
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Roman Wantoch-Rekowski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T123000Z
@@ -515,8 +494,29 @@ LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T150000Z
-DTEND:20261029T163500Z
+DTSTART:20261030T070000Z
+DTEND:20261030T102500Z
+SUMMARY:Programowanie obiektowe Wykład
+LOCATION:
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T104000Z
+DTEND:20261030T121500Z
+SUMMARY:Systemy Operacyjne Wykład
+LOCATION:
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T123000Z
+DTEND:20261030T140500Z
+SUMMARY:Bazy danych Laboratorium
+LOCATION:
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Roman Wantoch-Rekowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T150000Z
+DTEND:20261030T163500Z
 SUMMARY:Bazy danych Laboratorium
 LOCATION:
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Roman Wantoch-Rekowski
@@ -564,32 +564,11 @@ LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
-SUMMARY:Programowanie obiektowe Wykład
-LOCATION:
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261105T085000Z
 DTEND:20261105T102500Z
 SUMMARY:Fizyka 2 Laboratorium
 LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Iwona Jakubowska; dr inż Kinga Majkowycz; dr inż. Aleksandra Walewska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T085000Z
-DTEND:20261105T102500Z
-SUMMARY:Systemy Operacyjne Wykład
-LOCATION:
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T104000Z
-DTEND:20261105T140500Z
-SUMMARY:Algorytmy i struktury danych Laboratorium
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
@@ -606,8 +585,29 @@ LOCATION:
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: zal popr\nNumer zajęć: 4\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T150000Z
-DTEND:20261105T182500Z
+DTSTART:20261106T070000Z
+DTEND:20261106T083500Z
+SUMMARY:Programowanie obiektowe Wykład
+LOCATION:
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T085000Z
+DTEND:20261106T102500Z
+SUMMARY:Systemy Operacyjne Wykład
+LOCATION:
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T104000Z
+DTEND:20261106T140500Z
+SUMMARY:Algorytmy i struktury danych Laboratorium
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T150000Z
+DTEND:20261106T182500Z
 SUMMARY:Systemy wbudowane Laboratorium
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Goluch
@@ -634,13 +634,6 @@ LOCATION:
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T085000Z
-DTEND:20261110T121500Z
-SUMMARY:Systemy wbudowane Wykład
-LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -655,20 +648,6 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Konrad Zubko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T123000Z
-DTEND:20261110T140500Z
-SUMMARY:Matematyka dyskretna II zal popr
-LOCATION:
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: zal popr\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Chojnacki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T150000Z
-DTEND:20261110T182500Z
-SUMMARY:Architektura i organizacja komputerów Laboratorium
-LOCATION:
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Artur Miktus
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T165000Z
 DTEND:20261110T182500Z
 SUMMARY:Język obcy (II) międzywydziałowy - Ćwiczenia
@@ -676,11 +655,25 @@ LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T070000Z
-DTEND:20261112T083500Z
-SUMMARY:Statystyka matematyczna Laboratorium
+DTSTART:20261111T085000Z
+DTEND:20261111T121500Z
+SUMMARY:Systemy wbudowane Wykład
 LOCATION:
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T123000Z
+DTEND:20261111T140500Z
+SUMMARY:Matematyka dyskretna II zal popr
+LOCATION:
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: zal popr\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T150000Z
+DTEND:20261111T182500Z
+SUMMARY:Architektura i organizacja komputerów Laboratorium
+LOCATION:
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -699,13 +692,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T104000Z
 DTEND:20261112T140500Z
-SUMMARY:Algorytmy i struktury danych Laboratorium
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T140500Z
 SUMMARY:Bazy danych Laboratorium
 LOCATION:
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Roman Wantoch-Rekowski
@@ -716,6 +702,20 @@ DTEND:20261112T182500Z
 SUMMARY:Programowanie obiektowe Laboratorium
 LOCATION:
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:Statystyka matematyczna Laboratorium
+LOCATION:
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T104000Z
+DTEND:20261113T140500Z
+SUMMARY:Algorytmy i struktury danych Laboratorium
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
@@ -740,13 +740,6 @@ DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
-DTEND:20261117T140500Z
-SUMMARY:Algorytmy i struktury danych Laboratorium
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
@@ -765,6 +758,13 @@ DTEND:20261117T182500Z
 SUMMARY:Język obcy (II) międzywydziałowy - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T104000Z
+DTEND:20261118T140500Z
+SUMMARY:Algorytmy i struktury danych Laboratorium
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T085000Z
@@ -810,17 +810,17 @@ DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T070000Z
-DTEND:20261124T102500Z
+DTEND:20261124T083500Z
 SUMMARY:Bazy danych Laboratorium
 LOCATION:
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T070000Z
+DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:Systemy Operacyjne Laboratorium
 LOCATION:
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T104000Z
@@ -828,20 +828,6 @@ DTEND:20261124T121500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T104000Z
-DTEND:20261124T121500Z
-SUMMARY:Systemy Operacyjne Wykład
-LOCATION:
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T123000Z
-DTEND:20261124T140500Z
-SUMMARY:Algorytmy i struktury danych Laboratorium
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T123000Z
@@ -858,6 +844,34 @@ LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:Systemy Operacyjne Laboratorium
+LOCATION:
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T085000Z
+DTEND:20261125T102500Z
+SUMMARY:Bazy danych Laboratorium
+LOCATION:
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Roman Wantoch-Rekowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:Systemy Operacyjne Wykład
+LOCATION:
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:Algorytmy i struktury danych Laboratorium
+LOCATION:
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261126T085000Z
 DTEND:20261126T102500Z
 SUMMARY:Fizyka 2 Ćwiczenia
@@ -865,8 +879,8 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Urszula Chodorow
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T150000Z
-DTEND:20261126T182500Z
+DTSTART:20261127T150000Z
+DTEND:20261127T182500Z
 SUMMARY:Architektura i organizacja komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Artur Miktus
@@ -879,25 +893,11 @@ LOCATION:
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T070000Z
-DTEND:20261201T083500Z
-SUMMARY:Bazy danych Laboratorium
-LOCATION:
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Roman Wantoch-Rekowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T104000Z
 DTEND:20261201T121500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T104000Z
-DTEND:20261201T121500Z
-SUMMARY:Systemy Operacyjne Wykład
-LOCATION:
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T123000Z
@@ -907,25 +907,39 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Konrad Zubko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T123000Z
-DTEND:20261201T140500Z
-SUMMARY:Statystyka matematyczna Laboratorium
-LOCATION:
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marta Saniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T150000Z
-DTEND:20261201T182500Z
-SUMMARY:Architektura i organizacja komputerów Laboratorium
-LOCATION:
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Artur Miktus
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T165000Z
 DTEND:20261201T182500Z
 SUMMARY:Język obcy (II) międzywydziałowy - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:Bazy danych Laboratorium
+LOCATION:
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Roman Wantoch-Rekowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T104000Z
+DTEND:20261202T121500Z
+SUMMARY:Systemy Operacyjne Wykład
+LOCATION:
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T123000Z
+DTEND:20261202T140500Z
+SUMMARY:Statystyka matematyczna Laboratorium
+LOCATION:
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T150000Z
+DTEND:20261202T182500Z
+SUMMARY:Architektura i organizacja komputerów Laboratorium
+LOCATION:
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T150000Z
@@ -949,13 +963,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T104000Z
-DTEND:20261208T121500Z
-SUMMARY:Systemy Operacyjne Wykład
-LOCATION:
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
 SUMMARY:Fizyka 2 Wykład
@@ -968,6 +975,13 @@ DTEND:20261208T182500Z
 SUMMARY:Język obcy (II) międzywydziałowy - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T104000Z
+DTEND:20261209T121500Z
+SUMMARY:Systemy Operacyjne Wykład
+LOCATION:
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
@@ -1005,8 +1019,8 @@ LOCATION:
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T150000Z
-DTEND:20261210T182500Z
+DTSTART:20261211T150000Z
+DTEND:20261211T182500Z
 SUMMARY:Systemy wbudowane Laboratorium
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Goluch
@@ -1033,13 +1047,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T104000Z
-DTEND:20261215T121500Z
-SUMMARY:Systemy Operacyjne Wykład
-LOCATION:
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:Fizyka 2 Wykład
@@ -1052,6 +1059,13 @@ DTEND:20261215T182500Z
 SUMMARY:Język obcy (II) międzywydziałowy - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T104000Z
+DTEND:20261216T121500Z
+SUMMARY:Systemy Operacyjne Wykład
+LOCATION:
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T070000Z
@@ -1075,8 +1089,8 @@ LOCATION:
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261231T123000Z
-DTEND:20261231T140500Z
+DTSTART:20270101T123000Z
+DTEND:20270101T140500Z
 SUMMARY:Systemy Operacyjne Laboratorium
 LOCATION:
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Sławomir Matusiak
@@ -1117,15 +1131,15 @@ LOCATION:
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T123000Z
-DTEND:20270107T140500Z
+DTSTART:20270108T123000Z
+DTEND:20270108T140500Z
 SUMMARY:Architektura i organizacja komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T150000Z
-DTEND:20270107T163500Z
+DTSTART:20270108T150000Z
+DTEND:20270108T163500Z
 SUMMARY:Architektura i organizacja komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Artur Miktus
@@ -1136,13 +1150,6 @@ DTEND:20270112T121500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270112T123000Z
-DTEND:20270112T140500Z
-SUMMARY:Bazy danych Laboratorium
-LOCATION:
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T123000Z
@@ -1166,6 +1173,13 @@ LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270113T123000Z
+DTEND:20270113T140500Z
+SUMMARY:Bazy danych Laboratorium
+LOCATION:
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Roman Wantoch-Rekowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270114T070000Z
 DTEND:20270114T083500Z
 SUMMARY:Systemy Operacyjne Laboratorium
@@ -1178,13 +1192,6 @@ DTEND:20270118T140500Z
 SUMMARY:Systemy wbudowane Laboratorium
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270119T085000Z
-DTEND:20270119T102500Z
-SUMMARY:Algorytmy i struktury danych Wykład
-LOCATION:
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270119T104000Z
@@ -1208,11 +1215,11 @@ LOCATION:
 DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T085000Z
-DTEND:20270121T121500Z
-SUMMARY:Systemy Operacyjne Laboratorium
+DTSTART:20270120T085000Z
+DTEND:20270120T102500Z
+SUMMARY:Algorytmy i struktury danych Wykład
 LOCATION:
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sławomir Matusiak
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T104000Z
@@ -1222,15 +1229,22 @@ LOCATION:
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T123000Z
-DTEND:20270121T140500Z
+DTSTART:20270122T085000Z
+DTEND:20270122T121500Z
+SUMMARY:Systemy Operacyjne Laboratorium
+LOCATION:
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T123000Z
+DTEND:20270122T140500Z
 SUMMARY:Architektura i organizacja komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T150000Z
-DTEND:20270121T163500Z
+DTSTART:20270122T150000Z
+DTEND:20270122T163500Z
 SUMMARY:Architektura i organizacja komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Artur Miktus

@@ -32,13 +32,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T113000Z
-DTEND:20260929T130500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpt. Jakub Szkopiński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260929T140000Z
 DTEND:20260929T153500Z
 SUMMARY:Elementy teorii liczb zal popr
@@ -46,18 +39,18 @@ LOCATION:
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: zal popr\nNumer zajęć: 5\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260929T140000Z
-DTEND:20260929T153500Z
+DTSTART:20260930T113000Z
+DTEND:20260930T130500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpt. Jakub Szkopiński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T140000Z
+DTEND:20260930T153500Z
 SUMMARY:Zabezpieczenie medyczne Wykład
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T060000Z
-DTEND:20261001T073500Z
-SUMMARY:Bazy danych zal popr
-LOCATION:
-DESCRIPTION:Bazy danych\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Roman Wantoch-Rekowski; mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T060000Z
@@ -74,20 +67,6 @@ LOCATION:
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T092500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. Jakub Szkopiński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T111500Z
-SUMMARY:Inżynieria oprogramowania Wykład
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261001T094000Z
 DTEND:20261001T111500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -102,8 +81,29 @@ LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
+DTSTART:20261002T060000Z
+DTEND:20261002T073500Z
+SUMMARY:Bazy danych zal popr
+LOCATION:
+DESCRIPTION:Bazy danych\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Roman Wantoch-Rekowski; mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T075000Z
+DTEND:20261002T092500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. Jakub Szkopiński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T094000Z
+DTEND:20261002T111500Z
+SUMMARY:Inżynieria oprogramowania Wykład
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T113000Z
+DTEND:20261002T130500Z
 SUMMARY:Zabezpieczenie medyczne Wykład
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppor. mgr Katarzyna Szwed
@@ -144,13 +144,6 @@ LOCATION:
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T075000Z
-DTEND:20261006T130500Z
-SUMMARY:Szkolenie wojskowe Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: DGB -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261006T113000Z
 DTEND:20261006T130500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -158,18 +151,18 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261007T075000Z
+DTEND:20261007T130500Z
+SUMMARY:Szkolenie wojskowe Ćwiczenia
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: DGB -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261008T060000Z
 DTEND:20261008T092500Z
 SUMMARY:Sieci komputerowe Wykład
 LOCATION:
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T094000Z
-DTEND:20261008T111500Z
-SUMMARY:Inżynieria oprogramowania Wykład
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T094000Z
@@ -186,15 +179,22 @@ LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T113000Z
-DTEND:20261008T130500Z
+DTSTART:20261009T094000Z
+DTEND:20261009T111500Z
+SUMMARY:Inżynieria oprogramowania Wykład
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T113000Z
+DTEND:20261009T130500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T140000Z
-DTEND:20261008T153500Z
+DTSTART:20261009T140000Z
+DTEND:20261009T153500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
@@ -228,25 +228,11 @@ LOCATION:
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T060000Z
-DTEND:20261013T073500Z
-SUMMARY:Szkolenie wojskowe Ćwiczenia
-LOCATION:
-DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: DGB -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261013T075000Z
 DTEND:20261013T092500Z
 SUMMARY:Protokoły kryptograficzne Wykład
 LOCATION:
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T111500Z
-SUMMARY:Wybrane elementy kryptologii Wykład
-LOCATION:
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T094000Z
@@ -263,8 +249,22 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T113000Z
-DTEND:20261013T130500Z
+DTSTART:20261014T060000Z
+DTEND:20261014T073500Z
+SUMMARY:Szkolenie wojskowe Ćwiczenia
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: DGB -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T094000Z
+DTEND:20261014T111500Z
+SUMMARY:Wybrane elementy kryptologii Wykład
+LOCATION:
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T113000Z
+DTEND:20261014T130500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpt. Jakub Szkopiński
@@ -275,13 +275,6 @@ DTEND:20261015T092500Z
 SUMMARY:Sieci komputerowe Wykład
 LOCATION:
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T111500Z
-SUMMARY:Inżynieria oprogramowania Wykład
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T094000Z
@@ -298,15 +291,22 @@ LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T113000Z
-DTEND:20261015T130500Z
+DTSTART:20261016T094000Z
+DTEND:20261016T111500Z
+SUMMARY:Inżynieria oprogramowania Wykład
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T113000Z
+DTEND:20261016T130500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T140000Z
-DTEND:20261015T153500Z
+DTSTART:20261016T140000Z
+DTEND:20261016T153500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
@@ -342,13 +342,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T094000Z
 DTEND:20261020T111500Z
-SUMMARY:Wybrane elementy kryptologii Wykład
-LOCATION:
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T111500Z
 SUMMARY:Zastosowania kryptografii w Internecie Wykład
 LOCATION:
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Bora
@@ -361,8 +354,15 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T113000Z
-DTEND:20261020T130500Z
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
+SUMMARY:Wybrane elementy kryptologii Wykład
+LOCATION:
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T113000Z
+DTEND:20261021T130500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpt. Jakub Szkopiński
@@ -375,25 +375,11 @@ LOCATION:
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T075000Z
-DTEND:20261022T092500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261022T094000Z
 DTEND:20261022T111500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T094000Z
-DTEND:20261022T111500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T113000Z
@@ -403,18 +389,32 @@ LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T113000Z
-DTEND:20261022T130500Z
-SUMMARY:Inżynieria oprogramowania Wykład
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261022T140000Z
 DTEND:20261022T172500Z
 SUMMARY:Inżynieria oprogramowania Laboratorium
 LOCATION:
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T075000Z
+DTEND:20261023T092500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T094000Z
+DTEND:20261023T111500Z
+SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T113000Z
+DTEND:20261023T130500Z
+SUMMARY:Inżynieria oprogramowania Wykład
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T075000Z
@@ -445,20 +445,6 @@ LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T102500Z
-SUMMARY:Wybrane elementy kryptologii Laboratorium
-LOCATION:
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marta Saniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T121500Z
-SUMMARY:Wybrane elementy kryptologii Wykład
-LOCATION:
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T104000Z
 DTEND:20261027T121500Z
 SUMMARY:Zastosowania kryptografii w Internecie Wykład
@@ -473,18 +459,25 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T123000Z
-DTEND:20261027T140500Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:Wybrane elementy kryptologii Laboratorium
+LOCATION:
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T121500Z
+SUMMARY:Wybrane elementy kryptologii Wykład
+LOCATION:
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpt. Jakub Szkopiński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z
@@ -496,23 +489,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T085000Z
 DTEND:20261029T102500Z
-SUMMARY:Protokoły kryptograficzne Laboratorium
-LOCATION:
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Kamila Sirant
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
 SUMMARY:Wybrane elementy kryptologii Laboratorium
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marta Saniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T121500Z
-SUMMARY:Inżynieria oprogramowania Wykład
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -529,13 +508,6 @@ LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T123000Z
-DTEND:20261029T140500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261029T150000Z
 DTEND:20261029T182500Z
 SUMMARY:Inżynieria oprogramowania Laboratorium
@@ -543,8 +515,36 @@ LOCATION:
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T150000Z
-DTEND:20261029T163500Z
+DTSTART:20261030T070000Z
+DTEND:20261030T083500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T085000Z
+DTEND:20261030T102500Z
+SUMMARY:Protokoły kryptograficzne Laboratorium
+LOCATION:
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Kamila Sirant
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T104000Z
+DTEND:20261030T121500Z
+SUMMARY:Inżynieria oprogramowania Wykład
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T123000Z
+DTEND:20261030T140500Z
+SUMMARY:Podstawy bezpieczeństwa informacji Wykład
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T150000Z
+DTEND:20261030T163500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
@@ -599,20 +599,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T085000Z
-DTEND:20261105T102500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261105T085000Z
 DTEND:20261105T102500Z
 SUMMARY:Sieci komputerowe Wykład
@@ -622,23 +608,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
-SUMMARY:Inżynieria oprogramowania Wykład
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T104000Z
-DTEND:20261105T121500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T123000Z
-DTEND:20261105T140500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T150000Z
@@ -648,8 +620,36 @@ LOCATION:
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T150000Z
-DTEND:20261105T163500Z
+DTSTART:20261106T070000Z
+DTEND:20261106T083500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T085000Z
+DTEND:20261106T102500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T104000Z
+DTEND:20261106T121500Z
+SUMMARY:Inżynieria oprogramowania Wykład
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T123000Z
+DTEND:20261106T140500Z
+SUMMARY:Podstawy bezpieczeństwa informacji Wykład
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T150000Z
+DTEND:20261106T163500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
@@ -690,20 +690,6 @@ LOCATION:
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T085000Z
-DTEND:20261110T102500Z
-SUMMARY:Wybrane elementy kryptologii Wykład
-LOCATION:
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Misztal
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T104000Z
-DTEND:20261110T121500Z
-SUMMARY:Modelowanie matematyczne zal popr
-LOCATION:
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:Zastosowania kryptografii w Internecie Wykład
@@ -718,20 +704,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T123000Z
-DTEND:20261110T140500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpt. Jakub Szkopiński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261110T150000Z
-DTEND:20261110T182500Z
-SUMMARY:Interfejsy komputerów Laboratorium
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Szajewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T150000Z
 DTEND:20261110T182500Z
 SUMMARY:Sieci komputerowe Laboratorium
@@ -739,11 +711,32 @@ LOCATION:
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T070000Z
-DTEND:20261112T083500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+DTSTART:20261111T085000Z
+DTEND:20261111T102500Z
+SUMMARY:Wybrane elementy kryptologii Wykład
 LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T104000Z
+DTEND:20261111T121500Z
+SUMMARY:Modelowanie matematyczne zal popr
+LOCATION:
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T123000Z
+DTEND:20261111T140500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpt. Jakub Szkopiński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T150000Z
+DTEND:20261111T182500Z
+SUMMARY:Interfejsy komputerów Laboratorium
+LOCATION:
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -760,13 +753,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T140500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261112T123000Z
 DTEND:20261112T140500Z
 SUMMARY:Interfejsy komputerów Wykład
@@ -774,15 +760,29 @@ LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T150000Z
-DTEND:20261112T163500Z
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T104000Z
+DTEND:20261113T140500Z
+SUMMARY:Podstawy bezpieczeństwa informacji Wykład
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T150000Z
+DTEND:20261113T163500Z
 SUMMARY:Wybrane elementy kryptologii Laboratorium
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T165000Z
-DTEND:20261112T182500Z
+DTSTART:20261113T165000Z
+DTEND:20261113T182500Z
 SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
 LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Magdalena Rzemieniak
@@ -837,25 +837,18 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpt. Jakub Szkopiński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T150000Z
-DTEND:20261117T182500Z
+DTSTART:20261118T150000Z
+DTEND:20261118T182500Z
 SUMMARY:Zastosowania kryptografii w Internecie Laboratorium
 LOCATION:
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Elżbieta Burek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -877,6 +870,13 @@ DTEND:20261119T201500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T070000Z
+DTEND:20261120T083500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T085000Z
@@ -928,13 +928,6 @@ LOCATION:
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T104000Z
-DTEND:20261124T121500Z
-SUMMARY:Wybrane elementy kryptologii Wykład
-LOCATION:
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -942,15 +935,22 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T123000Z
-DTEND:20261124T140500Z
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:Wybrane elementy kryptologii Wykład
+LOCATION:
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Michał Gąsiński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T150000Z
-DTEND:20261124T182500Z
+DTSTART:20261125T150000Z
+DTEND:20261125T182500Z
 SUMMARY:Interfejsy komputerów Laboratorium
 LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Szajewski
@@ -961,13 +961,6 @@ DTEND:20261126T083500Z
 SUMMARY:Szkolenie strzeleckie - Ćwiczenia
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T085000Z
-DTEND:20261126T121500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z
@@ -984,13 +977,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T123000Z
-DTEND:20261126T140500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261126T150000Z
 DTEND:20261126T163500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
@@ -998,8 +984,22 @@ LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T150000Z
-DTEND:20261126T163500Z
+DTSTART:20261127T085000Z
+DTEND:20261127T121500Z
+SUMMARY:Inżynieria oprogramowania Laboratorium
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T123000Z
+DTEND:20261127T140500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T150000Z
+DTEND:20261127T163500Z
 SUMMARY:Wybrane elementy kryptologii Laboratorium
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marta Saniuk
@@ -1040,13 +1040,6 @@ LOCATION:
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T070000Z
-DTEND:20261201T083500Z
-SUMMARY:Protokoły kryptograficzne Laboratorium
-LOCATION:
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Kamila Sirant
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T085000Z
 DTEND:20261201T102500Z
 SUMMARY:Zastosowania kryptografii w Internecie Wykład
@@ -1068,18 +1061,18 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T150000Z
-DTEND:20261201T163500Z
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:Protokoły kryptograficzne Laboratorium
+LOCATION:
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Kamila Sirant
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T150000Z
+DTEND:20261202T163500Z
 SUMMARY:Wychowanie fizyczne - Wykład
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T070000Z
-DTEND:20261203T083500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T070000Z
@@ -1096,13 +1089,6 @@ LOCATION:
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Kamila Sirant
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T085000Z
-DTEND:20261203T102500Z
-SUMMARY:Wybrane elementy kryptologii Laboratorium
-LOCATION:
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marta Saniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261203T104000Z
 DTEND:20261203T121500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -1115,6 +1101,20 @@ DTEND:20261203T163500Z
 SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
 LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T070000Z
+DTEND:20261204T083500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T085000Z
+DTEND:20261204T102500Z
+SUMMARY:Wybrane elementy kryptologii Laboratorium
+LOCATION:
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T085000Z
@@ -1161,13 +1161,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T104000Z
 DTEND:20261208T121500Z
-SUMMARY:Interfejsy komputerów Ćwiczenia
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Jozef Turczyn
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261208T104000Z
-DTEND:20261208T121500Z
 SUMMARY:Wybrane elementy kryptologii Wykład
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
@@ -1180,15 +1173,22 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T123000Z
-DTEND:20261208T140500Z
+DTSTART:20261209T104000Z
+DTEND:20261209T121500Z
+SUMMARY:Interfejsy komputerów Ćwiczenia
+LOCATION:
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Michał Gąsiński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T150000Z
-DTEND:20261208T163500Z
+DTSTART:20261209T150000Z
+DTEND:20261209T163500Z
 SUMMARY:Wychowanie fizyczne - Wykład
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
@@ -1199,13 +1199,6 @@ DTEND:20261210T083500Z
 SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
 LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T121500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T085000Z
@@ -1229,8 +1222,15 @@ LOCATION:
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T150000Z
-DTEND:20261210T163500Z
+DTSTART:20261211T085000Z
+DTEND:20261211T121500Z
+SUMMARY:Inżynieria oprogramowania Laboratorium
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T150000Z
+DTEND:20261211T163500Z
 SUMMARY:Wybrane elementy kryptologii Laboratorium
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marta Saniuk
@@ -1271,8 +1271,8 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
+DTSTART:20261218T070000Z
+DTEND:20261218T083500Z
 SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
 LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
@@ -1285,18 +1285,11 @@ LOCATION:
 DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261222T070000Z
-DTEND:20261222T083500Z
+DTSTART:20261223T070000Z
+DTEND:20261223T083500Z
 SUMMARY:Protokoły kryptograficzne Laboratorium
 LOCATION:
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Kamila Sirant
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261231T085000Z
-DTEND:20261231T102500Z
-SUMMARY:Wybrane elementy kryptologii Laboratorium
-LOCATION:
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261231T104000Z
@@ -1306,8 +1299,15 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261231T104000Z
-DTEND:20261231T121500Z
+DTSTART:20270101T085000Z
+DTEND:20270101T102500Z
+SUMMARY:Wybrane elementy kryptologii Laboratorium
+LOCATION:
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T104000Z
+DTEND:20270101T121500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
 LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
@@ -1327,13 +1327,6 @@ LOCATION:
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T085000Z
-DTEND:20270105T121500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270105T123000Z
 DTEND:20270105T140500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -1341,15 +1334,22 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T123000Z
-DTEND:20270105T140500Z
+DTSTART:20270106T085000Z
+DTEND:20270106T121500Z
+SUMMARY:Inżynieria oprogramowania Laboratorium
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270106T123000Z
+DTEND:20270106T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpt. Jakub Szkopiński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T150000Z
-DTEND:20270105T163500Z
+DTSTART:20270106T150000Z
+DTEND:20270106T163500Z
 SUMMARY:Wychowanie fizyczne - Wykład
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
@@ -1369,32 +1369,11 @@ LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T085000Z
-DTEND:20270107T102500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. Jakub Szkopiński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270107T104000Z
-DTEND:20270107T121500Z
-SUMMARY:Interfejsy komputerów Ćwiczenia
-LOCATION:
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Jozef Turczyn
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270107T104000Z
 DTEND:20270107T121500Z
 SUMMARY:Język angielski - Ćwiczenia
 LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270107T123000Z
-DTEND:20270107T140500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T123000Z
@@ -1409,6 +1388,27 @@ DTEND:20270107T163500Z
 SUMMARY:Zastosowania kryptografii w Internecie Laboratorium
 LOCATION:
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T085000Z
+DTEND:20270108T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. Jakub Szkopiński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T104000Z
+DTEND:20270108T121500Z
+SUMMARY:Interfejsy komputerów Ćwiczenia
+LOCATION:
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T123000Z
+DTEND:20270108T140500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270109T085000Z
@@ -1440,13 +1440,6 @@ DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nP
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270112T085000Z
-DTEND:20270112T121500Z
-SUMMARY:Zabezpieczenie medyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppor. mgr Katarzyna Szwed; mł.chor. Maciej Koczański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270112T085000Z
 DTEND:20270112T102500Z
 SUMMARY:Zastosowania kryptografii w Internecie Laboratorium
 LOCATION:
@@ -1467,25 +1460,25 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T123000Z
-DTEND:20270112T140500Z
+DTSTART:20270113T085000Z
+DTEND:20270113T121500Z
+SUMMARY:Zabezpieczenie medyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppor. mgr Katarzyna Szwed; mł.chor. Maciej Koczański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T123000Z
+DTEND:20270113T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpt. Jakub Szkopiński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T150000Z
-DTEND:20270112T163500Z
+DTSTART:20270113T150000Z
+DTEND:20270113T163500Z
 SUMMARY:Wychowanie fizyczne - Wykład
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270114T070000Z
-DTEND:20270114T083500Z
-SUMMARY:Protokoły kryptograficzne Laboratorium
-LOCATION:
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Kamila Sirant
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T085000Z
@@ -1495,13 +1488,6 @@ LOCATION:
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T085000Z
-DTEND:20270114T102500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. Jakub Szkopiński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270114T104000Z
 DTEND:20270114T121500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -1509,8 +1495,22 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T104000Z
-DTEND:20270114T121500Z
+DTSTART:20270115T070000Z
+DTEND:20270115T083500Z
+SUMMARY:Protokoły kryptograficzne Laboratorium
+LOCATION:
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Kamila Sirant
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T085000Z
+DTEND:20270115T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. Jakub Szkopiński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T104000Z
+DTEND:20270115T121500Z
 SUMMARY:Wybrane elementy kryptologii Laboratorium
 LOCATION:
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marta Saniuk
@@ -1558,13 +1558,6 @@ LOCATION:
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T085000Z
-DTEND:20270119T121500Z
-SUMMARY:Inżynieria oprogramowania Laboratorium
-LOCATION:
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270119T123000Z
 DTEND:20270119T140500Z
 SUMMARY:Język angielski - Ćwiczenia
@@ -1572,25 +1565,25 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T123000Z
-DTEND:20270119T140500Z
+DTSTART:20270120T085000Z
+DTEND:20270120T121500Z
+SUMMARY:Inżynieria oprogramowania Laboratorium
+LOCATION:
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T123000Z
+DTEND:20270120T140500Z
 SUMMARY:Wychowanie fizyczne Ćwiczenia
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: kpt. Jakub Szkopiński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T150000Z
-DTEND:20270119T163500Z
+DTSTART:20270120T150000Z
+DTEND:20270120T163500Z
 SUMMARY:Wychowanie fizyczne - Wykład
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270121T085000Z
-DTEND:20270121T102500Z
-SUMMARY:Wychowanie fizyczne Ćwiczenia
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. Jakub Szkopiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270121T104000Z
@@ -1600,13 +1593,6 @@ LOCATION:
 DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T104000Z
-DTEND:20270121T121500Z
-SUMMARY:Wybrane elementy kryptologii Laboratorium
-LOCATION:
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marta Saniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270121T123000Z
 DTEND:20270121T140500Z
 SUMMARY:Działalność szkoleniowa i szkoleniowo-metodyczna repetytorium
@@ -1614,8 +1600,22 @@ LOCATION:
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: repetytorium\nNumer zajęć: 4\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T150000Z
-DTEND:20270121T163500Z
+DTSTART:20270122T085000Z
+DTEND:20270122T102500Z
+SUMMARY:Wychowanie fizyczne Ćwiczenia
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. Jakub Szkopiński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T104000Z
+DTEND:20270122T121500Z
+SUMMARY:Wybrane elementy kryptologii Laboratorium
+LOCATION:
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T150000Z
+DTEND:20270122T163500Z
 SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
 LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
@@ -1628,8 +1628,8 @@ LOCATION:
 DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270128T070000Z
-DTEND:20270128T083500Z
+DTSTART:20270129T070000Z
+DTEND:20270129T083500Z
 SUMMARY:Protokoły kryptograficzne Laboratorium
 LOCATION:
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Kamila Sirant

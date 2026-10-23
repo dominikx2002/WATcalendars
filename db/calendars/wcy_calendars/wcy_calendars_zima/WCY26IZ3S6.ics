@@ -11,25 +11,25 @@ LOCATION:
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T075000Z
-DTEND:20261006T092500Z
-SUMMARY:Zarządzanie środowiskiem Windows Wykład
-LOCATION:
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261006T094000Z
-DTEND:20261006T130500Z
-SUMMARY:Routing w sieciach komputerowych Laboratorium
-LOCATION:
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261006T155000Z
 DTEND:20261006T191500Z
 SUMMARY:Routing w sieciach komputerowych Wykład
 LOCATION:
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T075000Z
+DTEND:20261007T092500Z
+SUMMARY:Zarządzanie środowiskiem Windows Wykład
+LOCATION:
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T094000Z
+DTEND:20261007T130500Z
+SUMMARY:Routing w sieciach komputerowych Laboratorium
+LOCATION:
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T075000Z
@@ -39,8 +39,8 @@ LOCATION:
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T075000Z
-DTEND:20261008T111500Z
+DTSTART:20261009T075000Z
+DTEND:20261009T111500Z
 SUMMARY:Zarządzanie środowiskiem Linux Wykład
 LOCATION:
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Sławomir Machowski
@@ -60,20 +60,6 @@ LOCATION:
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T060000Z
-DTEND:20261013T073500Z
-SUMMARY:Zarządzanie środowiskiem Windows Wykład
-LOCATION:
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261013T075000Z
-DTEND:20261013T092500Z
-SUMMARY:Administrowanie i konfiguracja sieci LAN Laboratorium
-LOCATION:
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261013T094000Z
 DTEND:20261013T130500Z
 SUMMARY:Routing w sieciach komputerowych Laboratorium
@@ -81,25 +67,32 @@ LOCATION:
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T094000Z
-DTEND:20261013T130500Z
+DTSTART:20261014T060000Z
+DTEND:20261014T073500Z
+SUMMARY:Zarządzanie środowiskiem Windows Wykład
+LOCATION:
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T075000Z
+DTEND:20261014T092500Z
+SUMMARY:Administrowanie i konfiguracja sieci LAN Laboratorium
+LOCATION:
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T094000Z
+DTEND:20261014T130500Z
 SUMMARY:Zarządzanie środowiskiem Windows Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T060000Z
+DTSTART:20261015T075000Z
 DTEND:20261015T092500Z
 SUMMARY:Zarządzanie środowiskiem Windows Laboratorium
 LOCATION:
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T111500Z
-SUMMARY:Zarządzanie środowiskiem Linux Laboratorium
-LOCATION:
-DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T140000Z
@@ -107,6 +100,20 @@ DTEND:20261015T172500Z
 SUMMARY:Routing w sieciach komputerowych Wykład
 LOCATION:
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T060000Z
+DTEND:20261016T073500Z
+SUMMARY:Zarządzanie środowiskiem Windows Laboratorium
+LOCATION:
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T075000Z
+DTEND:20261016T111500Z
+SUMMARY:Zarządzanie środowiskiem Linux Laboratorium
+LOCATION:
+DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T094000Z
@@ -123,13 +130,6 @@ LOCATION:
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T060000Z
-DTEND:20261020T111500Z
-SUMMARY:Administrowanie i konfiguracja sieci LAN Laboratorium
-LOCATION:
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:Zarządzanie środowiskiem Windows Wykład
@@ -144,6 +144,13 @@ LOCATION:
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261021T060000Z
+DTEND:20261021T111500Z
+SUMMARY:Administrowanie i konfiguracja sieci LAN Laboratorium
+LOCATION:
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261022T060000Z
 DTEND:20261022T092500Z
 SUMMARY:Zarządzanie środowiskiem Windows Laboratorium
@@ -151,22 +158,29 @@ LOCATION:
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T075000Z
-DTEND:20261022T111500Z
+DTSTART:20261023T060000Z
+DTEND:20261023T073500Z
+SUMMARY:Zarządzanie środowiskiem Windows Laboratorium
+LOCATION:
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T075000Z
+DTEND:20261023T111500Z
 SUMMARY:Zarządzanie środowiskiem Linux Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T113000Z
-DTEND:20261022T130500Z
+DTSTART:20261023T113000Z
+DTEND:20261023T130500Z
 SUMMARY:Zarządzanie środowiskiem Windows Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T140000Z
-DTEND:20261022T153500Z
+DTSTART:20261023T140000Z
+DTEND:20261023T153500Z
 SUMMARY:Zarządzanie środowiskiem Windows Laboratorium
 LOCATION:
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Mielniczuk
@@ -179,25 +193,11 @@ LOCATION:
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T070000Z
+DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:Zarządzanie środowiskiem Windows Wykład
 LOCATION:
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T102500Z
-SUMMARY:Routing w sieciach komputerowych Wykład
-LOCATION:
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T140500Z
-SUMMARY:Administrowanie i konfiguracja sieci LAN Laboratorium
-LOCATION:
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T104000Z
@@ -205,6 +205,27 @@ DTEND:20261027T140500Z
 SUMMARY:Routing w sieciach komputerowych Laboratorium
 LOCATION:
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T070000Z
+DTEND:20261028T083500Z
+SUMMARY:Zarządzanie środowiskiem Windows Wykład
+LOCATION:
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:Routing w sieciach komputerowych Wykład
+LOCATION:
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T140500Z
+SUMMARY:Administrowanie i konfiguracja sieci LAN Laboratorium
+LOCATION:
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z
@@ -214,13 +235,6 @@ LOCATION:
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T121500Z
-SUMMARY:Zarządzanie środowiskiem Linux Laboratorium
-LOCATION:
-DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261029T104000Z
 DTEND:20261029T140500Z
 SUMMARY:Routing w sieciach komputerowych Laboratorium
@@ -228,8 +242,15 @@ LOCATION:
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T123000Z
-DTEND:20261029T140500Z
+DTSTART:20261030T085000Z
+DTEND:20261030T121500Z
+SUMMARY:Zarządzanie środowiskiem Linux Laboratorium
+LOCATION:
+DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T123000Z
+DTEND:20261030T140500Z
 SUMMARY:Egzamin sprawdzający Egzamin
 LOCATION:
 DESCRIPTION:Egzamin sprawdzający\nRodzaj zajęć: Egzamin\nNumer zajęć: 4\nProwadzący: dr inż. Leszek Grad

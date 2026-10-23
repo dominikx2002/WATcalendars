@@ -18,15 +18,15 @@ LOCATION:
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T075000Z
-DTEND:20261001T092500Z
+DTSTART:20261002T075000Z
+DTEND:20261002T092500Z
 SUMMARY:Bezpieczeństwo pracy i ergonomia. Wykład
 LOCATION:
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T130500Z
+DTSTART:20261002T094000Z
+DTEND:20261002T130500Z
 SUMMARY:Niezawodność systemów komputerowych Wykład
 LOCATION:
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
@@ -39,13 +39,6 @@ LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261006T094000Z
-DTEND:20261006T130500Z
-SUMMARY:Systemy operacyjne UNIX Wykład
-LOCATION:
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261006T113000Z
 DTEND:20261006T130500Z
 SUMMARY:Eksploracja sieci teleinformatycznych Wykład
@@ -53,11 +46,11 @@ LOCATION:
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T075000Z
-DTEND:20261008T092500Z
-SUMMARY:Bezpieczeństwo pracy i ergonomia. Wykład
+DTSTART:20261007T094000Z
+DTEND:20261007T130500Z
+SUMMARY:Systemy operacyjne UNIX Wykład
 LOCATION:
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T075000Z
@@ -67,15 +60,22 @@ LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T094000Z
-DTEND:20261008T130500Z
+DTSTART:20261009T075000Z
+DTEND:20261009T092500Z
+SUMMARY:Bezpieczeństwo pracy i ergonomia. Wykład
+LOCATION:
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T094000Z
+DTEND:20261009T130500Z
 SUMMARY:Niezawodność systemów komputerowych Wykład
 LOCATION:
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T140000Z
-DTEND:20261008T153500Z
+DTSTART:20261009T140000Z
+DTEND:20261009T153500Z
 SUMMARY:JavaEE Technologies Wykład
 LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
@@ -116,15 +116,15 @@ LOCATION:
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T113000Z
-DTEND:20261015T130500Z
+DTSTART:20261016T113000Z
+DTEND:20261016T130500Z
 SUMMARY:Systemy operacyjne UNIX Wykład
 LOCATION:
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T140000Z
-DTEND:20261015T153500Z
+DTSTART:20261016T140000Z
+DTEND:20261016T153500Z
 SUMMARY:Systemy operacyjne UNIX Wykład
 LOCATION:
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Janusz Furtak
@@ -144,25 +144,25 @@ LOCATION:
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T075000Z
-DTEND:20261020T092500Z
-SUMMARY:Systemy operacyjne UNIX Wykład
-LOCATION:
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261020T094000Z
-DTEND:20261020T130500Z
-SUMMARY:Systemy operacyjne UNIX Laboratorium
-LOCATION:
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T094000Z
 DTEND:20261020T111500Z
 SUMMARY:Zastosowania kryptografii w Internecie Wykład
 LOCATION:
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T075000Z
+DTEND:20261021T092500Z
+SUMMARY:Systemy operacyjne UNIX Wykład
+LOCATION:
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T094000Z
+DTEND:20261021T130500Z
+SUMMARY:Systemy operacyjne UNIX Laboratorium
+LOCATION:
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T060000Z
@@ -173,28 +173,28 @@ DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T075000Z
-DTEND:20261022T092500Z
-SUMMARY:Bezpieczeństwo pracy i ergonomia. Wykład
-LOCATION:
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T075000Z
 DTEND:20261022T111500Z
 SUMMARY:Systemy wbudowane Wykład
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T094000Z
-DTEND:20261022T130500Z
+DTSTART:20261023T075000Z
+DTEND:20261023T092500Z
+SUMMARY:Bezpieczeństwo pracy i ergonomia. Wykład
+LOCATION:
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T094000Z
+DTEND:20261023T130500Z
 SUMMARY:Podstawy symulacji Wykład
 LOCATION:
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T140000Z
-DTEND:20261022T153500Z
+DTSTART:20261023T140000Z
+DTEND:20261023T153500Z
 SUMMARY:JavaEE Technologies Wykład
 LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
@@ -207,32 +207,11 @@ LOCATION:
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T070000Z
-DTEND:20261027T083500Z
-SUMMARY:Systemy operacyjne UNIX Wykład
-LOCATION:
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T102500Z
-SUMMARY:Systemy wbudowane Laboratorium
-LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T140500Z
-SUMMARY:Eksploracja sieci teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T104000Z
@@ -249,29 +228,50 @@ LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
+DTSTART:20261028T070000Z
+DTEND:20261028T083500Z
+SUMMARY:Systemy operacyjne UNIX Wykład
+LOCATION:
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:Systemy wbudowane Laboratorium
+LOCATION:
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T140500Z
+SUMMARY:Eksploracja sieci teleinformatycznych Laboratorium
+LOCATION:
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T070000Z
+DTEND:20261030T083500Z
 SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
 LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T121500Z
+DTSTART:20261030T085000Z
+DTEND:20261030T121500Z
 SUMMARY:Systemy operacyjne UNIX Laboratorium
 LOCATION:
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T123000Z
-DTEND:20261029T140500Z
+DTSTART:20261030T123000Z
+DTEND:20261030T140500Z
 SUMMARY:Systemy operacyjne UNIX Wykład
 LOCATION:
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T150000Z
-DTEND:20261029T163500Z
+DTSTART:20261030T150000Z
+DTEND:20261030T163500Z
 SUMMARY:Systemy operacyjne UNIX Wykład
 LOCATION:
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Janusz Furtak
@@ -312,13 +312,6 @@ LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261103T070000Z
-DTEND:20261103T083500Z
-SUMMARY:Systemy wbudowane Laboratorium
-LOCATION:
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261103T085000Z
 DTEND:20261103T102500Z
 SUMMARY:Eksploracja sieci teleinformatycznych Wykład
@@ -333,18 +326,11 @@ LOCATION:
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+DTSTART:20261104T070000Z
+DTEND:20261104T083500Z
+SUMMARY:Systemy wbudowane Laboratorium
 LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T085000Z
-DTEND:20261105T121500Z
-SUMMARY:Systemy operacyjne UNIX Laboratorium
-LOCATION:
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Paweł Głębocki
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T085000Z
@@ -352,6 +338,20 @@ DTEND:20261105T121500Z
 SUMMARY:Systemy wbudowane Wykład
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T070000Z
+DTEND:20261106T083500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T085000Z
+DTEND:20261106T121500Z
+SUMMARY:Systemy operacyjne UNIX Laboratorium
+LOCATION:
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T070000Z
@@ -368,13 +368,6 @@ LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T085000Z
-DTEND:20261110T102500Z
-SUMMARY:Systemy operacyjne UNIX Laboratorium
-LOCATION:
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:Zastosowania kryptografii w Internecie Wykład
@@ -389,11 +382,11 @@ LOCATION:
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T070000Z
-DTEND:20261112T083500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+DTSTART:20261111T085000Z
+DTEND:20261111T102500Z
+SUMMARY:Systemy operacyjne UNIX Laboratorium
 LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -410,13 +403,6 @@ LOCATION:
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T121500Z
-SUMMARY:Podstawy symulacji Wykład
-LOCATION:
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261112T150000Z
 DTEND:20261112T182500Z
 SUMMARY:JavaEE Technologies Laboratorium
@@ -424,8 +410,22 @@ LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T165000Z
-DTEND:20261112T182500Z
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T104000Z
+DTEND:20261113T121500Z
+SUMMARY:Podstawy symulacji Wykład
+LOCATION:
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T165000Z
+DTEND:20261113T182500Z
 SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
 LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Magdalena Rzemieniak
@@ -459,25 +459,11 @@ LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T070000Z
-DTEND:20261117T083500Z
-SUMMARY:Systemy operacyjne UNIX Laboratorium
-LOCATION:
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T085000Z
 DTEND:20261117T102500Z
 SUMMARY:Eksploracja sieci teleinformatycznych Wykład
 LOCATION:
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T085000Z
-DTEND:20261117T102500Z
-SUMMARY:Systemy operacyjne UNIX Wykład
-LOCATION:
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -494,11 +480,18 @@ LOCATION:
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+DTSTART:20261118T070000Z
+DTEND:20261118T083500Z
+SUMMARY:Systemy operacyjne UNIX Laboratorium
 LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T085000Z
+DTEND:20261118T102500Z
+SUMMARY:Systemy operacyjne UNIX Wykład
+LOCATION:
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T085000Z
@@ -506,6 +499,13 @@ DTEND:20261119T121500Z
 SUMMARY:Systemy wbudowane Wykład
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T070000Z
+DTEND:20261120T083500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T104000Z
@@ -522,20 +522,6 @@ LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T070000Z
-DTEND:20261124T083500Z
-SUMMARY:Systemy operacyjne UNIX Wykład
-LOCATION:
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T085000Z
-DTEND:20261124T102500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Wykład
@@ -550,18 +536,32 @@ LOCATION:
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T123000Z
-DTEND:20261124T140500Z
-SUMMARY:Niezawodność systemów komputerowych Ćwiczenia
-LOCATION:
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T150000Z
 DTEND:20261124T182500Z
 SUMMARY:Bezpieczeństwo pracy i ergonomia. Laboratorium
 LOCATION:
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:Systemy operacyjne UNIX Wykład
+LOCATION:
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T085000Z
+DTEND:20261125T102500Z
+SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:Niezawodność systemów komputerowych Ćwiczenia
+LOCATION:
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -571,8 +571,8 @@ LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T104000Z
-DTEND:20261126T121500Z
+DTSTART:20261127T104000Z
+DTEND:20261127T121500Z
 SUMMARY:Podstawy symulacji Wykład
 LOCATION:
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
@@ -587,23 +587,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
 DTEND:20261201T083500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T070000Z
-DTEND:20261201T083500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Wykład
 LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T085000Z
-DTEND:20261201T102500Z
-SUMMARY:Niezawodność systemów komputerowych Ćwiczenia
-LOCATION:
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
@@ -613,13 +599,6 @@ LOCATION:
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T104000Z
-DTEND:20261201T140500Z
-SUMMARY:Eksploracja sieci teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T150000Z
 DTEND:20261201T182500Z
 SUMMARY:JavaEE Technologies Laboratorium
@@ -627,18 +606,32 @@ LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T150000Z
-DTEND:20261201T182500Z
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T085000Z
+DTEND:20261202T102500Z
+SUMMARY:Niezawodność systemów komputerowych Ćwiczenia
+LOCATION:
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T104000Z
+DTEND:20261202T140500Z
+SUMMARY:Eksploracja sieci teleinformatycznych Laboratorium
+LOCATION:
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T150000Z
+DTEND:20261202T182500Z
 SUMMARY:Systemy wbudowane Laboratorium
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T070000Z
-DTEND:20261203T083500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T070000Z
@@ -655,8 +648,15 @@ LOCATION:
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T104000Z
-DTEND:20261203T140500Z
+DTSTART:20261204T070000Z
+DTEND:20261204T083500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T104000Z
+DTEND:20261204T140500Z
 SUMMARY:Systemy operacyjne UNIX Laboratorium
 LOCATION:
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Głębocki
@@ -683,18 +683,18 @@ LOCATION:
 DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T085000Z
-DTEND:20261208T121500Z
-SUMMARY:HTML i aplikacje webowe Laboratorium
-LOCATION:
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261208T150000Z
 DTEND:20261208T182500Z
 SUMMARY:Podstawy symulacji Laboratorium
 LOCATION:
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T085000Z
+DTEND:20261209T121500Z
+SUMMARY:HTML i aplikacje webowe Laboratorium
+LOCATION:
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
@@ -704,13 +704,6 @@ LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T102500Z
-SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
 SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
@@ -718,18 +711,18 @@ LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T104000Z
-DTEND:20261210T140500Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102500Z
+SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T104000Z
+DTEND:20261211T140500Z
 SUMMARY:Systemy operacyjne UNIX Laboratorium
 LOCATION:
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T070000Z
-DTEND:20261215T083500Z
-SUMMARY:Eksploracja sieci teleinformatycznych Projekt
-LOCATION:
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T085000Z
@@ -739,22 +732,29 @@ LOCATION:
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T123000Z
-DTEND:20261215T140500Z
+DTSTART:20261216T070000Z
+DTEND:20261216T083500Z
+SUMMARY:Eksploracja sieci teleinformatycznych Projekt
+LOCATION:
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T123000Z
+DTEND:20261216T140500Z
 SUMMARY:Niezawodność systemów komputerowych Ćwiczenia
 LOCATION:
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T150000Z
-DTEND:20261215T182500Z
+DTSTART:20261216T150000Z
+DTEND:20261216T182500Z
 SUMMARY:HTML i aplikacje webowe Laboratorium
 LOCATION:
 DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
+DTSTART:20261218T070000Z
+DTEND:20261218T083500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
 LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
@@ -795,20 +795,6 @@ LOCATION:
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270105T123000Z
-DTEND:20270105T140500Z
-SUMMARY:Eksploracja sieci teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270105T150000Z
-DTEND:20270105T163500Z
-SUMMARY:Eksploracja sieci teleinformatycznych Laboratorium
-LOCATION:
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270105T165000Z
 DTEND:20270105T201500Z
 SUMMARY:Bezpieczeństwo pracy i ergonomia. Laboratorium
@@ -816,11 +802,18 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T085000Z
-DTEND:20270107T102500Z
-SUMMARY:Bezpieczeństwo pracy i ergonomia. Wykład
+DTSTART:20270106T123000Z
+DTEND:20270106T140500Z
+SUMMARY:Eksploracja sieci teleinformatycznych Laboratorium
 LOCATION:
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270106T150000Z
+DTEND:20270106T163500Z
+SUMMARY:Eksploracja sieci teleinformatycznych Laboratorium
+LOCATION:
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270107T104000Z
@@ -830,13 +823,6 @@ LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T104000Z
-DTEND:20270107T140500Z
-SUMMARY:Systemy operacyjne UNIX Laboratorium
-LOCATION:
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20270107T150000Z
 DTEND:20270107T182500Z
 SUMMARY:HTML i aplikacje webowe Laboratorium
@@ -844,22 +830,36 @@ LOCATION:
 DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T150000Z
-DTEND:20270107T182500Z
+DTSTART:20270108T085000Z
+DTEND:20270108T102500Z
+SUMMARY:Bezpieczeństwo pracy i ergonomia. Wykład
+LOCATION:
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T104000Z
+DTEND:20270108T140500Z
+SUMMARY:Systemy operacyjne UNIX Laboratorium
+LOCATION:
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T150000Z
+DTEND:20270108T182500Z
 SUMMARY:JavaEE Technologies Laboratorium
 LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T104000Z
-DTEND:20270112T140500Z
+DTSTART:20270113T104000Z
+DTEND:20270113T140500Z
 SUMMARY:Systemy wbudowane Laboratorium
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T150000Z
-DTEND:20270112T163500Z
+DTSTART:20270113T150000Z
+DTEND:20270113T163500Z
 SUMMARY:Eksploracja sieci teleinformatycznych Projekt
 LOCATION:
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Michał Jarosz
@@ -870,13 +870,6 @@ DTEND:20270114T102500Z
 SUMMARY:Podstawy bezpieczeństwa informacji Laboratorium
 LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20270114T085000Z
-DTEND:20270114T102500Z
-SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
-LOCATION:
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270114T104000Z
@@ -891,6 +884,13 @@ DTEND:20270114T182500Z
 SUMMARY:HTML i aplikacje webowe Laboratorium
 LOCATION:
 DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270115T085000Z
+DTEND:20270115T102500Z
+SUMMARY:Podstawy zarządzania i przedsiębiorczości Ćwiczenia
+LOCATION:
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270118T085000Z
@@ -935,8 +935,8 @@ LOCATION:
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T150000Z
-DTEND:20270121T163500Z
+DTSTART:20270122T150000Z
+DTEND:20270122T163500Z
 SUMMARY:Podstawy zarządzania i przedsiębiorczości Wykład
 LOCATION:
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak

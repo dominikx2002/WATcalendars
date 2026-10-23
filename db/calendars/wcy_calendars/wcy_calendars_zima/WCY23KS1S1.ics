@@ -18,8 +18,8 @@ LOCATION:
 DESCRIPTION:Jednokierunkowe funkcje skrótu\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261001T094000Z
-DTEND:20261001T130500Z
+DTSTART:20261002T094000Z
+DTEND:20261002T130500Z
 SUMMARY:Algorytmy strumieniowe Wykład
 LOCATION:
 DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Krzysztof Mańk
@@ -67,15 +67,15 @@ LOCATION:
 DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T111500Z
+DTSTART:20261016T094000Z
+DTEND:20261016T111500Z
 SUMMARY:Algorytmy strumieniowe Ćwiczenia
 LOCATION:
 DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T113000Z
-DTEND:20261015T130500Z
+DTSTART:20261016T113000Z
+DTEND:20261016T130500Z
 SUMMARY:Algorytmy strumieniowe Wykład
 LOCATION:
 DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Mańk
@@ -116,18 +116,11 @@ LOCATION:
 DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T123000Z
-DTEND:20261027T140500Z
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
 SUMMARY:Jednokierunkowe funkcje skrótu Laboratorium
 LOCATION:
 DESCRIPTION:Jednokierunkowe funkcje skrótu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marta Saniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T121500Z
-SUMMARY:Algorytmy strumieniowe Ćwiczenia
-LOCATION:
-DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T123000Z
@@ -137,6 +130,13 @@ LOCATION:
 DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261030T104000Z
+DTEND:20261030T121500Z
+SUMMARY:Algorytmy strumieniowe Ćwiczenia
+LOCATION:
+DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
 SUMMARY:Algorytmy strumieniowe Laboratorium
@@ -144,22 +144,22 @@ LOCATION:
 DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261103T104000Z
-DTEND:20261103T121500Z
+DTSTART:20261104T104000Z
+DTEND:20261104T121500Z
 SUMMARY:Jednokierunkowe funkcje skrótu Ćwiczenia
 LOCATION:
 DESCRIPTION:Jednokierunkowe funkcje skrótu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
+DTSTART:20261106T070000Z
+DTEND:20261106T083500Z
 SUMMARY:Jednokierunkowe funkcje skrótu Ćwiczenia
 LOCATION:
 DESCRIPTION:Jednokierunkowe funkcje skrótu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T085000Z
-DTEND:20261105T102500Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102500Z
 SUMMARY:Jednokierunkowe funkcje skrótu Laboratorium
 LOCATION:
 DESCRIPTION:Jednokierunkowe funkcje skrótu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marta Saniuk
@@ -235,8 +235,8 @@ LOCATION:
 DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T070000Z
-DTEND:20261124T083500Z
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
 SUMMARY:Algorytmy strumieniowe Wykład
 LOCATION:
 DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Mańk
