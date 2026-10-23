@@ -43,6 +43,7 @@
         search: document.getElementById("search"),
         clear: document.getElementById("clear"),
         faculties: document.getElementById("faculties"),
+        facultiesCaption: document.getElementById("faculties-caption"),
         status: document.getElementById("status"),
         results: document.getElementById("results"),
         sheet: document.getElementById("sheet"),
@@ -327,18 +328,28 @@
                 (h ? '<span class="dot chip-dot ' + (h.ok ? "ok" : "failed") + '" aria-hidden="true"></span>' : "") +
                 '<img class="chip-logo" src="' + logoUrl(code) + '" alt="" width="34" height="34" loading="lazy">' +
                 '<span class="chip-code">' + code.toUpperCase() + "</span>" +
-                '<span class="chip-count">' + count + "</span>" +
-                (h && h.updated
-                    ? '<span class="chip-updated">' + fmtDate(h.updated).slice(0, 5) +
-                      " " + fmtDate(h.updated).slice(-5) + "</span>"
-                    : "");
-            fragment.appendChild(tile);
+                '<span class="chip-count">' + count + "</span>";
+
+            // The date sits under the chip, outside its frame, so it
+            // does not read as part of the group count.
+            var cell = document.createElement("div");
+            cell.className = "chip-cell";
+            cell.appendChild(tile);
+            if (h && h.updated) {
+                var stamp = fmtDate(h.updated);
+                var date = document.createElement("span");
+                date.className = "chip-updated";
+                date.textContent = stamp.slice(0, 5) + " " + stamp.slice(-5);
+                cell.appendChild(date);
+                el.facultiesCaption.hidden = false;
+            }
+            fragment.appendChild(cell);
         });
         el.faculties.appendChild(fragment);
     }
 
     function syncChips() {
-        Array.prototype.forEach.call(el.faculties.children, function (chip) {
+        Array.prototype.forEach.call(el.faculties.querySelectorAll(".chip"), function (chip) {
             chip.setAttribute("aria-pressed", String(chip.dataset.code === activeFaculty));
         });
     }
