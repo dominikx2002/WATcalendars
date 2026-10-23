@@ -193,14 +193,30 @@ def derive_exv(group_code: str) -> str:
     return c[5] + c[4] + c[6:]
 
 
-def fetch_logged(session, base, sid, mid, iid, exv=None, timeout=30):
-    """GET one logged_inc.php view (plan or chooser) and decode it."""
+def fetch_logged(session, base, sid, mid, iid, exv=None, timeout=30,
+                 retries=3):
+    """GET one logged_inc.php view (plan or chooser) and decode it.
+
+    The e-Dziekanat sometimes drops the connection mid-request
+    ("Remote end closed connection without response"); that is transient,
+    so connection errors and timeouts are retried with a short backoff.
+    """
+    import time as _time
     params = {"sid": sid, "mid": mid, "iid": iid, "pos": 0, "rdo": 1}
     if exv:
         params["exv"] = exv
-    r = session.get(f"{base}/logged_inc.php", params=params, timeout=timeout)
-    r.raise_for_status()
-    return _decode(r)
+    last = None
+    for attempt in range(1, retries + 1):
+        try:
+            r = session.get(f"{base}/logged_inc.php", params=params,
+                            timeout=timeout)
+            r.raise_for_status()
+            return _decode(r)
+        except (requests.ConnectionError, requests.Timeout) as exc:
+            last = exc
+            if attempt < retries:
+                _time.sleep(2 * attempt)
+    raise last
 
 
 def login(userid, password, base=BASE, timeout=30, session=None):
