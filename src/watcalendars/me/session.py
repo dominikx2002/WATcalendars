@@ -60,8 +60,21 @@ def new_session() -> requests.Session:
 
 
 def _decode(response: requests.Response) -> str:
-    # e-Dziekanat is iso-8859-2; trust that over requests' guess.
-    return response.content.decode("iso-8859-2", errors="replace")
+    """Decode a response, UTF-8 first then iso-8859-2.
+
+    The e-Dziekanat is inconsistent: the login page is iso-8859-2 but the
+    logged-in schedule page (logged_inc.php) is UTF-8. Real Polish text
+    in iso-8859-2 almost always contains byte sequences that are invalid
+    UTF-8, so a strict UTF-8 attempt that succeeds means the page really
+    was UTF-8; otherwise fall back to iso-8859-2.
+    """
+    body = response.content
+    for charset in ("utf-8", "iso-8859-2"):
+        try:
+            return body.decode(charset)
+        except UnicodeDecodeError:
+            continue
+    return body.decode("iso-8859-2", errors="replace")
 
 
 def _fresh_sid(session: requests.Session, base: str, timeout: int) -> str:
@@ -162,3 +175,49 @@ def looks_like_plan(html: str) -> bool:
     from bs4 import BeautifulSoup
     soup = BeautifulSoup(html, "html.parser")
     return any(_weekday_of(tr) is not None for tr in soup.find_all("tr"))
+
+
+_SHOW_GROUP = re.compile(r"showGroupPlan\('([A-Z0-9]{6,12})'\)")
+
+
+def derive_exv(group_code: str) -> str:
+    """Map a group code to the e-Dziekanat exv selector.
+
+    The site builds it by dropping the 4-char prefix ("WCY2", "WME2")
+    and swapping the next two chars:
+      WCY22KC2S0 -> K2C2S0,  WCY22KB1S0 -> K2B1S0.
+    """
+    c = group_code
+    if len(c) < 7:
+        return c
+    return c[5] + c[4] + c[6:]
+
+
+def fetch_logged(session, base, sid, mid, iid, exv=None, timeout=30):
+    """GET one logged_inc.php view (plan or chooser) and decode it."""
+    params = {"sid": sid, "mid": mid, "iid": iid, "pos": 0, "rdo": 1}
+    if exv:
+        params["exv"] = exv
+    r = session.get(f"{base}/logged_inc.php", params=params, timeout=timeout)
+    r.raise_for_status()
+    return _decode(r)
+
+
+def login(userid, password, base=BASE, timeout=30, session=None):
+    """Log in; return (session, sid). Raises LoginError on failure."""
+    session = session or new_session()
+    sid = _fresh_sid(session, base, timeout)
+    form = {"formname": "login", "default_fun": "2", "userid": userid,
+            "password": password, "view_width": "1280", "view_height": "800"}
+    r = session.post(f"{base}/index.php?sid={sid}", data=form,
+                     timeout=timeout, allow_redirects=True)
+    r.raise_for_status()
+    if _LOGIN_FORM.search(_decode(r)):
+        raise LoginError("login failed - wrong identifier/password, or the "
+                         "account is locked for 30 min after 3 bad tries")
+    return session, sid
+
+
+def group_codes(chooser_html):
+    """All study-group codes from the 'Plan zajęć grupy dziekańskiej' page."""
+    return sorted(set(_SHOW_GROUP.findall(chooser_html)))
