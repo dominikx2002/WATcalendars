@@ -203,7 +203,15 @@ h1 {
     border-color: var(--accent);
     color: var(--accent-text);
 }
-.chip[aria-pressed="true"] .chip-count { color: inherit; opacity: 0.8; }
+.chip-updated {
+    font-family: var(--font-mono);
+    font-size: 0.6rem;
+    color: var(--text-dim);
+    white-space: nowrap;
+}
+
+.chip[aria-pressed="true"] .chip-count,
+.chip[aria-pressed="true"] .chip-updated { color: inherit; opacity: 0.8; }
 .chip[aria-pressed="true"] .chip-logo {
     background: rgb(255 255 255 / 0.9);
     border-radius: 6px;

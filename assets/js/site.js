@@ -206,6 +206,12 @@
         }
 
         el.status.textContent = groupWord(list.length);
+        var fh = activeFaculty && health(activeFaculty);
+        if (fh && fh.updated) {
+            el.status.textContent += " · " + activeFaculty.toUpperCase() +
+                ": ostatnia aktualizacja " + fmtDate(fh.updated) +
+                (fh.ok ? "" : " (nieaktualne)");
+        }
 
         var fragment = document.createDocumentFragment();
         shown.forEach(function (entry, i) {
@@ -321,7 +327,11 @@
                 (h ? '<span class="dot chip-dot ' + (h.ok ? "ok" : "failed") + '" aria-hidden="true"></span>' : "") +
                 '<img class="chip-logo" src="' + logoUrl(code) + '" alt="" width="34" height="34" loading="lazy">' +
                 '<span class="chip-code">' + code.toUpperCase() + "</span>" +
-                '<span class="chip-count">' + count + "</span>";
+                '<span class="chip-count">' + count + "</span>" +
+                (h && h.updated
+                    ? '<span class="chip-updated">' + fmtDate(h.updated).slice(0, 5) +
+                      " " + fmtDate(h.updated).slice(-5) + "</span>"
+                    : "");
             fragment.appendChild(tile);
         });
         el.faculties.appendChild(fragment);
@@ -567,12 +577,19 @@
             dot.removeAttribute("target");
         }
 
-        el.footerUpdated.textContent = stale.length
+        var latest = codes.reduce(function (best, c) {
+            var d = health(c).updated;
+            return d && (!best || d > best) ? d : best;
+        }, null);
+
+        el.footerUpdated.textContent =
+            (latest ? "Ostatnia aktualizacja: " + fmtDate(latest) + ". " : "") +
+            (stale.length
             ? "Aktualne plany: " + (codes.length - stale.length) + "/" + codes.length +
               " wydziałów (nieaktualne: " +
               stale.map(function (c) { return c.toUpperCase(); }).join(", ") + ")."
             : "Wszystkie plany aktualne (" + codes.length + "/" + codes.length +
-              " wydziałów).";
+              " wydziałów).");
     }
 
     var runStatus = fetch(STATUS_URL, { cache: "no-cache" })
@@ -593,7 +610,7 @@
 
             if (data.generated) {
                 el.footerUpdated.textContent =
-                    "Ostatnia aktualizacja planów: " + data.generated.slice(0, 10) + ".";
+                    "Ostatnia aktualizacja planów: " + fmtDate(new Date(data.generated)) + ".";
             }
             runStatus.then(showOverall);
 
