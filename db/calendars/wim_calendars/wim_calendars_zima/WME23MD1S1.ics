@@ -228,6 +228,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 9/175
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261102T123000Z
+DTEND:20261102T140500Z
+SUMMARY:PrM (L)
+LOCATION:10/ 54A; 14/ 54A
+DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/22
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T123000Z
 DTEND:20261109T140500Z
 SUMMARY:Sd. (S)
@@ -239,28 +246,28 @@ DTSTART:20261116T123000Z
 DTEND:20261116T140500Z
 SUMMARY:PrM (L)
 LOCATION:10/ 54A; 14/ 54A
-DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/22
+DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T123000Z
 DTEND:20261123T140500Z
 SUMMARY:PrM (L)
 LOCATION:10/ 54A; 14/ 54A
-DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/22
+DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T123000Z
 DTEND:20261130T140500Z
 SUMMARY:PrM (L)
 LOCATION:10/ 54A; 14/ 54A
-DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/22
+DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T123000Z
 DTEND:20261207T140500Z
 SUMMARY:PrM (L)
 LOCATION:10/ 54A; 14/ 54A
-DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/22
+DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T123000Z
@@ -298,6 +305,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 12/175
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261102T150000Z
+DTEND:20261102T163500Z
+SUMMARY:PrM (L)
+LOCATION:10/ 54A; 14/ 54A
+DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/22
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T150000Z
 DTEND:20261109T163500Z
 SUMMARY:Sd. (S)
@@ -309,7 +323,7 @@ DTSTART:20261116T150000Z
 DTEND:20261116T163500Z
 SUMMARY:PrM (L)
 LOCATION:10/ 54A; 14/ 54A
-DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/22
+DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T150000Z
@@ -477,42 +491,35 @@ DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:PrM (L)
 LOCATION:10/ 54A; 14/ 54A
-DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/22
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T085000Z
-DTEND:20261027T102500Z
-SUMMARY:PrM (L)
-LOCATION:10/ 54A; 14/ 54A
-DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/22
+DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T085000Z
 DTEND:20261103T102500Z
 SUMMARY:PrM (L)
 LOCATION:10/ 54A; 14/ 54A
-DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/22
+DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T085000Z
 DTEND:20261110T102500Z
 SUMMARY:PrM (L)
 LOCATION:10/ 54A; 14/ 54A
-DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/22
+DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T085000Z
 DTEND:20261117T102500Z
 SUMMARY:PrM (L)
 LOCATION:10/ 54A; 14/ 54A
-DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/22
+DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T085000Z
 DTEND:20261208T102500Z
 SUMMARY:PrM (L)
 LOCATION:10/ 54A; 14/ 54A
-DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/22
+DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T085000Z
@@ -552,13 +559,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T094000Z
 DTEND:20261020T111500Z
-SUMMARY:PrM (L)
-LOCATION:10/ 54A; 14/ 54A
-DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/22
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T121500Z
 SUMMARY:PrM (L)
 LOCATION:10/ 54A; 14/ 54A
 DESCRIPTION:Projektowanie mechanizmów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/22

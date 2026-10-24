@@ -63,7 +63,7 @@ BEGIN:VEVENT
 DTSTART:20261207T070000Z
 DTEND:20261207T083500Z
 SUMMARY:Mwg. (L)
-LOCATION:38/ 20; 4/ 68; 17a/ 21
+LOCATION:38/ 20; 17/ 21; 17a/ 21
 DESCRIPTION:Metrologia wielkości geometrycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
 END:VEVENT
 BEGIN:VEVENT
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 DTSTART:20261221T070000Z
 DTEND:20261221T083500Z
 SUMMARY:Mwg. (L)
-LOCATION:38/ 20; 4/ 68; 17a/ 21
+LOCATION:38/ 20; 17/ 21; 17a/ 21
 DESCRIPTION:Metrologia wielkości geometrycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 DTSTART:20261207T085000Z
 DTEND:20261207T102500Z
 SUMMARY:Mwg. (L)
-LOCATION:38/ 20; 4/ 68
+LOCATION:38/ 20; 17/ 21
 DESCRIPTION:Metrologia wielkości geometrycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 DTSTART:20261221T085000Z
 DTEND:20261221T102500Z
 SUMMARY:Mwg. (L)
-LOCATION:38/ 20; 4/ 68; 17a/ 21
+LOCATION:38/ 20; 17/ 21; 17a/ 21
 DESCRIPTION:Metrologia wielkości geometrycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
@@ -592,18 +592,11 @@ LOCATION:09/ 54A
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T070000Z
-DTEND:20261110T083500Z
-SUMMARY:Pr.A (w)
-LOCATION:aula/ 135
-DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Strychalski Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:Pr.A (w)
 LOCATION:aula/ 135
-DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Strychalski Andrzej
+DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T070000Z
@@ -1205,7 +1198,7 @@ DTSTART:20261028T070000Z
 DTEND:20261028T083500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
@@ -1224,9 +1217,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
-SUMMARY:ZŻWAT (ć)
-LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
+SUMMARY:Pr.A (w)
+LOCATION:aula/ 135
+DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T070000Z
@@ -1254,7 +1247,7 @@ DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
@@ -1282,7 +1275,7 @@ DTSTART:20260113T070000Z
 DTEND:20260113T083500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T070000Z
@@ -1310,7 +1303,7 @@ DTSTART:20260324T070000Z
 DTEND:20260324T083500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T060000Z
@@ -1324,7 +1317,7 @@ DTSTART:20260616T060000Z
 DTEND:20260616T073500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
@@ -1638,7 +1631,7 @@ BEGIN:VEVENT
 DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
 SUMMARY:Mwg. (L)
-LOCATION:38/ 20; 4/ 68; 17a/ 21
+LOCATION:38/ 20; 17/ 21; 17a/ 21
 DESCRIPTION:Metrologia wielkości geometrycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
@@ -1743,7 +1736,7 @@ BEGIN:VEVENT
 DTSTART:20261202T150000Z
 DTEND:20261202T163500Z
 SUMMARY:Mwg. (L)
-LOCATION:38/ 20; 4/ 68
+LOCATION:38/ 20; 17/ 21
 DESCRIPTION:Metrologia wielkości geometrycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
@@ -3543,7 +3536,7 @@ DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T060000Z

@@ -116,13 +116,6 @@ LOCATION:55/ 62
 DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261102T085000Z
-DTEND:20261102T102500Z
-SUMMARY:Sipp (w)
-LOCATION:120/ 54
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Stanisławek Sebastian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261109T085000Z
 DTEND:20261109T102500Z
 SUMMARY:Aud (w)
@@ -232,7 +225,7 @@ DTSTART:20261019T094000Z
 DTEND:20261019T111500Z
 SUMMARY:Sipp (w)
 LOCATION:8/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T104000Z
@@ -240,13 +233,6 @@ DTEND:20261026T121500Z
 SUMMARY:Kmp. (w)
 LOCATION:54/ 62
 DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Tomaszewski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261102T104000Z
-DTEND:20261102T121500Z
-SUMMARY:Kmp. (L)
-LOCATION:7/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T104000Z
@@ -365,7 +351,7 @@ DTSTART:20261026T123000Z
 DTEND:20261026T140500Z
 SUMMARY:Kmp. (L)
 LOCATION:7/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T123000Z
@@ -379,7 +365,7 @@ DTSTART:20261109T123000Z
 DTEND:20261109T140500Z
 SUMMARY:Sipp (w)
 LOCATION:52/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T123000Z
@@ -393,7 +379,7 @@ DTSTART:20261123T123000Z
 DTEND:20261123T140500Z
 SUMMARY:Sipp (w)
 LOCATION:42/ 54A
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T123000Z
@@ -491,7 +477,7 @@ DTSTART:20261026T150000Z
 DTEND:20261026T163500Z
 SUMMARY:Kmp. (L)
 LOCATION:7/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T150000Z
@@ -666,14 +652,14 @@ DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:Sipp (w)
 LOCATION:54/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T070000Z
 DTEND:20261124T083500Z
 SUMMARY:Sipp (w)
 LOCATION:52/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
@@ -694,7 +680,7 @@ DTSTART:20261222T070000Z
 DTEND:20261222T083500Z
 SUMMARY:Kmp. (L)
 LOCATION:6/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T070000Z
@@ -715,7 +701,7 @@ DTSTART:20260112T070000Z
 DTEND:20260112T083500Z
 SUMMARY:Kmp. (L)
 LOCATION:6/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T060000Z
@@ -792,7 +778,7 @@ DTSTART:20261222T085000Z
 DTEND:20261222T102500Z
 SUMMARY:Kmp. (L)
 LOCATION:6/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T085000Z
@@ -988,7 +974,7 @@ DTSTART:20261006T140000Z
 DTEND:20261006T153500Z
 SUMMARY:Sipp (w)
 LOCATION:9/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -1135,7 +1121,7 @@ DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:Kmp. (L)
 LOCATION:7/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T070000Z
@@ -1247,7 +1233,7 @@ DTSTART:20261209T085000Z
 DTEND:20261209T102500Z
 SUMMARY:Kmp. (L)
 LOCATION:7/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -1345,7 +1331,7 @@ DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
 SUMMARY:Kmp. (L)
 LOCATION:7/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T104000Z
@@ -1443,7 +1429,7 @@ DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:Kmp. (L)
 LOCATION:7/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T123000Z
@@ -1947,7 +1933,7 @@ DTSTART:20261029T104000Z
 DTEND:20261029T121500Z
 SUMMARY:Sipp (w)
 LOCATION:09/ 54A
-DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Stanisławek Sebastian
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
@@ -1968,7 +1954,7 @@ DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:Kmp. (L)
 LOCATION:7/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
@@ -2055,6 +2041,13 @@ LOCATION:57B/ 62
 DESCRIPTION:Inżynieria ortopedyczna i rehabilitacyjna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Zawiski Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261029T123000Z
+DTEND:20261029T140500Z
+SUMMARY:Sipp (w)
+LOCATION:42/ 54A
+DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Stanisławek Sebastian
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261105T123000Z
 DTEND:20261105T140500Z
 SUMMARY:Mnisu2 (L)
@@ -2067,6 +2060,13 @@ DTEND:20261112T140500Z
 SUMMARY:Tasr (L)
 LOCATION:28/ 62
 DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Kluczyński Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T123000Z
+DTEND:20261119T140500Z
+SUMMARY:Kmp. (L)
+LOCATION:7/ 62
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T123000Z

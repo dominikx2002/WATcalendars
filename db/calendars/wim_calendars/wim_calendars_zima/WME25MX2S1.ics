@@ -1873,6 +1873,13 @@ LOCATION:52/ 62
 DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261119T070000Z
+DTEND:20261119T083500Z
+SUMMARY:Ru. (w)
+LOCATION:52/ 62
+DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261126T070000Z
 DTEND:20261126T083500Z
 SUMMARY:Sinż (ć)
@@ -2115,7 +2122,7 @@ DTSTART:20261022T094000Z
 DTEND:20261022T111500Z
 SUMMARY:Ru. (w)
 LOCATION:52/ 62
-DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
+DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -2129,7 +2136,7 @@ DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
 SUMMARY:Ru. (w)
 LOCATION:52/ 62
-DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
+DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T104000Z
@@ -2214,13 +2221,6 @@ DTEND:20260527T111500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 58/140
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261001T113000Z
-DTEND:20261001T130500Z
-SUMMARY:Ru. (w)
-LOCATION:52/ 62
-DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z

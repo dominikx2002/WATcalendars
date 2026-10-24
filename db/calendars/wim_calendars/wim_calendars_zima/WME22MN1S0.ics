@@ -830,13 +830,6 @@ LOCATION:5/ 19
 DESCRIPTION:Organizacja zaopatrywania wojsk w mps\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T070000Z
-DTEND:20261110T083500Z
-SUMMARY:OZWmps (ć)
-LOCATION:5/ 19
-DESCRIPTION:Organizacja zaopatrywania wojsk w mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: mgr inż. Szpak Roman
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:OPST (ć)
@@ -939,21 +932,21 @@ DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:OZWmps (ć)
 LOCATION:5/ 19
-DESCRIPTION:Organizacja zaopatrywania wojsk w mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr inż. Szpak Roman
+DESCRIPTION:Organizacja zaopatrywania wojsk w mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T085000Z
 DTEND:20261103T102500Z
 SUMMARY:OZWmps (ć)
 LOCATION:5/ 19
-DESCRIPTION:Organizacja zaopatrywania wojsk w mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: mgr inż. Szpak Roman
+DESCRIPTION:Organizacja zaopatrywania wojsk w mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T085000Z
 DTEND:20261110T102500Z
 SUMMARY:OZWmps (ć)
 LOCATION:5/ 19
-DESCRIPTION:Organizacja zaopatrywania wojsk w mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: mgr inż. Szpak Roman
+DESCRIPTION:Organizacja zaopatrywania wojsk w mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T085000Z
@@ -1073,6 +1066,13 @@ DTEND:20261103T121500Z
 SUMMARY:BiErp (w)
 LOCATION:5/ 19
 DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: ppłk dr inż. Gocman Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T104000Z
+DTEND:20261110T121500Z
+SUMMARY:OZWmps (ć)
+LOCATION:3/ 19
+DESCRIPTION:Organizacja zaopatrywania wojsk w mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z

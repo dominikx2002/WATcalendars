@@ -774,13 +774,6 @@ LOCATION:42/ 20
 DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Wykład\nNumer zajęć: 11/22\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T070000Z
-DTEND:20261110T083500Z
-SUMMARY:Epw (ć)
-LOCATION:5/ 20
-DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:OPST (ć)
@@ -1086,7 +1079,7 @@ DTSTART:20260119T104000Z
 DTEND:20260119T121500Z
 SUMMARY:Epw (ć)
 LOCATION:5/ 20
-DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz
+DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T104000Z
@@ -2235,6 +2228,13 @@ DTEND:20261021T130500Z
 SUMMARY:WzPs (w)
 LOCATION:1/ 21
 DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Fijałkowska Sylwia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T123000Z
+DTEND:20261104T140500Z
+SUMMARY:Epw (ć)
+LOCATION:5/ 20
+DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T123000Z

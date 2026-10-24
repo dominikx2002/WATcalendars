@@ -879,13 +879,6 @@ LOCATION:09/ 54A
 DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T121500Z
-SUMMARY:Owp (ć)
-LOCATION:42/ 54A
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
 SUMMARY:Pdm (w)
@@ -897,7 +890,7 @@ DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:Owp (ć)
 LOCATION:109/ 54
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -1408,7 +1401,7 @@ DTSTART:20261118T085000Z
 DTEND:20261118T102500Z
 SUMMARY:Owp (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T085000Z
@@ -1528,6 +1521,13 @@ DTEND:20261028T121500Z
 SUMMARY:MOMI (L)
 LOCATION:14/ 54A
 DESCRIPTION:Modelowanie osprzętów maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Krogul Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T104000Z
+DTEND:20261104T121500Z
+SUMMARY:Owp (ć)
+LOCATION:10/ 54A
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T104000Z

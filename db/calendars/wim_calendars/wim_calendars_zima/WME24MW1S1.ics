@@ -431,6 +431,20 @@ LOCATION:1/ 19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261109T150000Z
+DTEND:20261109T163500Z
+SUMMARY:Tpt (ć)
+LOCATION:30/ 54
+DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Kluczyński Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T150000Z
+DTEND:20261130T163500Z
+SUMMARY:Tpt (ć)
+LOCATION:30/ 54
+DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Kluczyński Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261207T150000Z
 DTEND:20261207T163500Z
 SUMMARY:Ptr (L)
@@ -485,6 +499,13 @@ DTEND:20260215T163500Z
 SUMMARY:Zts (Zp.)
 LOCATION:120/ 54
 DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Grzelak Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T165000Z
+DTEND:20261214T182500Z
+SUMMARY:Tpt (ć)
+LOCATION:30/ 54
+DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T165000Z
@@ -1348,13 +1369,6 @@ LOCATION:120/ 54
 DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T104000Z
-DTEND:20261028T121500Z
-SUMMARY:Tpt (ć)
-LOCATION:109/ 54
-DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Kluczyński Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261104T104000Z
 DTEND:20261104T121500Z
 SUMMARY:Tpt (w)
@@ -1367,13 +1381,6 @@ DTEND:20261111T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 35/143
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T104000Z
-DTEND:20261118T121500Z
-SUMMARY:Tpt (ć)
-LOCATION:109/ 54
-DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T104000Z
@@ -1775,13 +1782,6 @@ LOCATION:109/ 54
 DESCRIPTION:Obróbka plastyczna, cieplna i cieplnochemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T085000Z
-DTEND:20261126T102500Z
-SUMMARY:Tpt (ć)
-LOCATION:109/ 54
-DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Kluczyński Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261203T085000Z
 DTEND:20261203T102500Z
 SUMMARY:Opcc (w)
@@ -1866,13 +1866,6 @@ LOCATION:116/ 54
 DESCRIPTION:Advanced manufacturing\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T104000Z
-DTEND:20261105T121500Z
-SUMMARY:Tpt (ć)
-LOCATION:109/ 54
-DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Kluczyński Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261112T104000Z
 DTEND:20261112T121500Z
 SUMMARY:Zts (w)
@@ -1892,13 +1885,6 @@ DTEND:20261203T121500Z
 SUMMARY:App (S)
 LOCATION:09/ 54A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T104000Z
-DTEND:20261210T121500Z
-SUMMARY:Tpt (ć)
-LOCATION:109/ 54
-DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
@@ -2097,6 +2083,13 @@ LOCATION:19/ 54; 108/ 54
 DESCRIPTION:Obróbka plastyczna, cieplna i cieplnochemiczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261203T150000Z
+DTEND:20261203T163500Z
+SUMMARY:Tpt (ć)
+LOCATION:30/ 54
+DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Kluczyński Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261210T150000Z
 DTEND:20261210T163500Z
 SUMMARY:Adv (S)
@@ -2130,6 +2123,13 @@ DTEND:20260107T163500Z
 SUMMARY:Opcc (L)
 LOCATION:19/ 54; 108/ 54
 DESCRIPTION:Obróbka plastyczna, cieplna i cieplnochemiczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T150000Z
+DTEND:20260114T163500Z
+SUMMARY:Tpt (ć)
+LOCATION:30/ 54
+DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T150000Z

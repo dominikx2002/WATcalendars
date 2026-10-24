@@ -816,18 +816,11 @@ LOCATION:37/ 54A
 DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Typiak Rafał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T070000Z
-DTEND:20261110T083500Z
-SUMMARY:Es* (ć)
-LOCATION:37/ 54A
-DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Typiak Rafał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:Es* (ć)
 LOCATION:37/ 54A
-DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Typiak Rafał
+DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Typiak Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T070000Z
@@ -939,7 +932,7 @@ DTSTART:20261117T085000Z
 DTEND:20261117T102500Z
 SUMMARY:Es* (ć)
 LOCATION:37/ 54A
-DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Typiak Rafał
+DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Typiak Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T085000Z
@@ -1044,7 +1037,7 @@ DTSTART:20261020T094000Z
 DTEND:20261020T111500Z
 SUMMARY:Es* (ć)
 LOCATION:37/ 54A
-DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Typiak Rafał
+DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Typiak Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
@@ -1563,6 +1556,13 @@ DTEND:20261111T083500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 29/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T070000Z
+DTEND:20261118T083500Z
+SUMMARY:Es* (ć)
+LOCATION:37/ 54A
+DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Typiak Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T070000Z
