@@ -13,6 +13,11 @@ lesson title. Those inner <tr>s must not count as schedule rows: they
 shifted the grid (the weekday label's rowspan=8 no longer covered the
 day) and lessons landed on the wrong block, e.g. a duplicated lecture.
 
+That nested table is also closed misnested, "</center></table>". On
+html.parser this swallowed the rest of the row after a lesson cell, so a
+second class in the same block row vanished (e.g. every Monday 08:00
+lecture after the first week). The tags are swapped before parsing.
+
 Encoding: the server sends iso-8859-2; decode the raw bytes with that,
 not utf-8, or every Polish diacritic turns to mojibake.
 """
@@ -37,6 +42,7 @@ _WEEKDAYS = [("PONIEDZIA", 0), ("WTOREK", 1), ("RODA", 2), ("CZWARTEK", 3),
 
 _TIME = re.compile(r"([01]?\d|2[0-3])[:.](\d{2})\D+([01]?\d|2[0-3])[:.](\d{2})")
 _DATECOL = re.compile(r"(\d{1,2})([IVX]+)$")
+_MISNESTED = re.compile(r"</center>\s*</table>", re.I)
 
 
 def _norm(cell) -> str:
@@ -165,7 +171,8 @@ def _room_from_cell(cell, type_: str) -> str:
 
 def parse(html: str, academic_start_year: int = 2026,
           with_rooms: bool = True) -> List[Lesson]:
-    soup = BeautifulSoup(html, "html.parser")
+    soup = BeautifulSoup(_MISNESTED.sub("</table></center>", html),
+                         "html.parser")
     rows = [tr for tr in soup.find_all("tr")
             if not _inside_lesson_cell(tr)]
     sections = [(i, _weekday_of(tr)) for i, tr in enumerate(rows)]

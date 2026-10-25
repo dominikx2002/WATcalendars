@@ -101,11 +101,16 @@ def test_parse_extracts_lessons_with_dates_and_times():
 
 def _cell(title, code, typ, room):
     """A filled cell as the real page renders it: a nested table whose
-    inner <td>s repeat the title."""
+    inner <td>s repeat the title, closed misnested ("</center></table>"),
+    with <nobr>/<b> and the teacher link's stray quoted attribute."""
     return (f'<td title="{title}"><center><table title="{title}">'
-            f'<tr><td title="{title}">{code}<br>({typ})<br>{room}</td></tr>'
-            f'<tr><td title="{title}">X</td></tr>'
-            f'<tr><td title="{title}">[1]</td></tr></center></table></td>')
+            f'<tr border="0"><td title="{title}"><nobr><b>{code}</b><br>'
+            f'(<b>{typ}</b>)<br>{room}</nobr></td></tr>'
+            f'<tr border="0"><td title="{title}"><nobr><a class="GlubN" '
+            f'title="{title}" href="javascript:cpg(\'n\', \'1\');"{title}">X</a>'
+            f'</nobr></td></tr>'
+            f'<tr border="0"><td title="{title}"><nobr>[1]</nobr></td></tr>'
+            f'</center></table></td>')
 
 
 _E = "<td>&nbsp;</td>"
@@ -140,6 +145,22 @@ def test_nested_cell_tables_keep_cells_on_their_row():
     ]
     psbi = [x for x in lessons if x.subject == "PsbI"][0]
     assert psbi.full_subject == "Projektowanie" and psbi.type_full == "Wykład"
+
+
+def test_second_class_in_the_same_row_is_kept():
+    # regression (issue #4): "</center></table>" after the first lesson
+    # cell swallowed the rest of the row, so Beta on 12 Oct vanished.
+    alfa = _cell("Alfa - dr A (Wykład)", "Al", "w", "1 S")
+    beta = _cell("Beta - dr B (Projekt)", "Be", "P", "2 S")
+    html = ('<html><body><table>'
+            '<tr><th rowspan="3">PONIEDZIAŁEK</th><td>nr</td><td>czas</td>'
+            '<td>28IX</td><td>05X</td><td>12X</td><td>19X</td><td>26X</td></tr>'
+            '<tr><td>1</td><td>08:00 09:35</td>' + alfa + _E + beta + _E * 2 + '</tr>'
+            '<tr><td>2</td><td>09:50 11:25</td>' + _E * 5 + '</tr>'
+            '</table></body></html>')
+    got = sorted((x.start, x.subject, x.room) for x in P.parse(html, 2026))
+    assert got == [(datetime(2026, 9, 28, 8, 0), "Al", "1 S"),
+                   (datetime(2026, 10, 12, 8, 0), "Be", "2 S")]
 
 
 def test_type_abbr():
