@@ -79,6 +79,13 @@ LOCATION:101 65
 DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261012T080000
+DTEND;TZID=Europe/Warsaw:20261012T093500
+SUMMARY:BsIP (w)
+LOCATION:307 S
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T095000
 DTEND;TZID=Europe/Warsaw:20261012T131500
 SUMMARY:Temo (w)
@@ -98,6 +105,13 @@ DTEND;TZID=Europe/Warsaw:20261013T192500
 SUMMARY:Sa. (w)
 LOCATION:125 65
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T080000
+DTEND;TZID=Europe/Warsaw:20261019T093500
+SUMMARY:BsIP (w)
+LOCATION:307 S
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T095000
@@ -140,6 +154,13 @@ DTEND;TZID=Europe/Warsaw:20261022T192500
 SUMMARY:PsbI (w)
 LOCATION:101 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T080000
+DTEND;TZID=Europe/Warsaw:20261026T093500
+SUMMARY:BsIP (w)
+LOCATION:307 S
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T095000
@@ -189,6 +210,13 @@ DTEND;TZID=Europe/Warsaw:20261030T112500
 SUMMARY:Zt (w)
 LOCATION:101 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T080000
+DTEND;TZID=Europe/Warsaw:20261102T093500
+SUMMARY:BsIP (w)
+LOCATION:307 S
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
@@ -315,6 +343,13 @@ DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:Zbi (w)
 LOCATION:201 65
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T080000
+DTEND;TZID=Europe/Warsaw:20261116T093500
+SUMMARY:Temo (w)
+LOCATION:101 65
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T095000

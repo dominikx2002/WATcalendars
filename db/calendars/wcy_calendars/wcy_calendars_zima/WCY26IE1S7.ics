@@ -233,6 +233,13 @@ LOCATION:226 S
 DESCRIPTION:Large Language Models\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T080000
+DTEND;TZID=Europe/Warsaw:20261116T093500
+SUMMARY:CAO (w)
+LOCATION:218 65
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T114000
 DTEND;TZID=Europe/Warsaw:20261116T150500
 SUMMARY:BCE (L)
@@ -371,6 +378,13 @@ DTEND;TZID=Europe/Warsaw:20261126T192500
 SUMMARY:Icn (L)
 LOCATION:120 65
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T080000
+DTEND;TZID=Europe/Warsaw:20261130T112500
+SUMMARY:CAO (ć)
+LOCATION:233 S
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T114000

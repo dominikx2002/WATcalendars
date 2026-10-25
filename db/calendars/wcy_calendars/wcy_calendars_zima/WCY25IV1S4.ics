@@ -401,11 +401,18 @@ LOCATION:224 S
 DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261123T114000
+DTSTART;TZID=Europe/Warsaw:20261123T080000
+DTEND;TZID=Europe/Warsaw:20261123T093500
+SUMMARY:Tdst (w)
+LOCATION:228 S
+DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261123T095000
 DTEND;TZID=Europe/Warsaw:20261123T131500
 SUMMARY:Mispb (P)
 LOCATION:236 S
-DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T133000
@@ -471,11 +478,11 @@ LOCATION:236 S
 DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261130T114000
+DTSTART;TZID=Europe/Warsaw:20261130T095000
 DTEND;TZID=Europe/Warsaw:20261130T131500
 SUMMARY:Mispb (P)
 LOCATION:226 S
-DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T133000
@@ -541,11 +548,11 @@ LOCATION:226 S
 DESCRIPTION:Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261207T114000
+DTSTART;TZID=Europe/Warsaw:20261207T095000
 DTEND;TZID=Europe/Warsaw:20261207T131500
 SUMMARY:Clc (L)
 LOCATION:237 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T133000
@@ -681,11 +688,18 @@ LOCATION:228 S
 DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261221T114000
+DTSTART;TZID=Europe/Warsaw:20261221T080000
+DTEND;TZID=Europe/Warsaw:20261221T093500
+SUMMARY:Mispb (w)
+LOCATION:314 S
+DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T095000
 DTEND;TZID=Europe/Warsaw:20261221T131500
 SUMMARY:Sbay (L)
 LOCATION:226 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T133000
@@ -833,6 +847,13 @@ DTEND;TZID=Europe/Warsaw:20270121T150500
 SUMMARY:UzW (L)
 LOCATION:226 S
 DESCRIPTION:Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T080000
+DTEND;TZID=Europe/Warsaw:20270125T112500
+SUMMARY:Mispb (P)
+LOCATION:233 S
+DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T080000

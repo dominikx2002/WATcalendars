@@ -62,7 +62,7 @@ DTSTART;TZID=Europe/Warsaw:20261002T095000
 DTEND;TZID=Europe/Warsaw:20261002T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T114000
@@ -167,7 +167,7 @@ DTSTART;TZID=Europe/Warsaw:20261007T160000
 DTEND;TZID=Europe/Warsaw:20261007T173500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T175000
@@ -209,7 +209,7 @@ DTSTART;TZID=Europe/Warsaw:20261009T095000
 DTEND;TZID=Europe/Warsaw:20261009T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T114000
@@ -224,6 +224,13 @@ DTEND;TZID=Europe/Warsaw:20261009T173500
 SUMMARY:PGI (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Janusz Torzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261012T080000
+DTEND;TZID=Europe/Warsaw:20261012T093500
+SUMMARY:RiAIP (w)
+LOCATION:103 K
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: kpt. mgr Stanisław Ślusakowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T095000
@@ -321,7 +328,7 @@ DTSTART;TZID=Europe/Warsaw:20261016T095000
 DTEND;TZID=Europe/Warsaw:20261016T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T160000
@@ -329,6 +336,13 @@ DTEND;TZID=Europe/Warsaw:20261016T173500
 SUMMARY:PGI (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Janusz Torzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T080000
+DTEND;TZID=Europe/Warsaw:20261019T093500
+SUMMARY:PD (w)
+LOCATION:103 K
+DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr inż. Dariusz Koszałko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T095000
@@ -426,7 +440,7 @@ DTSTART;TZID=Europe/Warsaw:20261021T133000
 DTEND;TZID=Europe/Warsaw:20261021T150500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T175000
@@ -475,7 +489,7 @@ DTSTART;TZID=Europe/Warsaw:20261023T095000
 DTEND;TZID=Europe/Warsaw:20261023T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T114000
@@ -489,28 +503,28 @@ DTSTART;TZID=Europe/Warsaw:20261023T160000
 DTEND;TZID=Europe/Warsaw:20261023T173500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261026T095000
+DTSTART;TZID=Europe/Warsaw:20261026T080000
 DTEND;TZID=Europe/Warsaw:20261026T112500
 SUMMARY:RiAIP (ć)
 LOCATION:PĆT3
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. mgr Stanisław Ślusakowicz
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: kpt. mgr Stanisław Ślusakowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T133000
 DTEND;TZID=Europe/Warsaw:20261026T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(KB)
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T160000
 DTEND;TZID=Europe/Warsaw:20261026T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(KB)
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T080000
@@ -573,7 +587,7 @@ DTSTART;TZID=Europe/Warsaw:20261028T133000
 DTEND;TZID=Europe/Warsaw:20261028T150500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T175000
@@ -615,7 +629,7 @@ DTSTART;TZID=Europe/Warsaw:20261030T095000
 DTEND;TZID=Europe/Warsaw:20261030T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T114000
@@ -636,7 +650,14 @@ DTSTART;TZID=Europe/Warsaw:20261030T160000
 DTEND;TZID=Europe/Warsaw:20261030T173500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T080000
+DTEND;TZID=Europe/Warsaw:20261102T093500
+SUMMARY:TW (w)
+LOCATION:112 58
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
@@ -706,7 +727,7 @@ DTSTART;TZID=Europe/Warsaw:20261104T133000
 DTEND;TZID=Europe/Warsaw:20261104T150500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T160000
@@ -748,7 +769,7 @@ DTSTART;TZID=Europe/Warsaw:20261106T095000
 DTEND;TZID=Europe/Warsaw:20261106T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T114000
@@ -769,7 +790,14 @@ DTSTART;TZID=Europe/Warsaw:20261106T160000
 DTEND;TZID=Europe/Warsaw:20261106T173500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T080000
+DTEND;TZID=Europe/Warsaw:20261109T093500
+SUMMARY:PD (ć)
+LOCATION:PĆT2
+DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr inż. Dariusz Koszałko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T095000
@@ -860,7 +888,7 @@ DTSTART;TZID=Europe/Warsaw:20261113T095000
 DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T114000
@@ -870,11 +898,11 @@ LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261116T095000
+DTSTART;TZID=Europe/Warsaw:20261116T080000
 DTEND;TZID=Europe/Warsaw:20261116T112500
 SUMMARY:TW (ć)
 LOCATION:15 57
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Kazimierz Gołoś
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T114000
@@ -937,7 +965,7 @@ DTSTART;TZID=Europe/Warsaw:20261118T133000
 DTEND;TZID=Europe/Warsaw:20261118T150500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T160000
@@ -986,7 +1014,7 @@ DTSTART;TZID=Europe/Warsaw:20261120T095000
 DTEND;TZID=Europe/Warsaw:20261120T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T114000
@@ -1010,25 +1038,25 @@ LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261123T095000
+DTSTART;TZID=Europe/Warsaw:20261123T080000
 DTEND;TZID=Europe/Warsaw:20261123T112500
 SUMMARY:TA (ć)
 LOCATION:PĆT1
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk mgr Jacek Stępień
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk mgr Jacek Stępień
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T133000
 DTEND;TZID=Europe/Warsaw:20261123T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(KB)
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T160000
 DTEND;TZID=Europe/Warsaw:20261123T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(KB)
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T080000
@@ -1084,7 +1112,7 @@ DTSTART;TZID=Europe/Warsaw:20261125T133000
 DTEND;TZID=Europe/Warsaw:20261125T150500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T080000
@@ -1122,11 +1150,11 @@ LOCATION:239 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261130T095000
+DTSTART;TZID=Europe/Warsaw:20261130T080000
 DTEND;TZID=Europe/Warsaw:20261130T112500
 SUMMARY:OPBMR (ć)
 LOCATION:PĆT-TNAP1
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: por. mgr inż. Mateusz Filipow
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: por. mgr inż. Mateusz Filipow
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T133000
@@ -1196,7 +1224,7 @@ DTSTART;TZID=Europe/Warsaw:20261202T133000
 DTEND;TZID=Europe/Warsaw:20261202T150500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T080000
@@ -1231,7 +1259,7 @@ DTSTART;TZID=Europe/Warsaw:20261204T095000
 DTEND;TZID=Europe/Warsaw:20261204T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T114000
@@ -1246,6 +1274,13 @@ DTEND;TZID=Europe/Warsaw:20261204T150500
 SUMMARY:WDM (ć)
 LOCATION:309 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Iwona Wyrębska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261207T080000
+DTEND;TZID=Europe/Warsaw:20261207T093500
+SUMMARY:REG (ć)
+LOCATION:PL.MUSZ1
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T095000
@@ -1329,7 +1364,7 @@ DTSTART;TZID=Europe/Warsaw:20261211T095000
 DTEND;TZID=Europe/Warsaw:20261211T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T114000
@@ -1346,11 +1381,11 @@ LOCATION:201 65
 DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261214T095000
+DTSTART;TZID=Europe/Warsaw:20261214T080000
 DTEND;TZID=Europe/Warsaw:20261214T112500
 SUMMARY:OPW (ć)
 LOCATION:PĆT3
-DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk mgr Tomasz Misiejuk
+DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk mgr Tomasz Misiejuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T133000
@@ -1413,7 +1448,7 @@ DTSTART;TZID=Europe/Warsaw:20261216T133000
 DTEND;TZID=Europe/Warsaw:20261216T150500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T080000
@@ -1455,7 +1490,7 @@ DTSTART;TZID=Europe/Warsaw:20261218T095000
 DTEND;TZID=Europe/Warsaw:20261218T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T114000
@@ -1470,6 +1505,13 @@ DTEND;TZID=Europe/Warsaw:20261218T150500
 SUMMARY:PoCy (ć)
 LOCATION:201 65
 DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T080000
+DTEND;TZID=Europe/Warsaw:20261221T093500
+SUMMARY:WDM (ć)
+LOCATION:307 S
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Iwona Wyrębska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T095000
@@ -1518,7 +1560,7 @@ DTSTART;TZID=Europe/Warsaw:20261223T133000
 DTEND;TZID=Europe/Warsaw:20261223T150500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T080000
@@ -1553,7 +1595,7 @@ DTSTART;TZID=Europe/Warsaw:20270108T095000
 DTEND;TZID=Europe/Warsaw:20270108T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T114000
@@ -1570,6 +1612,13 @@ LOCATION:236 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T080000
+DTEND;TZID=Europe/Warsaw:20270111T093500
+SUMMARY:TA (ć)
+LOCATION:PTW/ 28 HANGAR
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk mgr Jacek Stępień
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T095000
 DTEND;TZID=Europe/Warsaw:20270111T112500
 SUMMARY:WF (ć)
@@ -1581,14 +1630,14 @@ DTSTART;TZID=Europe/Warsaw:20270111T133000
 DTEND;TZID=Europe/Warsaw:20270111T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(KB)
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T160000
 DTEND;TZID=Europe/Warsaw:20270111T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(KB)
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T080000
@@ -1637,7 +1686,7 @@ DTSTART;TZID=Europe/Warsaw:20270113T133000
 DTEND;TZID=Europe/Warsaw:20270113T150500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T080000
@@ -1658,7 +1707,7 @@ DTSTART;TZID=Europe/Warsaw:20270115T095000
 DTEND;TZID=Europe/Warsaw:20270115T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T114000
@@ -1673,6 +1722,13 @@ DTEND;TZID=Europe/Warsaw:20270115T150500
 SUMMARY:WdI (L)
 LOCATION:228 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T080000
+DTEND;TZID=Europe/Warsaw:20270118T093500
+SUMMARY:REG (ć)
+LOCATION:PL.MUSZ1
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T095000
@@ -1735,7 +1791,7 @@ DTSTART;TZID=Europe/Warsaw:20270120T133000
 DTEND;TZID=Europe/Warsaw:20270120T150500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T080000
@@ -1763,7 +1819,7 @@ DTSTART;TZID=Europe/Warsaw:20270122T095000
 DTEND;TZID=Europe/Warsaw:20270122T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T114000
@@ -1826,7 +1882,7 @@ DTSTART;TZID=Europe/Warsaw:20270127T133000
 DTEND;TZID=Europe/Warsaw:20270127T150500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T080000
@@ -1854,7 +1910,7 @@ DTSTART;TZID=Europe/Warsaw:20270129T095000
 DTEND;TZID=Europe/Warsaw:20270129T112500
 SUMMARY:Ja (ć)
 LOCATION:240 K 239 K 238 K 237 K 235 K 234 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T114000

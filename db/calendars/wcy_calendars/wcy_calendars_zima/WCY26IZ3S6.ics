@@ -27,7 +27,7 @@ DTSTART;TZID=Europe/Warsaw:20261012T080000
 DTEND;TZID=Europe/Warsaw:20261012T093500
 SUMMARY:Sws (i)
 LOCATION:klub WAT
-DESCRIPTION:Spotkanie organizacyjne -\nRodzaj zajęć: Inne\nNumer zajęć: 1
+DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: Inne\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T095000
@@ -77,6 +77,13 @@ DTEND;TZID=Europe/Warsaw:20261016T131500
 SUMMARY:zsl (w)
 LOCATION:205 65
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T080000
+DTEND;TZID=Europe/Warsaw:20261019T112500
+SUMMARY:Lan (w)
+LOCATION:205 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T114000
@@ -140,6 +147,13 @@ DTEND;TZID=Europe/Warsaw:20261023T131500
 SUMMARY:zsl (L)
 LOCATION:106 65
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T080000
+DTEND;TZID=Europe/Warsaw:20261026T112500
+SUMMARY:Lan (w)
+LOCATION:205 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T114000
@@ -212,11 +226,18 @@ LOCATION:106 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261102T114000
+DTSTART;TZID=Europe/Warsaw:20261102T080000
+DTEND;TZID=Europe/Warsaw:20261102T093500
+SUMMARY:Lan (w)
+LOCATION:205 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T095000
 DTEND;TZID=Europe/Warsaw:20261102T150500
 SUMMARY:zsl (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T114000

@@ -65,6 +65,13 @@ LOCATION:308 S
 DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261012T095000
+DTEND;TZID=Europe/Warsaw:20261012T112500
+SUMMARY:Hd (w)
+LOCATION:236 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T114000
 DTEND;TZID=Europe/Warsaw:20261012T131500
 SUMMARY:Med (w)
@@ -84,6 +91,13 @@ DTEND;TZID=Europe/Warsaw:20261014T211500
 SUMMARY:Mass (w)
 LOCATION:308 S
 DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T095000
+DTEND;TZID=Europe/Warsaw:20261019T112500
+SUMMARY:Hd (w)
+LOCATION:236 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T114000
@@ -112,6 +126,13 @@ DTEND;TZID=Europe/Warsaw:20261021T211500
 SUMMARY:Mass (w)
 LOCATION:308 S
 DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T095000
+DTEND;TZID=Europe/Warsaw:20261026T112500
+SUMMARY:Hd (w)
+LOCATION:236 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T114000
@@ -161,6 +182,13 @@ DTEND;TZID=Europe/Warsaw:20261029T211500
 SUMMARY:Mass (L)
 LOCATION:233 S
 DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T095000
+DTEND;TZID=Europe/Warsaw:20261102T112500
+SUMMARY:Hd (w)
+LOCATION:236 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T114000
@@ -381,7 +409,7 @@ DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T080000
-DTEND;TZID=Europe/Warsaw:20261130T093500
+DTEND;TZID=Europe/Warsaw:20261130T112500
 SUMMARY:PSy (L)
 LOCATION:236 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Rulka

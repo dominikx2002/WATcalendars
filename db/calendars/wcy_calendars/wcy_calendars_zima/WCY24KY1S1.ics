@@ -37,10 +37,17 @@ LOCATION:085 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: zal popr\nNumer zajęć: 2\nProwadzący: mgr inż. Kamila Sirant
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261028T114000
+DTSTART;TZID=Europe/Warsaw:20261028T095000
 DTEND;TZID=Europe/Warsaw:20261028T131500
 SUMMARY:IK (Zp)
 LOCATION:125 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: zal popr\nNumer zajęć: 3\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: zal popr\nNumer zajęć: 2\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261118T114000
+DTEND;TZID=Europe/Warsaw:20261118T131500
+SUMMARY:MM (Zp)
+LOCATION:307 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 END:VCALENDAR

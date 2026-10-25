@@ -387,6 +387,20 @@ LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T095000
+DTEND;TZID=Europe/Warsaw:20261130T112500
+SUMMARY:Erp (w)
+LOCATION:087 S
+DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Ryszard Kopiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T114000
+DTEND;TZID=Europe/Warsaw:20261130T131500
+SUMMARY:Erp (ć)
+LOCATION:087 S
+DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Ryszard Kopiecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T080000
 DTEND;TZID=Europe/Warsaw:20261201T093500
 SUMMARY:Mpik (ć)
@@ -700,6 +714,13 @@ DTEND;TZID=Europe/Warsaw:20270108T112500
 SUMMARY:Wto (L)
 LOCATION:128 47
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Grzelak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T095000
+DTEND;TZID=Europe/Warsaw:20270111T131500
+SUMMARY:Erp (ć)
+LOCATION:317 S
+DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T080000

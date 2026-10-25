@@ -135,6 +135,13 @@ LOCATION:314 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261012T080000
+DTEND;TZID=Europe/Warsaw:20261012T093500
+SUMMARY:Ab (w)
+LOCATION:078 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T095000
 DTEND;TZID=Europe/Warsaw:20261012T112500
 SUMMARY:Wkkp (w)
@@ -168,6 +175,13 @@ DTEND;TZID=Europe/Warsaw:20261016T150500
 SUMMARY:Nsk (w)
 LOCATION:314 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T080000
+DTEND;TZID=Europe/Warsaw:20261019T093500
+SUMMARY:Ab (w)
+LOCATION:078 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T095000
@@ -324,6 +338,13 @@ LOCATION:314 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T080000
+DTEND;TZID=Europe/Warsaw:20261102T093500
+SUMMARY:Kre (w)
+LOCATION:078 S
+DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
 DTEND;TZID=Europe/Warsaw:20261102T112500
 SUMMARY:Kre (L)
@@ -415,11 +436,11 @@ LOCATION:085 S
 DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261109T095000
+DTSTART;TZID=Europe/Warsaw:20261109T080000
 DTEND;TZID=Europe/Warsaw:20261109T112500
 SUMMARY:Nsk (w)
 LOCATION:317 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T114000
@@ -497,6 +518,13 @@ DTEND;TZID=Europe/Warsaw:20261113T150500
 SUMMARY:PZiP (ć)
 LOCATION:307 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T080000
+DTEND;TZID=Europe/Warsaw:20261116T093500
+SUMMARY:Kre (w)
+LOCATION:078 S
+DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T080000
@@ -737,6 +765,13 @@ LOCATION:316 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261207T080000
+DTEND;TZID=Europe/Warsaw:20261207T093500
+SUMMARY:Ab (L)
+LOCATION:085 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T095000
 DTEND;TZID=Europe/Warsaw:20261207T112500
 SUMMARY:Kre (L)
@@ -877,6 +912,13 @@ LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T080000
+DTEND;TZID=Europe/Warsaw:20261221T093500
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T095000
 DTEND;TZID=Europe/Warsaw:20261221T112500
 SUMMARY:Ab (w)
@@ -966,6 +1008,13 @@ DTEND;TZID=Europe/Warsaw:20270115T150500
 SUMMARY:SZP (L)
 LOCATION:085 S
 DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T080000
+DTEND;TZID=Europe/Warsaw:20270118T093500
+SUMMARY:Nsk (ć)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T095000

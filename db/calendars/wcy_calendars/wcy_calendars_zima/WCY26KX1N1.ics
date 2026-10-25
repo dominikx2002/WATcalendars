@@ -27,7 +27,7 @@ DTSTART;TZID=Europe/Warsaw:20261003T080000
 DTEND;TZID=Europe/Warsaw:20261003T112500
 SUMMARY:Ing (s)
 LOCATION:klub WAT
-DESCRIPTION:Inauguracja -\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1
+DESCRIPTION:Inauguracja\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T114000
@@ -72,11 +72,11 @@ LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261010T095000
+DTSTART;TZID=Europe/Warsaw:20261010T080000
 DTEND;TZID=Europe/Warsaw:20261010T112500
 SUMMARY:WdI (w)
 LOCATION:313 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T114000
@@ -121,11 +121,11 @@ LOCATION:317 S
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261017T095000
+DTSTART;TZID=Europe/Warsaw:20261017T080000
 DTEND;TZID=Europe/Warsaw:20261017T112500
 SUMMARY:Wzp (w)
 LOCATION:317 S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Piotr Kobielski
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T114000
@@ -177,11 +177,11 @@ LOCATION:205 65
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261024T095000
+DTSTART;TZID=Europe/Warsaw:20261024T080000
 DTEND;TZID=Europe/Warsaw:20261024T112500
 SUMMARY:Wzp (w)
 LOCATION:317 S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Piotr Kobielski
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T114000
@@ -224,6 +224,13 @@ DTEND;TZID=Europe/Warsaw:20261025T184500
 SUMMARY:M1 (ć)
 LOCATION:201 65
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T080000
+DTEND;TZID=Europe/Warsaw:20261114T093500
+SUMMARY:PGI (ć)
+LOCATION:204 65
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. (prof. ucz.) Marcin Wachowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T095000
@@ -282,6 +289,13 @@ LOCATION:205 65
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T080000
+DTEND;TZID=Europe/Warsaw:20261121T093500
+SUMMARY:MD1 (w)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T095000
 DTEND;TZID=Europe/Warsaw:20261121T112500
 SUMMARY:WdI (L)
@@ -336,6 +350,13 @@ DTEND;TZID=Europe/Warsaw:20261122T203500
 SUMMARY:M1 (ć)
 LOCATION:205 65
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261205T080000
+DTEND;TZID=Europe/Warsaw:20261205T093500
+SUMMARY:MD1 (w)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T114000
@@ -394,11 +415,11 @@ LOCATION:203 65
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261212T095000
+DTSTART;TZID=Europe/Warsaw:20261212T080000
 DTEND;TZID=Europe/Warsaw:20261212T112500
 SUMMARY:Ez (w)
 LOCATION:317 S
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Krzysztof Sołoducha
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T114000
@@ -450,6 +471,13 @@ LOCATION:201 65
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr hab. inż. (prof. ucz.) Marcin Wachowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261219T080000
+DTEND;TZID=Europe/Warsaw:20261219T093500
+SUMMARY:MD1 (w)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T095000
 DTEND;TZID=Europe/Warsaw:20261219T112500
 SUMMARY:WdI (L)
@@ -485,11 +513,11 @@ LOCATION:204 65
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270109T095000
+DTSTART;TZID=Europe/Warsaw:20270109T080000
 DTEND;TZID=Europe/Warsaw:20270109T112500
 SUMMARY:Mat2 (ć)
 LOCATION:201 65
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270110T080000
@@ -504,6 +532,13 @@ DTEND;TZID=Europe/Warsaw:20270110T131500
 SUMMARY:Mat2 (w)
 LOCATION:317 S
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270116T080000
+DTEND;TZID=Europe/Warsaw:20270116T093500
+SUMMARY:PGI (ć)
+LOCATION:30/ 54 29/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. (prof. ucz.) Marcin Wachowski; mgr inż. Maciej Spychała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T095000
@@ -574,6 +609,13 @@ DTEND;TZID=Europe/Warsaw:20270124T165500
 SUMMARY:Mat2 (ć)
 LOCATION:203 65
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270130T080000
+DTEND;TZID=Europe/Warsaw:20270130T093500
+SUMMARY:MD1 (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270130T095000

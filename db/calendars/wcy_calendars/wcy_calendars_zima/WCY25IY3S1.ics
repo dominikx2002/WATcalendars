@@ -83,7 +83,7 @@ DTSTART;TZID=Europe/Warsaw:20261006T114000
 DTEND;TZID=Europe/Warsaw:20261006T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T133000
@@ -97,7 +97,7 @@ DTSTART;TZID=Europe/Warsaw:20261006T175000
 DTEND;TZID=Europe/Warsaw:20261006T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T095000
@@ -167,7 +167,7 @@ DTSTART;TZID=Europe/Warsaw:20261013T114000
 DTEND;TZID=Europe/Warsaw:20261013T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T133000
@@ -181,7 +181,7 @@ DTSTART;TZID=Europe/Warsaw:20261013T175000
 DTEND;TZID=Europe/Warsaw:20261013T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261014T080000
@@ -226,6 +226,13 @@ LOCATION:313 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T095000
+DTEND;TZID=Europe/Warsaw:20261019T112500
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T114000
 DTEND;TZID=Europe/Warsaw:20261019T131500
 SUMMARY:Aok (w)
@@ -258,7 +265,7 @@ DTSTART;TZID=Europe/Warsaw:20261020T114000
 DTEND;TZID=Europe/Warsaw:20261020T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T133000
@@ -272,7 +279,7 @@ DTSTART;TZID=Europe/Warsaw:20261020T175000
 DTEND;TZID=Europe/Warsaw:20261020T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T095000
@@ -370,7 +377,7 @@ DTSTART;TZID=Europe/Warsaw:20261027T114000
 DTEND;TZID=Europe/Warsaw:20261027T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T133000
@@ -384,7 +391,7 @@ DTSTART;TZID=Europe/Warsaw:20261027T175000
 DTEND;TZID=Europe/Warsaw:20261027T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T080000
@@ -454,7 +461,7 @@ DTSTART;TZID=Europe/Warsaw:20261103T114000
 DTEND;TZID=Europe/Warsaw:20261103T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T133000
@@ -468,7 +475,7 @@ DTSTART;TZID=Europe/Warsaw:20261103T175000
 DTEND;TZID=Europe/Warsaw:20261103T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T080000
@@ -514,7 +521,7 @@ DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T080000
-DTEND;TZID=Europe/Warsaw:20261109T093500
+DTEND;TZID=Europe/Warsaw:20261109T112500
 SUMMARY:BD (L)
 LOCATION:227 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Roman Wantoch-Rekowski
@@ -552,7 +559,7 @@ DTSTART;TZID=Europe/Warsaw:20261110T114000
 DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T133000
@@ -566,7 +573,7 @@ DTSTART;TZID=Europe/Warsaw:20261110T175000
 DTEND;TZID=Europe/Warsaw:20261110T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T080000
@@ -604,6 +611,13 @@ LOCATION:317 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T095000
+DTEND;TZID=Europe/Warsaw:20261116T112500
+SUMMARY:SO (w)
+LOCATION:316 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T114000
 DTEND;TZID=Europe/Warsaw:20261116T131500
 SUMMARY:Aok (w)
@@ -636,7 +650,7 @@ DTSTART;TZID=Europe/Warsaw:20261117T114000
 DTEND;TZID=Europe/Warsaw:20261117T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T133000
@@ -650,7 +664,7 @@ DTSTART;TZID=Europe/Warsaw:20261117T175000
 DTEND;TZID=Europe/Warsaw:20261117T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T095000
@@ -702,6 +716,20 @@ LOCATION:228 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261123T080000
+DTEND;TZID=Europe/Warsaw:20261123T093500
+SUMMARY:SO (L)
+LOCATION:106 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261123T095000
+DTEND;TZID=Europe/Warsaw:20261123T112500
+SUMMARY:SO (w)
+LOCATION:316 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T114000
 DTEND;TZID=Europe/Warsaw:20261123T131500
 SUMMARY:Aok (w)
@@ -727,7 +755,7 @@ DTSTART;TZID=Europe/Warsaw:20261124T114000
 DTEND;TZID=Europe/Warsaw:20261124T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T133000
@@ -741,7 +769,7 @@ DTSTART;TZID=Europe/Warsaw:20261124T175000
 DTEND;TZID=Europe/Warsaw:20261124T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T080000
@@ -756,6 +784,13 @@ DTEND;TZID=Europe/Warsaw:20261126T192500
 SUMMARY:Po (L)
 LOCATION:233 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T095000
+DTEND;TZID=Europe/Warsaw:20261130T112500
+SUMMARY:Swb (w)
+LOCATION:313 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T114000
@@ -790,7 +825,7 @@ DTSTART;TZID=Europe/Warsaw:20261201T114000
 DTEND;TZID=Europe/Warsaw:20261201T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T133000
@@ -804,7 +839,7 @@ DTSTART;TZID=Europe/Warsaw:20261201T175000
 DTEND;TZID=Europe/Warsaw:20261201T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T095000
@@ -867,7 +902,7 @@ DTSTART;TZID=Europe/Warsaw:20261208T114000
 DTEND;TZID=Europe/Warsaw:20261208T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T133000
@@ -881,7 +916,7 @@ DTSTART;TZID=Europe/Warsaw:20261208T175000
 DTEND;TZID=Europe/Warsaw:20261208T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T080000
@@ -937,7 +972,7 @@ DTSTART;TZID=Europe/Warsaw:20261215T114000
 DTEND;TZID=Europe/Warsaw:20261215T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T133000
@@ -951,7 +986,7 @@ DTSTART;TZID=Europe/Warsaw:20261215T175000
 DTEND;TZID=Europe/Warsaw:20261215T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T095000
@@ -1003,6 +1038,13 @@ LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Iwona Jakubowska; dr inż Kinga Majkowycz; dr inż. Aleksandra Walewska
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T095000
+DTEND;TZID=Europe/Warsaw:20261221T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T114000
 DTEND;TZID=Europe/Warsaw:20261221T131500
 SUMMARY:SO (L)
@@ -1035,7 +1077,7 @@ DTSTART;TZID=Europe/Warsaw:20261222T114000
 DTEND;TZID=Europe/Warsaw:20261222T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T133000
@@ -1049,7 +1091,7 @@ DTSTART;TZID=Europe/Warsaw:20261222T175000
 DTEND;TZID=Europe/Warsaw:20261222T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T080000
@@ -1098,7 +1140,7 @@ DTSTART;TZID=Europe/Warsaw:20270112T114000
 DTEND;TZID=Europe/Warsaw:20270112T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T133000
@@ -1112,7 +1154,7 @@ DTSTART;TZID=Europe/Warsaw:20270112T175000
 DTEND;TZID=Europe/Warsaw:20270112T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T080000
@@ -1154,7 +1196,7 @@ DTSTART;TZID=Europe/Warsaw:20270119T114000
 DTEND;TZID=Europe/Warsaw:20270119T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T133000
@@ -1168,7 +1210,7 @@ DTSTART;TZID=Europe/Warsaw:20270119T175000
 DTEND;TZID=Europe/Warsaw:20270119T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T114000
@@ -1196,7 +1238,7 @@ DTSTART;TZID=Europe/Warsaw:20270126T114000
 DTEND;TZID=Europe/Warsaw:20270126T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T133000
@@ -1210,7 +1252,7 @@ DTSTART;TZID=Europe/Warsaw:20270126T175000
 DTEND;TZID=Europe/Warsaw:20270126T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T080000

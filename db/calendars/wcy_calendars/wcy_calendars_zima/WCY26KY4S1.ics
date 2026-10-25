@@ -83,14 +83,14 @@ DTSTART;TZID=Europe/Warsaw:20261008T160000
 DTEND;TZID=Europe/Warsaw:20261008T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T175000
 DTEND;TZID=Europe/Warsaw:20261008T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T080000
@@ -153,14 +153,14 @@ DTSTART;TZID=Europe/Warsaw:20261015T160000
 DTEND;TZID=Europe/Warsaw:20261015T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T175000
 DTEND;TZID=Europe/Warsaw:20261015T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T114000
@@ -258,14 +258,14 @@ DTSTART;TZID=Europe/Warsaw:20261022T160000
 DTEND;TZID=Europe/Warsaw:20261022T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T175000
 DTEND;TZID=Europe/Warsaw:20261022T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T080000
@@ -356,14 +356,14 @@ DTSTART;TZID=Europe/Warsaw:20261029T160000
 DTEND;TZID=Europe/Warsaw:20261029T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T175000
 DTEND;TZID=Europe/Warsaw:20261029T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T080000
@@ -378,6 +378,13 @@ DTEND;TZID=Europe/Warsaw:20261030T112500
 SUMMARY:WdI (w)
 LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T080000
+DTEND;TZID=Europe/Warsaw:20261102T093500
+SUMMARY:Matematyka II (ć)
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
@@ -447,14 +454,14 @@ DTSTART;TZID=Europe/Warsaw:20261105T160000
 DTEND;TZID=Europe/Warsaw:20261105T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T175000
 DTEND;TZID=Europe/Warsaw:20261105T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T080000
@@ -490,6 +497,13 @@ DTEND;TZID=Europe/Warsaw:20261106T192500
 SUMMARY:WdI (L)
 LOCATION:219 65
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Paź
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T080000
+DTEND;TZID=Europe/Warsaw:20261109T093500
+SUMMARY:Matematyka II (ć)
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T095000
@@ -559,14 +573,14 @@ DTSTART;TZID=Europe/Warsaw:20261112T160000
 DTEND;TZID=Europe/Warsaw:20261112T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T175000
 DTEND;TZID=Europe/Warsaw:20261112T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T080000
@@ -581,6 +595,13 @@ DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:Matematyka I (ć)
 LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T080000
+DTEND;TZID=Europe/Warsaw:20261116T093500
+SUMMARY:Matematyka II (ć)
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T095000
@@ -678,14 +699,14 @@ DTSTART;TZID=Europe/Warsaw:20261119T160000
 DTEND;TZID=Europe/Warsaw:20261119T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T175000
 DTEND;TZID=Europe/Warsaw:20261119T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T080000
@@ -700,6 +721,13 @@ DTEND;TZID=Europe/Warsaw:20261120T112500
 SUMMARY:PGI (ć)
 LOCATION:29/ 54 30/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Janusz Telega; dr inż. Karol Kończalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261123T080000
+DTEND;TZID=Europe/Warsaw:20261123T093500
+SUMMARY:Matematyka II (ć)
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T095000
@@ -776,14 +804,21 @@ DTSTART;TZID=Europe/Warsaw:20261126T160000
 DTEND;TZID=Europe/Warsaw:20261126T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T175000
 DTEND;TZID=Europe/Warsaw:20261126T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T080000
+DTEND;TZID=Europe/Warsaw:20261130T093500
+SUMMARY:Matematyka II (ć)
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T095000
@@ -846,18 +881,25 @@ DTSTART;TZID=Europe/Warsaw:20261203T160000
 DTEND;TZID=Europe/Warsaw:20261203T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T175000
 DTEND;TZID=Europe/Warsaw:20261203T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T080000
 DTEND;TZID=Europe/Warsaw:20261204T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261207T080000
+DTEND;TZID=Europe/Warsaw:20261207T093500
 SUMMARY:Matematyka I (ć)
 LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
@@ -923,14 +965,21 @@ DTSTART;TZID=Europe/Warsaw:20261210T160000
 DTEND;TZID=Europe/Warsaw:20261210T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T175000
 DTEND;TZID=Europe/Warsaw:20261210T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261214T080000
+DTEND;TZID=Europe/Warsaw:20261214T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T095000
@@ -1014,18 +1063,25 @@ DTSTART;TZID=Europe/Warsaw:20261217T160000
 DTEND;TZID=Europe/Warsaw:20261217T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T175000
 DTEND;TZID=Europe/Warsaw:20261217T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T080000
 DTEND;TZID=Europe/Warsaw:20261218T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T080000
+DTEND;TZID=Europe/Warsaw:20261221T093500
 SUMMARY:Matematyka I (ć)
 LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
@@ -1091,18 +1147,25 @@ DTSTART;TZID=Europe/Warsaw:20270107T160000
 DTEND;TZID=Europe/Warsaw:20270107T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T175000
 DTEND;TZID=Europe/Warsaw:20270107T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T080000
 DTEND;TZID=Europe/Warsaw:20270108T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T080000
+DTEND;TZID=Europe/Warsaw:20270111T093500
 SUMMARY:Matematyka I (ć)
 LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
@@ -1175,14 +1238,14 @@ DTSTART;TZID=Europe/Warsaw:20270114T160000
 DTEND;TZID=Europe/Warsaw:20270114T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T175000
 DTEND;TZID=Europe/Warsaw:20270114T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T080000
@@ -1204,6 +1267,13 @@ DTEND;TZID=Europe/Warsaw:20270115T173500
 SUMMARY:MD1 (Zp)
 LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: zal popr\nNumer zajęć: 5\nProwadzący: mgr inż. Anna  Cichocka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T080000
+DTEND;TZID=Europe/Warsaw:20270118T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T095000
@@ -1266,14 +1336,14 @@ DTSTART;TZID=Europe/Warsaw:20270121T160000
 DTEND;TZID=Europe/Warsaw:20270121T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T175000
 DTEND;TZID=Europe/Warsaw:20270121T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T080000
@@ -1288,6 +1358,13 @@ DTEND;TZID=Europe/Warsaw:20270122T112500
 SUMMARY:WDM (ć)
 LOCATION:313 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Justyna Łukasiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T080000
+DTEND;TZID=Europe/Warsaw:20270125T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T095000
@@ -1343,14 +1420,14 @@ DTSTART;TZID=Europe/Warsaw:20270128T160000
 DTEND;TZID=Europe/Warsaw:20270128T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T175000
 DTEND;TZID=Europe/Warsaw:20270128T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T080000

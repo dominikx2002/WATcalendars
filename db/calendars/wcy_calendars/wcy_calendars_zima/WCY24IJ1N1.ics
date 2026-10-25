@@ -121,6 +121,13 @@ LOCATION:309 S
 DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Marzenna Miłek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T080000
+DTEND;TZID=Europe/Warsaw:20261024T093500
+SUMMARY:Spg (w)
+LOCATION:252 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T095000
 DTEND;TZID=Europe/Warsaw:20261024T112500
 SUMMARY:Spg (L)
@@ -154,6 +161,13 @@ DTEND;TZID=Europe/Warsaw:20261025T112500
 SUMMARY:NET (L)
 LOCATION:252 S
 DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T080000
+DTEND;TZID=Europe/Warsaw:20261114T093500
+SUMMARY:PZiP (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Ewa Stroińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T095000
@@ -196,6 +210,13 @@ DTEND;TZID=Europe/Warsaw:20261115T184500
 SUMMARY:PZiP (w)
 LOCATION:308 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Ewa Stroińska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T080000
+DTEND;TZID=Europe/Warsaw:20261121T093500
+SUMMARY:PZiP (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Ewa Stroińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T095000
@@ -268,11 +289,11 @@ LOCATION:308 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261205T095000
+DTSTART;TZID=Europe/Warsaw:20261205T080000
 DTEND;TZID=Europe/Warsaw:20261205T112500
 SUMMARY:PSy (w)
 LOCATION:308 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T114000
@@ -322,6 +343,13 @@ DTEND;TZID=Europe/Warsaw:20261206T184500
 SUMMARY:Gk (L)
 LOCATION:252 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261212T080000
+DTEND;TZID=Europe/Warsaw:20261212T093500
+SUMMARY:Spg (L)
+LOCATION:237 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T095000
@@ -380,6 +408,13 @@ LOCATION:120 65
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261219T080000
+DTEND;TZID=Europe/Warsaw:20261219T093500
+SUMMARY:PZiP (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Ewa Stroińska
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T095000
 DTEND;TZID=Europe/Warsaw:20261219T112500
 SUMMARY:PZiP (ć)
@@ -422,11 +457,11 @@ LOCATION:252 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270109T095000
+DTSTART;TZID=Europe/Warsaw:20270109T080000
 DTEND;TZID=Europe/Warsaw:20270109T112500
 SUMMARY:PSy (L)
 LOCATION:252 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T114000
@@ -455,6 +490,13 @@ DTEND;TZID=Europe/Warsaw:20270110T150500
 SUMMARY:SAR (L)
 LOCATION:252 S
 DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Marzenna Miłek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270116T080000
+DTEND;TZID=Europe/Warsaw:20270116T093500
+SUMMARY:PZiP (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Ewa Stroińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T095000
@@ -492,11 +534,11 @@ LOCATION:252 S
 DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Marzenna Miłek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270123T095000
+DTSTART;TZID=Europe/Warsaw:20270123T080000
 DTEND;TZID=Europe/Warsaw:20270123T112500
 SUMMARY:PSy (L)
 LOCATION:252 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T114000

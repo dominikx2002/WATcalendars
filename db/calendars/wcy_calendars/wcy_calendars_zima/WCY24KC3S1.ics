@@ -513,6 +513,13 @@ LOCATION:317 S
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T080000
+DTEND;TZID=Europe/Warsaw:20261130T093500
+SUMMARY:Est (P)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T114000
 DTEND;TZID=Europe/Warsaw:20261130T150500
 SUMMARY:htm (w)
@@ -646,11 +653,11 @@ LOCATION:237 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261214T095000
+DTSTART;TZID=Europe/Warsaw:20261214T080000
 DTEND;TZID=Europe/Warsaw:20261214T112500
 SUMMARY:ZKwI (L)
 LOCATION:085 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T114000
@@ -744,11 +751,11 @@ LOCATION:125 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270111T095000
+DTSTART;TZID=Europe/Warsaw:20270111T080000
 DTEND;TZID=Europe/Warsaw:20270111T112500
 SUMMARY:ZKwI (L)
 LOCATION:085 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T114000
@@ -856,11 +863,11 @@ LOCATION:317 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270125T095000
+DTSTART;TZID=Europe/Warsaw:20270125T080000
 DTEND;TZID=Europe/Warsaw:20270125T112500
 SUMMARY:ZKwI (L)
 LOCATION:085 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T114000

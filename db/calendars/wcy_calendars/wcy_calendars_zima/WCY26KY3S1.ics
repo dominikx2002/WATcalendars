@@ -97,14 +97,14 @@ DTSTART;TZID=Europe/Warsaw:20261008T160000
 DTEND;TZID=Europe/Warsaw:20261008T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T175000
 DTEND;TZID=Europe/Warsaw:20261008T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T080000
@@ -112,6 +112,13 @@ DTEND;TZID=Europe/Warsaw:20261009T112500
 SUMMARY:WdI (w)
 LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261012T095000
+DTEND;TZID=Europe/Warsaw:20261012T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T095000
@@ -167,14 +174,14 @@ DTSTART;TZID=Europe/Warsaw:20261015T160000
 DTEND;TZID=Europe/Warsaw:20261015T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T175000
 DTEND;TZID=Europe/Warsaw:20261015T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T080000
@@ -196,6 +203,13 @@ DTEND;TZID=Europe/Warsaw:20261016T131500
 SUMMARY:WdI (w)
 LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T095000
+DTEND;TZID=Europe/Warsaw:20261019T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T114000
@@ -272,14 +286,14 @@ DTSTART;TZID=Europe/Warsaw:20261022T160000
 DTEND;TZID=Europe/Warsaw:20261022T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T175000
 DTEND;TZID=Europe/Warsaw:20261022T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T080000
@@ -301,6 +315,13 @@ DTEND;TZID=Europe/Warsaw:20261023T150500
 SUMMARY:Matematyka I (ć)
 LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T095000
+DTEND;TZID=Europe/Warsaw:20261026T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T114000
@@ -370,14 +391,14 @@ DTSTART;TZID=Europe/Warsaw:20261029T160000
 DTEND;TZID=Europe/Warsaw:20261029T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T175000
 DTEND;TZID=Europe/Warsaw:20261029T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T080000
@@ -399,6 +420,13 @@ DTEND;TZID=Europe/Warsaw:20261030T150500
 SUMMARY:Matematyka I (ć)
 LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T095000
+DTEND;TZID=Europe/Warsaw:20261102T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T114000
@@ -461,14 +489,14 @@ DTSTART;TZID=Europe/Warsaw:20261105T160000
 DTEND;TZID=Europe/Warsaw:20261105T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T175000
 DTEND;TZID=Europe/Warsaw:20261105T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T095000
@@ -483,6 +511,13 @@ DTEND;TZID=Europe/Warsaw:20261106T131500
 SUMMARY:PGI (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Janusz Torzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T095000
+DTEND;TZID=Europe/Warsaw:20261109T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T114000
@@ -538,14 +573,14 @@ DTSTART;TZID=Europe/Warsaw:20261112T160000
 DTEND;TZID=Europe/Warsaw:20261112T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T175000
 DTEND;TZID=Europe/Warsaw:20261112T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T095000
@@ -553,6 +588,13 @@ DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:PGI (ć)
 LOCATION:101 65
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Katarzyna Jasik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T095000
+DTEND;TZID=Europe/Warsaw:20261116T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T114000
@@ -629,14 +671,14 @@ DTSTART;TZID=Europe/Warsaw:20261119T160000
 DTEND;TZID=Europe/Warsaw:20261119T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T175000
 DTEND;TZID=Europe/Warsaw:20261119T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T095000
@@ -658,6 +700,13 @@ DTEND;TZID=Europe/Warsaw:20261120T192500
 SUMMARY:Wzp (ć)
 LOCATION:309 S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Piotr Kobielski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261123T095000
+DTEND;TZID=Europe/Warsaw:20261123T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T114000
@@ -741,14 +790,21 @@ DTSTART;TZID=Europe/Warsaw:20261126T160000
 DTEND;TZID=Europe/Warsaw:20261126T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T175000
 DTEND;TZID=Europe/Warsaw:20261126T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T095000
+DTEND;TZID=Europe/Warsaw:20261130T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T114000
@@ -811,14 +867,14 @@ DTSTART;TZID=Europe/Warsaw:20261203T160000
 DTEND;TZID=Europe/Warsaw:20261203T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T175000
 DTEND;TZID=Europe/Warsaw:20261203T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T194000
@@ -833,6 +889,13 @@ DTEND;TZID=Europe/Warsaw:20261204T112500
 SUMMARY:Matematyka I (ć)
 LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261207T095000
+DTEND;TZID=Europe/Warsaw:20261207T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T080000
@@ -888,14 +951,14 @@ DTSTART;TZID=Europe/Warsaw:20261210T160000
 DTEND;TZID=Europe/Warsaw:20261210T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T175000
 DTEND;TZID=Europe/Warsaw:20261210T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T114000
@@ -910,6 +973,13 @@ DTEND;TZID=Europe/Warsaw:20261211T150500
 SUMMARY:MD1 (ć)
 LOCATION:252 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Anna  Cichocka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261214T095000
+DTEND;TZID=Europe/Warsaw:20261214T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T114000
@@ -979,14 +1049,14 @@ DTSTART;TZID=Europe/Warsaw:20261217T160000
 DTEND;TZID=Europe/Warsaw:20261217T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T175000
 DTEND;TZID=Europe/Warsaw:20261217T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T114000
@@ -994,6 +1064,13 @@ DTEND;TZID=Europe/Warsaw:20261218T131500
 SUMMARY:Matematyka I (ć)
 LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T095000
+DTEND;TZID=Europe/Warsaw:20261221T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T114000
@@ -1077,14 +1154,14 @@ DTSTART;TZID=Europe/Warsaw:20270107T160000
 DTEND;TZID=Europe/Warsaw:20270107T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T175000
 DTEND;TZID=Europe/Warsaw:20270107T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T080000
@@ -1106,6 +1183,13 @@ DTEND;TZID=Europe/Warsaw:20270108T150500
 SUMMARY:Matematyka I (ć)
 LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T095000
+DTEND;TZID=Europe/Warsaw:20270111T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T133000
@@ -1161,14 +1245,14 @@ DTSTART;TZID=Europe/Warsaw:20270114T160000
 DTEND;TZID=Europe/Warsaw:20270114T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T175000
 DTEND;TZID=Europe/Warsaw:20270114T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T095000
@@ -1190,6 +1274,13 @@ DTEND;TZID=Europe/Warsaw:20270115T173500
 SUMMARY:MD1 (Zp)
 LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: zal popr\nNumer zajęć: 5\nProwadzący: mgr inż. Anna  Cichocka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T095000
+DTEND;TZID=Europe/Warsaw:20270118T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T114000
@@ -1252,14 +1343,14 @@ DTSTART;TZID=Europe/Warsaw:20270121T160000
 DTEND;TZID=Europe/Warsaw:20270121T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T175000
 DTEND;TZID=Europe/Warsaw:20270121T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T114000
@@ -1267,6 +1358,13 @@ DTEND;TZID=Europe/Warsaw:20270122T131500
 SUMMARY:Matematyka II (ć)
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T095000
+DTEND;TZID=Europe/Warsaw:20270125T112500
+SUMMARY:Matematyka I (w)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T095000
@@ -1322,14 +1420,14 @@ DTSTART;TZID=Europe/Warsaw:20270128T160000
 DTEND;TZID=Europe/Warsaw:20270128T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T175000
 DTEND;TZID=Europe/Warsaw:20270128T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T080000

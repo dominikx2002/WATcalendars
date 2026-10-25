@@ -97,14 +97,14 @@ DTSTART;TZID=Europe/Warsaw:20261008T160000
 DTEND;TZID=Europe/Warsaw:20261008T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T175000
 DTEND;TZID=Europe/Warsaw:20261008T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T080000
@@ -126,6 +126,13 @@ DTEND;TZID=Europe/Warsaw:20261009T150500
 SUMMARY:WDM (w)
 LOCATION:316 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Zarański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261012T080000
+DTEND;TZID=Europe/Warsaw:20261012T093500
+SUMMARY:Matematyka II (w)
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T114000
@@ -181,14 +188,14 @@ DTSTART;TZID=Europe/Warsaw:20261015T160000
 DTEND;TZID=Europe/Warsaw:20261015T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T175000
 DTEND;TZID=Europe/Warsaw:20261015T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T080000
@@ -203,6 +210,13 @@ DTEND;TZID=Europe/Warsaw:20261016T192500
 SUMMARY:PGI (ć)
 LOCATION:29/ 54 30/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Janusz Telega; mgr inż.  Konrad Siwek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T080000
+DTEND;TZID=Europe/Warsaw:20261019T093500
+SUMMARY:Matematyka II (ć)
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T133000
@@ -265,14 +279,14 @@ DTSTART;TZID=Europe/Warsaw:20261022T160000
 DTEND;TZID=Europe/Warsaw:20261022T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T175000
 DTEND;TZID=Europe/Warsaw:20261022T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T080000
@@ -287,6 +301,13 @@ DTEND;TZID=Europe/Warsaw:20261023T112500
 SUMMARY:WDM (w)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T080000
+DTEND;TZID=Europe/Warsaw:20261026T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T095000
@@ -349,14 +370,14 @@ DTSTART;TZID=Europe/Warsaw:20261029T160000
 DTEND;TZID=Europe/Warsaw:20261029T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T175000
 DTEND;TZID=Europe/Warsaw:20261029T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T194000
@@ -385,6 +406,13 @@ DTEND;TZID=Europe/Warsaw:20261030T192500
 SUMMARY:Wzp (w)
 LOCATION:313 S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Piotr Kobielski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T080000
+DTEND;TZID=Europe/Warsaw:20261102T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
@@ -468,14 +496,14 @@ DTSTART;TZID=Europe/Warsaw:20261105T160000
 DTEND;TZID=Europe/Warsaw:20261105T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T175000
 DTEND;TZID=Europe/Warsaw:20261105T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T080000
@@ -490,6 +518,13 @@ DTEND;TZID=Europe/Warsaw:20261106T112500
 SUMMARY:WDM (w)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T080000
+DTEND;TZID=Europe/Warsaw:20261109T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T095000
@@ -559,14 +594,14 @@ DTSTART;TZID=Europe/Warsaw:20261112T160000
 DTEND;TZID=Europe/Warsaw:20261112T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T175000
 DTEND;TZID=Europe/Warsaw:20261112T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T095000
@@ -671,14 +706,14 @@ DTSTART;TZID=Europe/Warsaw:20261119T160000
 DTEND;TZID=Europe/Warsaw:20261119T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T175000
 DTEND;TZID=Europe/Warsaw:20261119T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T080000
@@ -769,14 +804,21 @@ DTSTART;TZID=Europe/Warsaw:20261126T160000
 DTEND;TZID=Europe/Warsaw:20261126T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T175000
 DTEND;TZID=Europe/Warsaw:20261126T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T080000
+DTEND;TZID=Europe/Warsaw:20261130T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T095000
@@ -839,14 +881,14 @@ DTSTART;TZID=Europe/Warsaw:20261203T160000
 DTEND;TZID=Europe/Warsaw:20261203T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T175000
 DTEND;TZID=Europe/Warsaw:20261203T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T080000
@@ -930,14 +972,14 @@ DTSTART;TZID=Europe/Warsaw:20261210T160000
 DTEND;TZID=Europe/Warsaw:20261210T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T175000
 DTEND;TZID=Europe/Warsaw:20261210T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T080000
@@ -945,6 +987,13 @@ DTEND;TZID=Europe/Warsaw:20261211T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261214T080000
+DTEND;TZID=Europe/Warsaw:20261214T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T095000
@@ -1007,14 +1056,14 @@ DTSTART;TZID=Europe/Warsaw:20261217T160000
 DTEND;TZID=Europe/Warsaw:20261217T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T175000
 DTEND;TZID=Europe/Warsaw:20261217T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T080000
@@ -1043,6 +1092,13 @@ DTEND;TZID=Europe/Warsaw:20261218T211500
 SUMMARY:Wzp (ć)
 LOCATION:307 S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr Piotr Kobielski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T080000
+DTEND;TZID=Europe/Warsaw:20261221T093500
+SUMMARY:PGI (ć)
+LOCATION:109/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Janusz Telega
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T080000
@@ -1098,14 +1154,14 @@ DTSTART;TZID=Europe/Warsaw:20270107T160000
 DTEND;TZID=Europe/Warsaw:20270107T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T175000
 DTEND;TZID=Europe/Warsaw:20270107T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T080000
@@ -1120,6 +1176,13 @@ DTEND;TZID=Europe/Warsaw:20270108T112500
 SUMMARY:Matematyka II (ć)
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T080000
+DTEND;TZID=Europe/Warsaw:20270111T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T095000
@@ -1175,14 +1238,14 @@ DTSTART;TZID=Europe/Warsaw:20270114T160000
 DTEND;TZID=Europe/Warsaw:20270114T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T175000
 DTEND;TZID=Europe/Warsaw:20270114T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T080000
@@ -1211,6 +1274,13 @@ DTEND;TZID=Europe/Warsaw:20270115T173500
 SUMMARY:MD1 (Zp)
 LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: zal popr\nNumer zajęć: 5\nProwadzący: mgr inż. Anna  Cichocka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T080000
+DTEND;TZID=Europe/Warsaw:20270118T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T095000
@@ -1273,14 +1343,14 @@ DTSTART;TZID=Europe/Warsaw:20270121T160000
 DTEND;TZID=Europe/Warsaw:20270121T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T175000
 DTEND;TZID=Europe/Warsaw:20270121T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T114000
@@ -1295,6 +1365,13 @@ DTEND;TZID=Europe/Warsaw:20270122T150500
 SUMMARY:WDM (ć)
 LOCATION:317 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Justyna Łukasiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T080000
+DTEND;TZID=Europe/Warsaw:20270125T093500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T095000
@@ -1350,14 +1427,14 @@ DTSTART;TZID=Europe/Warsaw:20270128T160000
 DTEND;TZID=Europe/Warsaw:20270128T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T175000
 DTEND;TZID=Europe/Warsaw:20270128T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T080000

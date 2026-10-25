@@ -191,11 +191,11 @@ LOCATION:085 S
 DESCRIPTION:Jednokierunkowe funkcje skrótu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261117T095000
+DTSTART;TZID=Europe/Warsaw:20261117T080000
 DTEND;TZID=Europe/Warsaw:20261117T112500
 SUMMARY:Algor (w)
 LOCATION:078 S
-DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Krzysztof Mańk
+DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T114000

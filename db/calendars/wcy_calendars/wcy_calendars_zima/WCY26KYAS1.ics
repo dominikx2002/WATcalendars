@@ -118,7 +118,7 @@ DTSTART;TZID=Europe/Warsaw:20261008T175000
 DTEND;TZID=Europe/Warsaw:20261008T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T095000
@@ -181,7 +181,7 @@ DTSTART;TZID=Europe/Warsaw:20261015T175000
 DTEND;TZID=Europe/Warsaw:20261015T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T095000
@@ -265,7 +265,14 @@ DTSTART;TZID=Europe/Warsaw:20261022T175000
 DTEND;TZID=Europe/Warsaw:20261022T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T080000
+DTEND;TZID=Europe/Warsaw:20261026T093500
+SUMMARY:Seiss (w)
+LOCATION:308 S
+DESCRIPTION:Selected issues of law\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T095000
@@ -356,7 +363,7 @@ DTSTART;TZID=Europe/Warsaw:20261029T175000
 DTEND;TZID=Europe/Warsaw:20261029T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T080000
@@ -371,6 +378,13 @@ DTEND;TZID=Europe/Warsaw:20261030T211500
 SUMMARY:Boeg (ć)
 LOCATION:29/ 54 30/ 54
 DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T080000
+DTEND;TZID=Europe/Warsaw:20261102T093500
+SUMMARY:Boeg (ć)
+LOCATION:204 65
+DESCRIPTION:Basics of Engineering Graphics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. (prof. ucz.) Volodymyr Hutsaylyuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
@@ -447,7 +461,7 @@ DTSTART;TZID=Europe/Warsaw:20261105T175000
 DTEND;TZID=Europe/Warsaw:20261105T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T095000
@@ -455,6 +469,13 @@ DTEND;TZID=Europe/Warsaw:20261106T112500
 SUMMARY:Intm (w)
 LOCATION:S2 72
 DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T080000
+DTEND;TZID=Europe/Warsaw:20261109T093500
+SUMMARY:Math1 (ć)
+LOCATION:307 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T095000
@@ -524,7 +545,7 @@ DTSTART;TZID=Europe/Warsaw:20261112T175000
 DTEND;TZID=Europe/Warsaw:20261112T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T095000
@@ -532,6 +553,13 @@ DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:Intm (w)
 LOCATION:S2 72
 DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Mariusz Zieja
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T080000
+DTEND;TZID=Europe/Warsaw:20261116T093500
+SUMMARY:Seiss (ć)
+LOCATION:307 S
+DESCRIPTION:Selected issues of law\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T095000
@@ -601,7 +629,7 @@ DTSTART;TZID=Europe/Warsaw:20261119T175000
 DTEND;TZID=Europe/Warsaw:20261119T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T080000
@@ -678,14 +706,14 @@ DTSTART;TZID=Europe/Warsaw:20261126T175000
 DTEND;TZID=Europe/Warsaw:20261126T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261130T095000
+DTSTART;TZID=Europe/Warsaw:20261130T080000
 DTEND;TZID=Europe/Warsaw:20261130T112500
 SUMMARY:Intcs (L)
 LOCATION:252 S
-DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marcin Paź
+DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marcin Paź
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T114000
@@ -741,7 +769,7 @@ DTSTART;TZID=Europe/Warsaw:20261203T175000
 DTEND;TZID=Europe/Warsaw:20261203T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T095000
@@ -756,6 +784,13 @@ DTEND;TZID=Europe/Warsaw:20261204T131500
 SUMMARY:Intm (ć)
 LOCATION:S3 72
 DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: por. mgr inż. Włodzimierz Zalewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261207T080000
+DTEND;TZID=Europe/Warsaw:20261207T093500
+SUMMARY:Math1 (ć)
+LOCATION:307 S
+DESCRIPTION:Mathematics 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Justyna Ogorzały
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T095000
@@ -853,7 +888,7 @@ DTSTART;TZID=Europe/Warsaw:20261210T175000
 DTEND;TZID=Europe/Warsaw:20261210T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T114000
@@ -923,7 +958,7 @@ DTSTART;TZID=Europe/Warsaw:20261217T175000
 DTEND;TZID=Europe/Warsaw:20261217T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T114000
@@ -1007,7 +1042,7 @@ DTSTART;TZID=Europe/Warsaw:20270107T175000
 DTEND;TZID=Europe/Warsaw:20270107T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T095000
@@ -1098,7 +1133,7 @@ DTSTART;TZID=Europe/Warsaw:20270114T175000
 DTEND;TZID=Europe/Warsaw:20270114T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T095000
@@ -1106,6 +1141,13 @@ DTEND;TZID=Europe/Warsaw:20270115T112500
 SUMMARY:Math2 (ć)
 LOCATION:219 65
 DESCRIPTION:Mathematics 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T080000
+DTEND;TZID=Europe/Warsaw:20270118T093500
+SUMMARY:Intm (ć)
+LOCATION:S3 72
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: por. mgr inż. Włodzimierz Zalewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T095000
@@ -1182,7 +1224,7 @@ DTSTART;TZID=Europe/Warsaw:20270121T175000
 DTEND;TZID=Europe/Warsaw:20270121T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T095000
@@ -1197,6 +1239,13 @@ DTEND;TZID=Europe/Warsaw:20270122T131500
 SUMMARY:Proin (ć)
 LOCATION:307 S
 DESCRIPTION:Protection of Intellectual Property\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Marcin Mielnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T080000
+DTEND;TZID=Europe/Warsaw:20270125T093500
+SUMMARY:Intm (ć)
+LOCATION:S3 72
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: por. mgr inż. Włodzimierz Zalewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T095000
@@ -1238,7 +1287,7 @@ DTSTART;TZID=Europe/Warsaw:20270128T175000
 DTEND;TZID=Europe/Warsaw:20270128T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T095000

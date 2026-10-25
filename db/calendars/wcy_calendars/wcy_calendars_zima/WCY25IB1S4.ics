@@ -163,6 +163,13 @@ LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T095000
+DTEND;TZID=Europe/Warsaw:20261026T112500
+SUMMARY:Esi (w)
+LOCATION:228 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T114000
 DTEND;TZID=Europe/Warsaw:20261026T150500
 SUMMARY:Tim (w)
@@ -213,7 +220,7 @@ DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadz�
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T080000
-DTEND;TZID=Europe/Warsaw:20261102T093500
+DTEND;TZID=Europe/Warsaw:20261102T112500
 SUMMARY:Tim (w)
 LOCATION:228 S
 DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Paweł Pieczonka
@@ -324,6 +331,13 @@ LOCATION:308 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T095000
+DTEND;TZID=Europe/Warsaw:20261116T112500
+SUMMARY:Esi (ć)
+LOCATION:228 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T114000
 DTEND;TZID=Europe/Warsaw:20261116T131500
 SUMMARY:Wmo (ć)
@@ -387,6 +401,13 @@ LOCATION:308 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261123T095000
+DTEND;TZID=Europe/Warsaw:20261123T112500
+SUMMARY:Esi (ć)
+LOCATION:228 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T114000
 DTEND;TZID=Europe/Warsaw:20261123T131500
 SUMMARY:Wmo (ć)
@@ -448,6 +469,13 @@ DTEND;TZID=Europe/Warsaw:20261126T131500
 SUMMARY:ak (L)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T095000
+DTEND;TZID=Europe/Warsaw:20261130T112500
+SUMMARY:Esi (ć)
+LOCATION:228 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T114000
@@ -597,6 +625,13 @@ LOCATION:228 S
 DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261214T095000
+DTEND;TZID=Europe/Warsaw:20261214T112500
+SUMMARY:Esi (ć)
+LOCATION:228 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T114000
 DTEND;TZID=Europe/Warsaw:20261214T131500
 SUMMARY:Wmo (ć)
@@ -658,6 +693,20 @@ DTEND;TZID=Europe/Warsaw:20261217T131500
 SUMMARY:ak (L)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T080000
+DTEND;TZID=Europe/Warsaw:20261221T093500
+SUMMARY:Mispb (w)
+LOCATION:314 S
+DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T095000
+DTEND;TZID=Europe/Warsaw:20261221T112500
+SUMMARY:Esi (ć)
+LOCATION:228 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T114000
@@ -723,6 +772,13 @@ LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T095000
+DTEND;TZID=Europe/Warsaw:20270111T112500
+SUMMARY:Esi (ć)
+LOCATION:228 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T114000
 DTEND;TZID=Europe/Warsaw:20270111T150500
 SUMMARY:Mispb (P)
@@ -786,6 +842,13 @@ LOCATION:228 S
 DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T095000
+DTEND;TZID=Europe/Warsaw:20270118T112500
+SUMMARY:Esi (L)
+LOCATION:228 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T114000
 DTEND;TZID=Europe/Warsaw:20270118T150500
 SUMMARY:Mispb (P)
@@ -833,6 +896,13 @@ DTEND;TZID=Europe/Warsaw:20270121T131500
 SUMMARY:ak (L)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T095000
+DTEND;TZID=Europe/Warsaw:20270125T112500
+SUMMARY:Esi (L)
+LOCATION:228 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T114000

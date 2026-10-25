@@ -93,6 +93,13 @@ LOCATION:125 65
 DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T080000
+DTEND;TZID=Europe/Warsaw:20261019T112500
+SUMMARY:pzST (P)
+LOCATION:125 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T133000
 DTEND;TZID=Europe/Warsaw:20261019T150500
 SUMMARY:Ztel (w)
@@ -119,6 +126,13 @@ DTEND;TZID=Europe/Warsaw:20261028T150500
 SUMMARY:pzST (P)
 LOCATION:252 S
 DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T080000
+DTEND;TZID=Europe/Warsaw:20261102T112500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T133000

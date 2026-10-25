@@ -62,7 +62,7 @@ DTSTART;TZID=Europe/Warsaw:20261001T114000
 DTEND;TZID=Europe/Warsaw:20261001T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T133000
@@ -97,7 +97,14 @@ DTSTART;TZID=Europe/Warsaw:20261003T095000
 DTEND;TZID=Europe/Warsaw:20261003T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261005T080000
+DTEND;TZID=Europe/Warsaw:20261005T093500
+SUMMARY:SzS (w)
+LOCATION:ST.nr 1(KSP)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Wykład\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T080000
@@ -125,7 +132,7 @@ DTSTART;TZID=Europe/Warsaw:20261006T133000
 DTEND;TZID=Europe/Warsaw:20261006T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T160000
@@ -160,7 +167,7 @@ DTSTART;TZID=Europe/Warsaw:20261008T114000
 DTEND;TZID=Europe/Warsaw:20261008T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T133000
@@ -195,7 +202,7 @@ DTSTART;TZID=Europe/Warsaw:20261010T095000
 DTEND;TZID=Europe/Warsaw:20261010T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T095000
@@ -223,14 +230,14 @@ DTSTART;TZID=Europe/Warsaw:20261013T133000
 DTEND;TZID=Europe/Warsaw:20261013T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261014T080000
 DTEND;TZID=Europe/Warsaw:20261014T150500
 SUMMARY:DGB (ć)
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: DGB -
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: DGB
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T080000
@@ -244,7 +251,7 @@ DTSTART;TZID=Europe/Warsaw:20261015T114000
 DTEND;TZID=Europe/Warsaw:20261015T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T133000
@@ -279,7 +286,7 @@ DTSTART;TZID=Europe/Warsaw:20261017T095000
 DTEND;TZID=Europe/Warsaw:20261017T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T095000
@@ -321,7 +328,7 @@ DTSTART;TZID=Europe/Warsaw:20261020T133000
 DTEND;TZID=Europe/Warsaw:20261020T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T114000
@@ -349,7 +356,7 @@ DTSTART;TZID=Europe/Warsaw:20261022T114000
 DTEND;TZID=Europe/Warsaw:20261022T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T133000
@@ -384,7 +391,7 @@ DTSTART;TZID=Europe/Warsaw:20261024T095000
 DTEND;TZID=Europe/Warsaw:20261024T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T095000
@@ -419,7 +426,7 @@ DTSTART;TZID=Europe/Warsaw:20261027T133000
 DTEND;TZID=Europe/Warsaw:20261027T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T114000
@@ -447,7 +454,7 @@ DTSTART;TZID=Europe/Warsaw:20261029T114000
 DTEND;TZID=Europe/Warsaw:20261029T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T133000
@@ -496,7 +503,7 @@ DTSTART;TZID=Europe/Warsaw:20261031T095000
 DTEND;TZID=Europe/Warsaw:20261031T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
@@ -531,7 +538,7 @@ DTSTART;TZID=Europe/Warsaw:20261103T133000
 DTEND;TZID=Europe/Warsaw:20261103T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T095000
@@ -566,7 +573,7 @@ DTSTART;TZID=Europe/Warsaw:20261105T114000
 DTEND;TZID=Europe/Warsaw:20261105T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T133000
@@ -622,7 +629,14 @@ DTSTART;TZID=Europe/Warsaw:20261107T095000
 DTEND;TZID=Europe/Warsaw:20261107T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T080000
+DTEND;TZID=Europe/Warsaw:20261109T093500
+SUMMARY:GMiB (w)
+LOCATION:103 K
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk mgr Michał Lasak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T095000
@@ -636,14 +650,14 @@ DTSTART;TZID=Europe/Warsaw:20261109T133000
 DTEND;TZID=Europe/Warsaw:20261109T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(RGĆ)
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T160000
 DTEND;TZID=Europe/Warsaw:20261109T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(RGĆ)
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
@@ -664,7 +678,7 @@ DTSTART;TZID=Europe/Warsaw:20261110T133000
 DTEND;TZID=Europe/Warsaw:20261110T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T080000
@@ -678,7 +692,7 @@ DTSTART;TZID=Europe/Warsaw:20261112T114000
 DTEND;TZID=Europe/Warsaw:20261112T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T160000
@@ -727,7 +741,14 @@ DTSTART;TZID=Europe/Warsaw:20261114T095000
 DTEND;TZID=Europe/Warsaw:20261114T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T080000
+DTEND;TZID=Europe/Warsaw:20261116T093500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppor. mgr Katarzyna Szwed; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T095000
@@ -769,7 +790,7 @@ DTSTART;TZID=Europe/Warsaw:20261117T133000
 DTEND;TZID=Europe/Warsaw:20261117T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T160000
@@ -818,7 +839,7 @@ DTSTART;TZID=Europe/Warsaw:20261119T114000
 DTEND;TZID=Europe/Warsaw:20261119T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T133000
@@ -860,7 +881,7 @@ DTSTART;TZID=Europe/Warsaw:20261121T095000
 DTEND;TZID=Europe/Warsaw:20261121T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T095000
@@ -902,7 +923,7 @@ DTSTART;TZID=Europe/Warsaw:20261124T133000
 DTEND;TZID=Europe/Warsaw:20261124T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T133000
@@ -923,21 +944,28 @@ DTSTART;TZID=Europe/Warsaw:20261126T080000
 DTEND;TZID=Europe/Warsaw:20261126T150500
 SUMMARY:SzS (ć)
 LOCATION:Rz.Dęb. Dęblin
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T160000
 DTEND;TZID=Europe/Warsaw:20261126T211500
 SUMMARY:SzS (ć)
 LOCATION:Rz.Dęb. Dęblin
-DESCRIPTION:Szkolenie strzeleckie -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261128T095000
 DTEND;TZID=Europe/Warsaw:20261128T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T080000
+DTEND;TZID=Europe/Warsaw:20261130T093500
+SUMMARY:Wek (L)
+LOCATION:078 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T095000
@@ -986,7 +1014,7 @@ DTSTART;TZID=Europe/Warsaw:20261201T133000
 DTEND;TZID=Europe/Warsaw:20261201T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T080000
@@ -1028,7 +1056,7 @@ DTSTART;TZID=Europe/Warsaw:20261203T114000
 DTEND;TZID=Europe/Warsaw:20261203T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T160000
@@ -1070,7 +1098,14 @@ DTSTART;TZID=Europe/Warsaw:20261205T095000
 DTEND;TZID=Europe/Warsaw:20261205T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261207T080000
+DTEND;TZID=Europe/Warsaw:20261207T093500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppor. mgr Katarzyna Szwed; mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T095000
@@ -1126,14 +1161,14 @@ DTSTART;TZID=Europe/Warsaw:20261208T133000
 DTEND;TZID=Europe/Warsaw:20261208T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T160000
 DTEND;TZID=Europe/Warsaw:20261209T173500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T080000
@@ -1154,7 +1189,7 @@ DTSTART;TZID=Europe/Warsaw:20261210T114000
 DTEND;TZID=Europe/Warsaw:20261210T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T160000
@@ -1175,7 +1210,7 @@ DTSTART;TZID=Europe/Warsaw:20261212T095000
 DTEND;TZID=Europe/Warsaw:20261212T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T095000
@@ -1217,7 +1252,7 @@ DTSTART;TZID=Europe/Warsaw:20261215T133000
 DTEND;TZID=Europe/Warsaw:20261215T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T114000
@@ -1238,7 +1273,7 @@ DTSTART;TZID=Europe/Warsaw:20261216T160000
 DTEND;TZID=Europe/Warsaw:20261216T173500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T095000
@@ -1252,7 +1287,7 @@ DTSTART;TZID=Europe/Warsaw:20261217T114000
 DTEND;TZID=Europe/Warsaw:20261217T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T160000
@@ -1287,7 +1322,14 @@ DTSTART;TZID=Europe/Warsaw:20261219T095000
 DTEND;TZID=Europe/Warsaw:20261219T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T080000
+DTEND;TZID=Europe/Warsaw:20261221T093500
+SUMMARY:Oś (w)
+LOCATION:118 57
+DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: por. mgr inż. Erik Mikulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T095000
@@ -1315,7 +1357,7 @@ DTSTART;TZID=Europe/Warsaw:20261222T133000
 DTEND;TZID=Europe/Warsaw:20261222T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T080000
@@ -1336,7 +1378,7 @@ DTSTART;TZID=Europe/Warsaw:20270107T114000
 DTEND;TZID=Europe/Warsaw:20270107T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T095000
@@ -1357,7 +1399,14 @@ DTSTART;TZID=Europe/Warsaw:20270109T095000
 DTEND;TZID=Europe/Warsaw:20270109T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T080000
+DTEND;TZID=Europe/Warsaw:20270111T093500
+SUMMARY:Oś (ć)
+LOCATION:16 58
+DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: por. mgr inż. Erik Mikulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T095000
@@ -1378,7 +1427,7 @@ DTSTART;TZID=Europe/Warsaw:20270112T133000
 DTEND;TZID=Europe/Warsaw:20270112T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T095000
@@ -1399,7 +1448,7 @@ DTSTART;TZID=Europe/Warsaw:20270113T160000
 DTEND;TZID=Europe/Warsaw:20270113T173500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T095000
@@ -1413,7 +1462,7 @@ DTSTART;TZID=Europe/Warsaw:20270114T114000
 DTEND;TZID=Europe/Warsaw:20270114T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T133000
@@ -1462,7 +1511,14 @@ DTSTART;TZID=Europe/Warsaw:20270116T095000
 DTEND;TZID=Europe/Warsaw:20270116T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T080000
+DTEND;TZID=Europe/Warsaw:20270118T093500
+SUMMARY:Wek (L)
+LOCATION:085 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T095000
@@ -1504,7 +1560,7 @@ DTSTART;TZID=Europe/Warsaw:20270119T133000
 DTEND;TZID=Europe/Warsaw:20270119T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T095000
@@ -1525,7 +1581,7 @@ DTSTART;TZID=Europe/Warsaw:20270120T160000
 DTEND;TZID=Europe/Warsaw:20270120T173500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T095000
@@ -1539,7 +1595,7 @@ DTSTART;TZID=Europe/Warsaw:20270121T114000
 DTEND;TZID=Europe/Warsaw:20270121T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T095000
@@ -1560,7 +1616,7 @@ DTSTART;TZID=Europe/Warsaw:20270123T095000
 DTEND;TZID=Europe/Warsaw:20270123T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T095000
@@ -1595,7 +1651,7 @@ DTSTART;TZID=Europe/Warsaw:20270126T133000
 DTEND;TZID=Europe/Warsaw:20270126T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T095000
@@ -1616,14 +1672,14 @@ DTSTART;TZID=Europe/Warsaw:20270127T160000
 DTEND;TZID=Europe/Warsaw:20270127T173500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne -\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T114000
 DTEND;TZID=Europe/Warsaw:20270128T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T133000

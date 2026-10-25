@@ -76,7 +76,7 @@ DTSTART;TZID=Europe/Warsaw:20261006T114000
 DTEND;TZID=Europe/Warsaw:20261006T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T133000
@@ -90,7 +90,7 @@ DTSTART;TZID=Europe/Warsaw:20261006T175000
 DTEND;TZID=Europe/Warsaw:20261006T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T160000
@@ -167,7 +167,7 @@ DTSTART;TZID=Europe/Warsaw:20261013T114000
 DTEND;TZID=Europe/Warsaw:20261013T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T133000
@@ -181,7 +181,7 @@ DTSTART;TZID=Europe/Warsaw:20261013T175000
 DTEND;TZID=Europe/Warsaw:20261013T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261014T080000
@@ -233,6 +233,13 @@ LOCATION:226 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T080000
+DTEND;TZID=Europe/Warsaw:20261019T093500
+SUMMARY:Aok (w)
+LOCATION:317 S
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T095000
 DTEND;TZID=Europe/Warsaw:20261019T112500
 SUMMARY:SO (w)
@@ -258,7 +265,7 @@ DTSTART;TZID=Europe/Warsaw:20261020T114000
 DTEND;TZID=Europe/Warsaw:20261020T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T133000
@@ -272,7 +279,7 @@ DTSTART;TZID=Europe/Warsaw:20261020T175000
 DTEND;TZID=Europe/Warsaw:20261020T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T080000
@@ -338,6 +345,13 @@ LOCATION:239 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T080000
+DTEND;TZID=Europe/Warsaw:20261026T093500
+SUMMARY:Tik (L)
+LOCATION:011 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T095000
 DTEND;TZID=Europe/Warsaw:20261026T112500
 SUMMARY:SO (w)
@@ -363,7 +377,7 @@ DTSTART;TZID=Europe/Warsaw:20261027T114000
 DTEND;TZID=Europe/Warsaw:20261027T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T133000
@@ -377,7 +391,7 @@ DTSTART;TZID=Europe/Warsaw:20261027T175000
 DTEND;TZID=Europe/Warsaw:20261027T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T080000
@@ -436,6 +450,13 @@ LOCATION:227 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T080000
+DTEND;TZID=Europe/Warsaw:20261102T093500
+SUMMARY:Po (L)
+LOCATION:224 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Zimoń
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
 DTEND;TZID=Europe/Warsaw:20261102T112500
 SUMMARY:Aok (w)
@@ -468,14 +489,14 @@ DTSTART;TZID=Europe/Warsaw:20261103T114000
 DTEND;TZID=Europe/Warsaw:20261103T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T175000
 DTEND;TZID=Europe/Warsaw:20261103T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T080000
@@ -566,14 +587,14 @@ DTSTART;TZID=Europe/Warsaw:20261110T114000
 DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T175000
 DTEND;TZID=Europe/Warsaw:20261110T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T095000
@@ -611,6 +632,13 @@ LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Katarzyna  Garbat; dr inż. Karol Sielezin; dr inż. Piotr Baranowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T080000
+DTEND;TZID=Europe/Warsaw:20261116T093500
+SUMMARY:Tik (L)
+LOCATION:125 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T095000
 DTEND;TZID=Europe/Warsaw:20261116T112500
 SUMMARY:Aok (w)
@@ -643,14 +671,14 @@ DTSTART;TZID=Europe/Warsaw:20261117T114000
 DTEND;TZID=Europe/Warsaw:20261117T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T175000
 DTEND;TZID=Europe/Warsaw:20261117T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T080000
@@ -748,7 +776,7 @@ DTSTART;TZID=Europe/Warsaw:20261124T114000
 DTEND;TZID=Europe/Warsaw:20261124T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T133000
@@ -762,7 +790,7 @@ DTSTART;TZID=Europe/Warsaw:20261124T175000
 DTEND;TZID=Europe/Warsaw:20261124T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T080000
@@ -777,6 +805,13 @@ DTEND;TZID=Europe/Warsaw:20261125T131500
 SUMMARY:SO (w)
 LOCATION:316 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T080000
+DTEND;TZID=Europe/Warsaw:20261130T093500
+SUMMARY:Po (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Zimoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T095000
@@ -797,7 +832,7 @@ DTSTART;TZID=Europe/Warsaw:20261201T114000
 DTEND;TZID=Europe/Warsaw:20261201T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T133000
@@ -811,7 +846,7 @@ DTSTART;TZID=Europe/Warsaw:20261201T175000
 DTEND;TZID=Europe/Warsaw:20261201T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T080000
@@ -870,11 +905,11 @@ LOCATION:121 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261207T095000
+DTSTART;TZID=Europe/Warsaw:20261207T080000
 DTEND;TZID=Europe/Warsaw:20261207T112500
 SUMMARY:Po (L)
 LOCATION:252 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Zimoń
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Zimoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T095000
@@ -888,7 +923,7 @@ DTSTART;TZID=Europe/Warsaw:20261208T114000
 DTEND;TZID=Europe/Warsaw:20261208T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T133000
@@ -902,7 +937,7 @@ DTSTART;TZID=Europe/Warsaw:20261208T175000
 DTEND;TZID=Europe/Warsaw:20261208T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T095000
@@ -965,14 +1000,14 @@ DTSTART;TZID=Europe/Warsaw:20261215T114000
 DTEND;TZID=Europe/Warsaw:20261215T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T175000
 DTEND;TZID=Europe/Warsaw:20261215T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T080000
@@ -1049,7 +1084,7 @@ DTSTART;TZID=Europe/Warsaw:20261222T114000
 DTEND;TZID=Europe/Warsaw:20261222T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T133000
@@ -1063,7 +1098,7 @@ DTSTART;TZID=Europe/Warsaw:20261222T175000
 DTEND;TZID=Europe/Warsaw:20261222T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T095000
@@ -1112,7 +1147,7 @@ DTSTART;TZID=Europe/Warsaw:20270112T114000
 DTEND;TZID=Europe/Warsaw:20270112T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T133000
@@ -1126,7 +1161,7 @@ DTSTART;TZID=Europe/Warsaw:20270112T175000
 DTEND;TZID=Europe/Warsaw:20270112T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T114000
@@ -1161,14 +1196,14 @@ DTSTART;TZID=Europe/Warsaw:20270119T114000
 DTEND;TZID=Europe/Warsaw:20270119T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T175000
 DTEND;TZID=Europe/Warsaw:20270119T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T095000
@@ -1210,7 +1245,7 @@ DTSTART;TZID=Europe/Warsaw:20270126T114000
 DTEND;TZID=Europe/Warsaw:20270126T131500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K 239 K
-DESCRIPTION:Język angielski -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T133000
@@ -1224,7 +1259,7 @@ DTSTART;TZID=Europe/Warsaw:20270126T175000
 DTEND;TZID=Europe/Warsaw:20270126T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
-DESCRIPTION:Język obcy (II) międzywydziałowy -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T114000

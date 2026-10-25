@@ -58,11 +58,11 @@ LOCATION:309 S
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261022T095000
+DTSTART;TZID=Europe/Warsaw:20261022T080000
 DTEND;TZID=Europe/Warsaw:20261022T112500
 SUMMARY:UPCH (L)
 LOCATION:223 S
-DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T114000
@@ -79,11 +79,11 @@ LOCATION:309 S
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261029T095000
+DTSTART;TZID=Europe/Warsaw:20261029T080000
 DTEND;TZID=Europe/Warsaw:20261029T112500
 SUMMARY:WED (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T114000
@@ -114,11 +114,11 @@ LOCATION:309 S
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261119T095000
+DTSTART;TZID=Europe/Warsaw:20261119T080000
 DTEND;TZID=Europe/Warsaw:20261119T112500
 SUMMARY:WED (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T114000
@@ -135,11 +135,11 @@ LOCATION:309 S
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261126T095000
+DTSTART;TZID=Europe/Warsaw:20261126T080000
 DTEND;TZID=Europe/Warsaw:20261126T112500
 SUMMARY:UPCH (L)
 LOCATION:223 S
-DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T114000
@@ -149,11 +149,11 @@ LOCATION:120 65
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261203T095000
+DTSTART;TZID=Europe/Warsaw:20261203T080000
 DTEND;TZID=Europe/Warsaw:20261203T112500
 SUMMARY:WED (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T114000
@@ -161,6 +161,13 @@ DTEND;TZID=Europe/Warsaw:20261203T150500
 SUMMARY:PZCB (w)
 LOCATION:309 S
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261210T080000
+DTEND;TZID=Europe/Warsaw:20261210T093500
+SUMMARY:Pna (ć)
+LOCATION:309 S
+DESCRIPTION:Portfolio nauczyciela akademickiego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T095000
@@ -177,11 +184,11 @@ LOCATION:223 S
 DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261217T095000
+DTSTART;TZID=Europe/Warsaw:20261217T080000
 DTEND;TZID=Europe/Warsaw:20261217T112500
 SUMMARY:WED (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T114000
@@ -191,11 +198,11 @@ LOCATION:223 S
 DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270107T095000
+DTSTART;TZID=Europe/Warsaw:20270107T080000
 DTEND;TZID=Europe/Warsaw:20270107T112500
 SUMMARY:PZCB (L)
 LOCATION:120 65
-DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T133000
@@ -205,18 +212,18 @@ LOCATION:309 S
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270114T095000
+DTSTART;TZID=Europe/Warsaw:20270114T080000
 DTEND;TZID=Europe/Warsaw:20270114T112500
 SUMMARY:PZCB (L)
 LOCATION:120 65
-DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270121T095000
+DTSTART;TZID=Europe/Warsaw:20270121T080000
 DTEND;TZID=Europe/Warsaw:20270121T131500
 SUMMARY:Pna (ć)
 LOCATION:309 S
-DESCRIPTION:Portfolio nauczyciela akademickiego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Portfolio nauczyciela akademickiego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T133000
@@ -224,6 +231,13 @@ DTEND;TZID=Europe/Warsaw:20270121T150500
 SUMMARY:PZCB (w)
 LOCATION:309 S
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270128T080000
+DTEND;TZID=Europe/Warsaw:20270128T093500
+SUMMARY:PZCB (L)
+LOCATION:120 65
+DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T095000

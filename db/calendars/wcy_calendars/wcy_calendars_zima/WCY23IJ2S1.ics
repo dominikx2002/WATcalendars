@@ -142,6 +142,13 @@ LOCATION:19 36
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: zal popr\nNumer zajęć: 6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T080000
+DTEND;TZID=Europe/Warsaw:20261026T112500
+SUMMARY:Orr (w)
+LOCATION:309 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T114000
 DTEND;TZID=Europe/Warsaw:20261026T150500
 SUMMARY:Orr (L)

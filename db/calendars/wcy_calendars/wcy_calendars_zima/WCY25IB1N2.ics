@@ -44,6 +44,13 @@ LOCATION:314 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261010T080000
+DTEND;TZID=Europe/Warsaw:20261010T093500
+SUMMARY:Soc (w)
+LOCATION:308 S
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T095000
 DTEND;TZID=Europe/Warsaw:20261010T131500
 SUMMARY:ZPr (w)
@@ -70,6 +77,13 @@ DTEND;TZID=Europe/Warsaw:20261011T131500
 SUMMARY:Twinf (L)
 LOCATION:224 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261017T080000
+DTEND;TZID=Europe/Warsaw:20261017T093500
+SUMMARY:Soc (w)
+LOCATION:307 S
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T095000
@@ -107,6 +121,13 @@ LOCATION:223 S
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T080000
+DTEND;TZID=Europe/Warsaw:20261024T093500
+SUMMARY:Soc (w)
+LOCATION:309 S
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T114000
 DTEND;TZID=Europe/Warsaw:20261024T131500
 SUMMARY:ZPr (w)
@@ -133,6 +154,13 @@ DTEND;TZID=Europe/Warsaw:20261025T184500
 SUMMARY:Twinf (L)
 LOCATION:223 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T080000
+DTEND;TZID=Europe/Warsaw:20261114T093500
+SUMMARY:Soc (w)
+LOCATION:309 S
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T095000

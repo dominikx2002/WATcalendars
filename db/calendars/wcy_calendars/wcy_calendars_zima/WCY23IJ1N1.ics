@@ -51,11 +51,11 @@ LOCATION:308 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261010T114000
+DTSTART;TZID=Europe/Warsaw:20261010T095000
 DTEND;TZID=Europe/Warsaw:20261010T131500
 SUMMARY:Srrw (w)
 LOCATION:95 S
-DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Roman Wantoch-Rekowski
+DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T133000
@@ -79,11 +79,18 @@ LOCATION:307 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261017T114000
+DTSTART;TZID=Europe/Warsaw:20261017T080000
+DTEND;TZID=Europe/Warsaw:20261017T093500
+SUMMARY:Pjn (w)
+LOCATION:224 S
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261017T095000
 DTEND;TZID=Europe/Warsaw:20261017T131500
 SUMMARY:Orr (w)
 LOCATION:309 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T133000
@@ -128,6 +135,13 @@ LOCATION:19 36
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: zal popr\nNumer zajęć: 6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T095000
+DTEND;TZID=Europe/Warsaw:20261024T112500
+SUMMARY:BSI (w)
+LOCATION:224 S
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T133000
 DTEND;TZID=Europe/Warsaw:20261024T150500
 SUMMARY:BSI (w)
@@ -161,6 +175,13 @@ DTEND;TZID=Europe/Warsaw:20261025T184500
 SUMMARY:BSI (L)
 LOCATION:224 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T080000
+DTEND;TZID=Europe/Warsaw:20261114T112500
+SUMMARY:Pjn (L)
+LOCATION:224 S
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T114000

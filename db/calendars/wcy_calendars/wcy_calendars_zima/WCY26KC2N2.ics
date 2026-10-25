@@ -27,7 +27,7 @@ DTSTART;TZID=Europe/Warsaw:20261003T080000
 DTEND;TZID=Europe/Warsaw:20261003T112500
 SUMMARY:Ing (s)
 LOCATION:klub WAT
-DESCRIPTION:Inauguracja -\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1
+DESCRIPTION:Inauguracja\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T114000
@@ -72,11 +72,11 @@ LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261010T095000
+DTSTART;TZID=Europe/Warsaw:20261010T080000
 DTEND;TZID=Europe/Warsaw:20261010T112500
 SUMMARY:Nmtz (w)
 LOCATION:317 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zdzisław Wojciechowski
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zdzisław Wojciechowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T114000
@@ -112,6 +112,13 @@ DTEND;TZID=Europe/Warsaw:20261011T165500
 SUMMARY:mST (w)
 LOCATION:203 65
 DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261017T080000
+DTEND;TZID=Europe/Warsaw:20261017T093500
+SUMMARY:Ek (w)
+LOCATION:309 S
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Izabela Gontarek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T095000
@@ -168,6 +175,13 @@ DTEND;TZID=Europe/Warsaw:20261018T184500
 SUMMARY:Mnk (L)
 LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr hab. Ewa Czuchry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T080000
+DTEND;TZID=Europe/Warsaw:20261024T093500
+SUMMARY:WIT (w)
+LOCATION:203 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T095000
@@ -268,6 +282,13 @@ LOCATION:309 S
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T080000
+DTEND;TZID=Europe/Warsaw:20261121T093500
+SUMMARY:Dtu (L)
+LOCATION:106 65
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T095000
 DTEND;TZID=Europe/Warsaw:20261121T112500
 SUMMARY:Ps (ć)
@@ -364,6 +385,13 @@ DTEND;TZID=Europe/Warsaw:20261206T165500
 SUMMARY:Mnk (L)
 LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. Ewa Czuchry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261212T080000
+DTEND;TZID=Europe/Warsaw:20261212T093500
+SUMMARY:Dtu (L)
+LOCATION:106 65
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T095000
@@ -520,6 +548,13 @@ LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270116T080000
+DTEND;TZID=Europe/Warsaw:20270116T093500
+SUMMARY:Dtu (L)
+LOCATION:106 65
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T095000
 DTEND;TZID=Europe/Warsaw:20270116T131500
 SUMMARY:Dtu (P)
@@ -590,11 +625,11 @@ LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270130T095000
+DTSTART;TZID=Europe/Warsaw:20270130T080000
 DTEND;TZID=Europe/Warsaw:20270130T112500
 SUMMARY:Dtu (P)
 LOCATION:120 65
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270131T080000

@@ -128,6 +128,13 @@ LOCATION:239 S
 DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T080000
+DTEND;TZID=Europe/Warsaw:20261109T112500
+SUMMARY:Ztel (L)
+LOCATION:121 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T114000
 DTEND;TZID=Europe/Warsaw:20261109T150500
 SUMMARY:pzST (P)
@@ -142,11 +149,11 @@ LOCATION:120 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261116T133000
+DTSTART;TZID=Europe/Warsaw:20261116T114000
 DTEND;TZID=Europe/Warsaw:20261116T150500
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T114000

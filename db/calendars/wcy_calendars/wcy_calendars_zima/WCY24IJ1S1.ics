@@ -520,11 +520,11 @@ LOCATION:224 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270118T133000
+DTSTART;TZID=Europe/Warsaw:20270118T114000
 DTEND;TZID=Europe/Warsaw:20270118T150500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T160000
@@ -576,11 +576,18 @@ LOCATION:314 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270125T133000
+DTSTART;TZID=Europe/Warsaw:20270125T080000
+DTEND;TZID=Europe/Warsaw:20270125T112500
+SUMMARY:PSy (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T114000
 DTEND;TZID=Europe/Warsaw:20270125T150500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T175000

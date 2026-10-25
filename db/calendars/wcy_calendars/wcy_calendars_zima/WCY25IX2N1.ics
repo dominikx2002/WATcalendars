@@ -65,11 +65,11 @@ LOCATION:203 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261010T095000
+DTSTART;TZID=Europe/Warsaw:20261010T080000
 DTEND;TZID=Europe/Warsaw:20261010T112500
 SUMMARY:Sm (w)
 LOCATION:203 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T114000
@@ -98,6 +98,13 @@ DTEND;TZID=Europe/Warsaw:20261011T150500
 SUMMARY:BD (w)
 LOCATION:308 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261017T080000
+DTEND;TZID=Europe/Warsaw:20261017T093500
+SUMMARY:Ja (ć)
+LOCATION:237 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T095000
@@ -133,6 +140,13 @@ DTEND;TZID=Europe/Warsaw:20261018T184500
 SUMMARY:SO (L)
 LOCATION:106 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T080000
+DTEND;TZID=Europe/Warsaw:20261024T093500
+SUMMARY:Ja (ć)
+LOCATION:237 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T095000
@@ -191,6 +205,13 @@ LOCATION:106 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T080000
+DTEND;TZID=Europe/Warsaw:20261114T093500
+SUMMARY:Ja (ć)
+LOCATION:237 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T095000
 DTEND;TZID=Europe/Warsaw:20261114T131500
 SUMMARY:F2 (w)
@@ -233,6 +254,13 @@ LOCATION:203 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T080000
+DTEND;TZID=Europe/Warsaw:20261121T093500
+SUMMARY:Ja (ć)
+LOCATION:237 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T095000
 DTEND;TZID=Europe/Warsaw:20261121T131500
 SUMMARY:F2 (w)
@@ -273,6 +301,13 @@ DTEND;TZID=Europe/Warsaw:20261122T184500
 SUMMARY:SO (L)
 LOCATION:106 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261205T080000
+DTEND;TZID=Europe/Warsaw:20261205T093500
+SUMMARY:Ja (ć)
+LOCATION:237 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T095000
@@ -324,6 +359,13 @@ LOCATION:308 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261212T080000
+DTEND;TZID=Europe/Warsaw:20261212T093500
+SUMMARY:F2 (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. dr hab. inż. Janusz Parka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T095000
 DTEND;TZID=Europe/Warsaw:20261212T112500
 SUMMARY:SO (L)
@@ -364,6 +406,13 @@ DTEND;TZID=Europe/Warsaw:20261213T184500
 SUMMARY:Po (L)
 LOCATION:226 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261219T080000
+DTEND;TZID=Europe/Warsaw:20261219T093500
+SUMMARY:Sm (L)
+LOCATION:218 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T095000
@@ -408,6 +457,13 @@ LOCATION:106 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270109T080000
+DTEND;TZID=Europe/Warsaw:20270109T093500
+SUMMARY:Ja (ć)
+LOCATION:237 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T114000
 DTEND;TZID=Europe/Warsaw:20270109T131500
 SUMMARY:Sm (L)
@@ -443,6 +499,13 @@ LOCATION:226 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270116T080000
+DTEND;TZID=Europe/Warsaw:20270116T093500
+SUMMARY:Ja (ć)
+LOCATION:237 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T095000
 DTEND;TZID=Europe/Warsaw:20270116T131500
 SUMMARY:BD (L)
@@ -476,6 +539,13 @@ DTEND;TZID=Europe/Warsaw:20270117T165500
 SUMMARY:SO (L)
 LOCATION:106 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270123T080000
+DTEND;TZID=Europe/Warsaw:20270123T093500
+SUMMARY:Ja (ć)
+LOCATION:237 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T095000
@@ -518,6 +588,13 @@ DTEND;TZID=Europe/Warsaw:20270124T184500
 SUMMARY:Po (L)
 LOCATION:226 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270130T080000
+DTEND;TZID=Europe/Warsaw:20270130T093500
+SUMMARY:Ja (ć)
+LOCATION:237 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270130T095000

@@ -51,6 +51,13 @@ LOCATION:314 S
 DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261010T080000
+DTEND;TZID=Europe/Warsaw:20261010T093500
+SUMMARY:Soc (w)
+LOCATION:308 S
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T095000
 DTEND;TZID=Europe/Warsaw:20261010T131500
 SUMMARY:ZPr (w)
@@ -72,6 +79,13 @@ LOCATION:226 S
 DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261017T080000
+DTEND;TZID=Europe/Warsaw:20261017T093500
+SUMMARY:Soc (w)
+LOCATION:307 S
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T095000
 DTEND;TZID=Europe/Warsaw:20261017T150500
 SUMMARY:Miob (w)
@@ -91,6 +105,13 @@ DTEND;TZID=Europe/Warsaw:20261018T131500
 SUMMARY:ZPr (L)
 LOCATION:223 S
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T080000
+DTEND;TZID=Europe/Warsaw:20261024T093500
+SUMMARY:Soc (w)
+LOCATION:309 S
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T095000
@@ -133,6 +154,13 @@ DTEND;TZID=Europe/Warsaw:20261025T165500
 SUMMARY:Miob (L)
 LOCATION:227 S
 DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T080000
+DTEND;TZID=Europe/Warsaw:20261114T093500
+SUMMARY:Soc (w)
+LOCATION:309 S
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T095000
