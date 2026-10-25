@@ -155,7 +155,7 @@ def _run_all_groups(args, user, password, year) -> int:
                         f"keeping the old .ics")
             done["empty"] += 1
             continue
-        status = write_calendar(code, lessons, target_dir, floating=True)
+        status = write_calendar(code, lessons, target_dir, local=True)
         done[status] += 1
         log.info(f"{OK_} [{i}/{len(codes)}] {code}: {status} "
                  f"({len(lessons)} events)")
@@ -231,12 +231,12 @@ def main(argv=None) -> int:
     ensure_dir(target_dir)
 
     if args.out:
-        content = build_calendar(args.group, valid, floating=True)
+        content = build_calendar(args.group, valid, local=True)
         with open(args.out, "w", encoding="utf-8") as handle:
             handle.write(content)
         log.info(f"{SUCCESS} Wrote {args.out} ({len(valid)} events)")
     else:
-        status = write_calendar(args.group, valid, target_dir, floating=True)
+        status = write_calendar(args.group, valid, target_dir, local=True)
         log.info(f"{SUCCESS} {args.group}.ics {status} ({len(valid)} events) "
                  f"in {target_dir}")
     return 0

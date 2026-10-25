@@ -78,12 +78,17 @@ def test_faculty_status_keeps_last_success_on_failure():
     assert I.read_faculty_status("wel") == {}
 
 
-def test_floating_times_have_no_utc_suffix():
+def test_local_times_carry_warsaw_tzid():
+    # regression: floating times (no TZID) were read as UTC by Google
+    # Calendar, so e-Dziekanat classes showed 1-2 h late.
     from datetime import datetime
     from watcalendars.core.models import Lesson
     from watcalendars.store.ics import build_calendar
-    lesson = Lesson.from_dict(dict(start=datetime(2026, 10, 23, 16, 0),
-                                   end=datetime(2026, 10, 23, 17, 35),
-                                   subject="PsbI", type="(w)"))
-    out = build_calendar("G", [lesson], floating=True)
-    assert "DTSTART:20261023T160000\n" in out and "DTEND:20261023T173500\n" in out
+    lesson = Lesson.from_dict(dict(start=datetime(2026, 10, 26, 11, 40),
+                                   end=datetime(2026, 10, 26, 13, 15),
+                                   subject="Ja", type="(ć)"))
+    out = build_calendar("G", [lesson], local=True)
+    assert "DTSTART;TZID=Europe/Warsaw:20261026T114000\n" in out
+    assert "DTEND;TZID=Europe/Warsaw:20261026T131500\n" in out
+    assert "BEGIN:VTIMEZONE\nTZID:Europe/Warsaw" in out
+    assert out.index("END:VTIMEZONE") < out.index("BEGIN:VEVENT")

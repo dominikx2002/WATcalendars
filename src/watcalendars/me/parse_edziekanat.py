@@ -106,6 +106,7 @@ def _split_title(title: str):
     m = re.search(r"\(([^()]*)\)\s*$", t)
     type_ = m.group(1).strip() if m else ""
     head = t[: m.start()].strip() if m else t
+    head = re.sub(r"\s+-$", "", head)  # "Subject -  (Type)": no teacher
     if " - " in head:
         subject, teachers = head.split(" - ", 1)
     else:

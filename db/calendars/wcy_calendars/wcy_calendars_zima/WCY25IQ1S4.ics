@@ -3,891 +3,910 @@ VERSION:2.0
 PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY25IQ1S4
+X-WR-TIMEZONE:Europe/Warsaw
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+X-LIC-LOCATION:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART:20261007T114000
-DTEND:20261007T150500
+DTSTART;TZID=Europe/Warsaw:20261007T114000
+DTEND;TZID=Europe/Warsaw:20261007T150500
 SUMMARY:Wok (w)
 LOCATION:201 65
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T080000
-DTEND:20261008T093500
+DTSTART;TZID=Europe/Warsaw:20261008T080000
+DTEND;TZID=Europe/Warsaw:20261008T093500
 SUMMARY:Fpik (w)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261008T095000
-DTEND:20261008T112500
+DTSTART;TZID=Europe/Warsaw:20261008T095000
+DTEND;TZID=Europe/Warsaw:20261008T112500
 SUMMARY:ak (w)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261013T080000
-DTEND:20261013T112500
+DTSTART;TZID=Europe/Warsaw:20261013T080000
+DTEND;TZID=Europe/Warsaw:20261013T112500
 SUMMARY:Mpik (w)
 LOCATION:218 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T080000
-DTEND:20261014T112500
+DTSTART;TZID=Europe/Warsaw:20261014T080000
+DTEND;TZID=Europe/Warsaw:20261014T112500
 SUMMARY:Wok (w)
 LOCATION:205 65
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261014T133000
-DTEND:20261014T150500
+DTSTART;TZID=Europe/Warsaw:20261014T133000
+DTEND;TZID=Europe/Warsaw:20261014T150500
 SUMMARY:ak (w)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T080000
-DTEND:20261015T112500
+DTSTART;TZID=Europe/Warsaw:20261015T080000
+DTEND;TZID=Europe/Warsaw:20261015T112500
 SUMMARY:Fpik (w)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261020T080000
-DTEND:20261020T112500
+DTSTART;TZID=Europe/Warsaw:20261020T080000
+DTEND;TZID=Europe/Warsaw:20261020T112500
 SUMMARY:Mpik (w)
 LOCATION:218 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T080000
-DTEND:20261021T112500
+DTSTART;TZID=Europe/Warsaw:20261021T080000
+DTEND;TZID=Europe/Warsaw:20261021T112500
 SUMMARY:Wok (w)
 LOCATION:205 65
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T133000
-DTEND:20261021T150500
+DTSTART;TZID=Europe/Warsaw:20261021T133000
+DTEND;TZID=Europe/Warsaw:20261021T150500
 SUMMARY:ak (w)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T080000
-DTEND:20261022T093500
+DTSTART;TZID=Europe/Warsaw:20261022T080000
+DTEND;TZID=Europe/Warsaw:20261022T093500
 SUMMARY:Ekk (w)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T095000
-DTEND:20261022T112500
+DTSTART;TZID=Europe/Warsaw:20261022T095000
+DTEND;TZID=Europe/Warsaw:20261022T112500
 SUMMARY:Fpik (w)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T080000
-DTEND:20261027T112500
+DTSTART;TZID=Europe/Warsaw:20261027T080000
+DTEND;TZID=Europe/Warsaw:20261027T112500
 SUMMARY:Mpik (w)
 LOCATION:218 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T114000
-DTEND:20261027T150500
+DTSTART;TZID=Europe/Warsaw:20261027T114000
+DTEND;TZID=Europe/Warsaw:20261027T150500
 SUMMARY:Wok (ć)
 LOCATION:117 47
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T133000
-DTEND:20261028T150500
+DTSTART;TZID=Europe/Warsaw:20261028T133000
+DTEND;TZID=Europe/Warsaw:20261028T150500
 SUMMARY:ak (w)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T080000
-DTEND:20261029T093500
+DTSTART;TZID=Europe/Warsaw:20261029T080000
+DTEND;TZID=Europe/Warsaw:20261029T093500
 SUMMARY:Ekk (w)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261029T095000
-DTEND:20261029T131500
+DTSTART;TZID=Europe/Warsaw:20261029T095000
+DTEND;TZID=Europe/Warsaw:20261029T131500
 SUMMARY:Fpik (w)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261103T080000
-DTEND:20261103T112500
+DTSTART;TZID=Europe/Warsaw:20261103T080000
+DTEND;TZID=Europe/Warsaw:20261103T112500
 SUMMARY:Mpik (w)
 LOCATION:218 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T133000
-DTEND:20261104T150500
+DTSTART;TZID=Europe/Warsaw:20261104T133000
+DTEND;TZID=Europe/Warsaw:20261104T150500
 SUMMARY:ak (w)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T160000
-DTEND:20261104T192500
+DTSTART;TZID=Europe/Warsaw:20261104T160000
+DTEND;TZID=Europe/Warsaw:20261104T192500
 SUMMARY:Wekk (w)
 LOCATION:218 65
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T080000
-DTEND:20261105T093500
+DTSTART;TZID=Europe/Warsaw:20261105T080000
+DTEND;TZID=Europe/Warsaw:20261105T093500
 SUMMARY:Ekk (w)
 LOCATION:223 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T095000
-DTEND:20261105T112500
+DTSTART;TZID=Europe/Warsaw:20261105T095000
+DTEND;TZID=Europe/Warsaw:20261105T112500
 SUMMARY:Fpik (w)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T114000
-DTEND:20261105T131500
+DTSTART;TZID=Europe/Warsaw:20261105T114000
+DTEND;TZID=Europe/Warsaw:20261105T131500
 SUMMARY:Fpik (P)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T080000
-DTEND:20261110T112500
+DTSTART;TZID=Europe/Warsaw:20261110T080000
+DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:Mpik (ć)
 LOCATION:218 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T114000
-DTEND:20261110T131500
+DTSTART;TZID=Europe/Warsaw:20261110T114000
+DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:ak (ć)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T080000
-DTEND:20261112T093500
+DTSTART;TZID=Europe/Warsaw:20261112T080000
+DTEND;TZID=Europe/Warsaw:20261112T093500
 SUMMARY:Ekk (w)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T095000
-DTEND:20261112T112500
+DTSTART;TZID=Europe/Warsaw:20261112T095000
+DTEND;TZID=Europe/Warsaw:20261112T112500
 SUMMARY:Weok (w)
 LOCATION:227 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T114000
-DTEND:20261112T131500
+DTSTART;TZID=Europe/Warsaw:20261112T114000
+DTEND;TZID=Europe/Warsaw:20261112T131500
 SUMMARY:Fpik (P)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T133000
-DTEND:20261112T150500
+DTSTART;TZID=Europe/Warsaw:20261112T133000
+DTEND;TZID=Europe/Warsaw:20261112T150500
 SUMMARY:Erp (w)
 LOCATION:203 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T080000
-DTEND:20261117T112500
+DTSTART;TZID=Europe/Warsaw:20261117T080000
+DTEND;TZID=Europe/Warsaw:20261117T112500
 SUMMARY:Mpik (ć)
 LOCATION:218 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T114000
-DTEND:20261117T131500
+DTSTART;TZID=Europe/Warsaw:20261117T114000
+DTEND;TZID=Europe/Warsaw:20261117T131500
 SUMMARY:ak (ć)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T133000
-DTEND:20261117T150500
+DTSTART;TZID=Europe/Warsaw:20261117T133000
+DTEND;TZID=Europe/Warsaw:20261117T150500
 SUMMARY:Wok (ć)
 LOCATION:115 47
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T160000
-DTEND:20261118T173500
+DTSTART;TZID=Europe/Warsaw:20261118T160000
+DTEND;TZID=Europe/Warsaw:20261118T173500
 SUMMARY:Ekk (ć)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T175000
-DTEND:20261118T211500
+DTSTART;TZID=Europe/Warsaw:20261118T175000
+DTEND;TZID=Europe/Warsaw:20261118T211500
 SUMMARY:Wekk (w)
 LOCATION:218 65
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T080000
-DTEND:20261119T093500
+DTSTART;TZID=Europe/Warsaw:20261119T080000
+DTEND;TZID=Europe/Warsaw:20261119T093500
 SUMMARY:Eaa (w)
 LOCATION:078 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T095000
-DTEND:20261119T112500
+DTSTART;TZID=Europe/Warsaw:20261119T095000
+DTEND;TZID=Europe/Warsaw:20261119T112500
 SUMMARY:Fpik (w)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T114000
-DTEND:20261119T131500
+DTSTART;TZID=Europe/Warsaw:20261119T114000
+DTEND;TZID=Europe/Warsaw:20261119T131500
 SUMMARY:Fpik (P)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T133000
-DTEND:20261119T150500
+DTSTART;TZID=Europe/Warsaw:20261119T133000
+DTEND;TZID=Europe/Warsaw:20261119T150500
 SUMMARY:Erp (w)
 LOCATION:201 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261120T095000
-DTEND:20261120T112500
+DTSTART;TZID=Europe/Warsaw:20261120T095000
+DTEND;TZID=Europe/Warsaw:20261120T112500
 SUMMARY:Erp (ć)
 LOCATION:219 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261120T114000
-DTEND:20261120T150500
+DTSTART;TZID=Europe/Warsaw:20261120T114000
+DTEND;TZID=Europe/Warsaw:20261120T150500
 SUMMARY:Wto (w)
 LOCATION:308 S
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261123T095000
-DTEND:20261123T112500
+DTSTART;TZID=Europe/Warsaw:20261123T095000
+DTEND;TZID=Europe/Warsaw:20261123T112500
 SUMMARY:Erp (w)
 LOCATION:218 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261123T114000
-DTEND:20261123T131500
+DTSTART;TZID=Europe/Warsaw:20261123T114000
+DTEND;TZID=Europe/Warsaw:20261123T131500
 SUMMARY:Erp (ć)
 LOCATION:219 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T080000
-DTEND:20261124T112500
+DTSTART;TZID=Europe/Warsaw:20261124T080000
+DTEND;TZID=Europe/Warsaw:20261124T112500
 SUMMARY:Mpik (ć)
 LOCATION:218 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T114000
-DTEND:20261124T131500
+DTSTART;TZID=Europe/Warsaw:20261124T114000
+DTEND;TZID=Europe/Warsaw:20261124T131500
 SUMMARY:ak (L)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T133000
-DTEND:20261124T150500
+DTSTART;TZID=Europe/Warsaw:20261124T133000
+DTEND;TZID=Europe/Warsaw:20261124T150500
 SUMMARY:Wok (L)
 LOCATION:128 47
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Waldemar Grabiec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T160000
-DTEND:20261124T173500
+DTSTART;TZID=Europe/Warsaw:20261124T160000
+DTEND;TZID=Europe/Warsaw:20261124T173500
 SUMMARY:Wok (L)
 LOCATION:128 47
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Grabiec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T133000
-DTEND:20261125T150500
+DTSTART;TZID=Europe/Warsaw:20261125T133000
+DTEND;TZID=Europe/Warsaw:20261125T150500
 SUMMARY:Eaa (ć)
 LOCATION:085 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T160000
-DTEND:20261125T173500
+DTSTART;TZID=Europe/Warsaw:20261125T160000
+DTEND;TZID=Europe/Warsaw:20261125T173500
 SUMMARY:Ekk (ć)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T175000
-DTEND:20261125T211500
+DTSTART;TZID=Europe/Warsaw:20261125T175000
+DTEND;TZID=Europe/Warsaw:20261125T211500
 SUMMARY:Wekk (ć)
 LOCATION:218 65
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T080000
-DTEND:20261126T093500
+DTSTART;TZID=Europe/Warsaw:20261126T080000
+DTEND;TZID=Europe/Warsaw:20261126T093500
 SUMMARY:Eaa (w)
 LOCATION:078 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T095000
-DTEND:20261126T112500
+DTSTART;TZID=Europe/Warsaw:20261126T095000
+DTEND;TZID=Europe/Warsaw:20261126T112500
 SUMMARY:Weok (w)
 LOCATION:227 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T114000
-DTEND:20261126T131500
+DTSTART;TZID=Europe/Warsaw:20261126T114000
+DTEND;TZID=Europe/Warsaw:20261126T131500
 SUMMARY:Fpik (P)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T080000
-DTEND:20261201T093500
+DTSTART;TZID=Europe/Warsaw:20261201T080000
+DTEND;TZID=Europe/Warsaw:20261201T093500
 SUMMARY:Mpik (ć)
 LOCATION:218 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T095000
-DTEND:20261201T112500
+DTSTART;TZID=Europe/Warsaw:20261201T095000
+DTEND;TZID=Europe/Warsaw:20261201T112500
 SUMMARY:ak (L)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T114000
-DTEND:20261201T131500
+DTSTART;TZID=Europe/Warsaw:20261201T114000
+DTEND;TZID=Europe/Warsaw:20261201T131500
 SUMMARY:Weok (L)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261202T095000
-DTEND:20261202T112500
+DTSTART;TZID=Europe/Warsaw:20261202T095000
+DTEND;TZID=Europe/Warsaw:20261202T112500
 SUMMARY:Erp (w)
 LOCATION:203 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261202T133000
-DTEND:20261202T150500
+DTSTART;TZID=Europe/Warsaw:20261202T133000
+DTEND;TZID=Europe/Warsaw:20261202T150500
 SUMMARY:Eaa (ć)
 LOCATION:085 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261202T160000
-DTEND:20261202T192500
+DTSTART;TZID=Europe/Warsaw:20261202T160000
+DTEND;TZID=Europe/Warsaw:20261202T192500
 SUMMARY:Wekk (P)
 LOCATION:218 65
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T080000
-DTEND:20261203T093500
+DTSTART;TZID=Europe/Warsaw:20261203T080000
+DTEND;TZID=Europe/Warsaw:20261203T093500
 SUMMARY:Eaa (w)
 LOCATION:078 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T095000
-DTEND:20261203T112500
+DTSTART;TZID=Europe/Warsaw:20261203T095000
+DTEND;TZID=Europe/Warsaw:20261203T112500
 SUMMARY:Fpik (w)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T114000
-DTEND:20261203T131500
+DTSTART;TZID=Europe/Warsaw:20261203T114000
+DTEND;TZID=Europe/Warsaw:20261203T131500
 SUMMARY:Weok (w)
 LOCATION:227 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261204T080000
-DTEND:20261204T112500
+DTSTART;TZID=Europe/Warsaw:20261204T080000
+DTEND;TZID=Europe/Warsaw:20261204T112500
 SUMMARY:Wto (w)
 LOCATION:308 S
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261204T114000
-DTEND:20261204T150500
+DTSTART;TZID=Europe/Warsaw:20261204T114000
+DTEND;TZID=Europe/Warsaw:20261204T150500
 SUMMARY:Wok (L)
 LOCATION:128 47
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Waldemar Grabiec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T080000
-DTEND:20261208T093500
+DTSTART;TZID=Europe/Warsaw:20261208T080000
+DTEND;TZID=Europe/Warsaw:20261208T093500
 SUMMARY:Ekk (w)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T095000
-DTEND:20261208T112500
+DTSTART;TZID=Europe/Warsaw:20261208T095000
+DTEND;TZID=Europe/Warsaw:20261208T112500
 SUMMARY:ak (L)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T114000
-DTEND:20261208T131500
+DTSTART;TZID=Europe/Warsaw:20261208T114000
+DTEND;TZID=Europe/Warsaw:20261208T131500
 SUMMARY:Weok (L)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261209T133000
-DTEND:20261209T150500
+DTSTART;TZID=Europe/Warsaw:20261209T133000
+DTEND;TZID=Europe/Warsaw:20261209T150500
 SUMMARY:Eaa (ć)
 LOCATION:085 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261209T160000
-DTEND:20261209T173500
+DTSTART;TZID=Europe/Warsaw:20261209T160000
+DTEND;TZID=Europe/Warsaw:20261209T173500
 SUMMARY:Ekk (ć)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261209T175000
-DTEND:20261209T211500
+DTSTART;TZID=Europe/Warsaw:20261209T175000
+DTEND;TZID=Europe/Warsaw:20261209T211500
 SUMMARY:Wekk (ć)
 LOCATION:218 65
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T080000
-DTEND:20261210T093500
+DTSTART;TZID=Europe/Warsaw:20261210T080000
+DTEND;TZID=Europe/Warsaw:20261210T093500
 SUMMARY:Eaa (w)
 LOCATION:078 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T095000
-DTEND:20261210T112500
+DTSTART;TZID=Europe/Warsaw:20261210T095000
+DTEND;TZID=Europe/Warsaw:20261210T112500
 SUMMARY:Weok (w)
 LOCATION:227 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T114000
-DTEND:20261210T131500
+DTSTART;TZID=Europe/Warsaw:20261210T114000
+DTEND;TZID=Europe/Warsaw:20261210T131500
 SUMMARY:Fpik (P)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261211T114000
-DTEND:20261211T150500
+DTSTART;TZID=Europe/Warsaw:20261211T114000
+DTEND;TZID=Europe/Warsaw:20261211T150500
 SUMMARY:Wto (w)
 LOCATION:308 S
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T080000
-DTEND:20261215T093500
+DTSTART;TZID=Europe/Warsaw:20261215T080000
+DTEND;TZID=Europe/Warsaw:20261215T093500
 SUMMARY:Ekk (w)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T095000
-DTEND:20261215T131500
+DTSTART;TZID=Europe/Warsaw:20261215T095000
+DTEND;TZID=Europe/Warsaw:20261215T131500
 SUMMARY:ak (P)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T133000
-DTEND:20261215T150500
+DTSTART;TZID=Europe/Warsaw:20261215T133000
+DTEND;TZID=Europe/Warsaw:20261215T150500
 SUMMARY:Erp (w)
 LOCATION:087 S
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T133000
-DTEND:20261216T150500
+DTSTART;TZID=Europe/Warsaw:20261216T133000
+DTEND;TZID=Europe/Warsaw:20261216T150500
 SUMMARY:Eaa (ć)
 LOCATION:085 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T160000
-DTEND:20261216T173500
+DTSTART;TZID=Europe/Warsaw:20261216T160000
+DTEND;TZID=Europe/Warsaw:20261216T173500
 SUMMARY:Ekk (ć)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T175000
-DTEND:20261216T211500
+DTSTART;TZID=Europe/Warsaw:20261216T175000
+DTEND;TZID=Europe/Warsaw:20261216T211500
 SUMMARY:Wekk (w)
 LOCATION:218 65
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T080000
-DTEND:20261217T093500
+DTSTART;TZID=Europe/Warsaw:20261217T080000
+DTEND;TZID=Europe/Warsaw:20261217T093500
 SUMMARY:Eaa (w)
 LOCATION:078 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T095000
-DTEND:20261217T112500
+DTSTART;TZID=Europe/Warsaw:20261217T095000
+DTEND;TZID=Europe/Warsaw:20261217T112500
 SUMMARY:Fpik (w)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T114000
-DTEND:20261217T131500
+DTSTART;TZID=Europe/Warsaw:20261217T114000
+DTEND;TZID=Europe/Warsaw:20261217T131500
 SUMMARY:Weok (w)
 LOCATION:227 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T133000
-DTEND:20261217T150500
+DTSTART;TZID=Europe/Warsaw:20261217T133000
+DTEND;TZID=Europe/Warsaw:20261217T150500
 SUMMARY:Weok (L)
 LOCATION:227 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261218T080000
-DTEND:20261218T112500
+DTSTART;TZID=Europe/Warsaw:20261218T080000
+DTEND;TZID=Europe/Warsaw:20261218T112500
 SUMMARY:Wto (ć)
 LOCATION:309 S
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261218T114000
-DTEND:20261218T150500
+DTSTART;TZID=Europe/Warsaw:20261218T114000
+DTEND;TZID=Europe/Warsaw:20261218T150500
 SUMMARY:Wok (L)
 LOCATION:128 47
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Waldemar Grabiec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261222T080000
-DTEND:20261222T093500
+DTSTART;TZID=Europe/Warsaw:20261222T080000
+DTEND;TZID=Europe/Warsaw:20261222T093500
 SUMMARY:Ekk (w)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261222T095000
-DTEND:20261222T131500
+DTSTART;TZID=Europe/Warsaw:20261222T095000
+DTEND;TZID=Europe/Warsaw:20261222T131500
 SUMMARY:ak (P)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261222T133000
-DTEND:20261222T150500
+DTSTART;TZID=Europe/Warsaw:20261222T133000
+DTEND;TZID=Europe/Warsaw:20261222T150500
 SUMMARY:Wto (ć)
 LOCATION:309 S
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261223T114000
-DTEND:20261223T131500
+DTSTART;TZID=Europe/Warsaw:20261223T114000
+DTEND;TZID=Europe/Warsaw:20261223T131500
 SUMMARY:Erp (w)
 LOCATION:218 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261223T133000
-DTEND:20261223T150500
+DTSTART;TZID=Europe/Warsaw:20261223T133000
+DTEND;TZID=Europe/Warsaw:20261223T150500
 SUMMARY:Eaa (ć)
 LOCATION:085 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261223T160000
-DTEND:20261223T173500
+DTSTART;TZID=Europe/Warsaw:20261223T160000
+DTEND;TZID=Europe/Warsaw:20261223T173500
 SUMMARY:Ekk (ć)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261223T175000
-DTEND:20261223T211500
+DTSTART;TZID=Europe/Warsaw:20261223T175000
+DTEND;TZID=Europe/Warsaw:20261223T211500
 SUMMARY:Wekk (ć)
 LOCATION:218 65
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T080000
-DTEND:20270107T093500
+DTSTART;TZID=Europe/Warsaw:20270107T080000
+DTEND;TZID=Europe/Warsaw:20270107T093500
 SUMMARY:Eaa (w)
 LOCATION:078 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T095000
-DTEND:20270107T112500
+DTSTART;TZID=Europe/Warsaw:20270107T095000
+DTEND;TZID=Europe/Warsaw:20270107T112500
 SUMMARY:Fpik (w)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T114000
-DTEND:20270107T131500
+DTSTART;TZID=Europe/Warsaw:20270107T114000
+DTEND;TZID=Europe/Warsaw:20270107T131500
 SUMMARY:Weok (w)
 LOCATION:227 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270107T133000
-DTEND:20270107T150500
+DTSTART;TZID=Europe/Warsaw:20270107T133000
+DTEND;TZID=Europe/Warsaw:20270107T150500
 SUMMARY:Weok (L)
 LOCATION:227 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270108T080000
-DTEND:20270108T112500
+DTSTART;TZID=Europe/Warsaw:20270108T080000
+DTEND;TZID=Europe/Warsaw:20270108T112500
 SUMMARY:Wto (L)
 LOCATION:128 47
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Grzelak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T080000
-DTEND:20270112T093500
+DTSTART;TZID=Europe/Warsaw:20270112T080000
+DTEND;TZID=Europe/Warsaw:20270112T093500
 SUMMARY:Ekk (w)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T095000
-DTEND:20270112T112500
+DTSTART;TZID=Europe/Warsaw:20270112T095000
+DTEND;TZID=Europe/Warsaw:20270112T112500
 SUMMARY:ak (L)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270112T114000
-DTEND:20270112T131500
+DTSTART;TZID=Europe/Warsaw:20270112T114000
+DTEND;TZID=Europe/Warsaw:20270112T131500
 SUMMARY:Weok (L)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270113T133000
-DTEND:20270113T150500
+DTSTART;TZID=Europe/Warsaw:20270113T133000
+DTEND;TZID=Europe/Warsaw:20270113T150500
 SUMMARY:Eaa (ć)
 LOCATION:085 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270113T160000
-DTEND:20270113T173500
+DTSTART;TZID=Europe/Warsaw:20270113T160000
+DTEND;TZID=Europe/Warsaw:20270113T173500
 SUMMARY:Ekk (ć)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270113T175000
-DTEND:20270113T211500
+DTSTART;TZID=Europe/Warsaw:20270113T175000
+DTEND;TZID=Europe/Warsaw:20270113T211500
 SUMMARY:Wekk (w)
 LOCATION:218 65
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T080000
-DTEND:20270114T093500
+DTSTART;TZID=Europe/Warsaw:20270114T080000
+DTEND;TZID=Europe/Warsaw:20270114T093500
 SUMMARY:Eaa (w)
 LOCATION:078 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T095000
-DTEND:20270114T112500
+DTSTART;TZID=Europe/Warsaw:20270114T095000
+DTEND;TZID=Europe/Warsaw:20270114T112500
 SUMMARY:Weok (w)
 LOCATION:227 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T114000
-DTEND:20270114T131500
+DTSTART;TZID=Europe/Warsaw:20270114T114000
+DTEND;TZID=Europe/Warsaw:20270114T131500
 SUMMARY:Fpik (P)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270114T133000
-DTEND:20270114T150500
+DTSTART;TZID=Europe/Warsaw:20270114T133000
+DTEND;TZID=Europe/Warsaw:20270114T150500
 SUMMARY:Weok (L)
 LOCATION:227 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270115T080000
-DTEND:20270115T112500
+DTSTART;TZID=Europe/Warsaw:20270115T080000
+DTEND;TZID=Europe/Warsaw:20270115T112500
 SUMMARY:Wto (L)
 LOCATION:128 47
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Grzelak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T080000
-DTEND:20270119T093500
+DTSTART;TZID=Europe/Warsaw:20270119T080000
+DTEND;TZID=Europe/Warsaw:20270119T093500
 SUMMARY:Weok (L)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T095000
-DTEND:20270119T131500
+DTSTART;TZID=Europe/Warsaw:20270119T095000
+DTEND;TZID=Europe/Warsaw:20270119T131500
 SUMMARY:ak (P)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T133000
-DTEND:20270119T150500
+DTSTART;TZID=Europe/Warsaw:20270119T133000
+DTEND;TZID=Europe/Warsaw:20270119T150500
 SUMMARY:Wto (L)
 LOCATION:128 47
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Grzelak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270119T160000
-DTEND:20270119T173500
+DTSTART;TZID=Europe/Warsaw:20270119T160000
+DTEND;TZID=Europe/Warsaw:20270119T173500
 SUMMARY:Wto (L)
 LOCATION:128 47
 DESCRIPTION:Wprowadzenie do telekomunikacj optycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Krzysztof Grzelak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270120T133000
-DTEND:20270120T150500
+DTSTART;TZID=Europe/Warsaw:20270120T133000
+DTEND;TZID=Europe/Warsaw:20270120T150500
 SUMMARY:Erp (ć)
 LOCATION:218 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270120T160000
-DTEND:20270120T173500
+DTSTART;TZID=Europe/Warsaw:20270120T160000
+DTEND;TZID=Europe/Warsaw:20270120T173500
 SUMMARY:Ekk (ć)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270120T175000
-DTEND:20270120T211500
+DTSTART;TZID=Europe/Warsaw:20270120T175000
+DTEND;TZID=Europe/Warsaw:20270120T211500
 SUMMARY:Wekk (ć)
 LOCATION:218 65
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T080000
-DTEND:20270121T093500
+DTSTART;TZID=Europe/Warsaw:20270121T080000
+DTEND;TZID=Europe/Warsaw:20270121T093500
 SUMMARY:Eaa (ć)
 LOCATION:085 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T095000
-DTEND:20270121T112500
+DTSTART;TZID=Europe/Warsaw:20270121T095000
+DTEND;TZID=Europe/Warsaw:20270121T112500
 SUMMARY:Fpik (w)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270121T114000
-DTEND:20270121T131500
+DTSTART;TZID=Europe/Warsaw:20270121T114000
+DTEND;TZID=Europe/Warsaw:20270121T131500
 SUMMARY:Fpik (P)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270126T080000
-DTEND:20270126T093500
+DTSTART;TZID=Europe/Warsaw:20270126T080000
+DTEND;TZID=Europe/Warsaw:20270126T093500
 SUMMARY:ak (L)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270126T095000
-DTEND:20270126T131500
+DTSTART;TZID=Europe/Warsaw:20270126T095000
+DTEND;TZID=Europe/Warsaw:20270126T131500
 SUMMARY:ak (P)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270127T133000
-DTEND:20270127T150500
+DTSTART;TZID=Europe/Warsaw:20270127T133000
+DTEND;TZID=Europe/Warsaw:20270127T150500
 SUMMARY:Erp (ć)
 LOCATION:218 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270127T160000
-DTEND:20270127T173500
+DTSTART;TZID=Europe/Warsaw:20270127T160000
+DTEND;TZID=Europe/Warsaw:20270127T173500
 SUMMARY:Ekk (ć)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270127T175000
-DTEND:20270127T211500
+DTSTART;TZID=Europe/Warsaw:20270127T175000
+DTEND;TZID=Europe/Warsaw:20270127T211500
 SUMMARY:Wekk (P)
 LOCATION:218 65
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270128T080000
-DTEND:20270128T093500
+DTSTART;TZID=Europe/Warsaw:20270128T080000
+DTEND;TZID=Europe/Warsaw:20270128T093500
 SUMMARY:Eaa (ć)
 LOCATION:085 S
 DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270128T095000
-DTEND:20270128T112500
+DTSTART;TZID=Europe/Warsaw:20270128T095000
+DTEND;TZID=Europe/Warsaw:20270128T112500
 SUMMARY:Fpik (P)
 LOCATION:227 S
 DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270128T114000
-DTEND:20270128T131500
+DTSTART;TZID=Europe/Warsaw:20270128T114000
+DTEND;TZID=Europe/Warsaw:20270128T131500
 SUMMARY:Weok (L)
 LOCATION:228 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20270128T133000
-DTEND:20270128T150500
+DTSTART;TZID=Europe/Warsaw:20270128T133000
+DTEND;TZID=Europe/Warsaw:20270128T150500
 SUMMARY:Erp (ć)
 LOCATION:219 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Ryszard Kopiecki

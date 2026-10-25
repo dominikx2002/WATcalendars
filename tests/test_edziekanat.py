@@ -84,6 +84,8 @@ def test_title_split():
     assert P._split_title("Steg - dr Kowalski (Lab)") == ("Steg", ["dr Kowalski"], "Lab")
     s, people, t = P._split_title("Sieci - dr Lis; dr Mak (Projekt)")
     assert s == "Sieci" and people == ["dr Lis", "dr Mak"] and t == "Projekt"
+    assert P._split_title("Język angielski -  (Ćwiczenia)") == (
+        "Język angielski", [], "Ćwiczenia")
 
 
 def test_parse_extracts_lessons_with_dates_and_times():

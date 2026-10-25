@@ -70,15 +70,44 @@ def to_utc_string(value: datetime) -> str:
     return (value - _manual_warsaw_offset(value)).strftime("%Y%m%dT%H%M%SZ")
 
 
-def _floating(value: datetime) -> str:
-    """Local "floating" ICS time (no Z, no TZID): shown as-is, no (GMT ...)."""
-    return value.strftime("%Y%m%dT%H%M%S") if value else ""
+# Local Warsaw wall-clock times need an explicit zone: "floating" times
+# (no Z, no TZID) are read as UTC by Google Calendar subscriptions, which
+# put every class 1-2 h late. With TZID + this VTIMEZONE every client
+# shows the times as written, with no "(GMT ...)" for users in Poland.
+_TZID = "Europe/Warsaw"
+_VTIMEZONE = [
+    "BEGIN:VTIMEZONE",
+    f"TZID:{_TZID}",
+    f"X-LIC-LOCATION:{_TZID}",
+    "BEGIN:DAYLIGHT",
+    "TZOFFSETFROM:+0100",
+    "TZOFFSETTO:+0200",
+    "TZNAME:CEST",
+    "DTSTART:19700329T020000",
+    "RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU",
+    "END:DAYLIGHT",
+    "BEGIN:STANDARD",
+    "TZOFFSETFROM:+0200",
+    "TZOFFSETTO:+0100",
+    "TZNAME:CET",
+    "DTSTART:19701025T030000",
+    "RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU",
+    "END:STANDARD",
+    "END:VTIMEZONE",
+]
+
+
+def _local(name: str, value: datetime) -> str:
+    """'DTSTART;TZID=Europe/Warsaw:20261026T114000' for a naive Warsaw time."""
+    return f"{name};TZID={_TZID}:{value.strftime('%Y%m%dT%H%M%S')}"
 
 
 def build_calendar(group_id: str, lessons: Iterable[Lesson],
-                   floating: bool = False) -> str:
-    """Render one group's lessons as an iCalendar document."""
-    stamp = _floating if floating else to_utc_string
+                   local: bool = False) -> str:
+    """Render one group's lessons as an iCalendar document.
+
+    local=True writes Europe/Warsaw times with a TZID instead of UTC.
+    """
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -86,6 +115,8 @@ def build_calendar(group_id: str, lessons: Iterable[Lesson],
         "CALSCALE:GREGORIAN",
         f"X-WR-CALNAME:{group_id}",
     ]
+    if local:
+        lines += [f"X-WR-TIMEZONE:{_TZID}"] + _VTIMEZONE
 
     for lesson in lessons:
         if not lesson.is_valid:
@@ -103,8 +134,10 @@ def build_calendar(group_id: str, lessons: Iterable[Lesson],
 
         lines += [
             "BEGIN:VEVENT",
-            f"DTSTART:{stamp(lesson.start)}",
-            f"DTEND:{stamp(lesson.end)}",
+            _local("DTSTART", lesson.start) if local
+            else f"DTSTART:{to_utc_string(lesson.start)}",
+            _local("DTEND", lesson.end) if local
+            else f"DTEND:{to_utc_string(lesson.end)}",
             f"SUMMARY:{lesson.subject} {lesson.type}",
             f"LOCATION:{lesson.room}",
             "DESCRIPTION:" + "\\n".join(description),
@@ -116,11 +149,11 @@ def build_calendar(group_id: str, lessons: Iterable[Lesson],
 
 
 def write_calendar(group_id: str, lessons: Sequence[Lesson], target_dir: str,
-                   floating: bool = False) -> str:
+                   local: bool = False) -> str:
     """Write one .ics file; returns 'added', 'changed' or 'unchanged'."""
     ensure_dir(target_dir)
     path = os.path.join(target_dir, f"{sanitize_filename(group_id)}.ics")
-    content = build_calendar(group_id, lessons, floating=floating)
+    content = build_calendar(group_id, lessons, local=local)
 
     status = "added"
     if os.path.exists(path):
