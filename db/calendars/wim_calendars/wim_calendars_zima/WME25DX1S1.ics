@@ -921,6 +921,13 @@ LOCATION:2/ 68
 DESCRIPTION:Napędy spalinowe, hybrydowe i elektryczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261215T104000Z
+DTEND:20261215T121500Z
+SUMMARY:Met (w)
+LOCATION:53/ 62
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Sławiński Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261222T104000Z
 DTEND:20261222T121500Z
 SUMMARY:MiTwBM (ć)
@@ -1138,13 +1145,6 @@ LOCATION:3/ 23A
 DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T070000Z
-DTEND:20261104T083500Z
-SUMMARY:ITrD (w)
-LOCATION:54/ 62
-DESCRIPTION:Infrastruktura transportu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Wieczorek Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261111T070000Z
 DTEND:20261111T083500Z
 SUMMARY:I 
@@ -1252,9 +1252,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
 DTEND:20261104T102500Z
-SUMMARY:Met (w)
+SUMMARY:ITrD (w)
 LOCATION:55/ 62
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Infrastruktura transportu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T085000Z

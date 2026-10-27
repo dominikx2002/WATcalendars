@@ -214,13 +214,6 @@ LOCATION:14/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261025T070000Z
-DTEND:20261025T083500Z
-SUMMARY:App (L)
-LOCATION:7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261018T094000Z
 DTEND:20261018T111500Z
 SUMMARY:App (w)
@@ -282,6 +275,13 @@ DTEND:20261025T163500Z
 SUMMARY:Ppu. (Rp)
 LOCATION:6/ 23A
 DESCRIPTION:Ppu.\nRodzaj zajęć: (Rp)\nNumer zajęć: 4/5\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261108T150000Z
+DTEND:20261108T163500Z
+SUMMARY:App (L)
+LOCATION:7/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T150000Z

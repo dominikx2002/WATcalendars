@@ -914,18 +914,11 @@ LOCATION:
 DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 14/25
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T123000Z
-DTEND:20261028T140500Z
-SUMMARY:SNUB (L)
-LOCATION:6/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Tomaszewski Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261104T123000Z
 DTEND:20261104T140500Z
 SUMMARY:SNUB (L)
 LOCATION:6/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T123000Z
@@ -970,18 +963,11 @@ LOCATION:
 DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 15/25
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T150000Z
-DTEND:20261028T163500Z
-SUMMARY:SNUB (L)
-LOCATION:6/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Tomaszewski Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261104T150000Z
 DTEND:20261104T163500Z
 SUMMARY:SNUB (L)
 LOCATION:6/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T150000Z
@@ -989,6 +975,20 @@ DTEND:20261111T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 41/147
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T150000Z
+DTEND:20261118T163500Z
+SUMMARY:SNUB (L)
+LOCATION:6/ 62
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Tomaszewski Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T150000Z
+DTEND:20261125T163500Z
+SUMMARY:SNUB (L)
+LOCATION:6/ 62
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T150000Z

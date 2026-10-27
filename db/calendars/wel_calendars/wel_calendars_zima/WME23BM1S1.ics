@@ -137,13 +137,6 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T123000Z
-DTEND:20261028T140500Z
-SUMMARY:SNUB 
-LOCATION:
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych 20\nRodzaj zajęć: -\nProwadzący: dr inż. Tomaszewski Michał 21
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261104T123000Z
 DTEND:20261104T140500Z
 SUMMARY:SNUB 
@@ -151,15 +144,22 @@ LOCATION:
 DESCRIPTION:Symulacja numeryczna układów biomechanicznych 20\nRodzaj zajęć: -\nProwadzący: dr inż. Tomaszewski Michał 21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T150000Z
-DTEND:20261028T163500Z
+DTSTART:20261104T150000Z
+DTEND:20261104T163500Z
 SUMMARY:SNUB 
 LOCATION:
 DESCRIPTION:Symulacja numeryczna układów biomechanicznych 20\nRodzaj zajęć: -\nProwadzący: dr inż. Tomaszewski Michał 21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T150000Z
-DTEND:20261104T163500Z
+DTSTART:20261118T150000Z
+DTEND:20261118T163500Z
+SUMMARY:SNUB 
+LOCATION:
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych 20\nRodzaj zajęć: -\nProwadzący: dr inż. Tomaszewski Michał 21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T150000Z
+DTEND:20261125T163500Z
 SUMMARY:SNUB 
 LOCATION:
 DESCRIPTION:Symulacja numeryczna układów biomechanicznych 20\nRodzaj zajęć: -\nProwadzący: dr inż. Tomaszewski Michał 21

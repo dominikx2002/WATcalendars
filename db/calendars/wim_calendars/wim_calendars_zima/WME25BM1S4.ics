@@ -228,13 +228,6 @@ LOCATION:8/ 62
 DESCRIPTION:Sensory i przetworniki pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Stanisławek Sebastian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261026T104000Z
-DTEND:20261026T121500Z
-SUMMARY:Kmp. (w)
-LOCATION:54/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Tomaszewski Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261109T104000Z
 DTEND:20261109T121500Z
 SUMMARY:Mnisu2 (w)
@@ -347,13 +340,6 @@ LOCATION:9/ 62
 DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261026T123000Z
-DTEND:20261026T140500Z
-SUMMARY:Kmp. (L)
-LOCATION:7/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: dr inż. Tomaszewski Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261102T123000Z
 DTEND:20261102T140500Z
 SUMMARY:Mnisu2 (w)
@@ -400,14 +386,14 @@ DTSTART:20261214T123000Z
 DTEND:20261214T140500Z
 SUMMARY:Kmp. (w)
 LOCATION:51/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T123000Z
 DTEND:20261221T140500Z
 SUMMARY:Kmp. (w)
 LOCATION:51/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T123000Z
@@ -473,13 +459,6 @@ LOCATION:55/ 62
 DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 8/36\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261026T150000Z
-DTEND:20261026T163500Z
-SUMMARY:Kmp. (L)
-LOCATION:7/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: dr inż. Tomaszewski Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261109T150000Z
 DTEND:20261109T163500Z
 SUMMARY:URiPSR 
@@ -492,6 +471,13 @@ DTEND:20261116T163500Z
 SUMMARY:URiPSR 
 LOCATION:7/ 62
 DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 10/36\nProwadzący: dr inż. Tomaszewski Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T150000Z
+DTEND:20261123T163500Z
+SUMMARY:Kmp. (L)
+LOCATION:7/ 62
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T150000Z
@@ -680,7 +666,7 @@ DTSTART:20261222T070000Z
 DTEND:20261222T083500Z
 SUMMARY:Kmp. (L)
 LOCATION:6/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T070000Z
@@ -701,7 +687,7 @@ DTSTART:20260112T070000Z
 DTEND:20260112T083500Z
 SUMMARY:Kmp. (L)
 LOCATION:6/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T060000Z
@@ -778,7 +764,7 @@ DTSTART:20261222T085000Z
 DTEND:20261222T102500Z
 SUMMARY:Kmp. (L)
 LOCATION:6/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T085000Z
@@ -914,6 +900,13 @@ LOCATION:120/ 54
 DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261110T123000Z
+DTEND:20261110T140500Z
+SUMMARY:Kmp. (w)
+LOCATION:53/ 62
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Tomaszewski Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261117T123000Z
 DTEND:20261117T140500Z
 SUMMARY:URiPSR 
@@ -982,6 +975,13 @@ DTEND:20261110T163500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 3/180
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T150000Z
+DTEND:20261117T163500Z
+SUMMARY:Kmp. (L)
+LOCATION:7/ 62
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T150000Z

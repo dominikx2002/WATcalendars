@@ -872,13 +872,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 37/98
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261107T165000Z
-DTEND:20261107T182500Z
-SUMMARY:MiTwBM (w)
-LOCATION:1/ 21
-DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Napadłek Wojciech
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261114T165000Z
 DTEND:20261114T182500Z
 SUMMARY:NS,h (ć)
@@ -911,7 +904,7 @@ DTSTART:20261212T165000Z
 DTEND:20261212T182500Z
 SUMMARY:MiTwBM (w)
 LOCATION:5/ 20
-DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Napadłek Wojciech
+DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T165000Z
@@ -1012,13 +1005,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 44/98
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261107T184000Z
-DTEND:20261107T201500Z
-SUMMARY:MiTwBM (w)
-LOCATION:1/ 21
-DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Napadłek Wojciech
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261114T184000Z
 DTEND:20261114T201500Z
 SUMMARY:NS,h (ć)
@@ -1051,7 +1037,7 @@ DTSTART:20261212T184000Z
 DTEND:20261212T201500Z
 SUMMARY:MiTwBM (w)
 LOCATION:5/ 20
-DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Napadłek Wojciech
+DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T184000Z
@@ -1208,11 +1194,25 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 54/98
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260110T070000Z
+DTEND:20260110T083500Z
+SUMMARY:MiTwBM (w)
+LOCATION:1/ 21
+DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Napadłek Wojciech
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260117T070000Z
 DTEND:20260117T083500Z
 SUMMARY:ITrD (w)
 LOCATION:54/ 62
 DESCRIPTION:Infrastruktura transportu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Wieczorek Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260124T070000Z
+DTEND:20260124T083500Z
+SUMMARY:MiTwBM (w)
+LOCATION:1/ 21
+DESCRIPTION:Materiały i technologie w budowie pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T070000Z

@@ -1674,14 +1674,14 @@ DTSTART:20261115T123000Z
 DTEND:20261115T140500Z
 SUMMARY:F2 (ć)
 LOCATION:52/ 62
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T123000Z
 DTEND:20261122T140500Z
 SUMMARY:F2 (ć)
 LOCATION:301/ S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261129T123000Z
@@ -1695,21 +1695,21 @@ DTSTART:20261206T123000Z
 DTEND:20261206T140500Z
 SUMMARY:F2 (ć)
 LOCATION:52/ 62
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T123000Z
 DTEND:20261213T140500Z
 SUMMARY:F2 (ć)
 LOCATION:52/ 62
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T123000Z
 DTEND:20261220T140500Z
 SUMMARY:F2 (ć)
 LOCATION:52/ 62
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261227T123000Z
@@ -1833,16 +1833,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T150000Z
 DTEND:20261213T163500Z
-SUMMARY:Mp (L)
-LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Rubiec Arkadiusz
+SUMMARY:F2 (ć)
+LOCATION:52/ 62
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T150000Z
 DTEND:20261220T163500Z
-SUMMARY:Mp (L)
-LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Rubiec Arkadiusz
+SUMMARY:F2 (ć)
+LOCATION:52/ 62
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261227T150000Z
@@ -1863,21 +1863,21 @@ DTSTART:20260110T150000Z
 DTEND:20260110T163500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T150000Z
 DTEND:20260117T163500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T150000Z
 DTEND:20260124T163500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T150000Z
@@ -1934,6 +1934,20 @@ DTEND:20261129T182500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 87/98
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T165000Z
+DTEND:20261213T182500Z
+SUMMARY:Mp (L)
+LOCATION:05/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Rubiec Arkadiusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261220T165000Z
+DTEND:20261220T182500Z
+SUMMARY:Mp (L)
+LOCATION:05/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261227T165000Z

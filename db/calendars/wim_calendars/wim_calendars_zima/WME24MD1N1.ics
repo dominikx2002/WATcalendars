@@ -1215,13 +1215,6 @@ LOCATION:09/ 54A
 DESCRIPTION:Dynamika i symulacja ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261025T070000Z
-DTEND:20261025T083500Z
-SUMMARY:App (L)
-LOCATION:7/ 23A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261101T070000Z
 DTEND:20261101T083500Z
 SUMMARY:I 
@@ -1780,6 +1773,13 @@ DTEND:20261101T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 79/98
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261108T150000Z
+DTEND:20261108T163500Z
+SUMMARY:App (L)
+LOCATION:7/ 23A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T150000Z
