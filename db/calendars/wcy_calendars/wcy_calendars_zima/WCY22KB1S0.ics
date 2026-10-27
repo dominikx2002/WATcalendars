@@ -411,7 +411,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T133000
 DTEND;TZID=Europe/Warsaw:20261029T150500
 SUMMARY:Pjn (w)
-LOCATION:309 S
+LOCATION:236 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
@@ -525,6 +525,13 @@ DTEND;TZID=Europe/Warsaw:20261104T192500
 SUMMARY:Wf_E (E)
 LOCATION:
 DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261105T080000
+DTEND;TZID=Europe/Warsaw:20261105T112500
+SUMMARY:JA-E (i)
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: Inne\nNumer zajęć: 1\nProwadzący: egzamin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T133000

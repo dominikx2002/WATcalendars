@@ -149,13 +149,6 @@ LOCATION:309 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261026T114000
-DTEND;TZID=Europe/Warsaw:20261026T150500
-SUMMARY:Orr (L)
-LOCATION:228 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Zimoń
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T080000
 DTEND;TZID=Europe/Warsaw:20261028T112500
 SUMMARY:Bda (L)
@@ -182,6 +175,13 @@ DTEND;TZID=Europe/Warsaw:20261029T211500
 SUMMARY:Pjn (L)
 LOCATION:224 S
 DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261030T080000
+DTEND;TZID=Europe/Warsaw:20261030T112500
+SUMMARY:Orr (L)
+LOCATION:252 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Zimoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T114000

@@ -485,13 +485,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261027T080000
-DTEND;TZID=Europe/Warsaw:20261027T093500
-SUMMARY:QPQe (w)
-LOCATION:078 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T095000
 DTEND;TZID=Europe/Warsaw:20261027T112500
 SUMMARY:Dtu (w)
@@ -674,6 +667,13 @@ LOCATION:
 DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261105T095000
+DTEND;TZID=Europe/Warsaw:20261105T112500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T114000
 DTEND;TZID=Europe/Warsaw:20261105T150500
 SUMMARY:Khk (P)
@@ -791,13 +791,6 @@ DTEND;TZID=Europe/Warsaw:20261112T150500
 SUMMARY:QPQe (ć)
 LOCATION:085 S
 DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261112T160000
-DTEND;TZID=Europe/Warsaw:20261112T173500
-SUMMARY:Mnk (L)
-LOCATION:218 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T080000
@@ -1064,6 +1057,13 @@ DTEND;TZID=Europe/Warsaw:20261126T150500
 SUMMARY:Dtu (P)
 LOCATION:239 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T160000
+DTEND;TZID=Europe/Warsaw:20261126T173500
+SUMMARY:QPQe (w)
+LOCATION:078 S
+DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261128T095000

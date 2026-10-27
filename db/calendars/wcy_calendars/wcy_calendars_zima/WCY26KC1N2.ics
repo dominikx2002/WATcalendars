@@ -464,13 +464,6 @@ LOCATION:307 S
 DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261213T114000
-DTEND;TZID=Europe/Warsaw:20261213T150500
-SUMMARY:WIT (L)
-LOCATION:121 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Paciorek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261213T152000
 DTEND;TZID=Europe/Warsaw:20261213T165500
 SUMMARY:Nmtz (w)
@@ -532,6 +525,13 @@ DTEND;TZID=Europe/Warsaw:20261220T131500
 SUMMARY:Tal (P)
 LOCATION:223 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Jarosław Napiórkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261220T133000
+DTEND;TZID=Europe/Warsaw:20261220T165500
+SUMMARY:WIT (L)
+LOCATION:120 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T080000

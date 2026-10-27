@@ -927,7 +927,7 @@ DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nPr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T160000
-DTEND;TZID=Europe/Warsaw:20261119T192500
+DTEND;TZID=Europe/Warsaw:20261119T211500
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
@@ -1155,13 +1155,6 @@ DTEND;TZID=Europe/Warsaw:20261202T150500
 SUMMARY:Tik (w)
 LOCATION:317 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261202T160000
-DTEND;TZID=Europe/Warsaw:20261202T173500
-SUMMARY:Pwd (ć)
-LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T080000
@@ -1659,6 +1652,13 @@ DTEND;TZID=Europe/Warsaw:20270116T093500
 SUMMARY:XWF (ć)
 LOCATION:
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T114000
+DTEND;TZID=Europe/Warsaw:20270118T131500
+SUMMARY:Pwd (ć)
+LOCATION:2 45
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T133000
