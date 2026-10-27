@@ -24,6 +24,13 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T095000
+DTEND;TZID=Europe/Warsaw:20261002T112500
+SUMMARY:mST (w)
+LOCATION:101 65
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261002T114000
 DTEND;TZID=Europe/Warsaw:20261002T131500
 SUMMARY:mST (w)
 LOCATION:101 65
@@ -38,6 +45,13 @@ DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T095000
+DTEND;TZID=Europe/Warsaw:20261006T112500
+SUMMARY:Aip (w)
+LOCATION:101 65
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261006T114000
 DTEND;TZID=Europe/Warsaw:20261006T131500
 SUMMARY:Aip (w)
 LOCATION:101 65
@@ -48,45 +62,59 @@ DTSTART;TZID=Europe/Warsaw:20261006T133000
 DTEND;TZID=Europe/Warsaw:20261006T150500
 SUMMARY:mST (w)
 LOCATION:101 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T160000
 DTEND;TZID=Europe/Warsaw:20261006T173500
 SUMMARY:Sa. (w)
 LOCATION:125 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T160000
+DTEND;TZID=Europe/Warsaw:20261007T173500
+SUMMARY:PsbI (w)
+LOCATION:101 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261007T175000
 DTEND;TZID=Europe/Warsaw:20261007T192500
 SUMMARY:PsbI (w)
 LOCATION:101 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T095000
 DTEND;TZID=Europe/Warsaw:20261009T112500
 SUMMARY:mST (w)
 LOCATION:101 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T114000
 DTEND;TZID=Europe/Warsaw:20261009T131500
 SUMMARY:Tds (w)
 LOCATION:101 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T080000
 DTEND;TZID=Europe/Warsaw:20261012T093500
 SUMMARY:BsIP (w)
 LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T095000
+DTEND;TZID=Europe/Warsaw:20261012T112500
+SUMMARY:Temo (w)
+LOCATION:204 65
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261012T114000
 DTEND;TZID=Europe/Warsaw:20261012T131500
 SUMMARY:Temo (w)
 LOCATION:204 65
@@ -97,84 +125,119 @@ DTSTART;TZID=Europe/Warsaw:20261013T133000
 DTEND;TZID=Europe/Warsaw:20261013T150500
 SUMMARY:mST (w)
 LOCATION:101 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T160000
+DTEND;TZID=Europe/Warsaw:20261013T173500
+SUMMARY:Sa. (w)
+LOCATION:125 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261013T175000
 DTEND;TZID=Europe/Warsaw:20261013T192500
 SUMMARY:Sa. (w)
 LOCATION:125 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T080000
 DTEND;TZID=Europe/Warsaw:20261019T093500
 SUMMARY:BsIP (w)
 LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T095000
 DTEND;TZID=Europe/Warsaw:20261019T112500
 SUMMARY:Temo (w)
 LOCATION:101 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T080000
 DTEND;TZID=Europe/Warsaw:20261020T093500
 SUMMARY:mST (w)
 LOCATION:204 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T095000
 DTEND;TZID=Europe/Warsaw:20261020T112500
 SUMMARY:Aip (w)
 LOCATION:204 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T114000
+DTEND;TZID=Europe/Warsaw:20261020T131500
+SUMMARY:Sa. (w)
+LOCATION:125 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261020T133000
 DTEND;TZID=Europe/Warsaw:20261020T150500
 SUMMARY:Sa. (w)
 LOCATION:125 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T114000
+DTEND;TZID=Europe/Warsaw:20261022T131500
+SUMMARY:BsIP (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261022T133000
 DTEND;TZID=Europe/Warsaw:20261022T150500
 SUMMARY:BsIP (L)
 LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T160000
+DTEND;TZID=Europe/Warsaw:20261022T173500
+SUMMARY:PsbI (w)
+LOCATION:101 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261022T175000
 DTEND;TZID=Europe/Warsaw:20261022T192500
 SUMMARY:PsbI (w)
 LOCATION:101 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T080000
 DTEND;TZID=Europe/Warsaw:20261026T093500
 SUMMARY:BsIP (w)
 LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T095000
 DTEND;TZID=Europe/Warsaw:20261026T112500
 SUMMARY:Temo (w)
 LOCATION:101 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T175000
+DTEND;TZID=Europe/Warsaw:20261027T192500
+SUMMARY:PsbI (L)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261027T194000
 DTEND;TZID=Europe/Warsaw:20261027T211500
 SUMMARY:PsbI (L)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T080000
@@ -195,164 +258,241 @@ DTSTART;TZID=Europe/Warsaw:20261028T114000
 DTEND;TZID=Europe/Warsaw:20261028T131500
 SUMMARY:Aip (w)
 LOCATION:204 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T133000
 DTEND;TZID=Europe/Warsaw:20261028T150500
 SUMMARY:mST (L)
 LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T080000
+DTEND;TZID=Europe/Warsaw:20261030T093500
+SUMMARY:Zt (w)
+LOCATION:101 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261030T095000
 DTEND;TZID=Europe/Warsaw:20261030T112500
 SUMMARY:Zt (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T080000
 DTEND;TZID=Europe/Warsaw:20261102T093500
 SUMMARY:BsIP (w)
 LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
 DTEND;TZID=Europe/Warsaw:20261102T112500
 SUMMARY:Zt (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T114000
+DTEND;TZID=Europe/Warsaw:20261102T131500
+SUMMARY:Sa. (w)
+LOCATION:125 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T133000
 DTEND;TZID=Europe/Warsaw:20261102T150500
 SUMMARY:Sa. (w)
 LOCATION:125 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T175000
+DTEND;TZID=Europe/Warsaw:20261103T192500
+SUMMARY:PsbI (L)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261103T194000
 DTEND;TZID=Europe/Warsaw:20261103T211500
 SUMMARY:PsbI (L)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T080000
+DTEND;TZID=Europe/Warsaw:20261104T093500
+SUMMARY:Tds (w)
+LOCATION:204 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261104T095000
 DTEND;TZID=Europe/Warsaw:20261104T112500
 SUMMARY:Tds (w)
 LOCATION:204 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T114000
 DTEND;TZID=Europe/Warsaw:20261104T131500
 SUMMARY:Aip (w)
 LOCATION:204 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T080000
-DTEND;TZID=Europe/Warsaw:20261105T112500
+DTEND;TZID=Europe/Warsaw:20261105T093500
 SUMMARY:Zt (L)
 LOCATION:121 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261105T095000
+DTEND;TZID=Europe/Warsaw:20261105T112500
+SUMMARY:Zt (L)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T114000
+DTEND;TZID=Europe/Warsaw:20261105T131500
+SUMMARY:Temo (L)
+LOCATION:106 65
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261105T133000
 DTEND;TZID=Europe/Warsaw:20261105T150500
 SUMMARY:Temo (L)
 LOCATION:106 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T080000
 DTEND;TZID=Europe/Warsaw:20261106T093500
 SUMMARY:PsbI (w)
 LOCATION:101 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T095000
+DTEND;TZID=Europe/Warsaw:20261106T112500
+SUMMARY:mST (w)
+LOCATION:204 65
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261106T114000
 DTEND;TZID=Europe/Warsaw:20261106T131500
 SUMMARY:mST (w)
 LOCATION:204 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T133000
 DTEND;TZID=Europe/Warsaw:20261106T150500
 SUMMARY:mST (L)
 LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T095000
 DTEND;TZID=Europe/Warsaw:20261109T112500
 SUMMARY:Tds (w)
 LOCATION:101 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T114000
 DTEND;TZID=Europe/Warsaw:20261109T131500
 SUMMARY:Zt (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T080000
+DTEND;TZID=Europe/Warsaw:20261110T093500
+SUMMARY:Zt (L)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261110T095000
 DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:Zt (L)
 LOCATION:121 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T114000
 DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:Zt (P)
 LOCATION:121 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T080000
-DTEND;TZID=Europe/Warsaw:20261112T112500
+DTEND;TZID=Europe/Warsaw:20261112T093500
 SUMMARY:Zbi (w)
 LOCATION:101 65
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261112T095000
+DTEND;TZID=Europe/Warsaw:20261112T112500
+SUMMARY:Zbi (w)
+LOCATION:101 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T114000
 DTEND;TZID=Europe/Warsaw:20261112T131500
 SUMMARY:Aip (w)
 LOCATION:101 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T133000
 DTEND;TZID=Europe/Warsaw:20261112T150500
 SUMMARY:Aip (P)
 LOCATION:106 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T080000
+DTEND;TZID=Europe/Warsaw:20261113T093500
+SUMMARY:Zbi (w)
+LOCATION:201 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T095000
 DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:Zbi (w)
 LOCATION:201 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T080000
 DTEND;TZID=Europe/Warsaw:20261116T093500
 SUMMARY:Temo (w)
 LOCATION:101 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T095000
+DTEND;TZID=Europe/Warsaw:20261116T112500
+SUMMARY:Tds (L)
+LOCATION:106 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T114000
 DTEND;TZID=Europe/Warsaw:20261116T131500
 SUMMARY:Tds (L)
 LOCATION:106 65
@@ -363,10 +503,17 @@ DTSTART;TZID=Europe/Warsaw:20261117T160000
 DTEND;TZID=Europe/Warsaw:20261117T173500
 SUMMARY:Aip (P)
 LOCATION:106 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T175000
+DTEND;TZID=Europe/Warsaw:20261117T192500
+SUMMARY:PsbI (L)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T194000
 DTEND;TZID=Europe/Warsaw:20261117T211500
 SUMMARY:PsbI (L)
 LOCATION:106 65
@@ -374,115 +521,178 @@ DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: 
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T114000
-DTEND;TZID=Europe/Warsaw:20261118T150500
+DTEND;TZID=Europe/Warsaw:20261118T131500
 SUMMARY:Temo (L)
 LOCATION:106 65
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261118T133000
+DTEND;TZID=Europe/Warsaw:20261118T150500
+SUMMARY:Temo (L)
+LOCATION:106 65
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T160000
+DTEND;TZID=Europe/Warsaw:20261118T173500
+SUMMARY:mST (P)
+LOCATION:106 65
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261118T175000
 DTEND;TZID=Europe/Warsaw:20261118T192500
 SUMMARY:mST (P)
 LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T080000
+DTEND;TZID=Europe/Warsaw:20261119T093500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T095000
 DTEND;TZID=Europe/Warsaw:20261119T112500
 SUMMARY:Zbi (w)
 LOCATION:203 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T114000
 DTEND;TZID=Europe/Warsaw:20261119T131500
 SUMMARY:PsbI (w)
 LOCATION:101 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T133000
 DTEND;TZID=Europe/Warsaw:20261119T150500
 SUMMARY:Aip (w)
 LOCATION:101 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T095000
+DTEND;TZID=Europe/Warsaw:20261123T112500
+SUMMARY:Tds (L)
+LOCATION:106 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261123T114000
 DTEND;TZID=Europe/Warsaw:20261123T131500
 SUMMARY:Tds (L)
 LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T114000
-DTEND;TZID=Europe/Warsaw:20261124T150500
+DTEND;TZID=Europe/Warsaw:20261124T131500
 SUMMARY:BsIP (L)
 LOCATION:120 65
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261124T133000
+DTEND;TZID=Europe/Warsaw:20261124T150500
+SUMMARY:BsIP (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T160000
+DTEND;TZID=Europe/Warsaw:20261124T173500
+SUMMARY:Sa. (L)
+LOCATION:106 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261124T175000
 DTEND;TZID=Europe/Warsaw:20261124T192500
 SUMMARY:Sa. (L)
 LOCATION:106 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T133000
 DTEND;TZID=Europe/Warsaw:20261125T150500
 SUMMARY:mST (L)
 LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T160000
 DTEND;TZID=Europe/Warsaw:20261125T173500
 SUMMARY:mST (P)
 LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T080000
+DTEND;TZID=Europe/Warsaw:20261126T093500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T095000
 DTEND;TZID=Europe/Warsaw:20261126T112500
 SUMMARY:Zbi (w)
 LOCATION:203 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T114000
 DTEND;TZID=Europe/Warsaw:20261126T131500
 SUMMARY:PsbI (w)
 LOCATION:101 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T133000
 DTEND;TZID=Europe/Warsaw:20261126T150500
 SUMMARY:Temo (w)
 LOCATION:101 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T160000
 DTEND;TZID=Europe/Warsaw:20261201T173500
 SUMMARY:Aip (P)
 LOCATION:106 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T175000
+DTEND;TZID=Europe/Warsaw:20261201T192500
+SUMMARY:PsbI (L)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261201T194000
 DTEND;TZID=Europe/Warsaw:20261201T211500
 SUMMARY:PsbI (L)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T095000
+DTEND;TZID=Europe/Warsaw:20261202T112500
+SUMMARY:Tds (L)
+LOCATION:106 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T114000
 DTEND;TZID=Europe/Warsaw:20261202T131500
 SUMMARY:Tds (L)
 LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T133000
@@ -493,41 +703,62 @@ DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laborator
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T080000
+DTEND;TZID=Europe/Warsaw:20261203T093500
+SUMMARY:Zbi (w)
+LOCATION:101 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261203T095000
 DTEND;TZID=Europe/Warsaw:20261203T112500
 SUMMARY:Zbi (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T114000
 DTEND;TZID=Europe/Warsaw:20261203T131500
 SUMMARY:Aip (L)
 LOCATION:106 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T133000
 DTEND;TZID=Europe/Warsaw:20261203T150500
 SUMMARY:Temo (w)
 LOCATION:204 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T160000
 DTEND;TZID=Europe/Warsaw:20261208T173500
 SUMMARY:Aip (P)
 LOCATION:106 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T175000
+DTEND;TZID=Europe/Warsaw:20261208T192500
+SUMMARY:PsbI (P)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261208T194000
 DTEND;TZID=Europe/Warsaw:20261208T211500
 SUMMARY:PsbI (P)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T114000
+DTEND;TZID=Europe/Warsaw:20261210T131500
+SUMMARY:Aip (L)
+LOCATION:106 65
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261210T133000
 DTEND;TZID=Europe/Warsaw:20261210T150500
 SUMMARY:Aip (L)
 LOCATION:106 65
@@ -535,24 +766,45 @@ DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zaję�
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T160000
+DTEND;TZID=Europe/Warsaw:20261210T173500
+SUMMARY:Zbi (ć)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261210T175000
 DTEND;TZID=Europe/Warsaw:20261210T192500
 SUMMARY:Zbi (ć)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T114000
+DTEND;TZID=Europe/Warsaw:20261214T131500
+SUMMARY:Zt (L)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261214T133000
 DTEND;TZID=Europe/Warsaw:20261214T150500
 SUMMARY:Zt (L)
 LOCATION:121 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T160000
+DTEND;TZID=Europe/Warsaw:20261214T173500
+SUMMARY:Sa. (L)
+LOCATION:106 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261214T175000
 DTEND;TZID=Europe/Warsaw:20261214T192500
 SUMMARY:Sa. (L)
 LOCATION:106 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T160000
@@ -563,45 +815,73 @@ DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zaję�
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T175000
+DTEND;TZID=Europe/Warsaw:20261215T192500
+SUMMARY:PsbI (P)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261215T194000
 DTEND;TZID=Europe/Warsaw:20261215T211500
 SUMMARY:PsbI (P)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T095000
+DTEND;TZID=Europe/Warsaw:20261216T112500
+SUMMARY:Temo (L)
+LOCATION:106 65
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261216T114000
 DTEND;TZID=Europe/Warsaw:20261216T131500
 SUMMARY:Temo (L)
 LOCATION:106 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T133000
 DTEND;TZID=Europe/Warsaw:20261216T150500
 SUMMARY:mST (L)
 LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T160000
 DTEND;TZID=Europe/Warsaw:20261216T173500
 SUMMARY:mST (P)
 LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T114000
+DTEND;TZID=Europe/Warsaw:20261217T131500
+SUMMARY:BsIP (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261217T133000
 DTEND;TZID=Europe/Warsaw:20261217T150500
 SUMMARY:BsIP (L)
 LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T160000
+DTEND;TZID=Europe/Warsaw:20261217T173500
+SUMMARY:Zbi (ć)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261217T175000
 DTEND;TZID=Europe/Warsaw:20261217T192500
 SUMMARY:Zbi (ć)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T133000
@@ -619,6 +899,13 @@ DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zaję�
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T175000
+DTEND;TZID=Europe/Warsaw:20261222T192500
+SUMMARY:PsbI (P)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261222T194000
 DTEND;TZID=Europe/Warsaw:20261222T211500
 SUMMARY:PsbI (P)
 LOCATION:106 65
@@ -626,17 +913,24 @@ DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: 
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T095000
+DTEND;TZID=Europe/Warsaw:20261223T112500
+SUMMARY:Tds (L)
+LOCATION:106 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261223T114000
 DTEND;TZID=Europe/Warsaw:20261223T131500
 SUMMARY:Tds (L)
 LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T133000
 DTEND;TZID=Europe/Warsaw:20261223T150500
 SUMMARY:mST (L)
 LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T160000
@@ -647,66 +941,101 @@ DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\n
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T080000
+DTEND;TZID=Europe/Warsaw:20270107T093500
+SUMMARY:Zt (L)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270107T095000
 DTEND;TZID=Europe/Warsaw:20270107T112500
 SUMMARY:Zt (L)
 LOCATION:121 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T114000
 DTEND;TZID=Europe/Warsaw:20270107T131500
 SUMMARY:Aip (P)
 LOCATION:106 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T114000
+DTEND;TZID=Europe/Warsaw:20270112T131500
+SUMMARY:BsIP (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270112T133000
 DTEND;TZID=Europe/Warsaw:20270112T150500
 SUMMARY:BsIP (L)
 LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T160000
-DTEND;TZID=Europe/Warsaw:20270112T192500
+DTEND;TZID=Europe/Warsaw:20270112T173500
 SUMMARY:Sa. (L)
 LOCATION:106 65
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270112T175000
+DTEND;TZID=Europe/Warsaw:20270112T192500
+SUMMARY:Sa. (L)
+LOCATION:106 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T095000
+DTEND;TZID=Europe/Warsaw:20270113T112500
+SUMMARY:Zt (L)
+LOCATION:125 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270113T114000
 DTEND;TZID=Europe/Warsaw:20270113T131500
 SUMMARY:Zt (L)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T133000
 DTEND;TZID=Europe/Warsaw:20270113T150500
 SUMMARY:mST (P)
 LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T160000
 DTEND;TZID=Europe/Warsaw:20270113T173500
 SUMMARY:mST (P)
 LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T095000
 DTEND;TZID=Europe/Warsaw:20270114T112500
 SUMMARY:Aip (P)
 LOCATION:106 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T114000
+DTEND;TZID=Europe/Warsaw:20270114T131500
+SUMMARY:Aip (L)
+LOCATION:106 65
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270114T133000
 DTEND;TZID=Europe/Warsaw:20270114T150500
 SUMMARY:Aip (L)
 LOCATION:106 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T160000
@@ -717,6 +1046,13 @@ DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T114000
+DTEND;TZID=Europe/Warsaw:20270119T131500
+SUMMARY:Zt (P)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270119T133000
 DTEND;TZID=Europe/Warsaw:20270119T150500
 SUMMARY:Zt (P)
 LOCATION:121 65
@@ -724,52 +1060,94 @@ DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\n
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T160000
+DTEND;TZID=Europe/Warsaw:20270119T173500
+SUMMARY:Sa. (L)
+LOCATION:106 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270119T175000
 DTEND;TZID=Europe/Warsaw:20270119T192500
 SUMMARY:Sa. (L)
 LOCATION:106 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T133000
 DTEND;TZID=Europe/Warsaw:20270120T150500
 SUMMARY:Aip (w)
 LOCATION:101 65
-DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T160000
+DTEND;TZID=Europe/Warsaw:20270120T173500
+SUMMARY:Zbi (L)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270120T175000
 DTEND;TZID=Europe/Warsaw:20270120T192500
 SUMMARY:Zbi (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T114000
+DTEND;TZID=Europe/Warsaw:20270121T131500
+SUMMARY:BsIP (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270121T133000
 DTEND;TZID=Europe/Warsaw:20270121T150500
 SUMMARY:BsIP (L)
 LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T160000
+DTEND;TZID=Europe/Warsaw:20270121T173500
+SUMMARY:Zbi (L)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270121T175000
 DTEND;TZID=Europe/Warsaw:20270121T192500
 SUMMARY:Zbi (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T080000
+DTEND;TZID=Europe/Warsaw:20270126T093500
+SUMMARY:Zt (P)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270126T095000
 DTEND;TZID=Europe/Warsaw:20270126T112500
 SUMMARY:Zt (P)
 LOCATION:121 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T114000
+DTEND;TZID=Europe/Warsaw:20270126T131500
+SUMMARY:Temo (L)
+LOCATION:106 65
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270126T133000
 DTEND;TZID=Europe/Warsaw:20270126T150500
 SUMMARY:Temo (L)
 LOCATION:106 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T160000
@@ -783,20 +1161,27 @@ DTSTART;TZID=Europe/Warsaw:20270126T175000
 DTEND;TZID=Europe/Warsaw:20270126T192500
 SUMMARY:PsbI (P)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 7\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T095000
+DTEND;TZID=Europe/Warsaw:20270127T112500
+SUMMARY:Tds (L)
+LOCATION:106 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270127T114000
 DTEND;TZID=Europe/Warsaw:20270127T131500
 SUMMARY:Tds (L)
 LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T133000
 DTEND;TZID=Europe/Warsaw:20270127T150500
 SUMMARY:mST (P)
 LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 END:VCALENDAR

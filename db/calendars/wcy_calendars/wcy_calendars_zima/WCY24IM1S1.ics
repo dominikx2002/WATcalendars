@@ -24,66 +24,87 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T114000
+DTEND;TZID=Europe/Warsaw:20261001T131500
+SUMMARY:Pap (w)
+LOCATION:204 65
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261001T133000
 DTEND;TZID=Europe/Warsaw:20261001T150500
 SUMMARY:Pap (w)
 LOCATION:204 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T114000
 DTEND;TZID=Europe/Warsaw:20261002T131500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T133000
 DTEND;TZID=Europe/Warsaw:20261002T150500
 SUMMARY:Nsk (w)
 LOCATION:314 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T160000
 DTEND;TZID=Europe/Warsaw:20261002T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T080000
-DTEND;TZID=Europe/Warsaw:20261006T112500
+DTEND;TZID=Europe/Warsaw:20261006T093500
 SUMMARY:PBI (w)
 LOCATION:317 S
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261006T095000
+DTEND;TZID=Europe/Warsaw:20261006T112500
+SUMMARY:PBI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T114000
-DTEND;TZID=Europe/Warsaw:20261006T150500
+DTEND;TZID=Europe/Warsaw:20261006T131500
 SUMMARY:Pap (w)
 LOCATION:204 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261006T133000
+DTEND;TZID=Europe/Warsaw:20261006T150500
+SUMMARY:Pap (w)
+LOCATION:204 65
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T133000
 DTEND;TZID=Europe/Warsaw:20261007T150500
 SUMMARY:PZS (w)
 LOCATION:204 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T160000
 DTEND;TZID=Europe/Warsaw:20261007T173500
 SUMMARY:PZS (w)
 LOCATION:204 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T095000
 DTEND;TZID=Europe/Warsaw:20261008T112500
 SUMMARY:Rou (w)
 LOCATION:201 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T095000
@@ -94,6 +115,13 @@ DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T114000
+DTEND;TZID=Europe/Warsaw:20261009T131500
+SUMMARY:Nsk (w)
+LOCATION:314 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261009T133000
 DTEND;TZID=Europe/Warsaw:20261009T150500
 SUMMARY:Nsk (w)
 LOCATION:314 S
@@ -104,70 +132,98 @@ DTSTART;TZID=Europe/Warsaw:20261013T095000
 DTEND;TZID=Europe/Warsaw:20261013T112500
 SUMMARY:PZS (w)
 LOCATION:204 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T114000
+DTEND;TZID=Europe/Warsaw:20261013T131500
+SUMMARY:Pap (w)
+LOCATION:204 65
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261013T133000
 DTEND;TZID=Europe/Warsaw:20261013T150500
 SUMMARY:Pap (w)
 LOCATION:204 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261014T114000
+DTEND;TZID=Europe/Warsaw:20261014T131500
+SUMMARY:SoU (w)
+LOCATION:314 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261014T133000
 DTEND;TZID=Europe/Warsaw:20261014T150500
 SUMMARY:SoU (w)
 LOCATION:314 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T095000
 DTEND;TZID=Europe/Warsaw:20261016T112500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T114000
+DTEND;TZID=Europe/Warsaw:20261016T131500
+SUMMARY:Nsk (w)
+LOCATION:314 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261016T133000
 DTEND;TZID=Europe/Warsaw:20261016T150500
 SUMMARY:Nsk (w)
 LOCATION:314 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T160000
 DTEND;TZID=Europe/Warsaw:20261016T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T095000
 DTEND;TZID=Europe/Warsaw:20261019T112500
 SUMMARY:Prmi (w)
 LOCATION:252 S
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T114000
 DTEND;TZID=Europe/Warsaw:20261019T131500
 SUMMARY:Rou (w)
 LOCATION:201 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T080000
+DTEND;TZID=Europe/Warsaw:20261020T093500
+SUMMARY:PBI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261020T095000
 DTEND;TZID=Europe/Warsaw:20261020T112500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T114000
 DTEND;TZID=Europe/Warsaw:20261020T131500
 SUMMARY:Pap (w)
 LOCATION:204 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T133000
@@ -185,48 +241,62 @@ DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zaj
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T080000
-DTEND;TZID=Europe/Warsaw:20261022T112500
+DTEND;TZID=Europe/Warsaw:20261022T093500
 SUMMARY:Rou (L)
 LOCATION:121 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261022T095000
+DTEND;TZID=Europe/Warsaw:20261022T112500
+SUMMARY:Rou (L)
+LOCATION:121 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T114000
 DTEND;TZID=Europe/Warsaw:20261023T131500
 SUMMARY:PZS (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T133000
 DTEND;TZID=Europe/Warsaw:20261023T150500
 SUMMARY:SoU (w)
 LOCATION:316 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T160000
 DTEND;TZID=Europe/Warsaw:20261023T173500
 SUMMARY:SoU (w)
 LOCATION:316 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T114000
 DTEND;TZID=Europe/Warsaw:20261026T131500
 SUMMARY:Rou (w)
 LOCATION:205 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T133000
 DTEND;TZID=Europe/Warsaw:20261026T150500
 SUMMARY:PZS (w)
 LOCATION:201 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T095000
+DTEND;TZID=Europe/Warsaw:20261027T112500
+SUMMARY:Pap (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261027T114000
 DTEND;TZID=Europe/Warsaw:20261027T131500
 SUMMARY:Pap (L)
 LOCATION:011 65
@@ -234,52 +304,66 @@ DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNume
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T080000
+DTEND;TZID=Europe/Warsaw:20261028T093500
+SUMMARY:SoU (w)
+LOCATION:316 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261028T095000
 DTEND;TZID=Europe/Warsaw:20261028T112500
 SUMMARY:SoU (w)
 LOCATION:316 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T114000
 DTEND;TZID=Europe/Warsaw:20261028T131500
 SUMMARY:Rou (w)
 LOCATION:201 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T160000
 DTEND;TZID=Europe/Warsaw:20261029T173500
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T175000
 DTEND;TZID=Europe/Warsaw:20261029T192500
 SUMMARY:PZiP (ć)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T095000
 DTEND;TZID=Europe/Warsaw:20261030T112500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T114000
+DTEND;TZID=Europe/Warsaw:20261030T131500
+SUMMARY:Nsk (w)
+LOCATION:314 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261030T133000
 DTEND;TZID=Europe/Warsaw:20261030T150500
 SUMMARY:Nsk (w)
 LOCATION:314 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T160000
 DTEND;TZID=Europe/Warsaw:20261030T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
@@ -293,73 +377,115 @@ DTSTART;TZID=Europe/Warsaw:20261102T114000
 DTEND;TZID=Europe/Warsaw:20261102T131500
 SUMMARY:Rou (w)
 LOCATION:201 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T133000
 DTEND;TZID=Europe/Warsaw:20261102T150500
 SUMMARY:PZS (w)
 LOCATION:201 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T160000
+DTEND;TZID=Europe/Warsaw:20261102T173500
+SUMMARY:PZS (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T175000
 DTEND;TZID=Europe/Warsaw:20261102T192500
 SUMMARY:PZS (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T080000
+DTEND;TZID=Europe/Warsaw:20261103T093500
+SUMMARY:PBI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261103T095000
 DTEND;TZID=Europe/Warsaw:20261103T112500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T114000
-DTEND;TZID=Europe/Warsaw:20261103T150500
+DTEND;TZID=Europe/Warsaw:20261103T131500
 SUMMARY:Rou (L)
 LOCATION:120 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261103T133000
+DTEND;TZID=Europe/Warsaw:20261103T150500
+SUMMARY:Rou (L)
+LOCATION:120 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T133000
 DTEND;TZID=Europe/Warsaw:20261104T150500
 SUMMARY:Rou (w)
 LOCATION:201 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T080000
-DTEND;TZID=Europe/Warsaw:20261105T112500
+DTEND;TZID=Europe/Warsaw:20261105T093500
 SUMMARY:JEt (L)
 LOCATION:239 S
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261105T095000
+DTEND;TZID=Europe/Warsaw:20261105T112500
+SUMMARY:JEt (L)
+LOCATION:239 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Targowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T114000
-DTEND;TZID=Europe/Warsaw:20261105T150500
+DTEND;TZID=Europe/Warsaw:20261105T131500
 SUMMARY:Pap (L)
 LOCATION:011 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261105T133000
+DTEND;TZID=Europe/Warsaw:20261105T150500
+SUMMARY:Pap (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T160000
 DTEND;TZID=Europe/Warsaw:20261105T173500
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T175000
 DTEND;TZID=Europe/Warsaw:20261105T192500
 SUMMARY:PZiP (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T095000
+DTEND;TZID=Europe/Warsaw:20261106T112500
+SUMMARY:SoU (L)
+LOCATION:239 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261106T114000
 DTEND;TZID=Europe/Warsaw:20261106T131500
 SUMMARY:SoU (L)
 LOCATION:239 S
@@ -370,133 +496,175 @@ DTSTART;TZID=Europe/Warsaw:20261106T133000
 DTEND;TZID=Europe/Warsaw:20261106T150500
 SUMMARY:SoU (w)
 LOCATION:313 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T160000
 DTEND;TZID=Europe/Warsaw:20261106T173500
 SUMMARY:SoU (w)
 LOCATION:313 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T080000
-DTEND;TZID=Europe/Warsaw:20261109T112500
+DTEND;TZID=Europe/Warsaw:20261109T093500
 SUMMARY:PSy (w)
 LOCATION:317 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T095000
+DTEND;TZID=Europe/Warsaw:20261109T112500
+SUMMARY:PSy (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T114000
 DTEND;TZID=Europe/Warsaw:20261109T131500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T160000
 DTEND;TZID=Europe/Warsaw:20261109T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
+DTEND;TZID=Europe/Warsaw:20261110T112500
+SUMMARY:Pap (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261110T114000
 DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:Pap (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T095000
 DTEND;TZID=Europe/Warsaw:20261112T112500
 SUMMARY:PZiP (ć)
 LOCATION:317 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T114000
+DTEND;TZID=Europe/Warsaw:20261112T131500
+SUMMARY:PBI (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261112T133000
 DTEND;TZID=Europe/Warsaw:20261112T150500
 SUMMARY:PBI (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Mieczysław Kania
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T160000
 DTEND;TZID=Europe/Warsaw:20261112T173500
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T095000
+DTEND;TZID=Europe/Warsaw:20261113T112500
+SUMMARY:SoU (L)
+LOCATION:239 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T114000
 DTEND;TZID=Europe/Warsaw:20261113T131500
 SUMMARY:SoU (L)
 LOCATION:239 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T133000
 DTEND;TZID=Europe/Warsaw:20261113T150500
 SUMMARY:PSy (L)
 LOCATION:252 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T160000
 DTEND;TZID=Europe/Warsaw:20261113T173500
 SUMMARY:PSy (L)
 LOCATION:252 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T095000
 DTEND;TZID=Europe/Warsaw:20261116T112500
 SUMMARY:Prmi (w)
 LOCATION:309 S
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T114000
 DTEND;TZID=Europe/Warsaw:20261116T131500
 SUMMARY:Rou (w)
 LOCATION:203 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T133000
 DTEND;TZID=Europe/Warsaw:20261116T150500
 SUMMARY:PZS (w)
 LOCATION:204 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T080000
+DTEND;TZID=Europe/Warsaw:20261117T093500
+SUMMARY:PBI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T095000
 DTEND;TZID=Europe/Warsaw:20261117T112500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T080000
 DTEND;TZID=Europe/Warsaw:20261119T093500
 SUMMARY:PZiP (ć)
 LOCATION:317 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T095000
+DTEND;TZID=Europe/Warsaw:20261119T112500
+SUMMARY:Pap (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T114000
 DTEND;TZID=Europe/Warsaw:20261119T131500
 SUMMARY:Pap (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T160000
 DTEND;TZID=Europe/Warsaw:20261119T173500
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T114000
@@ -521,31 +689,45 @@ DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer za
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T080000
+DTEND;TZID=Europe/Warsaw:20261123T093500
+SUMMARY:JEt (L)
+LOCATION:239 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Targowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261123T095000
 DTEND;TZID=Europe/Warsaw:20261123T112500
 SUMMARY:JEt (L)
 LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Targowski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T133000
 DTEND;TZID=Europe/Warsaw:20261123T150500
 SUMMARY:PZS (w)
 LOCATION:205 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T160000
 DTEND;TZID=Europe/Warsaw:20261123T173500
 SUMMARY:PZS (w)
 LOCATION:205 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T080000
+DTEND;TZID=Europe/Warsaw:20261124T093500
+SUMMARY:Rou (L)
+LOCATION:120 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261124T095000
 DTEND;TZID=Europe/Warsaw:20261124T112500
 SUMMARY:Rou (L)
 LOCATION:120 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T133000
@@ -556,17 +738,31 @@ DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T080000
+DTEND;TZID=Europe/Warsaw:20261125T093500
+SUMMARY:SoU (w)
+LOCATION:314 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T095000
 DTEND;TZID=Europe/Warsaw:20261125T112500
 SUMMARY:SoU (w)
 LOCATION:314 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T114000
+DTEND;TZID=Europe/Warsaw:20261125T131500
+SUMMARY:SoU (L)
+LOCATION:239 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T133000
 DTEND;TZID=Europe/Warsaw:20261125T150500
 SUMMARY:SoU (L)
 LOCATION:239 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T080000
@@ -577,10 +773,17 @@ DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T114000
+DTEND;TZID=Europe/Warsaw:20261130T131500
+SUMMARY:Rou (L)
+LOCATION:125 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T133000
 DTEND;TZID=Europe/Warsaw:20261130T150500
 SUMMARY:Rou (L)
 LOCATION:125 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T160000
@@ -591,171 +794,248 @@ DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T080000
+DTEND;TZID=Europe/Warsaw:20261201T093500
+SUMMARY:PBI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261201T095000
 DTEND;TZID=Europe/Warsaw:20261201T112500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T114000
+DTEND;TZID=Europe/Warsaw:20261202T131500
+SUMMARY:Prmi (L)
+LOCATION:011 65
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T133000
 DTEND;TZID=Europe/Warsaw:20261202T150500
 SUMMARY:Prmi (L)
 LOCATION:011 65
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T160000
+DTEND;TZID=Europe/Warsaw:20261202T173500
+SUMMARY:Bpe (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T175000
 DTEND;TZID=Europe/Warsaw:20261202T192500
 SUMMARY:Bpe (L)
 LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T080000
 DTEND;TZID=Europe/Warsaw:20261203T093500
 SUMMARY:Gk (w)
 LOCATION:317 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T114000
 DTEND;TZID=Europe/Warsaw:20261203T131500
 SUMMARY:Prmi (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T133000
 DTEND;TZID=Europe/Warsaw:20261203T150500
 SUMMARY:PZiP (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T175000
 DTEND;TZID=Europe/Warsaw:20261203T192500
 SUMMARY:PZiP (ć)
 LOCATION:308 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T080000
+DTEND;TZID=Europe/Warsaw:20261204T093500
+SUMMARY:PZS (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261204T095000
 DTEND;TZID=Europe/Warsaw:20261204T112500
 SUMMARY:PZS (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T114000
 DTEND;TZID=Europe/Warsaw:20261204T131500
 SUMMARY:PSy (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T095000
+DTEND;TZID=Europe/Warsaw:20261208T112500
+SUMMARY:SoU (L)
+LOCATION:239 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261208T114000
 DTEND;TZID=Europe/Warsaw:20261208T131500
 SUMMARY:SoU (L)
 LOCATION:239 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T080000
+DTEND;TZID=Europe/Warsaw:20261209T093500
+SUMMARY:JEt (L)
+LOCATION:239 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Targowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T095000
 DTEND;TZID=Europe/Warsaw:20261209T112500
 SUMMARY:JEt (L)
 LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Targowski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T114000
-DTEND;TZID=Europe/Warsaw:20261209T150500
+DTEND;TZID=Europe/Warsaw:20261209T131500
 SUMMARY:PSy (L)
 LOCATION:236 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T133000
+DTEND;TZID=Europe/Warsaw:20261209T150500
+SUMMARY:PSy (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T080000
 DTEND;TZID=Europe/Warsaw:20261210T093500
 SUMMARY:Gk (w)
 LOCATION:317 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T095000
 DTEND;TZID=Europe/Warsaw:20261210T112500
 SUMMARY:PZiP (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T114000
+DTEND;TZID=Europe/Warsaw:20261210T131500
+SUMMARY:SoU (L)
+LOCATION:239 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261210T133000
 DTEND;TZID=Europe/Warsaw:20261210T150500
 SUMMARY:SoU (L)
 LOCATION:239 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T080000
+DTEND;TZID=Europe/Warsaw:20261211T093500
+SUMMARY:PBI (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261211T095000
 DTEND;TZID=Europe/Warsaw:20261211T112500
 SUMMARY:PBI (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T114000
 DTEND;TZID=Europe/Warsaw:20261214T131500
 SUMMARY:Prmi (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T133000
 DTEND;TZID=Europe/Warsaw:20261214T150500
 SUMMARY:PZS (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T160000
 DTEND;TZID=Europe/Warsaw:20261214T173500
 SUMMARY:PZS (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T080000
+DTEND;TZID=Europe/Warsaw:20261216T093500
+SUMMARY:Rou (L)
+LOCATION:125 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261216T095000
 DTEND;TZID=Europe/Warsaw:20261216T112500
 SUMMARY:Rou (L)
 LOCATION:125 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T080000
 DTEND;TZID=Europe/Warsaw:20261217T093500
 SUMMARY:Gk (w)
 LOCATION:317 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T095000
 DTEND;TZID=Europe/Warsaw:20261217T112500
 SUMMARY:PZiP (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T114000
+DTEND;TZID=Europe/Warsaw:20261217T131500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261217T133000
 DTEND;TZID=Europe/Warsaw:20261217T150500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T160000
 DTEND;TZID=Europe/Warsaw:20261217T173500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T175000
@@ -766,261 +1046,443 @@ DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T095000
+DTEND;TZID=Europe/Warsaw:20261218T112500
+SUMMARY:SoU (L)
+LOCATION:239 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261218T114000
 DTEND;TZID=Europe/Warsaw:20261218T131500
 SUMMARY:SoU (L)
 LOCATION:239 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T114000
+DTEND;TZID=Europe/Warsaw:20261221T131500
+SUMMARY:SoU (L)
+LOCATION:239 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T133000
 DTEND;TZID=Europe/Warsaw:20261221T150500
 SUMMARY:SoU (L)
 LOCATION:239 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T160000
+DTEND;TZID=Europe/Warsaw:20261221T173500
+SUMMARY:Prmi (L)
+LOCATION:125 65
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T175000
 DTEND;TZID=Europe/Warsaw:20261221T192500
 SUMMARY:Prmi (L)
 LOCATION:125 65
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T114000
+DTEND;TZID=Europe/Warsaw:20261222T131500
+SUMMARY:Nsk (ć)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261222T133000
 DTEND;TZID=Europe/Warsaw:20261222T150500
 SUMMARY:Nsk (ć)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T080000
+DTEND;TZID=Europe/Warsaw:20261223T093500
+SUMMARY:JEt (L)
+LOCATION:239 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Piotr Targowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261223T095000
 DTEND;TZID=Europe/Warsaw:20261223T112500
 SUMMARY:JEt (L)
 LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Targowski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T114000
+DTEND;TZID=Europe/Warsaw:20261223T131500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261223T133000
 DTEND;TZID=Europe/Warsaw:20261223T150500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T080000
 DTEND;TZID=Europe/Warsaw:20270107T093500
 SUMMARY:Gk (w)
 LOCATION:313 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T095000
+DTEND;TZID=Europe/Warsaw:20270107T112500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270107T114000
+DTEND;TZID=Europe/Warsaw:20270107T131500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270107T133000
 DTEND;TZID=Europe/Warsaw:20270107T150500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T160000
 DTEND;TZID=Europe/Warsaw:20270107T173500
 SUMMARY:PZiP (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T080000
+DTEND;TZID=Europe/Warsaw:20270108T093500
+SUMMARY:PSy (L)
+LOCATION:233 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270108T095000
 DTEND;TZID=Europe/Warsaw:20270108T112500
 SUMMARY:PSy (L)
 LOCATION:233 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T114000
+DTEND;TZID=Europe/Warsaw:20270108T131500
+SUMMARY:SoU (L)
+LOCATION:239 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270108T133000
 DTEND;TZID=Europe/Warsaw:20270108T150500
 SUMMARY:SoU (L)
 LOCATION:239 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T080000
+DTEND;TZID=Europe/Warsaw:20270111T093500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T095000
 DTEND;TZID=Europe/Warsaw:20270111T112500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T133000
 DTEND;TZID=Europe/Warsaw:20270111T150500
 SUMMARY:Nsk (ć)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T160000
 DTEND;TZID=Europe/Warsaw:20270111T173500
 SUMMARY:Nsk (ć)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T080000
+DTEND;TZID=Europe/Warsaw:20270112T093500
+SUMMARY:Rou (L)
+LOCATION:125 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270112T095000
 DTEND;TZID=Europe/Warsaw:20270112T112500
 SUMMARY:Rou (L)
 LOCATION:125 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T095000
+DTEND;TZID=Europe/Warsaw:20270113T112500
+SUMMARY:Prmi (L)
+LOCATION:106 65
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270113T114000
 DTEND;TZID=Europe/Warsaw:20270113T131500
 SUMMARY:Prmi (L)
 LOCATION:106 65
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T080000
 DTEND;TZID=Europe/Warsaw:20270114T093500
 SUMMARY:Gk (w)
 LOCATION:313 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T095000
 DTEND;TZID=Europe/Warsaw:20270115T112500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T114000
+DTEND;TZID=Europe/Warsaw:20270115T131500
+SUMMARY:PZS (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270115T133000
 DTEND;TZID=Europe/Warsaw:20270115T150500
 SUMMARY:PZS (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T080000
+DTEND;TZID=Europe/Warsaw:20270118T093500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T095000
 DTEND;TZID=Europe/Warsaw:20270118T112500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T080000
+DTEND;TZID=Europe/Warsaw:20270119T093500
+SUMMARY:PSy (L)
+LOCATION:223 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270119T095000
 DTEND;TZID=Europe/Warsaw:20270119T112500
 SUMMARY:PSy (L)
 LOCATION:223 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T114000
+DTEND;TZID=Europe/Warsaw:20270119T131500
+SUMMARY:SoU (L)
+LOCATION:239 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270119T133000
 DTEND;TZID=Europe/Warsaw:20270119T150500
 SUMMARY:SoU (L)
 LOCATION:239 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T080000
+DTEND;TZID=Europe/Warsaw:20270120T093500
+SUMMARY:JEt (L)
+LOCATION:239 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Piotr Targowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270120T095000
 DTEND;TZID=Europe/Warsaw:20270120T112500
 SUMMARY:JEt (L)
 LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Targowski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T114000
-DTEND;TZID=Europe/Warsaw:20270120T150500
+DTEND;TZID=Europe/Warsaw:20270120T131500
 SUMMARY:Bpe (L)
 LOCATION:120 65
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270120T133000
+DTEND;TZID=Europe/Warsaw:20270120T150500
+SUMMARY:Bpe (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T095000
+DTEND;TZID=Europe/Warsaw:20270122T112500
+SUMMARY:Prmi (L)
+LOCATION:120 65
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270122T114000
 DTEND;TZID=Europe/Warsaw:20270122T131500
 SUMMARY:Prmi (L)
 LOCATION:120 65
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T133000
 DTEND;TZID=Europe/Warsaw:20270122T150500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T160000
 DTEND;TZID=Europe/Warsaw:20270122T173500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T080000
+DTEND;TZID=Europe/Warsaw:20270125T093500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T095000
 DTEND;TZID=Europe/Warsaw:20270125T112500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T133000
 DTEND;TZID=Europe/Warsaw:20270125T150500
 SUMMARY:Nsk (ć)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T160000
 DTEND;TZID=Europe/Warsaw:20270125T173500
 SUMMARY:Nsk (ć)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: dr inż. Joanna Szkutnik-Rogoż
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T080000
+DTEND;TZID=Europe/Warsaw:20270126T093500
+SUMMARY:Rou (L)
+LOCATION:120 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270126T095000
 DTEND;TZID=Europe/Warsaw:20270126T112500
 SUMMARY:Rou (L)
 LOCATION:120 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T114000
+DTEND;TZID=Europe/Warsaw:20270126T131500
+SUMMARY:SoU (L)
+LOCATION:239 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 19\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270126T133000
 DTEND;TZID=Europe/Warsaw:20270126T150500
 SUMMARY:SoU (L)
 LOCATION:239 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 20\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T114000
+DTEND;TZID=Europe/Warsaw:20270127T131500
+SUMMARY:Prmi (L)
+LOCATION:125 65
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270127T133000
 DTEND;TZID=Europe/Warsaw:20270127T150500
 SUMMARY:Prmi (L)
 LOCATION:125 65
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T080000
 DTEND;TZID=Europe/Warsaw:20270128T093500
 SUMMARY:PBI (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T114000
+DTEND;TZID=Europe/Warsaw:20270128T131500
+SUMMARY:PSy (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270128T133000
 DTEND;TZID=Europe/Warsaw:20270128T150500
 SUMMARY:PSy (L)
 LOCATION:236 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T095000
+DTEND;TZID=Europe/Warsaw:20270129T112500
+SUMMARY:PZS (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270129T114000
 DTEND;TZID=Europe/Warsaw:20270129T131500
 SUMMARY:PZS (L)
 LOCATION:121 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T133000
 DTEND;TZID=Europe/Warsaw:20270129T150500
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 END:VCALENDAR

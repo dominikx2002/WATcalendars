@@ -27,14 +27,14 @@ DTSTART;TZID=Europe/Warsaw:20260928T114000
 DTEND;TZID=Europe/Warsaw:20260928T131500
 SUMMARY:MM (Zp)
 LOCATION:316 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260930T095000
 DTEND;TZID=Europe/Warsaw:20260930T112500
 SUMMARY:SO (Ep)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T080000
@@ -48,21 +48,21 @@ DTSTART;TZID=Europe/Warsaw:20261001T095000
 DTEND;TZID=Europe/Warsaw:20261001T112500
 SUMMARY:BD (Ep)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: dr inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T114000
 DTEND;TZID=Europe/Warsaw:20261001T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T133000
 DTEND;TZID=Europe/Warsaw:20261001T150500
 SUMMARY:IK (w)
 LOCATION:316 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T080000
@@ -73,6 +73,13 @@ DESCRIPTION:Bazy danych\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T114000
+DTEND;TZID=Europe/Warsaw:20261002T131500
+SUMMARY:BD (Zp)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: zal popr\nNumer zajęć: 2\nProwadzący: dr inż. Roman Wantoch-Rekowski; mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261002T133000
 DTEND;TZID=Europe/Warsaw:20261002T150500
 SUMMARY:BD (Zp)
 LOCATION:316 S
@@ -83,77 +90,84 @@ DTSTART;TZID=Europe/Warsaw:20261003T095000
 DTEND;TZID=Europe/Warsaw:20261003T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T095000
 DTEND;TZID=Europe/Warsaw:20261005T112500
 SUMMARY:Oś (w)
 LOCATION:118 57
-DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: por. mgr inż. Erik Mikulski
+DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: por. mgr inż. Erik Mikulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T133000
 DTEND;TZID=Europe/Warsaw:20261005T150500
 SUMMARY:DSiSM (w)
 LOCATION:22 /BIBL
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T080000
 DTEND;TZID=Europe/Warsaw:20261006T093500
 SUMMARY:Wek (w)
 LOCATION:308 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T095000
 DTEND;TZID=Europe/Warsaw:20261006T112500
 SUMMARY:Pk (w)
 LOCATION:309 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T114000
 DTEND;TZID=Europe/Warsaw:20261006T131500
 SUMMARY:MM (Zp)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T133000
 DTEND;TZID=Europe/Warsaw:20261006T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T160000
 DTEND;TZID=Europe/Warsaw:20261006T173500
 SUMMARY:Etl (Zp)
 LOCATION:313 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: zal popr\nNumer zajęć: 5\nProwadzący: dr Robert Dryło
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T133000
 DTEND;TZID=Europe/Warsaw:20261007T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T160000
 DTEND;TZID=Europe/Warsaw:20261007T173500
 SUMMARY:ZaMe (w)
 LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T080000
-DTEND;TZID=Europe/Warsaw:20261008T112500
+DTEND;TZID=Europe/Warsaw:20261008T093500
 SUMMARY:Sck (w)
 LOCATION:313 S
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261008T095000
+DTEND;TZID=Europe/Warsaw:20261008T112500
+SUMMARY:Sck (w)
+LOCATION:313 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T114000
@@ -167,7 +181,7 @@ DTSTART;TZID=Europe/Warsaw:20261008T133000
 DTEND;TZID=Europe/Warsaw:20261008T150500
 SUMMARY:IK (w)
 LOCATION:316 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T095000
@@ -181,14 +195,14 @@ DTSTART;TZID=Europe/Warsaw:20261009T114000
 DTEND;TZID=Europe/Warsaw:20261009T131500
 SUMMARY:IO (w)
 LOCATION:316 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T133000
 DTEND;TZID=Europe/Warsaw:20261009T150500
 SUMMARY:ZaMe (w)
 LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppor. mgr Katarzyna Szwed
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppor. mgr Katarzyna Szwed
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T095000
@@ -209,7 +223,7 @@ DTSTART;TZID=Europe/Warsaw:20261012T133000
 DTEND;TZID=Europe/Warsaw:20261012T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Tomasz Lubkiewicz
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr mgr Tomasz Lubkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T095000
@@ -227,115 +241,150 @@ DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261014T080000
-DTEND;TZID=Europe/Warsaw:20261014T150500
+DTEND;TZID=Europe/Warsaw:20261014T093500
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: DGB
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261014T095000
+DTEND;TZID=Europe/Warsaw:20261014T112500
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: DGB
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261014T114000
+DTEND;TZID=Europe/Warsaw:20261014T131500
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: DGB
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261014T133000
+DTEND;TZID=Europe/Warsaw:20261014T150500
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: DGB
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T080000
+DTEND;TZID=Europe/Warsaw:20261015T093500
+SUMMARY:Sck (w)
+LOCATION:313 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261015T095000
 DTEND;TZID=Europe/Warsaw:20261015T112500
 SUMMARY:Sck (w)
 LOCATION:313 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T114000
 DTEND;TZID=Europe/Warsaw:20261015T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T133000
 DTEND;TZID=Europe/Warsaw:20261015T150500
 SUMMARY:IK (w)
 LOCATION:316 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T080000
 DTEND;TZID=Europe/Warsaw:20261016T093500
 SUMMARY:DSiSM (w)
 LOCATION:AW 3/043
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T095000
 DTEND;TZID=Europe/Warsaw:20261016T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T114000
 DTEND;TZID=Europe/Warsaw:20261016T131500
 SUMMARY:IO (w)
 LOCATION:316 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T133000
 DTEND;TZID=Europe/Warsaw:20261016T150500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T160000
 DTEND;TZID=Europe/Warsaw:20261016T173500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T095000
 DTEND;TZID=Europe/Warsaw:20261017T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T080000
-DTEND;TZID=Europe/Warsaw:20261019T112500
+DTEND;TZID=Europe/Warsaw:20261019T093500
 SUMMARY:DSiSM (ć)
 LOCATION:22 /BIBL
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mjr mgr Filip Zawadzki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T095000
+DTEND;TZID=Europe/Warsaw:20261019T112500
+SUMMARY:DSiSM (ć)
+LOCATION:22 /BIBL
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Filip Zawadzki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T133000
 DTEND;TZID=Europe/Warsaw:20261019T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Tomasz Lubkiewicz
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mjr mgr Tomasz Lubkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T160000
 DTEND;TZID=Europe/Warsaw:20261019T173500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppor. mgr Katarzyna Szwed; st. kpr. Anna Polankiewicz
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppor. mgr Katarzyna Szwed; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T095000
 DTEND;TZID=Europe/Warsaw:20261020T112500
 SUMMARY:Pk (w)
 LOCATION:309 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T114000
 DTEND;TZID=Europe/Warsaw:20261020T131500
 SUMMARY:ZKwI (w)
 LOCATION:317 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T133000
 DTEND;TZID=Europe/Warsaw:20261020T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T114000
@@ -349,21 +398,28 @@ DTSTART;TZID=Europe/Warsaw:20261021T133000
 DTEND;TZID=Europe/Warsaw:20261021T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T080000
+DTEND;TZID=Europe/Warsaw:20261022T093500
+SUMMARY:Sck (w)
+LOCATION:313 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261022T095000
 DTEND;TZID=Europe/Warsaw:20261022T112500
 SUMMARY:Sck (w)
 LOCATION:313 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T114000
 DTEND;TZID=Europe/Warsaw:20261022T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T133000
@@ -377,7 +433,7 @@ DTSTART;TZID=Europe/Warsaw:20261023T095000
 DTEND;TZID=Europe/Warsaw:20261023T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T114000
@@ -391,31 +447,38 @@ DTSTART;TZID=Europe/Warsaw:20261023T133000
 DTEND;TZID=Europe/Warsaw:20261023T150500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T160000
 DTEND;TZID=Europe/Warsaw:20261023T173500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T095000
 DTEND;TZID=Europe/Warsaw:20261024T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T080000
 DTEND;TZID=Europe/Warsaw:20261026T093500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 3/043
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mł.chor. Maciej Koczański; kpr.  Natalia Majewska
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mł.chor. Maciej Koczański; kpr.  Natalia Majewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T095000
+DTEND;TZID=Europe/Warsaw:20261026T112500
+SUMMARY:SzS (w)
+LOCATION:ST.nr 1(KSP)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Wykład\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T114000
 DTEND;TZID=Europe/Warsaw:20261026T131500
 SUMMARY:SzS (w)
 LOCATION:ST.nr 1(KSP)
@@ -426,84 +489,98 @@ DTSTART;TZID=Europe/Warsaw:20261026T133000
 DTEND;TZID=Europe/Warsaw:20261026T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Tomasz Lubkiewicz
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mjr mgr Tomasz Lubkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T160000
 DTEND;TZID=Europe/Warsaw:20261026T173500
 SUMMARY:DSiSM (ć)
 LOCATION:ST.nr 1(DS)
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mjr mgr Filip Zawadzki
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr mgr Filip Zawadzki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T095000
 DTEND;TZID=Europe/Warsaw:20261027T112500
 SUMMARY:Pk (w)
 LOCATION:309 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T114000
 DTEND;TZID=Europe/Warsaw:20261027T131500
 SUMMARY:ZKwI (w)
 LOCATION:317 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T133000
 DTEND;TZID=Europe/Warsaw:20261027T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T095000
 DTEND;TZID=Europe/Warsaw:20261028T112500
 SUMMARY:Pk (L)
 LOCATION:085 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T114000
 DTEND;TZID=Europe/Warsaw:20261028T131500
 SUMMARY:Wek (w)
 LOCATION:308 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T133000
 DTEND;TZID=Europe/Warsaw:20261028T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T080000
+DTEND;TZID=Europe/Warsaw:20261029T093500
+SUMMARY:Sck (w)
+LOCATION:313 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261029T095000
 DTEND;TZID=Europe/Warsaw:20261029T112500
 SUMMARY:Sck (w)
 LOCATION:313 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T114000
 DTEND;TZID=Europe/Warsaw:20261029T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T133000
 DTEND;TZID=Europe/Warsaw:20261029T150500
 SUMMARY:IK (w)
 LOCATION:316 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T160000
+DTEND;TZID=Europe/Warsaw:20261029T173500
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261029T175000
 DTEND;TZID=Europe/Warsaw:20261029T192500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T080000
@@ -517,7 +594,7 @@ DTSTART;TZID=Europe/Warsaw:20261030T095000
 DTEND;TZID=Europe/Warsaw:20261030T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T133000
@@ -531,35 +608,42 @@ DTSTART;TZID=Europe/Warsaw:20261031T095000
 DTEND;TZID=Europe/Warsaw:20261031T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
 DTEND;TZID=Europe/Warsaw:20261102T112500
 SUMMARY:Oś (w)
 LOCATION:118 57
-DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: por. mgr inż. Erik Mikulski
+DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: por. mgr inż. Erik Mikulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T114000
 DTEND;TZID=Europe/Warsaw:20261102T131500
 SUMMARY:GMiB (w)
 LOCATION:103 K
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: ppłk mgr Michał Lasak
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk mgr Michał Lasak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T133000
 DTEND;TZID=Europe/Warsaw:20261102T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Tomasz Lubkiewicz
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: mjr mgr Tomasz Lubkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T080000
-DTEND;TZID=Europe/Warsaw:20261103T112500
+DTEND;TZID=Europe/Warsaw:20261103T093500
 SUMMARY:Sck (L)
 LOCATION:121 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261103T095000
+DTEND;TZID=Europe/Warsaw:20261103T112500
+SUMMARY:Sck (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T114000
@@ -573,108 +657,115 @@ DTSTART;TZID=Europe/Warsaw:20261103T133000
 DTEND;TZID=Europe/Warsaw:20261103T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T160000
 DTEND;TZID=Europe/Warsaw:20261103T173500
 SUMMARY:PBI (L)
 LOCATION:227 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T114000
 DTEND;TZID=Europe/Warsaw:20261104T131500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T133000
 DTEND;TZID=Europe/Warsaw:20261104T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T175000
 DTEND;TZID=Europe/Warsaw:20261104T192500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T080000
 DTEND;TZID=Europe/Warsaw:20261105T093500
 SUMMARY:Wek (L)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T114000
 DTEND;TZID=Europe/Warsaw:20261105T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T133000
 DTEND;TZID=Europe/Warsaw:20261105T150500
 SUMMARY:IK (w)
 LOCATION:316 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T080000
 DTEND;TZID=Europe/Warsaw:20261106T093500
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T095000
 DTEND;TZID=Europe/Warsaw:20261106T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T114000
 DTEND;TZID=Europe/Warsaw:20261106T131500
 SUMMARY:IO (w)
 LOCATION:316 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T133000
 DTEND;TZID=Europe/Warsaw:20261106T150500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T160000
 DTEND;TZID=Europe/Warsaw:20261106T173500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T095000
 DTEND;TZID=Europe/Warsaw:20261107T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T080000
 DTEND;TZID=Europe/Warsaw:20261109T093500
 SUMMARY:GMiB (w)
 LOCATION:103 K
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk mgr Michał Lasak
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk mgr Michał Lasak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T095000
+DTEND;TZID=Europe/Warsaw:20261109T112500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(RGĆ)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T114000
 DTEND;TZID=Europe/Warsaw:20261109T131500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(RGĆ)
@@ -685,147 +776,161 @@ DTSTART;TZID=Europe/Warsaw:20261109T175000
 DTEND;TZID=Europe/Warsaw:20261109T192500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
 DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:Pk (w)
 LOCATION:309 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T114000
 DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:ZKwI (w)
 LOCATION:317 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T133000
 DTEND;TZID=Europe/Warsaw:20261110T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T080000
+DTEND;TZID=Europe/Warsaw:20261112T093500
+SUMMARY:Sck (w)
+LOCATION:313 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261112T095000
 DTEND;TZID=Europe/Warsaw:20261112T112500
 SUMMARY:Sck (w)
 LOCATION:313 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T114000
 DTEND;TZID=Europe/Warsaw:20261112T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T160000
+DTEND;TZID=Europe/Warsaw:20261112T173500
+SUMMARY:IO (L)
+LOCATION:252 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261112T175000
 DTEND;TZID=Europe/Warsaw:20261112T192500
 SUMMARY:IO (L)
 LOCATION:252 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T080000
 DTEND;TZID=Europe/Warsaw:20261113T093500
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T095000
 DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T114000
 DTEND;TZID=Europe/Warsaw:20261113T131500
 SUMMARY:IO (w)
 LOCATION:316 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T133000
 DTEND;TZID=Europe/Warsaw:20261113T150500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T160000
 DTEND;TZID=Europe/Warsaw:20261113T173500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T095000
 DTEND;TZID=Europe/Warsaw:20261114T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T114000
 DTEND;TZID=Europe/Warsaw:20261116T131500
 SUMMARY:GMiB (S)
 LOCATION:22 /BIBL
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 3\nProwadzący: ppłk mgr Michał Lasak
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 1\nProwadzący: ppłk mgr Michał Lasak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T133000
 DTEND;TZID=Europe/Warsaw:20261116T150500
 SUMMARY:DSiSM (w)
 LOCATION:AW 7
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T095000
 DTEND;TZID=Europe/Warsaw:20261117T112500
 SUMMARY:Pk (w)
 LOCATION:309 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T114000
 DTEND;TZID=Europe/Warsaw:20261117T131500
 SUMMARY:ZKwI (w)
 LOCATION:317 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T133000
 DTEND;TZID=Europe/Warsaw:20261117T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T160000
 DTEND;TZID=Europe/Warsaw:20261117T173500
 SUMMARY:Wek (L)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T080000
 DTEND;TZID=Europe/Warsaw:20261118T093500
 SUMMARY:Pk (L)
 LOCATION:078 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T095000
 DTEND;TZID=Europe/Warsaw:20261118T112500
 SUMMARY:Wek (w)
 LOCATION:308 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T114000
@@ -839,136 +944,199 @@ DTSTART;TZID=Europe/Warsaw:20261118T133000
 DTEND;TZID=Europe/Warsaw:20261118T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T080000
+DTEND;TZID=Europe/Warsaw:20261119T093500
+SUMMARY:Sck (w)
+LOCATION:313 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 11\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T095000
 DTEND;TZID=Europe/Warsaw:20261119T112500
 SUMMARY:Sck (w)
 LOCATION:313 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 12\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T114000
 DTEND;TZID=Europe/Warsaw:20261119T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T133000
 DTEND;TZID=Europe/Warsaw:20261119T150500
 SUMMARY:IK (w)
 LOCATION:316 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T160000
+DTEND;TZID=Europe/Warsaw:20261119T173500
+SUMMARY:IK (L)
+LOCATION:09 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T175000
 DTEND;TZID=Europe/Warsaw:20261119T192500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T080000
 DTEND;TZID=Europe/Warsaw:20261120T093500
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T095000
 DTEND;TZID=Europe/Warsaw:20261120T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T114000
+DTEND;TZID=Europe/Warsaw:20261120T131500
+SUMMARY:PBI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T133000
 DTEND;TZID=Europe/Warsaw:20261120T150500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T160000
 DTEND;TZID=Europe/Warsaw:20261120T173500
 SUMMARY:PBI (L)
 LOCATION:227 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T175000
 DTEND;TZID=Europe/Warsaw:20261120T192500
 SUMMARY:PZiP (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T095000
 DTEND;TZID=Europe/Warsaw:20261121T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T114000
 DTEND;TZID=Europe/Warsaw:20261123T131500
 SUMMARY:DSiSM (r)
 LOCATION:AW 3/043
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: repetytorium\nNumer zajęć: 3\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: repetytorium\nNumer zajęć: 1\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T133000
 DTEND;TZID=Europe/Warsaw:20261123T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Tomasz Lubkiewicz
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17\nProwadzący: mjr mgr Tomasz Lubkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T175000
 DTEND;TZID=Europe/Warsaw:20261123T192500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T095000
 DTEND;TZID=Europe/Warsaw:20261124T112500
 SUMMARY:Pk (w)
 LOCATION:309 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T114000
 DTEND;TZID=Europe/Warsaw:20261124T131500
 SUMMARY:ZKwI (w)
 LOCATION:317 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T133000
 DTEND;TZID=Europe/Warsaw:20261124T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T080000
-DTEND;TZID=Europe/Warsaw:20261125T150500
+DTEND;TZID=Europe/Warsaw:20261125T093500
 SUMMARY:SzS (ć)
 LOCATION:Rz.Dęb. Dęblin
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261125T160000
-DTEND;TZID=Europe/Warsaw:20261125T211500
+DTSTART;TZID=Europe/Warsaw:20261125T095000
+DTEND;TZID=Europe/Warsaw:20261125T112500
+SUMMARY:SzS (ć)
+LOCATION:Rz.Dęb. Dęblin
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T114000
+DTEND;TZID=Europe/Warsaw:20261125T131500
 SUMMARY:SzS (ć)
 LOCATION:Rz.Dęb. Dęblin
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T133000
+DTEND;TZID=Europe/Warsaw:20261125T150500
+SUMMARY:SzS (ć)
+LOCATION:Rz.Dęb. Dęblin
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T160000
+DTEND;TZID=Europe/Warsaw:20261125T173500
+SUMMARY:SzS (ć)
+LOCATION:Rz.Dęb. Dęblin
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T175000
+DTEND;TZID=Europe/Warsaw:20261125T192500
+SUMMARY:SzS (ć)
+LOCATION:Rz.Dęb. Dęblin
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T194000
+DTEND;TZID=Europe/Warsaw:20261125T211500
+SUMMARY:SzS (ć)
+LOCATION:Rz.Dęb. Dęblin
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T095000
+DTEND;TZID=Europe/Warsaw:20261126T112500
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T114000
 DTEND;TZID=Europe/Warsaw:20261126T131500
 SUMMARY:ZKwI (L)
 LOCATION:085 S
@@ -979,623 +1147,749 @@ DTSTART;TZID=Europe/Warsaw:20261126T133000
 DTEND;TZID=Europe/Warsaw:20261126T150500
 SUMMARY:PZiP (ć)
 LOCATION:313 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T160000
-DTEND;TZID=Europe/Warsaw:20261126T192500
+DTEND;TZID=Europe/Warsaw:20261126T173500
 SUMMARY:IO (L)
 LOCATION:223 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T175000
+DTEND;TZID=Europe/Warsaw:20261126T192500
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261128T095000
 DTEND;TZID=Europe/Warsaw:20261128T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T095000
+DTEND;TZID=Europe/Warsaw:20261130T112500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppor. mgr Katarzyna Szwed; st. kpr. Anna Polankiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T114000
 DTEND;TZID=Europe/Warsaw:20261130T131500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppor. mgr Katarzyna Szwed; st. kpr. Anna Polankiewicz
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: ppor. mgr Katarzyna Szwed; st. kpr. Anna Polankiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T133000
 DTEND;TZID=Europe/Warsaw:20261130T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Tomasz Lubkiewicz
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18\nProwadzący: mjr mgr Tomasz Lubkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T080000
 DTEND;TZID=Europe/Warsaw:20261201T093500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T114000
 DTEND;TZID=Europe/Warsaw:20261201T131500
 SUMMARY:Pk (w)
 LOCATION:309 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T133000
 DTEND;TZID=Europe/Warsaw:20261201T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T080000
+DTEND;TZID=Europe/Warsaw:20261202T093500
+SUMMARY:Sck (L)
+LOCATION:125 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T095000
 DTEND;TZID=Europe/Warsaw:20261202T112500
 SUMMARY:Sck (L)
 LOCATION:125 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T114000
 DTEND;TZID=Europe/Warsaw:20261202T131500
 SUMMARY:Wek (w)
 LOCATION:307 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T133000
 DTEND;TZID=Europe/Warsaw:20261202T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T080000
+DTEND;TZID=Europe/Warsaw:20261203T093500
+SUMMARY:Sck (w)
+LOCATION:313 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 13\nProwadzący: dr hab. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261203T095000
 DTEND;TZID=Europe/Warsaw:20261203T112500
 SUMMARY:Sck (w)
 LOCATION:313 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 14\nProwadzący: dr hab. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T114000
 DTEND;TZID=Europe/Warsaw:20261203T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T160000
+DTEND;TZID=Europe/Warsaw:20261203T173500
+SUMMARY:IK (L)
+LOCATION:09 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261203T175000
 DTEND;TZID=Europe/Warsaw:20261203T192500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T080000
 DTEND;TZID=Europe/Warsaw:20261204T093500
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T095000
 DTEND;TZID=Europe/Warsaw:20261204T112500
 SUMMARY:Pk (L)
 LOCATION:085 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T114000
 DTEND;TZID=Europe/Warsaw:20261204T131500
 SUMMARY:PZiP (ć)
 LOCATION:317 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T095000
 DTEND;TZID=Europe/Warsaw:20261205T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T080000
+DTEND;TZID=Europe/Warsaw:20261207T093500
+SUMMARY:Sck (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261207T095000
 DTEND;TZID=Europe/Warsaw:20261207T112500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T114000
 DTEND;TZID=Europe/Warsaw:20261207T131500
 SUMMARY:Oś (ć)
 LOCATION:114 57
-DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: por. mgr inż. Erik Mikulski
+DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: por. mgr inż. Erik Mikulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T133000
 DTEND;TZID=Europe/Warsaw:20261207T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Tomasz Lubkiewicz
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20\nProwadzący: mjr mgr Tomasz Lubkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T160000
 DTEND;TZID=Europe/Warsaw:20261207T173500
 SUMMARY:PBI (L)
 LOCATION:223 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T080000
 DTEND;TZID=Europe/Warsaw:20261208T093500
 SUMMARY:IK (w)
 LOCATION:316 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T095000
 DTEND;TZID=Europe/Warsaw:20261208T112500
 SUMMARY:ZKwI (w)
 LOCATION:316 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T114000
 DTEND;TZID=Europe/Warsaw:20261208T131500
 SUMMARY:Wek (w)
 LOCATION:307 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T133000
 DTEND;TZID=Europe/Warsaw:20261208T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T160000
 DTEND;TZID=Europe/Warsaw:20261208T173500
 SUMMARY:Wek (L)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T160000
 DTEND;TZID=Europe/Warsaw:20261209T173500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T080000
 DTEND;TZID=Europe/Warsaw:20261210T093500
 SUMMARY:PZiP (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T114000
 DTEND;TZID=Europe/Warsaw:20261210T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T133000
 DTEND;TZID=Europe/Warsaw:20261210T150500
 SUMMARY:ZKwI (L)
 LOCATION:085 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T160000
 DTEND;TZID=Europe/Warsaw:20261210T173500
 SUMMARY:ZKwI (L)
 LOCATION:085 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T080000
 DTEND;TZID=Europe/Warsaw:20261211T093500
 SUMMARY:Wek (L)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T095000
 DTEND;TZID=Europe/Warsaw:20261211T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T114000
+DTEND;TZID=Europe/Warsaw:20261211T131500
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261211T133000
 DTEND;TZID=Europe/Warsaw:20261211T150500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T160000
 DTEND;TZID=Europe/Warsaw:20261211T173500
 SUMMARY:PZiP (ć)
 LOCATION:308 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T095000
 DTEND;TZID=Europe/Warsaw:20261212T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T114000
 DTEND;TZID=Europe/Warsaw:20261214T131500
 SUMMARY:GMiB (S)
 LOCATION:AW 7
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 3\nProwadzący: ppłk mgr Michał Lasak
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 2\nProwadzący: ppłk mgr Michał Lasak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T133000
 DTEND;TZID=Europe/Warsaw:20261214T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Tomasz Lubkiewicz
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22\nProwadzący: mjr mgr Tomasz Lubkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T160000
-DTEND;TZID=Europe/Warsaw:20261214T192500
+DTEND;TZID=Europe/Warsaw:20261214T173500
 SUMMARY:IK (L)
 LOCATION:09 65
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261214T175000
+DTEND;TZID=Europe/Warsaw:20261214T192500
+SUMMARY:IK (L)
+LOCATION:09 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T114000
 DTEND;TZID=Europe/Warsaw:20261215T131500
 SUMMARY:Wek (w)
 LOCATION:307 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T133000
 DTEND;TZID=Europe/Warsaw:20261215T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T160000
 DTEND;TZID=Europe/Warsaw:20261215T173500
 SUMMARY:Wek (L)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T095000
+DTEND;TZID=Europe/Warsaw:20261216T112500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppor. mgr Katarzyna Szwed; mł.chor. Maciej Koczański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261216T114000
 DTEND;TZID=Europe/Warsaw:20261216T131500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppor. mgr Katarzyna Szwed; mł.chor. Maciej Koczański
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: ppor. mgr Katarzyna Szwed; mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T133000
 DTEND;TZID=Europe/Warsaw:20261216T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T160000
 DTEND;TZID=Europe/Warsaw:20261216T173500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T114000
 DTEND;TZID=Europe/Warsaw:20261217T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T160000
 DTEND;TZID=Europe/Warsaw:20261217T173500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T080000
 DTEND;TZID=Europe/Warsaw:20261218T093500
 SUMMARY:Pk (L)
 LOCATION:085 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T095000
 DTEND;TZID=Europe/Warsaw:20261218T112500
 SUMMARY:PZiP (ć)
 LOCATION:313 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T114000
+DTEND;TZID=Europe/Warsaw:20261218T131500
+SUMMARY:IO (L)
+LOCATION:227 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261218T133000
 DTEND;TZID=Europe/Warsaw:20261218T150500
 SUMMARY:IO (L)
 LOCATION:227 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T095000
 DTEND;TZID=Europe/Warsaw:20261219T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T080000
+DTEND;TZID=Europe/Warsaw:20261221T093500
+SUMMARY:ZKwI (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T095000
 DTEND;TZID=Europe/Warsaw:20261221T112500
 SUMMARY:ZKwI (L)
 LOCATION:085 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T114000
 DTEND;TZID=Europe/Warsaw:20261221T131500
 SUMMARY:Pk (L)
 LOCATION:085 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T133000
 DTEND;TZID=Europe/Warsaw:20261221T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Tomasz Lubkiewicz
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24\nProwadzący: mjr mgr Tomasz Lubkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T160000
 DTEND;TZID=Europe/Warsaw:20261221T173500
 SUMMARY:Wek (L)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T114000
 DTEND;TZID=Europe/Warsaw:20261222T131500
 SUMMARY:Wek (w)
 LOCATION:307 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T133000
 DTEND;TZID=Europe/Warsaw:20261222T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T133000
 DTEND;TZID=Europe/Warsaw:20261223T150500
 SUMMARY:IK (ć)
 LOCATION:201 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Jozef Turczyn
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T095000
 DTEND;TZID=Europe/Warsaw:20270107T112500
 SUMMARY:Pk (L)
 LOCATION:085 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T114000
 DTEND;TZID=Europe/Warsaw:20270107T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T160000
+DTEND;TZID=Europe/Warsaw:20270107T173500
+SUMMARY:IK (L)
+LOCATION:09 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270107T175000
 DTEND;TZID=Europe/Warsaw:20270107T192500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T080000
 DTEND;TZID=Europe/Warsaw:20270108T093500
 SUMMARY:PZiP (ć)
 LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T095000
+DTEND;TZID=Europe/Warsaw:20270108T112500
+SUMMARY:Sck (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270108T114000
 DTEND;TZID=Europe/Warsaw:20270108T131500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T133000
 DTEND;TZID=Europe/Warsaw:20270108T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T095000
 DTEND;TZID=Europe/Warsaw:20270109T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T114000
 DTEND;TZID=Europe/Warsaw:20270111T131500
 SUMMARY:PBI (L)
 LOCATION:236 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T133000
 DTEND;TZID=Europe/Warsaw:20270111T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Tomasz Lubkiewicz
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25\nProwadzący: mjr mgr Tomasz Lubkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T133000
 DTEND;TZID=Europe/Warsaw:20270112T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T160000
 DTEND;TZID=Europe/Warsaw:20270112T173500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T133000
 DTEND;TZID=Europe/Warsaw:20270113T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T160000
 DTEND;TZID=Europe/Warsaw:20270113T173500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T080000
+DTEND;TZID=Europe/Warsaw:20270114T093500
+SUMMARY:Sck (L)
+LOCATION:125 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270114T095000
 DTEND;TZID=Europe/Warsaw:20270114T112500
 SUMMARY:Sck (L)
 LOCATION:125 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T114000
 DTEND;TZID=Europe/Warsaw:20270114T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T095000
 DTEND;TZID=Europe/Warsaw:20270115T112500
 SUMMARY:PZiP (ć)
 LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T114000
+DTEND;TZID=Europe/Warsaw:20270115T131500
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270115T133000
 DTEND;TZID=Europe/Warsaw:20270115T150500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T095000
 DTEND;TZID=Europe/Warsaw:20270116T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T080000
+DTEND;TZID=Europe/Warsaw:20270118T093500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: ppor. mgr Katarzyna Szwed
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T095000
+DTEND;TZID=Europe/Warsaw:20270118T112500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: ppor. mgr Katarzyna Szwed
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T114000
 DTEND;TZID=Europe/Warsaw:20270118T131500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppor. mgr Katarzyna Szwed
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: ppor. mgr Katarzyna Szwed
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T133000
 DTEND;TZID=Europe/Warsaw:20270118T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Tomasz Lubkiewicz
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27\nProwadzący: mjr mgr Tomasz Lubkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T114000
 DTEND;TZID=Europe/Warsaw:20270119T131500
 SUMMARY:Pk (L)
 LOCATION:085 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T133000
 DTEND;TZID=Europe/Warsaw:20270119T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T080000
 DTEND;TZID=Europe/Warsaw:20270120T093500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T133000
 DTEND;TZID=Europe/Warsaw:20270120T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T160000
 DTEND;TZID=Europe/Warsaw:20270120T173500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T080000
+DTEND;TZID=Europe/Warsaw:20270121T093500
+SUMMARY:Sck (L)
+LOCATION:125 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270121T095000
 DTEND;TZID=Europe/Warsaw:20270121T112500
 SUMMARY:Sck (L)
 LOCATION:125 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T114000
 DTEND;TZID=Europe/Warsaw:20270121T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T133000
 DTEND;TZID=Europe/Warsaw:20270121T150500
 SUMMARY:ZKwI (L)
 LOCATION:085 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T160000
 DTEND;TZID=Europe/Warsaw:20270121T173500
 SUMMARY:ZKwI (L)
 LOCATION:085 S
-DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T080000
 DTEND;TZID=Europe/Warsaw:20270122T093500
 SUMMARY:PZiP (ć)
 LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T095000
@@ -1606,17 +1900,24 @@ DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T114000
+DTEND;TZID=Europe/Warsaw:20270122T131500
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270122T133000
 DTEND;TZID=Europe/Warsaw:20270122T150500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T095000
 DTEND;TZID=Europe/Warsaw:20270123T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T080000
@@ -1630,42 +1931,49 @@ DTSTART;TZID=Europe/Warsaw:20270125T114000
 DTEND;TZID=Europe/Warsaw:20270125T131500
 SUMMARY:PBI (L)
 LOCATION:233 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T133000
 DTEND;TZID=Europe/Warsaw:20270125T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Tomasz Lubkiewicz
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29\nProwadzący: mjr mgr Tomasz Lubkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T160000
+DTEND;TZID=Europe/Warsaw:20270125T173500
+SUMMARY:IK (L)
+LOCATION:09 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T175000
 DTEND;TZID=Europe/Warsaw:20270125T192500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T133000
 DTEND;TZID=Europe/Warsaw:20270126T150500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T080000
 DTEND;TZID=Europe/Warsaw:20270127T093500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T133000
 DTEND;TZID=Europe/Warsaw:20270127T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Dawid Zapłata
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T160000
@@ -1679,20 +1987,20 @@ DTSTART;TZID=Europe/Warsaw:20270128T114000
 DTEND;TZID=Europe/Warsaw:20270128T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T133000
 DTEND;TZID=Europe/Warsaw:20270129T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T160000
 DTEND;TZID=Europe/Warsaw:20270129T173500
 SUMMARY:PZiP (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 END:VCALENDAR

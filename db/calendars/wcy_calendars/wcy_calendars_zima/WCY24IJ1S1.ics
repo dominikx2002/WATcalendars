@@ -27,21 +27,21 @@ DTSTART;TZID=Europe/Warsaw:20261001T133000
 DTEND;TZID=Europe/Warsaw:20261001T150500
 SUMMARY:Pjf (w)
 LOCATION:233 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T160000
 DTEND;TZID=Europe/Warsaw:20261007T173500
 SUMMARY:NET (w)
 LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T175000
 DTEND;TZID=Europe/Warsaw:20261007T192500
 SUMMARY:NET (L)
 LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T095000
@@ -62,147 +62,154 @@ DTSTART;TZID=Europe/Warsaw:20261020T133000
 DTEND;TZID=Europe/Warsaw:20261020T150500
 SUMMARY:Wdis (ć)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T095000
 DTEND;TZID=Europe/Warsaw:20261022T112500
 SUMMARY:Mn (w)
 LOCATION:233 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T114000
 DTEND;TZID=Europe/Warsaw:20261022T131500
 SUMMARY:Pjf (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T133000
 DTEND;TZID=Europe/Warsaw:20261022T150500
 SUMMARY:Med (L)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T080000
 DTEND;TZID=Europe/Warsaw:20261027T093500
 SUMMARY:Med (L)
 LOCATION:226 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T160000
 DTEND;TZID=Europe/Warsaw:20261028T173500
 SUMMARY:NET (w)
 LOCATION:237 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T175000
 DTEND;TZID=Europe/Warsaw:20261028T192500
 SUMMARY:NET (L)
 LOCATION:237 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T095000
-DTEND;TZID=Europe/Warsaw:20261029T131500
+DTEND;TZID=Europe/Warsaw:20261029T112500
 SUMMARY:Mn (w)
 LOCATION:233 S
 DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261029T114000
+DTEND;TZID=Europe/Warsaw:20261029T131500
+SUMMARY:Mn (w)
+LOCATION:233 S
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T133000
 DTEND;TZID=Europe/Warsaw:20261029T150500
 SUMMARY:Pjf (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T160000
 DTEND;TZID=Europe/Warsaw:20261030T173500
 SUMMARY:Nsk (ć)
 LOCATION:317 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T175000
 DTEND;TZID=Europe/Warsaw:20261030T192500
 SUMMARY:PZiP (ć)
 LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T133000
 DTEND;TZID=Europe/Warsaw:20261103T150500
 SUMMARY:Wdis (ć)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T160000
 DTEND;TZID=Europe/Warsaw:20261104T173500
 SUMMARY:NET (w)
 LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T175000
 DTEND;TZID=Europe/Warsaw:20261104T192500
 SUMMARY:NET (L)
 LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T114000
 DTEND;TZID=Europe/Warsaw:20261105T131500
 SUMMARY:Mn (w)
 LOCATION:308 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T133000
 DTEND;TZID=Europe/Warsaw:20261105T150500
 SUMMARY:Pjf (w)
 LOCATION:252 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T160000
 DTEND;TZID=Europe/Warsaw:20261106T173500
 SUMMARY:PZiP (ć)
 LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T175000
 DTEND;TZID=Europe/Warsaw:20261106T192500
 SUMMARY:Nsk (ć)
 LOCATION:308 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T160000
 DTEND;TZID=Europe/Warsaw:20261109T173500
 SUMMARY:Med (L)
 LOCATION:236 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
 DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:Mn (w)
 LOCATION:233 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T114000
 DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:Mn (L)
 LOCATION:223 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T114000
@@ -216,31 +223,45 @@ DTSTART;TZID=Europe/Warsaw:20261112T133000
 DTEND;TZID=Europe/Warsaw:20261112T150500
 SUMMARY:Pjf (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T160000
 DTEND;TZID=Europe/Warsaw:20261113T173500
 SUMMARY:PZiP (ć)
 LOCATION:308 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T175000
 DTEND;TZID=Europe/Warsaw:20261113T192500
 SUMMARY:Nsk (ć)
 LOCATION:308 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T080000
-DTEND;TZID=Europe/Warsaw:20261116T112500
+DTEND;TZID=Europe/Warsaw:20261116T093500
 SUMMARY:PSy (L)
 LOCATION:233 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T095000
+DTEND;TZID=Europe/Warsaw:20261116T112500
+SUMMARY:PSy (L)
+LOCATION:233 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T114000
+DTEND;TZID=Europe/Warsaw:20261117T131500
+SUMMARY:Mn (L)
+LOCATION:226 S
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T133000
 DTEND;TZID=Europe/Warsaw:20261117T150500
 SUMMARY:Mn (L)
 LOCATION:226 S
@@ -251,63 +272,77 @@ DTSTART;TZID=Europe/Warsaw:20261118T160000
 DTEND;TZID=Europe/Warsaw:20261118T173500
 SUMMARY:NET (w)
 LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T175000
 DTEND;TZID=Europe/Warsaw:20261118T192500
 SUMMARY:NET (L)
 LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T095000
 DTEND;TZID=Europe/Warsaw:20261119T112500
 SUMMARY:Mn (w)
 LOCATION:233 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T080000
-DTEND;TZID=Europe/Warsaw:20261120T112500
+DTEND;TZID=Europe/Warsaw:20261120T093500
 SUMMARY:PBI (L)
 LOCATION:120 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T095000
+DTEND;TZID=Europe/Warsaw:20261120T112500
+SUMMARY:PBI (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T095000
 DTEND;TZID=Europe/Warsaw:20261124T112500
 SUMMARY:Mn (w)
 LOCATION:233 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T114000
 DTEND;TZID=Europe/Warsaw:20261124T131500
 SUMMARY:Wdis (ć)
 LOCATION:227 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T095000
 DTEND;TZID=Europe/Warsaw:20261125T112500
 SUMMARY:Med (L)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T114000
+DTEND;TZID=Europe/Warsaw:20261126T131500
+SUMMARY:Mn (L)
+LOCATION:252 S
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T133000
 DTEND;TZID=Europe/Warsaw:20261126T150500
 SUMMARY:Mn (L)
 LOCATION:252 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T160000
 DTEND;TZID=Europe/Warsaw:20261126T173500
 SUMMARY:Nsk (ć)
 LOCATION:316 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T160000
@@ -328,14 +363,21 @@ DTSTART;TZID=Europe/Warsaw:20261202T175000
 DTEND;TZID=Europe/Warsaw:20261202T192500
 SUMMARY:NET (L)
 LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T095000
+DTEND;TZID=Europe/Warsaw:20261203T112500
+SUMMARY:Mn (L)
+LOCATION:252 S
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261203T114000
 DTEND;TZID=Europe/Warsaw:20261203T131500
 SUMMARY:Mn (L)
 LOCATION:252 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T160000
@@ -346,80 +388,136 @@ DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\n
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T175000
+DTEND;TZID=Europe/Warsaw:20261207T192500
+SUMMARY:Pjf (L)
+LOCATION:227 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261207T194000
 DTEND;TZID=Europe/Warsaw:20261207T211500
 SUMMARY:Pjf (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T133000
 DTEND;TZID=Europe/Warsaw:20261208T150500
 SUMMARY:Mn (L)
 LOCATION:223 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T160000
+DTEND;TZID=Europe/Warsaw:20261208T173500
+SUMMARY:Bpe (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261208T175000
 DTEND;TZID=Europe/Warsaw:20261208T192500
 SUMMARY:Bpe (L)
 LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T080000
+DTEND;TZID=Europe/Warsaw:20261209T093500
+SUMMARY:PSy (L)
+LOCATION:233 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T095000
 DTEND;TZID=Europe/Warsaw:20261209T112500
 SUMMARY:PSy (L)
 LOCATION:233 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T114000
 DTEND;TZID=Europe/Warsaw:20261209T131500
 SUMMARY:Med (L)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T114000
 DTEND;TZID=Europe/Warsaw:20261210T131500
 SUMMARY:PZiP (ć)
 LOCATION:308 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T080000
+DTEND;TZID=Europe/Warsaw:20261211T093500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261211T095000
+DTEND;TZID=Europe/Warsaw:20261211T112500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261211T114000
 DTEND;TZID=Europe/Warsaw:20261211T131500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T114000
+DTEND;TZID=Europe/Warsaw:20261215T131500
+SUMMARY:Wdis (ć)
+LOCATION:252 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261215T133000
 DTEND;TZID=Europe/Warsaw:20261215T150500
 SUMMARY:Wdis (ć)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T080000
+DTEND;TZID=Europe/Warsaw:20261216T093500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261216T095000
 DTEND;TZID=Europe/Warsaw:20261216T112500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T114000
-DTEND;TZID=Europe/Warsaw:20261216T150500
+DTEND;TZID=Europe/Warsaw:20261216T131500
 SUMMARY:PBI (L)
 LOCATION:121 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261216T133000
+DTEND;TZID=Europe/Warsaw:20261216T150500
+SUMMARY:PBI (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T160000
 DTEND;TZID=Europe/Warsaw:20261216T173500
 SUMMARY:NET (w)
 LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T175000
@@ -433,66 +531,108 @@ DTSTART;TZID=Europe/Warsaw:20261218T114000
 DTEND;TZID=Europe/Warsaw:20261218T131500
 SUMMARY:Nsk (ć)
 LOCATION:317 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T175000
+DTEND;TZID=Europe/Warsaw:20261221T192500
+SUMMARY:Pjf (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T194000
 DTEND;TZID=Europe/Warsaw:20261221T211500
 SUMMARY:Pjf (L)
 LOCATION:226 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T080000
+DTEND;TZID=Europe/Warsaw:20261222T093500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261222T095000
+DTEND;TZID=Europe/Warsaw:20261222T112500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261222T114000
 DTEND;TZID=Europe/Warsaw:20261222T131500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T114000
+DTEND;TZID=Europe/Warsaw:20261223T131500
+SUMMARY:PSy (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261223T133000
 DTEND;TZID=Europe/Warsaw:20261223T150500
 SUMMARY:PSy (L)
 LOCATION:236 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T114000
 DTEND;TZID=Europe/Warsaw:20270107T131500
 SUMMARY:PZiP (ć)
 LOCATION:313 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T080000
 DTEND;TZID=Europe/Warsaw:20270108T093500
 SUMMARY:Nsk (ć)
 LOCATION:314 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T114000
+DTEND;TZID=Europe/Warsaw:20270111T131500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T133000
 DTEND;TZID=Europe/Warsaw:20270111T150500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T133000
 DTEND;TZID=Europe/Warsaw:20270112T150500
 SUMMARY:Bpe (L)
 LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T160000
 DTEND;TZID=Europe/Warsaw:20270112T173500
 SUMMARY:Bpe (L)
 LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T175000
+DTEND;TZID=Europe/Warsaw:20270112T192500
+SUMMARY:Pjf (L)
+LOCATION:224 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270112T194000
 DTEND;TZID=Europe/Warsaw:20270112T211500
 SUMMARY:Pjf (L)
 LOCATION:224 S
@@ -500,100 +640,149 @@ DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T114000
+DTEND;TZID=Europe/Warsaw:20270113T131500
+SUMMARY:Wdis (ć)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270113T133000
 DTEND;TZID=Europe/Warsaw:20270113T150500
 SUMMARY:Wdis (ć)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T095000
 DTEND;TZID=Europe/Warsaw:20270114T112500
 SUMMARY:Med (L)
 LOCATION:239 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T114000
+DTEND;TZID=Europe/Warsaw:20270115T131500
+SUMMARY:PSy (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270115T133000
 DTEND;TZID=Europe/Warsaw:20270115T150500
 SUMMARY:PSy (L)
 LOCATION:224 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T114000
+DTEND;TZID=Europe/Warsaw:20270118T131500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T133000
 DTEND;TZID=Europe/Warsaw:20270118T150500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T160000
 DTEND;TZID=Europe/Warsaw:20270118T173500
 SUMMARY:Med (L)
 LOCATION:226 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T160000
 DTEND;TZID=Europe/Warsaw:20270120T173500
 SUMMARY:NET (w)
 LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T175000
+DTEND;TZID=Europe/Warsaw:20270120T192500
+SUMMARY:NET (L)
+LOCATION:233 S
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270120T194000
 DTEND;TZID=Europe/Warsaw:20270120T211500
 SUMMARY:NET (L)
 LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T114000
 DTEND;TZID=Europe/Warsaw:20270121T131500
 SUMMARY:PBI (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Krzysztof Liderman
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T133000
 DTEND;TZID=Europe/Warsaw:20270121T150500
 SUMMARY:PZiP (ć)
 LOCATION:316 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T114000
 DTEND;TZID=Europe/Warsaw:20270122T131500
 SUMMARY:PZiP (ć)
 LOCATION:317 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T133000
 DTEND;TZID=Europe/Warsaw:20270122T150500
 SUMMARY:Nsk (ć)
 LOCATION:314 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T080000
+DTEND;TZID=Europe/Warsaw:20270125T093500
+SUMMARY:PSy (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T095000
 DTEND;TZID=Europe/Warsaw:20270125T112500
 SUMMARY:PSy (L)
 LOCATION:236 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T114000
+DTEND;TZID=Europe/Warsaw:20270125T131500
+SUMMARY:Gk (L)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T133000
 DTEND;TZID=Europe/Warsaw:20270125T150500
 SUMMARY:Gk (L)
 LOCATION:252 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T175000
+DTEND;TZID=Europe/Warsaw:20270126T192500
+SUMMARY:Pjf (L)
+LOCATION:227 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270126T194000
 DTEND;TZID=Europe/Warsaw:20270126T211500
 SUMMARY:Pjf (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 END:VCALENDAR

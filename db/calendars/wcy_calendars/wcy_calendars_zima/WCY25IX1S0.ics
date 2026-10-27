@@ -27,28 +27,28 @@ DTSTART;TZID=Europe/Warsaw:20261001T095000
 DTEND;TZID=Europe/Warsaw:20261001T112500
 SUMMARY:OIN (w)
 LOCATION:AW 4
-DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T114000
 DTEND;TZID=Europe/Warsaw:20261001T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T133000
 DTEND;TZID=Europe/Warsaw:20261001T150500
 SUMMARY:ZINŻ (w)
 LOCATION:AW 3/038
-DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: ppłk mgr Paweł Jurzysta
+DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk mgr Paweł Jurzysta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T160000
 DTEND;TZID=Europe/Warsaw:20261001T173500
 SUMMARY:ZINŻ (w)
 LOCATION:AW 3/038
-DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: ppłk mgr Paweł Jurzysta
+DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk mgr Paweł Jurzysta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T080000
@@ -69,14 +69,14 @@ DTSTART;TZID=Europe/Warsaw:20261002T114000
 DTEND;TZID=Europe/Warsaw:20261002T131500
 SUMMARY:PO (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T133000
 DTEND;TZID=Europe/Warsaw:20261002T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T080000
@@ -87,24 +87,38 @@ DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T080000
-DTEND;TZID=Europe/Warsaw:20261005T112500
+DTEND;TZID=Europe/Warsaw:20261005T093500
 SUMMARY:Tgs (w)
 LOCATION:316 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261005T095000
+DTEND;TZID=Europe/Warsaw:20261005T112500
+SUMMARY:Tgs (w)
+LOCATION:316 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T114000
+DTEND;TZID=Europe/Warsaw:20261005T131500
+SUMMARY:ppk (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261005T133000
 DTEND;TZID=Europe/Warsaw:20261005T150500
 SUMMARY:ppk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T160000
 DTEND;TZID=Europe/Warsaw:20261005T173500
 SUMMARY:Sm (w)
 LOCATION:313 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T080000
@@ -122,6 +136,13 @@ DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T114000
+DTEND;TZID=Europe/Warsaw:20261006T131500
+SUMMARY:PO (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261006T133000
 DTEND;TZID=Europe/Warsaw:20261006T150500
 SUMMARY:PO (w)
 LOCATION:316 S
@@ -129,27 +150,48 @@ DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nP
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T160000
+DTEND;TZID=Europe/Warsaw:20261006T173500
+SUMMARY:Tik (w)
+LOCATION:317 S
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261006T175000
 DTEND;TZID=Europe/Warsaw:20261006T192500
 SUMMARY:Tik (w)
 LOCATION:317 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T114000
+DTEND;TZID=Europe/Warsaw:20261007T131500
+SUMMARY:Pnak (w)
+LOCATION:316 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261007T133000
 DTEND;TZID=Europe/Warsaw:20261007T150500
 SUMMARY:Pnak (w)
 LOCATION:316 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T160000
 DTEND;TZID=Europe/Warsaw:20261007T173500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T095000
+DTEND;TZID=Europe/Warsaw:20261008T112500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(KSP)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261008T114000
 DTEND;TZID=Europe/Warsaw:20261008T131500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(KSP)
@@ -160,87 +202,108 @@ DTSTART;TZID=Europe/Warsaw:20261008T133000
 DTEND;TZID=Europe/Warsaw:20261008T150500
 SUMMARY:ZINŻ (ć)
 LOCATION:PĆT1
-DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: ppłk mgr Paweł Jurzysta
+DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk mgr Paweł Jurzysta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T095000
 DTEND;TZID=Europe/Warsaw:20261009T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T114000
 DTEND;TZID=Europe/Warsaw:20261009T131500
 SUMMARY:Pr.A (w)
 LOCATION:19 36
-DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T133000
 DTEND;TZID=Europe/Warsaw:20261009T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T080000
 DTEND;TZID=Europe/Warsaw:20261010T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T080000
+DTEND;TZID=Europe/Warsaw:20261012T093500
+SUMMARY:PO (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261012T095000
 DTEND;TZID=Europe/Warsaw:20261012T112500
 SUMMARY:PO (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T114000
-DTEND;TZID=Europe/Warsaw:20261012T150500
+DTEND;TZID=Europe/Warsaw:20261012T131500
 SUMMARY:ppk (w)
 LOCATION:316 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261012T133000
+DTEND;TZID=Europe/Warsaw:20261012T150500
+SUMMARY:ppk (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T160000
 DTEND;TZID=Europe/Warsaw:20261012T173500
 SUMMARY:Sm (w)
 LOCATION:313 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T080000
 DTEND;TZID=Europe/Warsaw:20261013T093500
 SUMMARY:Aok (w)
 LOCATION:316 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T095000
 DTEND;TZID=Europe/Warsaw:20261013T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T114000
 DTEND;TZID=Europe/Warsaw:20261013T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T133000
 DTEND;TZID=Europe/Warsaw:20261013T150500
 SUMMARY:Tik (w)
 LOCATION:316 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T160000
+DTEND;TZID=Europe/Warsaw:20261013T173500
+SUMMARY:Tik (w)
+LOCATION:316 S
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261013T175000
 DTEND;TZID=Europe/Warsaw:20261013T192500
 SUMMARY:Tik (w)
 LOCATION:316 S
@@ -248,234 +311,304 @@ DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zaję�
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261014T080000
-DTEND;TZID=Europe/Warsaw:20261014T150500
+DTEND;TZID=Europe/Warsaw:20261014T093500
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: DGB
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261014T095000
+DTEND;TZID=Europe/Warsaw:20261014T112500
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: DGB
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261014T114000
+DTEND;TZID=Europe/Warsaw:20261014T131500
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: DGB
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261014T133000
+DTEND;TZID=Europe/Warsaw:20261014T150500
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: DGB
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261014T160000
 DTEND;TZID=Europe/Warsaw:20261014T173500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T080000
-DTEND;TZID=Europe/Warsaw:20261015T112500
+DTEND;TZID=Europe/Warsaw:20261015T093500
 SUMMARY:Aok (L)
 LOCATION:237 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261015T095000
+DTEND;TZID=Europe/Warsaw:20261015T112500
+SUMMARY:Aok (L)
+LOCATION:237 S
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T114000
 DTEND;TZID=Europe/Warsaw:20261015T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T080000
 DTEND;TZID=Europe/Warsaw:20261016T093500
 SUMMARY:PO (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T095000
 DTEND;TZID=Europe/Warsaw:20261016T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T114000
 DTEND;TZID=Europe/Warsaw:20261016T131500
 SUMMARY:Sm (L)
 LOCATION:219 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T133000
 DTEND;TZID=Europe/Warsaw:20261016T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T160000
 DTEND;TZID=Europe/Warsaw:20261016T173500
 SUMMARY:PO (ć)
 LOCATION:308 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T080000
 DTEND;TZID=Europe/Warsaw:20261017T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T080000
+DTEND;TZID=Europe/Warsaw:20261019T093500
+SUMMARY:Tgs (w)
+LOCATION:316 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T095000
 DTEND;TZID=Europe/Warsaw:20261019T112500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T114000
+DTEND;TZID=Europe/Warsaw:20261019T131500
+SUMMARY:ppk (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T133000
 DTEND;TZID=Europe/Warsaw:20261019T150500
 SUMMARY:ppk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T160000
 DTEND;TZID=Europe/Warsaw:20261019T173500
 SUMMARY:Sm (w)
 LOCATION:313 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T080000
 DTEND;TZID=Europe/Warsaw:20261020T093500
 SUMMARY:Aok (w)
 LOCATION:316 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T095000
 DTEND;TZID=Europe/Warsaw:20261020T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T114000
 DTEND;TZID=Europe/Warsaw:20261020T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T133000
 DTEND;TZID=Europe/Warsaw:20261020T150500
 SUMMARY:PO (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T160000
+DTEND;TZID=Europe/Warsaw:20261020T173500
+SUMMARY:Tik (L)
+LOCATION:09 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261020T175000
 DTEND;TZID=Europe/Warsaw:20261020T192500
 SUMMARY:Tik (L)
 LOCATION:09 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T080000
-DTEND;TZID=Europe/Warsaw:20261021T112500
+DTEND;TZID=Europe/Warsaw:20261021T093500
 SUMMARY:Als (L)
 LOCATION:223 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261021T095000
+DTEND;TZID=Europe/Warsaw:20261021T112500
+SUMMARY:Als (L)
+LOCATION:223 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T114000
-DTEND;TZID=Europe/Warsaw:20261021T150500
+DTEND;TZID=Europe/Warsaw:20261021T131500
 SUMMARY:Pnak (w)
 LOCATION:316 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261021T133000
+DTEND;TZID=Europe/Warsaw:20261021T150500
+SUMMARY:Pnak (w)
+LOCATION:316 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T160000
 DTEND;TZID=Europe/Warsaw:20261021T173500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T080000
 DTEND;TZID=Europe/Warsaw:20261022T093500
 SUMMARY:OIN (w)
 LOCATION:103 K
-DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
+DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Grzegorz Grądziel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T095000
 DTEND;TZID=Europe/Warsaw:20261022T112500
 SUMMARY:Tik (w)
 LOCATION:317 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T114000
 DTEND;TZID=Europe/Warsaw:20261022T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T095000
 DTEND;TZID=Europe/Warsaw:20261023T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T133000
 DTEND;TZID=Europe/Warsaw:20261023T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T080000
 DTEND;TZID=Europe/Warsaw:20261024T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T080000
 DTEND;TZID=Europe/Warsaw:20261026T093500
 SUMMARY:Aok (w)
 LOCATION:316 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T095000
 DTEND;TZID=Europe/Warsaw:20261026T112500
 SUMMARY:F2 (L)
 LOCATION:139 S 141 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T114000
+DTEND;TZID=Europe/Warsaw:20261026T131500
+SUMMARY:ppk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T133000
 DTEND;TZID=Europe/Warsaw:20261026T150500
 SUMMARY:ppk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T160000
 DTEND;TZID=Europe/Warsaw:20261026T173500
 SUMMARY:Sm (w)
 LOCATION:313 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T080000
 DTEND;TZID=Europe/Warsaw:20261027T093500
 SUMMARY:Aok (w)
 LOCATION:316 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T095000
 DTEND;TZID=Europe/Warsaw:20261027T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T114000
@@ -489,112 +622,126 @@ DTSTART;TZID=Europe/Warsaw:20261027T133000
 DTEND;TZID=Europe/Warsaw:20261027T150500
 SUMMARY:Pnak (w)
 LOCATION:316 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T160000
 DTEND;TZID=Europe/Warsaw:20261027T173500
 SUMMARY:Pnak (w)
 LOCATION:316 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T114000
 DTEND;TZID=Europe/Warsaw:20261028T131500
 SUMMARY:Pwd (w)
 LOCATION:19 36
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Kazimierz Piotrkowski
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Kazimierz Piotrkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T133000
 DTEND;TZID=Europe/Warsaw:20261028T150500
 SUMMARY:Pr.A (w)
 LOCATION:19 36
-DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Andrzej Strychalski
+DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T160000
 DTEND;TZID=Europe/Warsaw:20261028T173500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T080000
+DTEND;TZID=Europe/Warsaw:20261029T093500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PWC2)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261029T095000
 DTEND;TZID=Europe/Warsaw:20261029T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PWC2)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T114000
 DTEND;TZID=Europe/Warsaw:20261029T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T133000
 DTEND;TZID=Europe/Warsaw:20261029T150500
 SUMMARY:Aok (L)
 LOCATION:237 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T160000
 DTEND;TZID=Europe/Warsaw:20261029T173500
 SUMMARY:Aok (L)
 LOCATION:237 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T095000
 DTEND;TZID=Europe/Warsaw:20261030T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T114000
 DTEND;TZID=Europe/Warsaw:20261030T131500
 SUMMARY:Sm (L)
 LOCATION:219 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T133000
 DTEND;TZID=Europe/Warsaw:20261030T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 120 K 121 K 122 K 124 K 125 K 126 K 127 K 128 K 131 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T160000
 DTEND;TZID=Europe/Warsaw:20261030T173500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261031T080000
 DTEND;TZID=Europe/Warsaw:20261031T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T080000
+DTEND;TZID=Europe/Warsaw:20261102T093500
+SUMMARY:Tgs (w)
+LOCATION:316 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T095000
 DTEND;TZID=Europe/Warsaw:20261102T112500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T114000
 DTEND;TZID=Europe/Warsaw:20261102T131500
 SUMMARY:ppk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T160000
@@ -608,49 +755,56 @@ DTSTART;TZID=Europe/Warsaw:20261103T095000
 DTEND;TZID=Europe/Warsaw:20261103T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T114000
 DTEND;TZID=Europe/Warsaw:20261103T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T133000
 DTEND;TZID=Europe/Warsaw:20261103T150500
 SUMMARY:F2 (ć)
 LOCATION:201 65
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T160000
+DTEND;TZID=Europe/Warsaw:20261103T173500
+SUMMARY:Tik (w)
+LOCATION:317 S
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261103T175000
 DTEND;TZID=Europe/Warsaw:20261103T192500
 SUMMARY:Tik (w)
 LOCATION:317 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T095000
 DTEND;TZID=Europe/Warsaw:20261104T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T114000
 DTEND;TZID=Europe/Warsaw:20261104T131500
 SUMMARY:F2 (L)
 LOCATION:139 S 141 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T133000
 DTEND;TZID=Europe/Warsaw:20261104T150500
 SUMMARY:Pnak (w)
 LOCATION:316 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T160000
@@ -661,311 +815,388 @@ DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T080000
+DTEND;TZID=Europe/Warsaw:20261105T093500
+SUMMARY:Als (L)
+LOCATION:228 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261105T095000
 DTEND;TZID=Europe/Warsaw:20261105T112500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T114000
 DTEND;TZID=Europe/Warsaw:20261105T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T133000
 DTEND;TZID=Europe/Warsaw:20261105T150500
 SUMMARY:TA (w)
 LOCATION:AW 3/038
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: płk rez. dr inż. Grzegorz Krawczyk
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: płk rez. dr inż. Grzegorz Krawczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T160000
 DTEND;TZID=Europe/Warsaw:20261105T173500
 SUMMARY:Tik (ć)
 LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T095000
 DTEND;TZID=Europe/Warsaw:20261106T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T114000
 DTEND;TZID=Europe/Warsaw:20261106T131500
 SUMMARY:Pnak (L)
 LOCATION:125 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T133000
 DTEND;TZID=Europe/Warsaw:20261106T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 120 K 121 K 122 K 124 K 125 K 126 K 127 K 128 K 131 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T160000
+DTEND;TZID=Europe/Warsaw:20261106T173500
+SUMMARY:Tik (L)
+LOCATION:09 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261106T175000
 DTEND;TZID=Europe/Warsaw:20261106T192500
 SUMMARY:Tik (L)
 LOCATION:09 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T080000
 DTEND;TZID=Europe/Warsaw:20261107T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T080000
 DTEND;TZID=Europe/Warsaw:20261109T093500
 SUMMARY:Aok (w)
 LOCATION:316 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T095000
 DTEND;TZID=Europe/Warsaw:20261109T112500
 SUMMARY:Sm (L)
 LOCATION:219 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T114000
 DTEND;TZID=Europe/Warsaw:20261109T131500
 SUMMARY:Tgs (ć)
 LOCATION:252 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T160000
 DTEND;TZID=Europe/Warsaw:20261109T173500
 SUMMARY:Sm (w)
 LOCATION:313 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
 DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T114000
 DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T133000
 DTEND;TZID=Europe/Warsaw:20261110T150500
 SUMMARY:F2 (ć)
 LOCATION:201 65
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T160000
 DTEND;TZID=Europe/Warsaw:20261110T173500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T080000
 DTEND;TZID=Europe/Warsaw:20261112T093500
 SUMMARY:ZINŻ (ć)
 LOCATION:ST.nr 1(ZI)
-DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk mgr Paweł Jurzysta
+DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk mgr Paweł Jurzysta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T114000
 DTEND;TZID=Europe/Warsaw:20261112T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Dominik Łodej
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Dominik Łodej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T095000
 DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T114000
 DTEND;TZID=Europe/Warsaw:20261113T131500
 SUMMARY:Pnak (L)
 LOCATION:125 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T133000
 DTEND;TZID=Europe/Warsaw:20261113T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 120 K 121 K 122 K 124 K 125 K 126 K 127 K 128 K 131 K 133 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T160000
-DTEND;TZID=Europe/Warsaw:20261113T192500
+DTEND;TZID=Europe/Warsaw:20261113T173500
 SUMMARY:Aok (L)
 LOCATION:237 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T175000
+DTEND;TZID=Europe/Warsaw:20261113T192500
+SUMMARY:Aok (L)
+LOCATION:237 S
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T080000
 DTEND;TZID=Europe/Warsaw:20261114T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T095000
 DTEND;TZID=Europe/Warsaw:20261116T112500
 SUMMARY:F2 (L)
 LOCATION:139 S 141 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T114000
-DTEND;TZID=Europe/Warsaw:20261116T150500
+DTEND;TZID=Europe/Warsaw:20261116T131500
 SUMMARY:Pnak (L)
 LOCATION:125 65
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T133000
+DTEND;TZID=Europe/Warsaw:20261116T150500
+SUMMARY:Pnak (L)
+LOCATION:125 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T160000
 DTEND;TZID=Europe/Warsaw:20261116T173500
 SUMMARY:Sm (w)
 LOCATION:313 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T175000
 DTEND;TZID=Europe/Warsaw:20261116T192500
 SUMMARY:Amt (Ep)
 LOCATION:313 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 6\nProwadzący: dr Jan Nawrocki
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr Jan Nawrocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T080000
 DTEND;TZID=Europe/Warsaw:20261117T093500
 SUMMARY:PO (ć)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T095000
 DTEND;TZID=Europe/Warsaw:20261117T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T114000
 DTEND;TZID=Europe/Warsaw:20261117T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T133000
 DTEND;TZID=Europe/Warsaw:20261117T150500
 SUMMARY:F2 (ć)
 LOCATION:201 65
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T160000
 DTEND;TZID=Europe/Warsaw:20261117T173500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T095000
 DTEND;TZID=Europe/Warsaw:20261118T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T114000
 DTEND;TZID=Europe/Warsaw:20261118T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T133000
 DTEND;TZID=Europe/Warsaw:20261118T150500
 SUMMARY:Pwd (ć)
 LOCATION:2 45
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Katarzyna Gurmińska
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T080000
-DTEND;TZID=Europe/Warsaw:20261119T150500
+DTEND;TZID=Europe/Warsaw:20261119T093500
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T095000
+DTEND;TZID=Europe/Warsaw:20261119T112500
+SUMMARY:PODS.SUR. (ć)
+LOCATION:POLIGON
+DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T114000
+DTEND;TZID=Europe/Warsaw:20261119T131500
+SUMMARY:PODS.SUR. (ć)
+LOCATION:POLIGON
+DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T133000
+DTEND;TZID=Europe/Warsaw:20261119T150500
+SUMMARY:PODS.SUR. (ć)
+LOCATION:POLIGON
+DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T160000
-DTEND;TZID=Europe/Warsaw:20261119T211500
+DTEND;TZID=Europe/Warsaw:20261119T173500
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T175000
+DTEND;TZID=Europe/Warsaw:20261119T192500
+SUMMARY:PODS.SUR. (ć)
+LOCATION:POLIGON
+DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T194000
+DTEND;TZID=Europe/Warsaw:20261119T211500
+SUMMARY:PODS.SUR. (ć)
+LOCATION:POLIGON
+DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T080000
+DTEND;TZID=Europe/Warsaw:20261120T093500
+SUMMARY:PODS.SUR. (ć)
+LOCATION:POLIGON
+DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T095000
+DTEND;TZID=Europe/Warsaw:20261120T112500
+SUMMARY:PODS.SUR. (ć)
+LOCATION:POLIGON
+DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T114000
 DTEND;TZID=Europe/Warsaw:20261120T131500
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
-DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
+DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T133000
 DTEND;TZID=Europe/Warsaw:20261120T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T160000
 DTEND;TZID=Europe/Warsaw:20261120T173500
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
-DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
+DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T080000
 DTEND;TZID=Europe/Warsaw:20261121T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T080000
 DTEND;TZID=Europe/Warsaw:20261123T093500
 SUMMARY:Aok (w)
 LOCATION:316 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T095000
 DTEND;TZID=Europe/Warsaw:20261123T112500
 SUMMARY:Sm (L)
 LOCATION:219 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T114000
@@ -979,28 +1210,28 @@ DTSTART;TZID=Europe/Warsaw:20261123T133000
 DTEND;TZID=Europe/Warsaw:20261123T150500
 SUMMARY:Als (L)
 LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T160000
 DTEND;TZID=Europe/Warsaw:20261123T173500
 SUMMARY:Als (L)
 LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T095000
 DTEND;TZID=Europe/Warsaw:20261124T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T114000
 DTEND;TZID=Europe/Warsaw:20261124T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T133000
@@ -1014,70 +1245,84 @@ DTSTART;TZID=Europe/Warsaw:20261124T160000
 DTEND;TZID=Europe/Warsaw:20261124T173500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T080000
 DTEND;TZID=Europe/Warsaw:20261125T093500
 SUMMARY:Pwd (w)
 LOCATION:19 36
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Kazimierz Piotrkowski
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Kazimierz Piotrkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T095000
 DTEND;TZID=Europe/Warsaw:20261125T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T114000
+DTEND;TZID=Europe/Warsaw:20261125T131500
+SUMMARY:Pnak (L)
+LOCATION:125 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T133000
 DTEND;TZID=Europe/Warsaw:20261125T150500
 SUMMARY:Pnak (L)
 LOCATION:125 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T160000
-DTEND;TZID=Europe/Warsaw:20261125T192500
+DTEND;TZID=Europe/Warsaw:20261125T173500
 SUMMARY:Tik (L)
 LOCATION:09 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T175000
+DTEND;TZID=Europe/Warsaw:20261125T192500
+SUMMARY:Tik (L)
+LOCATION:09 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T114000
 DTEND;TZID=Europe/Warsaw:20261126T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Dominik Łodej
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17\nProwadzący: mgr Dominik Łodej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T133000
 DTEND;TZID=Europe/Warsaw:20261126T150500
 SUMMARY:Aok (L)
 LOCATION:237 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T160000
 DTEND;TZID=Europe/Warsaw:20261126T173500
 SUMMARY:Aok (L)
 LOCATION:237 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261128T080000
 DTEND;TZID=Europe/Warsaw:20261128T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T080000
 DTEND;TZID=Europe/Warsaw:20261130T093500
 SUMMARY:Aok (w)
 LOCATION:316 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T095000
@@ -1091,77 +1336,77 @@ DTSTART;TZID=Europe/Warsaw:20261130T114000
 DTEND;TZID=Europe/Warsaw:20261130T131500
 SUMMARY:Pr.A (w)
 LOCATION:19 36
-DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T133000
 DTEND;TZID=Europe/Warsaw:20261130T150500
 SUMMARY:Tgs (ć)
 LOCATION:307 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T080000
 DTEND;TZID=Europe/Warsaw:20261201T093500
 SUMMARY:PO (ć)
 LOCATION:314 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T095000
 DTEND;TZID=Europe/Warsaw:20261201T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T114000
 DTEND;TZID=Europe/Warsaw:20261201T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T133000
 DTEND;TZID=Europe/Warsaw:20261201T150500
 SUMMARY:F2 (ć)
 LOCATION:201 65
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T160000
 DTEND;TZID=Europe/Warsaw:20261201T173500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T080000
 DTEND;TZID=Europe/Warsaw:20261202T093500
 SUMMARY:Pwd (w)
 LOCATION:19 36
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Kazimierz Piotrkowski
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Kazimierz Piotrkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T095000
 DTEND;TZID=Europe/Warsaw:20261202T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T114000
 DTEND;TZID=Europe/Warsaw:20261202T131500
 SUMMARY:Pwd (ć)
 LOCATION:201 65
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Katarzyna Gurmińska
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T133000
 DTEND;TZID=Europe/Warsaw:20261202T150500
 SUMMARY:Tik (w)
 LOCATION:317 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T080000
@@ -1172,101 +1417,115 @@ DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Ćwiczenia\nNumer zaj
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T095000
+DTEND;TZID=Europe/Warsaw:20261203T112500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PWC2)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261203T114000
 DTEND;TZID=Europe/Warsaw:20261203T131500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PWC2)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T095000
 DTEND;TZID=Europe/Warsaw:20261204T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T114000
 DTEND;TZID=Europe/Warsaw:20261204T131500
 SUMMARY:Sm (L)
 LOCATION:219 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T133000
 DTEND;TZID=Europe/Warsaw:20261204T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T080000
 DTEND;TZID=Europe/Warsaw:20261205T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T095000
+DTEND;TZID=Europe/Warsaw:20261207T112500
+SUMMARY:Tgs (w)
+LOCATION:316 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261207T114000
 DTEND;TZID=Europe/Warsaw:20261207T131500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T133000
 DTEND;TZID=Europe/Warsaw:20261207T150500
 SUMMARY:Aok (w)
 LOCATION:316 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T095000
 DTEND;TZID=Europe/Warsaw:20261208T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T114000
 DTEND;TZID=Europe/Warsaw:20261208T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T133000
 DTEND;TZID=Europe/Warsaw:20261208T150500
 SUMMARY:F2 (ć)
 LOCATION:201 65
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T095000
 DTEND;TZID=Europe/Warsaw:20261210T112500
 SUMMARY:Pwd (ć)
 LOCATION:3.7 75
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Katarzyna Gurmińska
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T114000
 DTEND;TZID=Europe/Warsaw:20261210T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T133000
 DTEND;TZID=Europe/Warsaw:20261210T150500
 SUMMARY:ZINŻ (r)
 LOCATION:AW 3/038
-DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: repetytorium\nNumer zajęć: 4\nProwadzący: ppłk mgr Paweł Jurzysta
+DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: repetytorium\nNumer zajęć: 1\nProwadzący: ppłk mgr Paweł Jurzysta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T095000
 DTEND;TZID=Europe/Warsaw:20261211T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T114000
@@ -1280,203 +1539,238 @@ DTSTART;TZID=Europe/Warsaw:20261211T133000
 DTEND;TZID=Europe/Warsaw:20261211T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T160000
+DTEND;TZID=Europe/Warsaw:20261211T173500
+SUMMARY:Aok (L)
+LOCATION:237 S
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261211T175000
 DTEND;TZID=Europe/Warsaw:20261211T192500
 SUMMARY:Aok (L)
 LOCATION:237 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T080000
 DTEND;TZID=Europe/Warsaw:20261212T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T095000
 DTEND;TZID=Europe/Warsaw:20261214T112500
 SUMMARY:F2 (L)
 LOCATION:139 S 141 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T133000
 DTEND;TZID=Europe/Warsaw:20261214T150500
 SUMMARY:Aok (w)
 LOCATION:316 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T095000
 DTEND;TZID=Europe/Warsaw:20261215T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T114000
 DTEND;TZID=Europe/Warsaw:20261215T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 11\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T133000
 DTEND;TZID=Europe/Warsaw:20261215T150500
 SUMMARY:F2 (ć)
 LOCATION:201 65
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T095000
 DTEND;TZID=Europe/Warsaw:20261216T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T114000
-DTEND;TZID=Europe/Warsaw:20261216T150500
+DTEND;TZID=Europe/Warsaw:20261216T131500
 SUMMARY:ppk (L)
 LOCATION:09 65
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261216T133000
+DTEND;TZID=Europe/Warsaw:20261216T150500
+SUMMARY:ppk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T175000
 DTEND;TZID=Europe/Warsaw:20261216T192500
 SUMMARY:Tgs (ć)
 LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T080000
 DTEND;TZID=Europe/Warsaw:20261217T093500
 SUMMARY:ZINŻ (ć)
 LOCATION:2.42/ 54A
-DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Wiesław Kuchta
+DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Wiesław Kuchta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T095000
 DTEND;TZID=Europe/Warsaw:20261217T112500
 SUMMARY:Tik (ć)
 LOCATION:09 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T114000
 DTEND;TZID=Europe/Warsaw:20261217T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T133000
 DTEND;TZID=Europe/Warsaw:20261217T150500
 SUMMARY:SŁiŚD (w)
 LOCATION:116 45
-DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Kudła
+DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zbigniew Kudła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T080000
 DTEND;TZID=Europe/Warsaw:20261218T093500
 SUMMARY:Pwd (ć)
 LOCATION:201 65
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Katarzyna Gurmińska
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T095000
 DTEND;TZID=Europe/Warsaw:20261218T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T114000
 DTEND;TZID=Europe/Warsaw:20261218T131500
 SUMMARY:Sm (L)
 LOCATION:219 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T133000
 DTEND;TZID=Europe/Warsaw:20261218T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T160000
 DTEND;TZID=Europe/Warsaw:20261218T173500
 SUMMARY:PO (ć)
 LOCATION:316 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T080000
 DTEND;TZID=Europe/Warsaw:20261219T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T080000
+DTEND;TZID=Europe/Warsaw:20261221T093500
+SUMMARY:Aok (L)
+LOCATION:237 S
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T095000
 DTEND;TZID=Europe/Warsaw:20261221T112500
 SUMMARY:Aok (L)
 LOCATION:237 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T114000
+DTEND;TZID=Europe/Warsaw:20261221T131500
+SUMMARY:Pnak (L)
+LOCATION:125 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T133000
 DTEND;TZID=Europe/Warsaw:20261221T150500
 SUMMARY:Pnak (L)
 LOCATION:125 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T160000
 DTEND;TZID=Europe/Warsaw:20261221T173500
 SUMMARY:Tgs (ć)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T095000
 DTEND;TZID=Europe/Warsaw:20261222T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T114000
 DTEND;TZID=Europe/Warsaw:20261222T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 12\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T133000
 DTEND;TZID=Europe/Warsaw:20261222T150500
 SUMMARY:F2 (ć)
 LOCATION:201 65
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T095000
 DTEND;TZID=Europe/Warsaw:20261223T112500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 13\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T114000
+DTEND;TZID=Europe/Warsaw:20261223T131500
+SUMMARY:Als (L)
+LOCATION:226 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261223T133000
 DTEND;TZID=Europe/Warsaw:20261223T150500
 SUMMARY:Als (L)
 LOCATION:226 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T095000
@@ -1490,84 +1784,98 @@ DTSTART;TZID=Europe/Warsaw:20270107T114000
 DTEND;TZID=Europe/Warsaw:20270107T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Dominik Łodej
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25\nProwadzący: mgr Dominik Łodej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T080000
 DTEND;TZID=Europe/Warsaw:20270108T093500
 SUMMARY:Pwd (ć)
 LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Katarzyna Gurmińska
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T095000
 DTEND;TZID=Europe/Warsaw:20270108T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk mgr inż. Rafał Goławski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26\nProwadzący: ppłk mgr inż. Rafał Goławski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T114000
 DTEND;TZID=Europe/Warsaw:20270108T131500
 SUMMARY:Sm (L)
 LOCATION:219 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T133000
 DTEND;TZID=Europe/Warsaw:20270108T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T080000
 DTEND;TZID=Europe/Warsaw:20270109T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T080000
+DTEND;TZID=Europe/Warsaw:20270111T093500
+SUMMARY:ppk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T095000
 DTEND;TZID=Europe/Warsaw:20270111T112500
 SUMMARY:ppk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T080000
 DTEND;TZID=Europe/Warsaw:20270112T093500
 SUMMARY:F2 (L)
 LOCATION:139 S 141 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Waldemar Larkowski; dr inż. Zbigniew Krajewski; dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T095000
 DTEND;TZID=Europe/Warsaw:20270112T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T114000
 DTEND;TZID=Europe/Warsaw:20270112T131500
 SUMMARY:Tik (ć)
 LOCATION:09 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T095000
+DTEND;TZID=Europe/Warsaw:20270113T112500
+SUMMARY:Als (L)
+LOCATION:228 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270113T114000
 DTEND;TZID=Europe/Warsaw:20270113T131500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T133000
 DTEND;TZID=Europe/Warsaw:20270113T150500
 SUMMARY:Tgs (ć)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T080000
@@ -1581,209 +1889,251 @@ DTSTART;TZID=Europe/Warsaw:20270114T114000
 DTEND;TZID=Europe/Warsaw:20270114T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Dominik Łodej
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27\nProwadzący: mgr Dominik Łodej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T080000
 DTEND;TZID=Europe/Warsaw:20270115T093500
 SUMMARY:Pwd (ć)
 LOCATION:201 65
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Katarzyna Gurmińska
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T095000
 DTEND;TZID=Europe/Warsaw:20270115T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T133000
 DTEND;TZID=Europe/Warsaw:20270115T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T160000
 DTEND;TZID=Europe/Warsaw:20270115T173500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Paweł Moszczyński
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T080000
 DTEND;TZID=Europe/Warsaw:20270116T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T095000
 DTEND;TZID=Europe/Warsaw:20270118T112500
 SUMMARY:Tgs (ć)
 LOCATION:309 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T095000
 DTEND;TZID=Europe/Warsaw:20270119T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T114000
 DTEND;TZID=Europe/Warsaw:20270119T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 14\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T080000
+DTEND;TZID=Europe/Warsaw:20270120T093500
+SUMMARY:Aok (L)
+LOCATION:237 S
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270120T095000
 DTEND;TZID=Europe/Warsaw:20270120T112500
 SUMMARY:Aok (L)
 LOCATION:237 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T114000
 DTEND;TZID=Europe/Warsaw:20270120T131500
 SUMMARY:Pwd (ć)
 LOCATION:203 65
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Katarzyna Gurmińska
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T080000
+DTEND;TZID=Europe/Warsaw:20270121T093500
+SUMMARY:TA (ć)
+LOCATION:PĆT1
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. mgr Stanisław Ślusakowicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270121T095000
 DTEND;TZID=Europe/Warsaw:20270121T112500
 SUMMARY:TA (ć)
 LOCATION:PĆT1
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: kpt. mgr Stanisław Ślusakowicz
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: kpt. mgr Stanisław Ślusakowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T095000
 DTEND;TZID=Europe/Warsaw:20270122T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T114000
 DTEND;TZID=Europe/Warsaw:20270122T131500
 SUMMARY:F2 (ć)
 LOCATION:101 65
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T133000
 DTEND;TZID=Europe/Warsaw:20270122T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T080000
 DTEND;TZID=Europe/Warsaw:20270123T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T080000
 DTEND;TZID=Europe/Warsaw:20270126T093500
 SUMMARY:Als (L)
 LOCATION:223 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T095000
 DTEND;TZID=Europe/Warsaw:20270126T112500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T114000
 DTEND;TZID=Europe/Warsaw:20270126T131500
 SUMMARY:F2 (w)
 LOCATION:314 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 15\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T160000
+DTEND;TZID=Europe/Warsaw:20270126T173500
+SUMMARY:ppk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270126T175000
 DTEND;TZID=Europe/Warsaw:20270126T192500
 SUMMARY:ppk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T080000
 DTEND;TZID=Europe/Warsaw:20270127T093500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T095000
 DTEND;TZID=Europe/Warsaw:20270127T112500
 SUMMARY:Sm (w)
 LOCATION:314 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T114000
+DTEND;TZID=Europe/Warsaw:20270127T131500
+SUMMARY:Aok (L)
+LOCATION:237 S
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270127T133000
 DTEND;TZID=Europe/Warsaw:20270127T150500
 SUMMARY:Aok (L)
 LOCATION:237 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T080000
-DTEND;TZID=Europe/Warsaw:20270128T131500
+DTEND;TZID=Europe/Warsaw:20270128T093500
 SUMMARY:SŁiŚD (ć)
 LOCATION:6 47 5 47 24 47 23 47
 DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Waldemar Grabiec; dr inż. Tomasz Orżanowski; dr inż. Tadeusz Drozd; dr inż. Zbigniew Kudła
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270128T095000
+DTEND;TZID=Europe/Warsaw:20270128T112500
+SUMMARY:SŁiŚD (ć)
+LOCATION:6 47 5 47 24 47 23 47
+DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Waldemar Grabiec; dr inż. Tomasz Orżanowski; dr inż. Tadeusz Drozd; dr inż. Zbigniew Kudła
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270128T114000
+DTEND;TZID=Europe/Warsaw:20270128T131500
+SUMMARY:SŁiŚD (ć)
+LOCATION:6 47 5 47 24 47 23 47
+DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Waldemar Grabiec; dr inż. Tomasz Orżanowski; dr inż. Tadeusz Drozd; dr inż. Zbigniew Kudła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T133000
 DTEND;TZID=Europe/Warsaw:20270128T150500
 SUMMARY:Pwd (ć)
 LOCATION:201 65
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Katarzyna Gurmińska
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T160000
 DTEND;TZID=Europe/Warsaw:20270128T173500
 SUMMARY:Tgs (ć)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T080000
 DTEND;TZID=Europe/Warsaw:20270129T093500
 SUMMARY:PO (ć)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Paweł Moszczyński
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T095000
 DTEND;TZID=Europe/Warsaw:20270129T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Karolina Czarkowska
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30\nProwadzący: mgr Karolina Czarkowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T114000
 DTEND;TZID=Europe/Warsaw:20270129T131500
 SUMMARY:F2 (ć)
 LOCATION:201 65
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Robert Ciupa
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: dr inż. Robert Ciupa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T133000
 DTEND;TZID=Europe/Warsaw:20270129T150500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30
 END:VEVENT
 END:VCALENDAR

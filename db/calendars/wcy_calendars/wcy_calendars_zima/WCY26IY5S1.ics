@@ -27,21 +27,28 @@ DTSTART;TZID=Europe/Warsaw:20261001T114000
 DTEND;TZID=Europe/Warsaw:20261001T131500
 SUMMARY:PGI (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Janusz Torzewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T133000
 DTEND;TZID=Europe/Warsaw:20261001T150500
 SUMMARY:MD1 (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T080000
-DTEND;TZID=Europe/Warsaw:20261002T112500
+DTEND;TZID=Europe/Warsaw:20261002T093500
 SUMMARY:WdI (w)
 LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261002T095000
+DTEND;TZID=Europe/Warsaw:20261002T112500
+SUMMARY:WdI (w)
+LOCATION:317 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T080000
@@ -55,21 +62,28 @@ DTSTART;TZID=Europe/Warsaw:20261006T080000
 DTEND;TZID=Europe/Warsaw:20261006T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T114000
 DTEND;TZID=Europe/Warsaw:20261006T131500
 SUMMARY:PGI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Janusz Torzewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T114000
+DTEND;TZID=Europe/Warsaw:20261007T131500
+SUMMARY:Inauguracja WCY (s)
+LOCATION:
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1\nProwadzący: ... ... ...
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261007T133000
 DTEND;TZID=Europe/Warsaw:20261007T150500
 SUMMARY:Inauguracja WCY (s)
 LOCATION:
-DESCRIPTION:Inauguracja WCY\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 3\nProwadzący: ... ... ...
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 2\nProwadzący: ... ... ...
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T080000
@@ -83,49 +97,49 @@ DTSTART;TZID=Europe/Warsaw:20261008T095000
 DTEND;TZID=Europe/Warsaw:20261008T112500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T114000
 DTEND;TZID=Europe/Warsaw:20261008T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T133000
 DTEND;TZID=Europe/Warsaw:20261008T150500
 SUMMARY:MD1 (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T160000
 DTEND;TZID=Europe/Warsaw:20261008T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T175000
 DTEND;TZID=Europe/Warsaw:20261008T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T080000
 DTEND;TZID=Europe/Warsaw:20261009T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T095000
 DTEND;TZID=Europe/Warsaw:20261009T112500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T114000
@@ -139,14 +153,14 @@ DTSTART;TZID=Europe/Warsaw:20261009T133000
 DTEND;TZID=Europe/Warsaw:20261009T150500
 SUMMARY:WDM (w)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Zarański
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T080000
 DTEND;TZID=Europe/Warsaw:20261012T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T095000
@@ -160,28 +174,28 @@ DTSTART;TZID=Europe/Warsaw:20261013T114000
 DTEND;TZID=Europe/Warsaw:20261013T131500
 SUMMARY:WdS (w)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261014T095000
 DTEND;TZID=Europe/Warsaw:20261014T112500
 SUMMARY:MD1 (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261014T114000
 DTEND;TZID=Europe/Warsaw:20261014T131500
 SUMMARY:WDM (w)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Zarański
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T080000
 DTEND;TZID=Europe/Warsaw:20261015T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T095000
@@ -195,49 +209,56 @@ DTSTART;TZID=Europe/Warsaw:20261015T114000
 DTEND;TZID=Europe/Warsaw:20261015T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T133000
 DTEND;TZID=Europe/Warsaw:20261015T150500
 SUMMARY:PGI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Janusz Torzewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T160000
 DTEND;TZID=Europe/Warsaw:20261015T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T175000
 DTEND;TZID=Europe/Warsaw:20261015T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T080000
+DTEND;TZID=Europe/Warsaw:20261016T093500
+SUMMARY:WdI (w)
+LOCATION:317 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261016T095000
 DTEND;TZID=Europe/Warsaw:20261016T112500
 SUMMARY:WdI (w)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T133000
 DTEND;TZID=Europe/Warsaw:20261016T150500
 SUMMARY:MD1 (ć)
 LOCATION:308 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Anna  Cichocka
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T114000
 DTEND;TZID=Europe/Warsaw:20261019T131500
 SUMMARY:PGI (ć)
 LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: kpt. mgr inż. Marcin Dejewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: kpt. mgr inż. Marcin Dejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T133000
@@ -251,7 +272,7 @@ DTSTART;TZID=Europe/Warsaw:20261020T080000
 DTEND;TZID=Europe/Warsaw:20261020T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T114000
@@ -265,21 +286,21 @@ DTSTART;TZID=Europe/Warsaw:20261021T133000
 DTEND;TZID=Europe/Warsaw:20261021T150500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T080000
 DTEND;TZID=Europe/Warsaw:20261022T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T095000
 DTEND;TZID=Europe/Warsaw:20261022T112500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T114000
@@ -300,154 +321,161 @@ DTSTART;TZID=Europe/Warsaw:20261022T160000
 DTEND;TZID=Europe/Warsaw:20261022T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T175000
 DTEND;TZID=Europe/Warsaw:20261022T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T095000
 DTEND;TZID=Europe/Warsaw:20261023T112500
 SUMMARY:WDM (w)
 LOCATION:314 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T133000
 DTEND;TZID=Europe/Warsaw:20261023T150500
 SUMMARY:PGI (ć)
 LOCATION:29/ 54 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Karol Kończalski; kpt. mgr inż. Marcin Dejewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Karol Kończalski; kpt. mgr inż. Marcin Dejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T160000
 DTEND;TZID=Europe/Warsaw:20261023T173500
 SUMMARY:PGI (ć)
 LOCATION:29/ 54 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Karol Kończalski; kpt. mgr inż. Marcin Dejewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Karol Kończalski; kpt. mgr inż. Marcin Dejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T080000
 DTEND;TZID=Europe/Warsaw:20261026T093500
 SUMMARY:PGI (ć)
 LOCATION:29/ 54 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Karol Kończalski; kpt. mgr inż. Marcin Dejewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Karol Kończalski; kpt. mgr inż. Marcin Dejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T095000
 DTEND;TZID=Europe/Warsaw:20261026T112500
 SUMMARY:Owi (w)
 LOCATION:313 S
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Rybiński
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T133000
 DTEND;TZID=Europe/Warsaw:20261026T150500
 SUMMARY:MD1 (w)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T160000
 DTEND;TZID=Europe/Warsaw:20261026T173500
 SUMMARY:WdI (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T080000
 DTEND;TZID=Europe/Warsaw:20261027T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T080000
 DTEND;TZID=Europe/Warsaw:20261029T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T095000
 DTEND;TZID=Europe/Warsaw:20261029T112500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T114000
 DTEND;TZID=Europe/Warsaw:20261029T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T133000
 DTEND;TZID=Europe/Warsaw:20261029T150500
 SUMMARY:PGI (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Janusz Torzewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T160000
 DTEND;TZID=Europe/Warsaw:20261029T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T175000
 DTEND;TZID=Europe/Warsaw:20261029T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T080000
 DTEND;TZID=Europe/Warsaw:20261030T093500
 SUMMARY:WdI (w)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T095000
 DTEND;TZID=Europe/Warsaw:20261030T112500
 SUMMARY:WDM (w)
 LOCATION:313 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T160000
+DTEND;TZID=Europe/Warsaw:20261030T173500
+SUMMARY:Wzp (w)
+LOCATION:313 S
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Kobielski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261030T175000
 DTEND;TZID=Europe/Warsaw:20261030T192500
 SUMMARY:Wzp (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Piotr Kobielski
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T114000
 DTEND;TZID=Europe/Warsaw:20261102T131500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T133000
 DTEND;TZID=Europe/Warsaw:20261102T150500
 SUMMARY:MD1 (w)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T080000
 DTEND;TZID=Europe/Warsaw:20261103T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T095000
@@ -461,42 +489,42 @@ DTSTART;TZID=Europe/Warsaw:20261103T114000
 DTEND;TZID=Europe/Warsaw:20261103T131500
 SUMMARY:PGI (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: kpt. mgr inż. Marcin Dejewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: kpt. mgr inż. Marcin Dejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T160000
 DTEND;TZID=Europe/Warsaw:20261103T173500
 SUMMARY:SoKW (s)
 LOCATION:314 S
-DESCRIPTION:Spotkanie organizacyjne z kierownictwem Wydziału\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 5\nProwadzący: mgr inż. Adam Kutyła; dr Joanna Piasecka
+DESCRIPTION:Spotkanie organizacyjne z kierownictwem Wydziału\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1\nProwadzący: mgr inż. Adam Kutyła; dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T080000
 DTEND;TZID=Europe/Warsaw:20261105T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T095000
 DTEND;TZID=Europe/Warsaw:20261105T112500
 SUMMARY:PGI (ć)
 LOCATION:204 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. mgr inż. Marcin Dejewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: kpt. mgr inż. Marcin Dejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T114000
 DTEND;TZID=Europe/Warsaw:20261105T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T133000
 DTEND;TZID=Europe/Warsaw:20261105T150500
 SUMMARY:PGI (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Janusz Torzewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T160000
@@ -510,105 +538,112 @@ DTSTART;TZID=Europe/Warsaw:20261105T175000
 DTEND;TZID=Europe/Warsaw:20261105T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T080000
 DTEND;TZID=Europe/Warsaw:20261106T093500
 SUMMARY:WdI (w)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T095000
 DTEND;TZID=Europe/Warsaw:20261106T112500
 SUMMARY:WDM (w)
 LOCATION:314 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T114000
 DTEND;TZID=Europe/Warsaw:20261109T131500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T133000
 DTEND;TZID=Europe/Warsaw:20261109T150500
 SUMMARY:MD1 (w)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T160000
+DTEND;TZID=Europe/Warsaw:20261109T173500
+SUMMARY:WdI (L)
+LOCATION:223 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T175000
 DTEND;TZID=Europe/Warsaw:20261109T192500
 SUMMARY:WdI (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T080000
 DTEND;TZID=Europe/Warsaw:20261110T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
 DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:MD1 (ć)
 LOCATION:223 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Anna  Cichocka
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T114000
 DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:Owi (w)
 LOCATION:316 S
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Rybiński
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T133000
 DTEND;TZID=Europe/Warsaw:20261110T150500
 SUMMARY:WdS (w)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T080000
 DTEND;TZID=Europe/Warsaw:20261112T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T095000
 DTEND;TZID=Europe/Warsaw:20261112T112500
 SUMMARY:PGI (ć)
 LOCATION:204 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. mgr inż. Marcin Dejewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: kpt. mgr inż. Marcin Dejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T114000
 DTEND;TZID=Europe/Warsaw:20261112T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T133000
 DTEND;TZID=Europe/Warsaw:20261112T150500
 SUMMARY:PGI (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Janusz Torzewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Janusz Torzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T160000
 DTEND;TZID=Europe/Warsaw:20261112T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T175000
@@ -622,31 +657,45 @@ DTSTART;TZID=Europe/Warsaw:20261113T080000
 DTEND;TZID=Europe/Warsaw:20261113T093500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T095000
 DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:WDM (w)
 LOCATION:313 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T160000
+DTEND;TZID=Europe/Warsaw:20261113T173500
+SUMMARY:Wzp (w)
+LOCATION:316 S
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Piotr Kobielski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T175000
 DTEND;TZID=Europe/Warsaw:20261113T192500
 SUMMARY:Wzp (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Piotr Kobielski
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T133000
 DTEND;TZID=Europe/Warsaw:20261116T150500
 SUMMARY:MD1 (w)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T160000
+DTEND;TZID=Europe/Warsaw:20261116T173500
+SUMMARY:WdI (L)
+LOCATION:223 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T175000
 DTEND;TZID=Europe/Warsaw:20261116T192500
 SUMMARY:WdI (L)
 LOCATION:223 S
@@ -657,7 +706,7 @@ DTSTART;TZID=Europe/Warsaw:20261117T095000
 DTEND;TZID=Europe/Warsaw:20261117T112500
 SUMMARY:WDM (ć)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Justyna Łukasiewicz
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T114000
@@ -668,234 +717,248 @@ DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer 
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T080000
+DTEND;TZID=Europe/Warsaw:20261118T093500
+SUMMARY:Wzp (w)
+LOCATION:317 S
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Piotr Kobielski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261118T095000
 DTEND;TZID=Europe/Warsaw:20261118T112500
 SUMMARY:Wzp (w)
 LOCATION:317 S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Kobielski
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T080000
 DTEND;TZID=Europe/Warsaw:20261119T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T114000
 DTEND;TZID=Europe/Warsaw:20261119T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T133000
 DTEND;TZID=Europe/Warsaw:20261119T150500
 SUMMARY:WDM (w)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Zarański
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T160000
 DTEND;TZID=Europe/Warsaw:20261119T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T175000
 DTEND;TZID=Europe/Warsaw:20261119T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T080000
 DTEND;TZID=Europe/Warsaw:20261120T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T133000
 DTEND;TZID=Europe/Warsaw:20261120T150500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T080000
 DTEND;TZID=Europe/Warsaw:20261123T093500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T095000
 DTEND;TZID=Europe/Warsaw:20261123T112500
 SUMMARY:Owi (w)
 LOCATION:313 S
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Rybiński
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T114000
 DTEND;TZID=Europe/Warsaw:20261123T131500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T080000
 DTEND;TZID=Europe/Warsaw:20261124T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T114000
 DTEND;TZID=Europe/Warsaw:20261124T131500
 SUMMARY:WDM (ć)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Justyna Łukasiewicz
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T080000
 DTEND;TZID=Europe/Warsaw:20261126T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T095000
 DTEND;TZID=Europe/Warsaw:20261126T112500
 SUMMARY:WDM (w)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Zarański
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T114000
 DTEND;TZID=Europe/Warsaw:20261126T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T133000
 DTEND;TZID=Europe/Warsaw:20261126T150500
 SUMMARY:WdS (w)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T160000
 DTEND;TZID=Europe/Warsaw:20261126T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T175000
 DTEND;TZID=Europe/Warsaw:20261126T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T080000
 DTEND;TZID=Europe/Warsaw:20261130T093500
 SUMMARY:MD1 (ć)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T095000
 DTEND;TZID=Europe/Warsaw:20261130T112500
 SUMMARY:Owi (w)
 LOCATION:317 S
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Janusz Rybiński
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T114000
 DTEND;TZID=Europe/Warsaw:20261130T131500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T133000
 DTEND;TZID=Europe/Warsaw:20261130T150500
 SUMMARY:Owi (w)
 LOCATION:314 S
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Janusz Rybiński
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T114000
 DTEND;TZID=Europe/Warsaw:20261201T131500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 11\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T133000
 DTEND;TZID=Europe/Warsaw:20261201T150500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T160000
+DTEND;TZID=Europe/Warsaw:20261202T173500
+SUMMARY:WdI (L)
+LOCATION:224 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T175000
 DTEND;TZID=Europe/Warsaw:20261202T192500
 SUMMARY:WdI (L)
 LOCATION:224 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T080000
 DTEND;TZID=Europe/Warsaw:20261203T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T095000
 DTEND;TZID=Europe/Warsaw:20261203T112500
 SUMMARY:PGI (ć)
 LOCATION:203 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. mgr inż. Marcin Dejewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: kpt. mgr inż. Marcin Dejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T114000
 DTEND;TZID=Europe/Warsaw:20261203T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T133000
 DTEND;TZID=Europe/Warsaw:20261203T150500
 SUMMARY:WDM (w)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Zarański
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr inż. Zbigniew Zarański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T160000
 DTEND;TZID=Europe/Warsaw:20261203T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T175000
 DTEND;TZID=Europe/Warsaw:20261203T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T080000
 DTEND;TZID=Europe/Warsaw:20261204T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 12\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T114000
@@ -909,35 +972,42 @@ DTSTART;TZID=Europe/Warsaw:20261207T114000
 DTEND;TZID=Europe/Warsaw:20261207T131500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T133000
 DTEND;TZID=Europe/Warsaw:20261207T150500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T080000
 DTEND;TZID=Europe/Warsaw:20261208T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 13\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T080000
-DTEND;TZID=Europe/Warsaw:20261209T112500
+DTEND;TZID=Europe/Warsaw:20261209T093500
 SUMMARY:Ez (w)
 LOCATION:317 S
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Krzysztof Sołoducha
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T095000
+DTEND;TZID=Europe/Warsaw:20261209T112500
+SUMMARY:Ez (w)
+LOCATION:317 S
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T114000
 DTEND;TZID=Europe/Warsaw:20261209T131500
 SUMMARY:Owi (ć)
 LOCATION:307 S
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr hab. Janusz Rybiński
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T133000
@@ -951,496 +1021,531 @@ DTSTART;TZID=Europe/Warsaw:20261210T080000
 DTEND;TZID=Europe/Warsaw:20261210T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T095000
 DTEND;TZID=Europe/Warsaw:20261210T112500
 SUMMARY:PGI (ć)
 LOCATION:203 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. mgr inż. Marcin Dejewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: kpt. mgr inż. Marcin Dejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T114000
 DTEND;TZID=Europe/Warsaw:20261210T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T133000
 DTEND;TZID=Europe/Warsaw:20261210T150500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T160000
 DTEND;TZID=Europe/Warsaw:20261210T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T175000
 DTEND;TZID=Europe/Warsaw:20261210T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T080000
 DTEND;TZID=Europe/Warsaw:20261211T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 14\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T095000
 DTEND;TZID=Europe/Warsaw:20261214T112500
 SUMMARY:MD1 (ć)
 LOCATION:316 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Anna  Cichocka
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T114000
 DTEND;TZID=Europe/Warsaw:20261214T131500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T133000
 DTEND;TZID=Europe/Warsaw:20261214T150500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T095000
 DTEND;TZID=Europe/Warsaw:20261215T112500
 SUMMARY:WDM (ć)
 LOCATION:313 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Justyna Łukasiewicz
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T114000
+DTEND;TZID=Europe/Warsaw:20261215T131500
+SUMMARY:WdI (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261215T133000
 DTEND;TZID=Europe/Warsaw:20261215T150500
 SUMMARY:WdI (L)
 LOCATION:233 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T080000
+DTEND;TZID=Europe/Warsaw:20261216T093500
+SUMMARY:Ez (w)
+LOCATION:317 S
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Krzysztof Sołoducha
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261216T095000
 DTEND;TZID=Europe/Warsaw:20261216T112500
 SUMMARY:Ez (w)
 LOCATION:317 S
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Krzysztof Sołoducha
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T080000
 DTEND;TZID=Europe/Warsaw:20261217T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 11\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T095000
 DTEND;TZID=Europe/Warsaw:20261217T112500
 SUMMARY:PGI (ć)
 LOCATION:203 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. mgr inż. Marcin Dejewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: kpt. mgr inż. Marcin Dejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T114000
 DTEND;TZID=Europe/Warsaw:20261217T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T133000
 DTEND;TZID=Europe/Warsaw:20261217T150500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T160000
 DTEND;TZID=Europe/Warsaw:20261217T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T175000
 DTEND;TZID=Europe/Warsaw:20261217T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T080000
 DTEND;TZID=Europe/Warsaw:20261218T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 15\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T080000
 DTEND;TZID=Europe/Warsaw:20261221T093500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T095000
 DTEND;TZID=Europe/Warsaw:20261221T112500
 SUMMARY:MD1 (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Anna  Cichocka
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T080000
 DTEND;TZID=Europe/Warsaw:20261222T093500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 16\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T080000
+DTEND;TZID=Europe/Warsaw:20261223T093500
+SUMMARY:Ez (w)
+LOCATION:317 S
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Krzysztof Sołoducha
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261223T095000
 DTEND;TZID=Europe/Warsaw:20261223T112500
 SUMMARY:Ez (w)
 LOCATION:317 S
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Krzysztof Sołoducha
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T133000
 DTEND;TZID=Europe/Warsaw:20261223T150500
 SUMMARY:WDM (ć)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Justyna Łukasiewicz
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T080000
 DTEND;TZID=Europe/Warsaw:20270107T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 12\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T095000
 DTEND;TZID=Europe/Warsaw:20270107T112500
 SUMMARY:Ez (w)
 LOCATION:316 S
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Krzysztof Sołoducha
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T114000
 DTEND;TZID=Europe/Warsaw:20270107T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T133000
 DTEND;TZID=Europe/Warsaw:20270107T150500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T160000
 DTEND;TZID=Europe/Warsaw:20270107T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T175000
 DTEND;TZID=Europe/Warsaw:20270107T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T114000
 DTEND;TZID=Europe/Warsaw:20270108T131500
 SUMMARY:WDM (ć)
 LOCATION:314 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Justyna Łukasiewicz
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T095000
 DTEND;TZID=Europe/Warsaw:20270112T112500
 SUMMARY:WDM (ć)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Justyna Łukasiewicz
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T114000
 DTEND;TZID=Europe/Warsaw:20270112T131500
 SUMMARY:Matematyka II (w)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T160000
 DTEND;TZID=Europe/Warsaw:20270112T173500
 SUMMARY:Ez (ć)
 LOCATION:317 S
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr hab. Krzysztof Sołoducha
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T080000
-DTEND;TZID=Europe/Warsaw:20270113T112500
+DTEND;TZID=Europe/Warsaw:20270113T093500
 SUMMARY:Wzp (ć)
 LOCATION:316 S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Piotr Kobielski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270113T095000
+DTEND;TZID=Europe/Warsaw:20270113T112500
+SUMMARY:Wzp (ć)
+LOCATION:316 S
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T114000
 DTEND;TZID=Europe/Warsaw:20270113T131500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T133000
 DTEND;TZID=Europe/Warsaw:20270113T150500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T080000
 DTEND;TZID=Europe/Warsaw:20270114T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 13\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T095000
 DTEND;TZID=Europe/Warsaw:20270114T112500
 SUMMARY:PGI (ć)
 LOCATION:201 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. mgr inż. Marcin Dejewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: kpt. mgr inż. Marcin Dejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T114000
 DTEND;TZID=Europe/Warsaw:20270114T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T133000
 DTEND;TZID=Europe/Warsaw:20270114T150500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T160000
 DTEND;TZID=Europe/Warsaw:20270114T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T175000
 DTEND;TZID=Europe/Warsaw:20270114T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T114000
 DTEND;TZID=Europe/Warsaw:20270115T131500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T133000
 DTEND;TZID=Europe/Warsaw:20270115T150500
 SUMMARY:MD1 (ć)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Anna  Cichocka
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T133000
 DTEND;TZID=Europe/Warsaw:20270118T150500
 SUMMARY:MD1 (Zp)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: zal popr\nNumer zajęć: 4\nProwadzący: mgr inż. Anna  Cichocka
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: mgr inż. Anna  Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T114000
 DTEND;TZID=Europe/Warsaw:20270119T131500
 SUMMARY:WDM (ć)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Justyna Łukasiewicz
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T133000
 DTEND;TZID=Europe/Warsaw:20270119T150500
 SUMMARY:Ez (ć)
 LOCATION:317 S
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. Krzysztof Sołoducha
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. Krzysztof Sołoducha
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T080000
+DTEND;TZID=Europe/Warsaw:20270120T093500
+SUMMARY:WdI (L)
+LOCATION:236 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270120T095000
 DTEND;TZID=Europe/Warsaw:20270120T112500
 SUMMARY:WdI (L)
 LOCATION:236 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T114000
 DTEND;TZID=Europe/Warsaw:20270120T131500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T133000
 DTEND;TZID=Europe/Warsaw:20270120T150500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T080000
 DTEND;TZID=Europe/Warsaw:20270121T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 14\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T095000
 DTEND;TZID=Europe/Warsaw:20270121T112500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T114000
 DTEND;TZID=Europe/Warsaw:20270121T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T133000
 DTEND;TZID=Europe/Warsaw:20270121T150500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T160000
 DTEND;TZID=Europe/Warsaw:20270121T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T175000
 DTEND;TZID=Europe/Warsaw:20270121T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T114000
 DTEND;TZID=Europe/Warsaw:20270122T131500
 SUMMARY:MD1 (Zal)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Zaliczenie\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Zaliczenie\nNumer zajęć: 1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T160000
 DTEND;TZID=Europe/Warsaw:20270125T173500
 SUMMARY:Wzp (w)
 LOCATION:314 S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Piotr Kobielski
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr Piotr Kobielski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T114000
 DTEND;TZID=Europe/Warsaw:20270126T131500
 SUMMARY:WDM (ć)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Justyna Łukasiewicz
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T114000
 DTEND;TZID=Europe/Warsaw:20270127T131500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T133000
 DTEND;TZID=Europe/Warsaw:20270127T150500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T080000
 DTEND;TZID=Europe/Warsaw:20270128T093500
 SUMMARY:Matematyka I (w)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 15\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T095000
 DTEND;TZID=Europe/Warsaw:20270128T112500
 SUMMARY:PGI (ć)
 LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: kpt. mgr inż. Marcin Dejewski
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: kpt. mgr inż. Marcin Dejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T114000
 DTEND;TZID=Europe/Warsaw:20270128T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Aneta Klemarczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mgr Aneta Klemarczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T133000
 DTEND;TZID=Europe/Warsaw:20270128T150500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T160000
 DTEND;TZID=Europe/Warsaw:20270128T173500
 SUMMARY:JoM (ć)
 LOCATION:230 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T175000
 DTEND;TZID=Europe/Warsaw:20270128T192500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T080000
 DTEND;TZID=Europe/Warsaw:20270129T093500
 SUMMARY:WdI (w)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T133000
 DTEND;TZID=Europe/Warsaw:20270129T150500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 END:VCALENDAR

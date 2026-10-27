@@ -27,7 +27,7 @@ DTSTART;TZID=Europe/Warsaw:20260928T095000
 DTEND;TZID=Europe/Warsaw:20260928T112500
 SUMMARY:Rou (Ep)
 LOCATION:307 S
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260929T080000
@@ -41,7 +41,7 @@ DTSTART;TZID=Europe/Warsaw:20260929T095000
 DTEND;TZID=Europe/Warsaw:20260929T112500
 SUMMARY:Pap (Zp)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: zal popr\nNumer zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260930T080000
@@ -55,21 +55,21 @@ DTSTART;TZID=Europe/Warsaw:20260930T114000
 DTEND;TZID=Europe/Warsaw:20260930T131500
 SUMMARY:PZS (Ep)
 LOCATION:125 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260930T133000
 DTEND;TZID=Europe/Warsaw:20260930T150500
 SUMMARY:PZS (Zp)
 LOCATION:125 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: zal popr\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T095000
 DTEND;TZID=Europe/Warsaw:20261001T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T080000
@@ -83,7 +83,7 @@ DTSTART;TZID=Europe/Warsaw:20261002T095000
 DTEND;TZID=Europe/Warsaw:20261002T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T080000
@@ -97,42 +97,49 @@ DTSTART;TZID=Europe/Warsaw:20261005T114000
 DTEND;TZID=Europe/Warsaw:20261005T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T133000
 DTEND;TZID=Europe/Warsaw:20261005T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T160000
+DTEND;TZID=Europe/Warsaw:20261005T173500
+SUMMARY:MAST (w)
+LOCATION:316 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261005T175000
 DTEND;TZID=Europe/Warsaw:20261005T192500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T114000
 DTEND;TZID=Europe/Warsaw:20261006T131500
 SUMMARY:Ppz (w)
 LOCATION:203 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T133000
 DTEND;TZID=Europe/Warsaw:20261006T150500
 SUMMARY:Sbs (w)
 LOCATION:203 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Świerczynski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T160000
 DTEND;TZID=Europe/Warsaw:20261006T173500
 SUMMARY:Sib (w)
 LOCATION:203 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T080000
@@ -146,28 +153,28 @@ DTSTART;TZID=Europe/Warsaw:20261007T095000
 DTEND;TZID=Europe/Warsaw:20261007T112500
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T095000
 DTEND;TZID=Europe/Warsaw:20261008T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T114000
 DTEND;TZID=Europe/Warsaw:20261008T131500
 SUMMARY:TsT (w)
 LOCATION:201 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T160000
 DTEND;TZID=Europe/Warsaw:20261008T173500
 SUMMARY:TsT (P)
 LOCATION:120 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T080000
@@ -181,49 +188,49 @@ DTSTART;TZID=Europe/Warsaw:20261009T095000
 DTEND;TZID=Europe/Warsaw:20261009T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T133000
 DTEND;TZID=Europe/Warsaw:20261009T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(KSP)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261009T160000
 DTEND;TZID=Europe/Warsaw:20261009T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(KSP)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T080000
 DTEND;TZID=Europe/Warsaw:20261010T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T080000
 DTEND;TZID=Europe/Warsaw:20261012T093500
 SUMMARY:TsT (w)
 LOCATION:205 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T095000
 DTEND;TZID=Europe/Warsaw:20261012T112500
 SUMMARY:wzbnim (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Włodzimierz Gocalski
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T114000
 DTEND;TZID=Europe/Warsaw:20261012T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T133000
@@ -237,119 +244,126 @@ DTSTART;TZID=Europe/Warsaw:20261013T080000
 DTEND;TZID=Europe/Warsaw:20261013T093500
 SUMMARY:Sib (w)
 LOCATION:203 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T095000
 DTEND;TZID=Europe/Warsaw:20261013T112500
 SUMMARY:bai (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T114000
 DTEND;TZID=Europe/Warsaw:20261013T131500
 SUMMARY:Ppz (w)
 LOCATION:203 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T133000
 DTEND;TZID=Europe/Warsaw:20261013T150500
 SUMMARY:Sbs (w)
 LOCATION:203 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Świerczynski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T080000
 DTEND;TZID=Europe/Warsaw:20261015T093500
 SUMMARY:AśW (w)
 LOCATION:203 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T095000
 DTEND;TZID=Europe/Warsaw:20261015T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T114000
 DTEND;TZID=Europe/Warsaw:20261015T131500
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T080000
 DTEND;TZID=Europe/Warsaw:20261016T093500
 SUMMARY:Sib (w)
 LOCATION:204 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T095000
 DTEND;TZID=Europe/Warsaw:20261016T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T133000
 DTEND;TZID=Europe/Warsaw:20261016T150500
 SUMMARY:bai (L)
 LOCATION:011 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T160000
 DTEND;TZID=Europe/Warsaw:20261016T173500
 SUMMARY:bai (L)
 LOCATION:011 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T080000
 DTEND;TZID=Europe/Warsaw:20261017T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T095000
 DTEND;TZID=Europe/Warsaw:20261019T112500
 SUMMARY:DWiPD (ć)
 LOCATION:308 S
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Krzysztof Klimek
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Krzysztof Klimek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T114000
 DTEND;TZID=Europe/Warsaw:20261019T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T133000
 DTEND;TZID=Europe/Warsaw:20261019T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T160000
+DTEND;TZID=Europe/Warsaw:20261019T173500
+SUMMARY:MAST (w)
+LOCATION:316 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T175000
 DTEND;TZID=Europe/Warsaw:20261019T192500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T095000
 DTEND;TZID=Europe/Warsaw:20261020T112500
 SUMMARY:Ppz (w)
 LOCATION:203 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T114000
@@ -363,21 +377,21 @@ DTSTART;TZID=Europe/Warsaw:20261021T080000
 DTEND;TZID=Europe/Warsaw:20261021T093500
 SUMMARY:AśW (w)
 LOCATION:203 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T095000
 DTEND;TZID=Europe/Warsaw:20261021T112500
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T133000
 DTEND;TZID=Europe/Warsaw:20261021T150500
 SUMMARY:TsT (w)
 LOCATION:201 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T080000
@@ -391,49 +405,56 @@ DTSTART;TZID=Europe/Warsaw:20261022T095000
 DTEND;TZID=Europe/Warsaw:20261022T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T114000
+DTEND;TZID=Europe/Warsaw:20261022T131500
+SUMMARY:AśW (L)
+LOCATION:011 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261022T133000
 DTEND;TZID=Europe/Warsaw:20261022T150500
 SUMMARY:AśW (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T080000
 DTEND;TZID=Europe/Warsaw:20261023T093500
 SUMMARY:Sib (w)
 LOCATION:204 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T095000
 DTEND;TZID=Europe/Warsaw:20261023T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T133000
 DTEND;TZID=Europe/Warsaw:20261023T150500
 SUMMARY:Sib (L)
 LOCATION:106 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T160000
 DTEND;TZID=Europe/Warsaw:20261023T173500
 SUMMARY:Sib (L)
 LOCATION:106 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T080000
 DTEND;TZID=Europe/Warsaw:20261024T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T095000
@@ -447,42 +468,56 @@ DTSTART;TZID=Europe/Warsaw:20261026T114000
 DTEND;TZID=Europe/Warsaw:20261026T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T133000
 DTEND;TZID=Europe/Warsaw:20261026T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T160000
+DTEND;TZID=Europe/Warsaw:20261026T173500
+SUMMARY:MAST (P)
+LOCATION:237 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T175000
 DTEND;TZID=Europe/Warsaw:20261026T192500
 SUMMARY:MAST (P)
 LOCATION:237 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T080000
+DTEND;TZID=Europe/Warsaw:20261027T093500
+SUMMARY:Sib (w)
+LOCATION:205 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261027T095000
 DTEND;TZID=Europe/Warsaw:20261027T112500
 SUMMARY:Sib (w)
 LOCATION:205 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T114000
 DTEND;TZID=Europe/Warsaw:20261027T131500
 SUMMARY:Sbs (w)
 LOCATION:203 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Świerczynski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T095000
 DTEND;TZID=Europe/Warsaw:20261028T112500
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T133000
@@ -496,14 +531,14 @@ DTSTART;TZID=Europe/Warsaw:20261029T095000
 DTEND;TZID=Europe/Warsaw:20261029T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T114000
 DTEND;TZID=Europe/Warsaw:20261029T131500
 SUMMARY:AśW (w)
 LOCATION:203 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T080000
@@ -517,35 +552,35 @@ DTSTART;TZID=Europe/Warsaw:20261030T095000
 DTEND;TZID=Europe/Warsaw:20261030T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T114000
 DTEND;TZID=Europe/Warsaw:20261030T131500
 SUMMARY:bai (w)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T133000
 DTEND;TZID=Europe/Warsaw:20261030T150500
 SUMMARY:bai (L)
 LOCATION:011 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T160000
 DTEND;TZID=Europe/Warsaw:20261030T173500
 SUMMARY:bai (L)
 LOCATION:011 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261031T080000
 DTEND;TZID=Europe/Warsaw:20261031T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
@@ -559,91 +594,98 @@ DTSTART;TZID=Europe/Warsaw:20261102T114000
 DTEND;TZID=Europe/Warsaw:20261102T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T133000
 DTEND;TZID=Europe/Warsaw:20261102T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T160000
-DTEND;TZID=Europe/Warsaw:20261102T192500
+DTEND;TZID=Europe/Warsaw:20261102T173500
 SUMMARY:MAST (w)
 LOCATION:316 S
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T175000
+DTEND;TZID=Europe/Warsaw:20261102T192500
+SUMMARY:MAST (w)
+LOCATION:316 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T095000
 DTEND;TZID=Europe/Warsaw:20261103T112500
 SUMMARY:Ppz (w)
 LOCATION:203 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T114000
 DTEND;TZID=Europe/Warsaw:20261103T131500
 SUMMARY:Sbs (w)
 LOCATION:203 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Świerczynski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T095000
 DTEND;TZID=Europe/Warsaw:20261104T112500
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T114000
 DTEND;TZID=Europe/Warsaw:20261104T131500
 SUMMARY:TsT (w)
 LOCATION:203 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T133000
 DTEND;TZID=Europe/Warsaw:20261104T150500
 SUMMARY:TsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T160000
 DTEND;TZID=Europe/Warsaw:20261104T173500
 SUMMARY:TsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T114000
 DTEND;TZID=Europe/Warsaw:20261105T131500
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T133000
 DTEND;TZID=Europe/Warsaw:20261105T150500
 SUMMARY:Ps (ć)
 LOCATION:204 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T080000
 DTEND;TZID=Europe/Warsaw:20261106T093500
 SUMMARY:REG (ć)
 LOCATION:AW 3/038
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T095000
 DTEND;TZID=Europe/Warsaw:20261106T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T114000
@@ -657,217 +699,238 @@ DTSTART;TZID=Europe/Warsaw:20261107T080000
 DTEND;TZID=Europe/Warsaw:20261107T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T080000
 DTEND;TZID=Europe/Warsaw:20261109T093500
 SUMMARY:TsT (w)
 LOCATION:101 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T095000
 DTEND;TZID=Europe/Warsaw:20261109T112500
 SUMMARY:wzbnim (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Włodzimierz Gocalski
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T114000
 DTEND;TZID=Europe/Warsaw:20261109T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T133000
 DTEND;TZID=Europe/Warsaw:20261109T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T160000
 DTEND;TZID=Europe/Warsaw:20261109T173500
 SUMMARY:TsT (P)
 LOCATION:120 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
 DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:bai (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T114000
 DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:Ppz (w)
 LOCATION:203 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T133000
 DTEND;TZID=Europe/Warsaw:20261110T150500
 SUMMARY:Sib (L)
 LOCATION:106 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T160000
 DTEND;TZID=Europe/Warsaw:20261110T173500
 SUMMARY:Sib (L)
 LOCATION:106 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T095000
 DTEND;TZID=Europe/Warsaw:20261112T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T114000
 DTEND;TZID=Europe/Warsaw:20261112T131500
 SUMMARY:wzbnim (ć)
 LOCATION:201 65
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Włodzimierz Gocalski
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T133000
 DTEND;TZID=Europe/Warsaw:20261112T150500
 SUMMARY:TsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T160000
 DTEND;TZID=Europe/Warsaw:20261112T173500
 SUMMARY:TsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T095000
+DTEND;TZID=Europe/Warsaw:20261113T112500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PWC3)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T114000
 DTEND;TZID=Europe/Warsaw:20261113T131500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PWC3)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T080000
 DTEND;TZID=Europe/Warsaw:20261114T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T133000
 DTEND;TZID=Europe/Warsaw:20261114T150500
 SUMMARY:kdm (Ep)
 LOCATION:106 65
-DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 4\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T080000
 DTEND;TZID=Europe/Warsaw:20261116T093500
 SUMMARY:TsT (w)
 LOCATION:201 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T095000
 DTEND;TZID=Europe/Warsaw:20261116T112500
 SUMMARY:wzbnim (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Włodzimierz Gocalski
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T114000
 DTEND;TZID=Europe/Warsaw:20261116T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T133000
 DTEND;TZID=Europe/Warsaw:20261116T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T160000
+DTEND;TZID=Europe/Warsaw:20261116T173500
+SUMMARY:MAST (L)
+LOCATION:237 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T175000
 DTEND;TZID=Europe/Warsaw:20261116T192500
 SUMMARY:MAST (L)
 LOCATION:237 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T080000
-DTEND;TZID=Europe/Warsaw:20261117T112500
+DTEND;TZID=Europe/Warsaw:20261117T093500
 SUMMARY:Ppz (L)
 LOCATION:09 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T095000
+DTEND;TZID=Europe/Warsaw:20261117T112500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T114000
 DTEND;TZID=Europe/Warsaw:20261117T131500
 SUMMARY:AśW (w)
 LOCATION:203 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T133000
 DTEND;TZID=Europe/Warsaw:20261117T150500
 SUMMARY:TsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T160000
 DTEND;TZID=Europe/Warsaw:20261117T173500
 SUMMARY:TsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T114000
 DTEND;TZID=Europe/Warsaw:20261118T131500
 SUMMARY:MPH (w)
 LOCATION:317 S
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T133000
 DTEND;TZID=Europe/Warsaw:20261118T150500
 SUMMARY:bai (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T160000
 DTEND;TZID=Europe/Warsaw:20261118T173500
 SUMMARY:bai (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T080000
 DTEND;TZID=Europe/Warsaw:20261119T093500
 SUMMARY:Ps (ć)
 LOCATION:219 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T095000
 DTEND;TZID=Europe/Warsaw:20261119T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T114000
@@ -881,175 +944,231 @@ DTSTART;TZID=Europe/Warsaw:20261119T133000
 DTEND;TZID=Europe/Warsaw:20261119T150500
 SUMMARY:AśW (w)
 LOCATION:309 S
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T095000
 DTEND;TZID=Europe/Warsaw:20261120T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T114000
+DTEND;TZID=Europe/Warsaw:20261120T131500
+SUMMARY:ZLDT-1 (ć)
+LOCATION:255 S
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: 1 - mgr inż.   Krzysztof Juniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T133000
 DTEND;TZID=Europe/Warsaw:20261120T150500
 SUMMARY:ZLDT-1 (ć)
 LOCATION:255 S
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: 1 - mgr inż.   Krzysztof Juniec
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: 1 - mgr inż.   Krzysztof Juniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T080000
 DTEND;TZID=Europe/Warsaw:20261121T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T080000
+DTEND;TZID=Europe/Warsaw:20261123T093500
+SUMMARY:AśW (L)
+LOCATION:011 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261123T095000
 DTEND;TZID=Europe/Warsaw:20261123T112500
 SUMMARY:AśW (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T114000
 DTEND;TZID=Europe/Warsaw:20261123T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T133000
 DTEND;TZID=Europe/Warsaw:20261123T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T160000
+DTEND;TZID=Europe/Warsaw:20261123T173500
+SUMMARY:MAST (L)
+LOCATION:237 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261123T175000
 DTEND;TZID=Europe/Warsaw:20261123T192500
 SUMMARY:MAST (L)
 LOCATION:237 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T095000
+DTEND;TZID=Europe/Warsaw:20261124T112500
+SUMMARY:TsT (L)
+LOCATION:121 65
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261124T114000
 DTEND;TZID=Europe/Warsaw:20261124T131500
 SUMMARY:TsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T133000
 DTEND;TZID=Europe/Warsaw:20261124T150500
 SUMMARY:bai (L)
 LOCATION:09 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T160000
 DTEND;TZID=Europe/Warsaw:20261124T173500
 SUMMARY:bai (L)
 LOCATION:09 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T080000
+DTEND;TZID=Europe/Warsaw:20261125T093500
+SUMMARY:Sib (L)
+LOCATION:011 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T095000
 DTEND;TZID=Europe/Warsaw:20261125T112500
 SUMMARY:Sib (L)
 LOCATION:011 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T114000
 DTEND;TZID=Europe/Warsaw:20261125T131500
 SUMMARY:MPH (w)
 LOCATION:314 S
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T095000
 DTEND;TZID=Europe/Warsaw:20261126T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T114000
 DTEND;TZID=Europe/Warsaw:20261126T131500
 SUMMARY:MPH (ć)
 LOCATION:203 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T160000
 DTEND;TZID=Europe/Warsaw:20261126T173500
 SUMMARY:AśW (w)
 LOCATION:203 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261128T080000
 DTEND;TZID=Europe/Warsaw:20261128T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T080000
 DTEND;TZID=Europe/Warsaw:20261130T093500
 SUMMARY:Ps (ć)
 LOCATION:204 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T095000
 DTEND;TZID=Europe/Warsaw:20261130T112500
 SUMMARY:DWiPD (ć)
 LOCATION:308 S
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Krzysztof Klimek
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Krzysztof Klimek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T114000
 DTEND;TZID=Europe/Warsaw:20261130T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T133000
 DTEND;TZID=Europe/Warsaw:20261130T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T175000
 DTEND;TZID=Europe/Warsaw:20261130T192500
 SUMMARY:MAST (P)
 LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T080000
+DTEND;TZID=Europe/Warsaw:20261201T093500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261201T095000
 DTEND;TZID=Europe/Warsaw:20261201T112500
 SUMMARY:Ppz (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Paweł Głębocki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T114000
+DTEND;TZID=Europe/Warsaw:20261201T131500
+SUMMARY:TsT (L)
+LOCATION:121 65
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261201T133000
 DTEND;TZID=Europe/Warsaw:20261201T150500
 SUMMARY:TsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T080000
-DTEND;TZID=Europe/Warsaw:20261202T112500
+DTEND;TZID=Europe/Warsaw:20261202T093500
 SUMMARY:Sbs (L)
 LOCATION:121 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T095000
+DTEND;TZID=Europe/Warsaw:20261202T112500
+SUMMARY:Sbs (L)
+LOCATION:121 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T114000
@@ -1060,115 +1179,157 @@ DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zaj�
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T160000
+DTEND;TZID=Europe/Warsaw:20261202T173500
+SUMMARY:bai (L)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T175000
 DTEND;TZID=Europe/Warsaw:20261202T192500
 SUMMARY:bai (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T095000
 DTEND;TZID=Europe/Warsaw:20261203T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T133000
 DTEND;TZID=Europe/Warsaw:20261203T150500
 SUMMARY:AśW (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T160000
 DTEND;TZID=Europe/Warsaw:20261203T173500
 SUMMARY:AśW (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T095000
 DTEND;TZID=Europe/Warsaw:20261204T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T114000
 DTEND;TZID=Europe/Warsaw:20261204T131500
 SUMMARY:bai (w)
 LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T080000
 DTEND;TZID=Europe/Warsaw:20261205T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T095000
 DTEND;TZID=Europe/Warsaw:20261207T112500
 SUMMARY:DWiPD (ć)
 LOCATION:308 S
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Krzysztof Klimek
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Krzysztof Klimek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T114000
 DTEND;TZID=Europe/Warsaw:20261207T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T133000
 DTEND;TZID=Europe/Warsaw:20261207T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T160000
-DTEND;TZID=Europe/Warsaw:20261207T192500
+DTEND;TZID=Europe/Warsaw:20261207T173500
 SUMMARY:MAST (L)
 LOCATION:09 65
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261207T175000
+DTEND;TZID=Europe/Warsaw:20261207T192500
+SUMMARY:MAST (L)
+LOCATION:09 65
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T080000
+DTEND;TZID=Europe/Warsaw:20261208T093500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261208T095000
 DTEND;TZID=Europe/Warsaw:20261208T112500
 SUMMARY:Ppz (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Paweł Głębocki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T160000
 DTEND;TZID=Europe/Warsaw:20261208T173500
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T080000
-DTEND;TZID=Europe/Warsaw:20261209T150500
+DTEND;TZID=Europe/Warsaw:20261209T093500
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: DGB
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T095000
+DTEND;TZID=Europe/Warsaw:20261209T112500
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: DGB
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T114000
+DTEND;TZID=Europe/Warsaw:20261209T131500
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: DGB
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T133000
+DTEND;TZID=Europe/Warsaw:20261209T150500
+SUMMARY:DGB (ć)
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: DGB
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T095000
 DTEND;TZID=Europe/Warsaw:20261210T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T114000
 DTEND;TZID=Europe/Warsaw:20261210T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T133000
@@ -1179,80 +1340,115 @@ DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\n
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T160000
+DTEND;TZID=Europe/Warsaw:20261210T173500
+SUMMARY:bai (L)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261210T175000
 DTEND;TZID=Europe/Warsaw:20261210T192500
 SUMMARY:bai (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T095000
 DTEND;TZID=Europe/Warsaw:20261211T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T114000
 DTEND;TZID=Europe/Warsaw:20261211T131500
 SUMMARY:bai (w)
 LOCATION:205 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T080000
 DTEND;TZID=Europe/Warsaw:20261212T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T095000
+DTEND;TZID=Europe/Warsaw:20261212T112500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PWC2)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261212T114000
 DTEND;TZID=Europe/Warsaw:20261212T131500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PWC2)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T095000
 DTEND;TZID=Europe/Warsaw:20261214T112500
 SUMMARY:DWiPD (ć)
 LOCATION:308 S
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Krzysztof Klimek
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Krzysztof Klimek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T114000
 DTEND;TZID=Europe/Warsaw:20261214T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T133000
 DTEND;TZID=Europe/Warsaw:20261214T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: ppłk mgr Paweł Ryś
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21\nProwadzący: ppłk mgr Paweł Ryś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T160000
+DTEND;TZID=Europe/Warsaw:20261214T173500
+SUMMARY:MAST (L)
+LOCATION:011 65
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261214T175000
 DTEND;TZID=Europe/Warsaw:20261214T192500
 SUMMARY:MAST (L)
 LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T080000
+DTEND;TZID=Europe/Warsaw:20261215T093500
+SUMMARY:AśW (L)
+LOCATION:011 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261215T095000
 DTEND;TZID=Europe/Warsaw:20261215T112500
 SUMMARY:AśW (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T114000
+DTEND;TZID=Europe/Warsaw:20261215T131500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261215T133000
 DTEND;TZID=Europe/Warsaw:20261215T150500
 SUMMARY:Ppz (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Głębocki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T080000
@@ -1266,133 +1462,182 @@ DTSTART;TZID=Europe/Warsaw:20261216T095000
 DTEND;TZID=Europe/Warsaw:20261216T112500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T114000
 DTEND;TZID=Europe/Warsaw:20261216T131500
 SUMMARY:MPH (w)
 LOCATION:314 S
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T080000
 DTEND;TZID=Europe/Warsaw:20261217T093500
 SUMMARY:wzbnim (ć)
 LOCATION:201 65
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Włodzimierz Gocalski
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T095000
 DTEND;TZID=Europe/Warsaw:20261217T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T114000
 DTEND;TZID=Europe/Warsaw:20261217T131500
 SUMMARY:MPH (ć)
 LOCATION:203 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T160000
+DTEND;TZID=Europe/Warsaw:20261217T173500
+SUMMARY:bai (L)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261217T175000
 DTEND;TZID=Europe/Warsaw:20261217T192500
 SUMMARY:bai (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T095000
 DTEND;TZID=Europe/Warsaw:20261218T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T114000
+DTEND;TZID=Europe/Warsaw:20261218T131500
+SUMMARY:Sib (L)
+LOCATION:011 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261218T133000
 DTEND;TZID=Europe/Warsaw:20261218T150500
 SUMMARY:Sib (L)
 LOCATION:011 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T080000
 DTEND;TZID=Europe/Warsaw:20261219T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T080000
+DTEND;TZID=Europe/Warsaw:20261221T093500
+SUMMARY:AśW (L)
+LOCATION:011 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T095000
 DTEND;TZID=Europe/Warsaw:20261221T112500
 SUMMARY:AśW (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T114000
 DTEND;TZID=Europe/Warsaw:20261221T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T133000
 DTEND;TZID=Europe/Warsaw:20261221T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T160000
+DTEND;TZID=Europe/Warsaw:20261221T173500
+SUMMARY:bai (L)
+LOCATION:011 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15\nProwadzący: mgr inż. Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T175000
 DTEND;TZID=Europe/Warsaw:20261221T192500
 SUMMARY:bai (L)
 LOCATION:011 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Karol Szczepanowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T080000
+DTEND;TZID=Europe/Warsaw:20261222T093500
+SUMMARY:TsT (P)
+LOCATION:121 65
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261222T095000
+DTEND;TZID=Europe/Warsaw:20261222T112500
+SUMMARY:TsT (P)
+LOCATION:121 65
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261222T114000
 DTEND;TZID=Europe/Warsaw:20261222T131500
 SUMMARY:TsT (P)
 LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T080000
+DTEND;TZID=Europe/Warsaw:20261223T093500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261223T095000
 DTEND;TZID=Europe/Warsaw:20261223T112500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T114000
 DTEND;TZID=Europe/Warsaw:20261223T131500
 SUMMARY:MPH (w)
 LOCATION:314 S
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T133000
 DTEND;TZID=Europe/Warsaw:20261223T150500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T160000
 DTEND;TZID=Europe/Warsaw:20261223T173500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T095000
 DTEND;TZID=Europe/Warsaw:20270107T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T114000
@@ -1406,213 +1651,269 @@ DTSTART;TZID=Europe/Warsaw:20270107T133000
 DTEND;TZID=Europe/Warsaw:20270107T150500
 SUMMARY:wzbnim (ć)
 LOCATION:201 65
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Włodzimierz Gocalski
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T095000
 DTEND;TZID=Europe/Warsaw:20270108T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T133000
 DTEND;TZID=Europe/Warsaw:20270108T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PWC2)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T160000
 DTEND;TZID=Europe/Warsaw:20270108T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PWC2)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T080000
 DTEND;TZID=Europe/Warsaw:20270109T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T080000
+DTEND;TZID=Europe/Warsaw:20270111T093500
+SUMMARY:AśW (L)
+LOCATION:011 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T095000
 DTEND;TZID=Europe/Warsaw:20270111T112500
 SUMMARY:AśW (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T114000
 DTEND;TZID=Europe/Warsaw:20270111T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T133000
 DTEND;TZID=Europe/Warsaw:20270111T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T175000
 DTEND;TZID=Europe/Warsaw:20270111T192500
 SUMMARY:Wf_E (E)
 LOCATION:
-DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 6
+DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T080000
 DTEND;TZID=Europe/Warsaw:20270113T093500
 SUMMARY:ZŻWAT (i)
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Inne\nNumer zajęć: 1
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Inne\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T095000
 DTEND;TZID=Europe/Warsaw:20270114T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T114000
 DTEND;TZID=Europe/Warsaw:20270114T131500
 SUMMARY:MPH (ć)
 LOCATION:203 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T133000
 DTEND;TZID=Europe/Warsaw:20270114T150500
 SUMMARY:Ps (ć)
 LOCATION:203 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T095000
 DTEND;TZID=Europe/Warsaw:20270115T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T114000
-DTEND;TZID=Europe/Warsaw:20270115T150500
+DTEND;TZID=Europe/Warsaw:20270115T131500
 SUMMARY:ZLDT-1 (ć)
 LOCATION:255 S
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: 1 - dr inż. Dariusz Nagrabski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270115T133000
+DTEND;TZID=Europe/Warsaw:20270115T150500
+SUMMARY:ZLDT-1 (ć)
+LOCATION:255 S
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: 1 - dr inż. Dariusz Nagrabski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T080000
 DTEND;TZID=Europe/Warsaw:20270116T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T080000
+DTEND;TZID=Europe/Warsaw:20270118T093500
+SUMMARY:Sbs (L)
+LOCATION:121 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T095000
 DTEND;TZID=Europe/Warsaw:20270118T112500
 SUMMARY:Sbs (L)
 LOCATION:121 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T114000
 DTEND;TZID=Europe/Warsaw:20270118T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T133000
 DTEND;TZID=Europe/Warsaw:20270118T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T160000
+DTEND;TZID=Europe/Warsaw:20270118T173500
+SUMMARY:MAST (L)
+LOCATION:239 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T175000
 DTEND;TZID=Europe/Warsaw:20270118T192500
 SUMMARY:MAST (L)
 LOCATION:239 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T080000
+DTEND;TZID=Europe/Warsaw:20270119T093500
+SUMMARY:AśW (L)
+LOCATION:011 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270119T095000
 DTEND;TZID=Europe/Warsaw:20270119T112500
 SUMMARY:AśW (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T080000
+DTEND;TZID=Europe/Warsaw:20270120T093500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270120T095000
 DTEND;TZID=Europe/Warsaw:20270120T112500
 SUMMARY:Ppz (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Paweł Głębocki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T095000
 DTEND;TZID=Europe/Warsaw:20270121T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T114000
 DTEND;TZID=Europe/Warsaw:20270121T131500
 SUMMARY:MPH (ć)
 LOCATION:203 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Andrzej Strychalski
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T133000
 DTEND;TZID=Europe/Warsaw:20270121T150500
 SUMMARY:Ps (ć)
 LOCATION:203 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T095000
 DTEND;TZID=Europe/Warsaw:20270122T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T080000
 DTEND;TZID=Europe/Warsaw:20270123T093500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T080000
+DTEND;TZID=Europe/Warsaw:20270125T093500
+SUMMARY:Sbs (L)
+LOCATION:121 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T095000
 DTEND;TZID=Europe/Warsaw:20270125T112500
 SUMMARY:Sbs (L)
 LOCATION:121 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T114000
 DTEND;TZID=Europe/Warsaw:20270125T131500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T133000
 DTEND;TZID=Europe/Warsaw:20270125T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: ppłk mgr Paweł Ryś
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29\nProwadzący: ppłk mgr Paweł Ryś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T160000
+DTEND;TZID=Europe/Warsaw:20270125T173500
+SUMMARY:MAST (P)
+LOCATION:239 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T175000
 DTEND;TZID=Europe/Warsaw:20270125T192500
 SUMMARY:MAST (P)
 LOCATION:239 S
@@ -1623,41 +1924,41 @@ DTSTART;TZID=Europe/Warsaw:20270127T133000
 DTEND;TZID=Europe/Warsaw:20270127T150500
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T160000
 DTEND;TZID=Europe/Warsaw:20270127T173500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T080000
 DTEND;TZID=Europe/Warsaw:20270128T093500
 SUMMARY:AśW (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T095000
 DTEND;TZID=Europe/Warsaw:20270128T112500
 SUMMARY:Ja (ć)
 LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T095000
 DTEND;TZID=Europe/Warsaw:20270129T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Piotr Juńczyk
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T114000
 DTEND;TZID=Europe/Warsaw:20270129T131500
 SUMMARY:Sib (w)
 LOCATION:203 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 END:VCALENDAR

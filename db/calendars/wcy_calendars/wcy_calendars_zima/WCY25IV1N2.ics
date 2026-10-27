@@ -31,6 +31,13 @@ DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: 
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T095000
+DTEND;TZID=Europe/Warsaw:20261003T112500
+SUMMARY:ZPr (w)
+LOCATION:314 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261003T114000
 DTEND;TZID=Europe/Warsaw:20261003T131500
 SUMMARY:ZPr (w)
 LOCATION:314 S
@@ -41,66 +48,115 @@ DTSTART;TZID=Europe/Warsaw:20261003T133000
 DTEND;TZID=Europe/Warsaw:20261003T150500
 SUMMARY:Miob (w)
 LOCATION:224 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T171000
 DTEND;TZID=Europe/Warsaw:20261003T184500
 SUMMARY:Assp (w)
 LOCATION:314 S
-DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Rafał Kasprzyk
+DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T080000
 DTEND;TZID=Europe/Warsaw:20261010T093500
 SUMMARY:Soc (w)
 LOCATION:308 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T095000
+DTEND;TZID=Europe/Warsaw:20261010T112500
+SUMMARY:ZPr (w)
+LOCATION:309 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261010T114000
 DTEND;TZID=Europe/Warsaw:20261010T131500
 SUMMARY:ZPr (w)
 LOCATION:309 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T152000
+DTEND;TZID=Europe/Warsaw:20261010T165500
+SUMMARY:Assp (w)
+LOCATION:309 S
+DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261010T171000
 DTEND;TZID=Europe/Warsaw:20261010T184500
 SUMMARY:Assp (w)
 LOCATION:309 S
-DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Rafał Kasprzyk
+DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261011T133000
+DTEND;TZID=Europe/Warsaw:20261011T150500
+SUMMARY:Assp (L)
+LOCATION:226 S
+DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261011T152000
 DTEND;TZID=Europe/Warsaw:20261011T165500
 SUMMARY:Assp (L)
 LOCATION:226 S
-DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marcin Perka
+DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T080000
 DTEND;TZID=Europe/Warsaw:20261017T093500
 SUMMARY:Soc (w)
 LOCATION:307 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T095000
-DTEND;TZID=Europe/Warsaw:20261017T150500
+DTEND;TZID=Europe/Warsaw:20261017T112500
 SUMMARY:Miob (w)
 LOCATION:223 S
 DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261017T114000
+DTEND;TZID=Europe/Warsaw:20261017T131500
+SUMMARY:Miob (w)
+LOCATION:223 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261017T133000
+DTEND;TZID=Europe/Warsaw:20261017T150500
+SUMMARY:Miob (w)
+LOCATION:223 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T152000
+DTEND;TZID=Europe/Warsaw:20261017T165500
+SUMMARY:Assp (L)
+LOCATION:226 S
+DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261017T171000
 DTEND;TZID=Europe/Warsaw:20261017T184500
 SUMMARY:Assp (L)
 LOCATION:226 S
-DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Perka
+DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T095000
+DTEND;TZID=Europe/Warsaw:20261018T112500
+SUMMARY:ZPr (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261018T114000
 DTEND;TZID=Europe/Warsaw:20261018T131500
 SUMMARY:ZPr (L)
 LOCATION:223 S
@@ -111,31 +167,45 @@ DTSTART;TZID=Europe/Warsaw:20261024T080000
 DTEND;TZID=Europe/Warsaw:20261024T093500
 SUMMARY:Soc (w)
 LOCATION:309 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T095000
 DTEND;TZID=Europe/Warsaw:20261024T112500
 SUMMARY:Soc (ć)
 LOCATION:314 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T114000
 DTEND;TZID=Europe/Warsaw:20261024T131500
 SUMMARY:ZPr (w)
 LOCATION:309 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T133000
+DTEND;TZID=Europe/Warsaw:20261024T150500
+SUMMARY:Miob (L)
+LOCATION:226 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T152000
 DTEND;TZID=Europe/Warsaw:20261024T165500
 SUMMARY:Miob (L)
 LOCATION:226 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T171000
+DTEND;TZID=Europe/Warsaw:20261024T184500
+SUMMARY:Assp (L)
+LOCATION:226 S
+DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T190000
 DTEND;TZID=Europe/Warsaw:20261024T203500
 SUMMARY:Assp (L)
 LOCATION:226 S
@@ -143,13 +213,27 @@ DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNum
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261025T095000
+DTEND;TZID=Europe/Warsaw:20261025T112500
+SUMMARY:ZPr (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261025T114000
 DTEND;TZID=Europe/Warsaw:20261025T131500
 SUMMARY:ZPr (L)
 LOCATION:223 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261025T133000
+DTEND;TZID=Europe/Warsaw:20261025T150500
+SUMMARY:Miob (L)
+LOCATION:227 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261025T152000
 DTEND;TZID=Europe/Warsaw:20261025T165500
 SUMMARY:Miob (L)
 LOCATION:227 S
@@ -160,41 +244,48 @@ DTSTART;TZID=Europe/Warsaw:20261114T080000
 DTEND;TZID=Europe/Warsaw:20261114T093500
 SUMMARY:Soc (w)
 LOCATION:309 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T095000
 DTEND;TZID=Europe/Warsaw:20261114T112500
 SUMMARY:Miob (L)
 LOCATION:226 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T114000
 DTEND;TZID=Europe/Warsaw:20261114T131500
 SUMMARY:Soc (ć)
 LOCATION:309 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T133000
+DTEND;TZID=Europe/Warsaw:20261114T150500
+SUMMARY:ZPr (L)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T152000
 DTEND;TZID=Europe/Warsaw:20261114T165500
 SUMMARY:ZPr (L)
 LOCATION:224 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T080000
 DTEND;TZID=Europe/Warsaw:20261115T093500
 SUMMARY:Assp (w)
 LOCATION:309 S
-DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Rafał Kasprzyk
+DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T095000
 DTEND;TZID=Europe/Warsaw:20261115T112500
 SUMMARY:Miob (L)
 LOCATION:223 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 END:VCALENDAR

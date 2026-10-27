@@ -31,6 +31,13 @@ DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T095000
+DTEND;TZID=Europe/Warsaw:20261003T112500
+SUMMARY:Sm (w)
+LOCATION:203 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261003T114000
 DTEND;TZID=Europe/Warsaw:20261003T131500
 SUMMARY:Sm (w)
 LOCATION:203 65
@@ -38,83 +45,153 @@ DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2\n
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T133000
+DTEND;TZID=Europe/Warsaw:20261003T150500
+SUMMARY:Po (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261003T152000
 DTEND;TZID=Europe/Warsaw:20261003T165500
 SUMMARY:Po (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T171000
 DTEND;TZID=Europe/Warsaw:20261003T184500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261004T080000
-DTEND;TZID=Europe/Warsaw:20261004T112500
+DTEND;TZID=Europe/Warsaw:20261004T093500
 SUMMARY:Aok (w)
 LOCATION:203 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261004T095000
+DTEND;TZID=Europe/Warsaw:20261004T112500
+SUMMARY:Aok (w)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261004T114000
+DTEND;TZID=Europe/Warsaw:20261004T131500
+SUMMARY:Swb (w)
+LOCATION:203 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261004T133000
 DTEND;TZID=Europe/Warsaw:20261004T150500
 SUMMARY:Swb (w)
 LOCATION:203 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T080000
+DTEND;TZID=Europe/Warsaw:20261010T093500
+SUMMARY:Sm (w)
+LOCATION:203 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261010T095000
 DTEND;TZID=Europe/Warsaw:20261010T112500
 SUMMARY:Sm (w)
 LOCATION:203 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T114000
-DTEND;TZID=Europe/Warsaw:20261010T150500
+DTEND;TZID=Europe/Warsaw:20261010T131500
 SUMMARY:Po (w)
 LOCATION:308 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261010T133000
+DTEND;TZID=Europe/Warsaw:20261010T150500
+SUMMARY:Po (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T152000
+DTEND;TZID=Europe/Warsaw:20261010T165500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261010T171000
 DTEND;TZID=Europe/Warsaw:20261010T184500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261011T080000
-DTEND;TZID=Europe/Warsaw:20261011T112500
+DTEND;TZID=Europe/Warsaw:20261011T093500
 SUMMARY:Als (w)
 LOCATION:308 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261011T095000
+DTEND;TZID=Europe/Warsaw:20261011T112500
+SUMMARY:Als (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261011T114000
+DTEND;TZID=Europe/Warsaw:20261011T131500
+SUMMARY:BD (w)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261011T133000
 DTEND;TZID=Europe/Warsaw:20261011T150500
 SUMMARY:BD (w)
 LOCATION:308 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T080000
 DTEND;TZID=Europe/Warsaw:20261017T093500
 SUMMARY:Ja (ć)
 LOCATION:237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T095000
+DTEND;TZID=Europe/Warsaw:20261017T112500
+SUMMARY:Po (w)
+LOCATION:307 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261017T114000
 DTEND;TZID=Europe/Warsaw:20261017T131500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T133000
+DTEND;TZID=Europe/Warsaw:20261017T150500
+SUMMARY:BD (w)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261017T152000
 DTEND;TZID=Europe/Warsaw:20261017T165500
 SUMMARY:BD (w)
 LOCATION:308 S
@@ -122,34 +199,55 @@ DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T080000
+DTEND;TZID=Europe/Warsaw:20261018T093500
+SUMMARY:Aok (w)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261018T095000
 DTEND;TZID=Europe/Warsaw:20261018T112500
 SUMMARY:Aok (w)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T114000
-DTEND;TZID=Europe/Warsaw:20261018T150500
+DTEND;TZID=Europe/Warsaw:20261018T131500
 SUMMARY:Swb (w)
 LOCATION:203 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261018T133000
+DTEND;TZID=Europe/Warsaw:20261018T150500
+SUMMARY:Swb (w)
+LOCATION:203 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T171000
 DTEND;TZID=Europe/Warsaw:20261018T184500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T080000
 DTEND;TZID=Europe/Warsaw:20261024T093500
 SUMMARY:Ja (ć)
 LOCATION:237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T095000
+DTEND;TZID=Europe/Warsaw:20261024T112500
+SUMMARY:F2 (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. dr hab. inż. Janusz Parka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T114000
 DTEND;TZID=Europe/Warsaw:20261024T131500
 SUMMARY:F2 (w)
 LOCATION:aF S
@@ -160,94 +258,150 @@ DTSTART;TZID=Europe/Warsaw:20261024T133000
 DTEND;TZID=Europe/Warsaw:20261024T150500
 SUMMARY:Sm (w)
 LOCATION:203 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T152000
+DTEND;TZID=Europe/Warsaw:20261024T165500
+SUMMARY:Sm (L)
+LOCATION:218 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T171000
 DTEND;TZID=Europe/Warsaw:20261024T184500
 SUMMARY:Sm (L)
 LOCATION:218 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T190000
 DTEND;TZID=Europe/Warsaw:20261024T203500
 SUMMARY:F2 (L)
 LOCATION:137 S 139 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Krystian Kowiorski; dr inż. Mariusz Suligowski; dr inż. Olga Markowska
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Krystian Kowiorski; dr inż. Mariusz Suligowski; dr inż. Olga Markowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261025T080000
+DTEND;TZID=Europe/Warsaw:20261025T093500
+SUMMARY:Aok (w)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261025T095000
 DTEND;TZID=Europe/Warsaw:20261025T112500
 SUMMARY:Aok (w)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261025T114000
 DTEND;TZID=Europe/Warsaw:20261025T131500
 SUMMARY:Po (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261025T133000
+DTEND;TZID=Europe/Warsaw:20261025T150500
+SUMMARY:BD (w)
+LOCATION:237 S 239 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261025T152000
 DTEND;TZID=Europe/Warsaw:20261025T165500
 SUMMARY:BD (w)
 LOCATION:237 S 239 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261025T190000
 DTEND;TZID=Europe/Warsaw:20261025T203500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T080000
 DTEND;TZID=Europe/Warsaw:20261114T093500
 SUMMARY:Ja (ć)
 LOCATION:237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T095000
+DTEND;TZID=Europe/Warsaw:20261114T112500
+SUMMARY:F2 (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Janusz Parka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T114000
 DTEND;TZID=Europe/Warsaw:20261114T131500
 SUMMARY:F2 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Janusz Parka
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: prof. dr hab. inż. Janusz Parka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T133000
 DTEND;TZID=Europe/Warsaw:20261114T150500
 SUMMARY:Sm (w)
 LOCATION:203 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T152000
+DTEND;TZID=Europe/Warsaw:20261114T165500
+SUMMARY:F2 (ć)
+LOCATION:aF S
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: prof. dr hab. inż. Janusz Parka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T171000
 DTEND;TZID=Europe/Warsaw:20261114T184500
 SUMMARY:F2 (ć)
 LOCATION:aF S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: prof. dr hab. inż. Janusz Parka
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Janusz Parka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T080000
+DTEND;TZID=Europe/Warsaw:20261115T093500
+SUMMARY:Als (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261115T095000
 DTEND;TZID=Europe/Warsaw:20261115T112500
 SUMMARY:Als (w)
 LOCATION:308 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T114000
+DTEND;TZID=Europe/Warsaw:20261115T131500
+SUMMARY:Aok (w)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261115T133000
 DTEND;TZID=Europe/Warsaw:20261115T150500
 SUMMARY:Aok (w)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T152000
+DTEND;TZID=Europe/Warsaw:20261115T165500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261115T171000
 DTEND;TZID=Europe/Warsaw:20261115T184500
 SUMMARY:SO (w)
 LOCATION:203 65
@@ -258,66 +412,101 @@ DTSTART;TZID=Europe/Warsaw:20261121T080000
 DTEND;TZID=Europe/Warsaw:20261121T093500
 SUMMARY:Ja (ć)
 LOCATION:237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T095000
+DTEND;TZID=Europe/Warsaw:20261121T112500
+SUMMARY:F2 (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: prof. dr hab. inż. Janusz Parka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T114000
 DTEND;TZID=Europe/Warsaw:20261121T131500
 SUMMARY:F2 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Janusz Parka
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: prof. dr hab. inż. Janusz Parka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T133000
 DTEND;TZID=Europe/Warsaw:20261121T150500
 SUMMARY:F2 (L)
 LOCATION:137 S 139 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Krystian Kowiorski; dr inż. Mariusz Suligowski; dr inż. Olga Markowska
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Krystian Kowiorski; dr inż. Mariusz Suligowski; dr inż. Olga Markowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T080000
 DTEND;TZID=Europe/Warsaw:20261122T093500
 SUMMARY:Als (w)
 LOCATION:308 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T095000
+DTEND;TZID=Europe/Warsaw:20261122T112500
+SUMMARY:Swb (w)
+LOCATION:203 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261122T114000
 DTEND;TZID=Europe/Warsaw:20261122T131500
 SUMMARY:Swb (w)
 LOCATION:203 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T133000
+DTEND;TZID=Europe/Warsaw:20261122T150500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261122T152000
 DTEND;TZID=Europe/Warsaw:20261122T165500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T171000
 DTEND;TZID=Europe/Warsaw:20261122T184500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T080000
 DTEND;TZID=Europe/Warsaw:20261205T093500
 SUMMARY:Ja (ć)
 LOCATION:237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T095000
+DTEND;TZID=Europe/Warsaw:20261205T112500
+SUMMARY:F2 (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: prof. dr hab. inż. Janusz Parka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261205T114000
 DTEND;TZID=Europe/Warsaw:20261205T131500
 SUMMARY:F2 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Janusz Parka
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: prof. dr hab. inż. Janusz Parka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T133000
+DTEND;TZID=Europe/Warsaw:20261205T150500
+SUMMARY:F2 (L)
+LOCATION:137 S 139 S
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Krystian Kowiorski; dr inż. Mariusz Suligowski; dr inż. Olga Markowska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261205T152000
 DTEND;TZID=Europe/Warsaw:20261205T165500
 SUMMARY:F2 (L)
 LOCATION:137 S 139 S
@@ -325,317 +514,499 @@ DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadząc
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T171000
+DTEND;TZID=Europe/Warsaw:20261205T184500
+SUMMARY:F2 (ć)
+LOCATION:aF S
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: prof. dr hab. inż. Janusz Parka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261205T190000
 DTEND;TZID=Europe/Warsaw:20261205T203500
 SUMMARY:F2 (ć)
 LOCATION:aF S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: prof. dr hab. inż. Janusz Parka
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: prof. dr hab. inż. Janusz Parka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T080000
+DTEND;TZID=Europe/Warsaw:20261206T093500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261206T095000
 DTEND;TZID=Europe/Warsaw:20261206T112500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T114000
+DTEND;TZID=Europe/Warsaw:20261206T131500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261206T133000
 DTEND;TZID=Europe/Warsaw:20261206T150500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T152000
 DTEND;TZID=Europe/Warsaw:20261206T165500
 SUMMARY:Po (L)
 LOCATION:226 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T171000
+DTEND;TZID=Europe/Warsaw:20261206T184500
+SUMMARY:BD (ć)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Roman Wantoch-Rekowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261206T190000
 DTEND;TZID=Europe/Warsaw:20261206T203500
 SUMMARY:BD (ć)
 LOCATION:308 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr inż. Roman Wantoch-Rekowski
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T080000
 DTEND;TZID=Europe/Warsaw:20261212T093500
 SUMMARY:F2 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: prof. dr hab. inż. Janusz Parka
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: prof. dr hab. inż. Janusz Parka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T095000
 DTEND;TZID=Europe/Warsaw:20261212T112500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T114000
+DTEND;TZID=Europe/Warsaw:20261212T131500
+SUMMARY:Als (L)
+LOCATION:236 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261212T133000
 DTEND;TZID=Europe/Warsaw:20261212T150500
 SUMMARY:Als (L)
 LOCATION:236 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Adamczyk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T152000
-DTEND;TZID=Europe/Warsaw:20261212T184500
+DTEND;TZID=Europe/Warsaw:20261212T165500
 SUMMARY:F2 (ć)
 LOCATION:aF S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: prof. dr hab. inż. Janusz Parka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261212T171000
+DTEND;TZID=Europe/Warsaw:20261212T184500
+SUMMARY:F2 (ć)
+LOCATION:aF S
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: prof. dr hab. inż. Janusz Parka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261213T080000
-DTEND;TZID=Europe/Warsaw:20261213T112500
+DTEND;TZID=Europe/Warsaw:20261213T093500
 SUMMARY:BD (L)
 LOCATION:224 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261213T095000
+DTEND;TZID=Europe/Warsaw:20261213T112500
+SUMMARY:BD (L)
+LOCATION:224 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261213T114000
+DTEND;TZID=Europe/Warsaw:20261213T131500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261213T133000
 DTEND;TZID=Europe/Warsaw:20261213T150500
 SUMMARY:Aok (L)
 LOCATION:106 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261213T152000
+DTEND;TZID=Europe/Warsaw:20261213T165500
+SUMMARY:Po (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261213T171000
 DTEND;TZID=Europe/Warsaw:20261213T184500
 SUMMARY:Po (L)
 LOCATION:226 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T080000
 DTEND;TZID=Europe/Warsaw:20261219T093500
 SUMMARY:Sm (L)
 LOCATION:218 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T095000
 DTEND;TZID=Europe/Warsaw:20261219T112500
 SUMMARY:F2 (ć)
 LOCATION:aF S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: prof. dr hab. inż. Janusz Parka
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: prof. dr hab. inż. Janusz Parka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T114000
-DTEND;TZID=Europe/Warsaw:20261219T150500
+DTEND;TZID=Europe/Warsaw:20261219T131500
 SUMMARY:BD (ć)
 LOCATION:308 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261219T133000
+DTEND;TZID=Europe/Warsaw:20261219T150500
+SUMMARY:BD (ć)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Roman Wantoch-Rekowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T152000
+DTEND;TZID=Europe/Warsaw:20261219T165500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261219T171000
 DTEND;TZID=Europe/Warsaw:20261219T184500
 SUMMARY:Aok (L)
 LOCATION:106 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261220T080000
+DTEND;TZID=Europe/Warsaw:20261220T093500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261220T095000
 DTEND;TZID=Europe/Warsaw:20261220T112500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261220T114000
+DTEND;TZID=Europe/Warsaw:20261220T131500
+SUMMARY:Po (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261220T133000
 DTEND;TZID=Europe/Warsaw:20261220T150500
 SUMMARY:Po (L)
 LOCATION:226 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261220T171000
 DTEND;TZID=Europe/Warsaw:20261220T184500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T080000
 DTEND;TZID=Europe/Warsaw:20270109T093500
 SUMMARY:Ja (ć)
 LOCATION:237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T114000
 DTEND;TZID=Europe/Warsaw:20270109T131500
 SUMMARY:Sm (L)
 LOCATION:218 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T133000
 DTEND;TZID=Europe/Warsaw:20270109T150500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T152000
+DTEND;TZID=Europe/Warsaw:20270109T165500
+SUMMARY:Als (L)
+LOCATION:226 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270109T171000
 DTEND;TZID=Europe/Warsaw:20270109T184500
 SUMMARY:Als (L)
 LOCATION:226 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Adamczyk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270110T114000
-DTEND;TZID=Europe/Warsaw:20270110T150500
+DTEND;TZID=Europe/Warsaw:20270110T131500
 SUMMARY:BD (L)
 LOCATION:227 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270110T133000
+DTEND;TZID=Europe/Warsaw:20270110T150500
+SUMMARY:BD (L)
+LOCATION:227 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270110T152000
+DTEND;TZID=Europe/Warsaw:20270110T165500
+SUMMARY:Po (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270110T171000
 DTEND;TZID=Europe/Warsaw:20270110T184500
 SUMMARY:Po (L)
 LOCATION:226 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T080000
 DTEND;TZID=Europe/Warsaw:20270116T093500
 SUMMARY:Ja (ć)
 LOCATION:237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T095000
+DTEND;TZID=Europe/Warsaw:20270116T112500
+SUMMARY:BD (L)
+LOCATION:227 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270116T114000
 DTEND;TZID=Europe/Warsaw:20270116T131500
 SUMMARY:BD (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T133000
+DTEND;TZID=Europe/Warsaw:20270116T150500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270116T152000
 DTEND;TZID=Europe/Warsaw:20270116T165500
 SUMMARY:Aok (L)
 LOCATION:106 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270117T080000
+DTEND;TZID=Europe/Warsaw:20270117T093500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270117T095000
 DTEND;TZID=Europe/Warsaw:20270117T112500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270117T114000
+DTEND;TZID=Europe/Warsaw:20270117T131500
+SUMMARY:Po (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270117T133000
 DTEND;TZID=Europe/Warsaw:20270117T150500
 SUMMARY:Po (L)
 LOCATION:226 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270117T152000
 DTEND;TZID=Europe/Warsaw:20270117T165500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T080000
 DTEND;TZID=Europe/Warsaw:20270123T093500
 SUMMARY:Ja (ć)
 LOCATION:237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T095000
 DTEND;TZID=Europe/Warsaw:20270123T112500
 SUMMARY:F2 (L)
 LOCATION:137 S 139 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Krystian Kowiorski; dr inż. Mariusz Suligowski; dr inż. Olga Markowska
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Krystian Kowiorski; dr inż. Mariusz Suligowski; dr inż. Olga Markowska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T114000
+DTEND;TZID=Europe/Warsaw:20270123T131500
+SUMMARY:BD (L)
+LOCATION:227 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270123T133000
 DTEND;TZID=Europe/Warsaw:20270123T150500
 SUMMARY:BD (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T152000
-DTEND;TZID=Europe/Warsaw:20270123T184500
+DTEND;TZID=Europe/Warsaw:20270123T165500
 SUMMARY:Als (L)
 LOCATION:226 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270123T171000
+DTEND;TZID=Europe/Warsaw:20270123T184500
+SUMMARY:Als (L)
+LOCATION:226 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270124T095000
 DTEND;TZID=Europe/Warsaw:20270124T112500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270124T114000
+DTEND;TZID=Europe/Warsaw:20270124T131500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270124T133000
 DTEND;TZID=Europe/Warsaw:20270124T150500
 SUMMARY:Aok (L)
 LOCATION:106 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270124T152000
+DTEND;TZID=Europe/Warsaw:20270124T165500
+SUMMARY:Po (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270124T171000
 DTEND;TZID=Europe/Warsaw:20270124T184500
 SUMMARY:Po (L)
 LOCATION:226 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270130T080000
 DTEND;TZID=Europe/Warsaw:20270130T093500
 SUMMARY:Ja (ć)
 LOCATION:237 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Paweł Jaśkiewicz
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mgr Paweł Jaśkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270130T095000
+DTEND;TZID=Europe/Warsaw:20270130T112500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270130T114000
 DTEND;TZID=Europe/Warsaw:20270130T131500
 SUMMARY:Aok (L)
 LOCATION:106 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270130T133000
+DTEND;TZID=Europe/Warsaw:20270130T150500
+SUMMARY:Als (L)
+LOCATION:226 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270130T152000
 DTEND;TZID=Europe/Warsaw:20270130T165500
 SUMMARY:Als (L)
 LOCATION:226 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Adamczyk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270131T080000
 DTEND;TZID=Europe/Warsaw:20270131T093500
 SUMMARY:Als (w)
 LOCATION:308 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270131T095000
 DTEND;TZID=Europe/Warsaw:20270131T112500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270131T114000
 DTEND;TZID=Europe/Warsaw:20270131T131500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270131T133000
 DTEND;TZID=Europe/Warsaw:20270131T150500
 SUMMARY:Swb (w)
 LOCATION:203 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 END:VCALENDAR

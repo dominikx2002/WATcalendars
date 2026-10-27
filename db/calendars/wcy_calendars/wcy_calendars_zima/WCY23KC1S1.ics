@@ -24,59 +24,87 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T080000
-DTEND;TZID=Europe/Warsaw:20261001T112500
+DTEND;TZID=Europe/Warsaw:20261001T093500
 SUMMARY:pzST (P)
 LOCATION:125 65
 DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261001T095000
+DTEND;TZID=Europe/Warsaw:20261001T112500
+SUMMARY:pzST (P)
+LOCATION:125 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T133000
 DTEND;TZID=Europe/Warsaw:20261005T150500
 SUMMARY:Ztel (w)
 LOCATION:203 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T175000
 DTEND;TZID=Europe/Warsaw:20261007T192500
 SUMMARY:Sws (k)
 LOCATION:316 S
-DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: Koło naukowe studen\nNumer zajęć: 6\nProwadzący: dr inż. Zbigniew Świerczynski
+DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: Koło naukowe studen\nNumer zajęć: 1\nProwadzący: dr inż. Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T080000
+DTEND;TZID=Europe/Warsaw:20261008T093500
+SUMMARY:pzST (P)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261008T095000
 DTEND;TZID=Europe/Warsaw:20261008T112500
 SUMMARY:pzST (P)
 LOCATION:239 S
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T133000
 DTEND;TZID=Europe/Warsaw:20261008T150500
 SUMMARY:Ztel (w)
 LOCATION:203 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T133000
 DTEND;TZID=Europe/Warsaw:20261012T150500
 SUMMARY:Ztel (w)
 LOCATION:203 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T080000
+DTEND;TZID=Europe/Warsaw:20261013T093500
+SUMMARY:pzST (P)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261013T095000
 DTEND;TZID=Europe/Warsaw:20261013T112500
 SUMMARY:pzST (P)
 LOCATION:239 S
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T095000
+DTEND;TZID=Europe/Warsaw:20261016T112500
+SUMMARY:pzST (P)
+LOCATION:237 S
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 7\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261016T114000
 DTEND;TZID=Europe/Warsaw:20261016T131500
 SUMMARY:pzST (P)
 LOCATION:237 S
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 8\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T133000
@@ -87,93 +115,177 @@ DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zaj
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T080000
-DTEND;TZID=Europe/Warsaw:20261021T112500
+DTEND;TZID=Europe/Warsaw:20261021T093500
 SUMMARY:Ztel (L)
 LOCATION:121 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261021T095000
+DTEND;TZID=Europe/Warsaw:20261021T112500
+SUMMARY:Ztel (L)
+LOCATION:121 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T114000
+DTEND;TZID=Europe/Warsaw:20261021T131500
+SUMMARY:pzST (P)
+LOCATION:237 S
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 9\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261021T133000
 DTEND;TZID=Europe/Warsaw:20261021T150500
 SUMMARY:pzST (P)
 LOCATION:237 S
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 10\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T080000
+DTEND;TZID=Europe/Warsaw:20261027T093500
+SUMMARY:pzST (P)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 11\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261027T095000
 DTEND;TZID=Europe/Warsaw:20261027T112500
 SUMMARY:pzST (P)
 LOCATION:239 S
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T095000
 DTEND;TZID=Europe/Warsaw:20261028T112500
 SUMMARY:Ztel (w)
 LOCATION:203 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T080000
-DTEND;TZID=Europe/Warsaw:20261102T112500
+DTEND;TZID=Europe/Warsaw:20261102T093500
 SUMMARY:Ztel (L)
 LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261103T080000
-DTEND;TZID=Europe/Warsaw:20261103T112500
-SUMMARY:pzST (P)
-LOCATION:239 S
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261109T080000
-DTEND;TZID=Europe/Warsaw:20261109T112500
-SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261109T114000
-DTEND;TZID=Europe/Warsaw:20261109T150500
-SUMMARY:pzST (P)
-LOCATION:239 S
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261112T080000
-DTEND;TZID=Europe/Warsaw:20261112T112500
-SUMMARY:Ztel (L)
-LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261116T114000
-DTEND;TZID=Europe/Warsaw:20261116T150500
-SUMMARY:Ztel (L)
-LOCATION:120 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T095000
+DTEND;TZID=Europe/Warsaw:20261102T112500
+SUMMARY:Ztel (L)
+LOCATION:121 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261103T080000
+DTEND;TZID=Europe/Warsaw:20261103T093500
+SUMMARY:pzST (P)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 13\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261103T095000
+DTEND;TZID=Europe/Warsaw:20261103T112500
+SUMMARY:pzST (P)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 14\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T080000
+DTEND;TZID=Europe/Warsaw:20261109T093500
+SUMMARY:Ztel (L)
+LOCATION:121 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T095000
+DTEND;TZID=Europe/Warsaw:20261109T112500
+SUMMARY:Ztel (L)
+LOCATION:121 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T114000
+DTEND;TZID=Europe/Warsaw:20261109T131500
+SUMMARY:pzST (P)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 15\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T133000
+DTEND;TZID=Europe/Warsaw:20261109T150500
+SUMMARY:pzST (P)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 16\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261112T080000
+DTEND;TZID=Europe/Warsaw:20261112T093500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261112T095000
+DTEND;TZID=Europe/Warsaw:20261112T112500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T114000
+DTEND;TZID=Europe/Warsaw:20261116T131500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T133000
+DTEND;TZID=Europe/Warsaw:20261116T150500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T114000
+DTEND;TZID=Europe/Warsaw:20261117T131500
+SUMMARY:pzST (P)
+LOCATION:106 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 17\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T133000
 DTEND;TZID=Europe/Warsaw:20261117T150500
 SUMMARY:pzST (P)
 LOCATION:106 65
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 18\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T095000
+DTEND;TZID=Europe/Warsaw:20261120T112500
+SUMMARY:pzST (P)
+LOCATION:125 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 19\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T114000
 DTEND;TZID=Europe/Warsaw:20261120T131500
 SUMMARY:pzST (P)
 LOCATION:125 65
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 20\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T080000
+DTEND;TZID=Europe/Warsaw:20261126T093500
+SUMMARY:pzST (P)
+LOCATION:125 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 21\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T095000
 DTEND;TZID=Europe/Warsaw:20261126T112500
 SUMMARY:pzST (P)
 LOCATION:125 65
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 22\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 END:VCALENDAR

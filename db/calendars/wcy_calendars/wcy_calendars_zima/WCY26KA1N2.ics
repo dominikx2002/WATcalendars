@@ -24,31 +24,45 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T080000
-DTEND;TZID=Europe/Warsaw:20261003T112500
+DTEND;TZID=Europe/Warsaw:20261003T093500
 SUMMARY:Ing (s)
 LOCATION:klub WAT
 DESCRIPTION:Inauguracja\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261003T095000
+DTEND;TZID=Europe/Warsaw:20261003T112500
+SUMMARY:Ing (s)
+LOCATION:klub WAT
+DESCRIPTION:Inauguracja\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T114000
 DTEND;TZID=Europe/Warsaw:20261003T131500
 SUMMARY:Nmtz (w)
 LOCATION:317 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zdzisław Wojciechowski
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zdzisław Wojciechowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T133000
 DTEND;TZID=Europe/Warsaw:20261003T150500
 SUMMARY:Ps (w)
 LOCATION:317 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T152000
+DTEND;TZID=Europe/Warsaw:20261003T165500
+SUMMARY:Mnk (w)
+LOCATION:316 S
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. Ewa Czuchry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261003T171000
 DTEND;TZID=Europe/Warsaw:20261003T184500
 SUMMARY:Mnk (w)
 LOCATION:316 S
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261004T080000
@@ -59,6 +73,13 @@ DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261004T095000
+DTEND;TZID=Europe/Warsaw:20261004T112500
+SUMMARY:WIT (w)
+LOCATION:307 S
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261004T114000
 DTEND;TZID=Europe/Warsaw:20261004T131500
 SUMMARY:WIT (w)
 LOCATION:307 S
@@ -66,20 +87,41 @@ DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261004T133000
+DTEND;TZID=Europe/Warsaw:20261004T150500
+SUMMARY:BbD (w)
+LOCATION:307 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261004T152000
 DTEND;TZID=Europe/Warsaw:20261004T165500
 SUMMARY:BbD (w)
 LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T080000
+DTEND;TZID=Europe/Warsaw:20261010T093500
+SUMMARY:Nmtz (w)
+LOCATION:317 S
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zdzisław Wojciechowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261010T095000
 DTEND;TZID=Europe/Warsaw:20261010T112500
 SUMMARY:Nmtz (w)
 LOCATION:317 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zdzisław Wojciechowski
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zdzisław Wojciechowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T114000
+DTEND;TZID=Europe/Warsaw:20261010T131500
+SUMMARY:Ps (w)
+LOCATION:307 S
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261010T133000
 DTEND;TZID=Europe/Warsaw:20261010T150500
 SUMMARY:Ps (w)
 LOCATION:307 S
@@ -90,28 +132,42 @@ DTSTART;TZID=Europe/Warsaw:20261011T080000
 DTEND;TZID=Europe/Warsaw:20261011T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261011T095000
+DTEND;TZID=Europe/Warsaw:20261011T112500
+SUMMARY:WIT (w)
+LOCATION:203 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261011T114000
 DTEND;TZID=Europe/Warsaw:20261011T131500
 SUMMARY:WIT (w)
 LOCATION:203 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261011T133000
 DTEND;TZID=Europe/Warsaw:20261011T150500
 SUMMARY:Swbo (w)
 LOCATION:227 S
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261011T152000
+DTEND;TZID=Europe/Warsaw:20261011T165500
+SUMMARY:WIT (P)
+LOCATION:120 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261011T171000
 DTEND;TZID=Europe/Warsaw:20261011T184500
 SUMMARY:WIT (P)
 LOCATION:120 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T080000
@@ -122,73 +178,87 @@ DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T095000
+DTEND;TZID=Europe/Warsaw:20261017T112500
+SUMMARY:Ps (w)
+LOCATION:314 S
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261017T114000
 DTEND;TZID=Europe/Warsaw:20261017T131500
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T133000
 DTEND;TZID=Europe/Warsaw:20261017T150500
 SUMMARY:Tal (w)
 LOCATION:314 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T152000
 DTEND;TZID=Europe/Warsaw:20261017T165500
 SUMMARY:Mnk (w)
 LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T080000
 DTEND;TZID=Europe/Warsaw:20261018T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T095000
+DTEND;TZID=Europe/Warsaw:20261018T112500
+SUMMARY:BbD (w)
+LOCATION:226 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261018T114000
 DTEND;TZID=Europe/Warsaw:20261018T131500
 SUMMARY:BbD (w)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T133000
 DTEND;TZID=Europe/Warsaw:20261018T150500
 SUMMARY:Soc (w)
 LOCATION:307 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T152000
 DTEND;TZID=Europe/Warsaw:20261018T165500
 SUMMARY:Mnk (w)
 LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T171000
 DTEND;TZID=Europe/Warsaw:20261018T184500
 SUMMARY:Swbo (w)
 LOCATION:308 S
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T190000
 DTEND;TZID=Europe/Warsaw:20261018T203500
 SUMMARY:Mnk (L)
 LOCATION:219 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T080000
 DTEND;TZID=Europe/Warsaw:20261024T093500
 SUMMARY:WIT (w)
 LOCATION:203 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T095000
@@ -199,6 +269,13 @@ DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T114000
+DTEND;TZID=Europe/Warsaw:20261024T131500
+SUMMARY:Tal (w)
+LOCATION:313 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T133000
 DTEND;TZID=Europe/Warsaw:20261024T150500
 SUMMARY:Tal (w)
 LOCATION:313 S
@@ -209,17 +286,24 @@ DTSTART;TZID=Europe/Warsaw:20261024T171000
 DTEND;TZID=Europe/Warsaw:20261024T184500
 SUMMARY:Sws (s)
 LOCATION:314 S
-DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 6\nProwadzący: mgr inż. Adam Kutyła; dr Joanna Piasecka
+DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1\nProwadzący: mgr inż. Adam Kutyła; dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261025T080000
 DTEND;TZID=Europe/Warsaw:20261025T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261025T095000
+DTEND;TZID=Europe/Warsaw:20261025T112500
+SUMMARY:BbD (L)
+LOCATION:237 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261025T114000
 DTEND;TZID=Europe/Warsaw:20261025T131500
 SUMMARY:BbD (L)
 LOCATION:237 S
@@ -230,7 +314,7 @@ DTSTART;TZID=Europe/Warsaw:20261025T133000
 DTEND;TZID=Europe/Warsaw:20261025T150500
 SUMMARY:Soc (w)
 LOCATION:307 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T080000
@@ -244,14 +328,21 @@ DTSTART;TZID=Europe/Warsaw:20261114T095000
 DTEND;TZID=Europe/Warsaw:20261114T112500
 SUMMARY:Ek (w)
 LOCATION:309 S
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Izabela Gontarek
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Izabela Gontarek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T114000
+DTEND;TZID=Europe/Warsaw:20261114T131500
+SUMMARY:Tal (w)
+LOCATION:314 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T133000
 DTEND;TZID=Europe/Warsaw:20261114T150500
 SUMMARY:Tal (w)
 LOCATION:314 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T152000
@@ -265,147 +356,168 @@ DTSTART;TZID=Europe/Warsaw:20261115T080000
 DTEND;TZID=Europe/Warsaw:20261115T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T095000
+DTEND;TZID=Europe/Warsaw:20261115T112500
+SUMMARY:BbD (L)
+LOCATION:237 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261115T114000
 DTEND;TZID=Europe/Warsaw:20261115T131500
 SUMMARY:BbD (L)
 LOCATION:237 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T133000
 DTEND;TZID=Europe/Warsaw:20261115T150500
 SUMMARY:Mnk (w)
 LOCATION:309 S
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T152000
+DTEND;TZID=Europe/Warsaw:20261115T165500
+SUMMARY:Mnk (L)
+LOCATION:219 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr hab. Ewa Czuchry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261115T171000
 DTEND;TZID=Europe/Warsaw:20261115T184500
 SUMMARY:Mnk (L)
 LOCATION:219 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T114000
 DTEND;TZID=Europe/Warsaw:20261121T131500
 SUMMARY:Nmtz (ć)
 LOCATION:314 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Zdzisław Wojciechowski
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Zdzisław Wojciechowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T133000
 DTEND;TZID=Europe/Warsaw:20261121T150500
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T152000
 DTEND;TZID=Europe/Warsaw:20261121T165500
 SUMMARY:Nmtz (w)
 LOCATION:317 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Zdzisław Wojciechowski
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zdzisław Wojciechowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T080000
 DTEND;TZID=Europe/Warsaw:20261122T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T095000
 DTEND;TZID=Europe/Warsaw:20261122T112500
 SUMMARY:Soc (w)
 LOCATION:307 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T114000
 DTEND;TZID=Europe/Warsaw:20261122T131500
 SUMMARY:Soc (ć)
 LOCATION:307 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T133000
 DTEND;TZID=Europe/Warsaw:20261205T150500
 SUMMARY:Mnk (w)
 LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T152000
 DTEND;TZID=Europe/Warsaw:20261205T165500
 SUMMARY:Tal (L)
 LOCATION:223 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T171000
 DTEND;TZID=Europe/Warsaw:20261205T184500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T080000
 DTEND;TZID=Europe/Warsaw:20261206T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T095000
 DTEND;TZID=Europe/Warsaw:20261206T112500
 SUMMARY:Soc (w)
 LOCATION:307 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T114000
+DTEND;TZID=Europe/Warsaw:20261206T131500
+SUMMARY:BbD (L)
+LOCATION:239 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261206T133000
 DTEND;TZID=Europe/Warsaw:20261206T150500
 SUMMARY:BbD (L)
 LOCATION:239 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T080000
 DTEND;TZID=Europe/Warsaw:20261212T093500
 SUMMARY:Nmtz (ć)
 LOCATION:308 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Zdzisław Wojciechowski
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Zdzisław Wojciechowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T095000
 DTEND;TZID=Europe/Warsaw:20261212T112500
 SUMMARY:Ek (w)
 LOCATION:309 S
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Izabela Gontarek
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Izabela Gontarek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T114000
 DTEND;TZID=Europe/Warsaw:20261212T131500
 SUMMARY:Ek (ć)
 LOCATION:309 S
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Izabela Gontarek
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Izabela Gontarek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261213T080000
 DTEND;TZID=Europe/Warsaw:20261213T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261213T095000
 DTEND;TZID=Europe/Warsaw:20261213T112500
 SUMMARY:Soc (w)
 LOCATION:307 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261213T114000
@@ -419,7 +531,7 @@ DTSTART;TZID=Europe/Warsaw:20261213T133000
 DTEND;TZID=Europe/Warsaw:20261213T150500
 SUMMARY:Soc (ć)
 LOCATION:307 S
-DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Beata Czuba
+DESCRIPTION:Socjologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261213T152000
@@ -430,55 +542,76 @@ DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\n
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T175000
+DTEND;TZID=Europe/Warsaw:20261218T192500
+SUMMARY:Ja (ć)
+LOCATION:on-line..
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mgr Anna Kurzela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261218T194000
 DTEND;TZID=Europe/Warsaw:20261218T211500
 SUMMARY:Ja (ć)
 LOCATION:on-line..
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T095000
 DTEND;TZID=Europe/Warsaw:20261219T112500
 SUMMARY:Ek (w)
 LOCATION:309 S
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Izabela Gontarek
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Izabela Gontarek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T114000
 DTEND;TZID=Europe/Warsaw:20261219T131500
 SUMMARY:Ek (ć)
 LOCATION:309 S
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Izabela Gontarek
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Izabela Gontarek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T133000
+DTEND;TZID=Europe/Warsaw:20261219T150500
+SUMMARY:WIT (L)
+LOCATION:120 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261219T152000
 DTEND;TZID=Europe/Warsaw:20261219T165500
 SUMMARY:WIT (L)
 LOCATION:120 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T171000
 DTEND;TZID=Europe/Warsaw:20261219T184500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T190000
 DTEND;TZID=Europe/Warsaw:20261219T203500
 SUMMARY:Mnk (L)
 LOCATION:219 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261220T080000
 DTEND;TZID=Europe/Warsaw:20261220T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261220T095000
+DTEND;TZID=Europe/Warsaw:20261220T112500
+SUMMARY:Swbo (L)
+LOCATION:236 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261220T114000
 DTEND;TZID=Europe/Warsaw:20261220T131500
 SUMMARY:Swbo (L)
 LOCATION:236 S
@@ -493,107 +626,163 @@ DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzą
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261220T152000
-DTEND;TZID=Europe/Warsaw:20261220T184500
+DTEND;TZID=Europe/Warsaw:20261220T165500
 SUMMARY:Mnk (L)
 LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr hab. Ewa Czuchry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261220T171000
+DTEND;TZID=Europe/Warsaw:20261220T184500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T080000
 DTEND;TZID=Europe/Warsaw:20270109T093500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T095000
+DTEND;TZID=Europe/Warsaw:20270109T112500
+SUMMARY:WIT (L)
+LOCATION:120 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270109T114000
 DTEND;TZID=Europe/Warsaw:20270109T131500
 SUMMARY:WIT (L)
 LOCATION:120 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T133000
 DTEND;TZID=Europe/Warsaw:20270109T150500
 SUMMARY:Tal (L)
 LOCATION:223 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T152000
+DTEND;TZID=Europe/Warsaw:20270109T165500
+SUMMARY:Mnk (L)
+LOCATION:219 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr hab. Ewa Czuchry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270109T171000
 DTEND;TZID=Europe/Warsaw:20270109T184500
 SUMMARY:Mnk (L)
 LOCATION:219 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr hab. Ewa Czuchry
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270110T080000
 DTEND;TZID=Europe/Warsaw:20270110T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270117T080000
 DTEND;TZID=Europe/Warsaw:20270117T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270117T095000
+DTEND;TZID=Europe/Warsaw:20270117T112500
+SUMMARY:WIT (L)
+LOCATION:120 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270117T114000
 DTEND;TZID=Europe/Warsaw:20270117T131500
 SUMMARY:WIT (L)
 LOCATION:120 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270124T080000
 DTEND;TZID=Europe/Warsaw:20270124T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270124T095000
 DTEND;TZID=Europe/Warsaw:20270124T112500
 SUMMARY:Tal (P)
 LOCATION:226 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270124T114000
-DTEND;TZID=Europe/Warsaw:20270124T150500
+DTEND;TZID=Europe/Warsaw:20270124T131500
 SUMMARY:Swbo (L)
 LOCATION:228 S
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270124T133000
+DTEND;TZID=Europe/Warsaw:20270124T150500
+SUMMARY:Swbo (L)
+LOCATION:228 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270131T080000
 DTEND;TZID=Europe/Warsaw:20270131T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270131T095000
-DTEND;TZID=Europe/Warsaw:20270131T131500
+DTEND;TZID=Europe/Warsaw:20270131T112500
 SUMMARY:Tal (P)
 LOCATION:223 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270131T114000
+DTEND;TZID=Europe/Warsaw:20270131T131500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Jarosław Napiórkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270131T133000
+DTEND;TZID=Europe/Warsaw:20270131T150500
+SUMMARY:Swbo (L)
+LOCATION:228 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270131T152000
 DTEND;TZID=Europe/Warsaw:20270131T165500
 SUMMARY:Swbo (L)
 LOCATION:228 S
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270131T171000
+DTEND;TZID=Europe/Warsaw:20270131T184500
+SUMMARY:WIT (P)
+LOCATION:121 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270131T190000
 DTEND;TZID=Europe/Warsaw:20270131T203500
 SUMMARY:WIT (P)
 LOCATION:121 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 END:VCALENDAR

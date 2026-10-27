@@ -34,98 +34,112 @@ DTSTART;TZID=Europe/Warsaw:20260928T095000
 DTEND;TZID=Europe/Warsaw:20260928T112500
 SUMMARY:Sss (Zp)
 LOCATION:011 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: zal popr\nNumer zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260928T114000
 DTEND;TZID=Europe/Warsaw:20260928T131500
 SUMMARY:MeSK (Ep)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260929T095000
 DTEND;TZID=Europe/Warsaw:20260929T112500
 SUMMARY:dsk (Zp)
 LOCATION:106 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: zal popr\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260929T133000
 DTEND;TZID=Europe/Warsaw:20260929T150500
 SUMMARY:Wpp (Zp)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: zal popr\nNumer zajęć: 4\nProwadzący: dr inż. Adam Patkowski; mgr inż. Waldemar Szylberg
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Adam Patkowski; mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260930T095000
 DTEND;TZID=Europe/Warsaw:20260930T112500
 SUMMARY:Pwst (Ep)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260930T114000
 DTEND;TZID=Europe/Warsaw:20260930T131500
 SUMMARY:dsk (Ep)
 LOCATION:314 S
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Zielinski
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T080000
-DTEND;TZID=Europe/Warsaw:20261001T112500
+DTEND;TZID=Europe/Warsaw:20261001T093500
 SUMMARY:Scrz (w)
 LOCATION:203 65
 DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261001T095000
+DTEND;TZID=Europe/Warsaw:20261001T112500
+SUMMARY:Scrz (w)
+LOCATION:203 65
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261001T114000
 DTEND;TZID=Europe/Warsaw:20261001T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T080000
-DTEND;TZID=Europe/Warsaw:20261002T112500
+DTEND;TZID=Europe/Warsaw:20261002T093500
 SUMMARY:ZBD (w)
 LOCATION:307 S
 DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261002T095000
+DTEND;TZID=Europe/Warsaw:20261002T112500
+SUMMARY:ZBD (w)
+LOCATION:307 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T114000
 DTEND;TZID=Europe/Warsaw:20261002T131500
 SUMMARY:Swp (w)
 LOCATION:203 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T133000
 DTEND;TZID=Europe/Warsaw:20261002T150500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261002T160000
 DTEND;TZID=Europe/Warsaw:20261002T173500
 SUMMARY:PsbI (w)
 LOCATION:307 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T095000
 DTEND;TZID=Europe/Warsaw:20261003T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T080000
 DTEND;TZID=Europe/Warsaw:20261005T093500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T095000
@@ -136,20 +150,34 @@ DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T114000
+DTEND;TZID=Europe/Warsaw:20261005T131500
+SUMMARY:Sme. (w)
+LOCATION:314 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261005T133000
 DTEND;TZID=Europe/Warsaw:20261005T150500
 SUMMARY:Sme. (w)
 LOCATION:314 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261005T160000
 DTEND;TZID=Europe/Warsaw:20261005T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T095000
+DTEND;TZID=Europe/Warsaw:20261006T112500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(KSP)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261006T114000
 DTEND;TZID=Europe/Warsaw:20261006T131500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(KSP)
@@ -160,42 +188,63 @@ DTSTART;TZID=Europe/Warsaw:20261006T133000
 DTEND;TZID=Europe/Warsaw:20261006T150500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261006T160000
+DTEND;TZID=Europe/Warsaw:20261006T173500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 1
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261006T175000
 DTEND;TZID=Europe/Warsaw:20261006T192500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T080000
 DTEND;TZID=Europe/Warsaw:20261007T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T114000
 DTEND;TZID=Europe/Warsaw:20261007T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261007T160000
+DTEND;TZID=Europe/Warsaw:20261007T173500
+SUMMARY:TCT (w)
+LOCATION:317 S
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261007T175000
 DTEND;TZID=Europe/Warsaw:20261007T192500
 SUMMARY:TCT (w)
 LOCATION:317 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T080000
+DTEND;TZID=Europe/Warsaw:20261008T093500
+SUMMARY:Scrz (w)
+LOCATION:203 65
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261008T095000
 DTEND;TZID=Europe/Warsaw:20261008T112500
 SUMMARY:Scrz (w)
 LOCATION:203 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261008T114000
@@ -216,7 +265,7 @@ DTSTART;TZID=Europe/Warsaw:20261009T133000
 DTEND;TZID=Europe/Warsaw:20261009T150500
 SUMMARY:ZBD (w)
 LOCATION:307 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T095000
@@ -230,28 +279,35 @@ DTSTART;TZID=Europe/Warsaw:20261012T080000
 DTEND;TZID=Europe/Warsaw:20261012T093500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T095000
 DTEND;TZID=Europe/Warsaw:20261012T112500
 SUMMARY:Swp (w)
 LOCATION:203 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T114000
-DTEND;TZID=Europe/Warsaw:20261012T150500
+DTEND;TZID=Europe/Warsaw:20261012T131500
 SUMMARY:TCT (w)
 LOCATION:314 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261012T133000
+DTEND;TZID=Europe/Warsaw:20261012T150500
+SUMMARY:TCT (w)
+LOCATION:314 S
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T160000
 DTEND;TZID=Europe/Warsaw:20261012T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T080000
@@ -265,126 +321,168 @@ DTSTART;TZID=Europe/Warsaw:20261013T095000
 DTEND;TZID=Europe/Warsaw:20261013T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T114000
+DTEND;TZID=Europe/Warsaw:20261013T131500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 1
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261013T133000
 DTEND;TZID=Europe/Warsaw:20261013T150500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T160000
 DTEND;TZID=Europe/Warsaw:20261013T173500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T080000
+DTEND;TZID=Europe/Warsaw:20261015T093500
+SUMMARY:Sme. (w)
+LOCATION:307 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261015T095000
 DTEND;TZID=Europe/Warsaw:20261015T112500
 SUMMARY:Sme. (w)
 LOCATION:307 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261015T114000
 DTEND;TZID=Europe/Warsaw:20261015T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T095000
 DTEND;TZID=Europe/Warsaw:20261016T112500
 SUMMARY:Sr (w)
 LOCATION:307 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T160000
 DTEND;TZID=Europe/Warsaw:20261016T173500
 SUMMARY:PsbI (w)
 LOCATION:307 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T095000
 DTEND;TZID=Europe/Warsaw:20261017T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T080000
 DTEND;TZID=Europe/Warsaw:20261019T093500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T095000
 DTEND;TZID=Europe/Warsaw:20261019T112500
 SUMMARY:Swp (w)
 LOCATION:203 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T114000
+DTEND;TZID=Europe/Warsaw:20261019T131500
+SUMMARY:Sme. (w)
+LOCATION:307 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261019T133000
 DTEND;TZID=Europe/Warsaw:20261019T150500
 SUMMARY:Sme. (w)
 LOCATION:307 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261019T160000
 DTEND;TZID=Europe/Warsaw:20261019T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T080000
 DTEND;TZID=Europe/Warsaw:20261020T093500
 SUMMARY:TW (w)
 LOCATION:16 57
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Kazimierz Gołoś
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T095000
+DTEND;TZID=Europe/Warsaw:20261020T112500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PWC3)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261020T114000
 DTEND;TZID=Europe/Warsaw:20261020T131500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PWC3)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T133000
 DTEND;TZID=Europe/Warsaw:20261020T150500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 7
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mł.chor. Maciej Koczański
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261020T160000
+DTEND;TZID=Europe/Warsaw:20261020T173500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 7
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mł.chor. Maciej Koczański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261020T175000
 DTEND;TZID=Europe/Warsaw:20261020T192500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 7
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T080000
+DTEND;TZID=Europe/Warsaw:20261021T093500
+SUMMARY:Ja (ć)
+LOCATION:124 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261021T095000
 DTEND;TZID=Europe/Warsaw:20261021T112500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T114000
 DTEND;TZID=Europe/Warsaw:20261021T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T095000
@@ -398,129 +496,164 @@ DTSTART;TZID=Europe/Warsaw:20261022T114000
 DTEND;TZID=Europe/Warsaw:20261022T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261022T160000
+DTEND;TZID=Europe/Warsaw:20261022T173500
+SUMMARY:Sr (P)
+LOCATION:239 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261022T175000
 DTEND;TZID=Europe/Warsaw:20261022T192500
 SUMMARY:Sr (P)
 LOCATION:239 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T114000
+DTEND;TZID=Europe/Warsaw:20261023T131500
+SUMMARY:PsbI (P)
+LOCATION:011 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261023T133000
 DTEND;TZID=Europe/Warsaw:20261023T150500
 SUMMARY:PsbI (P)
 LOCATION:011 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T160000
 DTEND;TZID=Europe/Warsaw:20261023T173500
 SUMMARY:PsbI (w)
 LOCATION:307 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T095000
 DTEND;TZID=Europe/Warsaw:20261024T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T080000
 DTEND;TZID=Europe/Warsaw:20261026T093500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T095000
 DTEND;TZID=Europe/Warsaw:20261026T112500
 SUMMARY:Swp (w)
 LOCATION:203 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T114000
+DTEND;TZID=Europe/Warsaw:20261026T131500
+SUMMARY:TCT (w)
+LOCATION:317 S
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261026T133000
 DTEND;TZID=Europe/Warsaw:20261026T150500
 SUMMARY:TCT (w)
 LOCATION:317 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261026T160000
 DTEND;TZID=Europe/Warsaw:20261026T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261027T095000
 DTEND;TZID=Europe/Warsaw:20261027T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T095000
 DTEND;TZID=Europe/Warsaw:20261028T112500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T114000
 DTEND;TZID=Europe/Warsaw:20261028T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T133000
 DTEND;TZID=Europe/Warsaw:20261028T150500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T160000
 DTEND;TZID=Europe/Warsaw:20261028T173500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T080000
+DTEND;TZID=Europe/Warsaw:20261029T093500
+SUMMARY:Sme. (w)
+LOCATION:317 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261029T095000
 DTEND;TZID=Europe/Warsaw:20261029T112500
 SUMMARY:Sme. (w)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T114000
 DTEND;TZID=Europe/Warsaw:20261029T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T133000
 DTEND;TZID=Europe/Warsaw:20261029T150500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T160000
 DTEND;TZID=Europe/Warsaw:20261029T173500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T095000
+DTEND;TZID=Europe/Warsaw:20261030T112500
+SUMMARY:Picz (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261030T114000
 DTEND;TZID=Europe/Warsaw:20261030T131500
 SUMMARY:Picz (L)
 LOCATION:09 65
@@ -531,119 +664,140 @@ DTSTART;TZID=Europe/Warsaw:20261030T133000
 DTEND;TZID=Europe/Warsaw:20261030T150500
 SUMMARY:PsbI (w)
 LOCATION:307 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T160000
 DTEND;TZID=Europe/Warsaw:20261030T173500
 SUMMARY:PsbI (w)
 LOCATION:307 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Giro
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261031T095000
 DTEND;TZID=Europe/Warsaw:20261031T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T095000
 DTEND;TZID=Europe/Warsaw:20261102T112500
 SUMMARY:Scrz (w)
 LOCATION:203 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T114000
 DTEND;TZID=Europe/Warsaw:20261102T131500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T133000
 DTEND;TZID=Europe/Warsaw:20261102T150500
 SUMMARY:wzbnim (w)
 LOCATION:19 36
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mjr dr inż. Marzena Walkowiak
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261102T160000
 DTEND;TZID=Europe/Warsaw:20261102T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T080000
+DTEND;TZID=Europe/Warsaw:20261103T093500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 1
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261103T095000
+DTEND;TZID=Europe/Warsaw:20261103T112500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 1
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261103T114000
 DTEND;TZID=Europe/Warsaw:20261103T131500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: mjr mgr Filip Zawadzki; kpr.  Natalia Majewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T133000
 DTEND;TZID=Europe/Warsaw:20261103T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PWC2)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T160000
 DTEND;TZID=Europe/Warsaw:20261103T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PWC2)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T080000
 DTEND;TZID=Europe/Warsaw:20261104T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T095000
 DTEND;TZID=Europe/Warsaw:20261104T112500
 SUMMARY:Swp (w)
 LOCATION:203 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T114000
 DTEND;TZID=Europe/Warsaw:20261104T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T133000
 DTEND;TZID=Europe/Warsaw:20261104T150500
 SUMMARY:wzbnim (w)
 LOCATION:19 36
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mjr dr inż. Marzena Walkowiak
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T175000
 DTEND;TZID=Europe/Warsaw:20261104T192500
 SUMMARY:Wf_E (E)
 LOCATION:
-DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 6
+DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T080000
-DTEND;TZID=Europe/Warsaw:20261105T112500
+DTEND;TZID=Europe/Warsaw:20261105T093500
 SUMMARY:JA-E (i)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Inne\nNumer zajęć: 1\nProwadzący: egzamin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261105T095000
+DTEND;TZID=Europe/Warsaw:20261105T112500
+SUMMARY:JA-E (i)
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: Inne\nNumer zajęć: 2\nProwadzący: egzamin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T114000
 DTEND;TZID=Europe/Warsaw:20261105T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T095000
@@ -654,612 +808,731 @@ DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T114000
-DTEND;TZID=Europe/Warsaw:20261106T150500
+DTEND;TZID=Europe/Warsaw:20261106T131500
 SUMMARY:Picz (L)
 LOCATION:09 65
 DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261106T133000
+DTEND;TZID=Europe/Warsaw:20261106T150500
+SUMMARY:Picz (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T095000
 DTEND;TZID=Europe/Warsaw:20261107T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T080000
 DTEND;TZID=Europe/Warsaw:20261109T093500
 SUMMARY:Scrz (w)
 LOCATION:203 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T095000
 DTEND;TZID=Europe/Warsaw:20261109T112500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T114000
 DTEND;TZID=Europe/Warsaw:20261109T131500
 SUMMARY:Swp (w)
 LOCATION:203 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T133000
 DTEND;TZID=Europe/Warsaw:20261109T150500
 SUMMARY:wzbnim (w)
 LOCATION:19 36
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mjr dr inż. Marzena Walkowiak
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T160000
 DTEND;TZID=Europe/Warsaw:20261109T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
 DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T114000
 DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:REG (w)
 LOCATION:AW 3/043
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: ppłk rez. mgr Marcin Bomba
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T133000
 DTEND;TZID=Europe/Warsaw:20261110T150500
 SUMMARY:Pmsk (P)
 LOCATION:120 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T160000
 DTEND;TZID=Europe/Warsaw:20261110T173500
 SUMMARY:Pmsk (P)
 LOCATION:120 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T080000
 DTEND;TZID=Europe/Warsaw:20261112T093500
 SUMMARY:wzbnim (w)
 LOCATION:19 36
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mjr dr inż. Marzena Walkowiak
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T095000
 DTEND;TZID=Europe/Warsaw:20261112T112500
 SUMMARY:Swp (L)
 LOCATION:09 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T114000
 DTEND;TZID=Europe/Warsaw:20261112T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T133000
 DTEND;TZID=Europe/Warsaw:20261112T150500
 SUMMARY:ZBD (L)
 LOCATION:223 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T160000
 DTEND;TZID=Europe/Warsaw:20261112T173500
 SUMMARY:ZBD (L)
 LOCATION:223 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T080000
+DTEND;TZID=Europe/Warsaw:20261113T093500
+SUMMARY:Sr (w)
+LOCATION:307 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T095000
 DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:Sr (w)
 LOCATION:307 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T114000
+DTEND;TZID=Europe/Warsaw:20261113T131500
+SUMMARY:Scrz (L)
+LOCATION:011 65
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T133000
 DTEND;TZID=Europe/Warsaw:20261113T150500
 SUMMARY:Scrz (L)
 LOCATION:011 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T095000
 DTEND;TZID=Europe/Warsaw:20261114T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T080000
 DTEND;TZID=Europe/Warsaw:20261116T093500
 SUMMARY:Scrz (w)
 LOCATION:203 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T095000
 DTEND;TZID=Europe/Warsaw:20261116T112500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T114000
 DTEND;TZID=Europe/Warsaw:20261116T131500
 SUMMARY:Sme. (ć)
 LOCATION:314 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T160000
 DTEND;TZID=Europe/Warsaw:20261116T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T095000
 DTEND;TZID=Europe/Warsaw:20261117T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T133000
 DTEND;TZID=Europe/Warsaw:20261117T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PWC2)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T160000
 DTEND;TZID=Europe/Warsaw:20261117T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PWC2)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T095000
 DTEND;TZID=Europe/Warsaw:20261118T112500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T114000
 DTEND;TZID=Europe/Warsaw:20261118T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T133000
 DTEND;TZID=Europe/Warsaw:20261118T150500
 SUMMARY:TCT (w)
 LOCATION:317 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T160000
 DTEND;TZID=Europe/Warsaw:20261118T173500
 SUMMARY:TCT (w)
 LOCATION:317 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T080000
-DTEND;TZID=Europe/Warsaw:20261119T112500
+DTEND;TZID=Europe/Warsaw:20261119T093500
 SUMMARY:PsbI (L)
 LOCATION:106 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T095000
+DTEND;TZID=Europe/Warsaw:20261119T112500
+SUMMARY:PsbI (L)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T114000
 DTEND;TZID=Europe/Warsaw:20261119T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T133000
 DTEND;TZID=Europe/Warsaw:20261119T150500
 SUMMARY:wzbnim (ć)
 LOCATION:308 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr dr inż. Marzena Walkowiak
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T095000
 DTEND;TZID=Europe/Warsaw:20261120T112500
 SUMMARY:Sr (w)
 LOCATION:307 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T114000
 DTEND;TZID=Europe/Warsaw:20261120T131500
 SUMMARY:Swp (w)
 LOCATION:203 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T133000
 DTEND;TZID=Europe/Warsaw:20261120T150500
 SUMMARY:PsbI (w)
 LOCATION:307 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T095000
 DTEND;TZID=Europe/Warsaw:20261121T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T133000
 DTEND;TZID=Europe/Warsaw:20261123T150500
 SUMMARY:Sme. (ć)
 LOCATION:313 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T160000
 DTEND;TZID=Europe/Warsaw:20261123T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T095000
 DTEND;TZID=Europe/Warsaw:20261124T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T133000
 DTEND;TZID=Europe/Warsaw:20261124T150500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T160000
 DTEND;TZID=Europe/Warsaw:20261124T173500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T080000
+DTEND;TZID=Europe/Warsaw:20261125T093500
+SUMMARY:Ja (ć)
+LOCATION:124 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T095000
 DTEND;TZID=Europe/Warsaw:20261125T112500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T114000
 DTEND;TZID=Europe/Warsaw:20261125T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T160000
-DTEND;TZID=Europe/Warsaw:20261125T192500
+DTEND;TZID=Europe/Warsaw:20261125T173500
 SUMMARY:Pmsk (P)
 LOCATION:011 65
 DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T175000
+DTEND;TZID=Europe/Warsaw:20261125T192500
+SUMMARY:Pmsk (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T080000
+DTEND;TZID=Europe/Warsaw:20261126T093500
+SUMMARY:Scrz (L)
+LOCATION:011 65
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T095000
 DTEND;TZID=Europe/Warsaw:20261126T112500
 SUMMARY:Scrz (L)
 LOCATION:011 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T114000
 DTEND;TZID=Europe/Warsaw:20261126T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T133000
 DTEND;TZID=Europe/Warsaw:20261126T150500
 SUMMARY:wzbnim (ć)
 LOCATION:203 65
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr dr inż. Marzena Walkowiak
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261128T095000
 DTEND;TZID=Europe/Warsaw:20261128T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T080000
 DTEND;TZID=Europe/Warsaw:20261130T093500
 SUMMARY:Sme. (ć)
 LOCATION:307 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T114000
+DTEND;TZID=Europe/Warsaw:20261130T131500
+SUMMARY:Pmsk (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T133000
 DTEND;TZID=Europe/Warsaw:20261130T150500
 SUMMARY:Pmsk (P)
 LOCATION:011 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T160000
 DTEND;TZID=Europe/Warsaw:20261130T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T080000
 DTEND;TZID=Europe/Warsaw:20261201T093500
 SUMMARY:TCT (L)
 LOCATION:106 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Jakub Walczak
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T095000
 DTEND;TZID=Europe/Warsaw:20261201T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T114000
+DTEND;TZID=Europe/Warsaw:20261201T131500
+SUMMARY:Picz (L)
+LOCATION:011 65
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261201T133000
 DTEND;TZID=Europe/Warsaw:20261201T150500
 SUMMARY:Picz (L)
 LOCATION:011 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T080000
+DTEND;TZID=Europe/Warsaw:20261202T093500
+SUMMARY:Ja (ć)
+LOCATION:124 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T095000
 DTEND;TZID=Europe/Warsaw:20261202T112500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T114000
 DTEND;TZID=Europe/Warsaw:20261202T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T133000
 DTEND;TZID=Europe/Warsaw:20261202T150500
 SUMMARY:Swp (P)
 LOCATION:120 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T160000
+DTEND;TZID=Europe/Warsaw:20261202T173500
+SUMMARY:TCT (w)
+LOCATION:317 S
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T175000
 DTEND;TZID=Europe/Warsaw:20261202T192500
 SUMMARY:TCT (w)
 LOCATION:317 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T080000
+DTEND;TZID=Europe/Warsaw:20261203T093500
+SUMMARY:PsbI (L)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261203T095000
 DTEND;TZID=Europe/Warsaw:20261203T112500
 SUMMARY:PsbI (L)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T114000
 DTEND;TZID=Europe/Warsaw:20261203T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T133000
 DTEND;TZID=Europe/Warsaw:20261203T150500
 SUMMARY:wzbnim (ć)
 LOCATION:308 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mjr dr inż. Marzena Walkowiak
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mjr dr inż. Marzena Walkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T095000
 DTEND;TZID=Europe/Warsaw:20261204T112500
 SUMMARY:Sr (w)
 LOCATION:307 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T114000
+DTEND;TZID=Europe/Warsaw:20261204T131500
+SUMMARY:Scrz (L)
+LOCATION:011 65
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261204T133000
 DTEND;TZID=Europe/Warsaw:20261204T150500
 SUMMARY:Scrz (L)
 LOCATION:011 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T095000
 DTEND;TZID=Europe/Warsaw:20261205T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T080000
+DTEND;TZID=Europe/Warsaw:20261207T093500
+SUMMARY:Picz (L)
+LOCATION:106 65
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261207T095000
 DTEND;TZID=Europe/Warsaw:20261207T112500
 SUMMARY:Picz (L)
 LOCATION:106 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T114000
 DTEND;TZID=Europe/Warsaw:20261207T131500
 SUMMARY:Sme. (ć)
 LOCATION:314 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T160000
 DTEND;TZID=Europe/Warsaw:20261207T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T095000
 DTEND;TZID=Europe/Warsaw:20261208T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T114000
 DTEND;TZID=Europe/Warsaw:20261208T131500
 SUMMARY:REG (ć)
 LOCATION:AW 3/043
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk rez. mgr Marcin Bomba
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T133000
 DTEND;TZID=Europe/Warsaw:20261208T150500
 SUMMARY:TW (ć)
 LOCATION:16 57
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Kazimierz Gołoś
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T160000
 DTEND;TZID=Europe/Warsaw:20261208T173500
 SUMMARY:TW (ć)
 LOCATION:16 57
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Kazimierz Gołoś
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T080000
+DTEND;TZID=Europe/Warsaw:20261210T093500
+SUMMARY:Swp (L)
+LOCATION:125 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261210T095000
 DTEND;TZID=Europe/Warsaw:20261210T112500
 SUMMARY:Swp (L)
 LOCATION:125 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T114000
 DTEND;TZID=Europe/Warsaw:20261210T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk mgr Paweł Ryś
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25\nProwadzący: ppłk mgr Paweł Ryś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T133000
 DTEND;TZID=Europe/Warsaw:20261210T150500
 SUMMARY:ZBD (L)
 LOCATION:224 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T160000
 DTEND;TZID=Europe/Warsaw:20261210T173500
 SUMMARY:ZBD (L)
 LOCATION:224 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T095000
 DTEND;TZID=Europe/Warsaw:20261211T112500
 SUMMARY:Sr (w)
 LOCATION:307 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T114000
+DTEND;TZID=Europe/Warsaw:20261211T131500
+SUMMARY:Pmsk (P)
+LOCATION:120 65
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 9\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261211T133000
 DTEND;TZID=Europe/Warsaw:20261211T150500
 SUMMARY:Pmsk (P)
 LOCATION:120 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 10\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T095000
 DTEND;TZID=Europe/Warsaw:20261212T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T095000
 DTEND;TZID=Europe/Warsaw:20261214T112500
 SUMMARY:Sme. (ć)
 LOCATION:313 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T114000
+DTEND;TZID=Europe/Warsaw:20261214T131500
+SUMMARY:Picz (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261214T133000
 DTEND;TZID=Europe/Warsaw:20261214T150500
 SUMMARY:Picz (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T160000
 DTEND;TZID=Europe/Warsaw:20261214T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T095000
 DTEND;TZID=Europe/Warsaw:20261215T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T114000
 DTEND;TZID=Europe/Warsaw:20261215T131500
 SUMMARY:REG (ć)
 LOCATION:AW 7
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk rez. mgr Marcin Bomba
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T160000
 DTEND;TZID=Europe/Warsaw:20261215T173500
 SUMMARY:Swp (L)
 LOCATION:09 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T095000
 DTEND;TZID=Europe/Warsaw:20261216T112500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T114000
 DTEND;TZID=Europe/Warsaw:20261216T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T133000
@@ -1270,415 +1543,555 @@ DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\n
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T080000
+DTEND;TZID=Europe/Warsaw:20261217T093500
+SUMMARY:PsbI (P)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261217T095000
 DTEND;TZID=Europe/Warsaw:20261217T112500
 SUMMARY:PsbI (P)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T114000
 DTEND;TZID=Europe/Warsaw:20261217T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T095000
 DTEND;TZID=Europe/Warsaw:20261218T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T114000
+DTEND;TZID=Europe/Warsaw:20261218T131500
+SUMMARY:Pmsk (P)
+LOCATION:120 65
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 11\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261218T133000
 DTEND;TZID=Europe/Warsaw:20261218T150500
 SUMMARY:Pmsk (P)
 LOCATION:120 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 12\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T095000
 DTEND;TZID=Europe/Warsaw:20261219T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T080000
+DTEND;TZID=Europe/Warsaw:20261221T093500
+SUMMARY:Pmsk (P)
+LOCATION:106 65
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 13\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T095000
 DTEND;TZID=Europe/Warsaw:20261221T112500
 SUMMARY:Pmsk (P)
 LOCATION:106 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 14\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T114000
-DTEND;TZID=Europe/Warsaw:20261221T150500
+DTEND;TZID=Europe/Warsaw:20261221T131500
 SUMMARY:Sr (P)
 LOCATION:106 65
 DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T133000
+DTEND;TZID=Europe/Warsaw:20261221T150500
+SUMMARY:Sr (P)
+LOCATION:106 65
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T160000
 DTEND;TZID=Europe/Warsaw:20261221T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T080000
 DTEND;TZID=Europe/Warsaw:20261222T093500
 SUMMARY:Sme. (ć)
 LOCATION:316 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T095000
 DTEND;TZID=Europe/Warsaw:20261222T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T114000
-DTEND;TZID=Europe/Warsaw:20261222T150500
+DTEND;TZID=Europe/Warsaw:20261222T131500
 SUMMARY:TW (ć)
 LOCATION:16 57
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Kazimierz Gołoś
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261222T133000
+DTEND;TZID=Europe/Warsaw:20261222T150500
+SUMMARY:TW (ć)
+LOCATION:16 57
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T160000
 DTEND;TZID=Europe/Warsaw:20261222T173500
 SUMMARY:Swp (L)
 LOCATION:09 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T080000
 DTEND;TZID=Europe/Warsaw:20261223T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T095000
 DTEND;TZID=Europe/Warsaw:20261223T112500
 SUMMARY:Sr (w)
 LOCATION:313 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T114000
+DTEND;TZID=Europe/Warsaw:20261223T131500
+SUMMARY:Picz (L)
+LOCATION:011 65
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261223T133000
 DTEND;TZID=Europe/Warsaw:20261223T150500
 SUMMARY:Picz (L)
 LOCATION:011 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T080000
+DTEND;TZID=Europe/Warsaw:20270107T093500
+SUMMARY:Scrz (L)
+LOCATION:011 65
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270107T095000
 DTEND;TZID=Europe/Warsaw:20270107T112500
 SUMMARY:Scrz (L)
 LOCATION:011 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T114000
 DTEND;TZID=Europe/Warsaw:20270107T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 31\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T080000
+DTEND;TZID=Europe/Warsaw:20270108T093500
+SUMMARY:Pmsk (P)
+LOCATION:125 65
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 15\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270108T095000
 DTEND;TZID=Europe/Warsaw:20270108T112500
 SUMMARY:Pmsk (P)
 LOCATION:125 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 16\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T114000
 DTEND;TZID=Europe/Warsaw:20270108T131500
 SUMMARY:ZBD (L)
 LOCATION:226 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T133000
 DTEND;TZID=Europe/Warsaw:20270108T150500
 SUMMARY:Swp (P)
 LOCATION:09 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T160000
 DTEND;TZID=Europe/Warsaw:20270108T173500
 SUMMARY:Swp (P)
 LOCATION:09 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T095000
 DTEND;TZID=Europe/Warsaw:20270109T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T080000
+DTEND;TZID=Europe/Warsaw:20270111T093500
+SUMMARY:Pmsk (P)
+LOCATION:106 65
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 17\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T095000
 DTEND;TZID=Europe/Warsaw:20270111T112500
 SUMMARY:Pmsk (P)
 LOCATION:106 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 18\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T114000
+DTEND;TZID=Europe/Warsaw:20270111T131500
+SUMMARY:PsbI (L)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T133000
 DTEND;TZID=Europe/Warsaw:20270111T150500
 SUMMARY:PsbI (L)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T160000
 DTEND;TZID=Europe/Warsaw:20270111T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T080000
 DTEND;TZID=Europe/Warsaw:20270112T093500
 SUMMARY:TCT (L)
 LOCATION:121 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Jakub Walczak
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T095000
 DTEND;TZID=Europe/Warsaw:20270112T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 32\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T114000
 DTEND;TZID=Europe/Warsaw:20270112T131500
 SUMMARY:TW (ć)
 LOCATION:16 57
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Kazimierz Gołoś
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Kazimierz Gołoś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T095000
 DTEND;TZID=Europe/Warsaw:20270113T112500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T114000
 DTEND;TZID=Europe/Warsaw:20270113T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 33\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T133000
 DTEND;TZID=Europe/Warsaw:20270113T150500
 SUMMARY:Sme. (ć)
 LOCATION:307 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T080000
+DTEND;TZID=Europe/Warsaw:20270114T093500
+SUMMARY:Picz (L)
+LOCATION:011 65
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270114T095000
 DTEND;TZID=Europe/Warsaw:20270114T112500
 SUMMARY:Picz (L)
 LOCATION:011 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T114000
 DTEND;TZID=Europe/Warsaw:20270114T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 34\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T095000
+DTEND;TZID=Europe/Warsaw:20270115T112500
+SUMMARY:Swp (P)
+LOCATION:106 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270115T114000
 DTEND;TZID=Europe/Warsaw:20270115T131500
 SUMMARY:Swp (P)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T095000
 DTEND;TZID=Europe/Warsaw:20270116T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T114000
+DTEND;TZID=Europe/Warsaw:20270118T131500
+SUMMARY:Pmsk (P)
+LOCATION:09 65
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 19\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T133000
 DTEND;TZID=Europe/Warsaw:20270118T150500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 20\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T160000
 DTEND;TZID=Europe/Warsaw:20270118T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T095000
 DTEND;TZID=Europe/Warsaw:20270119T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 35\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T133000
 DTEND;TZID=Europe/Warsaw:20270119T150500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mł.chor. Maciej Koczański
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T160000
+DTEND;TZID=Europe/Warsaw:20270119T173500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 1
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mł.chor. Maciej Koczański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270119T175000
 DTEND;TZID=Europe/Warsaw:20270119T192500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T080000
 DTEND;TZID=Europe/Warsaw:20270120T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T114000
 DTEND;TZID=Europe/Warsaw:20270120T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 36\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T114000
 DTEND;TZID=Europe/Warsaw:20270121T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 37\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T095000
+DTEND;TZID=Europe/Warsaw:20270122T112500
+SUMMARY:Swp (P)
+LOCATION:106 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270122T114000
 DTEND;TZID=Europe/Warsaw:20270122T131500
 SUMMARY:Swp (P)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 7\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T095000
 DTEND;TZID=Europe/Warsaw:20270123T112500
 SUMMARY:XWF (ć)
 LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T114000
+DTEND;TZID=Europe/Warsaw:20270125T131500
+SUMMARY:PsbI (L)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T133000
 DTEND;TZID=Europe/Warsaw:20270125T150500
 SUMMARY:PsbI (L)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T160000
 DTEND;TZID=Europe/Warsaw:20270125T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T095000
 DTEND;TZID=Europe/Warsaw:20270126T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 38\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T133000
 DTEND;TZID=Europe/Warsaw:20270126T150500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mł.chor. Maciej Koczański
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270126T160000
+DTEND;TZID=Europe/Warsaw:20270126T173500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 1
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17\nProwadzący: mł.chor. Maciej Koczański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270126T175000
 DTEND;TZID=Europe/Warsaw:20270126T192500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mł.chor. Maciej Koczański
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18\nProwadzący: mł.chor. Maciej Koczański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T080000
 DTEND;TZID=Europe/Warsaw:20270127T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T114000
 DTEND;TZID=Europe/Warsaw:20270127T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 39\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T133000
 DTEND;TZID=Europe/Warsaw:20270127T150500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T160000
-DTEND;TZID=Europe/Warsaw:20270127T192500
+DTEND;TZID=Europe/Warsaw:20270127T173500
 SUMMARY:Sr (P)
 LOCATION:239 S
 DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270127T175000
+DTEND;TZID=Europe/Warsaw:20270127T192500
+SUMMARY:Sr (P)
+LOCATION:239 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T114000
 DTEND;TZID=Europe/Warsaw:20270128T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk mgr Paweł Ryś
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 40\nProwadzący: ppłk mgr Paweł Ryś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T133000
 DTEND;TZID=Europe/Warsaw:20270128T150500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 21\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T160000
 DTEND;TZID=Europe/Warsaw:20270128T173500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNumer zajęć: 22\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T095000
+DTEND;TZID=Europe/Warsaw:20270129T112500
+SUMMARY:PsbI (P)
+LOCATION:011 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270129T114000
+DTEND;TZID=Europe/Warsaw:20270129T131500
+SUMMARY:PsbI (P)
+LOCATION:011 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270129T133000
 DTEND;TZID=Europe/Warsaw:20270129T150500
 SUMMARY:PsbI (P)
 LOCATION:011 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Czerniszewski
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T160000
 DTEND;TZID=Europe/Warsaw:20270129T173500
 SUMMARY:Sr (P)
 LOCATION:239 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNumer zajęć: 7\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 END:VCALENDAR

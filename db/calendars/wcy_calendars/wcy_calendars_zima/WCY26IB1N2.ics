@@ -24,31 +24,38 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T080000
-DTEND;TZID=Europe/Warsaw:20261003T112500
+DTEND;TZID=Europe/Warsaw:20261003T093500
 SUMMARY:Ing (s)
 LOCATION:klub WAT
 DESCRIPTION:Inauguracja\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261003T095000
+DTEND;TZID=Europe/Warsaw:20261003T112500
+SUMMARY:Ing (s)
+LOCATION:klub WAT
+DESCRIPTION:Inauguracja\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T114000
 DTEND;TZID=Europe/Warsaw:20261003T131500
 SUMMARY:Nmtz (w)
 LOCATION:317 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zdzisław Wojciechowski
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zdzisław Wojciechowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T133000
 DTEND;TZID=Europe/Warsaw:20261003T150500
 SUMMARY:Ps (w)
 LOCATION:317 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261003T152000
 DTEND;TZID=Europe/Warsaw:20261003T165500
 SUMMARY:BSI (w)
 LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261004T080000
@@ -62,24 +69,38 @@ DTSTART;TZID=Europe/Warsaw:20261004T095000
 DTEND;TZID=Europe/Warsaw:20261004T112500
 SUMMARY:Isim (w)
 LOCATION:309 S
-DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261004T114000
 DTEND;TZID=Europe/Warsaw:20261004T131500
 SUMMARY:Mia (w)
 LOCATION:309 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T080000
+DTEND;TZID=Europe/Warsaw:20261010T093500
+SUMMARY:Nmtz (w)
+LOCATION:317 S
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Zdzisław Wojciechowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261010T095000
 DTEND;TZID=Europe/Warsaw:20261010T112500
 SUMMARY:Nmtz (w)
 LOCATION:317 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Zdzisław Wojciechowski
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Zdzisław Wojciechowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T114000
+DTEND;TZID=Europe/Warsaw:20261010T131500
+SUMMARY:Ps (w)
+LOCATION:307 S
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261010T133000
 DTEND;TZID=Europe/Warsaw:20261010T150500
 SUMMARY:Ps (w)
 LOCATION:307 S
@@ -90,21 +111,21 @@ DTSTART;TZID=Europe/Warsaw:20261010T152000
 DTEND;TZID=Europe/Warsaw:20261010T165500
 SUMMARY:BSI (w)
 LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T171000
 DTEND;TZID=Europe/Warsaw:20261010T184500
 SUMMARY:MumII (w)
 LOCATION:307 S
-DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261011T080000
 DTEND;TZID=Europe/Warsaw:20261011T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261011T095000
@@ -118,7 +139,7 @@ DTSTART;TZID=Europe/Warsaw:20261011T114000
 DTEND;TZID=Europe/Warsaw:20261011T131500
 SUMMARY:Mia (w)
 LOCATION:309 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T080000
@@ -129,38 +150,45 @@ DESCRIPTION:Cloud computing\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadz�
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T095000
+DTEND;TZID=Europe/Warsaw:20261017T112500
+SUMMARY:Ps (w)
+LOCATION:314 S
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261017T114000
 DTEND;TZID=Europe/Warsaw:20261017T131500
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T133000
 DTEND;TZID=Europe/Warsaw:20261017T150500
 SUMMARY:Tal (w)
 LOCATION:314 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T171000
 DTEND;TZID=Europe/Warsaw:20261017T184500
 SUMMARY:MumII (w)
 LOCATION:308 S
-DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T080000
 DTEND;TZID=Europe/Warsaw:20261018T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T095000
 DTEND;TZID=Europe/Warsaw:20261018T112500
 SUMMARY:Isim (w)
 LOCATION:309 S
-DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T114000
@@ -174,24 +202,45 @@ DTSTART;TZID=Europe/Warsaw:20261018T133000
 DTEND;TZID=Europe/Warsaw:20261018T150500
 SUMMARY:BSI (ć)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T152000
+DTEND;TZID=Europe/Warsaw:20261018T165500
+SUMMARY:Tim (L)
+LOCATION:226 S
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261018T171000
 DTEND;TZID=Europe/Warsaw:20261018T184500
 SUMMARY:Tim (L)
 LOCATION:226 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T080000
+DTEND;TZID=Europe/Warsaw:20261024T093500
+SUMMARY:Clc (w)
+LOCATION:307 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Michał Dyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T095000
 DTEND;TZID=Europe/Warsaw:20261024T112500
 SUMMARY:Clc (w)
 LOCATION:307 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Michał Dyk
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T114000
+DTEND;TZID=Europe/Warsaw:20261024T131500
+SUMMARY:Tal (w)
+LOCATION:313 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261024T133000
 DTEND;TZID=Europe/Warsaw:20261024T150500
 SUMMARY:Tal (w)
 LOCATION:313 S
@@ -202,24 +251,31 @@ DTSTART;TZID=Europe/Warsaw:20261024T152000
 DTEND;TZID=Europe/Warsaw:20261024T165500
 SUMMARY:Mia (w)
 LOCATION:309 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T171000
 DTEND;TZID=Europe/Warsaw:20261024T184500
 SUMMARY:Sws (s)
 LOCATION:314 S
-DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 6\nProwadzący: mgr inż. Adam Kutyła; dr Joanna Piasecka
+DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1\nProwadzący: mgr inż. Adam Kutyła; dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261025T080000
 DTEND;TZID=Europe/Warsaw:20261025T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261025T095000
+DTEND;TZID=Europe/Warsaw:20261025T112500
+SUMMARY:Tim (w)
+LOCATION:307 S
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261025T114000
 DTEND;TZID=Europe/Warsaw:20261025T131500
 SUMMARY:Tim (w)
 LOCATION:307 S
@@ -227,52 +283,80 @@ DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer za
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T080000
-DTEND;TZID=Europe/Warsaw:20261114T112500
+DTEND;TZID=Europe/Warsaw:20261114T093500
 SUMMARY:Msk. (w)
 LOCATION:307 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T095000
+DTEND;TZID=Europe/Warsaw:20261114T112500
+SUMMARY:Msk. (w)
+LOCATION:307 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T114000
+DTEND;TZID=Europe/Warsaw:20261114T131500
+SUMMARY:Tal (w)
+LOCATION:314 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T133000
 DTEND;TZID=Europe/Warsaw:20261114T150500
 SUMMARY:Tal (w)
 LOCATION:314 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T152000
 DTEND;TZID=Europe/Warsaw:20261114T165500
 SUMMARY:Tim (w)
 LOCATION:308 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T080000
 DTEND;TZID=Europe/Warsaw:20261115T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T095000
 DTEND;TZID=Europe/Warsaw:20261115T112500
 SUMMARY:Mia (w)
 LOCATION:307 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T114000
+DTEND;TZID=Europe/Warsaw:20261115T131500
+SUMMARY:Mia (L)
+LOCATION:252 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261115T133000
 DTEND;TZID=Europe/Warsaw:20261115T150500
 SUMMARY:Mia (L)
 LOCATION:252 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T080000
+DTEND;TZID=Europe/Warsaw:20261121T093500
+SUMMARY:Msk. (w)
+LOCATION:307 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T095000
 DTEND;TZID=Europe/Warsaw:20261121T112500
 SUMMARY:Msk. (w)
 LOCATION:307 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T114000
@@ -286,21 +370,21 @@ DTSTART;TZID=Europe/Warsaw:20261121T133000
 DTEND;TZID=Europe/Warsaw:20261121T150500
 SUMMARY:Ps (w)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T152000
 DTEND;TZID=Europe/Warsaw:20261121T165500
 SUMMARY:Nmtz (w)
 LOCATION:317 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Zdzisław Wojciechowski
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Zdzisław Wojciechowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T080000
 DTEND;TZID=Europe/Warsaw:20261122T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T095000
@@ -314,28 +398,28 @@ DTSTART;TZID=Europe/Warsaw:20261122T114000
 DTEND;TZID=Europe/Warsaw:20261122T131500
 SUMMARY:Isim (P)
 LOCATION:252 S
-DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T133000
 DTEND;TZID=Europe/Warsaw:20261122T150500
 SUMMARY:Tal (L)
 LOCATION:252 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T095000
 DTEND;TZID=Europe/Warsaw:20261205T112500
 SUMMARY:BSI (L)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T114000
 DTEND;TZID=Europe/Warsaw:20261205T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T133000
@@ -346,20 +430,34 @@ DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\n
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T152000
+DTEND;TZID=Europe/Warsaw:20261205T165500
+SUMMARY:Mia (L)
+LOCATION:252 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261205T171000
 DTEND;TZID=Europe/Warsaw:20261205T184500
 SUMMARY:Mia (L)
 LOCATION:252 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T080000
 DTEND;TZID=Europe/Warsaw:20261206T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T095000
+DTEND;TZID=Europe/Warsaw:20261206T112500
+SUMMARY:Isim (L)
+LOCATION:252 S
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261206T114000
 DTEND;TZID=Europe/Warsaw:20261206T131500
 SUMMARY:Isim (L)
 LOCATION:252 S
@@ -367,6 +465,13 @@ DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: L
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T133000
+DTEND;TZID=Europe/Warsaw:20261206T150500
+SUMMARY:Tim (L)
+LOCATION:224 S
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261206T152000
 DTEND;TZID=Europe/Warsaw:20261206T165500
 SUMMARY:Tim (L)
 LOCATION:224 S
@@ -374,38 +479,45 @@ DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNum
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T080000
-DTEND;TZID=Europe/Warsaw:20261212T112500
+DTEND;TZID=Europe/Warsaw:20261212T093500
 SUMMARY:Clc (L)
 LOCATION:252 S
 DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Michał Dyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261212T095000
+DTEND;TZID=Europe/Warsaw:20261212T112500
+SUMMARY:Clc (L)
+LOCATION:252 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T114000
 DTEND;TZID=Europe/Warsaw:20261212T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T133000
 DTEND;TZID=Europe/Warsaw:20261212T150500
 SUMMARY:Isim (P)
 LOCATION:233 S
-DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T171000
 DTEND;TZID=Europe/Warsaw:20261212T184500
 SUMMARY:Isim (L)
 LOCATION:233 S
-DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261213T080000
 DTEND;TZID=Europe/Warsaw:20261213T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261213T095000
@@ -419,7 +531,7 @@ DTSTART;TZID=Europe/Warsaw:20261213T114000
 DTEND;TZID=Europe/Warsaw:20261213T131500
 SUMMARY:Tim (w)
 LOCATION:309 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261213T152000
@@ -430,104 +542,146 @@ DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Wykład\n
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T175000
+DTEND;TZID=Europe/Warsaw:20261218T192500
+SUMMARY:Ja (ć)
+LOCATION:on-line..
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mgr Anna Kurzela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261218T194000
 DTEND;TZID=Europe/Warsaw:20261218T211500
 SUMMARY:Ja (ć)
 LOCATION:on-line..
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T080000
-DTEND;TZID=Europe/Warsaw:20261219T112500
+DTEND;TZID=Europe/Warsaw:20261219T093500
 SUMMARY:Msk. (L)
 LOCATION:252 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261219T095000
+DTEND;TZID=Europe/Warsaw:20261219T112500
+SUMMARY:Msk. (L)
+LOCATION:252 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T114000
 DTEND;TZID=Europe/Warsaw:20261219T131500
 SUMMARY:MumII (L)
 LOCATION:252 S
-DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T133000
 DTEND;TZID=Europe/Warsaw:20261219T150500
 SUMMARY:Isim (P)
 LOCATION:252 S
-DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T152000
 DTEND;TZID=Europe/Warsaw:20261219T165500
 SUMMARY:Nmtz (ć)
 LOCATION:307 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Zdzisław Wojciechowski
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Zdzisław Wojciechowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261220T080000
 DTEND;TZID=Europe/Warsaw:20261220T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261220T095000
 DTEND;TZID=Europe/Warsaw:20261220T112500
 SUMMARY:BSI (L)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261220T114000
+DTEND;TZID=Europe/Warsaw:20261220T131500
+SUMMARY:Tim (L)
+LOCATION:233 S
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261220T133000
 DTEND;TZID=Europe/Warsaw:20261220T150500
 SUMMARY:Tim (L)
 LOCATION:233 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T080000
+DTEND;TZID=Europe/Warsaw:20270109T093500
+SUMMARY:Clc (L)
+LOCATION:223 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Michał Dyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270109T095000
 DTEND;TZID=Europe/Warsaw:20270109T112500
 SUMMARY:Clc (L)
 LOCATION:223 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Michał Dyk
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T114000
 DTEND;TZID=Europe/Warsaw:20270109T131500
 SUMMARY:BSI (L)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T133000
 DTEND;TZID=Europe/Warsaw:20270109T150500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Piotr Mularczyk
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270109T152000
 DTEND;TZID=Europe/Warsaw:20270109T165500
 SUMMARY:Nmtz (ć)
 LOCATION:308 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Zdzisław Wojciechowski
+DESCRIPTION:Nowoczesne metody i techniki zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Zdzisław Wojciechowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270110T080000
 DTEND;TZID=Europe/Warsaw:20270110T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T080000
+DTEND;TZID=Europe/Warsaw:20270116T093500
+SUMMARY:Msk. (L)
+LOCATION:252 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270116T095000
 DTEND;TZID=Europe/Warsaw:20270116T112500
 SUMMARY:Msk. (L)
 LOCATION:252 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T114000
+DTEND;TZID=Europe/Warsaw:20270116T131500
+SUMMARY:MumII (L)
+LOCATION:252 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270116T133000
 DTEND;TZID=Europe/Warsaw:20270116T150500
 SUMMARY:MumII (L)
 LOCATION:252 S
@@ -538,63 +692,91 @@ DTSTART;TZID=Europe/Warsaw:20270117T080000
 DTEND;TZID=Europe/Warsaw:20270117T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T080000
+DTEND;TZID=Europe/Warsaw:20270123T093500
+SUMMARY:Clc (L)
+LOCATION:223 S
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Michał Dyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270123T095000
 DTEND;TZID=Europe/Warsaw:20270123T112500
 SUMMARY:Clc (L)
 LOCATION:223 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Michał Dyk
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T114000
+DTEND;TZID=Europe/Warsaw:20270123T131500
+SUMMARY:MumII (L)
+LOCATION:252 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270123T133000
 DTEND;TZID=Europe/Warsaw:20270123T150500
 SUMMARY:MumII (L)
 LOCATION:252 S
-DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270124T080000
 DTEND;TZID=Europe/Warsaw:20270124T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270124T114000
+DTEND;TZID=Europe/Warsaw:20270124T131500
+SUMMARY:Mia (L)
+LOCATION:252 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270124T133000
 DTEND;TZID=Europe/Warsaw:20270124T150500
 SUMMARY:Mia (L)
 LOCATION:252 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270124T152000
 DTEND;TZID=Europe/Warsaw:20270124T165500
 SUMMARY:Tal (L)
 LOCATION:252 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270124T171000
 DTEND;TZID=Europe/Warsaw:20270124T184500
 SUMMARY:Tal (P)
 LOCATION:252 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270130T080000
 DTEND;TZID=Europe/Warsaw:20270130T093500
 SUMMARY:Clc (L)
 LOCATION:252 S
-DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Michał Dyk
+DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270130T095000
+DTEND;TZID=Europe/Warsaw:20270130T112500
+SUMMARY:Msk. (L)
+LOCATION:252 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270130T114000
 DTEND;TZID=Europe/Warsaw:20270130T131500
 SUMMARY:Msk. (L)
 LOCATION:252 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270130T133000
@@ -605,30 +787,44 @@ DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270130T152000
+DTEND;TZID=Europe/Warsaw:20270130T165500
+SUMMARY:MumII (L)
+LOCATION:252 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270130T171000
 DTEND;TZID=Europe/Warsaw:20270130T184500
 SUMMARY:MumII (L)
 LOCATION:252 S
-DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270131T080000
 DTEND;TZID=Europe/Warsaw:20270131T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Anna Kurzela
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270131T114000
 DTEND;TZID=Europe/Warsaw:20270131T131500
 SUMMARY:Isim (P)
 LOCATION:252 S
-DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Inteligentne systemy internetu rzeczy w medycynie\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270131T133000
+DTEND;TZID=Europe/Warsaw:20270131T150500
+SUMMARY:Tal (P)
+LOCATION:252 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Jarosław Napiórkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270131T152000
 DTEND;TZID=Europe/Warsaw:20270131T165500
 SUMMARY:Tal (P)
 LOCATION:252 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Jarosław Napiórkowski
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 END:VCALENDAR
