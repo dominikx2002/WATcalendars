@@ -90,11 +90,13 @@ def test_title_split():
 
 def test_parse_extracts_lessons_with_dates_and_times():
     lessons = _by(P.parse(FIXTURE, academic_start_year=2026))
-    # Steganografia on 1 Oct spans block 1+2 -> merged 08:00-11:25
+    # Steganografia on 1 Oct in blocks 1 and 2 -> two events, so the
+    # break between them shows in the calendar
     steg = [x for x in lessons if x.subject == "Steganografia"]
-    assert len(steg) == 1
-    assert steg[0].start == datetime(2026, 10, 1, 8, 0)
-    assert steg[0].end == datetime(2026, 10, 1, 11, 25)
+    assert [(x.start, x.end) for x in steg] == [
+        (datetime(2026, 10, 1, 8, 0), datetime(2026, 10, 1, 9, 35)),
+        (datetime(2026, 10, 1, 9, 50), datetime(2026, 10, 1, 11, 25)),
+    ]
     assert steg[0].type_full == "Laboratorium"
     assert steg[0].type == "(L)"
 
@@ -147,6 +149,18 @@ def test_nested_cell_tables_keep_cells_on_their_row():
     assert psbi.full_subject == "Projektowanie" and psbi.type_full == "Wykład"
 
 
+def test_class_number_comes_from_brackets_not_block():
+    # "Numer zajęć" is the "[n]" in the cell (n-th class of that subject
+    # and type), not the block number
+    lessons = P.parse(NESTED_FIXTURE, academic_start_year=2026)
+    assert {x.lesson_number for x in lessons} == {"1"}  # fixture cells say [1]
+    from bs4 import BeautifulSoup
+    cell = BeautifulSoup("<td><table><tr><td>BsIP (w) 307 S</td></tr>"
+                         "<tr><td>Fu</td></tr><tr><td>[4]</td></tr></table></td>",
+                         "html.parser").td
+    assert P._class_number(cell) == "4"
+
+
 def test_second_class_in_the_same_row_is_kept():
     # regression (issue #4): "</center></table>" after the first lesson
     # cell swallowed the rest of the row, so Beta on 12 Oct vanished.
@@ -173,11 +187,13 @@ def test_type_abbr():
 
 def test_rowspan_class_spans_two_blocks():
     lessons = P.parse(FIXTURE, academic_start_year=2026)
-    an = [x for x in lessons if x.subject == "Analiza"]
-    assert len(an) == 1
-    # the rowspan=2 cell sits in the 08X column -> 8 Oct, blocks 1+2
-    assert an[0].start == datetime(2026, 10, 8, 8, 0)
-    assert an[0].end == datetime(2026, 10, 8, 11, 25)
+    an = _by(x for x in lessons if x.subject == "Analiza")
+    # the rowspan=2 cell sits in the 08X column -> 8 Oct, one event per
+    # block so the break stays visible
+    assert [(x.start, x.end) for x in an] == [
+        (datetime(2026, 10, 8, 8, 0), datetime(2026, 10, 8, 9, 35)),
+        (datetime(2026, 10, 8, 9, 50), datetime(2026, 10, 8, 11, 25)),
+    ]
 
 
 def test_military_placeholder_is_skipped():

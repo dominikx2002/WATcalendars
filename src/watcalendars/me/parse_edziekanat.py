@@ -142,6 +142,13 @@ def _type_abbr(full_type: str) -> str:
     return full_type[:1].lower() if full_type else ""
 
 
+def _class_number(cell) -> str:
+    """The "[n]" in the cell: which class of this subject and type it is
+    (e.g. the 4th BsIP lecture), not the block number."""
+    found = re.findall(r"\[(\d+)\]", _text(cell))
+    return found[-1] if found else ""
+
+
 def _inside_lesson_cell(tr) -> bool:
     """True for the little <tr>s nested inside a filled lesson cell."""
     return any(td.get("title") for td in tr.find_parents("td"))
@@ -238,46 +245,30 @@ def parse(html: str, academic_start_year: int = 2026,
                 else:
                     span[key][1] = r
 
+        # One event per block, even for a cell spanning several blocks
+        # (rowspan): the break between blocks stays visible in the
+        # calendar. Such a cell has one "[n]", shared by its blocks.
         for (_cid, c), (r0, r1) in span.items():
             cell = grid[r0][c]
             subject, people, type_ = _split_title(cell.get("title"))
-            b0 = row_block.get(r0)
-            b1 = row_block.get(r1) or b0
-            if not b0:
-                continue
             day = col_date[c]
-            raw.append(dict(
-                date=day, weekday=wd, block=b0[0],
-                start=datetime.combine(day, b0[1]),
-                end=datetime.combine(day, (b1 or b0)[2]),
-                subject=subject, lecturers=people, type=type_,
-                short=_short_code(cell),
-                room=_room_from_cell(cell, type_) if with_rooms else "",
-            ))
+            seen = set()
+            for r in range(r0, r1 + 1):
+                block = row_block.get(r)
+                if not block or block in seen:
+                    continue
+                seen.add(block)
+                raw.append(dict(
+                    date=day, weekday=wd, block=block[0],
+                    start=datetime.combine(day, block[1]),
+                    end=datetime.combine(day, block[2]),
+                    subject=subject, lecturers=people, type=type_,
+                    short=_short_code(cell), number=_class_number(cell),
+                    room=_room_from_cell(cell, type_) if with_rooms else "",
+                ))
 
-    return _to_lessons(_merge(raw))
-
-
-def _merge(raw: List[dict]) -> List[dict]:
-    """Fold consecutive same-class blocks on one day into one event."""
-    raw.sort(key=lambda x: (x["date"], x["subject"], x["type"],
-                            tuple(x["lecturers"]), x["start"]))
-    out: List[dict] = []
-    for item in raw:
-        if out:
-            prev = out[-1]
-            same = (prev["date"] == item["date"]
-                    and prev["subject"] == item["subject"]
-                    and prev["type"] == item["type"]
-                    and prev["lecturers"] == item["lecturers"]
-                    and (item["start"] - prev["end"]).total_seconds() <= 20 * 60)
-            if same:
-                if item["end"] > prev["end"]:
-                    prev["end"] = item["end"]
-                continue
-        out.append(dict(item))
-    out.sort(key=lambda x: x["start"])
-    return out
+    raw.sort(key=lambda x: (x["start"], x["subject"]))
+    return _to_lessons(raw)
 
 
 def _to_lessons(raw: List[dict]) -> List[Lesson]:
@@ -288,7 +279,7 @@ def _to_lessons(raw: List[dict]) -> List[Lesson]:
             subject=x.get("short") or x["subject"],
             type=f"({_type_abbr(x['type'])})" if x["type"] else "",
             type_full=x["type"], room=x["room"],
-            lesson_number=str(x["block"] or ""), full_subject=x["subject"],
+            lesson_number=x["number"], full_subject=x["subject"],
             lecturers=x["lecturers"],
         )))
     return lessons
