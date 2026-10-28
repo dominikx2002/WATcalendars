@@ -177,13 +177,6 @@ LOCATION:117 47
 DESCRIPTION:Wprowadzenie do optyki klasycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: prof. Sławomir Sujecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261028T133000
-DTEND;TZID=Europe/Warsaw:20261028T150500
-SUMMARY:ak (w)
-LOCATION:228 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261029T080000
 DTEND;TZID=Europe/Warsaw:20261029T093500
 SUMMARY:Ekk (w)
@@ -217,6 +210,13 @@ DTEND;TZID=Europe/Warsaw:20261103T112500
 SUMMARY:Mpik (w)
 LOCATION:218 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261104T114000
+DTEND;TZID=Europe/Warsaw:20261104T131500
+SUMMARY:ak (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T133000

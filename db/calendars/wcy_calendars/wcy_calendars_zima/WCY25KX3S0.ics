@@ -718,16 +718,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T133000
 DTEND;TZID=Europe/Warsaw:20261030T150500
-SUMMARY:Ja (ć)
-LOCATION:
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261030T160000
-DTEND;TZID=Europe/Warsaw:20261030T173500
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: ppłk rez. dr Krzysztof Jaskólski; kpt. mgr Przemysław Kamela; mjr mgr Cezary Czarnecki; kmdr ppor. mgr inż. Wojciech Kordus; mł. chor. Waldemar Steć; kpr. Bartosz Słomka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261030T194000
+DTEND;TZID=Europe/Warsaw:20261030T211500
+SUMMARY:Ja (ć)
+LOCATION:ONLINE.
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261031T080000

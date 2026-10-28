@@ -870,6 +870,13 @@ LOCATION:22 /BIBL
 DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 1\nProwadzący: ppłk mgr Michał Lasak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T080000
+DTEND;TZID=Europe/Warsaw:20261117T093500
+SUMMARY:BD (Zp)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: zal popr\nNumer zajęć: 4\nProwadzący: dr inż. Roman Wantoch-Rekowski; mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T095000
 DTEND;TZID=Europe/Warsaw:20261117T112500
 SUMMARY:Pk (w)

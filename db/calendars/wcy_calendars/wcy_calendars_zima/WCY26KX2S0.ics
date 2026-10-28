@@ -548,6 +548,13 @@ LOCATION:313 S
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. Janusz Rybiński
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261027T175000
+DTEND;TZID=Europe/Warsaw:20261027T192500
+SUMMARY:SzOR (s)
+LOCATION:314 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T095000
 DTEND;TZID=Europe/Warsaw:20261028T112500
 SUMMARY:PoCy (w)
@@ -856,15 +863,15 @@ LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261112T160000
-DTEND;TZID=Europe/Warsaw:20261112T173500
+DTSTART;TZID=Europe/Warsaw:20261112T133000
+DTEND;TZID=Europe/Warsaw:20261112T150500
 SUMMARY:Matematyka I (ć)
 LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261112T175000
-DTEND;TZID=Europe/Warsaw:20261112T192500
+DTSTART;TZID=Europe/Warsaw:20261112T160000
+DTEND;TZID=Europe/Warsaw:20261112T173500
 SUMMARY:Matematyka I (ć)
 LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr Paweł Lubowiecki
@@ -1374,13 +1381,6 @@ LOCATION:233 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261209T160000
-DTEND;TZID=Europe/Warsaw:20261209T173500
-SUMMARY:Matematyka I (ć)
-LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: dr Paweł Lubowiecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T080000
 DTEND;TZID=Europe/Warsaw:20261210T093500
 SUMMARY:HP (ć)
@@ -1406,7 +1406,7 @@ DTSTART;TZID=Europe/Warsaw:20261210T160000
 DTEND;TZID=Europe/Warsaw:20261210T173500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: dr Paweł Lubowiecki
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T095000
@@ -1521,18 +1521,11 @@ LOCATION:228 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261217T133000
-DTEND;TZID=Europe/Warsaw:20261217T150500
-SUMMARY:Matematyka I (ć)
-LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: dr inż. Jarosław Łazuka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T160000
 DTEND;TZID=Europe/Warsaw:20261217T173500
 SUMMARY:Matematyka I (ć)
 LOCATION:
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: dr Paweł Lubowiecki
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T080000
@@ -1633,18 +1626,25 @@ LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270107T114000
+DTEND;TZID=Europe/Warsaw:20270107T131500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: dr Paweł Lubowiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270107T133000
+DTEND;TZID=Europe/Warsaw:20270107T150500
+SUMMARY:Matematyka I (ć)
+LOCATION:
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: dr Paweł Lubowiecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T160000
 DTEND;TZID=Europe/Warsaw:20270107T173500
 SUMMARY:Matematyka II (ć)
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: mgr Wojciech Matuszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270107T175000
-DTEND;TZID=Europe/Warsaw:20270107T192500
-SUMMARY:Matematyka II (ć)
-LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T080000
@@ -1768,6 +1768,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T160000
 DTEND;TZID=Europe/Warsaw:20270114T173500
+SUMMARY:Matematyka II (ć)
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270114T175000
+DTEND;TZID=Europe/Warsaw:20270114T192500
 SUMMARY:Matematyka II (ć)
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mgr Wojciech Matuszewski

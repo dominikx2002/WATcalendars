@@ -877,6 +877,20 @@ LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261223T080000
+DTEND;TZID=Europe/Warsaw:20261223T093500
+SUMMARY:ZU (L)
+LOCATION:087 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261223T095000
+DTEND;TZID=Europe/Warsaw:20261223T112500
+SUMMARY:ZU (L)
+LOCATION:087 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T114000
 DTEND;TZID=Europe/Warsaw:20261223T131500
 SUMMARY:Mispb (L)
@@ -975,20 +989,6 @@ LOCATION:223 S
 DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270113T133000
-DTEND;TZID=Europe/Warsaw:20270113T150500
-SUMMARY:ZU (L)
-LOCATION:223 S
-DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Wiesław Barcikowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270113T160000
-DTEND;TZID=Europe/Warsaw:20270113T173500
-SUMMARY:ZU (L)
-LOCATION:223 S
-DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Wiesław Barcikowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T080000
 DTEND;TZID=Europe/Warsaw:20270114T093500
 SUMMARY:Mispb (L)
@@ -1052,25 +1052,25 @@ LOCATION:223 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270120T080000
+DTEND;TZID=Europe/Warsaw:20270120T093500
+SUMMARY:ZU (L)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270120T095000
+DTEND;TZID=Europe/Warsaw:20270120T112500
+SUMMARY:ZU (L)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T114000
 DTEND;TZID=Europe/Warsaw:20270120T131500
 SUMMARY:BSI (L)
 LOCATION:223 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: dr inż. Piotr Górny
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270120T133000
-DTEND;TZID=Europe/Warsaw:20270120T150500
-SUMMARY:ZU (L)
-LOCATION:223 S
-DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Wiesław Barcikowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270120T160000
-DTEND;TZID=Europe/Warsaw:20270120T173500
-SUMMARY:ZU (L)
-LOCATION:223 S
-DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T080000

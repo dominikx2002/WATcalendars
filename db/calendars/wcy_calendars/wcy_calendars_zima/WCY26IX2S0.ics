@@ -583,6 +583,13 @@ LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261027T175000
+DTEND;TZID=Europe/Warsaw:20261027T192500
+SUMMARY:SzOR (s)
+LOCATION:314 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć: Spotkanie organizacy\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T095000
 DTEND;TZID=Europe/Warsaw:20261028T112500
 SUMMARY:PoCy (w)

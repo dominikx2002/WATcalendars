@@ -954,6 +954,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T080000
+DTEND;TZID=Europe/Warsaw:20261117T093500
+SUMMARY:BD (Zp)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: zal popr\nNumer zajęć: 5\nProwadzący: dr inż. Roman Wantoch-Rekowski; mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T095000
 DTEND;TZID=Europe/Warsaw:20261117T112500
 SUMMARY:Swb (w)
