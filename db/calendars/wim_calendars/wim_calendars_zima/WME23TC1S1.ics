@@ -71,7 +71,7 @@ DTSTART:20261012T075000Z
 DTEND:20261012T092500Z
 SUMMARY:Sd. (S)
 LOCATION:5/ 19
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/10\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T075000Z
@@ -302,7 +302,14 @@ DTSTART:20261027T070000Z
 DTEND:20261027T083500Z
 SUMMARY:Sd. (S)
 LOCATION:6/ 23A
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/10\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/11\nProwadzący: dr Woźniak Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T070000Z
+DTEND:20261201T083500Z
+SUMMARY:Sd. (S)
+LOCATION:2/ 23A
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T070000Z
@@ -351,14 +358,21 @@ DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:Sd. (S)
 LOCATION:6/ 23A
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/10\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T085000Z
-DTEND:20261117T102500Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102500Z
 SUMMARY:Sd. (S)
-LOCATION:1/ 21
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/10\nProwadzący: dr Woźniak Jacek
+LOCATION:3/ 135
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/11\nProwadzący: dr Woźniak Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T085000Z
+DTEND:20261201T102500Z
+SUMMARY:Sd. (S)
+LOCATION:2/ 23A
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T085000Z
@@ -407,7 +421,7 @@ DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
 SUMMARY:Sd. (S)
 LOCATION:1/ 21
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/10\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -420,8 +434,8 @@ BEGIN:VEVENT
 DTSTART:20261201T104000Z
 DTEND:20261201T121500Z
 SUMMARY:Sd. (S)
-LOCATION:5/ 19
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/10\nProwadzący: dr Woźniak Jacek
+LOCATION:5/ 23A
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T104000Z
@@ -687,7 +701,7 @@ DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:Sd. (S)
 LOCATION:5/ 19
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/10\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
@@ -771,7 +785,7 @@ DTSTART:20261104T104000Z
 DTEND:20261104T121500Z
 SUMMARY:Sd. (S)
 LOCATION:1/ 21
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/10\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T104000Z
@@ -786,13 +800,6 @@ DTEND:20261125T121500Z
 SUMMARY:Ek (ć)
 LOCATION:42/ 20
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Owczarczyk Anna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261202T104000Z
-DTEND:20261202T121500Z
-SUMMARY:Sd. (S)
-LOCATION:2/ 23A
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/10\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T104000Z
@@ -1107,7 +1114,7 @@ DTSTART:20261126T085000Z
 DTEND:20261126T102500Z
 SUMMARY:Sd. (S)
 LOCATION:42/ 20
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/10\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T085000Z

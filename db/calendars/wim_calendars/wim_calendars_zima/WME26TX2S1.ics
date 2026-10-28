@@ -340,6 +340,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: mgr Stangret Waldemar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261103T070000Z
+DTEND:20261103T083500Z
+SUMMARY:M1 (ć)
+LOCATION:52/ 62
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/19\nProwadzący: dr Prusińska Agnieszka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:Wdi. (L)
@@ -351,7 +358,7 @@ DTSTART:20261124T070000Z
 DTEND:20261124T083500Z
 SUMMARY:M1 (ć)
 LOCATION:54/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/19\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/19\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
@@ -792,14 +799,14 @@ DTSTART:20261006T140000Z
 DTEND:20261006T153500Z
 SUMMARY:M1 (ć)
 LOCATION:54/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/19\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/19\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T140000Z
 DTEND:20261013T153500Z
 SUMMARY:M1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/19\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/19\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T150000Z
@@ -820,7 +827,7 @@ DTSTART:20261110T150000Z
 DTEND:20261110T163500Z
 SUMMARY:M1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/19\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/19\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T150000Z
@@ -1730,14 +1737,14 @@ DTSTART:20261105T123000Z
 DTEND:20261105T140500Z
 SUMMARY:M1 (ć)
 LOCATION:55/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/19\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T123000Z
 DTEND:20261112T140500Z
 SUMMARY:M1 (ć)
 LOCATION:55/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T123000Z
@@ -1947,18 +1954,11 @@ DTSTART:20261015T155000Z
 DTEND:20261015T172500Z
 SUMMARY:M1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T155000Z
 DTEND:20261022T172500Z
-SUMMARY:M1 (ć)
-LOCATION:9/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19\nProwadzący: dr Prusińska Agnieszka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T165000Z
-DTEND:20261029T182500Z
 SUMMARY:M1 (ć)
 LOCATION:9/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/19\nProwadzący: dr Prusińska Agnieszka

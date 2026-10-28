@@ -452,32 +452,25 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 18/129
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261027T104000Z
-DTEND:20261027T121500Z
-SUMMARY:MT (w)
-LOCATION:56/ 62
-DESCRIPTION:Manufacturing Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261103T104000Z
 DTEND:20261103T121500Z
 SUMMARY:MT (w)
 LOCATION:56/ 62
-DESCRIPTION:Manufacturing Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
+DESCRIPTION:Manufacturing Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:MT (w)
 LOCATION:56/ 62
-DESCRIPTION:Manufacturing Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
+DESCRIPTION:Manufacturing Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:MT (w)
 LOCATION:56/ 62
-DESCRIPTION:Manufacturing Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
+DESCRIPTION:Manufacturing Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T104000Z
@@ -603,7 +596,7 @@ DTSTART:20261103T150000Z
 DTEND:20261103T163500Z
 SUMMARY:MT (w)
 LOCATION:56/ 62
-DESCRIPTION:Manufacturing Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
+DESCRIPTION:Manufacturing Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T150000Z
@@ -632,6 +625,13 @@ DTEND:20261201T163500Z
 SUMMARY:Mv (w)
 LOCATION:7/ 23A
 DESCRIPTION:Mechanical vibrations\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: ppłk dr inż. Hryciów Zdzisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T150000Z
+DTEND:20261208T163500Z
+SUMMARY:MT (w)
+LOCATION:56/ 62
+DESCRIPTION:Manufacturing Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T150000Z
