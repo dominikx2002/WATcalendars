@@ -1094,6 +1094,13 @@ LOCATION:316 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr hab. inż. Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261203T080000
+DTEND;TZID=Europe/Warsaw:20261203T093500
+SUMMARY:Amt (Ep)
+LOCATION:
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: ... ... ...
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T133000
 DTEND;TZID=Europe/Warsaw:20261203T150500
 SUMMARY:Po (L)

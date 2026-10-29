@@ -555,13 +555,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mjr mgr Piotr Juńczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261030T114000
-DTEND;TZID=Europe/Warsaw:20261030T131500
-SUMMARY:bai (w)
-LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261030T133000
 DTEND;TZID=Europe/Warsaw:20261030T150500
 SUMMARY:bai (L)
@@ -616,6 +609,13 @@ DTEND;TZID=Europe/Warsaw:20261102T192500
 SUMMARY:MAST (w)
 LOCATION:316 S
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261103T080000
+DTEND;TZID=Europe/Warsaw:20261103T093500
+SUMMARY:bai (w)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261103T095000

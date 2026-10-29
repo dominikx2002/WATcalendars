@@ -1087,6 +1087,13 @@ LOCATION:09 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261203T080000
+DTEND;TZID=Europe/Warsaw:20261203T093500
+SUMMARY:Amt (Ep)
+LOCATION:
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: ... ... ...
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T095000
 DTEND;TZID=Europe/Warsaw:20261203T112500
 SUMMARY:F2 (ć)

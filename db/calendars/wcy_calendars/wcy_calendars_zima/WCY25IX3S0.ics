@@ -1115,13 +1115,6 @@ LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261118T095000
-DTEND;TZID=Europe/Warsaw:20261118T112500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Michał Dudek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T114000
 DTEND;TZID=Europe/Warsaw:20261118T131500
 SUMMARY:F2 (w)
@@ -1378,6 +1371,13 @@ DTSTART;TZID=Europe/Warsaw:20261202T095000
 DTEND;TZID=Europe/Warsaw:20261202T112500
 SUMMARY:F2 (ć)
 LOCATION:201 65
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Michał Dudek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T114000
+DTEND;TZID=Europe/Warsaw:20261202T131500
+SUMMARY:F2 (ć)
+LOCATION:15 63
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr inż. Michał Dudek
 END:VEVENT
 BEGIN:VEVENT

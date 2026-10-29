@@ -487,16 +487,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T175000
 DTEND;TZID=Europe/Warsaw:20261118T192500
-SUMMARY:Icn (P)
+SUMMARY:CAO (L)
 LOCATION:125 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T194000
 DTEND;TZID=Europe/Warsaw:20261118T211500
-SUMMARY:Icn (P)
+SUMMARY:CAO (L)
 LOCATION:125 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T080000
@@ -643,14 +643,14 @@ DTSTART;TZID=Europe/Warsaw:20261130T114000
 DTEND;TZID=Europe/Warsaw:20261130T131500
 SUMMARY:CAO (L)
 LOCATION:233 S
-DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T133000
 DTEND;TZID=Europe/Warsaw:20261130T150500
 SUMMARY:CAO (L)
 LOCATION:233 S
-DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T160000
@@ -692,21 +692,21 @@ DTSTART;TZID=Europe/Warsaw:20261201T133000
 DTEND;TZID=Europe/Warsaw:20261201T150500
 SUMMARY:CAO (L)
 LOCATION:106 65
-DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T160000
 DTEND;TZID=Europe/Warsaw:20261201T173500
 SUMMARY:Icn (P)
 LOCATION:011 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T175000
 DTEND;TZID=Europe/Warsaw:20261201T192500
 SUMMARY:Icn (P)
 LOCATION:011 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T114000
@@ -751,18 +751,18 @@ LOCATION:218 65
 DESCRIPTION:Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261203T175000
-DTEND;TZID=Europe/Warsaw:20261203T192500
-SUMMARY:CAO (L)
-LOCATION:011 65
-DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
+DTSTART;TZID=Europe/Warsaw:20261203T160000
+DTEND;TZID=Europe/Warsaw:20261203T173500
+SUMMARY:Icn (P)
+LOCATION:101 65
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261203T194000
-DTEND;TZID=Europe/Warsaw:20261203T211500
-SUMMARY:CAO (L)
-LOCATION:011 65
-DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Witold Żorski
+DTSTART;TZID=Europe/Warsaw:20261203T175000
+DTEND;TZID=Europe/Warsaw:20261203T192500
+SUMMARY:Icn (P)
+LOCATION:101 65
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T080000

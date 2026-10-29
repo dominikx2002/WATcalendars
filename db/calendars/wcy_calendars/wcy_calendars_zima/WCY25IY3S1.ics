@@ -1101,6 +1101,13 @@ LOCATION:223 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261203T080000
+DTEND;TZID=Europe/Warsaw:20261203T093500
+SUMMARY:Amt (Ep)
+LOCATION:
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: ... ... ...
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T160000
 DTEND;TZID=Europe/Warsaw:20261203T173500
 SUMMARY:Swb (L)

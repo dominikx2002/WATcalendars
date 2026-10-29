@@ -1290,13 +1290,6 @@ LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270107T194000
-DTEND;TZID=Europe/Warsaw:20270107T211500
-SUMMARY:WDM (ć)
-LOCATION:307 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr inż. Justyna Łukasiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T080000
 DTEND;TZID=Europe/Warsaw:20270108T093500
 SUMMARY:Matematyka I (ć)
@@ -1351,6 +1344,13 @@ DTEND;TZID=Europe/Warsaw:20270112T131500
 SUMMARY:Matematyka II (w)
 LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 17\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270112T133000
+DTEND;TZID=Europe/Warsaw:20270112T150500
+SUMMARY:WDM (ć)
+LOCATION:224 S
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T080000
