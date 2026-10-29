@@ -687,7 +687,7 @@ DTSTART:20261114T123000Z
 DTEND:20261114T140500Z
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T123000Z
@@ -834,7 +834,7 @@ DTSTART:20261114T150000Z
 DTEND:20261114T163500Z
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T150000Z
@@ -1698,6 +1698,13 @@ LOCATION:H4/ 54A
 DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261220T123000Z
+DTEND:20261220T140500Z
+SUMMARY:Płe (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261227T123000Z
 DTEND:20261227T140500Z
 SUMMARY:I 
@@ -1794,6 +1801,13 @@ DTEND:20261129T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 80/98
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261220T150000Z
+DTEND:20261220T163500Z
+SUMMARY:Płe (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261227T150000Z

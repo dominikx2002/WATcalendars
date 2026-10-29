@@ -88,13 +88,6 @@ LOCATION:6/ 23A
 DESCRIPTION:Metrologia wielkości geometrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Cypko Edward
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261102T085000Z
-DTEND:20261102T102500Z
-SUMMARY:LP (ć)
-LOCATION:5/ 20
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261109T085000Z
 DTEND:20261109T102500Z
 SUMMARY:F2 (L)
@@ -114,6 +107,13 @@ DTEND:20261130T102500Z
 SUMMARY:F2 (L)
 LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T085000Z
+DTEND:20261207T102500Z
+SUMMARY:LP (ć)
+LOCATION:2/ 23A
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T085000Z
@@ -179,13 +179,6 @@ LOCATION:6/ 23A
 DESCRIPTION:Metrologia wielkości geometrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Cypko Edward
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261102T104000Z
-DTEND:20261102T121500Z
-SUMMARY:LP (ć)
-LOCATION:5/ 20
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261109T104000Z
 DTEND:20261109T121500Z
 SUMMARY:F2 (ć)
@@ -219,6 +212,13 @@ DTEND:20261214T121500Z
 SUMMARY:F2 (L)
 LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T104000Z
+DTEND:20261221T121500Z
+SUMMARY:LP (ć)
+LOCATION:3/ 54
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T104000Z

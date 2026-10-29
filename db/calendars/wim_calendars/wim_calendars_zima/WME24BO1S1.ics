@@ -1404,13 +1404,6 @@ LOCATION:
 DESCRIPTION:Zastosowania biomateriałów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Lewandowski Rafał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T070000Z
-DTEND:20261028T083500Z
-SUMMARY:OPT (w)
-LOCATION:
-DESCRIPTION:Optyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: prof. dr hab. inż. Jabczyński Jan
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261104T070000Z
 DTEND:20261104T083500Z
 SUMMARY:PeK (w)
@@ -1429,7 +1422,7 @@ DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
 SUMMARY:OPT (w)
 LOCATION:
-DESCRIPTION:Optyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: prof. dr hab. inż. Jabczyński Jan
+DESCRIPTION:Optyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: prof. dr hab. inż. Jabczyński Jan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T070000Z
@@ -1528,6 +1521,13 @@ DTEND:20261014T092500Z
 SUMMARY:Dso (w)
 LOCATION:
 DESCRIPTION:Detekcja sygnałów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:OPT (w)
+LOCATION:
+DESCRIPTION:Optyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: prof. dr hab. inż. Jabczyński Jan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
