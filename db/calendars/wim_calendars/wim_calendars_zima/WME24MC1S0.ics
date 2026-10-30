@@ -410,6 +410,13 @@ LOCATION:
 DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: por. mgr inż. Mikulski Erik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261207T123000Z
+DTEND:20261207T140500Z
+SUMMARY:Bpg 
+LOCATION:3/ 23A
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 1/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261221T123000Z
 DTEND:20261221T140500Z
 SUMMARY:GMiB (Rep)
@@ -869,7 +876,7 @@ DTSTART:20261215T085000Z
 DTEND:20261215T102500Z
 SUMMARY:Bpg 
 LOCATION:15/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 1/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 2/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T085000Z
@@ -897,7 +904,7 @@ DTSTART:20260126T085000Z
 DTEND:20260126T102500Z
 SUMMARY:Bpg 
 LOCATION:2/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 2/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 3/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T085000Z
@@ -988,7 +995,7 @@ DTSTART:20261215T104000Z
 DTEND:20261215T121500Z
 SUMMARY:Bpg 
 LOCATION:15/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 3/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 4/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T104000Z
@@ -1023,7 +1030,7 @@ DTSTART:20260126T104000Z
 DTEND:20260126T121500Z
 SUMMARY:Bpg 
 LOCATION:2/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 4/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 5/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T104000Z
@@ -1219,7 +1226,7 @@ DTSTART:20261208T150000Z
 DTEND:20261208T163500Z
 SUMMARY:Bpg 
 LOCATION:2/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 5/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 6/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T150000Z
@@ -1282,7 +1289,7 @@ DTSTART:20261208T165000Z
 DTEND:20261208T182500Z
 SUMMARY:Bpg 
 LOCATION:2/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 6/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 7/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T165000Z
@@ -1409,13 +1416,6 @@ DTEND:20261028T083500Z
 SUMMARY:ZŻWAT (ć)
 LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261104T070000Z
-DTEND:20261104T083500Z
-SUMMARY:Bpg 
-LOCATION:3/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 7/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T070000Z
@@ -1558,13 +1558,6 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261104T085000Z
-DTEND:20261104T102500Z
-SUMMARY:Bpg 
-LOCATION:3/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 9/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261111T085000Z
 DTEND:20261111T102500Z
 SUMMARY:I 
@@ -1590,7 +1583,7 @@ DTSTART:20261223T085000Z
 DTEND:20261223T102500Z
 SUMMARY:Bpg 
 LOCATION:3/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 10/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 9/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T085000Z
@@ -1682,6 +1675,13 @@ DTEND:20261118T121500Z
 SUMMARY:Brd (w)
 LOCATION:6/ 23A
 DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T104000Z
+DTEND:20261202T121500Z
+SUMMARY:Bpg 
+LOCATION:2/ 23A
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 10/24\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T104000Z

@@ -508,13 +508,6 @@ LOCATION:81 S;83 S
 DESCRIPTION:Obwody i sygnały 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Szulim Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260119T070000Z
-DTEND:20260119T083500Z
-SUMMARY:PeK (L)
-LOCATION:5 46;28 46
-DESCRIPTION:Podstawy elektroniki kwantowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Kurkowiak Justyna; mgr inż. Preibisch Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T075000Z
 DTEND:20261020T092500Z
 SUMMARY:Os2 (w)
@@ -590,13 +583,6 @@ DTEND:20260112T102500Z
 SUMMARY:Os2 (L)
 LOCATION:81 S;83 S
 DESCRIPTION:Obwody i sygnały 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Szulim Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260119T085000Z
-DTEND:20260119T102500Z
-SUMMARY:PeK (L)
-LOCATION:5 46;28 46
-DESCRIPTION:Podstawy elektroniki kwantowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Kurkowiak Justyna; mgr inż. Preibisch Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T094000Z
@@ -1691,11 +1677,18 @@ LOCATION:19 45
 DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/16\nProwadzący: dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260114T104000Z
+DTEND:20260114T121500Z
+SUMMARY:PeK (L)
+LOCATION:5 46;28 46
+DESCRIPTION:Podstawy elektroniki kwantowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Kurkowiak Justyna; mgr inż. Preibisch Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260121T104000Z
 DTEND:20260121T121500Z
 SUMMARY:PeK (L)
 LOCATION:5 46;28 46
-DESCRIPTION:Podstawy elektroniki kwantowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Kurkowiak Justyna; mgr inż. Preibisch Piotr
+DESCRIPTION:Podstawy elektroniki kwantowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Kurkowiak Justyna; mgr inż. Preibisch Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T113000Z
@@ -1787,6 +1780,13 @@ DTEND:20260107T140500Z
 SUMMARY:Ucy (L)
 LOCATION:19 45
 DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: dr Kurkowiak Justyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T123000Z
+DTEND:20260114T140500Z
+SUMMARY:PeK (L)
+LOCATION:5 46;28 46
+DESCRIPTION:Podstawy elektroniki kwantowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Kurkowiak Justyna; mgr inż. Preibisch Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T123000Z
