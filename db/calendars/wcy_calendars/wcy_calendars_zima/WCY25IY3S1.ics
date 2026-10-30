@@ -534,17 +534,17 @@ LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Iwona Jakubowska; dr inż Kinga Majkowycz; dr inż. Aleksandra Walewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261029T160000
-DTEND;TZID=Europe/Warsaw:20261029T173500
+DTSTART;TZID=Europe/Warsaw:20261029T133000
+DTEND;TZID=Europe/Warsaw:20261029T150500
 SUMMARY:BD (ć)
-LOCATION:313 S
+LOCATION:228 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261029T175000
-DTEND;TZID=Europe/Warsaw:20261029T192500
+DTSTART;TZID=Europe/Warsaw:20261029T160000
+DTEND;TZID=Europe/Warsaw:20261029T173500
 SUMMARY:BD (ć)
-LOCATION:313 S
+LOCATION:236 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT

@@ -583,13 +583,6 @@ LOCATION:233 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261030T160000
-DTEND;TZID=Europe/Warsaw:20261030T173500
-SUMMARY:Miar (w)
-LOCATION:314 S
-DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261031T080000
 DTEND;TZID=Europe/Warsaw:20261031T093500
 SUMMARY:XWF (ć)
@@ -699,7 +692,7 @@ DTSTART;TZID=Europe/Warsaw:20261104T160000
 DTEND;TZID=Europe/Warsaw:20261104T173500
 SUMMARY:Miar (w)
 LOCATION:314 S
-DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T114000
@@ -749,6 +742,13 @@ DTEND;TZID=Europe/Warsaw:20261106T150500
 SUMMARY:BbD (L)
 LOCATION:228 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261106T160000
+DTEND;TZID=Europe/Warsaw:20261106T173500
+SUMMARY:Miar (w)
+LOCATION:308 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T080000

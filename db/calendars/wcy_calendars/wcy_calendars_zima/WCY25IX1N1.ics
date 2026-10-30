@@ -758,13 +758,6 @@ LOCATION:236 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270109T152000
-DTEND;TZID=Europe/Warsaw:20270109T165500
-SUMMARY:SO (L)
-LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Sławomir Matusiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270110T080000
 DTEND;TZID=Europe/Warsaw:20270110T093500
 SUMMARY:Swb (L)
@@ -805,6 +798,13 @@ DTEND;TZID=Europe/Warsaw:20270110T184500
 SUMMARY:BD (L)
 LOCATION:227 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270110T190000
+DTEND;TZID=Europe/Warsaw:20270110T203500
+SUMMARY:SO (L)
+LOCATION:106 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T080000

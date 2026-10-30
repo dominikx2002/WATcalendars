@@ -2136,4 +2136,11 @@ SUMMARY:Ja (ć)
 LOCATION:134 K 133 K 131 K 128 K 127 K 126 K 125 K 124 K 122 K 121 K 120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270129T160000
+DTEND;TZID=Europe/Warsaw:20270129T173500
+SUMMARY:Pr.A (w)
+LOCATION:19 36
+DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Andrzej Strychalski
+END:VEVENT
 END:VCALENDAR

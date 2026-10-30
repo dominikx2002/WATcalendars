@@ -702,6 +702,13 @@ LOCATION:134 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: mgr Anna Kurzela
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270110T114000
+DTEND;TZID=Europe/Warsaw:20270110T131500
+SUMMARY:mST (L)
+LOCATION:106 65
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270110T133000
 DTEND;TZID=Europe/Warsaw:20270110T150500
 SUMMARY:WIT (L)
@@ -734,7 +741,7 @@ DTSTART;TZID=Europe/Warsaw:20270117T133000
 DTEND;TZID=Europe/Warsaw:20270117T150500
 SUMMARY:mST (L)
 LOCATION:120 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T095000
@@ -755,7 +762,7 @@ DTSTART;TZID=Europe/Warsaw:20270123T133000
 DTEND;TZID=Europe/Warsaw:20270123T150500
 SUMMARY:mST (L)
 LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T152000
@@ -777,13 +784,6 @@ DTEND;TZID=Europe/Warsaw:20270124T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mgr Anna Kurzela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270124T095000
-DTEND;TZID=Europe/Warsaw:20270124T112500
-SUMMARY:mST (L)
-LOCATION:120 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270124T114000
