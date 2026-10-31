@@ -1362,18 +1362,11 @@ LOCATION:15/ 23A
 DESCRIPTION:Podstawy elektrotechniki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Watral Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261028T104000Z
-DTEND:20261028T121500Z
-SUMMARY:PEt (w)
-LOCATION:
-DESCRIPTION:Podstawy elektrotechniki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Watral Zbigniew
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261104T104000Z
 DTEND:20261104T121500Z
 SUMMARY:PEt (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy elektrotechniki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Watral Zbigniew
+DESCRIPTION:Podstawy elektrotechniki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Watral Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T104000Z
@@ -1387,14 +1380,14 @@ DTSTART:20261118T104000Z
 DTEND:20261118T121500Z
 SUMMARY:PEt (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy elektrotechniki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Watral Zbigniew
+DESCRIPTION:Podstawy elektrotechniki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Watral Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T104000Z
 DTEND:20261125T121500Z
 SUMMARY:PEt (w)
 LOCATION:
-DESCRIPTION:Podstawy elektrotechniki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Watral Zbigniew
+DESCRIPTION:Podstawy elektrotechniki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Watral Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T104000Z
@@ -1619,6 +1612,13 @@ DTEND:20261021T153500Z
 SUMMARY:Mis (w)
 LOCATION:
 DESCRIPTION:Metrologia i systemy pomiarowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Kuchta Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T150000Z
+DTEND:20261104T163500Z
+SUMMARY:PEt (w)
+LOCATION:51/ 62
+DESCRIPTION:Podstawy elektrotechniki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Watral Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T150000Z

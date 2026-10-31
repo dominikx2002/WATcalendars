@@ -340,6 +340,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261109T165000Z
+DTEND:20261109T182500Z
+SUMMARY:PGI 
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej 37\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 38
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261130T165000Z
 DTEND:20261130T182500Z
 SUMMARY:SSW 
@@ -846,13 +853,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T150000Z
 DTEND:20261104T163500Z
-SUMMARY:PGI 
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej 37\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 38
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T150000Z
-DTEND:20261118T163500Z
 SUMMARY:PGI 
 LOCATION:
 DESCRIPTION:Podstawy grafiki inżynierskiej 37\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 38
