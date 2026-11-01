@@ -296,13 +296,6 @@ LOCATION:120 65
 DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261027T114000
-DTEND;TZID=Europe/Warsaw:20261027T131500
-SUMMARY:Psk (w)
-LOCATION:101 65
-DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261028T114000
 DTEND;TZID=Europe/Warsaw:20261028T131500
 SUMMARY:Zbi (w)
@@ -363,6 +356,13 @@ DTSTART;TZID=Europe/Warsaw:20261102T080000
 DTEND;TZID=Europe/Warsaw:20261102T093500
 SUMMARY:Psk (w)
 LOCATION:101 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T095000
+DTEND;TZID=Europe/Warsaw:20261102T112500
+SUMMARY:Psk (w)
+LOCATION:204 65
 DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
