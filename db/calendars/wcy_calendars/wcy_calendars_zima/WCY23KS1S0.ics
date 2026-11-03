@@ -1115,13 +1115,6 @@ LOCATION:078 S
 DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261124T080000
-DTEND;TZID=Europe/Warsaw:20261124T093500
-SUMMARY:BbD (w)
-LOCATION:317 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Bolesław Szafrański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T095000
 DTEND;TZID=Europe/Warsaw:20261124T112500
 SUMMARY:Wkakp (w)
@@ -1316,6 +1309,13 @@ DTEND;TZID=Europe/Warsaw:20261202T173500
 SUMMARY:Wkakp (L)
 LOCATION:085 S
 DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T175000
+DTEND;TZID=Europe/Warsaw:20261202T192500
+SUMMARY:BbD (w)
+LOCATION:314 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T080000
