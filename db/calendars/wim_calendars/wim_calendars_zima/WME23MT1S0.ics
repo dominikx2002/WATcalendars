@@ -984,6 +984,13 @@ LOCATION:
 DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Kijewski Jacek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260209T085000Z
+DTEND:20260209T102500Z
+SUMMARY:MPH (Ep)
+LOCATION:
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Śledzik Waldemar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260216T085000Z
 DTEND:20260216T102500Z
 SUMMARY:SLwLSZ (Zp.)
@@ -1542,6 +1549,13 @@ DTEND:20260127T083500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23A
 DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T070000Z
+DTEND:20260203T083500Z
+SUMMARY:MPH (E)
+LOCATION:
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T070000Z

@@ -1005,13 +1005,6 @@ LOCATION:53/ 62
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261114T165000Z
-DTEND:20261114T182500Z
-SUMMARY:PUwMAN (L)
-LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261121T165000Z
 DTEND:20261121T182500Z
 SUMMARY:PiWSI (L)
@@ -1142,14 +1135,7 @@ DTSTART:20261107T184000Z
 DTEND:20261107T201500Z
 SUMMARY:PUwMAN (L)
 LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261114T184000Z
-DTEND:20261114T201500Z
-SUMMARY:PUwMAN (L)
-LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T184000Z
@@ -1352,7 +1338,7 @@ DTSTART:20260110T070000Z
 DTEND:20260110T083500Z
 SUMMARY:PUwMAN (L)
 LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T070000Z
@@ -1513,7 +1499,7 @@ DTSTART:20260110T085000Z
 DTEND:20260110T102500Z
 SUMMARY:PUwMAN (L)
 LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T085000Z
@@ -1950,6 +1936,13 @@ LOCATION:53/ 62
 DESCRIPTION:Eksperymentalne badania materiałów dla potrzeb modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261122T150000Z
+DTEND:20261122T163500Z
+SUMMARY:PUwMAN (L)
+LOCATION:53/ 62
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261129T150000Z
 DTEND:20261129T163500Z
 SUMMARY:I 
@@ -2074,6 +2067,13 @@ DTEND:20261115T182500Z
 SUMMARY:Zmn (L)
 LOCATION:29/ 54; 30/ 54
 DESCRIPTION:Zastosowanie metod numerycznych w procesachm technologicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T165000Z
+DTEND:20261122T182500Z
+SUMMARY:PUwMAN (L)
+LOCATION:53/ 62
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261129T165000Z
