@@ -557,11 +557,18 @@ LOCATION:6/ 62
 DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 21/27\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261117T104000Z
+DTEND:20261117T121500Z
+SUMMARY:Sd. (S)
+LOCATION:51/ 62
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/10\nProwadzący: dr inż. Sławiński Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261201T104000Z
 DTEND:20261201T121500Z
 SUMMARY:Sd. (S)
 LOCATION:52/ 62
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/10\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/10\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T104000Z
@@ -631,14 +638,14 @@ DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:Sd. (S)
 LOCATION:6/ 23A
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/10\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/10\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
 SUMMARY:Sd. (S)
 LOCATION:52/ 62
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/10\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/10\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T123000Z
@@ -680,7 +687,7 @@ DTSTART:20261124T150000Z
 DTEND:20261124T163500Z
 SUMMARY:Sd. (S)
 LOCATION:6/ 23A
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/10\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/10\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T150000Z
@@ -814,13 +821,6 @@ DTEND:20261014T073500Z
 SUMMARY:SiNBM (w)
 LOCATION:15/ 23A
 DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261104T070000Z
-DTEND:20261104T083500Z
-SUMMARY:Sd. (S)
-LOCATION:52/ 62
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/10\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T070000Z
