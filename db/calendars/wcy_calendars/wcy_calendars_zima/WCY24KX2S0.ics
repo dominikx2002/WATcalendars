@@ -1178,13 +1178,6 @@ LOCATION:085 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261201T095000
-DTEND;TZID=Europe/Warsaw:20261201T112500
-SUMMARY:Pk (L)
-LOCATION:236 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Kamila Sirant
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T114000
 DTEND;TZID=Europe/Warsaw:20261201T131500
 SUMMARY:Pk (w)
@@ -1203,7 +1196,7 @@ DTSTART;TZID=Europe/Warsaw:20261202T080000
 DTEND;TZID=Europe/Warsaw:20261202T093500
 SUMMARY:Pk (L)
 LOCATION:218 65
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Kamila Sirant
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Kamila Sirant
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T114000
@@ -1399,7 +1392,7 @@ DTSTART;TZID=Europe/Warsaw:20261210T095000
 DTEND;TZID=Europe/Warsaw:20261210T112500
 SUMMARY:Pk (L)
 LOCATION:085 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Kamila Sirant
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Kamila Sirant
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T114000
@@ -1498,6 +1491,13 @@ DTEND;TZID=Europe/Warsaw:20261216T173500
 SUMMARY:WF (w)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261217T080000
+DTEND;TZID=Europe/Warsaw:20261217T093500
+SUMMARY:Pk (L)
+LOCATION:218 65
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Kamila Sirant
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T095000

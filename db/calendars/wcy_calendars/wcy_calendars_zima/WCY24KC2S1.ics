@@ -779,18 +779,11 @@ LOCATION:09 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261203T080000
-DTEND;TZID=Europe/Warsaw:20261203T093500
-SUMMARY:Est (P)
-LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T095000
 DTEND;TZID=Europe/Warsaw:20261203T112500
 SUMMARY:Est (P)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Szymon Chmielewski
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2\nProwadzący: mgr inż. Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T080000
@@ -1225,6 +1218,13 @@ DTEND;TZID=Europe/Warsaw:20270119T192500
 SUMMARY:htm (L)
 LOCATION:011 65
 DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270120T095000
+DTEND;TZID=Europe/Warsaw:20270120T112500
+SUMMARY:Est (P)
+LOCATION:125 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3\nProwadzący: mgr inż. Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270120T114000

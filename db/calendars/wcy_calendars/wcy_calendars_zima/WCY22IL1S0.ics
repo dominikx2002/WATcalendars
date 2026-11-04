@@ -1031,13 +1031,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261117T095000
-DTEND;TZID=Europe/Warsaw:20261117T112500
-SUMMARY:REG (w)
-LOCATION:AW 3/038
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T114000
 DTEND;TZID=Europe/Warsaw:20261117T131500
 SUMMARY:WF (ć)
@@ -1218,6 +1211,13 @@ DTEND;TZID=Europe/Warsaw:20261124T131500
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19\nProwadzący: mgr Anna Rybak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261124T133000
+DTEND;TZID=Europe/Warsaw:20261124T150500
+SUMMARY:REG (w)
+LOCATION:AW 3/043
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T160000

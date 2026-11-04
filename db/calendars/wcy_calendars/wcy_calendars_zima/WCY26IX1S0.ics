@@ -821,6 +821,13 @@ LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261110T080000
+DTEND;TZID=Europe/Warsaw:20261110T093500
+SUMMARY:REG (ć)
+LOCATION:PL.MUSZ1
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
 DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:WF (ć)
@@ -903,13 +910,6 @@ DTEND;TZID=Europe/Warsaw:20261116T112500
 SUMMARY:TW (ć)
 LOCATION:15 57
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Kazimierz Gołoś
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261116T114000
-DTEND;TZID=Europe/Warsaw:20261116T131500
-SUMMARY:REG (ć)
-LOCATION:PL.MUSZ1
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T133000

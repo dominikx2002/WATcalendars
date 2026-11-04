@@ -485,13 +485,6 @@ LOCATION:307 S
 DESCRIPTION:Socjologia\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Beata Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261206T114000
-DTEND;TZID=Europe/Warsaw:20261206T131500
-SUMMARY:mST (P)
-LOCATION:106 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T133000
 DTEND;TZID=Europe/Warsaw:20261206T150500
 SUMMARY:Mnk (L)
@@ -602,6 +595,13 @@ DTEND;TZID=Europe/Warsaw:20261219T131500
 SUMMARY:mST (w)
 LOCATION:203 65
 DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261219T133000
+DTEND;TZID=Europe/Warsaw:20261219T150500
+SUMMARY:mST (P)
+LOCATION:121 65
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T152000
