@@ -1087,13 +1087,6 @@ LOCATION:ST.nr 1(KB)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261123T133000
-DTEND;TZID=Europe/Warsaw:20261123T150500
-SUMMARY:OPBMR (ć)
-LOCATION:PĆT-TNAP
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: por. mgr inż. Mateusz Filipow
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T080000
 DTEND;TZID=Europe/Warsaw:20261124T093500
 SUMMARY:MD1 (ć)
@@ -1266,7 +1259,7 @@ DTSTART;TZID=Europe/Warsaw:20261202T160000
 DTEND;TZID=Europe/Warsaw:20261202T173500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr inż. Witold Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T114000
@@ -1572,6 +1565,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T114000
 DTEND;TZID=Europe/Warsaw:20261221T131500
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT-TNAP
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: por. mgr inż. Mateusz Filipow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T133000
+DTEND;TZID=Europe/Warsaw:20261221T150500
 SUMMARY:OPBMR (ć)
 LOCATION:PĆT-TNAP
 DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: por. mgr inż. Mateusz Filipow

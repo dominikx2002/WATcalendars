@@ -786,6 +786,13 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261109T175000
+DTEND;TZID=Europe/Warsaw:20261109T192500
+SUMMARY:Sr (w)
+LOCATION:316 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
 DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:Dtu (w)
@@ -847,13 +854,6 @@ DTEND;TZID=Europe/Warsaw:20261112T192500
 SUMMARY:PCB (P)
 LOCATION:106 65
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 14\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261113T080000
-DTEND;TZID=Europe/Warsaw:20261113T093500
-SUMMARY:Sr (w)
-LOCATION:307 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T095000
