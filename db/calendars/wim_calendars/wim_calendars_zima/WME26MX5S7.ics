@@ -249,6 +249,13 @@ LOCATION:56/ 62
 DESCRIPTION:Manufacturing Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261215T150000Z
+DTEND:20261215T163500Z
+SUMMARY:Ceh (L)
+LOCATION:9/ 68
+DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T085000Z
 DTEND:20261216T102500Z
 SUMMARY:Ceh (ć)
@@ -267,7 +274,7 @@ DTSTART:20261125T104000Z
 DTEND:20261125T121500Z
 SUMMARY:Ceh (L)
 LOCATION:9/ 68
-DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
+DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T104000Z
@@ -296,13 +303,6 @@ DTEND:20261028T140500Z
 SUMMARY:Hev (w)
 LOCATION:20/ 68
 DESCRIPTION:Hybrid and electric vehicles maintenance and safety\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż Polak Filip
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T123000Z
-DTEND:20261118T140500Z
-SUMMARY:Ceh (L)
-LOCATION:9/ 68
-DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T123000Z

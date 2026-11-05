@@ -48,9 +48,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T070000Z
 DTEND:20261123T083500Z
-SUMMARY:SoM1 (w)
+SUMMARY:Mkm2 (w)
 LOCATION:01/ 54A
-DESCRIPTION:Strength of Materials 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: ppłk dr inż. Kędzierski Piotr
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T070000Z
@@ -260,7 +260,7 @@ DTSTART:20261005T094000Z
 DTEND:20261005T111500Z
 SUMMARY:Mkm2 (w)
 LOCATION:01/ 54A
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: ppłk dr inż. Karczewski Krzysztof
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T094000Z
@@ -620,6 +620,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 14/161
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260111T150000Z
+DTEND:20260111T163500Z
+SUMMARY:Tw1 (L)
+LOCATION:9/ 21; 10/ 21; 17b/ 21
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260329T140000Z
 DTEND:20260329T153500Z
 SUMMARY:P.św 
@@ -646,6 +653,13 @@ DTEND:20260104T182500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 17/161
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T165000Z
+DTEND:20260111T182500Z
+SUMMARY:Tw1 (L)
+LOCATION:9/ 21; 10/ 21; 17b/ 21
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260329T155000Z
@@ -694,7 +708,7 @@ DTSTART:20261006T060000Z
 DTEND:20261006T073500Z
 SUMMARY:Mkm2 (w)
 LOCATION:15/ 23A
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: ppłk dr inż. Karczewski Krzysztof
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T060000Z
@@ -778,7 +792,7 @@ DTSTART:20260112T070000Z
 DTEND:20260112T083500Z
 SUMMARY:Tw1 (L)
 LOCATION:17a/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Woźniak Adam
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T070000Z
@@ -813,7 +827,7 @@ DTSTART:20261013T075000Z
 DTEND:20261013T092500Z
 SUMMARY:Mkm2 (w)
 LOCATION:15/ 23A
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: ppłk dr inż. Karczewski Krzysztof
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T075000Z
@@ -827,28 +841,28 @@ DTSTART:20261027T085000Z
 DTEND:20261027T102500Z
 SUMMARY:SoM1 (w)
 LOCATION:52/ 62
-DESCRIPTION:Strength of Materials 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: ppłk dr inż. Kędzierski Piotr
+DESCRIPTION:Strength of Materials 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: ppłk dr inż. Kędzierski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T085000Z
 DTEND:20261103T102500Z
 SUMMARY:Mkm2 (w)
 LOCATION:15/ 23A
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: ppłk dr inż. Karczewski Krzysztof
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T085000Z
 DTEND:20261110T102500Z
 SUMMARY:SoM1 (w)
 LOCATION:52/ 62
-DESCRIPTION:Strength of Materials 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: ppłk dr inż. Kędzierski Piotr
+DESCRIPTION:Strength of Materials 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: ppłk dr inż. Kędzierski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T085000Z
 DTEND:20261117T102500Z
-SUMMARY:Mkm2 (w)
+SUMMARY:SoM1 (w)
 LOCATION:15/ 23A
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: ppłk dr inż. Karczewski Krzysztof
+DESCRIPTION:Strength of Materials 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: ppłk dr inż. Kędzierski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T085000Z
@@ -918,7 +932,7 @@ DTSTART:20260126T085000Z
 DTEND:20260126T102500Z
 SUMMARY:Tw1 (L)
 LOCATION:17a/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Woźniak Adam
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T085000Z
@@ -1247,7 +1261,7 @@ DTSTART:20261124T150000Z
 DTEND:20261124T163500Z
 SUMMARY:Tw1 (L)
 LOCATION:9/ 21; 10/ 21; 17b/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T150000Z
@@ -1324,7 +1338,7 @@ DTSTART:20261124T165000Z
 DTEND:20261124T182500Z
 SUMMARY:Tw1 (L)
 LOCATION:9/ 21; 10/ 21; 17b/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T165000Z
@@ -1884,7 +1898,7 @@ DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
 SUMMARY:Tw1 (L)
 LOCATION:9/ 21; 10/ 21; 17b/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T123000Z
@@ -1892,13 +1906,6 @@ DTEND:20261209T140500Z
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/16
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T123000Z
-DTEND:20261216T140500Z
-SUMMARY:SoM1 (ć)
-LOCATION:2/ 68
-DESCRIPTION:Strength of Materials 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: ppłk dr inż. Kędzierski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T123000Z
@@ -1975,7 +1982,7 @@ DTSTART:20261104T150000Z
 DTEND:20261104T163500Z
 SUMMARY:SoM1 (ć)
 LOCATION:2/ 68
-DESCRIPTION:Strength of Materials 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: ppłk dr inż. Kędzierski Piotr
+DESCRIPTION:Strength of Materials 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: ppłk dr inż. Kędzierski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T150000Z
@@ -2003,14 +2010,7 @@ DTSTART:20261202T150000Z
 DTEND:20261202T163500Z
 SUMMARY:Tw1 (L)
 LOCATION:9/ 21; 10/ 21; 17b/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T150000Z
-DTEND:20261216T163500Z
-SUMMARY:Tw1 (L)
-LOCATION:9/ 21; 10/ 21; 17b/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T150000Z
@@ -2060,13 +2060,6 @@ DTEND:20261111T182500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 51/161
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T165000Z
-DTEND:20261216T182500Z
-SUMMARY:Tw1 (L)
-LOCATION:9/ 21; 10/ 21; 17b/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T165000Z
@@ -2206,7 +2199,7 @@ DTSTART:20261203T070000Z
 DTEND:20261203T083500Z
 SUMMARY:SoM1 (ć)
 LOCATION:51/ 62
-DESCRIPTION:Strength of Materials 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: ppłk dr inż. Kędzierski Piotr
+DESCRIPTION:Strength of Materials 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: ppłk dr inż. Kędzierski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
@@ -2214,6 +2207,13 @@ DTEND:20261210T083500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/106
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T070000Z
+DTEND:20261217T083500Z
+SUMMARY:SoM1 (ć)
+LOCATION:8/ 62
+DESCRIPTION:Strength of Materials 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: ppłk dr inż. Kędzierski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T070000Z

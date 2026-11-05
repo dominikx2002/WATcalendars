@@ -25,32 +25,18 @@ LOCATION:2/3
 DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261102T070000Z
+DTEND:20261102T083500Z
+SUMMARY:PIMiT 
+LOCATION:19/ 23a
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T070000Z
 DTEND:20261109T083500Z
 SUMMARY:Sprz. (i)
 LOCATION:
 DESCRIPTION:Sprzęt przeprawowy - SI\nRodzaj zajęć: (i)\nNumer zajęć: 1/2\nProwadzący: ppłk dr inż. Ślęzak Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261116T070000Z
-DTEND:20261116T083500Z
-SUMMARY:PIMiT 
-LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 1/14\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261130T070000Z
-DTEND:20261130T083500Z
-SUMMARY:PIMiT 
-LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 2/14\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261207T070000Z
-DTEND:20261207T083500Z
-SUMMARY:PIMiT 
-LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 3/14\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T070000Z
@@ -71,7 +57,7 @@ DTSTART:20261019T113000Z
 DTEND:20261019T130500Z
 SUMMARY:PIMiT 
 LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 4/14\nProwadzący: dr inż. Koliński Kazimierz
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T123000Z
@@ -92,7 +78,7 @@ DTSTART:20261116T123000Z
 DTEND:20261116T140500Z
 SUMMARY:PIMiT 
 LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 5/14\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T123000Z
@@ -116,13 +102,6 @@ LOCATION:
 DESCRIPTION:OPT\nRodzaj zajęć: -\nNumer zajęć: 3/12\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261221T123000Z
-DTEND:20261221T140500Z
-SUMMARY:PIMiT 
-LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 6/14\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261012T140000Z
 DTEND:20261012T153500Z
 SUMMARY:OPT 
@@ -134,7 +113,7 @@ DTSTART:20261019T140000Z
 DTEND:20261019T153500Z
 SUMMARY:PIMiT 
 LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 7/14\nProwadzący: dr inż. Koliński Kazimierz
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T150000Z
@@ -172,18 +151,18 @@ LOCATION:
 DESCRIPTION:EOiDST\nRodzaj zajęć: -\nNumer zajęć: 5/12\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261221T150000Z
-DTEND:20261221T163500Z
+DTSTART:20261116T165000Z
+DTEND:20261116T182500Z
 SUMMARY:PIMiT 
-LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 8/14\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
+LOCATION:19/ 23a
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T070000Z
 DTEND:20261103T083500Z
 SUMMARY:PIMiT 
 LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 9/14\nProwadzący: dr inż. Koliński Kazimierz
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T070000Z
@@ -198,6 +177,13 @@ DTEND:20261215T102500Z
 SUMMARY:OPT 
 LOCATION:
 DESCRIPTION:OPT\nRodzaj zajęć: -\nNumer zajęć: 6/12\nProwadzący: dr inż. Chojnowski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T165000Z
+DTEND:20261117T182500Z
+SUMMARY:PIMiT 
+LOCATION:19/ 23a
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T060000Z
@@ -263,6 +249,13 @@ LOCATION:
 DESCRIPTION:EOiDST\nRodzaj zajęć: -\nNumer zajęć: 6/12\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:PIMiT 
+LOCATION:7/ 23A
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261021T113000Z
 DTEND:20261021T130500Z
 SUMMARY:SZTiM 
@@ -274,7 +267,7 @@ DTSTART:20261028T123000Z
 DTEND:20261028T140500Z
 SUMMARY:PIMiT 
 LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 10/14\nProwadzący: dr inż. Koliński Kazimierz
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T123000Z
@@ -284,11 +277,25 @@ LOCATION:10/ 19; 11/ 19; 16/ 19; 17/ 19
 DESCRIPTION:SZTiM\nRodzaj zajęć: -\nNumer zajęć: 8/13\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:PIMiT 
+LOCATION:
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
 SUMMARY:OPT 
 LOCATION:
 DESCRIPTION:OPT\nRodzaj zajęć: -\nNumer zajęć: 11/12\nProwadzący: dr inż. Trawiński Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T184000Z
+DTEND:20261104T201500Z
+SUMMARY:PIMiT 
+LOCATION:19/ 23a
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T070000Z
@@ -323,7 +330,7 @@ DTSTART:20261119T085000Z
 DTEND:20261119T102500Z
 SUMMARY:PIMiT 
 LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 11/14\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 12/15\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
@@ -379,21 +386,21 @@ DTSTART:20261204T085000Z
 DTEND:20261204T102500Z
 SUMMARY:PIMiT 
 LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 12/14\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 13/15\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T104000Z
 DTEND:20261113T121500Z
 SUMMARY:PIMiT 
 LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 13/14\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 14/15\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T104000Z
 DTEND:20261204T121500Z
 SUMMARY:PIMiT 
 LOCATION:
-DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 14/14\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:PIMiT\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T104000Z

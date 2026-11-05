@@ -823,6 +823,13 @@ LOCATION:56/ 62
 DESCRIPTION:Manufacturing Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261215T150000Z
+DTEND:20261215T163500Z
+SUMMARY:Ceh (L)
+LOCATION:9/ 68
+DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261229T150000Z
 DTEND:20261229T163500Z
 SUMMARY:I 
@@ -1051,7 +1058,7 @@ DTSTART:20261125T104000Z
 DTEND:20261125T121500Z
 SUMMARY:Ceh (L)
 LOCATION:9/ 68
-DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
+DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T104000Z
@@ -1096,13 +1103,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 41/129
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T123000Z
-DTEND:20261118T140500Z
-SUMMARY:Ceh (L)
-LOCATION:9/ 68
-DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261125T123000Z
 DTEND:20261125T140500Z
 SUMMARY:Ceh (ć)
@@ -1122,13 +1122,6 @@ DTEND:20261209T140500Z
 SUMMARY:Ceh (L)
 LOCATION:9/ 68
 DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T123000Z
-DTEND:20261216T140500Z
-SUMMARY:FVNM (w)
-LOCATION:56/ 62
-DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z
@@ -1458,6 +1451,13 @@ DTEND:20261210T140500Z
 SUMMARY:Ceh (L)
 LOCATION:9/ 68
 DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr inż Polak Filip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T123000Z
+DTEND:20261217T140500Z
+SUMMARY:FVNM (w)
+LOCATION:56/ 62
+DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T123000Z

@@ -1663,6 +1663,13 @@ LOCATION:1/ 19
 DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:Is (ć)
+LOCATION:5/ 20
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T123000Z
 DTEND:20261216T140500Z
 SUMMARY:F2 (ć)
@@ -2095,13 +2102,6 @@ DTEND:20261105T121500Z
 SUMMARY:F2 (ć)
 LOCATION:9/ 62
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T121500Z
-SUMMARY:Is (ć)
-LOCATION:2/ 23A
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z

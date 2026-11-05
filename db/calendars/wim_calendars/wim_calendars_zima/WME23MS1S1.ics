@@ -235,13 +235,6 @@ LOCATION:7/ 23A
 DESCRIPTION:Komputerowa symulacja ruchu samochodów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261207T104000Z
-DTEND:20261207T121500Z
-SUMMARY:Ksrs (w)
-LOCATION:3/ 23A
-DESCRIPTION:Komputerowa symulacja ruchu samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261228T104000Z
 DTEND:20261228T121500Z
 SUMMARY:I 
@@ -1024,6 +1017,13 @@ DTEND:20260113T121500Z
 SUMMARY:SEpop. 
 LOCATION:
 DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 8/19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T123000Z
+DTEND:20261104T140500Z
+SUMMARY:Ksrs (w)
+LOCATION:5/ 23A
+DESCRIPTION:Komputerowa symulacja ruchu samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T123000Z

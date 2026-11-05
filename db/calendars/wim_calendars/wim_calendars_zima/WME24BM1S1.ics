@@ -1957,18 +1957,11 @@ LOCATION:29/ 54; 30/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T123000Z
-DTEND:20261216T140500Z
-SUMMARY:TMiM (ć)
-LOCATION:14/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/16\nProwadzący: dr inż. Krogul Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261223T123000Z
 DTEND:20261223T140500Z
 SUMMARY:TMiM (ć)
 LOCATION:14/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/16\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/16\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z
@@ -2031,7 +2024,7 @@ DTSTART:20261104T150000Z
 DTEND:20261104T163500Z
 SUMMARY:TMiM (ć)
 LOCATION:14/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/16\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/16\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T150000Z
@@ -2069,13 +2062,6 @@ LOCATION:53/ 62
 DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T150000Z
-DTEND:20261216T163500Z
-SUMMARY:Wdmsr (w)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261223T150000Z
 DTEND:20261223T163500Z
 SUMMARY:REZ 
@@ -2102,6 +2088,13 @@ DTEND:20260113T163500Z
 SUMMARY:Wdmsr (L)
 LOCATION:53/ 62
 DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T150000Z
+DTEND:20260120T163500Z
+SUMMARY:Wdmsr (w)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T150000Z
@@ -2255,7 +2248,7 @@ DTSTART:20261105T070000Z
 DTEND:20261105T083500Z
 SUMMARY:TMiM (ć)
 LOCATION:14/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/16\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/16\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T070000Z
@@ -2367,7 +2360,7 @@ DTSTART:20261105T085000Z
 DTEND:20261105T102500Z
 SUMMARY:TMiM (ć)
 LOCATION:14/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/16\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/16\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T085000Z
@@ -2542,14 +2535,14 @@ DTSTART:20260114T104000Z
 DTEND:20260114T121500Z
 SUMMARY:TMiM (ć)
 LOCATION:14/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/16\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/16\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T104000Z
 DTEND:20260121T121500Z
 SUMMARY:TMiM (ć)
 LOCATION:14/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/16\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/16\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T104000Z
@@ -2640,14 +2633,14 @@ DTSTART:20260114T123000Z
 DTEND:20260114T140500Z
 SUMMARY:TMiM (ć)
 LOCATION:14/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/16\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/16\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T123000Z
 DTEND:20260121T140500Z
 SUMMARY:TMiM (ć)
 LOCATION:14/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/16\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/16\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T123000Z
@@ -2682,7 +2675,7 @@ DTSTART:20261126T150000Z
 DTEND:20261126T163500Z
 SUMMARY:TMiM (ć)
 LOCATION:14/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/16\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/16\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T150000Z
@@ -2970,6 +2963,13 @@ DTEND:20260101T083500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 80/154
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T070000Z
+DTEND:20260108T083500Z
+SUMMARY:TMiM (ć)
+LOCATION:14/ 54A
+DESCRIPTION:Teoria maszyn i mechanizmów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/16\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T070000Z

@@ -1572,6 +1572,13 @@ LOCATION:6/ 23A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261202T104000Z
+DTEND:20261202T121500Z
+SUMMARY:PoL (w)
+LOCATION:5/ 20
+DESCRIPTION:Problemy odpadów w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Senyk Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T104000Z
 DTEND:20261216T121500Z
 SUMMARY:GmP. (S)
@@ -1647,13 +1654,6 @@ DTEND:20261125T140500Z
 SUMMARY:E-L (L)
 LOCATION:
 DESCRIPTION:E-logistyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Waśniewski Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261223T123000Z
-DTEND:20261223T140500Z
-SUMMARY:PoL (w)
-LOCATION:1/ 19
-DESCRIPTION:Problemy odpadów w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Senyk Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z

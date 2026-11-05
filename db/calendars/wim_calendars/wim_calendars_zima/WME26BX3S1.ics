@@ -809,25 +809,18 @@ LOCATION:120/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T104000Z
-DTEND:20261110T121500Z
-SUMMARY:PGI (ć)
-LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:PGI (ć)
 LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T104000Z
 DTEND:20261124T121500Z
 SUMMARY:PGI (ć)
 LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T104000Z
@@ -841,21 +834,21 @@ DTSTART:20261208T104000Z
 DTEND:20261208T121500Z
 SUMMARY:PGI (ć)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T104000Z
 DTEND:20261215T121500Z
 SUMMARY:PGI (ć)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T104000Z
 DTEND:20261222T121500Z
 SUMMARY:PGI (ć)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T104000Z
@@ -1240,7 +1233,7 @@ DTSTART:20260120T070000Z
 DTEND:20260120T083500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T070000Z
@@ -1332,6 +1325,13 @@ DTEND:20260106T102500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 41/175
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T085000Z
+DTEND:20260120T102500Z
+SUMMARY:PGI (ć)
+LOCATION:116/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T085000Z

@@ -788,6 +788,13 @@ LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/30
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261110T070000Z
+DTEND:20261110T083500Z
+SUMMARY:REG (w)
+LOCATION:3/038
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: mjr mgr Nawalicki Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:Ja (ć)
@@ -1863,7 +1870,7 @@ DTSTART:20260127T123000Z
 DTEND:20260127T140500Z
 SUMMARY:REG (w)
 LOCATION:3/038
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: mjr mgr Nawalicki Piotr
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: mjr mgr Nawalicki Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T123000Z
@@ -1899,13 +1906,6 @@ DTEND:20261028T163500Z
 SUMMARY:OPBMR (w)
 LOCATION:
 DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261104T150000Z
-DTEND:20261104T163500Z
-SUMMARY:REG (w)
-LOCATION:
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: mjr mgr Nawalicki Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T150000Z

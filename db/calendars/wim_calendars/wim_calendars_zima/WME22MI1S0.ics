@@ -2552,13 +2552,6 @@ LOCATION:42/ 54A
 DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T150000Z
-DTEND:20261216T163500Z
-SUMMARY:TWI 
-LOCATION:42/ 54A
-DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 8/21\nProwadzący: dr inż. Kuchta Wiesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261223T150000Z
 DTEND:20261223T163500Z
 SUMMARY:REZ 
@@ -3067,7 +3060,7 @@ DTSTART:20261029T070000Z
 DTEND:20261029T083500Z
 SUMMARY:TWI 
 LOCATION:43/ 54A
-DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 9/21\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 8/21\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T070000Z
@@ -3081,7 +3074,7 @@ DTSTART:20261119T070000Z
 DTEND:20261119T083500Z
 SUMMARY:TWI 
 LOCATION:42/ 54A
-DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 10/21\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 9/21\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -3130,7 +3123,7 @@ DTSTART:20260107T070000Z
 DTEND:20260107T083500Z
 SUMMARY:TWI 
 LOCATION:42/ 54A
-DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 11/21\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 10/21\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T070000Z
@@ -3277,7 +3270,7 @@ DTSTART:20260107T085000Z
 DTEND:20260107T102500Z
 SUMMARY:TWI 
 LOCATION:42/ 54A
-DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 12/21\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 11/21\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T085000Z
@@ -3655,14 +3648,14 @@ DTSTART:20261105T150000Z
 DTEND:20261105T163500Z
 SUMMARY:TWI 
 LOCATION:42/ 54A
-DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 13/21\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 12/21\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T150000Z
 DTEND:20261112T163500Z
 SUMMARY:TWI 
 LOCATION:42/ 54A
-DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 14/21\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 13/21\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T150000Z
@@ -3676,7 +3669,7 @@ DTSTART:20261203T150000Z
 DTEND:20261203T163500Z
 SUMMARY:TWI 
 LOCATION:42/ 54A
-DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 15/21\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 14/21\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T150000Z
@@ -3684,6 +3677,13 @@ DTEND:20261210T163500Z
 SUMMARY:ZaMe (ć)
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: dr inż. Kuchta Wiesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T150000Z
+DTEND:20261217T163500Z
+SUMMARY:TWI 
+LOCATION:42/ 54A
+DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 15/21\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T150000Z

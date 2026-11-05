@@ -1117,6 +1117,13 @@ LOCATION:301/ S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261222T150000Z
+DTEND:20261222T163500Z
+SUMMARY:Wdi. (L)
+LOCATION:53/ 62
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261229T150000Z
 DTEND:20261229T163500Z
 SUMMARY:I 
@@ -1541,7 +1548,7 @@ DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T104000Z
@@ -1583,7 +1590,7 @@ DTSTART:20260120T104000Z
 DTEND:20260120T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:7/ 23A
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T104000Z
@@ -1668,13 +1675,6 @@ DTEND:20261209T140500Z
 SUMMARY:PGI (ć)
 LOCATION:120/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T123000Z
-DTEND:20261216T140500Z
-SUMMARY:Wdi. (L)
-LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T123000Z

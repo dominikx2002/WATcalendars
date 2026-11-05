@@ -1208,6 +1208,13 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 1/236
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261208T150000Z
+DTEND:20261208T163500Z
+SUMMARY:Wdi. (L)
+LOCATION:53/ 62
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261229T150000Z
 DTEND:20261229T163500Z
 SUMMARY:I 
@@ -1303,14 +1310,14 @@ DTSTART:20261028T070000Z
 DTEND:20261028T083500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T070000Z
 DTEND:20261104T083500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T070000Z
@@ -1324,21 +1331,21 @@ DTSTART:20261118T070000Z
 DTEND:20261118T083500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T070000Z
 DTEND:20261202T083500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
@@ -1352,7 +1359,7 @@ DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T070000Z
@@ -1583,13 +1590,6 @@ DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T123000Z
-DTEND:20261216T140500Z
-SUMMARY:Wdi. (L)
-LOCATION:7/ 23A
 DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
 END:VEVENT
 BEGIN:VEVENT

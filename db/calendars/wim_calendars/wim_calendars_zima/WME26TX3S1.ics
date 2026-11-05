@@ -263,13 +263,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: mgr Stawicka Natalia
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261221T104000Z
-DTEND:20261221T121500Z
-SUMMARY:WF (ć)
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: mgr Stawicka Natalia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261228T104000Z
 DTEND:20261228T121500Z
 SUMMARY:I 
@@ -288,21 +281,21 @@ DTSTART:20260111T104000Z
 DTEND:20260111T121500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: mgr Stawicka Natalia
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: mgr Stawicka Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T104000Z
 DTEND:20260118T121500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: mgr Stawicka Natalia
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: mgr Stawicka Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T104000Z
 DTEND:20260125T121500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: mgr Stawicka Natalia
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: mgr Stawicka Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260208T104000Z
@@ -1373,7 +1366,7 @@ DTSTART:20260120T085000Z
 DTEND:20260120T102500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: mgr Stawicka Natalia
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: mgr Stawicka Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T085000Z
@@ -1962,6 +1955,13 @@ DTEND:20261029T121500Z
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr Prusińska Agnieszka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T104000Z
+DTEND:20261112T121500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: mgr Stawicka Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z

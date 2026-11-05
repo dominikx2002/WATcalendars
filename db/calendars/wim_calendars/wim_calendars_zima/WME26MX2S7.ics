@@ -1047,13 +1047,6 @@ LOCATION:43/ 54A
 DESCRIPTION:FMD\nRodzaj zajęć: -\nNumer zajęć: 18/18\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T123000Z
-DTEND:20261216T140500Z
-SUMMARY:FVNM (w)
-LOCATION:56/ 62
-DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Sławiński Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261230T123000Z
 DTEND:20261230T140500Z
 SUMMARY:I 
@@ -1234,6 +1227,13 @@ DTEND:20261203T140500Z
 SUMMARY:Vd (ć)
 LOCATION:20/ 68
 DESCRIPTION:Vehicle drivetrain\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Chojnowski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T123000Z
+DTEND:20261217T140500Z
+SUMMARY:FVNM (w)
+LOCATION:56/ 62
+DESCRIPTION:Fundamentals of Validation of Numerical Models\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T123000Z
