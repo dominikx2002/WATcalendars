@@ -863,13 +863,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261109T175000
-DTEND;TZID=Europe/Warsaw:20261109T192500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
 DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:WF (ć)
@@ -937,7 +930,7 @@ DTSTART;TZID=Europe/Warsaw:20261113T095000
 DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:Sr (w)
 LOCATION:307 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T114000
@@ -1070,7 +1063,7 @@ DTSTART;TZID=Europe/Warsaw:20261120T095000
 DTEND;TZID=Europe/Warsaw:20261120T112500
 SUMMARY:Sr (w)
 LOCATION:307 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T114000
@@ -1329,7 +1322,7 @@ DTSTART;TZID=Europe/Warsaw:20261204T095000
 DTEND;TZID=Europe/Warsaw:20261204T112500
 SUMMARY:Sr (w)
 LOCATION:307 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T114000
@@ -1448,7 +1441,7 @@ DTSTART;TZID=Europe/Warsaw:20261211T095000
 DTEND;TZID=Europe/Warsaw:20261211T112500
 SUMMARY:Sr (w)
 LOCATION:307 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T114000
@@ -1672,7 +1665,7 @@ DTSTART;TZID=Europe/Warsaw:20261223T095000
 DTEND;TZID=Europe/Warsaw:20261223T112500
 SUMMARY:Sr (w)
 LOCATION:313 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T114000
@@ -1848,6 +1841,13 @@ DTEND;TZID=Europe/Warsaw:20270114T131500
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 34\nProwadzący: mgr Radosław Olszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270115T080000
+DTEND;TZID=Europe/Warsaw:20270115T093500
+SUMMARY:Sr (w)
+LOCATION:316 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T095000

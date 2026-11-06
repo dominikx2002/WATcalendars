@@ -639,20 +639,6 @@ LOCATION:313 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261105T160000
-DTEND;TZID=Europe/Warsaw:20261105T173500
-SUMMARY:Po (L)
-LOCATION:236 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261105T175000
-DTEND;TZID=Europe/Warsaw:20261105T192500
-SUMMARY:Po (L)
-LOCATION:236 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T080000
 DTEND;TZID=Europe/Warsaw:20261106T093500
 SUMMARY:Po (w)
@@ -923,14 +909,14 @@ DTSTART;TZID=Europe/Warsaw:20261123T160000
 DTEND;TZID=Europe/Warsaw:20261123T173500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T175000
 DTEND;TZID=Europe/Warsaw:20261123T192500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T095000
@@ -1084,14 +1070,14 @@ DTSTART;TZID=Europe/Warsaw:20261203T133000
 DTEND;TZID=Europe/Warsaw:20261203T150500
 SUMMARY:Po (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T160000
 DTEND;TZID=Europe/Warsaw:20261203T173500
 SUMMARY:Po (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T175000
@@ -1182,14 +1168,14 @@ DTSTART;TZID=Europe/Warsaw:20261209T160000
 DTEND;TZID=Europe/Warsaw:20261209T173500
 SUMMARY:Po (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T175000
 DTEND;TZID=Europe/Warsaw:20261209T192500
 SUMMARY:Po (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T080000
@@ -1274,6 +1260,20 @@ DTEND;TZID=Europe/Warsaw:20261216T131500
 SUMMARY:SO (w)
 LOCATION:316 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr hab. inż. Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261216T160000
+DTEND;TZID=Europe/Warsaw:20261216T173500
+SUMMARY:Po (L)
+LOCATION:252 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261216T175000
+DTEND;TZID=Europe/Warsaw:20261216T192500
+SUMMARY:Po (L)
+LOCATION:252 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T114000

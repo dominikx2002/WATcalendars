@@ -891,6 +891,13 @@ LOCATION:313 S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: prof.dr hab.inż. Zbigniew Raszewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T175000
+DTEND;TZID=Europe/Warsaw:20261119T192500
+SUMMARY:Tgs (Zp)
+LOCATION:309 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T160000
 DTEND;TZID=Europe/Warsaw:20261120T173500
 SUMMARY:F2 (L)

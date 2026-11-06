@@ -541,13 +541,6 @@ LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261106T095000
-DTEND;TZID=Europe/Warsaw:20261106T112500
-SUMMARY:Intm (w)
-LOCATION:S2 72
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Mariusz Zieja
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T080000
 DTEND;TZID=Europe/Warsaw:20261109T093500
 SUMMARY:Math1 (ć)
@@ -629,7 +622,7 @@ DTSTART;TZID=Europe/Warsaw:20261113T095000
 DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:Intm (w)
 LOCATION:S2 72
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Mariusz Zieja
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Mariusz Zieja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T080000
@@ -720,7 +713,7 @@ DTSTART;TZID=Europe/Warsaw:20261120T095000
 DTEND;TZID=Europe/Warsaw:20261120T112500
 SUMMARY:Intm (w)
 LOCATION:S2 72
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Mariusz Zieja
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Mariusz Zieja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T080000
@@ -867,7 +860,7 @@ DTSTART;TZID=Europe/Warsaw:20261204T095000
 DTEND;TZID=Europe/Warsaw:20261204T112500
 SUMMARY:Intm (w)
 LOCATION:S2 72
-DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Mariusz Zieja
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Mariusz Zieja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T114000
@@ -1222,6 +1215,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T133000
 DTEND;TZID=Europe/Warsaw:20270113T150500
+SUMMARY:Intm (w)
+LOCATION:S2 72
+DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Mariusz Zieja
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270113T160000
+DTEND;TZID=Europe/Warsaw:20270113T173500
 SUMMARY:Intm (w)
 LOCATION:S2 72
 DESCRIPTION:Introduction to Metrology\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. inż. Mariusz Zieja
