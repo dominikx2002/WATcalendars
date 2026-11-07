@@ -933,13 +933,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261113T133000
-DTEND;TZID=Europe/Warsaw:20261113T150500
-SUMMARY:Mnk (w)
-LOCATION:204 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. Marek Kojdecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T160000
 DTEND;TZID=Europe/Warsaw:20261113T173500
 SUMMARY:Khk (L)
@@ -1091,7 +1084,7 @@ DTSTART;TZID=Europe/Warsaw:20261120T133000
 DTEND;TZID=Europe/Warsaw:20261120T150500
 SUMMARY:Mnk (w)
 LOCATION:204 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr hab. Marek Kojdecki
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T095000
@@ -1183,6 +1176,13 @@ DTEND;TZID=Europe/Warsaw:20261125T131500
 SUMMARY:Mnk (L)
 LOCATION:219 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T133000
+DTEND;TZID=Europe/Warsaw:20261125T150500
+SUMMARY:Mnk (w)
+LOCATION:214. 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T080000

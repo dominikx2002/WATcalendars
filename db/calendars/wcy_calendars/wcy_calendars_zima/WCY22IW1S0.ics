@@ -863,13 +863,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261110T095000
-DTEND;TZID=Europe/Warsaw:20261110T112500
-SUMMARY:WF (ć)
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Anna Rybak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T114000
 DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:REG (w)
@@ -909,7 +902,7 @@ DTSTART;TZID=Europe/Warsaw:20261112T114000
 DTEND;TZID=Europe/Warsaw:20261112T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T133000
@@ -986,7 +979,7 @@ DTSTART;TZID=Europe/Warsaw:20261117T095000
 DTEND;TZID=Europe/Warsaw:20261117T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T133000
@@ -1014,7 +1007,7 @@ DTSTART;TZID=Europe/Warsaw:20261118T114000
 DTEND;TZID=Europe/Warsaw:20261118T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T133000
@@ -1049,7 +1042,7 @@ DTSTART;TZID=Europe/Warsaw:20261119T114000
 DTEND;TZID=Europe/Warsaw:20261119T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T133000
@@ -1105,7 +1098,7 @@ DTSTART;TZID=Europe/Warsaw:20261124T095000
 DTEND;TZID=Europe/Warsaw:20261124T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T133000
@@ -1140,7 +1133,7 @@ DTSTART;TZID=Europe/Warsaw:20261125T114000
 DTEND;TZID=Europe/Warsaw:20261125T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T160000
@@ -1175,7 +1168,7 @@ DTSTART;TZID=Europe/Warsaw:20261126T114000
 DTEND;TZID=Europe/Warsaw:20261126T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T133000
@@ -1231,7 +1224,7 @@ DTSTART;TZID=Europe/Warsaw:20261201T095000
 DTEND;TZID=Europe/Warsaw:20261201T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T114000
@@ -1266,7 +1259,7 @@ DTSTART;TZID=Europe/Warsaw:20261202T114000
 DTEND;TZID=Europe/Warsaw:20261202T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T133000
@@ -1308,7 +1301,7 @@ DTSTART;TZID=Europe/Warsaw:20261203T114000
 DTEND;TZID=Europe/Warsaw:20261203T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23\nProwadzący: mgr Radosław Olszewski
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22\nProwadzący: mgr Radosław Olszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T133000
@@ -1378,7 +1371,7 @@ DTSTART;TZID=Europe/Warsaw:20261208T095000
 DTEND;TZID=Europe/Warsaw:20261208T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24\nProwadzący: mgr Anna Rybak
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261208T114000
@@ -1420,7 +1413,7 @@ DTSTART;TZID=Europe/Warsaw:20261210T114000
 DTEND;TZID=Europe/Warsaw:20261210T131500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25\nProwadzący: ppłk mgr Paweł Ryś
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24\nProwadzący: ppłk mgr Paweł Ryś
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T133000
@@ -1435,6 +1428,13 @@ DTEND;TZID=Europe/Warsaw:20261210T173500
 SUMMARY:ZBD (L)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261211T080000
+DTEND;TZID=Europe/Warsaw:20261211T093500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25\nProwadzący: mgr Anna Rybak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T095000

@@ -1430,20 +1430,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261211T114000
-DTEND;TZID=Europe/Warsaw:20261211T131500
-SUMMARY:IO (L)
-LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261211T133000
-DTEND;TZID=Europe/Warsaw:20261211T150500
-SUMMARY:IO (L)
-LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T160000
 DTEND;TZID=Europe/Warsaw:20261211T173500
 SUMMARY:PZiP (ć)
@@ -1567,14 +1553,14 @@ DTSTART;TZID=Europe/Warsaw:20261218T114000
 DTEND;TZID=Europe/Warsaw:20261218T131500
 SUMMARY:IO (L)
 LOCATION:227 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T133000
 DTEND;TZID=Europe/Warsaw:20261218T150500
 SUMMARY:IO (L)
 LOCATION:227 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T095000
@@ -1777,14 +1763,14 @@ DTSTART;TZID=Europe/Warsaw:20270115T114000
 DTEND;TZID=Europe/Warsaw:20270115T131500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270115T133000
 DTEND;TZID=Europe/Warsaw:20270115T150500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T095000
@@ -1910,14 +1896,14 @@ DTSTART;TZID=Europe/Warsaw:20270122T114000
 DTEND;TZID=Europe/Warsaw:20270122T131500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270122T133000
 DTEND;TZID=Europe/Warsaw:20270122T150500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270123T095000
@@ -1995,6 +1981,20 @@ DTEND;TZID=Europe/Warsaw:20270128T131500
 SUMMARY:Ja (ć)
 LOCATION:238 K 237 K 235 K 234 K 233 K 232 K 231 K 230 K 134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270128T133000
+DTEND;TZID=Europe/Warsaw:20270128T150500
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270128T160000
+DTEND;TZID=Europe/Warsaw:20270128T173500
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T133000

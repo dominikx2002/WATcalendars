@@ -677,14 +677,14 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T080000
 DTEND;TZID=Europe/Warsaw:20261109T093500
 SUMMARY:BD (L)
-LOCATION:227 S
+LOCATION:224 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T095000
 DTEND;TZID=Europe/Warsaw:20261109T112500
 SUMMARY:BD (L)
-LOCATION:227 S
+LOCATION:224 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
@@ -833,6 +833,13 @@ DTEND;TZID=Europe/Warsaw:20261117T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T194000
+DTEND;TZID=Europe/Warsaw:20261117T211500
+SUMMARY:WdP (Ep)
+LOCATION:224 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T095000

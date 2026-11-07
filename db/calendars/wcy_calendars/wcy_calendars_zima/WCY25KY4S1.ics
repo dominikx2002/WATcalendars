@@ -702,13 +702,6 @@ LOCATION:228 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Michał Zimoń
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261110T080000
-DTEND;TZID=Europe/Warsaw:20261110T093500
-SUMMARY:Tik (L)
-LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Jerzy Dorobisz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
 DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:F2 (w)
@@ -735,6 +728,13 @@ DTEND;TZID=Europe/Warsaw:20261110T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261112T080000
+DTEND;TZID=Europe/Warsaw:20261112T093500
+SUMMARY:Tik (L)
+LOCATION:09 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T114000
@@ -849,6 +849,13 @@ LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T194000
+DTEND;TZID=Europe/Warsaw:20261117T211500
+SUMMARY:WdP (Ep)
+LOCATION:224 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T080000
 DTEND;TZID=Europe/Warsaw:20261118T093500
 SUMMARY:SO (L)
@@ -917,6 +924,13 @@ DTEND;TZID=Europe/Warsaw:20261120T150500
 SUMMARY:BD (L)
 LOCATION:233 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T160000
+DTEND;TZID=Europe/Warsaw:20261120T173500
+SUMMARY:ppk (Zp)
+LOCATION:314 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T095000

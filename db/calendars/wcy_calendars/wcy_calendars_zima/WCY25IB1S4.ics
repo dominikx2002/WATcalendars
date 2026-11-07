@@ -345,20 +345,6 @@ LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261110T114000
-DTEND;TZID=Europe/Warsaw:20261110T131500
-SUMMARY:Tim (L)
-LOCATION:224 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261110T133000
-DTEND;TZID=Europe/Warsaw:20261110T150500
-SUMMARY:Tim (L)
-LOCATION:224 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T080000
 DTEND;TZID=Europe/Warsaw:20261112T093500
 SUMMARY:Wmo (w)
@@ -392,6 +378,20 @@ DTEND;TZID=Europe/Warsaw:20261116T131500
 SUMMARY:Wmo (ć)
 LOCATION:223 S
 DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T133000
+DTEND;TZID=Europe/Warsaw:20261116T150500
+SUMMARY:Tim (L)
+LOCATION:224 S
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T160000
+DTEND;TZID=Europe/Warsaw:20261116T173500
+SUMMARY:Tim (L)
+LOCATION:224 S
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T095000

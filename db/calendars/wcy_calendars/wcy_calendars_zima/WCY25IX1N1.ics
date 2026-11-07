@@ -408,6 +408,13 @@ LOCATION:203 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T160000
+DTEND;TZID=Europe/Warsaw:20261120T173500
+SUMMARY:ppk (Zp)
+LOCATION:314 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T080000
 DTEND;TZID=Europe/Warsaw:20261121T093500
 SUMMARY:Ja (ć)

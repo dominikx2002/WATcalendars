@@ -744,13 +744,6 @@ LOCATION:223 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261106T160000
-DTEND;TZID=Europe/Warsaw:20261106T173500
-SUMMARY:Miar (w)
-LOCATION:308 S
-DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T080000
 DTEND;TZID=Europe/Warsaw:20261107T093500
 SUMMARY:XWF (ć)
@@ -1155,6 +1148,13 @@ DTEND;TZID=Europe/Warsaw:20261126T150500
 SUMMARY:Tuim (L)
 LOCATION:226 S
 DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T160000
+DTEND;TZID=Europe/Warsaw:20261126T173500
+SUMMARY:Miar (w)
+LOCATION:307 S
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261128T080000

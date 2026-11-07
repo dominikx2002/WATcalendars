@@ -856,6 +856,13 @@ LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T194000
+DTEND;TZID=Europe/Warsaw:20261117T211500
+SUMMARY:WdP (Ep)
+LOCATION:224 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T080000
 DTEND;TZID=Europe/Warsaw:20261118T093500
 SUMMARY:Po (L)
@@ -1447,7 +1454,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T133000
 DTEND;TZID=Europe/Warsaw:20270112T150500
 SUMMARY:F2 (ć)
-LOCATION:205 65
+LOCATION:309 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: dr Urszula Chodorow
 END:VEVENT
 BEGIN:VEVENT

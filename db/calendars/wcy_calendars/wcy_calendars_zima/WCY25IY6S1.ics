@@ -849,6 +849,13 @@ LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T194000
+DTEND;TZID=Europe/Warsaw:20261117T211500
+SUMMARY:WdP (Ep)
+LOCATION:224 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T095000
 DTEND;TZID=Europe/Warsaw:20261118T112500
 SUMMARY:Swb (w)
@@ -924,6 +931,13 @@ DTEND;TZID=Europe/Warsaw:20261120T150500
 SUMMARY:Als (L)
 LOCATION:252 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: Rafał Bogiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T160000
+DTEND;TZID=Europe/Warsaw:20261120T173500
+SUMMARY:ppk (Zp)
+LOCATION:314 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T095000
