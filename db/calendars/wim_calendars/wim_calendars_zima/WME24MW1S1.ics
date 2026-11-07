@@ -501,6 +501,13 @@ LOCATION:30/ 54
 DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Kluczyński Janusz 91
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261116T150000Z
+DTEND:20261116T163500Z
+SUMMARY:Opcc (L)
+LOCATION:19/ 54; 5/ 62
+DESCRIPTION:Obróbka plastyczna, cieplna i cieplnochemiczna 30\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 31
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261130T150000Z
 DTEND:20261130T163500Z
 SUMMARY:Tpt (ć)
@@ -884,6 +891,13 @@ DTEND:20260112T102500Z
 SUMMARY:Peks (ć)
 LOCATION:116/ 54
 DESCRIPTION:Podstawy eksploatacji 57\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T085000Z
+DTEND:20260126T102500Z
+SUMMARY:Adv (S)
+LOCATION:10/ 54A
+DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T085000Z
@@ -1478,7 +1492,7 @@ DTSTART:20260113T085000Z
 DTEND:20260113T102500Z
 SUMMARY:Adv (S)
 LOCATION:116/ 54
-DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/10\nProwadzący: dr inż. Łuszczek Jakub 2
+DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/10\nProwadzący: dr inż. Łuszczek Jakub 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T085000Z
@@ -1548,7 +1562,7 @@ DTSTART:20261223T104000Z
 DTEND:20261223T121500Z
 SUMMARY:Adv (S)
 LOCATION:116/ 54
-DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/10\nProwadzący: dr inż. Łuszczek Jakub 2
+DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/10\nProwadzący: dr inż. Łuszczek Jakub 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T104000Z
@@ -1814,14 +1828,14 @@ DTSTART:20261105T070000Z
 DTEND:20261105T083500Z
 SUMMARY:Adv (S)
 LOCATION:116/ 54
-DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/10
+DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
 DTEND:20261119T083500Z
 SUMMARY:Adv (S)
 LOCATION:116/ 54
-DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/10\nProwadzący: dr inż. Łuszczek Jakub 2
+DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/10\nProwadzący: dr inż. Łuszczek Jakub 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T070000Z
@@ -1835,7 +1849,7 @@ DTSTART:20261203T070000Z
 DTEND:20261203T083500Z
 SUMMARY:Adv (S)
 LOCATION:116/ 54
-DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/10\nProwadzący: dr inż. Łuszczek Jakub 2
+DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/10\nProwadzący: dr inż. Łuszczek Jakub 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
@@ -1996,7 +2010,7 @@ DTSTART:20261022T094000Z
 DTEND:20261022T111500Z
 SUMMARY:Adv (S)
 LOCATION:116/ 54
-DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/10
+DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T104000Z
@@ -2111,13 +2125,6 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 11/231
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T123000Z
-DTEND:20261112T140500Z
-SUMMARY:Adv (w)
-LOCATION:116/ 54
-DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261119T123000Z
 DTEND:20261119T140500Z
 SUMMARY:Opcc (ć)
@@ -2129,14 +2136,7 @@ DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
 SUMMARY:Opcc (L)
 LOCATION:19/ 54; 109/ 54
-DESCRIPTION:Obróbka plastyczna, cieplna i cieplnochemiczna 30\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 31
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T123000Z
-DTEND:20261217T140500Z
-SUMMARY:Adv (S)
-LOCATION:116/ 54
-DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/10
+DESCRIPTION:Obróbka plastyczna, cieplna i cieplnochemiczna 30\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 31
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T123000Z
@@ -2209,11 +2209,11 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 12/231
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T150000Z
-DTEND:20261112T163500Z
-SUMMARY:Opcc (L)
-LOCATION:19/ 54; 108/ 54
-DESCRIPTION:Obróbka plastyczna, cieplna i cieplnochemiczna 30\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 31
+DTSTART:20261119T150000Z
+DTEND:20261119T163500Z
+SUMMARY:Adv (w)
+LOCATION:120/ 54
+DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T150000Z
@@ -2226,7 +2226,7 @@ BEGIN:VEVENT
 DTSTART:20261210T150000Z
 DTEND:20261210T163500Z
 SUMMARY:Adv (S)
-LOCATION:108/ 54
+LOCATION:116/ 54
 DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/10
 END:VEVENT
 BEGIN:VEVENT

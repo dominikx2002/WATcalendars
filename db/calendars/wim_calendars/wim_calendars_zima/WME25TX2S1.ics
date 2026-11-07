@@ -25,6 +25,13 @@ LOCATION:
 DESCRIPTION:Fizyka 2 10\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław 11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261109T070000Z
+DTEND:20261109T083500Z
+SUMMARY:SoM (ć)
+LOCATION:54/ 62
+DESCRIPTION:Strength of Materials 77\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 78
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261123T070000Z
 DTEND:20261123T083500Z
 SUMMARY:F2 (ć)
@@ -2227,25 +2234,18 @@ DTSTART:20261022T113000Z
 DTEND:20261022T130500Z
 SUMMARY:SoM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 77\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 78
+DESCRIPTION:Strength of Materials 77\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 78
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T123000Z
 DTEND:20261029T140500Z
 SUMMARY:SoM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 77\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 78
+DESCRIPTION:Strength of Materials 77\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 78
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T123000Z
 DTEND:20261105T140500Z
-SUMMARY:SoM (ć)
-LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 77\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 78
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T123000Z
-DTEND:20261112T140500Z
 SUMMARY:SoM (ć)
 LOCATION:5/ 23A
 DESCRIPTION:Strength of Materials 77\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 78
