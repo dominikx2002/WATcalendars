@@ -1031,6 +1031,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15\nProwadzący: mgr Dawid Zapłata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261118T194000
+DTEND;TZID=Europe/Warsaw:20261118T211500
+SUMMARY:BD (Ep)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2\nProwadzący: dr inż. Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T080000
 DTEND;TZID=Europe/Warsaw:20261119T093500
 SUMMARY:Sck (w)

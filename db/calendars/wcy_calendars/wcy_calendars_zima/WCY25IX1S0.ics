@@ -919,13 +919,6 @@ LOCATION:313 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261109T175000
-DTEND;TZID=Europe/Warsaw:20261109T192500
-SUMMARY:WdP (Ep)
-LOCATION:313 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr inż. Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T095000
 DTEND;TZID=Europe/Warsaw:20261110T112500
 SUMMARY:Ja (ć)
@@ -1218,6 +1211,13 @@ DTEND;TZID=Europe/Warsaw:20261123T173500
 SUMMARY:Als (L)
 LOCATION:227 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261123T175000
+DTEND;TZID=Europe/Warsaw:20261123T192500
+SUMMARY:WdP (Ep)
+LOCATION:313 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T095000

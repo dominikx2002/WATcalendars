@@ -29,4 +29,18 @@ SUMMARY:MM (Zp)
 LOCATION:307 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T133000
+DTEND;TZID=Europe/Warsaw:20261119T150500
+SUMMARY:Wpp (Zp)
+LOCATION:108 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Adam Patkowski; mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T114000
+DTEND;TZID=Europe/Warsaw:20261120T131500
+SUMMARY:PO (Zp)
+LOCATION:237 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
 END:VCALENDAR

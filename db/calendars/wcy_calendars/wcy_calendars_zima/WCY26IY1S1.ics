@@ -905,13 +905,6 @@ LOCATION:134 K 133 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261126T194000
-DTEND;TZID=Europe/Warsaw:20261126T211500
-SUMMARY:WDM (ć)
-LOCATION:307 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Justyna Łukasiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T080000
 DTEND;TZID=Europe/Warsaw:20261130T093500
 SUMMARY:Matematyka II (ć)
@@ -965,7 +958,7 @@ DTSTART;TZID=Europe/Warsaw:20261201T160000
 DTEND;TZID=Europe/Warsaw:20261201T173500
 SUMMARY:WDM (ć)
 LOCATION:236 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Justyna Łukasiewicz
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T080000
@@ -1272,15 +1265,15 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T160000
 DTEND;TZID=Europe/Warsaw:20261222T173500
 SUMMARY:WDM (ć)
-LOCATION:308 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Justyna Łukasiewicz
+LOCATION:11/ 34
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T175000
 DTEND;TZID=Europe/Warsaw:20261222T192500
 SUMMARY:WDM (ć)
-LOCATION:307 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr inż. Justyna Łukasiewicz
+LOCATION:11/ 34
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T080000
@@ -1363,7 +1356,14 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T160000
 DTEND;TZID=Europe/Warsaw:20270112T173500
 SUMMARY:WDM (ć)
-LOCATION:308 S
+LOCATION:11/ 34
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7\nProwadzący: mgr inż. Justyna Łukasiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270112T175000
+DTEND;TZID=Europe/Warsaw:20270112T192500
+SUMMARY:WDM (ć)
+LOCATION:11/ 34
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: mgr inż. Justyna Łukasiewicz
 END:VEVENT
 BEGIN:VEVENT
