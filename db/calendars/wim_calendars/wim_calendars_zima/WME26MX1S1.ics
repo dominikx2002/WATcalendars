@@ -557,6 +557,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 12/161
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261116T150000Z
+DTEND:20261116T163500Z
+SUMMARY:Wdi. (L)
+LOCATION:53/ 62
+DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: dr inż. Konarzewski Marcin 40
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261228T150000Z
 DTEND:20261228T163500Z
 SUMMARY:I 
@@ -715,21 +722,21 @@ DTSTART:20260112T070000Z
 DTEND:20260112T083500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: dr inż. Konarzewski Marcin 40
+DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr inż. Konarzewski Marcin 40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T070000Z
 DTEND:20260119T083500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr inż. Konarzewski Marcin 40
+DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr inż. Konarzewski Marcin 40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T070000Z
 DTEND:20260126T083500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr inż. Konarzewski Marcin 40
+DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Konarzewski Marcin 40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T060000Z
@@ -918,7 +925,7 @@ DTSTART:20261222T104000Z
 DTEND:20261222T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Konarzewski Marcin 40
+DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Konarzewski Marcin 40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T104000Z
@@ -1394,7 +1401,7 @@ DTSTART:20261118T085000Z
 DTEND:20261118T102500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Konarzewski Marcin 40
+DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Konarzewski Marcin 40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T085000Z
@@ -1924,13 +1931,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
 DTEND:20261029T121500Z
-SUMMARY:Wdi. (L)
-LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Konarzewski Marcin 40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
 DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr inż. Konarzewski Marcin 40

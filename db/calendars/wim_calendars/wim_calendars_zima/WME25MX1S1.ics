@@ -494,6 +494,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 12/154
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261214T150000Z
+DTEND:20261214T163500Z
+SUMMARY:Mp (w)
+LOCATION:09/ 54A
+DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Rubiec Arkadiusz 36
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261228T150000Z
 DTEND:20261228T163500Z
 SUMMARY:I 
@@ -1492,35 +1499,35 @@ DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:Mp (w)
 LOCATION:116/ 54
-DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Rubiec Arkadiusz 36
+DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Rubiec Arkadiusz 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
 DTEND:20261014T092500Z
 SUMMARY:Mp (w)
 LOCATION:116/ 54
-DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Rubiec Arkadiusz 36
+DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Rubiec Arkadiusz 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T075000Z
 DTEND:20261021T092500Z
 SUMMARY:Mp (w)
 LOCATION:116/ 54
-DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Rubiec Arkadiusz 36
+DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Rubiec Arkadiusz 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
 SUMMARY:Mp (w)
 LOCATION:116/ 54
-DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Rubiec Arkadiusz 36
+DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Rubiec Arkadiusz 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
 DTEND:20261104T102500Z
 SUMMARY:Mp (w)
 LOCATION:116/ 54
-DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Rubiec Arkadiusz 36
+DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Rubiec Arkadiusz 36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T085000Z
@@ -1532,13 +1539,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T085000Z
 DTEND:20261118T102500Z
-SUMMARY:Mp (w)
-LOCATION:116/ 54
-DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Rubiec Arkadiusz 36
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261125T085000Z
-DTEND:20261125T102500Z
 SUMMARY:Mp (w)
 LOCATION:116/ 54
 DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Rubiec Arkadiusz 36

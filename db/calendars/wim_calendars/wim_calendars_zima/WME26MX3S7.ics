@@ -536,18 +536,11 @@ LOCATION:56/ 62
 DESCRIPTION:Fundamentals of Validation of Numerical Models 8\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Sławiński Grzegorz 9
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261110T123000Z
-DTEND:20261110T140500Z
-SUMMARY:FVNM (w)
-LOCATION:56/ 62
-DESCRIPTION:Fundamentals of Validation of Numerical Models 8\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Sławiński Grzegorz 9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261117T123000Z
 DTEND:20261117T140500Z
 SUMMARY:FVNM (w)
 LOCATION:56/ 62
-DESCRIPTION:Fundamentals of Validation of Numerical Models 8\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Sławiński Grzegorz 9
+DESCRIPTION:Fundamentals of Validation of Numerical Models 8\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Sławiński Grzegorz 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T123000Z
@@ -1094,6 +1087,13 @@ DTEND:20261210T121500Z
 SUMMARY:EM 
 LOCATION:56/ 62
 DESCRIPTION:EM\nRodzaj zajęć: -\nNumer zajęć: 18/18\nProwadzący: dr inż. Mazurkiewicz Łukasz 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T104000Z
+DTEND:20261217T121500Z
+SUMMARY:FVNM (w)
+LOCATION:56/ 62
+DESCRIPTION:Fundamentals of Validation of Numerical Models 8\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Sławiński Grzegorz 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T104000Z
