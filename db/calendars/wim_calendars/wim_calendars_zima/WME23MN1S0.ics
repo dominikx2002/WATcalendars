@@ -1180,18 +1180,11 @@ LOCATION:15/ 23A
 DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:Pdm (w)
-LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
+DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T123000Z
@@ -1304,6 +1297,13 @@ DTEND:20261201T163500Z
 SUMMARY:MPiS 
 LOCATION:16/ 19; 17/ 19
 DESCRIPTION:MPiS\nRodzaj zajęć: -\nNumer zajęć: 22/23\nProwadzący: dr inż. Wieczorek Marcin 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261208T150000Z
+DTEND:20261208T163500Z
+SUMMARY:Pdm (ć)
+LOCATION:5/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T150000Z
@@ -1905,7 +1905,7 @@ DTSTART:20261007T113000Z
 DTEND:20261007T130500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
+DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T113000Z
@@ -1947,7 +1947,7 @@ DTSTART:20261125T123000Z
 DTEND:20261125T140500Z
 SUMMARY:Pdm (ć)
 LOCATION:2/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
+DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T123000Z
@@ -2059,7 +2059,7 @@ DTSTART:20261014T140000Z
 DTEND:20261014T153500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
+DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T140000Z
@@ -2081,13 +2081,6 @@ DTEND:20261111T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 67/168
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261118T150000Z
-DTEND:20261118T163500Z
-SUMMARY:Pdm (ć)
-LOCATION:5/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T150000Z
@@ -2780,7 +2773,7 @@ DTSTART:20261001T094000Z
 DTEND:20261001T111500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
+DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T094000Z
@@ -4237,6 +4230,13 @@ DTEND:20261023T153500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 29/32
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T150000Z
+DTEND:20261204T163500Z
+SUMMARY:Pdm (w)
+LOCATION:15/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn 44\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261225T150000Z

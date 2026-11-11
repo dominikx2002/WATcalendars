@@ -445,6 +445,13 @@ LOCATION:116/ 54
 DESCRIPTION:Komunikacja i podstawy negocjacji 7\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Skulska Joanna 8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261214T123000Z
+DTEND:20261214T140500Z
+SUMMARY:XMrp.2 (E)
+LOCATION:19/ 23a
+DESCRIPTION:XMechanika ruchu pojazdów 2 75\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 76
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261228T123000Z
 DTEND:20261228T140500Z
 SUMMARY:I 
@@ -1402,13 +1409,6 @@ DTEND:20261208T163500Z
 SUMMARY:STiRW (ć)
 LOCATION:3/ 135
 DESCRIPTION:System transportu i ruchu wojsk 50\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Żuchowski Dariusz 51
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261215T150000Z
-DTEND:20261215T163500Z
-SUMMARY:XMrp.2 (E)
-LOCATION:19/ 23a
-DESCRIPTION:XMechanika ruchu pojazdów 2 75\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 76
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T150000Z

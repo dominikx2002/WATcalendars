@@ -624,7 +624,7 @@ DTSTART:20260111T150000Z
 DTEND:20260111T163500Z
 SUMMARY:Tw1 (L)
 LOCATION:9/ 21; 10/ 21; 17b/ 21
-DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9
+DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260329T140000Z
@@ -659,7 +659,7 @@ DTSTART:20260111T165000Z
 DTEND:20260111T182500Z
 SUMMARY:Tw1 (L)
 LOCATION:9/ 21; 10/ 21; 17b/ 21
-DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9
+DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260329T155000Z
@@ -792,7 +792,7 @@ DTSTART:20260112T070000Z
 DTEND:20260112T083500Z
 SUMMARY:Tw1 (L)
 LOCATION:17a/ 21
-DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Woźniak Adam 103
+DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Woźniak Adam 103
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T070000Z
@@ -932,7 +932,7 @@ DTSTART:20260126T085000Z
 DTEND:20260126T102500Z
 SUMMARY:Tw1 (L)
 LOCATION:17a/ 21
-DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Woźniak Adam 103
+DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Woźniak Adam 103
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T085000Z
@@ -1257,13 +1257,6 @@ LOCATION:09/ 54A
 DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Muszyński Tomasz 36
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T150000Z
-DTEND:20261124T163500Z
-SUMMARY:Tw1 (L)
-LOCATION:9/ 21; 10/ 21; 17b/ 21
-DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T150000Z
 DTEND:20261201T163500Z
 SUMMARY:Mp (L)
@@ -1332,13 +1325,6 @@ DTEND:20261110T182500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 1/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T165000Z
-DTEND:20261124T182500Z
-SUMMARY:Tw1 (L)
-LOCATION:9/ 21; 10/ 21; 17b/ 21
-DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T165000Z
@@ -1891,7 +1877,7 @@ DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
 SUMMARY:Tw1 (L)
 LOCATION:9/ 21; 10/ 21; 17b/ 21
-DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9
+DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T123000Z
@@ -2003,7 +1989,7 @@ DTSTART:20261202T150000Z
 DTEND:20261202T163500Z
 SUMMARY:Tw1 (L)
 LOCATION:9/ 21; 10/ 21; 17b/ 21
-DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9
+DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T150000Z
@@ -4244,13 +4230,6 @@ DTEND:20260115T140500Z
 SUMMARY:Pwd (ć)
 LOCATION:55/ 62
 DESCRIPTION:Przywództwo w dowodzeniu 70\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Miszczak Marta 71
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T123000Z
-DTEND:20260122T140500Z
-SUMMARY:Tw1 (L)
-LOCATION:17a/ 21
-DESCRIPTION:Techniki wytwarzania 1 102\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Woźniak Adam 103
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T123000Z

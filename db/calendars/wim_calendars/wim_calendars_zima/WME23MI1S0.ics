@@ -585,13 +585,6 @@ LOCATION:15/ 23A
 DESCRIPTION:Zarządzanie środowiskiem i ekologia 98\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Senyk Szymon 99
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261116T150000Z
-DTEND:20261116T163500Z
-SUMMARY:Pdm (ć)
-LOCATION:3/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261123T150000Z
 DTEND:20261123T163500Z
 SUMMARY:Ri (L)
@@ -604,6 +597,13 @@ DTEND:20261130T163500Z
 SUMMARY:Ri (L)
 LOCATION:37/ 54A
 DESCRIPTION:Roboty inżynieryjne 63\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T150000Z
+DTEND:20261207T163500Z
+SUMMARY:Pdm (ć)
+LOCATION:3/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T150000Z
@@ -1145,18 +1145,11 @@ LOCATION:15/ 23A
 DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:Pdm (w)
-LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
+DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T123000Z
@@ -1814,7 +1807,7 @@ DTSTART:20261007T113000Z
 DTEND:20261007T130500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
+DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T113000Z
@@ -1961,7 +1954,7 @@ DTSTART:20261014T140000Z
 DTEND:20261014T153500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
+DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T150000Z
@@ -2612,7 +2605,7 @@ DTSTART:20261001T094000Z
 DTEND:20261001T111500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
+DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T094000Z
@@ -2648,6 +2641,13 @@ DTEND:20261105T121500Z
 SUMMARY:Mpm. (w)
 LOCATION:01/ 54A
 DESCRIPTION:Maszyny do prac mostowych 21\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: ppłk dr inż. Ślęzak Tomasz 22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T104000Z
+DTEND:20261112T121500Z
+SUMMARY:Ri (L)
+LOCATION:10/ 54A
+DESCRIPTION:Roboty inżynieryjne 63\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z
@@ -2717,7 +2717,7 @@ DTSTART:20260121T104000Z
 DTEND:20260121T121500Z
 SUMMARY:Ri (L)
 LOCATION:37/ 54A
-DESCRIPTION:Roboty inżynieryjne 63\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14
+DESCRIPTION:Roboty inżynieryjne 63\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T104000Z
@@ -3903,13 +3903,6 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie 69\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261113T104000Z
-DTEND:20261113T121500Z
-SUMMARY:Ri (L)
-LOCATION:37/ 54A
-DESCRIPTION:Roboty inżynieryjne 63\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261120T104000Z
 DTEND:20261120T121500Z
 SUMMARY:MOMI (L)
@@ -4174,6 +4167,13 @@ DTEND:20261127T163500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 81/101
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T150000Z
+DTEND:20261204T163500Z
+SUMMARY:Pdm (w)
+LOCATION:15/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn 51\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 52
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T150000Z

@@ -1159,18 +1159,11 @@ LOCATION:15/ 23A
 DESCRIPTION:Podstawy dynamiki maszyn 34\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 35
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:Pdm (w)
-LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 34\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 35
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 34\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 35
+DESCRIPTION:Podstawy dynamiki maszyn 34\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T123000Z
@@ -1828,7 +1821,7 @@ DTSTART:20261007T113000Z
 DTEND:20261007T130500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 34\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 35
+DESCRIPTION:Podstawy dynamiki maszyn 34\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T113000Z
@@ -1982,7 +1975,7 @@ DTSTART:20261014T140000Z
 DTEND:20261014T153500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 34\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 35
+DESCRIPTION:Podstawy dynamiki maszyn 34\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T150000Z
@@ -2647,7 +2640,7 @@ DTSTART:20261001T094000Z
 DTEND:20261001T111500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 34\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 35
+DESCRIPTION:Podstawy dynamiki maszyn 34\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T094000Z
@@ -4111,6 +4104,13 @@ DTEND:20261127T163500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 12/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T150000Z
+DTEND:20261204T163500Z
+SUMMARY:Pdm (w)
+LOCATION:15/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn 34\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T150000Z
