@@ -758,6 +758,13 @@ LOCATION:227 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Roman Wantoch-Rekowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T160000
+DTEND;TZID=Europe/Warsaw:20261113T173500
+SUMMARY:Tgs (Zp)
+LOCATION:313 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T175000
 DTEND;TZID=Europe/Warsaw:20261113T192500
 SUMMARY:Als (L)

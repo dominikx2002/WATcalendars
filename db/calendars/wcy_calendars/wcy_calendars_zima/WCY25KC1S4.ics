@@ -912,20 +912,6 @@ LOCATION:106 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: mgr inż. Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261223T095000
-DTEND;TZID=Europe/Warsaw:20261223T112500
-SUMMARY:Tds (L)
-LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261223T114000
-DTEND;TZID=Europe/Warsaw:20261223T131500
-SUMMARY:Tds (L)
-LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T133000
 DTEND;TZID=Europe/Warsaw:20261223T150500
 SUMMARY:mST (L)
@@ -1015,6 +1001,20 @@ DTEND;TZID=Europe/Warsaw:20270113T173500
 SUMMARY:mST (P)
 LOCATION:106 65
 DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270113T175000
+DTEND;TZID=Europe/Warsaw:20270113T192500
+SUMMARY:Tds (L)
+LOCATION:106 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270113T194000
+DTEND;TZID=Europe/Warsaw:20270113T211500
+SUMMARY:Tds (L)
+LOCATION:106 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T095000

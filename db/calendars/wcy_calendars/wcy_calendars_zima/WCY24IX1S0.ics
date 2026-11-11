@@ -954,6 +954,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Rafał Krauz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261116T160000
+DTEND;TZID=Europe/Warsaw:20261116T173500
+SUMMARY:MM (Zp)
+LOCATION:316 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T080000
 DTEND;TZID=Europe/Warsaw:20261117T093500
 SUMMARY:BD (Zp)
@@ -986,7 +993,7 @@ DTSTART;TZID=Europe/Warsaw:20261117T160000
 DTEND;TZID=Europe/Warsaw:20261117T173500
 SUMMARY:MM (Zp)
 LOCATION:309 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: zal popr\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T095000

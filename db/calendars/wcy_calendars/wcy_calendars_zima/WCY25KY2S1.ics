@@ -807,6 +807,13 @@ LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Katarzyna  Garbat; dr inż. Karol Sielezin; dr inż. Piotr Baranowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T160000
+DTEND;TZID=Europe/Warsaw:20261113T173500
+SUMMARY:Tgs (Zp)
+LOCATION:313 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T080000
 DTEND;TZID=Europe/Warsaw:20261116T093500
 SUMMARY:Tik (L)

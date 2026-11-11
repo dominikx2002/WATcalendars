@@ -611,20 +611,6 @@ LOCATION:214 65
 DESCRIPTION:Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261126T160000
-DTEND;TZID=Europe/Warsaw:20261126T173500
-SUMMARY:Icn (L)
-LOCATION:120 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261126T175000
-DTEND;TZID=Europe/Warsaw:20261126T192500
-SUMMARY:Icn (L)
-LOCATION:120 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T080000
 DTEND;TZID=Europe/Warsaw:20261130T093500
 SUMMARY:CAO (ć)
@@ -923,14 +909,14 @@ DTSTART;TZID=Europe/Warsaw:20261217T080000
 DTEND;TZID=Europe/Warsaw:20261217T093500
 SUMMARY:Icn (L)
 LOCATION:120 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T095000
 DTEND;TZID=Europe/Warsaw:20261217T112500
 SUMMARY:Icn (L)
 LOCATION:120 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T080000
@@ -979,14 +965,14 @@ DTSTART;TZID=Europe/Warsaw:20261222T160000
 DTEND;TZID=Europe/Warsaw:20261222T173500
 SUMMARY:Icn (L)
 LOCATION:125 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T175000
 DTEND;TZID=Europe/Warsaw:20261222T192500
 SUMMARY:Icn (L)
 LOCATION:125 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T095000
@@ -1014,14 +1000,14 @@ DTSTART;TZID=Europe/Warsaw:20270107T114000
 DTEND;TZID=Europe/Warsaw:20270107T131500
 SUMMARY:Icn (L)
 LOCATION:120 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T133000
 DTEND;TZID=Europe/Warsaw:20270107T150500
 SUMMARY:Icn (L)
 LOCATION:120 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Sebastian Łeska
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T160000
@@ -1108,6 +1094,13 @@ LOCATION:226 S
 DESCRIPTION:Large Language Models\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270115T080000
+DTEND;TZID=Europe/Warsaw:20270115T093500
+SUMMARY:Icn (L)
+LOCATION:125 65
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T114000
 DTEND;TZID=Europe/Warsaw:20270119T131500
 SUMMARY:JEt (L)
@@ -1148,6 +1141,13 @@ DTEND;TZID=Europe/Warsaw:20270121T112500
 SUMMARY:Llm (L)
 LOCATION:237 S
 DESCRIPTION:Large Language Models\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270122T080000
+DTEND;TZID=Europe/Warsaw:20270122T093500
+SUMMARY:Icn (L)
+LOCATION:125 65
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270127T095000

@@ -1108,13 +1108,6 @@ LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: dr Paweł Lubowiecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261125T080000
-DTEND;TZID=Europe/Warsaw:20261125T093500
-SUMMARY:WDM (ć)
-LOCATION:307 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Magdalena Łazińska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T095000
 DTEND;TZID=Europe/Warsaw:20261125T112500
 SUMMARY:Matematyka II (w)
@@ -1280,7 +1273,7 @@ DTSTART;TZID=Europe/Warsaw:20261204T133000
 DTEND;TZID=Europe/Warsaw:20261204T150500
 SUMMARY:WDM (ć)
 LOCATION:308 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Magdalena Łazińska
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Magdalena Łazińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T160000
@@ -1315,7 +1308,7 @@ DTSTART;TZID=Europe/Warsaw:20261207T133000
 DTEND;TZID=Europe/Warsaw:20261207T150500
 SUMMARY:WDM (ć)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Magdalena Łazińska
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr inż. Magdalena Łazińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T160000
@@ -1365,6 +1358,13 @@ DTEND;TZID=Europe/Warsaw:20261210T112500
 SUMMARY:MD1 (ć)
 LOCATION:252 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5\nProwadzący: mgr inż. Łukasz Dzierzkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261210T114000
+DTEND;TZID=Europe/Warsaw:20261210T131500
+SUMMARY:WDM (ć)
+LOCATION:313 S
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: mgr inż. Magdalena Łazińska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T080000

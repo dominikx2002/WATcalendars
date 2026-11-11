@@ -786,6 +786,13 @@ LOCATION:09 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T160000
+DTEND;TZID=Europe/Warsaw:20261113T173500
+SUMMARY:Tgs (Zp)
+LOCATION:313 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T095000
 DTEND;TZID=Europe/Warsaw:20261116T112500
 SUMMARY:SO (w)

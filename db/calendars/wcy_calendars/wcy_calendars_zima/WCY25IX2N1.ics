@@ -408,6 +408,13 @@ LOCATION:203 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T194000
+DTEND;TZID=Europe/Warsaw:20261119T211500
+SUMMARY:Wpp (Zp)
+LOCATION:on-line
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T160000
 DTEND;TZID=Europe/Warsaw:20261120T173500
 SUMMARY:ppk (Zp)
