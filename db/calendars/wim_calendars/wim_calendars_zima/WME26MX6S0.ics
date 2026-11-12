@@ -2671,6 +2671,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 74/157
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261112T165000Z
+DTEND:20261112T182500Z
+SUMMARY:PGI (ć)
+LOCATION:120/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej 43\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261224T165000Z
 DTEND:20261224T182500Z
 SUMMARY:I 
@@ -3536,21 +3543,21 @@ DTSTART:20260115T123000Z
 DTEND:20260115T140500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej 43\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz 44
+DESCRIPTION:Podstawy grafiki inżynierskiej 43\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz 44
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T123000Z
 DTEND:20260122T140500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej 43\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz 44
+DESCRIPTION:Podstawy grafiki inżynierskiej 43\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz 44
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T123000Z
 DTEND:20260129T140500Z
 SUMMARY:PGI (ć)
 LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej 43\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12
+DESCRIPTION:Podstawy grafiki inżynierskiej 43\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260205T123000Z
@@ -3712,13 +3719,6 @@ DTEND:20261106T163500Z
 SUMMARY:DSiSM (w)
 LOCATION:
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Klimek Krzysztof 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261113T150000Z
-DTEND:20261113T163500Z
-SUMMARY:PGI (ć)
-LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej 43\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T150000Z
