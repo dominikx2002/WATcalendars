@@ -1635,13 +1635,6 @@ LOCATION:8/ 62
 DESCRIPTION:Fizyka 2 10\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261202T123000Z
-DTEND:20261202T140500Z
-SUMMARY:Bpm (ć)
-LOCATION:55/ 62
-DESCRIPTION:Budowa pojazdów mechanicznych 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław 2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261216T123000Z
 DTEND:20261216T140500Z
 SUMMARY:PBO (L)
@@ -1884,6 +1877,13 @@ DTSTART:20261126T070000Z
 DTEND:20261126T083500Z
 SUMMARY:Bpm (ć)
 LOCATION:8/ 62
+DESCRIPTION:Budowa pojazdów mechanicznych 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T070000Z
+DTEND:20261217T083500Z
+SUMMARY:Bpm (ć)
+LOCATION:5/ 19
 DESCRIPTION:Budowa pojazdów mechanicznych 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław 2
 END:VEVENT
 BEGIN:VEVENT

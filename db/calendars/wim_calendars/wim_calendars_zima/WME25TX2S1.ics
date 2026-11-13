@@ -837,6 +837,13 @@ LOCATION:116/ 54
 DESCRIPTION:Zarządzanie zasobami ludzkimi. 81\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Stroińska Ewa 82
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261208T085000Z
+DTEND:20261208T102500Z
+SUMMARY:Bpm (ć)
+LOCATION:2/ 68
+DESCRIPTION:Budowa pojazdów mechanicznych 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław 2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261215T085000Z
 DTEND:20261215T102500Z
 SUMMARY:LD (ć)
@@ -1023,21 +1030,21 @@ DTSTART:20261027T123000Z
 DTEND:20261027T140500Z
 SUMMARY:Bpm (ć)
 LOCATION:5/ 20
-DESCRIPTION:Budowa pojazdów mechanicznych 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław 2
+DESCRIPTION:Budowa pojazdów mechanicznych 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
 SUMMARY:Bpm (ć)
 LOCATION:8/ 62
-DESCRIPTION:Budowa pojazdów mechanicznych 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław 2
+DESCRIPTION:Budowa pojazdów mechanicznych 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T123000Z
 DTEND:20261110T140500Z
 SUMMARY:Bpm (ć)
 LOCATION:52/ 62
-DESCRIPTION:Budowa pojazdów mechanicznych 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław 2
+DESCRIPTION:Budowa pojazdów mechanicznych 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T123000Z
@@ -1997,13 +2004,6 @@ DTEND:20261126T102500Z
 SUMMARY:Ilog (w)
 LOCATION:6/ 23A
 DESCRIPTION:Infrastruktura logistyczna 18\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Orłowski Krzysztof 19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T085000Z
-DTEND:20261203T102500Z
-SUMMARY:Bpm (ć)
-LOCATION:51/ 62
-DESCRIPTION:Budowa pojazdów mechanicznych 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Gidlewski Mirosław 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T085000Z
