@@ -499,20 +499,6 @@ LOCATION:09 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261113T133000
-DTEND;TZID=Europe/Warsaw:20261113T150500
-SUMMARY:JEt (L)
-LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261113T160000
-DTEND;TZID=Europe/Warsaw:20261113T173500
-SUMMARY:JEt (L)
-LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T175000
 DTEND;TZID=Europe/Warsaw:20261113T192500
 SUMMARY:PZiP (ć)
@@ -657,14 +643,14 @@ DTSTART;TZID=Europe/Warsaw:20261124T160000
 DTEND;TZID=Europe/Warsaw:20261124T173500
 SUMMARY:JEt (L)
 LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T175000
 DTEND;TZID=Europe/Warsaw:20261124T192500
 SUMMARY:JEt (L)
 LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T080000
@@ -902,14 +888,14 @@ DTSTART;TZID=Europe/Warsaw:20261209T160000
 DTEND;TZID=Europe/Warsaw:20261209T173500
 SUMMARY:JEt (L)
 LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T175000
 DTEND;TZID=Europe/Warsaw:20261209T192500
 SUMMARY:JEt (L)
 LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T080000
@@ -1042,14 +1028,14 @@ DTSTART;TZID=Europe/Warsaw:20261221T160000
 DTEND;TZID=Europe/Warsaw:20261221T173500
 SUMMARY:JEt (L)
 LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T175000
 DTEND;TZID=Europe/Warsaw:20261221T192500
 SUMMARY:JEt (L)
 LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T080000
@@ -1120,6 +1106,20 @@ DTEND;TZID=Europe/Warsaw:20270111T150500
 SUMMARY:SoU (L)
 LOCATION:239 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T160000
+DTEND;TZID=Europe/Warsaw:20270111T173500
+SUMMARY:JEt (L)
+LOCATION:239 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T175000
+DTEND;TZID=Europe/Warsaw:20270111T192500
+SUMMARY:JEt (L)
+LOCATION:239 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T080000

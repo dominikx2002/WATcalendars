@@ -996,20 +996,6 @@ LOCATION:316 S
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261119T160000
-DTEND;TZID=Europe/Warsaw:20261119T173500
-SUMMARY:IK (L)
-LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krzysztof Szajewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261119T175000
-DTEND;TZID=Europe/Warsaw:20261119T192500
-SUMMARY:IK (L)
-LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krzysztof Szajewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T194000
 DTEND;TZID=Europe/Warsaw:20261119T211500
 SUMMARY:Wpp (Zp)
@@ -1218,6 +1204,20 @@ DTEND;TZID=Europe/Warsaw:20261130T150500
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18\nProwadzący: mjr mgr Tomasz Lubkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T160000
+DTEND;TZID=Europe/Warsaw:20261130T173500
+SUMMARY:IK (L)
+LOCATION:219 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261130T175000
+DTEND;TZID=Europe/Warsaw:20261130T192500
+SUMMARY:IK (L)
+LOCATION:219 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T080000

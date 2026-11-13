@@ -352,18 +352,18 @@ LOCATION:317 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T114000
+DTEND;TZID=Europe/Warsaw:20261113T131500
+SUMMARY:Wdis (ć)
+LOCATION:317 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T114000
 DTEND;TZID=Europe/Warsaw:20261116T131500
 SUMMARY:MPR (w)
 LOCATION:308 S
 DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261117T114000
-DTEND;TZID=Europe/Warsaw:20261117T131500
-SUMMARY:Wdis (ć)
-LOCATION:227 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T114000
