@@ -1306,13 +1306,6 @@ LOCATION:7/ 16
 DESCRIPTION:Systemy informatyczne w logistyce SZ RP 58\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: płk mgr inż. Górski Piotr 59
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261208T150000Z
-DTEND:20261208T163500Z
-SUMMARY:Pdm (ć)
-LOCATION:5/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 38\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 39
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T150000Z
 DTEND:20261215T163500Z
 SUMMARY:Mr 
@@ -1919,7 +1912,7 @@ DTSTART:20261125T123000Z
 DTEND:20261125T140500Z
 SUMMARY:Pdm (ć)
 LOCATION:2/ 23A
-DESCRIPTION:Podstawy dynamiki maszyn 38\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 39
+DESCRIPTION:Podstawy dynamiki maszyn 38\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 39
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T123000Z
@@ -3810,6 +3803,13 @@ DTEND:20261211T121500Z
 SUMMARY:SzS (ć)
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie 63\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T104000Z
+DTEND:20261218T121500Z
+SUMMARY:Pdm (ć)
+LOCATION:5/ 23A
+DESCRIPTION:Podstawy dynamiki maszyn 38\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 39
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261225T104000Z

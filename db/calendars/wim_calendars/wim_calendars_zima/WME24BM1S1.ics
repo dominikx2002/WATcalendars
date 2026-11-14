@@ -319,13 +319,6 @@ LOCATION:
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego 8\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261207T104000Z
-DTEND:20261207T121500Z
-SUMMARY:GwIB (L)
-LOCATION:9/ 54; 18/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej 29\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261214T104000Z
 DTEND:20261214T121500Z
 SUMMARY:App (S)
@@ -337,7 +330,7 @@ DTSTART:20261221T104000Z
 DTEND:20261221T121500Z
 SUMMARY:GwIB (L)
 LOCATION:9/ 54; 18/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej 29\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
+DESCRIPTION:Grafika w inżynierii biomedycznej 29\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T104000Z
@@ -359,6 +352,13 @@ DTEND:20260111T121500Z
 SUMMARY:BKiF (L)
 LOCATION:7/ 34A
 DESCRIPTION:Biomateriały konstrukcyjne i funkcjonalne 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T104000Z
+DTEND:20260118T121500Z
+SUMMARY:GwIB (L)
+LOCATION:9/ 54; 18/ 54
+DESCRIPTION:Grafika w inżynierii biomedycznej 29\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260201T104000Z
@@ -438,13 +438,6 @@ LOCATION:
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego 8\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261207T123000Z
-DTEND:20261207T140500Z
-SUMMARY:GwIB (L)
-LOCATION:9/ 54; 18/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej 29\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261214T123000Z
 DTEND:20261214T140500Z
 SUMMARY:App (S)
@@ -456,7 +449,7 @@ DTSTART:20261221T123000Z
 DTEND:20261221T140500Z
 SUMMARY:GwIB (L)
 LOCATION:9/ 54; 18/ 54
-DESCRIPTION:Grafika w inżynierii biomedycznej 29\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
+DESCRIPTION:Grafika w inżynierii biomedycznej 29\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T123000Z
@@ -478,6 +471,13 @@ DTEND:20260111T140500Z
 SUMMARY:BKiF (L)
 LOCATION:7/ 34A
 DESCRIPTION:Biomateriały konstrukcyjne i funkcjonalne 21\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T123000Z
+DTEND:20260118T140500Z
+SUMMARY:GwIB (L)
+LOCATION:9/ 54; 18/ 54
+DESCRIPTION:Grafika w inżynierii biomedycznej 29\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260201T123000Z

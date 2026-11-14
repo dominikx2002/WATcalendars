@@ -1628,13 +1628,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 36/154
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261118T070000Z
-DTEND:20261118T083500Z
-SUMMARY:Es* (ć)
-LOCATION:37/ 54A
-DESCRIPTION:Engineering systems in mobile applications 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Typiak Rafał 4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:Ja (ć)
@@ -3116,7 +3109,7 @@ DTSTART:20261210T070000Z
 DTEND:20261210T083500Z
 SUMMARY:ZaMe (ć)
 LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne 65\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: dr inż. Kuchta Wiesław 24
+DESCRIPTION:Zabezpieczenie medyczne 65\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: mjr mgr Nawalicki Piotr 38
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T070000Z
@@ -3245,6 +3238,13 @@ LOCATION:42/ 54A
 DESCRIPTION:Organizacja wojskowych prac inżynieryjnych 23\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr inż. Kuchta Wiesław 24
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261119T085000Z
+DTEND:20261119T102500Z
+SUMMARY:Es* (ć)
+LOCATION:37/ 54A
+DESCRIPTION:Engineering systems in mobile applications 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Typiak Rafał 4
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261126T085000Z
 DTEND:20261126T102500Z
 SUMMARY:SzS (ć)
@@ -3263,7 +3263,7 @@ DTSTART:20261210T085000Z
 DTEND:20261210T102500Z
 SUMMARY:ZaMe (ć)
 LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne 65\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr inż. Kuchta Wiesław 24
+DESCRIPTION:Zabezpieczenie medyczne 65\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: mjr mgr Nawalicki Piotr 38
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T085000Z
@@ -3410,7 +3410,7 @@ DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
 SUMMARY:ZaMe (ć)
 LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne 65\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: dr inż. Kuchta Wiesław 24
+DESCRIPTION:Zabezpieczenie medyczne 65\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: mjr mgr Nawalicki Piotr 38
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
@@ -3557,7 +3557,7 @@ DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
 SUMMARY:ZaMe (ć)
 LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne 65\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: dr inż. Kuchta Wiesław 24
+DESCRIPTION:Zabezpieczenie medyczne 65\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: mjr mgr Nawalicki Piotr 38
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T123000Z
@@ -3697,7 +3697,7 @@ DTSTART:20261210T150000Z
 DTEND:20261210T163500Z
 SUMMARY:ZaMe (ć)
 LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne 65\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: dr inż. Kuchta Wiesław 24
+DESCRIPTION:Zabezpieczenie medyczne 65\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: mjr mgr Nawalicki Piotr 38
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T150000Z

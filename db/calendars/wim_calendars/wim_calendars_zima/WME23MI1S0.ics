@@ -3903,6 +3903,13 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie 69\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261113T104000Z
+DTEND:20261113T121500Z
+SUMMARY:Owp (w)
+LOCATION:09/ 54A
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych 44\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr inż. Kuchta Wiesław 45
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261120T104000Z
 DTEND:20261120T121500Z
 SUMMARY:MOMI (L)
@@ -3956,7 +3963,7 @@ DTSTART:20260108T104000Z
 DTEND:20260108T121500Z
 SUMMARY:Owp (w)
 LOCATION:09/ 54A
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych 44\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr inż. Kuchta Wiesław 45
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych 44\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr inż. Kuchta Wiesław 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T104000Z
@@ -4055,13 +4062,6 @@ DTEND:20261106T140500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 79/101
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261113T123000Z
-DTEND:20261113T140500Z
-SUMMARY:Owp (w)
-LOCATION:09/ 54A
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych 44\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr inż. Kuchta Wiesław 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T123000Z

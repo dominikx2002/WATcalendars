@@ -774,25 +774,18 @@ LOCATION:7/ 62
 DESCRIPTION:Fundamentals of Validation of Numerical Models 8\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T085000Z
-DTEND:20261125T102500Z
-SUMMARY:MTD (ć)
-LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: ppłk dr inż. Gocman Krzysztof 14
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261202T085000Z
 DTEND:20261202T102500Z
 SUMMARY:MTD (ć)
 LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: ppłk dr inż. Gocman Krzysztof 14
+DESCRIPTION:Means of Transport and Distribution of Fuels 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: ppłk dr inż. Gocman Krzysztof 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T085000Z
 DTEND:20261209T102500Z
 SUMMARY:MTD (ć)
 LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: ppłk dr inż. Gocman Krzysztof 14
+DESCRIPTION:Means of Transport and Distribution of Fuels 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: ppłk dr inż. Gocman Krzysztof 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -876,7 +869,7 @@ DTSTART:20261118T123000Z
 DTEND:20261118T140500Z
 SUMMARY:MTD (ć)
 LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: ppłk dr inż. Gocman Krzysztof 14
+DESCRIPTION:Means of Transport and Distribution of Fuels 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: ppłk dr inż. Gocman Krzysztof 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z
@@ -904,7 +897,7 @@ DTSTART:20261118T150000Z
 DTEND:20261118T163500Z
 SUMMARY:MTD (ć)
 LOCATION:42/ 62
-DESCRIPTION:Means of Transport and Distribution of Fuels 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: ppłk dr inż. Gocman Krzysztof 14
+DESCRIPTION:Means of Transport and Distribution of Fuels 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: ppłk dr inż. Gocman Krzysztof 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T150000Z
@@ -968,6 +961,13 @@ DTEND:20261029T083500Z
 SUMMARY:FEM (w)
 LOCATION:6/ 62
 DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics 4\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T070000Z
+DTEND:20261126T083500Z
+SUMMARY:MTD (ć)
+LOCATION:42/ 62
+DESCRIPTION:Means of Transport and Distribution of Fuels 13\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: ppłk dr inż. Gocman Krzysztof 14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T070000Z

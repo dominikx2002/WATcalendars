@@ -1257,13 +1257,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/43\nProwadzący: mgr Jadczak Mariusz 77
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:Cfp (ć)
-LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:WF (ć)
@@ -1374,13 +1367,6 @@ DTEND:20261103T163500Z
 SUMMARY:Pm. (L)
 LOCATION:29/ 54; 30/ 54
 DESCRIPTION:Projektowanie maszyn 50\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T150000Z
-DTEND:20261117T163500Z
-SUMMARY:Cfp (ć)
-LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T150000Z
@@ -1870,7 +1856,7 @@ DTSTART:20260120T085000Z
 DTEND:20260120T102500Z
 SUMMARY:Cfp (ć)
 LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T085000Z
@@ -3259,6 +3245,13 @@ LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne 81\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261119T085000Z
+DTEND:20261119T102500Z
+SUMMARY:Cfp (ć)
+LOCATION:42/ 62
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261126T085000Z
 DTEND:20261126T102500Z
 SUMMARY:ZaMe (ć)
@@ -3284,7 +3277,7 @@ DTSTART:20260114T085000Z
 DTEND:20260114T102500Z
 SUMMARY:Cfp (ć)
 LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T085000Z
@@ -3362,6 +3355,13 @@ DTEND:20261112T121500Z
 SUMMARY:ZaMe (ć)
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne 81\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T104000Z
+DTEND:20261119T121500Z
+SUMMARY:Cfp (ć)
+LOCATION:42/ 62
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z

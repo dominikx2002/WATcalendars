@@ -746,6 +746,13 @@ LOCATION:3061A
 DESCRIPTION:Wprowadzenie do metrologii 77\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kuchta Marek 78
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261208T165000Z
+DTEND:20261208T182500Z
+SUMMARY:WDM 
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii 77\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kuchta Marek 78
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261007T060000Z
 DTEND:20261007T073500Z
 SUMMARY:PGI 
@@ -1136,12 +1143,5 @@ DTEND:20261106T121500Z
 SUMMARY:PGI 
 LOCATION:11945
 DESCRIPTION:Podstawy grafiki inżynierskiej 38\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr 39
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261113T104000Z
-DTEND:20261113T121500Z
-SUMMARY:WDM 
-LOCATION:
-DESCRIPTION:Wprowadzenie do metrologii 77\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kuchta Marek 78
 END:VEVENT
 END:VCALENDAR

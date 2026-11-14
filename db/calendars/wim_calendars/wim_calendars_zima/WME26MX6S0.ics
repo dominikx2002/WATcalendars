@@ -1110,6 +1110,13 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261117T150000Z
+DTEND:20261117T163500Z
+SUMMARY:Mat2 (ć)
+LOCATION:8/ 62
+DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr Różański Jerzy 18
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261229T150000Z
 DTEND:20261229T163500Z
 SUMMARY:I 
@@ -1275,7 +1282,7 @@ DTSTART:20261223T070000Z
 DTEND:20261223T083500Z
 SUMMARY:Mat2 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr Różański Jerzy 18
+DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr Różański Jerzy 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T070000Z
@@ -2276,7 +2283,7 @@ DTSTART:20260128T085000Z
 DTEND:20260128T102500Z
 SUMMARY:Mat2 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr Różański Jerzy 18
+DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: dr Różański Jerzy 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T085000Z
@@ -2402,14 +2409,14 @@ DTSTART:20260114T104000Z
 DTEND:20260114T121500Z
 SUMMARY:Mat2 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: dr Różański Jerzy 18
+DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: dr Różański Jerzy 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T104000Z
 DTEND:20260121T121500Z
 SUMMARY:Mat2 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: dr Różański Jerzy 18
+DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: dr Różański Jerzy 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T104000Z
@@ -2521,7 +2528,7 @@ DTSTART:20261217T123000Z
 DTEND:20261217T140500Z
 SUMMARY:Mat2 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: dr Różański Jerzy 18
+DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: dr Różański Jerzy 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T123000Z
@@ -2542,7 +2549,7 @@ DTSTART:20260107T123000Z
 DTEND:20260107T140500Z
 SUMMARY:Mat2 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: dr Różański Jerzy 18
+DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: dr Różański Jerzy 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T123000Z
@@ -2606,13 +2613,6 @@ DTEND:20261119T163500Z
 SUMMARY:M1 (ć)
 LOCATION:8/ 62
 DESCRIPTION:Matematyka 1 11\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/19\nProwadzący: dr Różański Jerzy 12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T150000Z
-DTEND:20261126T163500Z
-SUMMARY:Mat2 (ć)
-LOCATION:8/ 62
-DESCRIPTION:Matematyka 2 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: dr Różański Jerzy 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T150000Z
