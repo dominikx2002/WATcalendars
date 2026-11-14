@@ -814,13 +814,6 @@ LOCATION:128 K 131 K 133 K 134 K 230 K 231 K 232 K 233 K 234 K 235 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261112T114000
-DTEND;TZID=Europe/Warsaw:20261112T131500
-SUMMARY:Tuim (w)
-LOCATION:307 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T160000
 DTEND;TZID=Europe/Warsaw:20261112T173500
 SUMMARY:Ps (ć)
@@ -1225,6 +1218,13 @@ DTEND;TZID=Europe/Warsaw:20261202T150500
 SUMMARY:Msz (w)
 LOCATION:314 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T160000
+DTEND;TZID=Europe/Warsaw:20261202T173500
+SUMMARY:Tuim (w)
+LOCATION:316 S
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T175000

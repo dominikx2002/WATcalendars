@@ -450,13 +450,6 @@ LOCATION:137 S 139 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Krystian Kowiorski; dr inż. Mariusz Suligowski; dr inż. Olga Markowska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261122T080000
-DTEND;TZID=Europe/Warsaw:20261122T093500
-SUMMARY:Als (w)
-LOCATION:308 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T095000
 DTEND;TZID=Europe/Warsaw:20261122T112500
 SUMMARY:Swb (w)
@@ -847,6 +840,13 @@ DTEND;TZID=Europe/Warsaw:20270116T165500
 SUMMARY:Aok (L)
 LOCATION:106 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270116T171000
+DTEND;TZID=Europe/Warsaw:20270116T184500
+SUMMARY:Als (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270117T080000

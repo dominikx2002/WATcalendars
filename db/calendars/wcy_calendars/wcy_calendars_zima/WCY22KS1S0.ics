@@ -1010,13 +1010,6 @@ LOCATION:125 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261118T080000
-DTEND;TZID=Europe/Warsaw:20261118T093500
-SUMMARY:aa (w)
-LOCATION:087 S
-DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr inż. Elżbieta Burek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T095000
 DTEND;TZID=Europe/Warsaw:20261118T112500
 SUMMARY:Ja (ć)
@@ -1098,7 +1091,7 @@ DTSTART;TZID=Europe/Warsaw:20261123T080000
 DTEND;TZID=Europe/Warsaw:20261123T093500
 SUMMARY:aa (w)
 LOCATION:085 S
-DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T095000
@@ -1253,6 +1246,13 @@ DTEND;TZID=Europe/Warsaw:20261130T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261201T080000
+DTEND;TZID=Europe/Warsaw:20261201T093500
+SUMMARY:aa (w)
+LOCATION:087 S
+DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T095000
