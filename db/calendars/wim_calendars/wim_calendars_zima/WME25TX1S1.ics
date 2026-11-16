@@ -1705,6 +1705,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 48/147
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261118T150000Z
+DTEND:20261118T163500Z
+SUMMARY:LZ (ć)
+LOCATION:8/ 62
+DESCRIPTION:Logistyka zaopatrzenia 48\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Zelkowski Jarosław 49
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261223T150000Z
 DTEND:20261223T163500Z
 SUMMARY:REZ 
@@ -2346,18 +2353,11 @@ DTSTART:20261112T150000Z
 DTEND:20261112T163500Z
 SUMMARY:LZ (ć)
 LOCATION:301/ S
-DESCRIPTION:Logistyka zaopatrzenia 48\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Zelkowski Jarosław 49
+DESCRIPTION:Logistyka zaopatrzenia 48\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: płk dr inż. Zelkowski Jarosław 49
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T150000Z
 DTEND:20261119T163500Z
-SUMMARY:LZ (ć)
-LOCATION:301/ S
-DESCRIPTION:Logistyka zaopatrzenia 48\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: płk dr inż. Zelkowski Jarosław 49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T150000Z
-DTEND:20261126T163500Z
 SUMMARY:LZ (ć)
 LOCATION:301/ S
 DESCRIPTION:Logistyka zaopatrzenia 48\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: płk dr inż. Zelkowski Jarosław 49

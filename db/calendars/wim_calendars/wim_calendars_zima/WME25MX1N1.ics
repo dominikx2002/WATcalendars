@@ -1901,13 +1901,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 91/112
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261206T150000Z
-DTEND:20261206T163500Z
-SUMMARY:Mp (L)
-LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów 31\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Rubiec Arkadiusz 32
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261213T150000Z
 DTEND:20261213T163500Z
 SUMMARY:F2 (ć)
@@ -1940,21 +1933,21 @@ DTSTART:20260110T150000Z
 DTEND:20260110T163500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów 31\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Rubiec Arkadiusz 32
+DESCRIPTION:Mechanika płynów 31\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Rubiec Arkadiusz 32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T150000Z
 DTEND:20260117T163500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów 31\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Rubiec Arkadiusz 32
+DESCRIPTION:Mechanika płynów 31\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Rubiec Arkadiusz 32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T150000Z
 DTEND:20260124T163500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów 31\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Rubiec Arkadiusz 32
+DESCRIPTION:Mechanika płynów 31\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Rubiec Arkadiusz 32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T150000Z
@@ -2020,20 +2013,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 99/112
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261213T165000Z
-DTEND:20261213T182500Z
-SUMMARY:Mp (L)
-LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów 31\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Rubiec Arkadiusz 32
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261220T165000Z
-DTEND:20261220T182500Z
-SUMMARY:Mp (L)
-LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów 31\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Rubiec Arkadiusz 32
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261227T165000Z
 DTEND:20261227T182500Z
 SUMMARY:I 
@@ -2046,6 +2025,27 @@ DTEND:20260103T182500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 101/112
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260110T165000Z
+DTEND:20260110T182500Z
+SUMMARY:Mp (L)
+LOCATION:05/ 54A
+DESCRIPTION:Mechanika płynów 31\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Rubiec Arkadiusz 32
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T165000Z
+DTEND:20260117T182500Z
+SUMMARY:Mp (L)
+LOCATION:05/ 54A
+DESCRIPTION:Mechanika płynów 31\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Rubiec Arkadiusz 32
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260124T165000Z
+DTEND:20260124T182500Z
+SUMMARY:Mp (L)
+LOCATION:05/ 54A
+DESCRIPTION:Mechanika płynów 31\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Rubiec Arkadiusz 32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T165000Z
