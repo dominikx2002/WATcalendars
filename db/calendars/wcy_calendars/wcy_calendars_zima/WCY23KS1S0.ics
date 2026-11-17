@@ -996,13 +996,6 @@ LOCATION:317 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261118T133000
-DTEND;TZID=Europe/Warsaw:20261118T150500
-SUMMARY:Wkakp (w)
-LOCATION:085 S
-DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T160000
 DTEND;TZID=Europe/Warsaw:20261118T173500
 SUMMARY:Wkakp (L)
@@ -1063,7 +1056,7 @@ DTSTART;TZID=Europe/Warsaw:20261120T114000
 DTEND;TZID=Europe/Warsaw:20261120T131500
 SUMMARY:Wkakp (w)
 LOCATION:078 S
-DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T133000
@@ -1113,6 +1106,13 @@ DTEND;TZID=Europe/Warsaw:20261123T173500
 SUMMARY:Kre (L)
 LOCATION:078 S
 DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261124T080000
+DTEND;TZID=Europe/Warsaw:20261124T093500
+SUMMARY:Wkakp (w)
+LOCATION:087 S
+DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T095000
@@ -2198,5 +2198,12 @@ DTEND;TZID=Europe/Warsaw:20270129T112500
 SUMMARY:SZP (L)
 LOCATION:078 S
 DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270129T114000
+DTEND;TZID=Europe/Warsaw:20270129T131500
+SUMMARY:Wkakp (L)
+LOCATION:085 S
+DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 END:VCALENDAR

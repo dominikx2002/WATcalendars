@@ -401,20 +401,6 @@ LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261117T114000
-DTEND;TZID=Europe/Warsaw:20261117T131500
-SUMMARY:Tim (L)
-LOCATION:224 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261117T133000
-DTEND;TZID=Europe/Warsaw:20261117T150500
-SUMMARY:Tim (L)
-LOCATION:224 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T080000
 DTEND;TZID=Europe/Warsaw:20261118T093500
 SUMMARY:Clc (L)
@@ -594,14 +580,14 @@ DTSTART;TZID=Europe/Warsaw:20261201T160000
 DTEND;TZID=Europe/Warsaw:20261201T173500
 SUMMARY:Tim (L)
 LOCATION:223 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T175000
 DTEND;TZID=Europe/Warsaw:20261201T192500
 SUMMARY:Tim (L)
 LOCATION:223 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T114000
@@ -678,7 +664,7 @@ DTSTART;TZID=Europe/Warsaw:20261208T160000
 DTEND;TZID=Europe/Warsaw:20261208T173500
 SUMMARY:Tim (L)
 LOCATION:223 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T080000
@@ -882,6 +868,20 @@ DTEND;TZID=Europe/Warsaw:20261222T150500
 SUMMARY:ak (L)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261222T160000
+DTEND;TZID=Europe/Warsaw:20261222T173500
+SUMMARY:Tim (L)
+LOCATION:239 S
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261222T175000
+DTEND;TZID=Europe/Warsaw:20261222T192500
+SUMMARY:Tim (L)
+LOCATION:239 S
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T080000

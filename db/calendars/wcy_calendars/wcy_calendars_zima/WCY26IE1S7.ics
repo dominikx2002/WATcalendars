@@ -464,13 +464,6 @@ LOCATION:120 65
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261118T095000
-DTEND;TZID=Europe/Warsaw:20261118T112500
-SUMMARY:Eqc (L)
-LOCATION:078 S
-DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T114000
 DTEND;TZID=Europe/Warsaw:20261118T131500
 SUMMARY:InC (w)
@@ -594,7 +587,7 @@ DTSTART;TZID=Europe/Warsaw:20261126T095000
 DTEND;TZID=Europe/Warsaw:20261126T112500
 SUMMARY:Eqc (L)
 LOCATION:078 S
-DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T114000
@@ -720,7 +713,7 @@ DTSTART;TZID=Europe/Warsaw:20261203T095000
 DTEND;TZID=Europe/Warsaw:20261203T112500
 SUMMARY:Eqc (L)
 LOCATION:078 S
-DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T114000
@@ -791,6 +784,13 @@ DTEND;TZID=Europe/Warsaw:20261208T150500
 SUMMARY:JEt (L)
 LOCATION:011 65
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T095000
+DTEND;TZID=Europe/Warsaw:20261209T112500
+SUMMARY:Eqc (L)
+LOCATION:087 S
+DESCRIPTION:Essential of quantum cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261209T114000

@@ -660,13 +660,6 @@ LOCATION:239 S
 DESCRIPTION:Introduction to studying\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261117T160000
-DTEND;TZID=Europe/Warsaw:20261117T173500
-SUMMARY:Intcs (w)
-LOCATION:201 65
-DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Marcin Paź
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T080000
 DTEND;TZID=Europe/Warsaw:20261118T093500
 SUMMARY:Math2 (ć)
@@ -767,6 +760,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T160000
 DTEND;TZID=Europe/Warsaw:20261125T173500
+SUMMARY:Intcs (w)
+LOCATION:201 65
+DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Marcin Paź
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T175000
+DTEND;TZID=Europe/Warsaw:20261125T192500
 SUMMARY:Intcs (w)
 LOCATION:201 65
 DESCRIPTION:Introduction to Computer Science\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Marcin Paź

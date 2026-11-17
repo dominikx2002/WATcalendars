@@ -618,13 +618,6 @@ LOCATION:313 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261118T080000
-DTEND;TZID=Europe/Warsaw:20261118T093500
-SUMMARY:Wkkp (L)
-LOCATION:085 S
-DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T095000
 DTEND;TZID=Europe/Warsaw:20261118T112500
 SUMMARY:Ab (ć)
@@ -951,7 +944,7 @@ DTSTART;TZID=Europe/Warsaw:20261211T114000
 DTEND;TZID=Europe/Warsaw:20261211T131500
 SUMMARY:Wkkp (L)
 LOCATION:085 S
-DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T095000
@@ -1000,7 +993,7 @@ DTSTART;TZID=Europe/Warsaw:20261216T114000
 DTEND;TZID=Europe/Warsaw:20261216T131500
 SUMMARY:Wkkp (L)
 LOCATION:085 S
-DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T114000
@@ -1175,7 +1168,7 @@ DTSTART;TZID=Europe/Warsaw:20270118T095000
 DTEND;TZID=Europe/Warsaw:20270118T112500
 SUMMARY:Wkkp (L)
 LOCATION:085 S
-DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270118T114000
@@ -1190,6 +1183,13 @@ DTEND;TZID=Europe/Warsaw:20270118T150500
 SUMMARY:PSy (L)
 LOCATION:226 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270119T095000
+DTEND;TZID=Europe/Warsaw:20270119T112500
+SUMMARY:Wkkp (L)
+LOCATION:087 S
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T114000

@@ -1171,13 +1171,6 @@ LOCATION:AW 1
 DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: ppłk rez. mgr inż. Dariusz Koszałko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261201T080000
-DTEND;TZID=Europe/Warsaw:20261201T093500
-SUMMARY:HP (ć)
-LOCATION:308 S
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: prof. dr hab. Wojciech Włodarkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T095000
 DTEND;TZID=Europe/Warsaw:20261201T112500
 SUMMARY:WF (ć)
@@ -1519,6 +1512,13 @@ DTEND;TZID=Europe/Warsaw:20261218T150500
 SUMMARY:PGI (ć)
 LOCATION:204 65
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8\nProwadzący: dr inż. Janusz Torzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261221T080000
+DTEND;TZID=Europe/Warsaw:20261221T093500
+SUMMARY:HP (ć)
+LOCATION:205 65
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: prof. dr hab. Wojciech Włodarkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261221T095000
