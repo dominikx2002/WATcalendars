@@ -361,13 +361,6 @@ LOCATION:52/ 62
 DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Stanisławek Sebastian 35
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261116T123000Z
-DTEND:20261116T140500Z
-SUMMARY:Mnisu2 (w)
-LOCATION:52/ 62
-DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 2 23\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Sławiński Grzegorz 24
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261123T123000Z
 DTEND:20261123T140500Z
 SUMMARY:Sipp (w)
@@ -652,7 +645,7 @@ DTSTART:20261027T070000Z
 DTEND:20261027T083500Z
 SUMMARY:Mnisu2 (w)
 LOCATION:8/ 62
-DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 2 23\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Sławiński Grzegorz 24
+DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 2 23\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Sławiński Grzegorz 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T070000Z
@@ -778,7 +771,7 @@ DTSTART:20261215T085000Z
 DTEND:20261215T102500Z
 SUMMARY:Mnisu2 (w)
 LOCATION:54/ 62
-DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 2 23\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Sławiński Grzegorz 24
+DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 2 23\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Sławiński Grzegorz 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T085000Z
@@ -834,7 +827,7 @@ DTSTART:20261006T094000Z
 DTEND:20261006T111500Z
 SUMMARY:Mnisu2 (w)
 LOCATION:55/ 62
-DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 2 23\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Sławiński Grzegorz 24
+DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 2 23\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Sławiński Grzegorz 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T094000Z
@@ -2025,6 +2018,13 @@ DTEND:20261203T121500Z
 SUMMARY:Tasr (L)
 LOCATION:27/ 62
 DESCRIPTION:Techniki addytywne w wytwarzaniu sprzętu rehabilitacyjnego 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T104000Z
+DTEND:20261210T121500Z
+SUMMARY:Mnisu2 (w)
+LOCATION:15/ 23A
+DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 2 23\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Sławiński Grzegorz 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
