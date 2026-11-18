@@ -1782,6 +1782,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 27/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260113T085000Z
+DTEND:20260113T102500Z
+SUMMARY:Pkm 
+LOCATION:3/ 54
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 5/30\nProwadzący: dr inż. Koliński Kazimierz 17
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260120T085000Z
 DTEND:20260120T102500Z
 SUMMARY:ZaMe (ć)
@@ -2472,7 +2479,7 @@ DTSTART:20261015T075000Z
 DTEND:20261015T092500Z
 SUMMARY:Pkm 
 LOCATION:116/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 5/30\nProwadzący: dr inż. Koliński Kazimierz 17
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 6/30\nProwadzący: dr inż. Koliński Kazimierz 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T075000Z
@@ -2507,7 +2514,7 @@ DTSTART:20261210T085000Z
 DTEND:20261210T102500Z
 SUMMARY:Pkm 
 LOCATION:116/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 6/30\nProwadzący: dr inż. Koliński Kazimierz 17
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 7/30\nProwadzący: dr inż. Koliński Kazimierz 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T085000Z
@@ -2752,14 +2759,14 @@ DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
 SUMMARY:Pkm 
 LOCATION:116/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 7/30\nProwadzący: dr inż. Koliński Kazimierz 17
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 8/30\nProwadzący: dr inż. Koliński Kazimierz 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z
 DTEND:20261008T130500Z
 SUMMARY:Pkm 
 LOCATION:116/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 8/30\nProwadzący: dr inż. Koliński Kazimierz 17
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 9/30\nProwadzący: dr inż. Koliński Kazimierz 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T113000Z
@@ -2780,27 +2787,20 @@ DTSTART:20261029T123000Z
 DTEND:20261029T140500Z
 SUMMARY:Pkm 
 LOCATION:108/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 9/30\nProwadzący: dr inż. Koliński Kazimierz 17
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 10/30\nProwadzący: dr inż. Koliński Kazimierz 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T123000Z
 DTEND:20261105T140500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 10/30\nProwadzący: dr inż. Koliński Kazimierz 17
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 11/30\nProwadzący: dr inż. Koliński Kazimierz 17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T123000Z
 DTEND:20261112T140500Z
 SUMMARY:Pkm 
 LOCATION:108/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 11/30\nProwadzący: dr inż. Koliński Kazimierz 17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T123000Z
-DTEND:20261119T140500Z
-SUMMARY:Pkm 
-LOCATION:120/ 54
 DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 12/30\nProwadzący: dr inż. Koliński Kazimierz 17
 END:VEVENT
 BEGIN:VEVENT

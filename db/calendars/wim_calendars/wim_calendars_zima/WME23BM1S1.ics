@@ -613,8 +613,8 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 4/243
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T150000Z
-DTEND:20261117T163500Z
+DTSTART:20261208T150000Z
+DTEND:20261208T163500Z
 SUMMARY:Sd. (S)
 LOCATION:6/ 62
 DESCRIPTION:Seminarium dyplomowe 17\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 18
@@ -653,13 +653,6 @@ DTEND:20261110T182500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 5/243
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261117T165000Z
-DTEND:20261117T182500Z
-SUMMARY:Sd. (S)
-LOCATION:6/ 62
-DESCRIPTION:Seminarium dyplomowe 17\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T165000Z
@@ -820,6 +813,13 @@ DTSTART:20261125T085000Z
 DTEND:20261125T102500Z
 SUMMARY:Sd. (S)
 LOCATION:6/ 62
+DESCRIPTION:Seminarium dyplomowe 17\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T085000Z
+DTEND:20261202T102500Z
+SUMMARY:Sd. (S)
+LOCATION:56/ 62
 DESCRIPTION:Seminarium dyplomowe 17\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 18
 END:VEVENT
 BEGIN:VEVENT

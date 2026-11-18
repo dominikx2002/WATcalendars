@@ -137,6 +137,13 @@ LOCATION:109/ 54
 DESCRIPTION:Introduction to elasticity and plasticity theory 14\nRodzaj zajęć: Wykład\nNumer zajęć: 1/16\nProwadzący: dr inż. Morka Andrzej 15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261123T085000Z
+DTEND:20261123T102500Z
+SUMMARY:PiWSI (L)
+LOCATION:30/ 54
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 26\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/18\nProwadzący: dr inż. Łuszczek Jakub 27
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261130T085000Z
 DTEND:20261130T102500Z
 SUMMARY:REZ 
@@ -337,7 +344,7 @@ DTSTART:20260125T104000Z
 DTEND:20260125T121500Z
 SUMMARY:PiWSI (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 26\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/18\nProwadzący: dr inż. Łuszczek Jakub 27
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 26\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/18\nProwadzący: dr inż. Łuszczek Jakub 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260201T104000Z
@@ -704,13 +711,6 @@ LOCATION:8/ 62
 DESCRIPTION:Introduction to elasticity and plasticity theory 14\nRodzaj zajęć: Wykład\nNumer zajęć: 4/16\nProwadzący: dr inż. Morka Andrzej 15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T070000Z
-DTEND:20261201T083500Z
-SUMMARY:PiWSI (L)
-LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 26\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/18\nProwadzący: dr inż. Łuszczek Jakub 27
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261215T070000Z
 DTEND:20261215T083500Z
 SUMMARY:Pm. (L)
@@ -744,6 +744,13 @@ DTEND:20260112T083500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 8/225
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T070000Z
+DTEND:20260126T083500Z
+SUMMARY:PiWSI (L)
+LOCATION:30/ 54
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 26\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/18\nProwadzący: dr inż. Łuszczek Jakub 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T060000Z
@@ -800,13 +807,6 @@ DTEND:20261117T102500Z
 SUMMARY:Szn. (w)
 LOCATION:56/ 62
 DESCRIPTION:Symulacja złożonych nieliniowych zagadnień mechaniki 48\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Damaziak Krzysztof 49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T085000Z
-DTEND:20261201T102500Z
-SUMMARY:PiWSI (L)
-LOCATION:30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 26\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/18\nProwadzący: dr inż. Łuszczek Jakub 27
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T085000Z

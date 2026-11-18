@@ -1005,6 +1005,13 @@ LOCATION:2/ 23A
 DESCRIPTION:Komunikacja i podstawy negocjacji 17\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Skulska Joanna 18
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260119T085000Z
+DTEND:20260119T102500Z
+SUMMARY:Mm. (ć)
+LOCATION:10/ 54A
+DESCRIPTION:Modelowanie maszyn 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260126T085000Z
 DTEND:20260126T102500Z
 SUMMARY:Pm. (L)
@@ -4202,13 +4209,6 @@ DTEND:20261113T102500Z
 SUMMARY:Pm. (ć)
 LOCATION:108/ 54
 DESCRIPTION:Projektowanie maszyn 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław 38
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261120T085000Z
-DTEND:20261120T102500Z
-SUMMARY:Mm. (ć)
-LOCATION:09/ 54A
-DESCRIPTION:Modelowanie maszyn 25\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261127T085000Z

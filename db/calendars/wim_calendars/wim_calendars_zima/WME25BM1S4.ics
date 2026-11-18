@@ -746,18 +746,11 @@ LOCATION:56/ 62
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych 29\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T085000Z
-DTEND:20261117T102500Z
-SUMMARY:PUwMAN (w)
-LOCATION:5/ 20
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych 29\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 30
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:PUwMAN (w)
 LOCATION:2/ 68
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych 29\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 30
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych 29\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
@@ -841,7 +834,7 @@ DTSTART:20261110T104000Z
 DTEND:20261110T121500Z
 SUMMARY:PUwMAN (w)
 LOCATION:55/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych 29\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 30
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych 29\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T104000Z
@@ -855,14 +848,14 @@ DTSTART:20261124T104000Z
 DTEND:20261124T121500Z
 SUMMARY:PUwMAN (w)
 LOCATION:56/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych 29\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 30
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych 29\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T104000Z
 DTEND:20261215T121500Z
 SUMMARY:PUwMAN (w)
 LOCATION:51/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych 29\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 30
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych 29\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T104000Z
@@ -1024,6 +1017,13 @@ DTEND:20260105T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 31/154
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T150000Z
+DTEND:20260112T163500Z
+SUMMARY:PUwMAN (w)
+LOCATION:6/ 62
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych 29\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł 30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T140000Z
