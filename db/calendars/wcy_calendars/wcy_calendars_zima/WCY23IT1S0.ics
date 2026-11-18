@@ -765,20 +765,6 @@ LOCATION:201 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr Włodzimierz Gocalski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261112T133000
-DTEND;TZID=Europe/Warsaw:20261112T150500
-SUMMARY:TsT (L)
-LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261112T160000
-DTEND;TZID=Europe/Warsaw:20261112T173500
-SUMMARY:TsT (L)
-LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T095000
 DTEND;TZID=Europe/Warsaw:20261113T112500
 SUMMARY:SzS (ć)
@@ -874,14 +860,14 @@ DTSTART;TZID=Europe/Warsaw:20261117T133000
 DTEND;TZID=Europe/Warsaw:20261117T150500
 SUMMARY:TsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T160000
 DTEND;TZID=Europe/Warsaw:20261117T173500
 SUMMARY:TsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T114000
@@ -931,6 +917,20 @@ DTEND;TZID=Europe/Warsaw:20261119T150500
 SUMMARY:AśW (w)
 LOCATION:309 S
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T160000
+DTEND;TZID=Europe/Warsaw:20261119T173500
+SUMMARY:TsT (L)
+LOCATION:218 65
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261119T175000
+DTEND;TZID=Europe/Warsaw:20261119T192500
+SUMMARY:TsT (L)
+LOCATION:218 65
+DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T095000

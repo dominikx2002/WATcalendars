@@ -1143,13 +1143,6 @@ LOCATION:011 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261120T080000
-DTEND;TZID=Europe/Warsaw:20261120T093500
-SUMMARY:ZBD (L)
-LOCATION:223 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T095000
 DTEND;TZID=Europe/Warsaw:20261120T112500
 SUMMARY:Sr (w)
@@ -1806,6 +1799,13 @@ DTEND;TZID=Europe/Warsaw:20270114T093500
 SUMMARY:TCT (L)
 LOCATION:101 65
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Jakub Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270114T095000
+DTEND;TZID=Europe/Warsaw:20270114T112500
+SUMMARY:ZBD (L)
+LOCATION:218 65
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T114000

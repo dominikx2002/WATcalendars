@@ -849,13 +849,6 @@ LOCATION:309 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261119T080000
-DTEND;TZID=Europe/Warsaw:20261119T093500
-SUMMARY:Tik (L)
-LOCATION:011 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Jerzy Dorobisz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T114000
 DTEND;TZID=Europe/Warsaw:20261119T131500
 SUMMARY:SO (w)
@@ -875,6 +868,13 @@ DTEND;TZID=Europe/Warsaw:20261119T192500
 SUMMARY:Tgs (Zp)
 LOCATION:309 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T080000
+DTEND;TZID=Europe/Warsaw:20261120T093500
+SUMMARY:Tik (L)
+LOCATION:09 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T133000

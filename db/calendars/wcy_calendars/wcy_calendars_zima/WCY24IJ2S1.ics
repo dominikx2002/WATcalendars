@@ -289,13 +289,6 @@ LOCATION:224 S
 DESCRIPTION:Metody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261106T133000
-DTEND;TZID=Europe/Warsaw:20261106T150500
-SUMMARY:Nsk (ć)
-LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261109T133000
 DTEND;TZID=Europe/Warsaw:20261109T150500
 SUMMARY:Med (w)
@@ -329,6 +322,13 @@ DTEND;TZID=Europe/Warsaw:20261112T131500
 SUMMARY:PZiP (ć)
 LOCATION:252 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: dr hab. inż. Magdalena Rzemieniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261112T133000
+DTEND;TZID=Europe/Warsaw:20261112T150500
+SUMMARY:Nsk (ć)
+LOCATION:125 65
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T175000

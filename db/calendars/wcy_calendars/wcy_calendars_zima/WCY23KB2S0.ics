@@ -1080,6 +1080,13 @@ LOCATION:224 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T080000
+DTEND;TZID=Europe/Warsaw:20261125T093500
+SUMMARY:Ps (ć)
+LOCATION:204 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T095000
 DTEND;TZID=Europe/Warsaw:20261125T112500
 SUMMARY:wzbnim (ć)
@@ -1099,13 +1106,6 @@ DTEND;TZID=Europe/Warsaw:20261125T150500
 SUMMARY:Msz (w)
 LOCATION:307 S
 DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261125T160000
-DTEND;TZID=Europe/Warsaw:20261125T173500
-SUMMARY:Ps (ć)
-LOCATION:203 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T080000

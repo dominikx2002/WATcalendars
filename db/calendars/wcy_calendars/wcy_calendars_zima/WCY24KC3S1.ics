@@ -576,20 +576,6 @@ LOCATION:125 65
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261119T160000
-DTEND;TZID=Europe/Warsaw:20261119T173500
-SUMMARY:JEt (L)
-LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261119T175000
-DTEND;TZID=Europe/Warsaw:20261119T192500
-SUMMARY:JEt (L)
-LOCATION:239 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T080000
 DTEND;TZID=Europe/Warsaw:20261120T093500
 SUMMARY:PZiP (w)
@@ -700,6 +686,20 @@ DTEND;TZID=Europe/Warsaw:20261126T131500
 SUMMARY:Swb (w)
 LOCATION:317 S
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T175000
+DTEND;TZID=Europe/Warsaw:20261126T192500
+SUMMARY:JEt (L)
+LOCATION:239 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T194000
+DTEND;TZID=Europe/Warsaw:20261126T211500
+SUMMARY:JEt (L)
+LOCATION:239 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261130T080000
