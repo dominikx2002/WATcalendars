@@ -1824,6 +1824,13 @@ LOCATION:09/ 54A
 DESCRIPTION:Maszyny fortyfikacyjno-drogowe 24\nRodzaj zajęć: Projekt\nNumer zajęć: 2/7\nProwadzący: dr inż. Muszyński Tomasz 25
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261202T085000Z
+DTEND:20261202T102500Z
+SUMMARY:Mfd (L)
+LOCATION:38/ 54A; 32/ 54A
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe 24\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T085000Z
 DTEND:20261209T102500Z
 SUMMARY:DGB (ć)
@@ -2655,13 +2662,6 @@ DTEND:20261112T102500Z
 SUMMARY:Par (ć)
 LOCATION:2/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki 45\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz 46
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T085000Z
-DTEND:20261119T102500Z
-SUMMARY:Mfd (L)
-LOCATION:42/ 54A; 32/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe 24\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z

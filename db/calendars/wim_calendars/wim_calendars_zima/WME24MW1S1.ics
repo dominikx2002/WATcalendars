@@ -1075,13 +1075,6 @@ LOCATION:116/ 54
 DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 19/29\nProwadzący: dr inż. Kluczyński Janusz 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261117T123000Z
-DTEND:20261117T140500Z
-SUMMARY:Tpt (w)
-LOCATION:109/ 54
-DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Kluczyński Janusz 91
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
 SUMMARY:Płe (L)
@@ -1458,6 +1451,13 @@ DTEND:20261209T102500Z
 SUMMARY:Par (w)
 LOCATION:6/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki 46\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz 47
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T085000Z
+DTEND:20261216T102500Z
+SUMMARY:Tpt (w)
+LOCATION:10/ 54A
+DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Kluczyński Janusz 91
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T085000Z

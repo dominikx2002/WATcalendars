@@ -1341,13 +1341,6 @@ LOCATION:
 DESCRIPTION:Podstawy elektrotechniki 54\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261223T070000Z
-DTEND:20261223T083500Z
-SUMMARY:Pele (ć)
-LOCATION:54/ 62
-DESCRIPTION:Podstawy elektromagnetyzmu 46\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Dukata Andrzej 47
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261230T070000Z
 DTEND:20261230T083500Z
 SUMMARY:I 
@@ -1373,7 +1366,7 @@ DTSTART:20260120T070000Z
 DTEND:20260120T083500Z
 SUMMARY:Pele (ć)
 LOCATION:54/ 62
-DESCRIPTION:Podstawy elektromagnetyzmu 46\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Dukata Andrzej 47
+DESCRIPTION:Podstawy elektromagnetyzmu 46\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Dukata Andrzej 47
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T070000Z
@@ -1565,11 +1558,11 @@ LOCATION:
 DESCRIPTION:WS\nRodzaj zajęć: -\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261223T104000Z
-DTEND:20261223T121500Z
-SUMMARY:Pele (L)
-LOCATION:
-DESCRIPTION:Podstawy elektromagnetyzmu 46\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
+DTSTART:20261216T104000Z
+DTEND:20261216T121500Z
+SUMMARY:Bchm (ć)
+LOCATION:15/ 23A
+DESCRIPTION:Biochemia 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Węgłowska Dorota 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T104000Z
@@ -1775,13 +1768,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 41/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261202T150000Z
-DTEND:20261202T163500Z
-SUMMARY:Bchm (ć)
-LOCATION:
-DESCRIPTION:Biochemia 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Węgłowska Dorota 7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261223T150000Z
 DTEND:20261223T163500Z
 SUMMARY:REZ 
@@ -1933,7 +1919,7 @@ DTSTART:20261112T070000Z
 DTEND:20261112T083500Z
 SUMMARY:Pele (ć)
 LOCATION:8/ 62
-DESCRIPTION:Podstawy elektromagnetyzmu 46\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Dukata Andrzej 47
+DESCRIPTION:Podstawy elektromagnetyzmu 46\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Dukata Andrzej 47
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -2076,6 +2062,13 @@ LOCATION:
 DESCRIPTION:Algorytmy i struktury danych 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261217T085000Z
+DTEND:20261217T102500Z
+SUMMARY:Pele (ć)
+LOCATION:20/ 68
+DESCRIPTION:Podstawy elektromagnetyzmu 46\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Dukata Andrzej 47
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261224T085000Z
 DTEND:20261224T102500Z
 SUMMARY:I 
@@ -2185,7 +2178,7 @@ DTSTART:20261203T104000Z
 DTEND:20261203T121500Z
 SUMMARY:Pele (L)
 LOCATION:
-DESCRIPTION:Podstawy elektromagnetyzmu 46\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
+DESCRIPTION:Podstawy elektromagnetyzmu 46\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T104000Z
@@ -2302,6 +2295,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T123000Z
 DTEND:20261126T140500Z
+SUMMARY:Pele (L)
+LOCATION:
+DESCRIPTION:Podstawy elektromagnetyzmu 46\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T123000Z
+DTEND:20261203T140500Z
 SUMMARY:Pele (L)
 LOCATION:
 DESCRIPTION:Podstawy elektromagnetyzmu 46\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4

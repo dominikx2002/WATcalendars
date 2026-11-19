@@ -2083,13 +2083,6 @@ LOCATION:52/ 62
 DESCRIPTION:Techniki wytwarzania 1 90\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Woźniak Adam 91
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:Ru. (w)
-LOCATION:52/ 62
-DESCRIPTION:Rozwój układów napędowych pojazdów 63\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy 64
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261126T070000Z
 DTEND:20261126T083500Z
 SUMMARY:Mp (L)
@@ -2311,7 +2304,7 @@ DTSTART:20261022T094000Z
 DTEND:20261022T111500Z
 SUMMARY:Ru. (w)
 LOCATION:52/ 62
-DESCRIPTION:Rozwój układów napędowych pojazdów 63\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy 64
+DESCRIPTION:Rozwój układów napędowych pojazdów 63\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy 64
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
@@ -2325,7 +2318,7 @@ DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
 SUMMARY:Ru. (w)
 LOCATION:52/ 62
-DESCRIPTION:Rozwój układów napędowych pojazdów 63\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy 64
+DESCRIPTION:Rozwój układów napędowych pojazdów 63\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy 64
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T104000Z
@@ -2333,6 +2326,13 @@ DTEND:20261112T121500Z
 SUMMARY:Mwg. (ć)
 LOCATION:5/ 20
 DESCRIPTION:Metrologia wielkości geometrycznych 48\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr inż. Cypko Edward 49
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T104000Z
+DTEND:20261119T121500Z
+SUMMARY:Ru. (w)
+LOCATION:52/ 62
+DESCRIPTION:Rozwój układów napędowych pojazdów 63\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy 64
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z
