@@ -688,6 +688,13 @@ LOCATION:011 65
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261202T095000
+DTEND;TZID=Europe/Warsaw:20261202T112500
+SUMMARY:BCE (E)
+LOCATION:114 65
+DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Egzamin\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T114000
 DTEND;TZID=Europe/Warsaw:20261202T131500
 SUMMARY:Eqc (w)
@@ -1024,6 +1031,13 @@ LOCATION:226 S
 DESCRIPTION:Large Language Models\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270112T095000
+DTEND;TZID=Europe/Warsaw:20270112T112500
+SUMMARY:CAO (E)
+LOCATION:114 65
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Egzamin\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T114000
 DTEND;TZID=Europe/Warsaw:20270112T131500
 SUMMARY:JEt (L)
@@ -1050,6 +1064,13 @@ DTEND;TZID=Europe/Warsaw:20270112T192500
 SUMMARY:Icn (P)
 LOCATION:218 65
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 10\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270112T194000
+DTEND;TZID=Europe/Warsaw:20270112T211500
+SUMMARY:Icn (E)
+LOCATION:218 65
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Egzamin\nNumer zajęć: 1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T080000

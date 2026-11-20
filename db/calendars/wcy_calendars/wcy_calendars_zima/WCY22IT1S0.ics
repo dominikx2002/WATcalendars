@@ -1171,20 +1171,6 @@ LOCATION:
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261123T080000
-DTEND;TZID=Europe/Warsaw:20261123T093500
-SUMMARY:pzST (P)
-LOCATION:237 S
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 13\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261123T095000
-DTEND;TZID=Europe/Warsaw:20261123T112500
-SUMMARY:pzST (P)
-LOCATION:237 S
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 14\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T114000
 DTEND;TZID=Europe/Warsaw:20261123T131500
 SUMMARY:Scrz (L)
@@ -1232,6 +1218,20 @@ DTEND;TZID=Europe/Warsaw:20261124T150500
 SUMMARY:Picz (L)
 LOCATION:125 65
 DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261124T160000
+DTEND;TZID=Europe/Warsaw:20261124T173500
+SUMMARY:pzST (P)
+LOCATION:101 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 13\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261124T175000
+DTEND;TZID=Europe/Warsaw:20261124T192500
+SUMMARY:pzST (P)
+LOCATION:101 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 14\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T080000
