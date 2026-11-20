@@ -2062,6 +2062,13 @@ LOCATION:56/ 62
 DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Stanisławek Sebastian 35
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260121T104000Z
+DTEND:20260121T121500Z
+SUMMARY:Sipp (L)
+LOCATION:56/ 62
+DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Stanisławek Sebastian 35
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260204T104000Z
 DTEND:20260204T121500Z
 SUMMARY:Mnisu2 (Zp/lab.)
@@ -2221,13 +2228,6 @@ DTEND:20261210T163500Z
 SUMMARY:Mnisu2 (L)
 LOCATION:7/ 62
 DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 2 23\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T150000Z
-DTEND:20261217T163500Z
-SUMMARY:Sipp (L)
-LOCATION:56/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Stanisławek Sebastian 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T150000Z

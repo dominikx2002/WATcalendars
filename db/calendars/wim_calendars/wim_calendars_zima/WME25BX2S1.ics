@@ -921,6 +921,13 @@ LOCATION:
 DESCRIPTION:Sieci komputerowe 66\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261222T104000Z
+DTEND:20261222T121500Z
+SUMMARY:Pele (ć)
+LOCATION:
+DESCRIPTION:Podstawy elektromagnetyzmu 47\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Dukata Andrzej 48
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261229T104000Z
 DTEND:20261229T121500Z
 SUMMARY:I 
@@ -1296,7 +1303,7 @@ DTSTART:20261209T085000Z
 DTEND:20261209T102500Z
 SUMMARY:Pele (ć)
 LOCATION:51/ 62
-DESCRIPTION:Podstawy elektromagnetyzmu 47\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Dukata Andrzej 48
+DESCRIPTION:Podstawy elektromagnetyzmu 47\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Dukata Andrzej 48
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -1304,13 +1311,6 @@ DTEND:20261216T102500Z
 SUMMARY:Asd (L)
 LOCATION:
 DESCRIPTION:Algorytmy i struktury danych 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261223T085000Z
-DTEND:20261223T102500Z
-SUMMARY:Pele (ć)
-LOCATION:52/ 62
-DESCRIPTION:Podstawy elektromagnetyzmu 47\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Dukata Andrzej 48
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T085000Z

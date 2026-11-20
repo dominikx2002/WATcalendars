@@ -1943,13 +1943,6 @@ LOCATION:53/ 62
 DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: dr inż. Konarzewski Marcin 40
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T104000Z
-DTEND:20261126T121500Z
-SUMMARY:PZiP (ć)
-LOCATION:5/ 19
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. Panek Joanna 35
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261203T104000Z
 DTEND:20261203T121500Z
 SUMMARY:Mat2 (ć)
@@ -1961,14 +1954,14 @@ DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:5/ 19
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. Panek Joanna 35
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. Panek Joanna 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:01/ 54A
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. Panek Joanna 35
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. Panek Joanna 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T104000Z
@@ -1996,7 +1989,7 @@ DTSTART:20260114T104000Z
 DTEND:20260114T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:5/ 19
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. Panek Joanna 35
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. Panek Joanna 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T104000Z
@@ -2130,6 +2123,13 @@ DTEND:20260114T140500Z
 SUMMARY:Mat2 (ć)
 LOCATION:8/ 62
 DESCRIPTION:Matematyka 2 18\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/17\nProwadzący: dr hab. Napiórkowski Kazimierz 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T123000Z
+DTEND:20260121T140500Z
+SUMMARY:PZiP (ć)
+LOCATION:55/ 62
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. Panek Joanna 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T123000Z

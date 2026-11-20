@@ -382,6 +382,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne 54\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: mgr Landowski Karol 56
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260118T104000Z
+DTEND:20260118T121500Z
+SUMMARY:PZiP (ć)
+LOCATION:15/ 23A
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Panek Joanna 34
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260125T104000Z
 DTEND:20260125T121500Z
 SUMMARY:WF (ć)
@@ -1352,7 +1359,7 @@ DTSTART:20261216T085000Z
 DTEND:20261216T102500Z
 SUMMARY:PZiP (ć)
 LOCATION:2/ 68
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Panek Joanna 34
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. Panek Joanna 34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T085000Z
@@ -1961,14 +1968,14 @@ DTSTART:20261112T104000Z
 DTEND:20261112T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:5/ 19
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. Panek Joanna 34
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. Panek Joanna 34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:5/ 19
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. Panek Joanna 34
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. Panek Joanna 34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z
@@ -2052,7 +2059,7 @@ DTSTART:20261029T123000Z
 DTEND:20261029T140500Z
 SUMMARY:PZiP (ć)
 LOCATION:5/ 19
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. Panek Joanna 34
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. Panek Joanna 34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T123000Z
@@ -2060,13 +2067,6 @@ DTEND:20261112T140500Z
 SUMMARY:WDM (ć)
 LOCATION:2/ 68
 DESCRIPTION:Wprowadzenie do metrologii 43\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T123000Z
-DTEND:20261126T140500Z
-SUMMARY:PZiP (ć)
-LOCATION:5/ 19
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. Panek Joanna 34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T123000Z
