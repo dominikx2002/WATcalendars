@@ -613,20 +613,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261220T114000
 DTEND;TZID=Europe/Warsaw:20261220T131500
-SUMMARY:Bpe (L)
-LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261220T133000
-DTEND;TZID=Europe/Warsaw:20261220T150500
 SUMMARY:Gk (L)
 LOCATION:252 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261220T152000
-DTEND;TZID=Europe/Warsaw:20261220T165500
+DTSTART;TZID=Europe/Warsaw:20261220T133000
+DTEND;TZID=Europe/Warsaw:20261220T150500
 SUMMARY:Gk (L)
 LOCATION:252 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Marek Salamon
@@ -700,6 +693,13 @@ DTEND;TZID=Europe/Warsaw:20270110T150500
 SUMMARY:SAR (L)
 LOCATION:252 S
 DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr Marzenna Miłek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270110T152000
+DTEND;TZID=Europe/Warsaw:20270110T165500
+SUMMARY:Bpe (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Malgorzata Rudnicka - Schmidt
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270116T080000
