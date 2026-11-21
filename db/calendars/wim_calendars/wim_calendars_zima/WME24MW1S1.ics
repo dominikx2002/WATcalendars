@@ -60,13 +60,6 @@ LOCATION:116/ 54
 DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261214T070000Z
-DTEND:20261214T083500Z
-SUMMARY:Tpt (L)
-LOCATION:18/ 54; 109/ 54
-DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr inż. Kluczyński Janusz 91
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261221T070000Z
 DTEND:20261221T083500Z
 SUMMARY:Brd (ć)
@@ -207,6 +200,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 5/157
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260111T085000Z
+DTEND:20260111T102500Z
+SUMMARY:Tpt (L)
+LOCATION:
+DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Kluczyński Janusz 91
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260118T085000Z
 DTEND:20260118T102500Z
 SUMMARY:Pkm 
@@ -333,6 +333,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 8/157
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260111T104000Z
+DTEND:20260111T121500Z
+SUMMARY:Tpt (L)
+LOCATION:
+DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Kluczyński Janusz 91
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260118T104000Z
 DTEND:20260118T121500Z
 SUMMARY:Pkm 
@@ -421,14 +428,14 @@ DTSTART:20261207T123000Z
 DTEND:20261207T140500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/ 19; 4d/ 19
-DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
+DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T123000Z
 DTEND:20261214T140500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/ 19; 4d/ 19
-DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
+DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T123000Z
@@ -443,6 +450,13 @@ DTEND:20260104T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 11/157
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T123000Z
+DTEND:20260111T140500Z
+SUMMARY:Tpt (L)
+LOCATION:
+DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Kluczyński Janusz 91
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T123000Z
@@ -505,14 +519,14 @@ DTSTART:20261207T150000Z
 DTEND:20261207T163500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/ 19; 4d/ 19
-DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
+DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T150000Z
 DTEND:20261214T163500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/ 19; 4d/ 19
-DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
+DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T150000Z
@@ -693,8 +707,8 @@ BEGIN:VEVENT
 DTSTART:20261124T070000Z
 DTEND:20261124T083500Z
 SUMMARY:Ptr (L)
-LOCATION:4c/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz 75
+LOCATION:4c/ 19
+DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz 75
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T070000Z
@@ -718,13 +732,6 @@ LOCATION:108/ 54
 DESCRIPTION:Obróbka plastyczna, cieplna i cieplnochemiczna 30\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 31
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261222T070000Z
-DTEND:20261222T083500Z
-SUMMARY:Tpt (L)
-LOCATION:18/ 54; 109/ 54
-DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr inż. Kluczyński Janusz 91
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261229T070000Z
 DTEND:20261229T083500Z
 SUMMARY:I 
@@ -743,7 +750,7 @@ DTSTART:20260112T070000Z
 DTEND:20260112T083500Z
 SUMMARY:Tpt (L)
 LOCATION:18/ 54; 109/ 54
-DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Kluczyński Janusz 91
+DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Kluczyński Janusz 91
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T070000Z
@@ -1187,6 +1194,13 @@ LOCATION:14/ 23A; 4/ 23A
 DESCRIPTION:Podstawy automatyki i robotyki 46\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261208T150000Z
+DTEND:20261208T163500Z
+SUMMARY:Ptr (L)
+LOCATION:3d/ 19
+DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz 75
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261229T150000Z
 DTEND:20261229T163500Z
 SUMMARY:I 
@@ -1323,8 +1337,8 @@ BEGIN:VEVENT
 DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:Ptr (L)
-LOCATION:4c/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz 75
+LOCATION:4c/ 19
+DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz 75
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T070000Z
@@ -1339,6 +1353,13 @@ DTEND:20261209T083500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54; 9/ 54
 DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 23/29\nProwadzący: mgr Zamolska Monika 12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T070000Z
+DTEND:20261216T083500Z
+SUMMARY:Ptr (L)
+LOCATION:3d/ 19
+DESCRIPTION:Podstawy tribologii 74\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz 75
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
@@ -2066,7 +2087,7 @@ DTSTART:20260114T104000Z
 DTEND:20260114T121500Z
 SUMMARY:Tpt (L)
 LOCATION:109/ 54; 18/ 54
-DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Kluczyński Janusz 91
+DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Kluczyński Janusz 91
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T104000Z
@@ -2171,7 +2192,7 @@ DTSTART:20260121T123000Z
 DTEND:20260121T140500Z
 SUMMARY:Tpt (L)
 LOCATION:18/ 54; 120/ 54
-DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Kluczyński Janusz 91
+DESCRIPTION:Technologia przetwórstwa tworzyw sztucznych 90\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Kluczyński Janusz 91
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T123000Z

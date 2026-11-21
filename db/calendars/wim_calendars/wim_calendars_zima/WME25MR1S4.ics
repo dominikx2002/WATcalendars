@@ -529,10 +529,10 @@ LOCATION:8/ 62
 DESCRIPTION:Introduction to elasticity and plasticity theory 14\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Morka Andrzej 15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261130T150000Z
-DTEND:20261130T163500Z
+DTSTART:20261123T150000Z
+DTEND:20261123T163500Z
 SUMMARY:Zms2 (w)
-LOCATION:52/ 62
+LOCATION:55/ 62
 DESCRIPTION:Zaawansowane modelowanie i symulacja 2 60\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. Morka Andrzej 61
 END:VEVENT
 BEGIN:VEVENT
@@ -1635,6 +1635,13 @@ LOCATION:51/ 62
 DESCRIPTION:Introduction to elasticity and plasticity theory 14\nRodzaj zajęć: Wykład\nNumer zajęć: 9/16\nProwadzący: dr inż. Morka Andrzej 15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:Szn. (L)
+LOCATION:7/ 62
+DESCRIPTION:Symulacja złożonych nieliniowych zagadnień mechaniki 48\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Damaziak Krzysztof 49
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:BeS (ć)
@@ -1695,7 +1702,7 @@ DTSTART:20261125T150000Z
 DTEND:20261125T163500Z
 SUMMARY:Szn. (L)
 LOCATION:7/ 62
-DESCRIPTION:Symulacja złożonych nieliniowych zagadnień mechaniki 48\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Damaziak Krzysztof 49
+DESCRIPTION:Symulacja złożonych nieliniowych zagadnień mechaniki 48\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Damaziak Krzysztof 49
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T150000Z
@@ -1752,13 +1759,6 @@ DTEND:20261118T182500Z
 SUMMARY:Pm. (L)
 LOCATION:30/ 54
 DESCRIPTION:Projektowanie maszyn 33\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261125T165000Z
-DTEND:20261125T182500Z
-SUMMARY:Szn. (L)
-LOCATION:7/ 62
-DESCRIPTION:Symulacja złożonych nieliniowych zagadnień mechaniki 48\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Damaziak Krzysztof 49
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T165000Z

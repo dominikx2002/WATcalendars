@@ -81,25 +81,18 @@ LOCATION:5/ 19
 DESCRIPTION:Zarządzanie środowiskiem i ekologia 24\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261123T085000Z
-DTEND:20261123T102500Z
-SUMMARY:Zśie (w)
-LOCATION:15/ 23A
-DESCRIPTION:Zarządzanie środowiskiem i ekologia 24\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Senyk Szymon 25
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261130T085000Z
 DTEND:20261130T102500Z
 SUMMARY:Zśie (w)
 LOCATION:15/ 23A
-DESCRIPTION:Zarządzanie środowiskiem i ekologia 24\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Senyk Szymon 25
+DESCRIPTION:Zarządzanie środowiskiem i ekologia 24\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Senyk Szymon 25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T085000Z
 DTEND:20261207T102500Z
 SUMMARY:Zśie (w)
 LOCATION:15/ 23A
-DESCRIPTION:Zarządzanie środowiskiem i ekologia 24\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Senyk Szymon 25
+DESCRIPTION:Zarządzanie środowiskiem i ekologia 24\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Senyk Szymon 25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T085000Z
@@ -141,7 +134,7 @@ DTSTART:20261102T104000Z
 DTEND:20261102T121500Z
 SUMMARY:Zśie (w)
 LOCATION:15/ 23A
-DESCRIPTION:Zarządzanie środowiskiem i ekologia 24\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Senyk Szymon 25
+DESCRIPTION:Zarządzanie środowiskiem i ekologia 24\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Senyk Szymon 25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
@@ -610,7 +603,7 @@ DTSTART:20261006T113000Z
 DTEND:20261006T130500Z
 SUMMARY:Zśie (w)
 LOCATION:3/ 54
-DESCRIPTION:Zarządzanie środowiskiem i ekologia 24\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Senyk Szymon 25
+DESCRIPTION:Zarządzanie środowiskiem i ekologia 24\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Senyk Szymon 25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T113000Z
@@ -828,6 +821,13 @@ DTEND:20261111T083500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 43/175
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T070000Z
+DTEND:20261202T083500Z
+SUMMARY:Zśie (w)
+LOCATION:3/ 54
+DESCRIPTION:Zarządzanie środowiskiem i ekologia 24\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Senyk Szymon 25
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z

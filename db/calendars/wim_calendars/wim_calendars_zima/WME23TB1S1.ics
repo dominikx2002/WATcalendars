@@ -39,11 +39,18 @@ LOCATION:1/ 22
 DESCRIPTION:Zastosowanie informatyki w logistyce 24\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Waśniewski Tomasz 25
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261123T070000Z
+DTEND:20261123T083500Z
+SUMMARY:Eut* (ć)
+LOCATION:1/ 21
+DESCRIPTION:Eksploatacja urządzeń transportowych 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Trawiński Grzegorz 7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261130T070000Z
 DTEND:20261130T083500Z
 SUMMARY:Eut* (ć)
 LOCATION:7/ 23A
-DESCRIPTION:Eksploatacja urządzeń transportowych 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Trawiński Grzegorz 7
+DESCRIPTION:Eksploatacja urządzeń transportowych 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Trawiński Grzegorz 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T070000Z
@@ -113,7 +120,7 @@ DTSTART:20261109T085000Z
 DTEND:20261109T102500Z
 SUMMARY:Eut* (ć)
 LOCATION:42/ 20
-DESCRIPTION:Eksploatacja urządzeń transportowych 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Trawiński Grzegorz 7
+DESCRIPTION:Eksploatacja urządzeń transportowych 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Trawiński Grzegorz 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T085000Z
@@ -127,7 +134,7 @@ DTSTART:20261123T085000Z
 DTEND:20261123T102500Z
 SUMMARY:Eut* (ć)
 LOCATION:42/ 20
-DESCRIPTION:Eksploatacja urządzeń transportowych 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Trawiński Grzegorz 7
+DESCRIPTION:Eksploatacja urządzeń transportowych 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Trawiński Grzegorz 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T085000Z
@@ -198,13 +205,6 @@ DTEND:20261123T121500Z
 SUMMARY:Nzj* (w)
 LOCATION:2/ 23A
 DESCRIPTION:Normalizacja i zarządzanie jakością w logistyce 12\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr n.społ. inż. Rogowski Bogusław 13
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261130T104000Z
-DTEND:20261130T121500Z
-SUMMARY:Eut* (ć)
-LOCATION:42/ 20
-DESCRIPTION:Eksploatacja urządzeń transportowych 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Trawiński Grzegorz 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T104000Z

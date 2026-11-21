@@ -760,13 +760,6 @@ LOCATION:54/ 62
 DESCRIPTION:Przywództwo w dowodzeniu 70\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Miszczak Marta 71
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260302T070000Z
-DTEND:20260302T083500Z
-SUMMARY:TA (w)
-LOCATION:
-DESCRIPTION:TAKTYKA 95\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław 96
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260330T060000Z
 DTEND:20260330T073500Z
 SUMMARY:P.św 
@@ -891,6 +884,13 @@ DTEND:20260216T102500Z
 SUMMARY:Mkm2 (Zp.)
 LOCATION:01/ 54A
 DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 13\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Karczewski Krzysztof 14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T085000Z
+DTEND:20260302T102500Z
+SUMMARY:TA (w)
+LOCATION:
+DESCRIPTION:TAKTYKA 95\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław 96
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T075000Z

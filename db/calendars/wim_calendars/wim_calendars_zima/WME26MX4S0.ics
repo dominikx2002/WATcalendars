@@ -760,13 +760,6 @@ LOCATION:
 DESCRIPTION:P.św\nRodzaj zajęć: -\nNumer zajęć: 8/35
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260518T060000Z
-DTEND:20260518T073500Z
-SUMMARY:ZINŻ (ć)
-LOCATION:
-DESCRIPTION:Zabezpieczenie inżynieryjne 103\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Jurzysta Paweł 104
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261006T075000Z
 DTEND:20261006T092500Z
 SUMMARY:WDM (w)
@@ -904,7 +897,7 @@ DTSTART:20260518T075000Z
 DTEND:20260518T092500Z
 SUMMARY:ZINŻ (ć)
 LOCATION:
-DESCRIPTION:Zabezpieczenie inżynieryjne 103\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Jurzysta Paweł 104
+DESCRIPTION:Zabezpieczenie inżynieryjne 103\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Jurzysta Paweł 104
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T094000Z
@@ -1038,6 +1031,13 @@ DTEND:20260330T111500Z
 SUMMARY:P.św 
 LOCATION:
 DESCRIPTION:P.św\nRodzaj zajęć: -\nNumer zajęć: 10/35
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T094000Z
+DTEND:20260518T111500Z
+SUMMARY:ZINŻ (ć)
+LOCATION:
+DESCRIPTION:Zabezpieczenie inżynieryjne 103\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Jurzysta Paweł 104
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T113000Z

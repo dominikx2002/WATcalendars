@@ -809,13 +809,6 @@ LOCATION:1/ 21
 DESCRIPTION:Techniki wytwarzania 1 110\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260302T070000Z
-DTEND:20260302T083500Z
-SUMMARY:TA (w)
-LOCATION:
-DESCRIPTION:TAKTYKA 103\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław 104
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260330T060000Z
 DTEND:20260330T073500Z
 SUMMARY:P.św 
@@ -947,6 +940,13 @@ DTEND:20260216T102500Z
 SUMMARY:Mkm2 (Zp.)
 LOCATION:01/ 54A
 DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 22\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Karczewski Krzysztof 23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T085000Z
+DTEND:20260302T102500Z
+SUMMARY:TA (w)
+LOCATION:
+DESCRIPTION:TAKTYKA 103\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław 104
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T075000Z

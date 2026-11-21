@@ -501,6 +501,13 @@ LOCATION:
 DESCRIPTION:Uzbrojenie wozów bojowych 78\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/16
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260118T123000Z
+DTEND:20260118T140500Z
+SUMMARY:Bpg 
+LOCATION:3/ 23A
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 6/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260125T123000Z
 DTEND:20260125T140500Z
 SUMMARY:Zśie (w)
@@ -554,21 +561,21 @@ DTSTART:20261026T150000Z
 DTEND:20261026T163500Z
 SUMMARY:Bpg 
 LOCATION:3/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 6/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 7/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261102T150000Z
 DTEND:20261102T163500Z
 SUMMARY:Bpg 
 LOCATION:3/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 7/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 8/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T150000Z
 DTEND:20261123T163500Z
 SUMMARY:Bpg 
 LOCATION:3/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 8/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 9/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T150000Z
@@ -604,6 +611,13 @@ DTEND:20260104T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 19/168
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T150000Z
+DTEND:20260111T163500Z
+SUMMARY:Bpg 
+LOCATION:2/ 23A
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 10/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T150000Z
@@ -1037,7 +1051,7 @@ DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:Bpg 
 LOCATION:6/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 9/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 11/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T104000Z
@@ -1149,7 +1163,7 @@ DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
 SUMMARY:Bpg 
 LOCATION:3/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 10/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 12/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261110T123000Z
@@ -1219,7 +1233,7 @@ DTSTART:20260202T123000Z
 DTEND:20260202T140500Z
 SUMMARY:Bpg 
 LOCATION:3/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 11/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 13/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T123000Z
@@ -2647,7 +2661,7 @@ DTSTART:20261008T094000Z
 DTEND:20261008T111500Z
 SUMMARY:Bpg 
 LOCATION:2/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 12/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 14/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T094000Z
@@ -2871,7 +2885,7 @@ DTSTART:20261008T113000Z
 DTEND:20261008T130500Z
 SUMMARY:Bpg 
 LOCATION:2/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 13/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 15/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T113000Z
@@ -2885,14 +2899,7 @@ DTSTART:20261112T123000Z
 DTEND:20261112T140500Z
 SUMMARY:Bpg 
 LOCATION:3/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 14/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T123000Z
-DTEND:20261119T140500Z
-SUMMARY:UeiM (w)
-LOCATION:5/ 20
-DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów 62\nRodzaj zajęć: Wykład\nNumer zajęć: 13/18\nProwadzący: dr inż. Trawiński Grzegorz 63
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 16/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T123000Z
@@ -2948,7 +2955,7 @@ DTSTART:20260121T123000Z
 DTEND:20260121T140500Z
 SUMMARY:UeiM (w)
 LOCATION:3/ 23A
-DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów 62\nRodzaj zajęć: Wykład\nNumer zajęć: 14/18
+DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów 62\nRodzaj zajęć: Wykład\nNumer zajęć: 13/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T123000Z
@@ -3088,7 +3095,7 @@ DTSTART:20261112T150000Z
 DTEND:20261112T163500Z
 SUMMARY:Bpg 
 LOCATION:3/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 15/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 17/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T150000Z
@@ -3096,6 +3103,13 @@ DTEND:20261203T163500Z
 SUMMARY:SLwLSZ (L)
 LOCATION:7/ 16
 DESCRIPTION:Systemy informatyczne w logistyce SZ RP 50\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: płk mgr inż. Górski Piotr 51
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T150000Z
+DTEND:20261217T163500Z
+SUMMARY:UeiM (w)
+LOCATION:5/ 20
+DESCRIPTION:Urządzenia elektryczne i mechatroniczne pojazdów 62\nRodzaj zajęć: Wykład\nNumer zajęć: 14/18\nProwadzący: dr inż. Trawiński Grzegorz 63
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T150000Z
@@ -3529,7 +3543,7 @@ DTSTART:20261009T060000Z
 DTEND:20261009T073500Z
 SUMMARY:Bpg 
 LOCATION:3/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 16/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 18/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T060000Z
@@ -3543,7 +3557,7 @@ DTSTART:20261030T070000Z
 DTEND:20261030T083500Z
 SUMMARY:Bpg 
 LOCATION:5/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 17/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 19/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T070000Z
@@ -3571,7 +3585,7 @@ DTSTART:20261204T070000Z
 DTEND:20261204T083500Z
 SUMMARY:Bpg 
 LOCATION:2/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 18/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 20/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T070000Z
@@ -3655,7 +3669,7 @@ DTSTART:20261009T075000Z
 DTEND:20261009T092500Z
 SUMMARY:Bpg 
 LOCATION:3/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 19/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 21/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T075000Z
@@ -3669,7 +3683,7 @@ DTSTART:20261030T085000Z
 DTEND:20261030T102500Z
 SUMMARY:Bpg 
 LOCATION:5/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 20/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 22/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T085000Z
@@ -3704,7 +3718,7 @@ DTSTART:20261204T085000Z
 DTEND:20261204T102500Z
 SUMMARY:Bpg 
 LOCATION:2/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 21/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
+DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 23/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T085000Z
@@ -3994,13 +4008,6 @@ LOCATION:8/ 62
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych 31\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Śledzik Waldemar 32
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261218T123000Z
-DTEND:20261218T140500Z
-SUMMARY:Bpg 
-LOCATION:2/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 22/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261225T123000Z
 DTEND:20261225T140500Z
 SUMMARY:I 
@@ -4111,13 +4118,6 @@ DTEND:20261204T163500Z
 SUMMARY:Pdm (w)
 LOCATION:15/ 23A
 DESCRIPTION:Podstawy dynamiki maszyn 36\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold 37
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261218T150000Z
-DTEND:20261218T163500Z
-SUMMARY:Bpg 
-LOCATION:2/ 23A
-DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 23/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr 9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261225T150000Z

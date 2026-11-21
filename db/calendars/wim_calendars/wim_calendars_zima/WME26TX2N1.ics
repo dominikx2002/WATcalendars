@@ -795,13 +795,6 @@ LOCATION:54/ 62
 DESCRIPTION:Etyka zawodowa 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr Kasperski Marian 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261212T150000Z
-DTEND:20261212T163500Z
-SUMMARY:WDM (ć)
-LOCATION:5/ 20
-DESCRIPTION:Wprowadzenie do metrologii 42\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Boruta Grzegorz 43
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261219T150000Z
 DTEND:20261219T163500Z
 SUMMARY:PGI (ć)
@@ -904,7 +897,7 @@ DTSTART:20261121T165000Z
 DTEND:20261121T182500Z
 SUMMARY:WDM (ć)
 LOCATION:5/ 20
-DESCRIPTION:Wprowadzenie do metrologii 42\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Boruta Grzegorz 43
+DESCRIPTION:Wprowadzenie do metrologii 42\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Boruta Grzegorz 43
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261128T165000Z
@@ -918,14 +911,14 @@ DTSTART:20261205T165000Z
 DTEND:20261205T182500Z
 SUMMARY:WDM (ć)
 LOCATION:5/ 20
-DESCRIPTION:Wprowadzenie do metrologii 42\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Boruta Grzegorz 43
+DESCRIPTION:Wprowadzenie do metrologii 42\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Boruta Grzegorz 43
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T165000Z
 DTEND:20261219T182500Z
 SUMMARY:WDM (ć)
 LOCATION:5/ 20
-DESCRIPTION:Wprowadzenie do metrologii 42\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Boruta Grzegorz 43
+DESCRIPTION:Wprowadzenie do metrologii 42\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Boruta Grzegorz 43
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261226T165000Z
@@ -946,7 +939,7 @@ DTSTART:20260109T165000Z
 DTEND:20260109T182500Z
 SUMMARY:WDM (ć)
 LOCATION:5/ 20
-DESCRIPTION:Wprowadzenie do metrologii 42\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Boruta Grzegorz 43
+DESCRIPTION:Wprowadzenie do metrologii 42\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Boruta Grzegorz 43
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T165000Z
@@ -1031,6 +1024,13 @@ DTEND:20261212T201500Z
 SUMMARY:PZiP (ć)
 LOCATION:55/ 62
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 33\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T184000Z
+DTEND:20261219T201500Z
+SUMMARY:WDM (ć)
+LOCATION:5/ 20
+DESCRIPTION:Wprowadzenie do metrologii 42\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Boruta Grzegorz 43
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261226T184000Z
