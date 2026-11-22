@@ -676,13 +676,6 @@ LOCATION:3.8 75
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261215T150000Z
-DTEND:20261215T163500Z
-SUMMARY:WDM (ć)
-LOCATION:82 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261222T150000Z
 DTEND:20261222T163500Z
 SUMMARY:PzP (ć)
@@ -1149,7 +1142,7 @@ DTSTART:20260113T123000Z
 DTEND:20260113T140500Z
 SUMMARY:WDM (ć)
 LOCATION:82 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T123000Z
@@ -1625,7 +1618,7 @@ DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
 SUMMARY:WDM (ć)
 LOCATION:73b S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T123000Z
@@ -1646,7 +1639,7 @@ DTSTART:20260121T123000Z
 DTEND:20260121T140500Z
 SUMMARY:WDM (ć)
 LOCATION:82 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T140000Z
@@ -2039,6 +2032,13 @@ DTEND:20261204T140500Z
 SUMMARY:M1 (ć)
 LOCATION:21 46
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/19\nProwadzący: dr Ptaszek Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T123000Z
+DTEND:20261211T140500Z
+SUMMARY:WDM (ć)
+LOCATION:73b S
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T123000Z
