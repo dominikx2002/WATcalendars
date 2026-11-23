@@ -531,9 +531,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T104000Z
 DTEND:20261121T121500Z
-SUMMARY:ZMwBM (w)
-LOCATION:10/ 54A
-DESCRIPTION:Zaawansowane materiały w budowie maszyn 61\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 62
+SUMMARY:Ntł. (w)
+LOCATION:116/ 54
+DESCRIPTION:Nowoczesne technologie łączenia i postprocesingu elementów  wytwarzanych przyrostowo 12\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261128T104000Z
@@ -925,7 +925,7 @@ DTSTART:20260123T150000Z
 DTEND:20260123T163500Z
 SUMMARY:ZMwBM (w)
 LOCATION:09/ 54A
-DESCRIPTION:Zaawansowane materiały w budowie maszyn 61\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 62
+DESCRIPTION:Zaawansowane materiały w budowie maszyn 61\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 62
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T150000Z
@@ -1140,9 +1140,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T184000Z
 DTEND:20261121T201500Z
-SUMMARY:Ntł. (w)
-LOCATION:116/ 54
-DESCRIPTION:Nowoczesne technologie łączenia i postprocesingu elementów  wytwarzanych przyrostowo 12\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4
+SUMMARY:PiWSI (L)
+LOCATION:29/ 54; 30/ 54
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261128T184000Z
@@ -1156,7 +1156,7 @@ DTSTART:20261205T184000Z
 DTEND:20261205T201500Z
 SUMMARY:PiWSI (L)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr inż. Łuszczek Jakub 26
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr inż. Łuszczek Jakub 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T184000Z
@@ -1191,7 +1191,7 @@ DTSTART:20260109T184000Z
 DTEND:20260109T201500Z
 SUMMARY:ZMwBM (w)
 LOCATION:09/ 54A
-DESCRIPTION:Zaawansowane materiały w budowie maszyn 61\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 62
+DESCRIPTION:Zaawansowane materiały w budowie maszyn 61\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 62
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T184000Z
@@ -1212,7 +1212,7 @@ DTSTART:20260130T184000Z
 DTEND:20260130T201500Z
 SUMMARY:PiWSI (L)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T184000Z
@@ -1317,7 +1317,7 @@ DTSTART:20261220T070000Z
 DTEND:20261220T083500Z
 SUMMARY:PiWSI (L)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Łuszczek Jakub 26
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Łuszczek Jakub 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261227T070000Z
@@ -1478,7 +1478,7 @@ DTSTART:20261220T085000Z
 DTEND:20261220T102500Z
 SUMMARY:PiWSI (L)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Łuszczek Jakub 26
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Łuszczek Jakub 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261227T085000Z
@@ -1583,7 +1583,7 @@ DTSTART:20261018T094000Z
 DTEND:20261018T111500Z
 SUMMARY:PiWSI (L)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T104000Z
@@ -1604,7 +1604,7 @@ DTSTART:20261108T104000Z
 DTEND:20261108T121500Z
 SUMMARY:PiWSI (L)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T104000Z
@@ -1618,7 +1618,7 @@ DTSTART:20261122T104000Z
 DTEND:20261122T121500Z
 SUMMARY:ZMwBM (w)
 LOCATION:10/ 54A
-DESCRIPTION:Zaawansowane materiały w budowie maszyn 61\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 62
+DESCRIPTION:Zaawansowane materiały w budowie maszyn 61\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 62
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261129T104000Z
@@ -1667,7 +1667,7 @@ DTSTART:20260110T104000Z
 DTEND:20260110T121500Z
 SUMMARY:PiWSI (L)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: dr inż. Łuszczek Jakub 26
+DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: dr inż. Łuszczek Jakub 26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T104000Z
@@ -1784,9 +1784,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T123000Z
 DTEND:20261122T140500Z
-SUMMARY:PiWSI (L)
-LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Projektowanie i wytwarzanie z wykorzystaniem metod sztucznej inteligencji 1 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
+SUMMARY:ZMwBM (w)
+LOCATION:10/ 54A
+DESCRIPTION:Zaawansowane materiały w budowie maszyn 61\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 62
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261129T123000Z
