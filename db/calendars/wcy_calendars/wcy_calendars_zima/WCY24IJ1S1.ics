@@ -303,13 +303,6 @@ LOCATION:120 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: mgr inż. Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261124T095000
-DTEND;TZID=Europe/Warsaw:20261124T112500
-SUMMARY:Mn (w)
-LOCATION:233 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Piotr Marciniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T114000
 DTEND;TZID=Europe/Warsaw:20261124T131500
 SUMMARY:Wdis (ć)
@@ -322,6 +315,13 @@ DTEND;TZID=Europe/Warsaw:20261125T112500
 SUMMARY:Med (L)
 LOCATION:224 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T095000
+DTEND;TZID=Europe/Warsaw:20261126T112500
+SUMMARY:Mn (w)
+LOCATION:252a S
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T114000
