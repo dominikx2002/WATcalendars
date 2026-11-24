@@ -779,20 +779,6 @@ LOCATION:307 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261110T160000
-DTEND;TZID=Europe/Warsaw:20261110T173500
-SUMMARY:Insz (L)
-LOCATION:236 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Protasowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261110T175000
-DTEND;TZID=Europe/Warsaw:20261110T192500
-SUMMARY:Insz (L)
-LOCATION:236 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Protasowicki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T080000
 DTEND;TZID=Europe/Warsaw:20261112T093500
 SUMMARY:Ps (ć)
@@ -881,14 +867,14 @@ DTSTART;TZID=Europe/Warsaw:20261117T160000
 DTEND;TZID=Europe/Warsaw:20261117T173500
 SUMMARY:Insz (L)
 LOCATION:252 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T175000
 DTEND;TZID=Europe/Warsaw:20261117T192500
 SUMMARY:Insz (L)
 LOCATION:252 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T114000
@@ -1007,14 +993,14 @@ DTSTART;TZID=Europe/Warsaw:20261124T160000
 DTEND;TZID=Europe/Warsaw:20261124T173500
 SUMMARY:Insz (L)
 LOCATION:233 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T175000
 DTEND;TZID=Europe/Warsaw:20261124T192500
 SUMMARY:Insz (L)
 LOCATION:233 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T080000
@@ -1134,6 +1120,20 @@ DTEND;TZID=Europe/Warsaw:20261201T150500
 SUMMARY:Mnwd (L)
 LOCATION:224 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: mgr inż. Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261201T160000
+DTEND;TZID=Europe/Warsaw:20261201T173500
+SUMMARY:Insz (L)
+LOCATION:252 S
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Tomasz Protasowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261201T175000
+DTEND;TZID=Europe/Warsaw:20261201T192500
+SUMMARY:Insz (L)
+LOCATION:252 S
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T080000

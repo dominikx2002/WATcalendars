@@ -772,20 +772,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: mgr Piotr Stasiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261109T160000
-DTEND;TZID=Europe/Warsaw:20261109T173500
-SUMMARY:Mpwsi (w)
-LOCATION:309 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 11\nProwadzący: dr inż. Tomasz Protasowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261109T175000
-DTEND;TZID=Europe/Warsaw:20261109T192500
-SUMMARY:Mpwsi (w)
-LOCATION:309 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 12\nProwadzący: dr inż. Tomasz Protasowicki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261110T114000
 DTEND;TZID=Europe/Warsaw:20261110T131500
 SUMMARY:Med (w)
@@ -881,14 +867,14 @@ DTSTART;TZID=Europe/Warsaw:20261116T160000
 DTEND;TZID=Europe/Warsaw:20261116T173500
 SUMMARY:Mpwsi (w)
 LOCATION:309 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 13\nProwadzący: dr inż. Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 11\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261116T175000
 DTEND;TZID=Europe/Warsaw:20261116T192500
 SUMMARY:Mpwsi (w)
 LOCATION:309 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 14\nProwadzący: dr inż. Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 12\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T080000
@@ -1049,7 +1035,7 @@ DTSTART;TZID=Europe/Warsaw:20261123T160000
 DTEND;TZID=Europe/Warsaw:20261123T173500
 SUMMARY:Mpwsi (w)
 LOCATION:309 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 15\nProwadzący: dr inż. Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 13\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T095000
@@ -1414,6 +1400,20 @@ DTEND;TZID=Europe/Warsaw:20261209T150500
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: DGB
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T160000
+DTEND;TZID=Europe/Warsaw:20261209T173500
+SUMMARY:Mpwsi (w)
+LOCATION:308 S
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 14\nProwadzący: dr inż. Tomasz Protasowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T175000
+DTEND;TZID=Europe/Warsaw:20261209T192500
+SUMMARY:Mpwsi (w)
+LOCATION:308 S
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 15\nProwadzący: dr inż. Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T080000

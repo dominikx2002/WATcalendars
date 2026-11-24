@@ -478,32 +478,11 @@ LOCATION:223 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261124T080000
-DTEND;TZID=Europe/Warsaw:20261124T093500
-SUMMARY:No (L)
-LOCATION:226 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261124T095000
-DTEND;TZID=Europe/Warsaw:20261124T112500
-SUMMARY:No (L)
-LOCATION:226 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T114000
 DTEND;TZID=Europe/Warsaw:20261124T131500
 SUMMARY:Mzw (w)
 LOCATION:223 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261125T114000
-DTEND;TZID=Europe/Warsaw:20261125T131500
-SUMMARY:No (w)
-LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T133000
@@ -748,14 +727,14 @@ DTSTART;TZID=Europe/Warsaw:20261215T080000
 DTEND;TZID=Europe/Warsaw:20261215T093500
 SUMMARY:No (L)
 LOCATION:226 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T095000
 DTEND;TZID=Europe/Warsaw:20261215T112500
 SUMMARY:No (L)
 LOCATION:226 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T114000
@@ -905,20 +884,6 @@ LOCATION:223 S
 DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261223T133000
-DTEND;TZID=Europe/Warsaw:20261223T150500
-SUMMARY:BSI (w)
-LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Górny
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261223T160000
-DTEND;TZID=Europe/Warsaw:20261223T173500
-SUMMARY:BSI (L)
-LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Piotr Górny
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270107T080000
 DTEND;TZID=Europe/Warsaw:20270107T093500
 SUMMARY:MumII (L)
@@ -938,6 +903,13 @@ DTEND;TZID=Europe/Warsaw:20270107T131500
 SUMMARY:ak (L)
 LOCATION:228 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T080000
+DTEND;TZID=Europe/Warsaw:20270111T093500
+SUMMARY:No (w)
+LOCATION:307 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270111T095000
@@ -965,14 +937,14 @@ DTSTART;TZID=Europe/Warsaw:20270112T080000
 DTEND;TZID=Europe/Warsaw:20270112T093500
 SUMMARY:No (L)
 LOCATION:226 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T095000
 DTEND;TZID=Europe/Warsaw:20270112T112500
 SUMMARY:No (L)
 LOCATION:226 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270112T114000
@@ -987,6 +959,20 @@ DTEND;TZID=Europe/Warsaw:20270112T150500
 SUMMARY:Mzw (L)
 LOCATION:223 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270113T080000
+DTEND;TZID=Europe/Warsaw:20270113T093500
+SUMMARY:No (L)
+LOCATION:224 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270113T095000
+DTEND;TZID=Europe/Warsaw:20270113T112500
+SUMMARY:No (L)
+LOCATION:224 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T114000
@@ -1043,6 +1029,20 @@ DTEND;TZID=Europe/Warsaw:20270118T150500
 SUMMARY:Mispb (P)
 LOCATION:223 S
 DESCRIPTION:Modelowanie, symulacja i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNumer zajęć: 6\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270119T080000
+DTEND;TZID=Europe/Warsaw:20270119T093500
+SUMMARY:BSI (w)
+LOCATION:224 S
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270119T095000
+DTEND;TZID=Europe/Warsaw:20270119T112500
+SUMMARY:BSI (L)
+LOCATION:224 S
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T114000

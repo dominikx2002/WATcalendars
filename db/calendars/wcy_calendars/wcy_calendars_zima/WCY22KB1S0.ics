@@ -1619,20 +1619,6 @@ LOCATION:223 S
 DESCRIPTION:Zaawansowane metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270108T080000
-DTEND;TZID=Europe/Warsaw:20270108T093500
-SUMMARY:IRz (L)
-LOCATION:224 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270108T095000
-DTEND;TZID=Europe/Warsaw:20270108T112500
-SUMMARY:IRz (L)
-LOCATION:224 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270108T114000
 DTEND;TZID=Europe/Warsaw:20270108T131500
 SUMMARY:WF (ć)
@@ -1897,6 +1883,20 @@ DTEND;TZID=Europe/Warsaw:20270123T112500
 SUMMARY:XWF (ć)
 LOCATION:
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T080000
+DTEND;TZID=Europe/Warsaw:20270125T093500
+SUMMARY:IRz (L)
+LOCATION:237 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270125T095000
+DTEND;TZID=Europe/Warsaw:20270125T112500
+SUMMARY:IRz (L)
+LOCATION:237 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270125T114000

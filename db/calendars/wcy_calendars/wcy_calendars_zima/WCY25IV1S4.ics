@@ -513,13 +513,6 @@ LOCATION:308 S
 DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261125T114000
-DTEND;TZID=Europe/Warsaw:20261125T131500
-SUMMARY:No (w)
-LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T133000
 DTEND;TZID=Europe/Warsaw:20261125T150500
 SUMMARY:MumII (w)
@@ -581,20 +574,6 @@ DTEND;TZID=Europe/Warsaw:20261130T150500
 SUMMARY:Wmo (ć)
 LOCATION:224 S
 DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261201T080000
-DTEND;TZID=Europe/Warsaw:20261201T093500
-SUMMARY:No (L)
-LOCATION:226 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261201T095000
-DTEND;TZID=Europe/Warsaw:20261201T112500
-SUMMARY:No (L)
-LOCATION:226 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T114000
@@ -916,14 +895,14 @@ DTSTART;TZID=Europe/Warsaw:20261222T080000
 DTEND;TZID=Europe/Warsaw:20261222T093500
 SUMMARY:No (L)
 LOCATION:226 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T095000
 DTEND;TZID=Europe/Warsaw:20261222T112500
 SUMMARY:No (L)
 LOCATION:226 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T114000
@@ -996,6 +975,13 @@ LOCATION:226 S
 DESCRIPTION:Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270111T080000
+DTEND;TZID=Europe/Warsaw:20270111T093500
+SUMMARY:No (w)
+LOCATION:307 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270113T080000
 DTEND;TZID=Europe/Warsaw:20270113T093500
 SUMMARY:Mispb (L)
@@ -1050,6 +1036,20 @@ DTEND;TZID=Europe/Warsaw:20270114T150500
 SUMMARY:UzW (L)
 LOCATION:226 S
 DESCRIPTION:Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T080000
+DTEND;TZID=Europe/Warsaw:20270118T093500
+SUMMARY:No (L)
+LOCATION:233 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270118T095000
+DTEND;TZID=Europe/Warsaw:20270118T112500
+SUMMARY:No (L)
+LOCATION:233 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270119T080000

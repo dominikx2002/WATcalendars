@@ -1185,13 +1185,6 @@ LOCATION:118 45
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: mgr Katarzyna Gurmińska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261124T160000
-DTEND;TZID=Europe/Warsaw:20261124T173500
-SUMMARY:Als (w)
-LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T080000
 DTEND;TZID=Europe/Warsaw:20261125T093500
 SUMMARY:Pwd (w)
@@ -1288,13 +1281,6 @@ DTEND;TZID=Europe/Warsaw:20261201T150500
 SUMMARY:Pwd (ć)
 LOCATION:118 45
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: mgr Katarzyna Gurmińska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261201T160000
-DTEND;TZID=Europe/Warsaw:20261201T173500
-SUMMARY:Als (w)
-LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T175000
@@ -1444,6 +1430,13 @@ LOCATION:237 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261208T175000
+DTEND;TZID=Europe/Warsaw:20261208T192500
+SUMMARY:Als (w)
+LOCATION:313 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T080000
 DTEND;TZID=Europe/Warsaw:20261210T093500
 SUMMARY:SzS (ć)
@@ -1547,6 +1540,13 @@ DTEND;TZID=Europe/Warsaw:20261214T150500
 SUMMARY:Aok (w)
 LOCATION:316 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 10\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261214T175000
+DTEND;TZID=Europe/Warsaw:20261214T192500
+SUMMARY:Als (w)
+LOCATION:313 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T095000
@@ -2102,6 +2102,13 @@ LOCATION:314 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270127T160000
+DTEND;TZID=Europe/Warsaw:20270127T173500
+SUMMARY:ppk (Zal)
+LOCATION:314 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Zaliczenie\nNumer zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270128T080000
 DTEND;TZID=Europe/Warsaw:20270128T093500
 SUMMARY:Aok (L)
@@ -2170,5 +2177,12 @@ DTEND;TZID=Europe/Warsaw:20270215T112500
 SUMMARY:FII (Zp)
 LOCATION:46 63
 DESCRIPTION:Fizyka II\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Marek Olifierczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270218T114000
+DTEND;TZID=Europe/Warsaw:20270218T131500
+SUMMARY:ppk (Zp)
+LOCATION:316 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 END:VCALENDAR

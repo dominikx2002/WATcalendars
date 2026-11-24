@@ -1485,4 +1485,11 @@ SUMMARY:PZiP (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270215T095000
+DTEND;TZID=Europe/Warsaw:20270215T112500
+SUMMARY:Pap (Zp)
+LOCATION:011 65
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: zal popr\nNumer zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
 END:VCALENDAR
