@@ -2251,6 +2251,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne 100\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/37
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261217T085000Z
+DTEND:20261217T102500Z
+SUMMARY:M1 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 1 11\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19\nProwadzący: dr Różański Jerzy 12
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261224T085000Z
 DTEND:20261224T102500Z
 SUMMARY:I 
@@ -2354,13 +2361,6 @@ DTEND:20261119T121500Z
 SUMMARY:PZiP (ć)
 LOCATION:51/ 62
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 49\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. Kożuch Artur Jacek 50
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T104000Z
-DTEND:20261126T121500Z
-SUMMARY:M1 (ć)
-LOCATION:54/ 62
-DESCRIPTION:Matematyka 1 11\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19\nProwadzący: dr Różański Jerzy 12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z

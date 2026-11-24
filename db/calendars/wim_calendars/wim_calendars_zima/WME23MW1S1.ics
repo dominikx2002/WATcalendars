@@ -8,14 +8,14 @@ DTSTART:20261116T070000Z
 DTEND:20261116T083500Z
 SUMMARY:SiNBM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław 7
+DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T085000Z
 DTEND:20261116T102500Z
 SUMMARY:SiNBM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław 7
+DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T060000Z
@@ -53,20 +53,6 @@ LOCATION:1/ 21
 DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław 7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261201T123000Z
-DTEND:20261201T140500Z
-SUMMARY:SiNBM (ć)
-LOCATION:1/ 21
-DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261201T150000Z
-DTEND:20261201T163500Z
-SUMMARY:SiNBM (ć)
-LOCATION:1/ 21
-DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261007T060000Z
 DTEND:20261007T073500Z
 SUMMARY:SiNBM (w)
@@ -85,14 +71,14 @@ DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:SiNBM (ć)
 LOCATION:1/ 21
-DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
+DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:SiNBM (ć)
 LOCATION:15/ 23A
-DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław 7
+DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław 7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T070000Z
@@ -106,7 +92,7 @@ DTSTART:20261125T085000Z
 DTEND:20261125T102500Z
 SUMMARY:SiNBM (ć)
 LOCATION:1/ 21
-DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T085000Z
@@ -114,6 +100,13 @@ DTEND:20261216T102500Z
 SUMMARY:SiNBM (Zp. Ćw)
 LOCATION:5/ 20
 DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T104000Z
+DTEND:20261125T121500Z
+SUMMARY:SiNBM (ć)
+LOCATION:5/ 19
+DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn 6\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T155000Z

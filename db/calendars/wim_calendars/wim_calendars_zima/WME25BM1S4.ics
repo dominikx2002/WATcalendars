@@ -81,6 +81,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 2/154
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260111T070000Z
+DTEND:20260111T083500Z
+SUMMARY:Sipp (w)
+LOCATION:51/ 62
+DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Stanisławek Sebastian 35
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260118T070000Z
 DTEND:20260118T083500Z
 SUMMARY:Mnisu2 (L)
@@ -232,7 +239,7 @@ DTSTART:20261019T094000Z
 DTEND:20261019T111500Z
 SUMMARY:Sipp (w)
 LOCATION:8/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Stanisławek Sebastian 35
+DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Stanisławek Sebastian 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T104000Z
@@ -358,14 +365,14 @@ DTSTART:20261109T123000Z
 DTEND:20261109T140500Z
 SUMMARY:Sipp (w)
 LOCATION:52/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Stanisławek Sebastian 35
+DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Stanisławek Sebastian 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T123000Z
 DTEND:20261123T140500Z
 SUMMARY:Sipp (w)
 LOCATION:42/ 54A
-DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Stanisławek Sebastian 35
+DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Stanisławek Sebastian 35
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261130T123000Z
@@ -659,13 +666,6 @@ DTSTART:20261117T070000Z
 DTEND:20261117T083500Z
 SUMMARY:Sipp (w)
 LOCATION:54/ 62
-DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Stanisławek Sebastian 35
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261124T070000Z
-DTEND:20261124T083500Z
-SUMMARY:Sipp (w)
-LOCATION:52/ 62
 DESCRIPTION:Sensory i przetworniki pomiarowe 34\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Stanisławek Sebastian 35
 END:VEVENT
 BEGIN:VEVENT
