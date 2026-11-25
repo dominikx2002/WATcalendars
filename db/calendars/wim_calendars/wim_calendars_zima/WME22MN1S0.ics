@@ -50,7 +50,14 @@ DTSTART:20261207T070000Z
 DTEND:20261207T083500Z
 SUMMARY:Cfp (ć)
 LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T070000Z
+DTEND:20261214T083500Z
+SUMMARY:Cfp (ć)
+LOCATION:1/ 19
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T070000Z
@@ -886,18 +893,11 @@ LOCATION:1/ 19
 DESCRIPTION:Organizacja parku sprzętu technicznego 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: mgr inż. Szpak Roman 38
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T070000Z
-DTEND:20261124T083500Z
-SUMMARY:BiErp (L)
-LOCATION:15/ 19
-DESCRIPTION:Budowa i eksploatacja rurociągów polowych 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T070000Z
 DTEND:20261201T083500Z
 SUMMARY:BiErp (L)
 LOCATION:13d/ 19
-DESCRIPTION:Budowa i eksploatacja rurociągów polowych 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
+DESCRIPTION:Budowa i eksploatacja rurociągów polowych 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T070000Z
@@ -1019,18 +1019,11 @@ LOCATION:1/ 19
 DESCRIPTION:Organizacja parku sprzętu technicznego 37\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: mgr inż. Szpak Roman 38
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261124T085000Z
-DTEND:20261124T102500Z
-SUMMARY:BiErp (L)
-LOCATION:15/ 19
-DESCRIPTION:Budowa i eksploatacja rurociągów polowych 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261201T085000Z
 DTEND:20261201T102500Z
 SUMMARY:BiErp (L)
 LOCATION:13d/ 19
-DESCRIPTION:Budowa i eksploatacja rurociągów polowych 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
+DESCRIPTION:Budowa i eksploatacja rurociągów polowych 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T085000Z
@@ -1404,6 +1397,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 31/154
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260112T150000Z
+DTEND:20260112T163500Z
+SUMMARY:BiErp (L)
+LOCATION:15/ 19
+DESCRIPTION:Budowa i eksploatacja rurociągów polowych 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260119T150000Z
 DTEND:20260119T163500Z
 SUMMARY:wzbnim (ć)
@@ -1451,6 +1451,13 @@ DTEND:20260105T182500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 33/154
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T165000Z
+DTEND:20260112T182500Z
+SUMMARY:BiErp (L)
+LOCATION:15/ 19
+DESCRIPTION:Budowa i eksploatacja rurociągów polowych 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T155000Z
@@ -1856,7 +1863,7 @@ DTSTART:20260120T085000Z
 DTEND:20260120T102500Z
 SUMMARY:Cfp (ć)
 LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T085000Z
@@ -3249,7 +3256,7 @@ DTSTART:20261119T085000Z
 DTEND:20261119T102500Z
 SUMMARY:Cfp (ć)
 LOCATION:42/ 62
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z
@@ -3277,7 +3284,7 @@ DTSTART:20260114T085000Z
 DTEND:20260114T102500Z
 SUMMARY:Cfp (ć)
 LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T085000Z
@@ -3361,7 +3368,7 @@ DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:Cfp (ć)
 LOCATION:42/ 62
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z
@@ -3410,7 +3417,7 @@ DTSTART:20260107T104000Z
 DTEND:20260107T121500Z
 SUMMARY:Cfp (ć)
 LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T104000Z
@@ -3550,7 +3557,7 @@ DTSTART:20260107T123000Z
 DTEND:20260107T140500Z
 SUMMARY:Cfp (ć)
 LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T123000Z
@@ -4019,7 +4026,7 @@ DTSTART:20261204T070000Z
 DTEND:20261204T083500Z
 SUMMARY:Cfp (ć)
 LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T070000Z
@@ -4201,7 +4208,7 @@ DTSTART:20261204T085000Z
 DTEND:20261204T102500Z
 SUMMARY:Cfp (ć)
 LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
+DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T085000Z
@@ -4701,13 +4708,6 @@ LOCATION:1/ 21
 DESCRIPTION:Wybrane zagadnienia psychologii 72\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Fijałkowska Sylwia 73
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261218T150000Z
-DTEND:20261218T163500Z
-SUMMARY:Cfp (ć)
-LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261225T150000Z
 DTEND:20261225T163500Z
 SUMMARY:I 
@@ -4797,13 +4797,6 @@ DTEND:20261127T182500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 93/154
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261218T165000Z
-DTEND:20261218T182500Z
-SUMMARY:Cfp (ć)
-LOCATION:5/ 19
-DESCRIPTION:Calculations of field pipelines 12\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: ppłk dr inż. Gocman Krzysztof 13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261225T165000Z

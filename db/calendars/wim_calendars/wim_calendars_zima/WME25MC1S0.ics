@@ -95,11 +95,18 @@ LOCATION:05/ 54A
 DESCRIPTION:Mechanika płynów 35\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260118T070000Z
+DTEND:20260118T083500Z
+SUMMARY:Mkm2 (L)
+LOCATION:15/ 34; 24/ 34
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof 23
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260125T070000Z
 DTEND:20260125T083500Z
 SUMMARY:Mkm2 (L)
 LOCATION:14/ 34; 15/ 34; 24/ 34
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof 23
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260201T070000Z
@@ -352,13 +359,6 @@ DTEND:20260104T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 8/161
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T104000Z
-DTEND:20260111T121500Z
-SUMMARY:Mkm2 (L)
-LOCATION:14/ 34; 15/ 34; 24/ 34
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 22\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T104000Z

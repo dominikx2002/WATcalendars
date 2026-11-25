@@ -102,6 +102,13 @@ LOCATION:
 DESCRIPTION:Fizyka 2 10\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław 11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261207T085000Z
+DTEND:20261207T102500Z
+SUMMARY:SoM (ć)
+LOCATION:5/ 20
+DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261214T085000Z
 DTEND:20261214T102500Z
 SUMMARY:Ilog (w)
@@ -2087,63 +2094,63 @@ DTSTART:20261022T094000Z
 DTEND:20261022T111500Z
 SUMMARY:SoM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
+DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261029T104000Z
 DTEND:20261029T121500Z
 SUMMARY:SoM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
+DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T104000Z
 DTEND:20261105T121500Z
 SUMMARY:SoM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
+DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T104000Z
 DTEND:20261112T121500Z
 SUMMARY:SoM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
+DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:SoM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
+DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T104000Z
 DTEND:20261126T121500Z
 SUMMARY:SoM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
+DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
 DTEND:20261203T121500Z
 SUMMARY:SoM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
+DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
 SUMMARY:SoM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
+DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:SoM (ć)
 LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
+DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T104000Z
@@ -2158,13 +2165,6 @@ DTEND:20261231T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 64/147
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260114T104000Z
-DTEND:20260114T121500Z
-SUMMARY:SoM (ć)
-LOCATION:5/ 23A
-DESCRIPTION:Strength of Materials 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T104000Z

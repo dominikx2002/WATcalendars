@@ -60,25 +60,18 @@ LOCATION:42/ 20
 DESCRIPTION:Eksploatacja pojazdów wojskowych 3\nRodzaj zajęć: Wykład\nNumer zajęć: 6/22\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261207T070000Z
-DTEND:20261207T083500Z
-SUMMARY:Epw (w)
-LOCATION:42/ 20
-DESCRIPTION:Eksploatacja pojazdów wojskowych 3\nRodzaj zajęć: Wykład\nNumer zajęć: 7/22\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz 4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261214T070000Z
 DTEND:20261214T083500Z
 SUMMARY:Epw (w)
 LOCATION:42/ 20
-DESCRIPTION:Eksploatacja pojazdów wojskowych 3\nRodzaj zajęć: Wykład\nNumer zajęć: 8/22\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz 4
+DESCRIPTION:Eksploatacja pojazdów wojskowych 3\nRodzaj zajęć: Wykład\nNumer zajęć: 7/22\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T070000Z
 DTEND:20261221T083500Z
 SUMMARY:Epw (w)
 LOCATION:42/ 20
-DESCRIPTION:Eksploatacja pojazdów wojskowych 3\nRodzaj zajęć: Wykład\nNumer zajęć: 9/22\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz 4
+DESCRIPTION:Eksploatacja pojazdów wojskowych 3\nRodzaj zajęć: Wykład\nNumer zajęć: 8/22\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T070000Z
@@ -204,7 +197,7 @@ DTSTART:20261221T085000Z
 DTEND:20261221T102500Z
 SUMMARY:Epw (w)
 LOCATION:42/ 20
-DESCRIPTION:Eksploatacja pojazdów wojskowych 3\nRodzaj zajęć: Wykład\nNumer zajęć: 10/22\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz 4
+DESCRIPTION:Eksploatacja pojazdów wojskowych 3\nRodzaj zajęć: Wykład\nNumer zajęć: 9/22\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T085000Z
@@ -226,6 +219,13 @@ DTEND:20260111T102500Z
 SUMMARY:Mm. (L)
 LOCATION:14/ 54A
 DESCRIPTION:Modelowanie maszyn 25\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/22\nProwadzący: dr inż. Rubiec Arkadiusz 26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T085000Z
+DTEND:20260118T102500Z
+SUMMARY:Epw (w)
+LOCATION:1/ 21
+DESCRIPTION:Eksploatacja pojazdów wojskowych 3\nRodzaj zajęć: Wykład\nNumer zajęć: 10/22\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260201T085000Z

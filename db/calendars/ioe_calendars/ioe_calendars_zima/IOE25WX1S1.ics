@@ -172,13 +172,6 @@ LOCATION:14 45;19 45
 DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261221T104000Z
-DTEND:20261221T121500Z
-SUMMARY:Ucy (L)
-LOCATION:14 45;19 45
-DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261228T104000Z
 DTEND:20261228T121500Z
 SUMMARY:P.św 
@@ -232,14 +225,7 @@ DTSTART:20261123T123000Z
 DTEND:20261123T140500Z
 SUMMARY:Ucy (L)
 LOCATION:14 45;19 45
-DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261221T123000Z
-DTEND:20261221T140500Z
-SUMMARY:Ucy (L)
-LOCATION:14 45;19 45
-DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
+DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T123000Z
@@ -301,15 +287,22 @@ BEGIN:VEVENT
 DTSTART:20261130T150000Z
 DTEND:20261130T163500Z
 SUMMARY:Ucy (L)
-LOCATION:14 45;19 45
-DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
+LOCATION:19 45
+DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T150000Z
 DTEND:20261207T163500Z
 SUMMARY:Ucy (L)
-LOCATION:14 45;19 45
-DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
+LOCATION:19 45
+DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T150000Z
+DTEND:20261214T163500Z
+SUMMARY:Ucy (L)
+LOCATION:19 45
+DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261228T150000Z
@@ -329,8 +322,8 @@ BEGIN:VEVENT
 DTSTART:20260111T150000Z
 DTEND:20260111T163500Z
 SUMMARY:Ucy (L)
-LOCATION:14 45;19 45
-DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
+LOCATION:19 45
+DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T150000Z
@@ -343,8 +336,8 @@ BEGIN:VEVENT
 DTSTART:20260125T150000Z
 DTEND:20260125T163500Z
 SUMMARY:Ucy (L)
-LOCATION:14 45;19 45
-DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
+LOCATION:19 45
+DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T165000Z
@@ -357,14 +350,21 @@ BEGIN:VEVENT
 DTSTART:20261130T165000Z
 DTEND:20261130T182500Z
 SUMMARY:Ucy (L)
-LOCATION:14 45;19 45
-DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
+LOCATION:19 45
+DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T165000Z
 DTEND:20261207T182500Z
 SUMMARY:Ucy (L)
-LOCATION:14 45;19 45
+LOCATION:19 45
+DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T165000Z
+DTEND:20261214T182500Z
+SUMMARY:Ucy (L)
+LOCATION:19 45
 DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 DTSTART:20260111T165000Z
 DTEND:20260111T182500Z
 SUMMARY:Ucy (L)
-LOCATION:14 45;19 45
+LOCATION:19 45
 DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 DTSTART:20260125T165000Z
 DTEND:20260125T182500Z
 SUMMARY:Ucy (L)
-LOCATION:14 45;19 45
+LOCATION:19 45
 DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
@@ -966,7 +966,7 @@ BEGIN:VEVENT
 DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:Ucy (L)
-LOCATION:14 45;19 45
+LOCATION:19 45
 DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
@@ -1029,7 +1029,7 @@ BEGIN:VEVENT
 DTSTART:20261216T085000Z
 DTEND:20261216T102500Z
 SUMMARY:Ucy (L)
-LOCATION:14 45;19 45
+LOCATION:19 45
 DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/16\nProwadzący: dr inż. Chrunik Maciej; dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT

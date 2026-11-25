@@ -53,6 +53,13 @@ LOCATION:01/ 54A
 DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 18\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: ppłk dr inż. Karczewski Krzysztof 19
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261130T070000Z
+DTEND:20261130T083500Z
+SUMMARY:Mkm2 (L)
+LOCATION:15/ 34; 24/ 34
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 18\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof 19
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261207T070000Z
 DTEND:20261207T083500Z
 SUMMARY:Mp (L)
@@ -302,7 +309,7 @@ DTSTART:20261109T104000Z
 DTEND:20261109T121500Z
 SUMMARY:Mkm2 (L)
 LOCATION:14/ 34; 15/ 34; 24/ 34
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 18\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 18\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
@@ -1156,14 +1163,14 @@ DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:Mkm2 (L)
 LOCATION:14/ 34; 15/ 34; 24/ 34
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 18\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof 19
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 18\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T123000Z
 DTEND:20261222T140500Z
 SUMMARY:Mkm2 (L)
 LOCATION:14/ 34; 15/ 34; 24/ 34
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 18\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof 19
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 18\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T123000Z
@@ -1178,13 +1185,6 @@ DTEND:20260105T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 29/161
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260112T123000Z
-DTEND:20260112T140500Z
-SUMMARY:Mkm2 (L)
-LOCATION:14/ 34; 15/ 34; 24/ 34
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2 18\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof 19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T123000Z
