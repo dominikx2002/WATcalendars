@@ -1087,13 +1087,6 @@ LOCATION:
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261211T133000
-DTEND;TZID=Europe/Warsaw:20261211T150500
-SUMMARY:Matematyka II (ć)
-LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mgr inż. Alicja Kida
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T095000
 DTEND;TZID=Europe/Warsaw:20261214T112500
 SUMMARY:Matematyka I (w)
@@ -1182,7 +1175,7 @@ DTSTART;TZID=Europe/Warsaw:20261218T114000
 DTEND;TZID=Europe/Warsaw:20261218T131500
 SUMMARY:Matematyka II (ć)
 LOCATION:
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: mgr inż. Alicja Kida
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T133000
@@ -1232,6 +1225,13 @@ DTEND;TZID=Europe/Warsaw:20261222T112500
 SUMMARY:Ez (w)
 LOCATION:317 S
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr hab. Krzysztof Sołoducha
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261222T114000
+DTEND;TZID=Europe/Warsaw:20261222T131500
+SUMMARY:Matematyka II (ć)
+LOCATION:
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T133000

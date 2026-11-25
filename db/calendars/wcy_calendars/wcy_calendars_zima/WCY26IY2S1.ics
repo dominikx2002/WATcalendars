@@ -982,6 +982,13 @@ LOCATION:
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261207T080000
+DTEND;TZID=Europe/Warsaw:20261207T093500
+SUMMARY:PGI (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: dr inż. Krzysztof Puchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T095000
 DTEND;TZID=Europe/Warsaw:20261207T112500
 SUMMARY:Matematyka II (ć)
@@ -1161,7 +1168,7 @@ DTSTART;TZID=Europe/Warsaw:20261217T095000
 DTEND;TZID=Europe/Warsaw:20261217T112500
 SUMMARY:PGI (ć)
 LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9\nProwadzący: dr inż. Krzysztof Puchała
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: dr inż. Krzysztof Puchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T114000
@@ -1217,7 +1224,7 @@ DTSTART;TZID=Europe/Warsaw:20261222T095000
 DTEND;TZID=Europe/Warsaw:20261222T112500
 SUMMARY:PGI (ć)
 LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10\nProwadzący: dr inż. Krzysztof Puchała
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: dr inż. Krzysztof Puchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261222T114000
@@ -1364,7 +1371,7 @@ DTSTART;TZID=Europe/Warsaw:20270114T095000
 DTEND;TZID=Europe/Warsaw:20270114T112500
 SUMMARY:PGI (ć)
 LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11\nProwadzący: dr inż. Krzysztof Puchała
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: dr inż. Krzysztof Puchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270114T114000
@@ -1434,7 +1441,7 @@ DTSTART;TZID=Europe/Warsaw:20270121T095000
 DTEND;TZID=Europe/Warsaw:20270121T112500
 SUMMARY:PGI (ć)
 LOCATION:101 65
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12\nProwadzący: dr inż. Krzysztof Puchała
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13\nProwadzący: dr inż. Krzysztof Puchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270121T114000

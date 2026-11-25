@@ -593,7 +593,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T080000
 DTEND;TZID=Europe/Warsaw:20261212T093500
 SUMMARY:F2 (w)
-LOCATION:aF S
+LOCATION:314 S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: prof. dr hab. inż. Janusz Parka
 END:VEVENT
 BEGIN:VEVENT
@@ -1022,5 +1022,12 @@ DTEND;TZID=Europe/Warsaw:20270131T150500
 SUMMARY:Swb (w)
 LOCATION:203 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270213T114000
+DTEND;TZID=Europe/Warsaw:20270213T131500
+SUMMARY:F2 (E)
+LOCATION:314 S
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1\nProwadzący: prof. dr hab. inż. Janusz Parka
 END:VEVENT
 END:VCALENDAR

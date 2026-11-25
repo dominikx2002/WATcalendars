@@ -1430,13 +1430,6 @@ LOCATION:PL.MUSZ2
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2\nProwadzący: ppłk rez. mgr Marcin Bomba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261214T114000
-DTEND;TZID=Europe/Warsaw:20261214T131500
-SUMMARY:OPBMR (w)
-LOCATION:1 55A
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: gen. bryg. mgr inż. Jarosław Stocki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T133000
 DTEND;TZID=Europe/Warsaw:20261214T150500
 SUMMARY:TW (ć)
@@ -1519,6 +1512,13 @@ DTEND;TZID=Europe/Warsaw:20261217T131500
 SUMMARY:HP (ć)
 LOCATION:106 53
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3\nProwadzący: prof. dr hab. Wojciech Włodarkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261217T133000
+DTEND;TZID=Europe/Warsaw:20261217T150500
+SUMMARY:OPBMR (w)
+LOCATION:1 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2\nProwadzący: gen. bryg. mgr inż. Jarosław Stocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T160000

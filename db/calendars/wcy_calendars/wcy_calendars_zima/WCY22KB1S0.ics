@@ -1360,6 +1360,13 @@ LOCATION:
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261214T080000
+DTEND;TZID=Europe/Warsaw:20261214T093500
+SUMMARY:Twinf (w)
+LOCATION:307 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261214T095000
 DTEND;TZID=Europe/Warsaw:20261214T112500
 SUMMARY:Stg (w)
@@ -1981,13 +1988,6 @@ DTEND;TZID=Europe/Warsaw:20270127T150500
 SUMMARY:Dtu (P)
 LOCATION:101 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 8\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20270129T080000
-DTEND;TZID=Europe/Warsaw:20270129T093500
-SUMMARY:Twinf (w)
-LOCATION:314 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 8\nProwadzący: dr inż. Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270129T114000
