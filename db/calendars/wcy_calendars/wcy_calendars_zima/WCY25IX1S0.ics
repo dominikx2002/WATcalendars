@@ -2158,6 +2158,13 @@ LOCATION:19 36
 DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 5\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20270201T114000
+DTEND;TZID=Europe/Warsaw:20270201T131500
+SUMMARY:Pwd (E)
+LOCATION:19 36
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Egzamin\nNumer zajęć: 1\nProwadzący: dr Kazimierz Piotrkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20270218T114000
 DTEND;TZID=Europe/Warsaw:20270218T131500
 SUMMARY:ppk (Zp)

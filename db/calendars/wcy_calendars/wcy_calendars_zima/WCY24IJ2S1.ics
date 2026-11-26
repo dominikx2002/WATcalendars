@@ -611,6 +611,20 @@ LOCATION:252 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T160000
+DTEND;TZID=Europe/Warsaw:20261209T173500
+SUMMARY:Hd (L)
+LOCATION:252 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T175000
+DTEND;TZID=Europe/Warsaw:20261209T192500
+SUMMARY:Hd (L)
+LOCATION:252 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T114000
 DTEND;TZID=Europe/Warsaw:20261210T131500
 SUMMARY:Wdis (ć)
@@ -644,20 +658,6 @@ DTEND;TZID=Europe/Warsaw:20261211T150500
 SUMMARY:Nsk (ć)
 LOCATION:314 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr inż. Adrian Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261214T114000
-DTEND;TZID=Europe/Warsaw:20261214T131500
-SUMMARY:Hd (L)
-LOCATION:233 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261214T133000
-DTEND;TZID=Europe/Warsaw:20261214T150500
-SUMMARY:Hd (L)
-LOCATION:233 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261216T080000

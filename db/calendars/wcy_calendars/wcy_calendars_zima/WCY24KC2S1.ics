@@ -905,6 +905,20 @@ LOCATION:316 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261210T160000
+DTEND;TZID=Europe/Warsaw:20261210T173500
+SUMMARY:PSy (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261210T175000
+DTEND;TZID=Europe/Warsaw:20261210T192500
+SUMMARY:PSy (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T160000
 DTEND;TZID=Europe/Warsaw:20261211T173500
 SUMMARY:Nsk (ć)
@@ -1022,20 +1036,6 @@ DTEND;TZID=Europe/Warsaw:20261222T150500
 SUMMARY:ZKwI (L)
 LOCATION:085 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: dr inż. Piotr Bora
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261222T160000
-DTEND;TZID=Europe/Warsaw:20261222T173500
-SUMMARY:PSy (L)
-LOCATION:224 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5\nProwadzący: mgr inż. Stanisław Skrzypecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261222T175000
-DTEND;TZID=Europe/Warsaw:20261222T192500
-SUMMARY:PSy (L)
-LOCATION:224 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261223T114000
