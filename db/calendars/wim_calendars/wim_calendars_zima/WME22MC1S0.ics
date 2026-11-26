@@ -2139,6 +2139,13 @@ LOCATION:42/ 20
 DESCRIPTION:Eksploatacja pojazdów wojskowych 3\nRodzaj zajęć: Wykład\nNumer zajęć: 19/22\nProwadzący: prof. dr hab. inż. Dziubak Tadeusz 4
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260127T104000Z
+DTEND:20260127T121500Z
+SUMMARY:REG (ć)
+LOCATION:3/043
+DESCRIPTION:Regulaminy SZ RP 44\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: mjr mgr Nawalicki Piotr 45
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260210T104000Z
 DTEND:20260210T121500Z
 SUMMARY:Pms 
@@ -3404,13 +3411,6 @@ DTEND:20261210T121500Z
 SUMMARY:ZaMe (ć)
 LOCATION:
 DESCRIPTION:Zabezpieczenie medyczne 70\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: mjr mgr Nawalicki Piotr 45
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T104000Z
-DTEND:20261217T121500Z
-SUMMARY:REG (ć)
-LOCATION:3/038
-DESCRIPTION:Regulaminy SZ RP 44\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: mjr mgr Nawalicki Piotr 45
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T104000Z

@@ -923,9 +923,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T104000Z
 DTEND:20261124T121500Z
-SUMMARY:UeP1 (w)
+SUMMARY:Dp (w)
 LOCATION:42/ 20
-DESCRIPTION:Urządzenia elektryczne pojazdów 1 90\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr inż. Trawiński Grzegorz 91
+DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. Trawiński Grzegorz 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T104000Z
@@ -939,7 +939,7 @@ DTSTART:20261208T104000Z
 DTEND:20261208T121500Z
 SUMMARY:Dp (w)
 LOCATION:42/ 20
-DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. Trawiński Grzegorz 23
+DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Trawiński Grzegorz 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T104000Z
@@ -1044,7 +1044,7 @@ DTSTART:20261110T123000Z
 DTEND:20261110T140500Z
 SUMMARY:Dp (w)
 LOCATION:42/ 20
-DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Trawiński Grzegorz 23
+DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr inż. Trawiński Grzegorz 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T123000Z
@@ -1065,7 +1065,7 @@ DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
 SUMMARY:Dp (w)
 LOCATION:42/ 20
-DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr inż. Trawiński Grzegorz 23
+DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr inż. Trawiński Grzegorz 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T123000Z
@@ -1079,7 +1079,7 @@ DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:Dp (w)
 LOCATION:42/ 20
-DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr inż. Trawiński Grzegorz 23
+DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Trawiński Grzegorz 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261222T123000Z
@@ -1331,7 +1331,7 @@ DTSTART:20261125T070000Z
 DTEND:20261125T083500Z
 SUMMARY:UeP1 (w)
 LOCATION:3/ 23A
-DESCRIPTION:Urządzenia elektryczne pojazdów 1 90\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11
+DESCRIPTION:Urządzenia elektryczne pojazdów 1 90\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
@@ -1607,6 +1607,13 @@ LOCATION:5/ 23A
 DESCRIPTION:Bezpieczeństwo ruchu drogowego 15\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej 16
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T123000Z
+DTEND:20261209T140500Z
+SUMMARY:Ptr (L)
+LOCATION:4c/ 19; 3d/ 19
+DESCRIPTION:Podstawy tribologii 65\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz 66
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261223T123000Z
 DTEND:20261223T140500Z
 SUMMARY:App (S)
@@ -1835,7 +1842,7 @@ DTSTART:20261112T070000Z
 DTEND:20261112T083500Z
 SUMMARY:Dp (w)
 LOCATION:42/ 20
-DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Trawiński Grzegorz 23
+DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Trawiński Grzegorz 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -1849,28 +1856,28 @@ DTSTART:20261126T070000Z
 DTEND:20261126T083500Z
 SUMMARY:Dp (w)
 LOCATION:42/ 20
-DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Trawiński Grzegorz 23
+DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr inż. Trawiński Grzegorz 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T070000Z
 DTEND:20261203T083500Z
 SUMMARY:UeP1 (w)
 LOCATION:42/ 20
-DESCRIPTION:Urządzenia elektryczne pojazdów 1 90\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Trawiński Grzegorz 91
+DESCRIPTION:Urządzenia elektryczne pojazdów 1 90\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Trawiński Grzegorz 91
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T070000Z
 DTEND:20261210T083500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/ 19; 4d/ 19
-DESCRIPTION:Podstawy tribologii 65\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
+DESCRIPTION:Podstawy tribologii 65\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T070000Z
 DTEND:20261217T083500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/ 19; 4d/ 19
-DESCRIPTION:Podstawy tribologii 65\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz 66
+DESCRIPTION:Podstawy tribologii 65\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz 66
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T070000Z
@@ -1919,7 +1926,7 @@ DTSTART:20261022T075000Z
 DTEND:20261022T092500Z
 SUMMARY:UeP1 (w)
 LOCATION:3/ 23A
-DESCRIPTION:Urządzenia elektryczne pojazdów 1 90\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11
+DESCRIPTION:Urządzenia elektryczne pojazdów 1 90\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T085000Z
@@ -1940,7 +1947,7 @@ DTSTART:20261119T085000Z
 DTEND:20261119T102500Z
 SUMMARY:Dp (w)
 LOCATION:42/ 20
-DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr inż. Trawiński Grzegorz 23
+DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr inż. Trawiński Grzegorz 23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z
@@ -1952,23 +1959,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T085000Z
 DTEND:20261203T102500Z
-SUMMARY:Dp (w)
+SUMMARY:UeP1 (w)
 LOCATION:5/ 20
-DESCRIPTION:Diagnostyka pojazdów 22\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr inż. Trawiński Grzegorz 23
+DESCRIPTION:Urządzenia elektryczne pojazdów 1 90\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr inż. Trawiński Grzegorz 91
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T085000Z
 DTEND:20261210T102500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/ 19; 4d/ 19
-DESCRIPTION:Podstawy tribologii 65\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
+DESCRIPTION:Podstawy tribologii 65\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T085000Z
 DTEND:20261217T102500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/ 19; 4d/ 19
-DESCRIPTION:Podstawy tribologii 65\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz 66
+DESCRIPTION:Podstawy tribologii 65\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz 66
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T085000Z
@@ -2137,13 +2144,6 @@ DTEND:20261119T140500Z
 SUMMARY:Peks (ć)
 LOCATION:2/ 23A
 DESCRIPTION:Podstawy eksploatacji 48\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T123000Z
-DTEND:20261126T140500Z
-SUMMARY:Ptr (L)
-LOCATION:4c/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii 65\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz 66
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T123000Z
@@ -2653,15 +2653,15 @@ BEGIN:VEVENT
 DTSTART:20261211T085000Z
 DTEND:20261211T102500Z
 SUMMARY:PiN 
-LOCATION:31/ 54A; PTW/ 28 HANGAR
-DESCRIPTION:PiN\nRodzaj zajęć: -\nNumer zajęć: 36/40\nProwadzący: mgr inż. Pogorzelski Ireneusz 6
+LOCATION:31/ 54A; PTW/ 28
+DESCRIPTION:PiN\nRodzaj zajęć: -\nNumer zajęć: 36/40\nProwadzący: mgr inż. Chodkiewicz Arkadiusz 35; dr inż. Ziubiński Mateusz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T085000Z
 DTEND:20261218T102500Z
 SUMMARY:PiN 
-LOCATION:31/ 54A; PTW/ 28 HANGAR
-DESCRIPTION:PiN\nRodzaj zajęć: -\nNumer zajęć: 37/40\nProwadzący: mgr inż. Pogorzelski Ireneusz 6
+LOCATION:31/ 54A; PTW/ 28
+DESCRIPTION:PiN\nRodzaj zajęć: -\nNumer zajęć: 37/40\nProwadzący: mgr inż. Chodkiewicz Arkadiusz 35; mgr inż. Pogorzelski Ireneusz 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261225T085000Z
@@ -2926,15 +2926,15 @@ BEGIN:VEVENT
 DTSTART:20261211T104000Z
 DTEND:20261211T121500Z
 SUMMARY:PiN 
-LOCATION:31/ 54A; PTW/ 28 HANGAR
-DESCRIPTION:PiN\nRodzaj zajęć: -\nNumer zajęć: 38/40\nProwadzący: mgr inż. Pogorzelski Ireneusz 6
+LOCATION:31/ 54A; PTW/ 28
+DESCRIPTION:PiN\nRodzaj zajęć: -\nNumer zajęć: 38/40\nProwadzący: mgr inż. Chodkiewicz Arkadiusz 35; dr inż. Ziubiński Mateusz 2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T104000Z
 DTEND:20261218T121500Z
 SUMMARY:PiN 
-LOCATION:31/ 54A; PTW/ 28 HANGAR
-DESCRIPTION:PiN\nRodzaj zajęć: -\nNumer zajęć: 39/40\nProwadzący: mgr inż. Pogorzelski Ireneusz 6
+LOCATION:31/ 54A; PTW/ 28
+DESCRIPTION:PiN\nRodzaj zajęć: -\nNumer zajęć: 39/40\nProwadzący: mgr inż. Chodkiewicz Arkadiusz 35; mgr inż. Pogorzelski Ireneusz 6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261225T104000Z

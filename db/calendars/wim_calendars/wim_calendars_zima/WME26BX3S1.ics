@@ -872,6 +872,13 @@ LOCATION:52/ 62
 DESCRIPTION:Wprowadzenie do metrologii 44\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260119T104000Z
+DTEND:20260119T121500Z
+SUMMARY:Wdi. (L)
+LOCATION:6/ 62
+DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260126T104000Z
 DTEND:20260126T121500Z
 SUMMARY:WDM (w)
@@ -1387,7 +1394,7 @@ DTSTART:20261118T104000Z
 DTEND:20261118T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11
+DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T104000Z
@@ -2024,25 +2031,18 @@ DTSTART:20261029T123000Z
 DTEND:20261029T140500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
+DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T123000Z
 DTEND:20261105T140500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
+DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T123000Z
 DTEND:20261119T140500Z
-SUMMARY:Wdi. (L)
-LOCATION:53/ 62
-DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T123000Z
-DTEND:20261126T140500Z
 SUMMARY:Wdi. (L)
 LOCATION:53/ 62
 DESCRIPTION:Wprowadzenie do informatyki. 39\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11

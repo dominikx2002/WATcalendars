@@ -158,6 +158,13 @@ LOCATION:9/ 68
 DESCRIPTION:Combustion engines and hybrid propulsion systems 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: dr inż Polak Filip 2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261207T150000Z
+DTEND:20261207T163500Z
+SUMMARY:Mv (w)
+LOCATION:6/ 23A
+DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261214T150000Z
 DTEND:20261214T163500Z
 SUMMARY:Mv (ć)
@@ -169,7 +176,7 @@ DTSTART:20261221T150000Z
 DTEND:20261221T163500Z
 SUMMARY:Mv (w)
 LOCATION:7/ 23A
-DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
+DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T104000Z
@@ -211,7 +218,7 @@ DTSTART:20261027T150000Z
 DTEND:20261027T163500Z
 SUMMARY:Mv (w)
 LOCATION:6/ 23A
-DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
+DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261103T150000Z
@@ -239,7 +246,7 @@ DTSTART:20261201T150000Z
 DTEND:20261201T163500Z
 SUMMARY:Mv (w)
 LOCATION:7/ 23A
-DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
+DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T150000Z
@@ -344,14 +351,14 @@ DTSTART:20261029T150000Z
 DTEND:20261029T163500Z
 SUMMARY:Mv (w)
 LOCATION:7/ 23A
-DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
+DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261105T150000Z
 DTEND:20261105T163500Z
 SUMMARY:Mv (w)
 LOCATION:7/ 23A
-DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
+DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261112T150000Z
@@ -365,7 +372,7 @@ DTSTART:20261119T150000Z
 DTEND:20261119T163500Z
 SUMMARY:Mv (w)
 LOCATION:7/ 23A
-DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
+DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T150000Z
@@ -373,13 +380,6 @@ DTEND:20261126T163500Z
 SUMMARY:Mv (ć)
 LOCATION:7/ 23A
 DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: płk dr inż. Hryciów Zdzisław 15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T150000Z
-DTEND:20261203T163500Z
-SUMMARY:Mv (w)
-LOCATION:7/ 23A
-DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: płk dr inż. Hryciów Zdzisław 15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T150000Z
@@ -424,13 +424,6 @@ LOCATION:20/ 68
 DESCRIPTION:Hybrid and electric vehicles maintenance and safety 8\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż Polak Filip 9
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261204T104000Z
-DTEND:20261204T121500Z
-SUMMARY:Mv (L)
-LOCATION:7/ 23A
-DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: płk dr inż. Hryciów Zdzisław 15
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261211T104000Z
 DTEND:20261211T121500Z
 SUMMARY:Hev (L)
@@ -445,8 +438,15 @@ LOCATION:9/ 68
 DESCRIPTION:Hybrid and electric vehicles maintenance and safety 8\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261204T123000Z
-DTEND:20261204T140500Z
+DTSTART:20261211T123000Z
+DTEND:20261211T140500Z
+SUMMARY:Mv (L)
+LOCATION:7/ 23A
+DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: płk dr inż. Hryciów Zdzisław 15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261211T150000Z
+DTEND:20261211T163500Z
 SUMMARY:Mv (L)
 LOCATION:7/ 23A
 DESCRIPTION:Mechanical vibrations 14\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: płk dr inż. Hryciów Zdzisław 15

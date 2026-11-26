@@ -3273,18 +3273,11 @@ LOCATION:42/ 20
 DESCRIPTION:System utrzymania i nadzoru nad jakością mps 56\nRodzaj zajęć: Wykład\nNumer zajęć: 14/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr 57
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T150000Z
-DTEND:20261126T163500Z
-SUMMARY:SUiN (w)
-LOCATION:1/ 21
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps 56\nRodzaj zajęć: Wykład\nNumer zajęć: 15/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr 57
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261203T150000Z
 DTEND:20261203T163500Z
 SUMMARY:SUiN (w)
 LOCATION:5/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps 56\nRodzaj zajęć: Wykład\nNumer zajęć: 16/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr 57
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps 56\nRodzaj zajęć: Wykład\nNumer zajęć: 15/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr 57
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T150000Z
@@ -4167,6 +4160,13 @@ DTEND:20261113T140500Z
 SUMMARY:BiEmps (w)
 LOCATION:5/ 19
 DESCRIPTION:Budowa i eksploatacja sprzętu służby mps 18\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: ppłk dr inż. Gocman Krzysztof 19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T123000Z
+DTEND:20261204T140500Z
+SUMMARY:SUiN (w)
+LOCATION:1/ 19
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps 56\nRodzaj zajęć: Wykład\nNumer zajęć: 16/16\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr 57
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T123000Z

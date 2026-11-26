@@ -1035,9 +1035,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T165000Z
 DTEND:20261205T182500Z
-SUMMARY:UelM (w)
-LOCATION:42/ 54A
-DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
+SUMMARY:UelM (L)
+LOCATION:H4/ 54A
+DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T165000Z
@@ -1051,7 +1051,7 @@ DTSTART:20261219T165000Z
 DTEND:20261219T182500Z
 SUMMARY:UelM (w)
 LOCATION:42/ 54A
-DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
+DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261226T165000Z
@@ -1163,7 +1163,7 @@ DTSTART:20261107T184000Z
 DTEND:20261107T201500Z
 SUMMARY:UelM (w)
 LOCATION:42/ 54A
-DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
+DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T184000Z
@@ -1187,18 +1187,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 51/112
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261205T184000Z
-DTEND:20261205T201500Z
-SUMMARY:UelM (ć)
-LOCATION:42/ 54A
-DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261219T184000Z
 DTEND:20261219T201500Z
 SUMMARY:UelM (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
+DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261226T184000Z
@@ -1492,14 +1485,14 @@ DTSTART:20260110T085000Z
 DTEND:20260110T102500Z
 SUMMARY:UelM (L)
 LOCATION:H4/ 54A
-DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
+DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T085000Z
 DTEND:20260117T102500Z
 SUMMARY:UelM (w)
 LOCATION:42/ 54A
-DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
+DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T085000Z
@@ -1646,14 +1639,14 @@ DTSTART:20260110T104000Z
 DTEND:20260110T121500Z
 SUMMARY:UelM (L)
 LOCATION:H4/ 54A
-DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
+DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T104000Z
 DTEND:20260117T121500Z
 SUMMARY:UelM (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
+DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T104000Z
@@ -1763,9 +1756,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T123000Z
 DTEND:20261213T140500Z
-SUMMARY:UelM (L)
-LOCATION:H4/ 54A
-DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
+SUMMARY:UelM (w)
+LOCATION:42/ 54A
+DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T123000Z
@@ -1878,6 +1871,13 @@ DTEND:20261129T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 91/112
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T150000Z
+DTEND:20261213T163500Z
+SUMMARY:UelM (ć)
+LOCATION:42/ 54A
+DESCRIPTION:Urządzenia elektryczne i elektroniczne maszyn 76\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej 77
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T150000Z

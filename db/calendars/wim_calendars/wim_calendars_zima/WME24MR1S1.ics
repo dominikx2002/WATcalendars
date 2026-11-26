@@ -844,6 +844,13 @@ LOCATION:52/ 62
 DESCRIPTION:Podstawy eksploatacji 62\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261201T085000Z
+DTEND:20261201T102500Z
+SUMMARY:Pkm 
+LOCATION:09/ 54A
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 14/28\nProwadzący: mgr inż. Malesa Piotr 24
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261208T085000Z
 DTEND:20261208T102500Z
 SUMMARY:Kszm1 (ć)
@@ -911,7 +918,7 @@ DTSTART:20261006T094000Z
 DTEND:20261006T111500Z
 SUMMARY:Pkm 
 LOCATION:116/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 14/28\nProwadzący: mgr Zamolska Monika 4
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 15/28\nProwadzący: mgr Zamolska Monika 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261013T094000Z
@@ -1177,7 +1184,7 @@ DTSTART:20261208T150000Z
 DTEND:20261208T163500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54; 9/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 15/28\nProwadzący: mgr Zamolska Monika 4
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 16/28\nProwadzący: mgr Zamolska Monika 4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T150000Z
@@ -1191,7 +1198,7 @@ DTSTART:20261222T150000Z
 DTEND:20261222T163500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54; 9/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 16/28\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan 68
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 17/28\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan 68
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261229T150000Z
@@ -1394,7 +1401,7 @@ DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:Pkm 
 LOCATION:109/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 17/28\nProwadzący: mgr inż. Malesa Piotr 24
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 18/28\nProwadzący: mgr inż. Malesa Piotr 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T070000Z
@@ -1429,7 +1436,7 @@ DTSTART:20260120T070000Z
 DTEND:20260120T083500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54; 9/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 18/28\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan 68
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 19/28\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan 68
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T070000Z
@@ -1464,7 +1471,7 @@ DTSTART:20261028T085000Z
 DTEND:20261028T102500Z
 SUMMARY:Pkm 
 LOCATION:109/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 19/28\nProwadzący: mgr inż. Malesa Piotr 24
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 20/28\nProwadzący: mgr inż. Malesa Piotr 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T085000Z
@@ -1618,14 +1625,14 @@ DTSTART:20261125T104000Z
 DTEND:20261125T121500Z
 SUMMARY:Pkm 
 LOCATION:109/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 20/28\nProwadzący: mgr inż. Malesa Piotr 24
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 21/28\nProwadzący: mgr inż. Malesa Piotr 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T104000Z
 DTEND:20261202T121500Z
 SUMMARY:Pkm 
 LOCATION:109/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 21/28\nProwadzący: mgr inż. Malesa Piotr 24
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 22/28\nProwadzący: mgr inż. Malesa Piotr 24
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T104000Z
@@ -1721,13 +1728,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
-SUMMARY:Pkm 
-LOCATION:109/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 22/28\nProwadzący: mgr inż. Malesa Piotr 24
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261223T123000Z
-DTEND:20261223T140500Z
 SUMMARY:Pkm 
 LOCATION:109/ 54
 DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 23/28\nProwadzący: mgr inż. Malesa Piotr 24
