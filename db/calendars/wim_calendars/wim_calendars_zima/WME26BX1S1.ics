@@ -1047,6 +1047,13 @@ LOCATION:1/ 21
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261222T123000Z
+DTEND:20261222T140500Z
+SUMMARY:PZiP (ć)
+LOCATION:54/ 62
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261229T123000Z
 DTEND:20261229T140500Z
 SUMMARY:I 
@@ -1675,13 +1682,6 @@ DTEND:20261209T140500Z
 SUMMARY:PGI (ć)
 LOCATION:120/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej 27\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz 28
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261223T123000Z
-DTEND:20261223T140500Z
-SUMMARY:PZiP (ć)
-LOCATION:2/ 23A
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości 34\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T123000Z

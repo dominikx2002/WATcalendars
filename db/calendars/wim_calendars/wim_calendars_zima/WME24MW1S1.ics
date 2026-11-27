@@ -1838,13 +1838,6 @@ LOCATION:116/ 54
 DESCRIPTION:Advanced manufacturing 1\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/10\nProwadzący: dr inż. Łuszczek Jakub 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T070000Z
-DTEND:20261126T083500Z
-SUMMARY:Tou1 (w)
-LOCATION:120/ 54
-DESCRIPTION:Technologia obróbki ubytkowej 1 81\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261203T070000Z
 DTEND:20261203T083500Z
 SUMMARY:Adv (S)
@@ -1936,13 +1929,6 @@ LOCATION:2/ 68
 DESCRIPTION:Obróbka plastyczna, cieplna i cieplnochemiczna 30\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 31
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T085000Z
-DTEND:20261126T102500Z
-SUMMARY:Zts (w)
-LOCATION:18/ 54
-DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych 99\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Grzelak Krzysztof 100
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261203T085000Z
 DTEND:20261203T102500Z
 SUMMARY:Opcc (w)
@@ -1954,7 +1940,7 @@ DTSTART:20261210T085000Z
 DTEND:20261210T102500Z
 SUMMARY:Tou1 (w)
 LOCATION:120/ 54
-DESCRIPTION:Technologia obróbki ubytkowej 1 81\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10
+DESCRIPTION:Technologia obróbki ubytkowej 1 81\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T085000Z
@@ -2031,7 +2017,7 @@ DTSTART:20261119T104000Z
 DTEND:20261119T121500Z
 SUMMARY:Zts (w)
 LOCATION:109/ 54
-DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych 99\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Grzelak Krzysztof 100
+DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych 99\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Grzelak Krzysztof 100
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T104000Z
@@ -2039,6 +2025,13 @@ DTEND:20261203T121500Z
 SUMMARY:App (S)
 LOCATION:09/ 54A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego 9\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Ziubiński Mateusz 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T104000Z
+DTEND:20261210T121500Z
+SUMMARY:Tou1 (w)
+LOCATION:10/ 54A
+DESCRIPTION:Technologia obróbki ubytkowej 1 81\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261217T104000Z
@@ -2144,6 +2137,13 @@ DTEND:20261210T140500Z
 SUMMARY:Opcc (L)
 LOCATION:19/ 54; 109/ 54
 DESCRIPTION:Obróbka plastyczna, cieplna i cieplnochemiczna 30\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. (prof. ucz.) Wachowski Marcin 31
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T123000Z
+DTEND:20261217T140500Z
+SUMMARY:Zts (w)
+LOCATION:10/ 54A
+DESCRIPTION:Zaawansowane technologie spajania materiałów konstrukcyjnych 99\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Grzelak Krzysztof 100
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261224T123000Z
