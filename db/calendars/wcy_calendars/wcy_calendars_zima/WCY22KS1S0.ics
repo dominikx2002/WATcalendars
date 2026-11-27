@@ -1206,13 +1206,6 @@ LOCATION:239 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNumer zajęć: 4\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261126T160000
-DTEND;TZID=Europe/Warsaw:20261126T173500
-SUMMARY:QPQe (w)
-LOCATION:078 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 11\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261128T095000
 DTEND;TZID=Europe/Warsaw:20261128T112500
 SUMMARY:XWF (ć)
@@ -1274,6 +1267,13 @@ DTEND;TZID=Europe/Warsaw:20261201T150500
 SUMMARY:KAB (w)
 LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Wykład\nNumer zajęć: 9\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261201T160000
+DTEND;TZID=Europe/Warsaw:20261201T173500
+SUMMARY:QPQe (w)
+LOCATION:085 S
+DESCRIPTION:Quantum and Post-Quantum Cryptology (w języku angielskim)\nRodzaj zajęć: Wykład\nNumer zajęć: 11\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261202T080000

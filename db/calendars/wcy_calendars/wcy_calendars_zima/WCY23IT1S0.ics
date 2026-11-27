@@ -1066,13 +1066,6 @@ LOCATION:203 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1\nProwadzący: dr Andrzej Strychalski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261126T160000
-DTEND;TZID=Europe/Warsaw:20261126T173500
-SUMMARY:AśW (w)
-LOCATION:203 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261128T080000
 DTEND;TZID=Europe/Warsaw:20261128T093500
 SUMMARY:XWF (ć)
@@ -1302,6 +1295,13 @@ DTEND;TZID=Europe/Warsaw:20261209T150500
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: DGB
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261209T160000
+DTEND;TZID=Europe/Warsaw:20261209T173500
+SUMMARY:AśW (w)
+LOCATION:307 S
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T095000

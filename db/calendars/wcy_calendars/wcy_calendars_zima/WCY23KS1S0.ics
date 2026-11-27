@@ -1199,13 +1199,6 @@ LOCATION:078 S
 DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 6\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261126T160000
-DTEND;TZID=Europe/Warsaw:20261126T173500
-SUMMARY:Ps (ć)
-LOCATION:204 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261128T080000
 DTEND;TZID=Europe/Warsaw:20261128T093500
 SUMMARY:XWF (ć)
@@ -1344,6 +1337,13 @@ DTEND;TZID=Europe/Warsaw:20261203T150500
 SUMMARY:Ab (w)
 LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNumer zajęć: 15\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261203T160000
+DTEND;TZID=Europe/Warsaw:20261203T173500
+SUMMARY:Ps (ć)
+LOCATION:205 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T080000

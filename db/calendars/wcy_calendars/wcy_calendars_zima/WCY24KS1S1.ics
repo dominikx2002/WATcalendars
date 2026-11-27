@@ -814,13 +814,6 @@ LOCATION:085 S
 DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261203T114000
-DTEND;TZID=Europe/Warsaw:20261203T131500
-SUMMARY:PZiP (ć)
-LOCATION:313 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T133000
 DTEND;TZID=Europe/Warsaw:20261203T150500
 SUMMARY:Ab (w)
@@ -994,6 +987,13 @@ DTEND;TZID=Europe/Warsaw:20261216T131500
 SUMMARY:Wkkp (L)
 LOCATION:085 S
 DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261216T160000
+DTEND;TZID=Europe/Warsaw:20261216T173500
+SUMMARY:PZiP (ć)
+LOCATION:313 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4\nProwadzący: dr hab. inż. Magdalena Rzemieniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T114000
