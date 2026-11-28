@@ -179,25 +179,11 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii 37\nRodzaj zajęć: -\nProwadzący: dr inż. Białek Kamila 38
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261209T070000Z
-DTEND:20261209T083500Z
-SUMMARY:PGI 
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej 19\nRodzaj zajęć: -\nProwadzący: dr inż. Torzewski Janusz 20
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261202T085000Z
 DTEND:20261202T102500Z
 SUMMARY:WDM 
 LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii 37\nRodzaj zajęć: -\nProwadzący: dr inż. Białek Kamila 38
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261209T085000Z
-DTEND:20261209T102500Z
-SUMMARY:PGI 
-LOCATION:
-DESCRIPTION:Podstawy grafiki inżynierskiej 19\nRodzaj zajęć: -\nProwadzący: dr inż. Torzewski Janusz 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T113000Z
@@ -389,11 +375,25 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne 45\nRodzaj zajęć: -\nProwadzący: mgr Rybak Anna 46
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260129T123000Z
+DTEND:20260129T140500Z
+SUMMARY:PGI 
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej 19\nRodzaj zajęć: -\nProwadzący: dr inż. Torzewski Janusz 20
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261030T150000Z
 DTEND:20261030T163500Z
 SUMMARY:WDM 
 LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii 37\nRodzaj zajęć: -\nProwadzący: dr inż. Białek Kamila 38
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T150000Z
+DTEND:20260129T163500Z
+SUMMARY:PGI 
+LOCATION:
+DESCRIPTION:Podstawy grafiki inżynierskiej 19\nRodzaj zajęć: -\nProwadzący: dr inż. Torzewski Janusz 20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T174000Z
